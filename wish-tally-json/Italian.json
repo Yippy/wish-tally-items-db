@@ -245,6 +245,9 @@
                                                         }
                 },
     "materials":  {
+                      "waterthatfailedtotranscend":  {
+                                                         "name":  "Acqua non trascesa"
+                                                     },
                       "wishmaker":  {
                                         "name":  "Compidesideri"
                                     },
@@ -500,9 +503,9 @@
                       "sugar":  {
                                     "name":  "Zucchero"
                                 },
-                      "mistveiledgoldelixir":  {
-                                                   "name":  "Elisir d\u0027oro della nebbia"
-                                               },
+                      "keysigil-02":  {
+                                          "name":  "Chiave sigillo"
+                                      },
                       "marcotte":  {
                                        "name":  "Marcotte"
                                    },
@@ -529,6 +532,9 @@
                                      },
                       "hoarfrostcore":  {
                                             "name":  "Nucleo di gelo"
+                                        },
+                      "lakelightlily":  {
+                                            "name":  "Giglio Lagoluce"
                                         },
                       "philosophiesoflight":  {
                                                   "name":  "Filosofie della luce"
@@ -557,6 +563,9 @@
                       "martensomnifix":  {
                                              "name":  "Omnifix di Martens"
                                          },
+                      "oasisgardenstruth":  {
+                                                "name":  "Verità del giardino dell\u0027oasi"
+                                            },
                       "stormbeads":  {
                                          "name":  "Perle della tempesta"
                                      },
@@ -566,9 +575,9 @@
                       "guidetogold":  {
                                           "name":  "Guida all\u0027oro"
                                       },
-                      "rustykoi":  {
-                                       "name":  "Koi bronzeo"
-                                   },
+                      "dustofazoth":  {
+                                          "name":  "Polvere di Azoth"
+                                      },
                       "frog":  {
                                    "name":  "Rana"
                                },
@@ -584,6 +593,9 @@
                       "fadedredsatin":  {
                                             "name":  "Seta rossa sbiadita"
                                         },
+                      "rustykoi":  {
+                                       "name":  "Koi bronzeo"
+                                   },
                       "runicfang":  {
                                         "name":  "Zanna runica"
                                     },
@@ -752,12 +764,18 @@
                       "deadleylineleaves":  {
                                                 "name":  "Foglie geomantiche secche"
                                             },
+                      "oldhandguard":  {
+                                           "name":  "Paramano antico"
+                                       },
                       "operativesstandardpocketwatch":  {
                                                             "name":  "Orologio comune da operativo"
                                                         },
                       "abidingangelfish":  {
                                                "name":  "Pesce angelo perpetuo"
                                            },
+                      "springofthefirstdewdrop":  {
+                                                      "name":  "Sorgente della prima goccia di rugiada"
+                                                  },
                       "dvalinsclaw":  {
                                           "name":  "Artiglio di Dvalin"
                                       },
@@ -803,6 +821,9 @@
                       "chaosaxis":  {
                                         "name":  "Asse del caos"
                                     },
+                      "maintenancemekgoldleader":  {
+                                                       "name":  "Meka manutentore: Leader dorato"
+                                                   },
                       "midlanderpolearmbillet":  {
                                                      "name":  "Billetta della Lancia delle terre centrali"
                                                  },
@@ -938,9 +959,9 @@
                       "agentssacrificialknife":  {
                                                      "name":  "Coltello sacrificale dell\u0027usuraio"
                                                  },
-                      "mistveiledleadelixir":  {
-                                                   "name":  "Elisir di piombo della nebbia"
-                                               },
+                      "ajilenakhnut":  {
+                                           "name":  "Noce di Ajilenakh"
+                                       },
                       "vajradaamethystfragment":  {
                                                       "name":  "Frammento d\u0027ametista Vajrada"
                                                   },
@@ -968,6 +989,9 @@
                       "everamber":  {
                                         "name":  "Ambra perenne"
                                     },
+                      "surgingsacredchalice":  {
+                                                   "name":  "Calice sacro impetuoso"
+                                               },
                       "cabbage":  {
                                       "name":  "Cavolo"
                                   },
@@ -980,9 +1004,9 @@
                       "guidetofreedom":  {
                                              "name":  "Guida alla libertà"
                                          },
-                      "lumidoucebell":  {
-                                            "name":  "Campanula di Lumidouce"
-                                        },
+                      "lightlesseyeofthemaelstrom":  {
+                                                         "name":  "Occhio del vortice senza luce"
+                                                     },
                       "philosophiesoftransience":  {
                                                        "name":  "Filosofie della fugacità"
                                                    },
@@ -1040,9 +1064,9 @@
                       "fontemerunihorn":  {
                                               "name":  "Monocorno del Fontemer"
                                           },
-                      "dustofazoth":  {
-                                          "name":  "Polvere di Azoth"
-                                      },
+                      "lightlessmass":  {
+                                            "name":  "Massa senza luce"
+                                        },
                       "newborntaintedhydrophantasm":  {
                                                           "name":  "Fantasma di Hydro contaminato appena nato"
                                                       },
@@ -1091,9 +1115,6 @@
                       "transoceanicchunk":  {
                                                 "name":  "Frammento transoceanico"
                                             },
-                      "ajilenakhnut":  {
-                                           "name":  "Noce di Ajilenakh"
-                                       },
                       "sharparrowhead":  {
                                              "name":  "Punta di freccia affilata"
                                          },
@@ -1166,6 +1187,9 @@
                       "primogem":  {
                                        "name":  "Primogemma"
                                    },
+                      "worldspanfern":  {
+                                            "name":  "Felce del paradiso"
+                                        },
                       "yellowdye":  {
                                         "name":  "Tintura gialla"
                                     },
@@ -1259,9 +1283,9 @@
                       "silverraveninsignia":  {
                                                   "name":  "Emblema del corvo argentato"
                                               },
-                      "worldspanfern":  {
-                                            "name":  "Felce del paradiso"
-                                        },
+                      "mistveiledgoldelixir":  {
+                                                   "name":  "Elisir d\u0027oro della nebbia"
+                                               },
                       "sugardewbait":  {
                                            "name":  "Esca zuccherosa"
                                        },
@@ -1280,9 +1304,9 @@
                       "desiccatedshell":  {
                                               "name":  "Ossa frantumate"
                                           },
-                      "keysigil-02":  {
-                                          "name":  "Chiave sigillo"
-                                      },
+                      "crab":  {
+                                   "name":  "Granchio"
+                               },
                       "dreamofthedandeliongladiator":  {
                                                            "name":  "Aspirazione del Gladiatore dei denti di leone"
                                                        },
@@ -1385,9 +1409,9 @@
                       "dandelionbookmark":  {
                                                 "name":  "Segnalibro con dente di leone"
                                             },
-                      "crab":  {
-                                   "name":  "Granchio"
-                               },
+                      "perpetualheart":  {
+                                             "name":  "Cuore perpetuo"
+                                         },
                       "crystalchunk":  {
                                            "name":  "Pezzo di cristallo"
                                        },
@@ -1400,9 +1424,6 @@
                       "mistgrass":  {
                                         "name":  "Erbafosca"
                                     },
-                      "wanderersbloomingflower":  {
-                                                      "name":  "Fiore sbocciato del vagabondo"
-                                                  },
                       "congealedpupawax":  {
                                                "name":  "Cera di crisalide solidificata"
                                            },
@@ -1469,6 +1490,9 @@
                       "maskofthekijin":  {
                                              "name":  "Maschera del kijin"
                                          },
+                      "shadowofthewarrior":  {
+                                                 "name":  "Ombra del guerriero"
+                                             },
                       "maplewood":  {
                                         "name":  "Legno d\u0027acero"
                                     },
@@ -1649,9 +1673,9 @@
                       "parasoltalcum":  {
                                             "name":  "Polvere per parasole"
                                         },
-                      "perpetualheart":  {
-                                             "name":  "Cuore perpetuo"
-                                         },
+                      "shrimpmeat":  {
+                                         "name":  "Gamberetti"
+                                     },
                       "brilliantdiamondgemstone":  {
                                                        "name":  "Gemma di diamante brillante"
                                                    },
@@ -1703,9 +1727,9 @@
                       "teachingsofelegance":  {
                                                   "name":  "Insegnamenti dell\u0027eleganza"
                                               },
-                      "oldhandguard":  {
-                                           "name":  "Paramano antico"
-                                       },
+                      "lightlesssilkstring":  {
+                                                  "name":  "Filo di seta senza luce"
+                                              },
                       "guidetoorder":  {
                                            "name":  "Guida all\u0027ordine"
                                        },
@@ -1748,9 +1772,9 @@
                       "prithivatopazchunk":  {
                                                  "name":  "Pezzo di topazio Prithiva"
                                              },
-                      "oasisgardenstruth":  {
-                                                "name":  "Verità del giardino dell\u0027oasi"
-                                            },
+                      "lumidoucebell":  {
+                                            "name":  "Campanula di Lumidouce"
+                                        },
                       "cheese":  {
                                      "name":  "Formaggio"
                                  },
@@ -1835,9 +1859,9 @@
                       "remnantglowofscorchingmight":  {
                                                           "name":  "Ultimo bagliore di possanza infuocata"
                                                       },
-                      "shadowofthewarrior":  {
-                                                 "name":  "Ombra del guerriero"
-                                             },
+                      "mistveiledleadelixir":  {
+                                                   "name":  "Elisir di piombo della nebbia"
+                                               },
                       "dormantfungalnucleus":  {
                                                    "name":  "Nucleo di Miconoide dormiente"
                                                },
@@ -1913,9 +1937,9 @@
                       "mistveiledprimoelixir":  {
                                                     "name":  "Elisir primordiale della nebbia"
                                                 },
-                      "shrimpmeat":  {
-                                         "name":  "Gamberetti"
-                                     },
+                      "wanderersbloomingflower":  {
+                                                      "name":  "Fiore sbocciato del vagabondo"
+                                                  },
                       "adventurersexperience":  {
                                                     "name":  "Esperienza dell\u0027avventuriere"
                                                 },
@@ -2177,6 +2201,41 @@
                                          "region":  "Snezhnaya",
                                          "gender":  "maschio"
                                      },
+                       "charlotte":  {
+                                         "constellations":  {
+                                                                "c2":  {
+                                                                           "name":  "Ricerca della verità",
+                                                                           "effect":  "Quando usa **Inquadratura: Composizione gelida**, se Monsieur Vérité colpisce 1/2/3 (o più) avversari, l\u0027ATT di Charlotte aumenta di un 10%/20%/30% per 12 s."
+                                                                       },
+                                                                "c4":  {
+                                                                           "name":  "Incarico di responsabilità",
+                                                                           "effect":  "Quando **Fermo immagine: Conferma esaustiva** colpisce un avversario marchiato con Sagoma vivida o Immagine al tratto, infligge un 10% di DAN in più e ripristina di 2 l\u0027energia di Charlotte. Questo ripristino può avvenire 5 volte ogni 20 s."
+                                                                       },
+                                                                "c3":  {
+                                                                           "name":  "Obbligo d\u0027indipendenza",
+                                                                           "effect":  "Aumenta di 3 il livello di **Fermo immagine: Conferma esaustiva**.\nIl livello di potenziamento massimo è 15."
+                                                                       },
+                                                                "c5":  {
+                                                                           "name":  "Principio di coscienza",
+                                                                           "effect":  "Aumenta di 3 il livello di **Inquadratura: Composizione gelida**.\nIl livello di potenziamento massimo è 15."
+                                                                       },
+                                                                "c6":  {
+                                                                           "name":  "Sommatoria d\u0027interessi",
+                                                                           "effect":  "Quando gli attacchi normali e caricati del personaggio attivo colpiscono un avversario segnato dall\u0027Immagine al tratto di **Inquadratura: Composizione gelida**, Monsieur Vérité lancia un attacco coordinato che infligge DAN da Cryo ad area e ripristina i PS dei personaggi attivi presenti nella medesima area. I DAN inflitti e il ripristino dei PS sono pari rispettivamente a un 180% e a un 42% dell\u0027ATT di Charlotte. Quest\u0027effetto può attivarsi una volta ogni 6 s, e sia i DAN sia la guarigione apportata sono considerati effetti del Tripudio elementale di Charlotte."
+                                                                       },
+                                                                "c1":  {
+                                                                           "name":  "Verifica dei fatti",
+                                                                           "effect":  "Quando un personaggio riceve effetti di guarigione tramite **Fermo immagine: Conferma esaustiva**, riceve anche un Marchio di verifica che ripristina i suoi PS di una quantità pari a un 80% dell\u0027ATT di Charlotte ogni 2 s. L\u0027effetto dura 6 s."
+                                                                       }
+                                                            },
+                                         "element":  "Cryo",
+                                         "weapontype":  "Catalizzatore",
+                                         "substat":  "ATT",
+                                         "fullname":  "Charlotte",
+                                         "name":  "Charlotte",
+                                         "region":  "Fontaine",
+                                         "gender":  "femmina"
+                                     },
                        "kaeya":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -2422,6 +2481,41 @@
                                     "region":  "Mondstadt",
                                     "gender":  "femmina"
                                 },
+                       "candace":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Fulgore Trapassaluna",
+                                                                         "effect":  "Quando **Rito sacro: Santuario dell\u0027airone** colpisce gli avversari, i PS max di Candace aumentano di un 20% per 15 s."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Giuramento della sentinella",
+                                                                         "effect":  "Riduce il TdR della variante a pressione prolungata di **Rito sacro: Santuario dell\u0027airone** e lo rende uguale al TdR della variante a pressione."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Supplica del cacciatore",
+                                                                         "effect":  "Aumenta di 3 il livello di **Rito sacro: Marea della cutrettola**.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Sguardo eterocromatico",
+                                                                         "effect":  "Aumenta di 3 il livello di **Rito sacro: Santuario dell\u0027airone**.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Trabocco",
+                                                                         "effect":  "Quando i personaggi (esclusa Candace) sotto l\u0027effetto di Lode della Corona cremisi derivante da **Rito sacro: Marea della cutrettola** infliggono DAN elementali agli avversari tramite gli attacchi normali, viene sprigionata un\u0027onda d\u0027urto che infligge DAN da Hydro ad area pari a un 15% dei PS max di Candace.\nQuest\u0027effetto può attivarsi una volta ogni 2,3 s e i DAN che infligge sono considerati DAN da Tripudio elementale."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Ritorno dell\u0027ereditiera delle sabbie scarlatte",
+                                                                         "effect":  "La durata dell\u0027effetto Lode della Corona cremisi innescato da **Rito sacro: Marea della cutrettola** aumenta di 3 s."
+                                                                     }
+                                                          },
+                                       "element":  "Hydro",
+                                       "weapontype":  "Lancia",
+                                       "substat":  "PS",
+                                       "fullname":  "Candace",
+                                       "name":  "Candace",
+                                       "region":  "Sumeru",
+                                       "gender":  "femmina"
+                                   },
                        "wanderer":  {
                                         "constellations":  {
                                                                "c2":  {
@@ -3014,7 +3108,7 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Come legge comanda",
-                                                                             "effect":  "Il talento passivo Eredità del Mare antico riceve un potenziamento: ciascun accumulo di Antiche glorie dragoniche aumenta i DAN da CRIT di Attacco caricato: Equo giudizio di un 14%. L\u0027incremento massimo che è possibile ottenere è pari a un 42%.\nRichiede il talento passivo Eredità del Mare antico."
+                                                                             "effect":  "Il talento passivo Eredità del Mare antico riceve un potenziamento: ciascun accumulo di Antiche glorie draconiche aumenta i DAN da CRIT di Attacco caricato: Equo giudizio di un 14%. L\u0027incremento massimo che è possibile ottenere è pari a un 42%.\nRichiede il talento passivo Eredità del Mare antico."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Corona di clemenza",
@@ -3034,7 +3128,7 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Istituzione onorabile",
-                                                                             "effect":  "Quando Neuvillette entra in campo, ottiene 1 accumulo di Antiche glorie dragoniche del talento passivo Eredità del Mare antico. Richiede il talento passivo Eredità del Mare antico.\nInoltre, la resistenza all\u0027interruzione del personaggio aumenta quando usa Rafforzamento attacco caricato: Valutazione legale e Attacco caricato: Equo giudizio."
+                                                                             "effect":  "Quando Neuvillette entra in campo, ottiene 1 accumulo di Antiche glorie draconiche del talento passivo Eredità del Mare antico. Richiede il talento passivo Eredità del Mare antico.\nInoltre, la resistenza all\u0027interruzione del personaggio aumenta quando usa Rafforzamento attacco caricato: Valutazione legale e Attacco caricato: Equo giudizio."
                                                                          }
                                                               },
                                            "element":  "Hydro",
@@ -4272,41 +4366,41 @@
                                        "region":  "Sumeru",
                                        "gender":  "femmina"
                                    },
-                       "candace":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Fulgore Trapassaluna",
-                                                                         "effect":  "Quando **Rito sacro: Santuario dell\u0027airone** colpisce gli avversari, i PS max di Candace aumentano di un 20% per 15 s."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Giuramento della sentinella",
-                                                                         "effect":  "Riduce il TdR della variante a pressione prolungata di **Rito sacro: Santuario dell\u0027airone** e lo rende uguale al TdR della variante a pressione."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Supplica del cacciatore",
-                                                                         "effect":  "Aumenta di 3 il livello di **Rito sacro: Marea della cutrettola**.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Sguardo eterocromatico",
-                                                                         "effect":  "Aumenta di 3 il livello di **Rito sacro: Santuario dell\u0027airone**.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Trabocco",
-                                                                         "effect":  "Quando i personaggi (esclusa Candace) sotto l\u0027effetto di Lode della Corona cremisi derivante da **Rito sacro: Marea della cutrettola** infliggono DAN elementali agli avversari tramite gli attacchi normali, viene sprigionata un\u0027onda d\u0027urto che infligge DAN da Hydro ad area pari a un 15% dei PS max di Candace.\nQuest\u0027effetto può attivarsi una volta ogni 2,3 s e i DAN che infligge sono considerati DAN da Tripudio elementale."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Ritorno dell\u0027ereditiera delle sabbie scarlatte",
-                                                                         "effect":  "La durata dell\u0027effetto Lode della Corona cremisi innescato da **Rito sacro: Marea della cutrettola** aumenta di 3 s."
-                                                                     }
-                                                          },
-                                       "element":  "Hydro",
-                                       "weapontype":  "Lancia",
-                                       "substat":  "PS",
-                                       "fullname":  "Candace",
-                                       "name":  "Candace",
-                                       "region":  "Sumeru",
-                                       "gender":  "femmina"
-                                   },
+                       "furina":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "\"La donna è mobile qual piuma al vento\"",
+                                                                        "effect":  "Per la durata di **Si rallegri il popolo**, Furina ottiene un 250% di punti Fanfara in più quando i PS dei personaggi nelle vicinanze aumentano o diminuiscono. Ogni punto Fanfara al di sopra del limite aumenta i PS max di Furina di uno 0,35%. L\u0027aumento dei PS max non può superare un 140%."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "\"Ché ci è gradita soltanto qui la vita, nel gran regno infernal!\"",
+                                                                        "effect":  "Quando i Membri del **Salon Solitaire** colpiscono un avversario, o quando il Cantante delle Mille Acque ripristina i PS del personaggio attivo, l\u0027energia di Furina si ripristina di 4. Quest\u0027effetto può attivarsi una volta ogni 5 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "\"Ma il mio mistero è chiuso in me, il nome mio nessun saprà!\"",
+                                                                        "effect":  "Aumenta di 3 il livello di **Si rallegri il popolo**.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "\"Conosco il nome dello straniero! Il suo nome è...\"",
+                                                                        "effect":  "Aumenta di 3 il livello di **Salon Solitaire**.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "\"Libiamo ne\u0027 lieti calici!\"",
+                                                                        "effect":  "Quando usa l\u0027abilità elementale **Salon Solitaire**, Furina entra nello stato di Centro dell\u0027attenzione per 10 s.\nPer la sua durata, gli attacchi normali, caricati e in picchiata di Furina infliggono DAN da Hydro che non possono essere contrastati da altre infusioni elementali. In più, i DAN inflitti aumentano di un 18% dei suoi PS max.\nMentre lo stato è attivo, gli attacchi normali (esclusi quelli di Archè: Seggi sacri e secolari), caricati e in picchiata di Furina che colpiscono gli avversari causano vari effetti ogni 0,1 s, in base alla polarità Archè attuale del personaggio.\n\nArchè: Ousia\nOgni 1 s, i PS di tutti i personaggi del gruppo presenti nelle vicinanze vengono ripristinati in base a un 4% dei PS max di Furina. L\u0027effetto dura 2,9 s e la sua durata si estende quando viene riattivato.\n\nArchè: Pneuma\nI DAN inflitti da attacchi normali (esclusi quelli di Archè: Seggi sacri e secolari), attacchi caricati o impatti di attacchi in picchiata aumentano di un 25% dei PS max di Furina. Quando uno qualsiasi di questi attacchi colpisce un avversario, tutti i personaggi vicini presenti nel gruppo consumano un 1% dei propri PS attuali.\n\nPer ogni iterazione di Centro dell\u0027attenzione, gli effetti descritti possono attivarsi fino a 6 volte. Centro dell\u0027attenzione termina quando i suoi effetti vengono attivati 6 volte o quando la sua durata totale si esaurisce."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "\"L\u0027amore è un uccello ribelle che nessuno può domare\"",
+                                                                        "effect":  "Quando usa **Si rallegri il popolo**, Furina ottiene 150 punti Fanfara.\nIn più, il suo limite di punti Fanfara aumenta di 100."
+                                                                    }
+                                                         },
+                                      "element":  "Hydro",
+                                      "weapontype":  "Spada",
+                                      "substat":  "Tasso di CRIT",
+                                      "fullname":  "Furina",
+                                      "name":  "Furina",
+                                      "region":  "Fontaine",
+                                      "gender":  "femmina"
+                                  },
                        "yaoyao":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -6296,28 +6390,33 @@
                                                         ],
                                                  "effectname":  "Cammino del fuoco solare"
                                              },
-                    "thestringless":  {
-                                          "r3":  [
-                                                     "36%"
-                                                 ],
-                                          "effect":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un {0}.",
-                                          "r2":  [
-                                                     "30%"
-                                                 ],
-                                          "r4":  [
-                                                     "42%"
-                                                 ],
-                                          "r5":  [
-                                                     "48%"
-                                                 ],
-                                          "weapontype":  "Arco",
-                                          "name":  "Monocorda",
-                                          "substat":  "Maestria elementale",
-                                          "r1":  [
-                                                     "24%"
-                                                 ],
-                                          "effectname":  "Canzone senza frecce"
-                                      },
+                    "splendoroftranquilwaters":  {
+                                                     "r3":  [
+                                                                "12%",
+                                                                "21%"
+                                                            ],
+                                                     "effect":  "Quando i PS attuali del personaggio che equipaggia l\u0027arma aumentano o diminuiscono, i DAN da abilità elementale inflitti aumentano di un {0} per 6 s. Massimo 3 accumuli. Quest\u0027effetto può attivarsi una volta ogni 0,2 s. Quando i PS attuali degli altri membri del gruppo aumentano o diminuiscono, i PS max del personaggio che equipaggia l\u0027arma aumentano di un {1} per 6 s. Massimo 2 accumuli. Quest\u0027effetto può attivarsi una volta ogni 0,2 s, anche se il personaggio non si trova in campo.",
+                                                     "r2":  [
+                                                                "10%",
+                                                                "17,5%"
+                                                            ],
+                                                     "r4":  [
+                                                                "14%",
+                                                                "24,5%"
+                                                            ],
+                                                     "r5":  [
+                                                                "16%",
+                                                                "28%"
+                                                            ],
+                                                     "weapontype":  "Spada",
+                                                     "name":  "Fulgore delle placide acque",
+                                                     "substat":  "DAN da CRIT",
+                                                     "r1":  [
+                                                                "8%",
+                                                                "14%"
+                                                            ],
+                                                     "effectname":  "Aurora e crepuscolo sul lago"
+                                                 },
                     "tulaytullahsremembrance":  {
                                                     "r3":  [
                                                                "15%",
@@ -6923,6 +7022,28 @@
                                                       ],
                                                "effectname":  ""
                                            },
+                    "swordofnarzissenkreuz":  {
+                                                  "r3":  [
+                                                             "240%"
+                                                         ],
+                                                  "effect":  "Se il personaggio che equipaggia l\u0027arma non possiede un Archè, i suoi attacchi normali, caricati o in picchiata innescano un\u0027esplosione energetica di Pneuma o Ousia che infligge DAN pari a un {0} dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 12 s. Il tipo di esplosione energetica dipende dal tipo attuale della Spada di Narzissenkreuz.",
+                                                  "r2":  [
+                                                             "200%"
+                                                         ],
+                                                  "r4":  [
+                                                             "280%"
+                                                         ],
+                                                  "r5":  [
+                                                             "320%"
+                                                         ],
+                                                  "weapontype":  "Spada",
+                                                  "name":  "Spada di Narzissenkreuz",
+                                                  "substat":  "ATT",
+                                                  "r1":  [
+                                                             "160%"
+                                                         ],
+                                                  "effectname":  "Lama degli eroi"
+                                              },
                     "wanderingevenstar":  {
                                               "r3":  [
                                                          "36%"
@@ -7872,6 +7993,28 @@
                                                ],
                                         "effectname":  "Al termine del cammino della bestia"
                                     },
+                    "thestringless":  {
+                                          "r3":  [
+                                                     "36%"
+                                                 ],
+                                          "effect":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un {0}.",
+                                          "r2":  [
+                                                     "30%"
+                                                 ],
+                                          "r4":  [
+                                                     "42%"
+                                                 ],
+                                          "r5":  [
+                                                     "48%"
+                                                 ],
+                                          "weapontype":  "Arco",
+                                          "name":  "Monocorda",
+                                          "substat":  "Maestria elementale",
+                                          "r1":  [
+                                                     "24%"
+                                                 ],
+                                          "effectname":  "Canzone senza frecce"
+                                      },
                     "prototypestarglitter":  {
                                                  "r3":  [
                                                             "12%"
@@ -8303,7 +8446,7 @@
                                                         ],
                                                  "r4":  [
                                                             "28%",
-                                                            "\u003e26%",
+                                                            "26%",
                                                             "11"
                                                         ],
                                                  "r5":  [
@@ -9137,7 +9280,7 @@
                                        "specialname":  "Fo-74931"
                                    },
                     "ruindrakeskywatch":  {
-                                              "name":  "Drago delle rovine Guardiano dei cieli",
+                                              "name":  "Drago delle rovine: Guardiano dei cieli",
                                               "specialname":  "Faf-96624"
                                           },
                     "emperoroffireandiron":  {
@@ -9149,7 +9292,7 @@
                                           "specialname":  "Fiordighiaccio Semprefreddo"
                                       },
                     "nobushijintouban":  {
-                                             "name":  "Nobushi Jintouban",
+                                             "name":  "Nobushi: Jintouban",
                                              "specialname":  "Samanosuke ambiguo"
                                          },
                     "fatuiskirmisherelectrohammervanguard":  {
@@ -9197,7 +9340,7 @@
                                              "specialname":  "Minaccia della magione"
                                          },
                     "blackserpentknightrockbreakerax":  {
-                                                            "name":  "Cavaliere del Serpente nero Scure spaccapietra",
+                                                            "name":  "Cavaliere del Serpente nero: Scure spaccapietra",
                                                             "specialname":  "Adalgsio"
                                                         },
                     "geoslime":  {
@@ -9269,17 +9412,17 @@
                                           "specialname":  "Lata Sada"
                                       },
                     "kairagidancingthunder":  {
-                                                  "name":  "Kairagi Tuono danzante",
+                                                  "name":  "Kairagi: Tuono danzante",
                                                   "specialname":  "Samanosuke ambiguo"
                                               },
                     "mutantelectroslime":  {
                                                "name":  "Melmoso di Electro mutante",
                                                "specialname":  "Elementale rotolante"
                                            },
-                    "hydrospecter":  {
-                                         "name":  "Spettro di Hydro",
-                                         "specialname":  "Spirito elementale vagabondo"
-                                     },
+                    "treasurehoarderscrusher":  {
+                                                    "name":  "Cacciatore di tesori demolitore",
+                                                    "specialname":  "Dito d\u0027oro"
+                                                },
                     "eremiteravenbeakhalberdier":  {
                                                        "name":  "Eremita con mazzapicchio",
                                                        "specialname":  "Discendente del deserto marziale"
@@ -9293,7 +9436,7 @@
                                                "specialname":  "Discendente del deserto marziale"
                                            },
                     "kairagifierymight":  {
-                                              "name":  "Kairagi Forza infuocata",
+                                              "name":  "Kairagi: Forza infuocata",
                                               "specialname":  "Samanosuke ambiguo"
                                           },
                     "largehydroslime":  {
@@ -9352,6 +9495,10 @@
                                       "name":  "Geosauro",
                                       "specialname":  "Bestia di Geo granitica"
                                   },
+                    "lupusboreasdominatorofwolves":  {
+                                                         "name":  "Lupus Boreas, Signore dei lupi",
+                                                         "specialname":  "Boreas"
+                                                     },
                     "eremitesunfrost":  {
                                             "name":  "Eremita Gelosolare",
                                             "specialname":  "Mercenario del gelo"
@@ -9369,7 +9516,7 @@
                                        "specialname":  "Ra-11235"
                                    },
                     "blackserpentknightwindcutter":  {
-                                                         "name":  "Cavaliere del Serpente nero Fendivento",
+                                                         "name":  "Cavaliere del Serpente nero: Fendivento",
                                                          "specialname":  "Adalgsio"
                                                      },
                     "suppressionspecialistmek":  {
@@ -9393,7 +9540,7 @@
                                                       "specialname":  "Bestia delle profondità marine"
                                                   },
                     "nobushikikouban":  {
-                                            "name":  "Nobushi Kikouban",
+                                            "name":  "Nobushi: Kikouban",
                                             "specialname":  "Samanosuke ambiguo"
                                         },
                     "primalconstructprospector":  {
@@ -9401,7 +9548,7 @@
                                                       "specialname":  "Architetto del Palazzo nel deserto"
                                                   },
                     "abysslectorvioletlightning":  {
-                                                       "name":  "Cantore dell\u0027Abisso Fulmine viola",
+                                                       "name":  "Cantore dell\u0027Abisso: Fulmine viola",
                                                        "specialname":  "Alberthonar"
                                                    },
                     "groundedhydroshroom":  {
@@ -9469,7 +9616,7 @@
                                                "specialname":  "Anna"
                                            },
                     "abyssheraldwickedtorrents":  {
-                                                      "name":  "Apostolo dell\u0027Abisso Torrenti maligni",
+                                                      "name":  "Apostolo dell\u0027Abisso: Torrenti maligni",
                                                       "specialname":  "Wynfled"
                                                   },
                     "groundedgeoshroom":  {
@@ -9481,8 +9628,8 @@
                                                            "specialname":  "Dito d\u0027oro"
                                                        },
                     "shadowyhuskdefender":  {
-                                                "name":  "Armatura oscura difensore",
-                                                "specialname":  "Armatura oscura difensore"
+                                                "name":  "Armatura oscura: Difensore",
+                                                "specialname":  "Armatura oscura: Difensore"
                                             },
                     "goldenwolflord":  {
                                            "name":  "Signore dei lupi dorato",
@@ -9525,7 +9672,7 @@
                                         "specialname":  "Ser.472030"
                                     },
                     "abysslectorfathomlessflames":  {
-                                                        "name":  "Cantore dell\u0027Abisso Fiamme imperscrutabili",
+                                                        "name":  "Cantore dell\u0027Abisso: Fiamme imperscrutabili",
                                                         "specialname":  "Alberthonar"
                                                     },
                     "largeanemoslime":  {
@@ -9548,6 +9695,10 @@
                                                "name":  "Miconoide vorticoso di Cryo",
                                                "specialname":  "Gira per vincere"
                                            },
+                    "alldevouringnarwhal":  {
+                                                "name":  "Narvalo Divoramondi",
+                                                "specialname":  "Visitatore dalla sponda opposta del Mare di stelle"
+                                            },
                     "cryoslime":  {
                                       "name":  "Melmoso di Cryo",
                                       "specialname":  "Elementale rotolante"
@@ -9562,7 +9713,7 @@
                                      },
                     "maguukenki":  {
                                        "name":  "Maguu Kenki",
-                                       "specialname":  "Macchina ingegnosa Marionetta spadaccina"
+                                       "specialname":  "Macchina ingegnosa: Marionetta spadaccina"
                                    },
                     "perpetualmechanicalarray":  {
                                                      "name":  "Macchinario perpetuo",
@@ -9577,8 +9728,8 @@
                                            "specialname":  "Adolphus"
                                        },
                     "shadowyhusklinebreaker":  {
-                                                   "name":  "Armatura oscura rompifile",
-                                                   "specialname":  "Armatura oscura rompifile"
+                                                   "name":  "Armatura oscura: Rompifile",
+                                                   "specialname":  "Armatura oscura: Rompifile"
                                                },
                     "largeovergrownbreacherprimus":  {
                                                          "name":  "Primoplastus della Faglia Granfiore gigante",
@@ -9630,7 +9781,7 @@
                                            },
                     "icewindsuite":  {
                                          "name":  "Suite del Vento glaciale",
-                                         "specialname":  "Suite del Vento glaciale - Dualità, lato B"
+                                         "specialname":  "Suite del Vento glaciale: Dualità, lato B"
                                      },
                     "frostoperative":  {
                                            "name":  "Operativo del Gelo",
@@ -9657,7 +9808,7 @@
                                          "specialname":  "Forma di vita evolutasi dal Fontemer"
                                      },
                     "abyssheraldfrostfall":  {
-                                                 "name":  "Apostolo dell\u0027Abisso Cascata algida",
+                                                 "name":  "Apostolo dell\u0027Abisso: Cascata algida",
                                                  "specialname":  "Wynfled"
                                              },
                     "primogeovishap":  {
@@ -9716,10 +9867,6 @@
                                            "name":  "Ipostasi di Cryo",
                                            "specialname":  "Daleth"
                                        },
-                    "treasurehoarderscrusher":  {
-                                                    "name":  "Cacciatore di tesori demolitore",
-                                                    "specialname":  "Dito d\u0027oro"
-                                                },
                     "treasurehoardersgravedigger":  {
                                                         "name":  "Cacciatore di tesori becchino",
                                                         "specialname":  "Dito d\u0027oro"
@@ -9740,10 +9887,10 @@
                                               "name":  "Miconoide oblungo di Geo",
                                               "specialname":  "Super elastico"
                                           },
-                    "lupusboreasdominatorofwolves":  {
-                                                         "name":  "Lupus Boreas, Signore dei lupi",
-                                                         "specialname":  "Boreas"
-                                                     },
+                    "hydrospecter":  {
+                                         "name":  "Spettro di Hydro",
+                                         "specialname":  "Spirito elementale vagabondo"
+                                     },
                     "eremitecrossbow":  {
                                             "name":  "Eremita balestriere",
                                             "specialname":  "Discendente del deserto marziale"
@@ -9793,7 +9940,7 @@
                                               "specialname":  "Guida al Paradiso oscuro"
                                           },
                     "nobushihitsukeban":  {
-                                              "name":  "Nobushi Hitsukeban",
+                                              "name":  "Nobushi: Hitsukeban",
                                               "specialname":  "Samanosuke ambiguo"
                                           },
                     "deepwaterassaultmek":  {
@@ -9845,7 +9992,7 @@
                                           "specialname":  "Elementale puro irrequieto"
                                       },
                     "ruindrakeearthguard":  {
-                                                "name":  "Drago delle rovine Guardiano della terra",
+                                                "name":  "Drago delle rovine: Guardiano della terra",
                                                 "specialname":  "Faf-96624"
                                             },
                     "stretchyelectrofungus":  {
@@ -9865,8 +10012,8 @@
                                        "specialname":  "Scivola-e-slitta"
                                    },
                     "shadowyhuskstandardbearer":  {
-                                                      "name":  "Armatura oscura alfiere",
-                                                      "specialname":  "Armatura oscura alfiere"
+                                                      "name":  "Armatura oscura: Alfiere",
+                                                      "specialname":  "Armatura oscura: Alfiere"
                                                   },
                     "largepyroslime":  {
                                            "name":  "Melmoso di Pyro gigante",
@@ -9928,6 +10075,10 @@
                                                              "name":  "Cacciatore di tesori pozionista di Electro",
                                                              "specialname":  "Dito d\u0027oro"
                                                          },
+                    "hydrotulpa":  {
+                                       "name":  "Tulpa di Hydro",
+                                       "specialname":  "Eggregora destata"
+                                   },
                     "ruindefender":  {
                                          "name":  "Difensore delle rovine",
                                          "specialname":  "Ald-32624"
