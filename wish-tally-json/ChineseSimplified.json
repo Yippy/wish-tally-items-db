@@ -5309,9 +5309,9 @@
                                                                       "10.5%"
                                                                   ]
                                                    },
+                                            "substatText":  "元素充能效率",
                                             "weaponText":  "单手剑",
                                             "name":  "腐殖之剑",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "元素战技造成的伤害增加\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，元素战技的暴击率提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                             "r1":  {
                                                        "description":  "元素战技造成的伤害增加16%，元素战技的暴击率提升6%。",
@@ -5355,9 +5355,9 @@
                                                                               "46"
                                                                           ]
                                                            },
+                                                    "substatText":  "元素精通",
                                                     "weaponText":  "法器",
                                                     "name":  "千夜浮梦",
-                                                    "substat":  null,
                                                     "effectTemplateRaw":  "队伍中每个其他角色，都会依据元素类型与装备者相同与否，为装备者提供提升效果。相同：元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点；不同：装备者元素类型的元素伤害加成提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。上述提升效果每种至多叠加3层。此外，队伍中装备者以外的附近角色的元素精通提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e点，多件同名武器产生的此效果可以叠加。",
                                                     "r1":  {
                                                                "description":  "队伍中每个其他角色，都会依据元素类型与装备者相同与否，为装备者提供提升效果。相同：元素精通提升32点；不同：装备者元素类型的元素伤害加成提升10%。上述提升效果每种至多叠加3层。此外，队伍中装备者以外的附近角色的元素精通提升40点，多件同名武器产生的此效果可以叠加。",
@@ -5394,9 +5394,9 @@
                                                                                     "42%"
                                                                                 ]
                                                                  },
+                                                          "substatText":  "生命值",
                                                           "weaponText":  "法器",
                                                           "name":  "讨龙英杰谭",
-                                                          "substat":  null,
                                                           "effectTemplateRaw":  "主动切换角色时，新登场的角色攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续10秒。该效果每20秒只能触发一次。",
                                                           "r1":  {
                                                                      "description":  "主动切换角色时，新登场的角色攻击力提升24%，持续10秒。该效果每20秒只能触发一次。",
@@ -5435,9 +5435,9 @@
                                                                 "17.5/35/52.5/84%"
                                                             ]
                                              },
+                                      "substatText":  "暴击率",
                                       "weaponText":  "弓",
                                       "name":  "冬极白星",
-                                      "substat":  null,
                                       "effectTemplateRaw":  "元素战技和元素爆发造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；普通攻击、重击、元素战技或元素爆发命中敌人后，将产生1层持续12秒的「白夜极星」效果。处于1/2/3/4层「白夜极星」效果下时，攻击力将提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。由普通攻击、重击、元素战技或元素爆发产生的「白夜极星」将分别独立存在。",
                                       "r1":  {
                                                  "description":  "元素战技和元素爆发造成的伤害提高12%；普通攻击、重击、元素战技或元素爆发命中敌人后，将产生1层持续12秒的「白夜极星」效果。处于1/2/3/4层「白夜极星」效果下时，攻击力将提高10/20/30/48%。由普通攻击、重击、元素战技或元素爆发产生的「白夜极星」将分别独立存在。",
@@ -5477,9 +5477,9 @@
                                                                        "84"
                                                                    ]
                                                     },
+                                             "substatText":  "攻击力",
                                              "weaponText":  "长柄武器",
                                              "name":  "风信之锋",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "触发元素反应后的10秒内，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，元素精通提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e点。",
                                              "r1":  {
                                                         "description":  "触发元素反应后的10秒内，攻击力提升12%，元素精通提升48点。",
@@ -5523,9 +5523,9 @@
                                                                       "262.5"
                                                                   ]
                                                    },
+                                            "substatText":  "攻击力",
                                             "weaponText":  "单手剑",
                                             "name":  "海渊终曲",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "施放元素战技时，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续15秒，并赋予生命值上限25%的生命之契，该效果每10秒至多触发一次。生命之契清除时，基于清除值的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e提升至多\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e点攻击力，持续15秒。",
                                             "r1":  {
                                                        "description":  "施放元素战技时，攻击力提升12%，持续15秒，并赋予生命值上限25%的生命之契，该效果每10秒至多触发一次。生命之契清除时，基于清除值的2.4%提升至多150点攻击力，持续15秒。",
@@ -5566,9 +5566,9 @@
                                                                     "45%"
                                                                 ]
                                                  },
+                                          "substatText":  "生命值",
                                           "weaponText":  "双手剑",
                                           "name":  "铁影阔剑",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "生命值低于\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e时，重击不会轻易被打断，并提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e重击伤害。",
                                           "r1":  {
                                                      "description":  "生命值低于70%时，重击不会轻易被打断，并提高30%重击伤害。",
@@ -5608,9 +5608,9 @@
                                                                   "35%"
                                                               ]
                                                },
+                                        "substatText":  "元素充能效率",
                                         "weaponText":  "法器",
                                         "name":  "暗巷的酒与诗",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，持续5秒。",
                                         "r1":  {
                                                    "description":  "普通攻击命中敌人后，冲刺或替代冲刺的能力消耗的体力降低14%，持续5秒。此外，使用冲刺或替代冲刺的能力后，攻击力提升20%，持续5秒。",
@@ -5646,9 +5646,9 @@
                                                                  "14%"
                                                              ]
                                               },
+                                       "substatText":  "生命值",
                                        "weaponText":  "弓",
                                        "name":  "反曲弓",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "击败敌人时，恢复\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e生命值。",
                                        "r1":  {
                                                   "description":  "击败敌人时，恢复8%生命值。",
@@ -5687,9 +5687,9 @@
                                                                       "9"
                                                                   ]
                                                    },
+                                            "substatText":  "攻击力",
                                             "weaponText":  "法器",
                                             "name":  "昭心",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "普通攻击与重击命中时，有50%几率发射一枚昭心法球，造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力伤害，至多在敌人之间弹射4次。该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒至多触发一次。",
                                             "r1":  {
                                                        "description":  "普通攻击与重击命中时，有50%几率发射一枚昭心法球，造成240%攻击力伤害，至多在敌人之间弹射4次。该效果每12秒至多触发一次。",
@@ -5725,9 +5725,9 @@
                                                                   "42%"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "双手剑",
                                         "name":  "浪影阔剑",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "受到治疗后，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续8秒。角色处于队伍后台也能触发。",
                                         "r1":  {
                                                    "description":  "受到治疗后，攻击力提升24%，持续8秒。角色处于队伍后台也能触发。",
@@ -5766,9 +5766,9 @@
                                                                             "3.5"
                                                                         ]
                                                          },
+                                                  "substatText":  "生命值",
                                                   "weaponText":  "单手剑",
                                                   "name":  "船坞长剑",
-                                                  "substat":  null,
                                                   "effectTemplateRaw":  "受到治疗或进行治疗时，将赋予一枚坚忍标记，持续30秒，至多拥有三枚坚忍标记。施放元素战技或元素爆发时，将消耗所有的坚忍标记，产生持续10秒的「奋起」效果：每枚消耗的坚忍标记提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点元素精通，并在效果产生2秒后，每枚消耗的坚忍标记为装备者恢复\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e点元素能量。每15秒至多触发一次奋起效果；角色处于队伍后台时也能获得坚忍标记。",
                                                   "r1":  {
                                                              "description":  "受到治疗或进行治疗时，将赋予一枚坚忍标记，持续30秒，至多拥有三枚坚忍标记。施放元素战技或元素爆发时，将消耗所有的坚忍标记，产生持续10秒的「奋起」效果：每枚消耗的坚忍标记提高40点元素精通，并在效果产生2秒后，每枚消耗的坚忍标记为装备者恢复2点元素能量。每15秒至多触发一次奋起效果；角色处于队伍后台时也能获得坚忍标记。",
@@ -5804,9 +5804,9 @@
                                                                           "14%"
                                                                       ]
                                                        },
+                                                "substatText":  "防御力",
                                                 "weaponText":  "双手剑",
                                                 "name":  "白铁大剑",
-                                                "substat":  null,
                                                 "effectTemplateRaw":  "击败敌人时，恢复\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e生命值。",
                                                 "r1":  {
                                                            "description":  "击败敌人时，恢复8%生命值。",
@@ -5841,9 +5841,9 @@
                                                                     "35%"
                                                                 ]
                                                  },
+                                          "substatText":  "元素精通",
                                           "weaponText":  "单手剑",
                                           "name":  "暗铁剑",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "触发超载、超导、感电、原激化、超激化、超绽放或雷元素扩散反应后的12秒内，攻击力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                           "r1":  {
                                                      "description":  "触发超载、超导、感电、原激化、超激化、超绽放或雷元素扩散反应后的12秒内，攻击力提高20%。",
@@ -5886,9 +5886,9 @@
                                                               "21%"
                                                           ]
                                            },
+                                    "substatText":  "生命值",
                                     "weaponText":  "双手剑",
                                     "name":  "钟剑",
-                                    "substat":  null,
                                     "effectTemplateRaw":  "受到伤害时，生成一个伤害吸收量等同于生命值上限\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的护盾，持续10秒或直到护盾失效,每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。角色处于护盾庇护下时，造成的伤害提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。",
                                     "r1":  {
                                                "description":  "受到伤害时，生成一个伤害吸收量等同于生命值上限20%的护盾，持续10秒或直到护盾失效,每45秒只能触发一次。角色处于护盾庇护下时，造成的伤害提升12%。",
@@ -5925,9 +5925,9 @@
                                                                       "21%"
                                                                   ]
                                                    },
+                                            "substatText":  "暴击伤害",
                                             "weaponText":  "法器",
                                             "name":  "黑岩绯玉",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "击败敌人后，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续30秒。该效果至多叠加3层，每层持续时间独立。",
                                             "r1":  {
                                                        "description":  "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
@@ -5962,9 +5962,9 @@
                                                                      "21%"
                                                                  ]
                                                   },
+                                           "substatText":  "暴击伤害",
                                            "weaponText":  "长柄武器",
                                            "name":  "黑岩刺枪",
-                                           "substat":  null,
                                            "effectTemplateRaw":  "击败敌人后，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续30秒。该效果至多叠加3层，每层持续时间独立。",
                                            "r1":  {
                                                       "description":  "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
@@ -5999,9 +5999,9 @@
                                                                          "33"
                                                                      ]
                                                       },
+                                               "substatText":  "元素充能效率",
                                                "weaponText":  "法器",
                                                "name":  "盈满之实",
-                                               "substat":  null,
                                                "effectTemplateRaw":  "触发元素反应后，获得「盈缺」效果：元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点，攻击力降低5%。每0.3秒至多获得一层盈缺效果，至多叠加5层。未触发元素反应时将每6秒失去一层。角色处于队伍后台时也能触发效果。",
                                                "r1":  {
                                                           "description":  "触发元素反应后，获得「盈缺」效果：元素精通提升24点，攻击力降低5%。每0.3秒至多获得一层盈缺效果，至多叠加5层。未触发元素反应时将每6秒失去一层。角色处于队伍后台时也能触发效果。",
@@ -6044,9 +6044,9 @@
                                                                      "35%"
                                                                  ]
                                                   },
+                                           "substatText":  "元素充能效率",
                                            "weaponText":  "弓",
                                            "name":  "终末嗟叹之诗",
-                                           "substat":  null,
                                            "effectTemplateRaw":  "飘游风中的「千年的大乐章」的一部分。元素精通提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点；元素战技或元素爆发命中敌人时，角色获得一枚追思之符，每0.2秒内至多触发一次，角色处于队伍后台也能触发。拥有4枚追思之符时，将消耗所有追思之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·别离之歌」效果：元素精通提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e点，攻击力提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
                                            "r1":  {
                                                       "description":  "飘游风中的「千年的大乐章」的一部分。元素精通提高60点；元素战技或元素爆发命中敌人时，角色获得一枚追思之符，每0.2秒内至多触发一次，角色处于队伍后台也能触发。拥有4枚追思之符时，将消耗所有追思之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·别离之歌」效果：元素精通提高100点，攻击力提升20%。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
@@ -6083,9 +6083,9 @@
                                                                        "7%"
                                                                    ]
                                                     },
+                                             "substatText":  "物理伤害加成",
                                              "weaponText":  "单手剑",
                                              "name":  "试作斩岩",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "普通攻击或重击命中时，攻击力和防御力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续6秒，最多叠加4层。该效果每0.3秒只能触发一次。",
                                              "r1":  {
                                                         "description":  "普通攻击或重击命中时，攻击力和防御力提高4%，持续6秒，最多叠加4层。该效果每0.3秒只能触发一次。",
@@ -6100,9 +6100,9 @@
                                            "r5":  null,
                                            "r2":  null,
                                            "r4":  null,
+                                           "substatText":  null,
                                            "weaponText":  "法器",
                                            "name":  "口袋魔导书",
-                                           "substat":  null,
                                            "effectTemplateRaw":  null,
                                            "r1":  null,
                                            "effectName":  null
@@ -6136,9 +6136,9 @@
                                                                        "4.5"
                                                                    ]
                                                     },
+                                             "substatText":  "元素精通",
                                              "weaponText":  "长柄武器",
                                              "name":  "喜多院十文字",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "元素战技造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
                                              "r1":  {
                                                         "description":  "元素战技造成的伤害提升6%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复3点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
@@ -6178,9 +6178,9 @@
                                                                            "14/28/49%"
                                                                        ]
                                                         },
+                                                 "substatText":  "暴击伤害",
                                                  "weaponText":  "单手剑",
                                                  "name":  "雾切之回光",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e所有元素伤害加成，并能获得「雾切之巴印」的威势。雾切之巴印：持有1/2/3层雾切之巴印时，获得\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e自己的元素类型的元素伤害加成。在下列情况下，角色将各获得1层雾切之巴印：普通攻击造成元素伤害时，持续5秒；施放元素爆发时，持续10秒；此外，角色元素能量低于100%时，将获得1层雾切之巴印，此雾切之巴印会在角色的元素能量充满时消失。每层雾切之巴印的持续时间独立计算。",
                                                  "r1":  {
                                                             "description":  "获得12%所有元素伤害加成，并能获得「雾切之巴印」的威势。雾切之巴印：持有1/2/3层雾切之巴印时，获得8/16/28%自己的元素类型的元素伤害加成。在下列情况下，角色将各获得1层雾切之巴印：普通攻击造成元素伤害时，持续5秒；施放元素爆发时，持续10秒；此外，角色元素能量低于100%时，将获得1层雾切之巴印，此雾切之巴印会在角色的元素能量充满时消失。每层雾切之巴印的持续时间独立计算。",
@@ -6224,9 +6224,9 @@
                                                                   "1.6%"
                                                               ]
                                                },
+                                        "substatText":  "暴击伤害",
                                         "weaponText":  "长柄武器",
                                         "name":  "护摩之杖",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "生命值提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。此外，基于装备该武器的角色生命值上限的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e基于生命值上限的攻击力提升。",
                                         "r1":  {
                                                    "description":  "生命值提升20%。此外，基于装备该武器的角色生命值上限的0.8%，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得1%基于生命值上限的攻击力提升。",
@@ -6267,9 +6267,9 @@
                                                                    "84"
                                                                ]
                                                 },
+                                         "substatText":  "元素精通",
                                          "weaponText":  "双手剑",
                                          "name":  "饰铁之花",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "元素战技命中敌人或触发元素反应后的8秒内，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，元素精通提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e点。",
                                          "r1":  {
                                                     "description":  "元素战技命中敌人或触发元素反应后的8秒内，攻击力提升12%，元素精通提升48点。",
@@ -6309,9 +6309,9 @@
                                                                    "7%"
                                                                ]
                                                 },
+                                         "substatText":  "攻击力",
                                          "weaponText":  "法器",
                                          "name":  "尘世之锁",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "护盾强效提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。攻击命中后的8秒内，攻击力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
                                          "r1":  {
                                                     "description":  "护盾强效提升20%。攻击命中后的8秒内，攻击力提升4%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
@@ -6347,9 +6347,9 @@
                                                                   "28%"
                                                               ]
                                                },
+                                        "substatText":  "元素精通",
                                         "weaponText":  "长柄武器",
                                         "name":  "贯月矢",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「苏生之叶」。拾取苏生之叶的角色攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续12秒。每20秒至多通过这种方式产生一枚苏生之叶。角色处于队伍后台时也能触发。",
                                         "r1":  {
                                                    "description":  "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「苏生之叶」。拾取苏生之叶的角色攻击力提升16%，持续12秒。每20秒至多通过这种方式产生一枚苏生之叶。角色处于队伍后台时也能触发。",
@@ -6388,9 +6388,9 @@
                                                                   "2.1%"
                                                               ]
                                                },
+                                        "substatText":  "物理伤害加成",
                                         "weaponText":  "弓",
                                         "name":  "钢轮弓",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "普通攻击与重击命中时，提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力与\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e普通攻击速度。该效果持续6秒，最多可以叠加4层，每0.3秒只能触发一次。",
                                         "r1":  {
                                                    "description":  "普通攻击与重击命中时，提升4%攻击力与1.2%普通攻击速度。该效果持续6秒，最多可以叠加4层，每0.3秒只能触发一次。",
@@ -6426,9 +6426,9 @@
                                                                       "28%"
                                                                   ]
                                                    },
+                                            "substatText":  "攻击力",
                                             "weaponText":  "弓",
                                             "name":  "静谧之曲",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "受到治疗后，造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续8秒。角色处于队伍后台也能触发。",
                                             "r1":  {
                                                        "description":  "受到治疗后，造成的伤害提升16%，持续8秒。角色处于队伍后台也能触发。",
@@ -6467,9 +6467,9 @@
                                                               "31.5%"
                                                           ]
                                            },
+                                    "substatText":  "暴击率",
                                     "weaponText":  "双手剑",
                                     "name":  "裁断",
-                                    "substat":  null,
                                     "effectTemplateRaw":  "攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。",
                                     "r1":  {
                                                "description":  "攻击力提升20%；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升18%，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。",
@@ -6509,9 +6509,9 @@
                                                                              "49%"
                                                                          ]
                                                           },
+                                                   "substatText":  "暴击率",
                                                    "weaponText":  "长柄武器",
                                                    "name":  "赤沙之杖",
-                                                   "substat":  null,
                                                    "effectTemplateRaw":  "基于装备者元素精通的\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，获得攻击力加成，该效果至多叠加3层。",
                                                    "r1":  {
                                                               "description":  "基于装备者元素精通的52%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的28%，获得攻击力加成，该效果至多叠加3层。",
@@ -6547,9 +6547,9 @@
                                                                  "35%"
                                                              ]
                                               },
+                                       "substatText":  "元素精通",
                                        "weaponText":  "法器",
                                        "name":  "翡玉法球",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                        "r1":  {
                                                   "description":  "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高20%。",
@@ -6588,9 +6588,9 @@
                                                                     "7.5"
                                                                 ]
                                                  },
+                                          "substatText":  "元素充能效率",
                                           "weaponText":  "长柄武器",
                                           "name":  "西风长枪",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "攻击造成暴击时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                           "r1":  {
                                                      "description":  "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
@@ -6630,9 +6630,9 @@
                                                                   "6%"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "长柄武器",
                                         "name":  "千岩长枪",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "队伍中每有一位璃月角色，装备此武器的角色便获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力提升与\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e暴击率提升。至多获得4层提升效果。",
                                         "r1":  {
                                                    "description":  "队伍中每有一位璃月角色，装备此武器的角色便获得7%攻击力提升与3%暴击率提升。至多获得4层提升效果。",
@@ -6672,9 +6672,9 @@
                                                                     "35%"
                                                                 ]
                                                  },
+                                          "substatText":  "暴击伤害",
                                           "weaponText":  "弓",
                                           "name":  "若水",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "生命值提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。周围存在敌人时，装备该武器的角色造成的伤害都会提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，不论该角色处于场上或是处于队伍后台。",
                                           "r1":  {
                                                      "description":  "生命值提升16%。周围存在敌人时，装备该武器的角色造成的伤害都会提升20%，不论该角色处于场上或是处于队伍后台。",
@@ -6710,9 +6710,9 @@
                                                                  "21%"
                                                              ]
                                               },
+                                       "substatText":  "元素精通",
                                        "weaponText":  "法器",
                                        "name":  "魔导绪论",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "对处于水元素或雷元素影响下的敌人，造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                        "r1":  {
                                                   "description":  "对处于水元素或雷元素影响下的敌人，造成的伤害提高12%。",
@@ -6727,9 +6727,9 @@
                                         "r5":  null,
                                         "r2":  null,
                                         "r4":  null,
+                                        "substatText":  null,
                                         "weaponText":  "双手剑",
                                         "name":  "佣兵重剑",
-                                        "substat":  null,
                                         "effectTemplateRaw":  null,
                                         "r1":  null,
                                         "effectName":  null
@@ -6759,9 +6759,9 @@
                                                                         "1.75%"
                                                                     ]
                                                      },
+                                              "substatText":  "元素充能效率",
                                               "weaponText":  "法器",
                                               "name":  "异世界行记",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "获得元素微粒或元素晶球时，恢复\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e生命值。",
                                               "r1":  {
                                                          "description":  "获得元素微粒或元素晶球时，恢复1%生命值。",
@@ -6776,9 +6776,9 @@
                                       "r5":  null,
                                       "r2":  null,
                                       "r4":  null,
+                                      "substatText":  null,
                                       "weaponText":  "长柄武器",
                                       "name":  "铁尖枪",
-                                      "substat":  null,
                                       "effectTemplateRaw":  null,
                                       "r1":  null,
                                       "effectName":  null
@@ -6808,9 +6808,9 @@
                                                                         "21%"
                                                                     ]
                                                      },
+                                              "substatText":  "暴击伤害",
                                               "weaponText":  "双手剑",
                                               "name":  "黑岩斩刀",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "击败敌人后，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续30秒。该效果至多叠加3层，每层持续时间独立。",
                                               "r1":  {
                                                          "description":  "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
@@ -6845,9 +6845,9 @@
                                                                    "17.5%"
                                                                ]
                                                 },
+                                         "substatText":  "元素充能效率",
                                          "weaponText":  "法器",
                                          "name":  "白辰之环",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
                                          "r1":  {
                                                     "description":  "装备该武器的角色触发雷元素相关反应后，队伍中附近的与该元素反应相关的元素类型的角色，获得10%对应元素的元素伤害加成，持续6秒。通过这种方式，角色获得的元素伤害加成无法叠加。",
@@ -6886,9 +6886,9 @@
                                                                        "7%"
                                                                    ]
                                                     },
+                                             "substatText":  "攻击力",
                                              "weaponText":  "长柄武器",
                                              "name":  "贯虹之槊",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "护盾强效提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。攻击命中后的8秒内，攻击力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
                                              "r1":  {
                                                         "description":  "护盾强效提升20%。攻击命中后的8秒内，攻击力提升4%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
@@ -6924,9 +6924,9 @@
                                                                          "9%"
                                                                      ]
                                                       },
+                                               "substatText":  "物理伤害加成",
                                                "weaponText":  "双手剑",
                                                "name":  "飞天大御剑",
-                                               "substat":  null,
                                                "effectTemplateRaw":  "普通攻击和重击命中时，攻击力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
                                                "r1":  {
                                                           "description":  "普通攻击和重击命中时，攻击力提高6%，持续6秒，最多叠加4层。该效果每0.5秒只能触发一次。",
@@ -6969,9 +6969,9 @@
                                                                          "45%"
                                                                      ]
                                                       },
+                                               "substatText":  "元素充能效率",
                                                "weaponText":  "长柄武器",
                                                "name":  "薙草之稻光",
-                                               "substat":  null,
                                                "effectTemplateRaw":  "攻击力获得提升，提升程度相当于元素充能效率超出100%部分的\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，至多通过这种方式提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。施放元素爆发后的12秒内，元素充能效率提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。",
                                                "r1":  {
                                                           "description":  "攻击力获得提升，提升程度相当于元素充能效率超出100%部分的28%，至多通过这种方式提升80%。施放元素爆发后的12秒内，元素充能效率提升30%。",
@@ -7008,9 +7008,9 @@
                                                               "280%"
                                                           ]
                                            },
+                                    "substatText":  "攻击力",
                                     "weaponText":  "长柄武器",
                                     "name":  "钺矛",
-                                    "substat":  null,
                                     "effectTemplateRaw":  "对普通攻击命中的敌人造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力的额外伤害。该效果每10秒只能触发一次。",
                                     "r1":  {
                                                "description":  "对普通攻击命中的敌人造成160%攻击力的额外伤害。该效果每10秒只能触发一次。",
@@ -7049,9 +7049,9 @@
                                                                          "7.5"
                                                                      ]
                                                       },
+                                               "substatText":  "元素充能效率",
                                                "weaponText":  "双手剑",
                                                "name":  "西风大剑",
-                                               "substat":  null,
                                                "effectTemplateRaw":  "攻击造成暴击时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                                "r1":  {
                                                           "description":  "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
@@ -7087,9 +7087,9 @@
                                                                       "10.5"
                                                                   ]
                                                    },
+                                            "substatText":  "攻击力",
                                             "weaponText":  "单手剑",
                                             "name":  "天目影打刀",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "施放元素战技后，获得1个胤种，该效果每5秒至多触发一次。胤种持续30秒，至多同时存在3个。施放元素爆发后，会清除持有的所有胤种，并在2秒之后，基于消耗的胤种数量，每个为该角色恢复\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点元素能量。",
                                             "r1":  {
                                                        "description":  "施放元素战技后，获得1个胤种，该效果每5秒至多触发一次。胤种持续30秒，至多同时存在3个。施放元素爆发后，会清除持有的所有胤种，并在2秒之后，基于消耗的胤种数量，每个为该角色恢复6点元素能量。",
@@ -7128,9 +7128,9 @@
                                                                     "21%"
                                                                 ]
                                                  },
+                                          "substatText":  "暴击伤害",
                                           "weaponText":  "法器",
                                           "name":  "神乐之真意",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，该效果持续16秒，至多叠加3层。持有3层时，该角色获得\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e所有元素伤害加成。",
                                           "r1":  {
                                                      "description":  "施放元素战技时，将获得「神乐舞」的效果，使装备该武器的角色的元素战技造成的伤害提高12%，该效果持续16秒，至多叠加3层。持有3层时，该角色获得12%所有元素伤害加成。",
@@ -7166,9 +7166,9 @@
                                                                       "14%"
                                                                   ]
                                                    },
+                                            "substatText":  "攻击力",
                                             "weaponText":  "双手剑",
                                             "name":  "宗室大剑",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "攻击造成伤害时，暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
                                             "r1":  {
                                                        "description":  "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
@@ -7211,9 +7211,9 @@
                                                                            "320%"
                                                                        ]
                                                         },
+                                                 "substatText":  "物理伤害加成",
                                                  "weaponText":  "双手剑",
                                                  "name":  "雪葬的星银",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "普通攻击与重击命中敌人时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e概率在敌人上方生成恒冰晶核并坠落，造成\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e攻击力的范围伤害。若敌人处于冰元素影响下，则造成\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e攻击力的伤害。该效果每10秒至多触发一次。",
                                                  "r1":  {
                                                             "description":  "普通攻击与重击命中敌人时，有60%概率在敌人上方生成恒冰晶核并坠落，造成80%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%攻击力的伤害。该效果每10秒至多触发一次。",
@@ -7254,9 +7254,9 @@
                                                                     "7.5"
                                                                 ]
                                                  },
+                                          "substatText":  "元素充能效率",
                                           "weaponText":  "法器",
                                           "name":  "西风秘典",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "攻击造成暴击时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                           "r1":  {
                                                      "description":  "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
@@ -7300,9 +7300,9 @@
                                                                    "35%"
                                                                ]
                                                 },
+                                         "substatText":  "元素精通",
                                          "weaponText":  "单手剑",
                                          "name":  "苍古自由之誓",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "飘游风中的「千年的大乐章」的一部分。造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；触发元素反应时，角色获得一枚奋起之符，每0.5秒内至多触发一次，角色处于队伍后台也能触发。拥有2枚奋起之符时，将消耗所有奋起之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·抗争之歌」效果：普通攻击、重击、下落攻击造成的伤害提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，攻击力提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。触发后20秒内，无法再次获得奋起之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
                                          "r1":  {
                                                     "description":  "飘游风中的「千年的大乐章」的一部分。造成的伤害提高10%；触发元素反应时，角色获得一枚奋起之符，每0.5秒内至多触发一次，角色处于队伍后台也能触发。拥有2枚奋起之符时，将消耗所有奋起之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·抗争之歌」效果：普通攻击、重击、下落攻击造成的伤害提高16%，攻击力提升20%。触发后20秒内，无法再次获得奋起之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
@@ -7319,9 +7319,9 @@
                                                "r5":  null,
                                                "r2":  null,
                                                "r4":  null,
+                                               "substatText":  null,
                                                "weaponText":  "长柄武器",
                                                "name":  "新手长枪",
-                                               "substat":  null,
                                                "effectTemplateRaw":  null,
                                                "r1":  null,
                                                "effectName":  null
@@ -7355,9 +7355,9 @@
                                                                  "70%"
                                                              ]
                                               },
+                                       "substatText":  "攻击力",
                                        "weaponText":  "弓",
                                        "name":  "曚云之月",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，通过这种方式，元素爆发造成的伤害至多提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                        "r1":  {
                                                   "description":  "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.12%，通过这种方式，元素爆发造成的伤害至多提高40%。",
@@ -7397,9 +7397,9 @@
                                                                             "4.5"
                                                                         ]
                                                          },
+                                                  "substatText":  "元素充能效率",
                                                   "weaponText":  "双手剑",
                                                   "name":  "桂木斩长正",
-                                                  "substat":  null,
                                                   "effectTemplateRaw":  "元素战技造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
                                                   "r1":  {
                                                              "description":  "元素战技造成的伤害提升6%。元素战技命中后，角色流失3点元素能量，并在此后的6秒内，每2秒恢复3点元素能量。该效果每10秒至多触发一次，角色处于队伍后台也能触发。",
@@ -7439,9 +7439,9 @@
                                                                      "19"
                                                                  ]
                                                   },
+                                           "substatText":  "元素充能效率",
                                            "weaponText":  "弓",
                                            "name":  "祭礼弓",
-                                           "substat":  null,
                                            "effectTemplateRaw":  "元素战技造成伤害时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的概率重置该技能的冷却时间，该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                            "r1":  {
                                                       "description":  "元素战技造成伤害时，有40%的概率重置该技能的冷却时间，该效果每30秒只能触发一次。",
@@ -7477,9 +7477,9 @@
                                                                   "32%"
                                                               ]
                                                },
+                                        "substatText":  "元素精通",
                                         "weaponText":  "双手剑",
                                         "name":  "雨裁",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "对处于水元素或雷元素影响下的敌人，造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                         "r1":  {
                                                    "description":  "对处于水元素或雷元素影响下的敌人，造成的伤害提高20%。",
@@ -7518,9 +7518,9 @@
                                                                             "210%"
                                                                         ]
                                                          },
+                                                  "substatText":  "暴击伤害",
                                                   "weaponText":  "单手剑",
                                                   "name":  "裁叶萃光",
-                                                  "substat":  null,
                                                   "effectTemplateRaw":  "暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；普通攻击造成元素伤害后，获得「裁叶」效果：普通攻击和元素战技造成的伤害提高，提高值相当于元素精通的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。该效果在生效28次或12秒后消失，每12秒至多获得一次「裁叶」效果。",
                                                   "r1":  {
                                                              "description":  "暴击率提升4%；普通攻击造成元素伤害后，获得「裁叶」效果：普通攻击和元素战技造成的伤害提高，提高值相当于元素精通的120%。该效果在生效28次或12秒后消失，每12秒至多获得一次「裁叶」效果。",
@@ -7560,9 +7560,9 @@
                                                                            "70%"
                                                                        ]
                                                         },
+                                                 "substatText":  "暴击伤害",
                                                  "weaponText":  "双手剑",
                                                  "name":  "赤角石溃杵",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "防御力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                                  "r1":  {
                                                             "description":  "防御力提高28%；普通攻击与重击造成的伤害值提高，提高数值相当于防御力的40%。",
@@ -7602,9 +7602,9 @@
                                                                        "175%"
                                                                    ]
                                                     },
+                                             "substatText":  "攻击力",
                                              "weaponText":  "双手剑",
                                              "name":  "衔珠海皇",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "元素爆发造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e攻击力的范围伤害。该效果每15秒至多触发一次。",
                                              "r1":  {
                                                         "description":  "元素爆发造成的伤害提升12%。元素爆发命中敌人时，有100%概率召唤大鲔冲击，造成100%攻击力的范围伤害。该效果每15秒至多触发一次。",
@@ -7644,9 +7644,9 @@
                                                                            "19"
                                                                        ]
                                                         },
+                                                 "substatText":  "元素精通",
                                                  "weaponText":  "法器",
                                                  "name":  "祭礼残章",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "元素战技造成伤害时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的概率重置该技能的冷却时间，该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                                  "r1":  {
                                                             "description":  "元素战技造成伤害时，有40%的概率重置该技能的冷却时间，该效果每30秒只能触发一次。",
@@ -7682,9 +7682,9 @@
                                                                "14%"
                                                            ]
                                             },
+                                     "substatText":  "攻击力",
                                      "weaponText":  "弓",
                                      "name":  "宗室长弓",
-                                     "substat":  null,
                                      "effectTemplateRaw":  "攻击造成伤害时，暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
                                      "r1":  {
                                                 "description":  "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
@@ -7719,9 +7719,9 @@
                                                                      "14"
                                                                  ]
                                                   },
+                                           "substatText":  "生命值",
                                            "weaponText":  "长柄武器",
                                            "name":  "公义的酬报",
-                                           "substat":  null,
                                            "effectTemplateRaw":  "受到治疗时，恢复\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
                                            "r1":  {
                                                       "description":  "受到治疗时，恢复8点能量，该效果每10秒至多触发一次，角色处于队伍后台时也能触发。",
@@ -7736,9 +7736,9 @@
                                              "r5":  null,
                                              "r2":  null,
                                              "r4":  null,
+                                             "substatText":  null,
                                              "weaponText":  "双手剑",
                                              "name":  "训练大剑",
-                                             "substat":  null,
                                              "effectTemplateRaw":  null,
                                              "r1":  null,
                                              "effectName":  null
@@ -7768,9 +7768,9 @@
                                                                    "105"
                                                                ]
                                                 },
+                                         "substatText":  "元素充能效率",
                                          "weaponText":  "单手剑",
                                          "name":  "原木刀",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。",
                                          "r1":  {
                                                     "description":  "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升60点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。",
@@ -7785,9 +7785,9 @@
                                         "r5":  null,
                                         "r2":  null,
                                         "r4":  null,
+                                        "substatText":  null,
                                         "weaponText":  "单手剑",
                                         "name":  "银剑",
-                                        "substat":  null,
                                         "effectTemplateRaw":  null,
                                         "r1":  null,
                                         "effectName":  null
@@ -7821,9 +7821,9 @@
                                                                            "49%"
                                                                        ]
                                                         },
+                                                 "substatText":  "暴击率",
                                                  "weaponText":  "弓",
                                                  "name":  "烈阳之嗣",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "重击命中敌人后，会向命中的敌人降下阳炎矢，造成攻击力\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的伤害，并为受到阳炎矢伤害的敌人施加持续10秒的灼心效果。装备者的重击对处于灼心状态下的敌人造成的伤害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。阳炎矢每10秒至多触发一次。",
                                                  "r1":  {
                                                             "description":  "重击命中敌人后，会向命中的敌人降下阳炎矢，造成攻击力60%的伤害，并为受到阳炎矢伤害的敌人施加持续10秒的灼心效果。装备者的重击对处于灼心状态下的敌人造成的伤害提升28%。阳炎矢每10秒至多触发一次。",
@@ -7863,9 +7863,9 @@
                                                                                "24.5%"
                                                                            ]
                                                             },
+                                                     "substatText":  "暴击伤害",
                                                      "weaponText":  "单手剑",
                                                      "name":  "静水流涌之辉",
-                                                     "substat":  null,
                                                      "effectTemplateRaw":  "装备者的当前生命值提升或降低时，元素战技造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
                                                      "r1":  {
                                                                 "description":  "装备者的当前生命值提升或降低时，元素战技造成的伤害提升8%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升14%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
@@ -7913,9 +7913,9 @@
                                                                               "84%"
                                                                           ]
                                                            },
+                                                    "substatText":  "暴击伤害",
                                                     "weaponText":  "法器",
                                                     "name":  "图莱杜拉的回忆",
-                                                    "substat":  null,
                                                     "effectTemplateRaw":  "普通攻击速度提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；施放元素战技后的14秒内：普通攻击造成的伤害每1秒提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e；普通攻击命中敌人后，普通攻击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e，该效果每0.3秒至多触发1次。持续期间内，普通攻击造成的伤害至多通过上述效果提升至\u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e。角色退场时将移除效果，再次施放元素战技时会先移除原有的效果。",
                                                     "r1":  {
                                                                "description":  "普通攻击速度提升10%；施放元素战技后的14秒内：普通攻击造成的伤害每1秒提升4.8%；普通攻击命中敌人后，普通攻击造成的伤害提升9.6%，该效果每0.3秒至多触发1次。持续期间内，普通攻击造成的伤害至多通过上述效果提升至48%。角色退场时将移除效果，再次施放元素战技时会先移除原有的效果。",
@@ -7953,9 +7953,9 @@
                                                                           "21%"
                                                                       ]
                                                        },
+                                                "substatText":  "暴击伤害",
                                                 "weaponText":  "单手剑",
                                                 "name":  "黑岩长剑",
-                                                "substat":  null,
                                                 "effectTemplateRaw":  "击败敌人后，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续30秒。该效果至多叠加3层，每层持续时间独立。",
                                                 "r1":  {
                                                            "description":  "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
@@ -7994,9 +7994,9 @@
                                                                     "90%"
                                                                 ]
                                                  },
+                                          "substatText":  "暴击率",
                                           "weaponText":  "单手剑",
                                           "name":  "黑剑",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "普通攻击与重击的造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；此外，普通攻击与重击暴击时，回复等同于攻击力\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e的生命值。该效果每5秒至多发动一次。",
                                           "r1":  {
                                                      "description":  "普通攻击与重击的造成的伤害提升20%；此外，普通攻击与重击暴击时，回复等同于攻击力60%的生命值。该效果每5秒至多发动一次。",
@@ -8036,9 +8036,9 @@
                                                                   "160%"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "弓",
                                         "name":  "王下近侍",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "施放元素战技或元素爆发时，将获得「森林教诲」的效果，元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点，持续12秒。该效果将在切换角色时移除。森林教诲的持续时间结束或被移除时，将对附近一名敌人造成\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e攻击力的伤害。森林教诲每20秒至多触发一次。",
                                         "r1":  {
                                                    "description":  "施放元素战技或元素爆发时，将获得「森林教诲」的效果，元素精通提升60点，持续12秒。该效果将在切换角色时移除。森林教诲的持续时间结束或被移除时，将对附近一名敌人造成100%攻击力的伤害。森林教诲每20秒至多触发一次。",
@@ -8074,9 +8074,9 @@
                                                                       "0.063%"
                                                                   ]
                                                    },
+                                            "substatText":  "元素精通",
                                             "weaponText":  "单手剑",
                                             "name":  "西福斯的月光",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "每10秒，产生如下效果：装备者的每点元素精通，都会为该角色提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e元素充能效率，并基于该提升的30%为队伍中附近的其他角色提升元素充能效率，持续12秒，多件同名武器产生的此效果可以叠加。角色处于队伍后台时也能触发效果。",
                                             "r1":  {
                                                        "description":  "每10秒，产生如下效果：装备者的每点元素精通，都会为该角色提升0.036%元素充能效率，并基于该提升的30%为队伍中附近的其他角色提升元素充能效率，持续12秒，多件同名武器产生的此效果可以叠加。角色处于队伍后台时也能触发效果。",
@@ -8111,9 +8111,9 @@
                                                                 "54%"
                                                             ]
                                              },
+                                      "substatText":  "暴击率",
                                       "weaponText":  "弓",
                                       "name":  "弹弓",
-                                      "substat":  null,
                                       "effectTemplateRaw":  "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；否则，造成的伤害下降10%。",
                                       "r1":  {
                                                  "description":  "普通攻击与重击的箭矢若在发射后的0.3秒内击中敌人，则造成的伤害增加36%；否则，造成的伤害下降10%。",
@@ -8148,9 +8148,9 @@
                                                                 "32%"
                                                             ]
                                              },
+                                      "substatText":  "攻击力",
                                       "weaponText":  "单手剑",
                                       "name":  "匣里龙吟",
-                                      "substat":  null,
                                       "effectTemplateRaw":  "对处于火元素或雷元素影响下的敌人，造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                       "r1":  {
                                                  "description":  "对处于火元素或雷元素影响下的敌人，造成的伤害提高20%。",
@@ -8165,9 +8165,9 @@
                                               "r5":  null,
                                               "r2":  null,
                                               "r4":  null,
+                                              "substatText":  "攻击力",
                                               "weaponText":  "单手剑",
                                               "name":  "降临之剑",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003e仅在以下平台生效：\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\n普通攻击与重击命中敌人后有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e概率在小范围内造成\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e攻击力的伤害。该效果每10秒只能触发一次；此外，旅行者装备降临之剑时，攻击力提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e点。",
                                               "r1":  {
                                                          "description":  "仅在以下平台生效：\n\"PlayStation Network\"\n普通攻击与重击命中敌人后有50%概率在小范围内造成200%攻击力的伤害。该效果每10秒只能触发一次；此外，旅行者装备降临之剑时，攻击力提升66点。",
@@ -8208,9 +8208,9 @@
                                                                      "7.5"
                                                                  ]
                                                   },
+                                           "substatText":  "元素充能效率",
                                            "weaponText":  "弓",
                                            "name":  "西风猎弓",
-                                           "substat":  null,
                                            "effectTemplateRaw":  "攻击造成暴击时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                            "r1":  {
                                                       "description":  "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
@@ -8250,9 +8250,9 @@
                                                                          "11"
                                                                      ]
                                                       },
+                                               "substatText":  "暴击率",
                                                "weaponText":  "弓",
                                                "name":  "苍翠猎弓",
-                                               "substat":  null,
                                                "effectTemplateRaw":  "普通攻击与重击命中时，有50%几率生成一个风之眼，持续吸引周围敌人，并对其中的敌人每0.5秒造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击的伤害。该效果持续4秒，每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒至多触发一次。",
                                                "r1":  {
                                                           "description":  "普通攻击与重击命中时，有50%几率生成一个风之眼，持续吸引周围敌人，并对其中的敌人每0.5秒造成40%攻击的伤害。该效果持续4秒，每14秒至多触发一次。",
@@ -8292,9 +8292,9 @@
                                                                    "7%"
                                                                ]
                                                 },
+                                         "substatText":  "攻击力",
                                          "weaponText":  "单手剑",
                                          "name":  "斫峰之刃",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "护盾强效提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。攻击命中后的8秒内，攻击力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
                                          "r1":  {
                                                     "description":  "护盾强效提升20%。攻击命中后的8秒内，攻击力提升4%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
@@ -8338,9 +8338,9 @@
                                                                          "56%"
                                                                      ]
                                                       },
+                                               "substatText":  "暴击率",
                                                "weaponText":  "双手剑",
                                                "name":  "苇海信标",
-                                               "substat":  null,
                                                "effectTemplateRaw":  "元素战技命中敌人后，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续8秒；受到伤害后，攻击力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，持续8秒。上述2种效果角色处于队伍后台时也能触发。此外，不处于护盾庇护下时，生命值上限提高\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。",
                                                "r1":  {
                                                           "description":  "元素战技命中敌人后，攻击力提升20%，持续8秒；受到伤害后，攻击力提升20%，持续8秒。上述2种效果角色处于队伍后台时也能触发。此外，不处于护盾庇护下时，生命值上限提高32%。",
@@ -8377,9 +8377,9 @@
                                                                "175%"
                                                            ]
                                             },
+                                     "substatText":  "攻击力",
                                      "weaponText":  "单手剑",
                                      "name":  "笛剑",
-                                     "substat":  null,
                                      "effectTemplateRaw":  "普通攻击或重击命中时，会获得一个和音。积攒了5个和音后，释放音律的力量，对周围的敌人造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力的伤害。和音最多存在30秒，每0.5秒至多获得1个和音。",
                                      "r1":  {
                                                 "description":  "普通攻击或重击命中时，会获得一个和音。积攒了5个和音后，释放音律的力量，对周围的敌人造成100%攻击力的伤害。和音最多存在30秒，每0.5秒至多获得1个和音。",
@@ -8418,9 +8418,9 @@
                                                                         "35%"
                                                                     ]
                                                      },
+                                              "substatText":  "物理伤害加成",
                                               "weaponText":  "弓",
                                               "name":  "幽夜华尔兹",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "普通攻击命中敌人后的5秒内，元素战技造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；元素战技命中敌人后的5秒内，普通攻击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                               "r1":  {
                                                          "description":  "普通攻击命中敌人后的5秒内，元素战技造成的伤害提升20%；元素战技命中敌人后的5秒内，普通攻击造成的伤害提升20%。",
@@ -8456,9 +8456,9 @@
                                                                    "42%"
                                                                ]
                                                 },
+                                         "substatText":  "攻击力",
                                          "weaponText":  "法器",
                                          "name":  "证誓之明瞳",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "施放元素战技后，元素充能效率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续10秒。",
                                          "r1":  {
                                                     "description":  "施放元素战技后，元素充能效率提升24%，持续10秒。",
@@ -8501,9 +8501,9 @@
                                                                        "320%"
                                                                    ]
                                                     },
+                                             "substatText":  "物理伤害加成",
                                              "weaponText":  "长柄武器",
                                              "name":  "龙脊长枪",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "普通攻击与重击命中敌人时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e概率在敌人上方生成恒冰晶核并坠落，造成\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e攻击力的范围伤害。若敌人处于冰元素影响下，则造成\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e攻击力的伤害。该效果每10秒至多触发一次。",
                                              "r1":  {
                                                         "description":  "普通攻击与重击命中敌人时，有60%概率在敌人上方生成恒冰晶核并坠落，造成80%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%攻击力的伤害。该效果每10秒至多触发一次。",
@@ -8540,9 +8540,9 @@
                                                                   "42%"
                                                               ]
                                                },
+                                        "substatText":  "暴击率",
                                         "weaponText":  "长柄武器",
                                         "name":  "白缨枪",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "普通攻击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                         "r1":  {
                                                    "description":  "普通攻击造成的伤害提升24%。",
@@ -8577,9 +8577,9 @@
                                                                    "18%"
                                                                ]
                                                 },
+                                         "substatText":  "暴击率",
                                          "weaponText":  "法器",
                                          "name":  "甲级宝珏",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "击败敌人后的15秒内，移动速度和攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                          "r1":  {
                                                     "description":  "击败敌人后的15秒内，移动速度和攻击力提升12%。",
@@ -8614,9 +8614,9 @@
                                                                       "24.5%"
                                                                   ]
                                                    },
+                                            "substatText":  "暴击伤害",
                                             "weaponText":  "单手剑",
                                             "name":  "黎明神剑",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "生命值高于90%时，暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                             "r1":  {
                                                        "description":  "生命值高于90%时，暴击率提升14%。",
@@ -8651,9 +8651,9 @@
                                                                 "21%"
                                                             ]
                                              },
+                                      "substatText":  "攻击力",
                                       "weaponText":  "单手剑",
                                       "name":  "冷刃",
-                                      "substat":  null,
                                       "effectTemplateRaw":  "对处于水元素或冰元素影响下的敌人，造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                       "r1":  {
                                                  "description":  "对处于水元素或冰元素影响下的敌人，造成的伤害提高12%。",
@@ -8692,9 +8692,9 @@
                                                                         "35%"
                                                                     ]
                                                      },
+                                              "substatText":  "暴击率",
                                               "weaponText":  "单手剑",
                                               "name":  "波乱月白经津",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e所有元素伤害加成；队伍中附近的其他角色在施放元素战技时，会为装备该武器的角色产生1层「波穗」效果，至多叠加2层，每0.3秒最多触发1次。装备该武器的角色施放元素战技时，如果有积累的「波穗」效果，则将消耗已有的「波穗」，获得「波乱」：根据消耗的层数，每层提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e普通攻击伤害，持续8秒。",
                                               "r1":  {
                                                          "description":  "获得12%所有元素伤害加成；队伍中附近的其他角色在施放元素战技时，会为装备该武器的角色产生1层「波穗」效果，至多叠加2层，每0.3秒最多触发1次。装备该武器的角色施放元素战技时，如果有积累的「波穗」效果，则将消耗已有的「波穗」，获得「波乱」：根据消耗的层数，每层提升20%普通攻击伤害，持续8秒。",
@@ -8734,9 +8734,9 @@
                                                                        "19"
                                                                    ]
                                                     },
+                                             "substatText":  "元素充能效率",
                                              "weaponText":  "单手剑",
                                              "name":  "祭礼剑",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "元素战技造成伤害时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的概率重置该技能的冷却时间，该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                              "r1":  {
                                                         "description":  "元素战技造成伤害时，有40%的概率重置该技能的冷却时间，该效果每30秒只能触发一次。",
@@ -8772,9 +8772,9 @@
                                                                    "35"
                                                                ]
                                                 },
+                                         "substatText":  "物理伤害加成",
                                          "weaponText":  "长柄武器",
                                          "name":  "流月针",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e%攻击力伤害。",
                                          "r1":  {
                                                     "description":  "获得元素微粒或元素晶球后的5秒内，普通攻击和重击额外造成20%攻击力伤害。",
@@ -8789,9 +8789,9 @@
                                                "r5":  null,
                                                "r2":  null,
                                                "r4":  null,
+                                               "substatText":  null,
                                                "weaponText":  "弓",
                                                "name":  "历练的猎弓",
-                                               "substat":  null,
                                                "effectTemplateRaw":  null,
                                                "r1":  null,
                                                "effectName":  null
@@ -8821,9 +8821,9 @@
                                                                             "280%"
                                                                         ]
                                                          },
+                                                  "substatText":  "攻击力",
                                                   "weaponText":  "单手剑",
                                                   "name":  "水仙十字之剑",
-                                                  "substat":  null,
                                                   "effectTemplateRaw":  "装备者不具备「始基力」时：普通攻击、重击、下落攻击命中时，会释放芒性或荒性的能量冲击，造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力的伤害。该效果每12秒至多触发一次，能量冲击的类型由水仙十字之剑当前的属性决定。",
                                                   "r1":  {
                                                              "description":  "装备者不具备「始基力」时：普通攻击、重击、下落攻击命中时，会释放芒性或荒性的能量冲击，造成160%攻击力的伤害。该效果每12秒至多触发一次，能量冲击的类型由水仙十字之剑当前的属性决定。",
@@ -8858,9 +8858,9 @@
                                                                         "42%"
                                                                     ]
                                                      },
+                                              "substatText":  "元素精通",
                                               "weaponText":  "法器",
                                               "name":  "流浪的晚星",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "每10秒，产生如下效果：基于装备者的元素精通的\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，提升该角色的攻击力，并基于该提升的30%为队伍中附近的其他角色提升攻击力，持续12秒，多件同名武器产生的此效果可以叠加。角色处于队伍后台时也能触发效果。",
                                               "r1":  {
                                                          "description":  "每10秒，产生如下效果：基于装备者的元素精通的24%，提升该角色的攻击力，并基于该提升的30%为队伍中附近的其他角色提升攻击力，持续12秒，多件同名武器产生的此效果可以叠加。角色处于队伍后台时也能触发效果。",
@@ -8895,9 +8895,9 @@
                                                                       "70%"
                                                                   ]
                                                    },
+                                            "substatText":  "防御力",
                                             "weaponText":  "单手剑",
                                             "name":  "辰砂之纺锤",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "元素战技造成的伤害值提高，提高数值相当于防御力的\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。该效果每1.5秒最多触发一次，并将在元素战技造成伤害后的0.1秒后清除效果。",
                                             "r1":  {
                                                        "description":  "元素战技造成的伤害值提高，提高数值相当于防御力的40%。该效果每1.5秒最多触发一次，并将在元素战技造成伤害后的0.1秒后清除效果。",
@@ -8936,9 +8936,9 @@
                                                                    "140%"
                                                                ]
                                                 },
+                                         "substatText":  "元素充能效率",
                                          "weaponText":  "双手剑",
                                          "name":  "天空之傲",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e攻击力的伤害，持续20秒或直至发出8次真空刃。",
                                          "r1":  {
                                                     "description":  "造成的伤害提高8%；施放元素爆发后：普通攻击和重击命中时会发出真空刃，对路径上的敌人造成80%攻击力的伤害，持续20秒或直至发出8次真空刃。",
@@ -8954,9 +8954,9 @@
                                                  "r5":  null,
                                                  "r2":  null,
                                                  "r4":  null,
+                                                 "substatText":  "攻击力",
                                                  "weaponText":  "单手剑",
                                                  "name":  "「一心传」名刀",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "普通攻击、重击或下落攻击命中敌人时，将释放祟灵，造成180%攻击力的范围伤害，并且恢复等同于攻击力100%的生命值。该效果每8秒至多触发一次；装备该武器的角色造成的伤害降低50%。",
                                                  "r1":  {
                                                             "description":  "普通攻击、重击或下落攻击命中敌人时，将释放祟灵，造成180%攻击力的范围伤害，并且恢复等同于攻击力100%的生命值。该效果每8秒至多触发一次；装备该武器的角色造成的伤害降低50%。",
@@ -8995,9 +8995,9 @@
                                                                "21%"
                                                            ]
                                             },
+                                     "substatText":  "攻击力",
                                      "weaponText":  "弓",
                                      "name":  "破魔之弓",
-                                     "substat":  null,
                                      "effectTemplateRaw":  "普通攻击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，重击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。当装备该武器的角色元素能量等于100%时，这个效果提升100%。",
                                      "r1":  {
                                                 "description":  "普通攻击造成的伤害提升16%，重击造成的伤害提升12%。当装备该武器的角色元素能量等于100%时，这个效果提升100%。",
@@ -9033,9 +9033,9 @@
                                                                "21%"
                                                            ]
                                             },
+                                     "substatText":  "元素精通",
                                      "weaponText":  "弓",
                                      "name":  "鸦羽弓",
-                                     "substat":  null,
                                      "effectTemplateRaw":  "对处于水元素或火元素影响下的敌人，造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                      "r1":  {
                                                 "description":  "对处于水元素或火元素影响下的敌人，造成的伤害提高12%。",
@@ -9070,9 +9070,9 @@
                                                                      "10.5%/17.5%/24.5%"
                                                                  ]
                                                   },
+                                           "substatText":  "元素充能效率",
                                            "weaponText":  "弓",
                                            "name":  "落霞",
-                                           "substat":  null,
                                            "effectTemplateRaw":  "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
                                            "r1":  {
                                                       "description":  "具有夕暮、流霞、朝晖三种状态，分别能使造成的伤害提升6%/10%/14%。攻击命中敌人后，将转换为下一种状态，每7秒至多转换一次状态。装备该武器的角色处于队伍后台时该效果依旧能触发转换。",
@@ -9111,9 +9111,9 @@
                                                                       "70%"
                                                                   ]
                                                    },
+                                            "substatText":  "攻击力",
                                             "weaponText":  "长柄武器",
                                             "name":  "断浪长鳍",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，通过这种方式，元素爆发造成的伤害至多提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                             "r1":  {
                                                        "description":  "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.12%，通过这种方式，元素爆发造成的伤害至多提高40%。",
@@ -9129,9 +9129,9 @@
                                        "r5":  null,
                                        "r2":  null,
                                        "r4":  null,
+                                       "substatText":  null,
                                        "weaponText":  "弓",
                                        "name":  "猎弓",
-                                       "substat":  null,
                                        "effectTemplateRaw":  null,
                                        "r1":  null,
                                        "effectName":  null
@@ -9161,9 +9161,9 @@
                                                                 "14%"
                                                             ]
                                              },
+                                      "substatText":  "元素精通",
                                       "weaponText":  "法器",
                                       "name":  "万国诸海图谱",
-                                      "substat":  null,
                                       "effectTemplateRaw":  "触发元素反应后的10秒内，获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e元素伤害加成，该效果最多可以叠加2层。",
                                       "r1":  {
                                                  "description":  "触发元素反应后的10秒内，获得8%元素伤害加成，该效果最多可以叠加2层。",
@@ -9202,9 +9202,9 @@
                                                                            "28%"
                                                                        ]
                                                         },
+                                                 "substatText":  "元素充能效率",
                                                  "weaponText":  "单手剑",
                                                  "name":  "灰河渡手",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "元素战技暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；此外，施放元素战技后的5秒内，元素充能效率提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                                  "r1":  {
                                                             "description":  "元素战技暴击率提升8%；此外，施放元素战技后的5秒内，元素充能效率提升16%。",
@@ -9244,9 +9244,9 @@
                                                                   "14%"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "法器",
                                         "name":  "嘟嘟可故事集",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "普通攻击命中敌人后的6秒内，重击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；重击命中敌人后的6秒内，攻击力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                         "r1":  {
                                                    "description":  "普通攻击命中敌人后的6秒内，重击造成的伤害提升16%；重击命中敌人后的6秒内，攻击力提升8%。",
@@ -9282,9 +9282,9 @@
                                                                 "175%"
                                                             ]
                                              },
+                                      "substatText":  "暴击伤害",
                                       "weaponText":  "弓",
                                       "name":  "信使",
-                                      "substat":  null,
                                       "effectTemplateRaw":  "重击若命中要害，则额外造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
                                       "r1":  {
                                                  "description":  "重击若命中要害，则额外造成100%攻击力的伤害，该伤害必定暴击。此效果每10秒只能触发一次。",
@@ -9323,9 +9323,9 @@
                                                                            "2.1%"
                                                                        ]
                                                         },
+                                                 "substatText":  "暴击率",
                                                  "weaponText":  "单手剑",
                                                  "name":  "磐岩结绿",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "生命值提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。此外，基于装备该武器的角色生命值上限的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，获得攻击力加成。",
                                                  "r1":  {
                                                             "description":  "生命值提升20%。此外，基于装备该武器的角色生命值上限的1.2%，获得攻击力加成。",
@@ -9369,9 +9369,9 @@
                                                                   "2.5"
                                                               ]
                                                },
+                                        "substatText":  "暴击率",
                                         "weaponText":  "弓",
                                         "name":  "天空之翼",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "暴击伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；攻击命中时有\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e概率造成125%攻击力的小范围物理伤害，该效果每\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e秒只能触发一次。",
                                         "r1":  {
                                                    "description":  "暴击伤害提高20%；攻击命中时有60%概率造成125%攻击力的小范围物理伤害，该效果每4秒只能触发一次。",
@@ -9420,9 +9420,9 @@
                                                                    "85%"
                                                                ]
                                                 },
+                                         "substatText":  "元素充能效率",
                                          "weaponText":  "长柄武器",
                                          "name":  "天空之脊",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，普通攻击速度提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。此外，普通攻击与重击命中敌人时，有\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e概率触发真空刃，在小范围内造成额外\u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e攻击力的伤害。该效果每2秒至多触发一次。",
                                          "r1":  {
                                                     "description":  "暴击率提升8%，普通攻击速度提升12%。此外，普通攻击与重击命中敌人时，有50%概率触发真空刃，在小范围内造成额外40%攻击力的伤害。该效果每2秒至多触发一次。",
@@ -9464,9 +9464,9 @@
                                                                           "2.5%"
                                                                       ]
                                                        },
+                                                "substatText":  "生命值",
                                                 "weaponText":  "法器",
                                                 "name":  "不灭月华",
-                                                "substat":  null,
                                                 "effectTemplateRaw":  "治疗加成提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；普通攻击造成的伤害增加，增加值为装备该武器的角色生命值上限的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。在施放元素爆发后的12秒内，普通攻击命中敌人时恢复0.6点元素能量，每0.1秒至多通过这种方式恢复一次元素能量。",
                                                 "r1":  {
                                                            "description":  "治疗加成提升10%；普通攻击造成的伤害增加，增加值为装备该武器的角色生命值上限的1%。在施放元素爆发后的12秒内，普通攻击命中敌人时恢复0.6点元素能量，每0.1秒至多通过这种方式恢复一次元素能量。",
@@ -9502,9 +9502,9 @@
                                                                              "21%"
                                                                          ]
                                                           },
+                                                   "substatText":  "元素精通",
                                                    "weaponText":  "双手剑",
                                                    "name":  "沐浴龙血的剑",
-                                                   "substat":  null,
                                                    "effectTemplateRaw":  "对处于火元素或雷元素影响下的敌人，造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                                    "r1":  {
                                                               "description":  "对处于火元素或雷元素影响下的敌人，造成的伤害提高12%。",
@@ -9539,9 +9539,9 @@
                                                                  "105%"
                                                              ]
                                               },
+                                       "substatText":  "攻击力",
                                        "weaponText":  "双手剑",
                                        "name":  "以理服人",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
                                        "r1":  {
                                                   "description":  "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成60%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
@@ -9584,9 +9584,9 @@
                                                                     "21%"
                                                                 ]
                                                  },
+                                          "substatText":  "攻击力",
                                           "weaponText":  "法器",
                                           "name":  "纯水流华",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "施放元素战技时，所有元素伤害加成提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续15秒，并赋予生命值上限24%的生命之契，该效果每10秒至多触发一次。生命之契清除时，每清除1000点将会提供\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e所有元素伤害加成，至多通过这种方式获得\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e所有元素伤害加成，持续15秒。",
                                           "r1":  {
                                                      "description":  "施放元素战技时，所有元素伤害加成提升8%，持续15秒，并赋予生命值上限24%的生命之契，该效果每10秒至多触发一次。生命之契清除时，每清除1000点将会提供2%所有元素伤害加成，至多通过这种方式获得12%所有元素伤害加成，持续15秒。",
@@ -9627,9 +9627,9 @@
                                                                   "6%"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "双手剑",
                                         "name":  "千岩古剑",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "队伍中每有一位璃月角色，装备该武器的角色便获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力提升与\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e暴击率提升。至多获得4层提升效果。",
                                         "r1":  {
                                                    "description":  "队伍中每有一位璃月角色，装备该武器的角色便获得7%攻击力提升与3%暴击率提升。至多获得4层提升效果。",
@@ -9665,9 +9665,9 @@
                                                                    "140%"
                                                                ]
                                                 },
+                                         "substatText":  "元素充能效率",
                                          "weaponText":  "弓",
                                          "name":  "竭泽",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
                                          "r1":  {
                                                     "description":  "施放元素战技后，将触发「沿洄」效果，在攻击命中敌人时造成80%攻击力的范围伤害，该效果将在15秒或触发3次范围伤害后移除。每2秒至多通过这种方式造成一次范围伤害，每12秒至多触发一次沿洄。",
@@ -9706,9 +9706,9 @@
                                                                    "280%"
                                                                ]
                                                 },
+                                         "substatText":  "攻击力",
                                          "weaponText":  "法器",
                                          "name":  "天空之卷",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "元素伤害加成提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；普通攻击命中时，有50%的概率获得高天流云的青睐，在15秒内主动攻击附近的敌人，造成等同于\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e攻击力的伤害。该效果每30秒只能触发一次。",
                                          "r1":  {
                                                     "description":  "元素伤害加成提升12%；普通攻击命中时，有50%的概率获得高天流云的青睐，在15秒内主动攻击附近的敌人，造成等同于160%攻击力的伤害。该效果每30秒只能触发一次。",
@@ -9744,9 +9744,9 @@
                                                            "70%"
                                                        ]
                                         },
+                                 "substatText":  "攻击力",
                                  "weaponText":  "弓",
                                  "name":  "弓藏",
-                                 "substat":  null,
                                  "effectTemplateRaw":  "普通攻击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，重击造成的伤害下降10%。",
                                  "r1":  {
                                             "description":  "普通攻击造成的伤害提升40%，重击造成的伤害下降10%。",
@@ -9781,9 +9781,9 @@
                                                                       "28%"
                                                                   ]
                                                    },
+                                            "substatText":  "元素精通",
                                             "weaponText":  "单手剑",
                                             "name":  "东花坊时雨",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "攻击命中敌人后，会为命中的一名敌人施加「纸伞作祟」状态，持续10秒。该效果每15秒至多触发一次；持续期间该敌人被击败时，将清除该效果的冷却时间。装备者对处于「纸伞作祟」状态下的敌人造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                             "r1":  {
                                                        "description":  "攻击命中敌人后，会为命中的一名敌人施加「纸伞作祟」状态，持续10秒。该效果每15秒至多触发一次；持续期间该敌人被击败时，将清除该效果的冷却时间。装备者对处于「纸伞作祟」状态下的敌人造成的伤害提升16%。",
@@ -9818,9 +9818,9 @@
                                                                          "42%"
                                                                      ]
                                                       },
+                                               "substatText":  "元素精通",
                                                "weaponText":  "双手剑",
                                                "name":  "玛海菈的水色",
-                                               "substat":  null,
                                                "effectTemplateRaw":  "每10秒，产生如下效果：基于装备者的元素精通的\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，提升该角色的攻击力，并基于该提升的30%为队伍中附近的其他角色提升攻击力，持续12秒，多件同名武器产生的此效果可以叠加。角色处于队伍后台时也能触发效果。",
                                                "r1":  {
                                                           "description":  "每10秒，产生如下效果：基于装备者的元素精通的24%，提升该角色的攻击力，并基于该提升的30%为队伍中附近的其他角色提升攻击力，持续12秒，多件同名武器产生的此效果可以叠加。角色处于队伍后台时也能触发效果。",
@@ -9867,9 +9867,9 @@
                                                                           "14%"
                                                                       ]
                                                        },
+                                                "substatText":  "暴击率",
                                                 "weaponText":  "法器",
                                                 "name":  "金流监督",
-                                                "substat":  null,
                                                 "effectTemplateRaw":  "攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。当前生命值提升或降低时，普通攻击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，重击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。该效果持续4秒，至多叠加3层，每0.3秒至多触发一次；处于叠加3层的状态下时，攻击速度提升\u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e。",
                                                 "r1":  {
                                                            "description":  "攻击力提升16%。当前生命值提升或降低时，普通攻击造成的伤害提升16%，重击造成的伤害提升14%。该效果持续4秒，至多叠加3层，每0.3秒至多触发一次；处于叠加3层的状态下时，攻击速度提升8%。",
@@ -9911,9 +9911,9 @@
                                                                "10.5%"
                                                            ]
                                             },
+                                     "substatText":  "元素充能效率",
                                      "weaponText":  "长柄武器",
                                      "name":  "「渔获」",
-                                     "substat":  null,
                                      "effectTemplateRaw":  "元素爆发造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，元素爆发的暴击率提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                      "r1":  {
                                                 "description":  "元素爆发造成的伤害提升16%，元素爆发的暴击率提升6%。",
@@ -9949,9 +9949,9 @@
                                                                        "21%"
                                                                    ]
                                                     },
+                                             "substatText":  "暴击伤害",
                                              "weaponText":  "弓",
                                              "name":  "黑岩战弓",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "击败敌人后，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续30秒。该效果至多叠加3层，每层持续时间独立。",
                                              "r1":  {
                                                         "description":  "击败敌人后，攻击力提升12%，持续30秒。该效果至多叠加3层，每层持续时间独立。",
@@ -9990,9 +9990,9 @@
                                                                       "70"
                                                                   ]
                                                    },
+                                            "substatText":  "暴击率",
                                             "weaponText":  "法器",
                                             "name":  "遗祀玉珑",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "处于队伍后台超过5秒后，生命值上限提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，元素精通提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e点。装备者登场并留在场上10秒后，该效果将失效。",
                                             "r1":  {
                                                        "description":  "处于队伍后台超过5秒后，生命值上限提升32%，元素精通提升40点。装备者登场并留在场上10秒后，该效果将失效。",
@@ -10028,9 +10028,9 @@
                                                                  "10.5%"
                                                              ]
                                               },
+                                       "substatText":  "防御力",
                                        "weaponText":  "双手剑",
                                        "name":  "白影剑",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "普通攻击和重击命中后，攻击力和防御力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。该效果持续6秒，最多叠加4层，每0.5秒只能触发一次。",
                                        "r1":  {
                                                   "description":  "普通攻击和重击命中后，攻击力和防御力提高6%。该效果持续6秒，最多叠加4层，每0.5秒只能触发一次。",
@@ -10045,9 +10045,9 @@
                                       "r5":  null,
                                       "r2":  null,
                                       "r4":  null,
+                                      "substatText":  null,
                                       "weaponText":  "单手剑",
                                       "name":  "无锋剑",
-                                      "substat":  null,
                                       "effectTemplateRaw":  null,
                                       "r1":  null,
                                       "effectName":  null
@@ -10085,9 +10085,9 @@
                                                                  "420"
                                                              ]
                                               },
+                                       "substatText":  "暴击伤害",
                                        "weaponText":  "法器",
                                        "name":  "流浪乐章",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；咏叹调：全元素伤害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e;间奏曲：元素精通提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。",
                                        "r1":  {
                                                   "description":  "角色登场时，随机获得一个主题曲，持续10秒。每30秒只能触发一次。宣叙调：攻击力提升60%；咏叹调：全元素伤害提升48%;间奏曲：元素精通提升240。",
@@ -10128,9 +10128,9 @@
                                                                       "5.6%"
                                                                   ]
                                                    },
+                                            "substatText":  "攻击力",
                                             "weaponText":  "长柄武器",
                                             "name":  "息灾",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
                                             "r1":  {
                                                        "description":  "获得12%所有元素伤害加成；施放元素战技后，获得持续20秒的「圆顿」，攻击力每1秒提升3.2%，该攻击力提升效果至多叠加6次。当装备此武器的角色处于队伍后台时，「圆顿」的攻击力提升效果翻倍。",
@@ -10170,9 +10170,9 @@
                                                                    "2.2%"
                                                                ]
                                                 },
+                                         "substatText":  "暴击率",
                                          "weaponText":  "双手剑",
                                          "name":  "螭骨剑",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "角色在场上时，每4秒提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e造成的伤害，\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e受到的伤害。该效果最多叠加5层，不随角色退场重置，受到伤害后会减少1层效果。",
                                          "r1":  {
                                                     "description":  "角色在场上时，每4秒提升6%造成的伤害，3%受到的伤害。该效果最多叠加5层，不随角色退场重置，受到伤害后会减少1层效果。",
@@ -10212,9 +10212,9 @@
                                                                       "21/42/70%"
                                                                   ]
                                                    },
+                                            "substatText":  "暴击伤害",
                                             "weaponText":  "弓",
                                             "name":  "飞雷之弦振",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "攻击力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，并能获得「飞雷之巴印」的威势。飞雷之巴印：持有1/2/3层飞雷之巴印时，普通攻击造成的伤害提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。在下列情况下，角色将各获得1层飞雷之巴印：普通攻击造成伤害时，持续5秒；施放元素战技时，持续10秒；此外，角色元素能量低于100%时，将获得1层飞雷之巴印，此飞雷之巴印会在角色的元素能量充满时消失。每层飞雷之巴印的持续时间独立计算。",
                                             "r1":  {
                                                        "description":  "攻击力提高20%，并能获得「飞雷之巴印」的威势。飞雷之巴印：持有1/2/3层飞雷之巴印时，普通攻击造成的伤害提高12/24/40%。在下列情况下，角色将各获得1层飞雷之巴印：普通攻击造成伤害时，持续5秒；施放元素战技时，持续10秒；此外，角色元素能量低于100%时，将获得1层飞雷之巴印，此飞雷之巴印会在角色的元素能量充满时消失。每层飞雷之巴印的持续时间独立计算。",
@@ -10254,9 +10254,9 @@
                                                                   "280%"
                                                               ]
                                                },
+                                        "substatText":  "暴击率",
                                         "weaponText":  "弓",
                                         "name":  "猎人之径",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
                                         "r1":  {
                                                    "description":  "获得12%所有元素伤害加成。重击命中敌人后，将获得「无休止的狩猎」：重击造成的伤害值提高，提高值相当于元素精通数值的160%。该效果将在生效12次或10秒后消失，每12秒至多获得一次无休止的狩猎。",
@@ -10292,9 +10292,9 @@
                                                                     "42%"
                                                                 ]
                                                  },
+                                          "substatText":  "元素精通",
                                           "weaponText":  "弓",
                                           "name":  "绝弦",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "元素战技与元素爆发的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                           "r1":  {
                                                      "description":  "元素战技与元素爆发的伤害提高24%。",
@@ -10329,9 +10329,9 @@
                                                                            "14%"
                                                                        ]
                                                         },
+                                                 "substatText":  "元素充能效率",
                                                  "weaponText":  "长柄武器",
                                                  "name":  "试作星镰",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "施放元素战技后，普通攻击和重击造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。该效果持续12秒，最多叠加2层。",
                                                  "r1":  {
                                                             "description":  "施放元素战技后，普通攻击和重击造成的伤害提高8%。该效果持续12秒，最多叠加2层。",
@@ -10366,9 +10366,9 @@
                                                                     "14%"
                                                                 ]
                                                  },
+                                          "substatText":  "攻击力",
                                           "weaponText":  "法器",
                                           "name":  "宗室秘法录",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "攻击造成伤害时，暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
                                           "r1":  {
                                                      "description":  "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
@@ -10403,9 +10403,9 @@
                                                                         "42%"
                                                                     ]
                                                      },
+                                              "substatText":  "暴击伤害",
                                               "weaponText":  "弓",
                                               "name":  "神射手之誓",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "针对要害造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                               "r1":  {
                                                          "description":  "针对要害造成的伤害提升24%。",
@@ -10444,9 +10444,9 @@
                                                                             "19"
                                                                         ]
                                                          },
+                                                  "substatText":  "元素充能效率",
                                                   "weaponText":  "双手剑",
                                                   "name":  "祭礼大剑",
-                                                  "substat":  null,
                                                   "effectTemplateRaw":  "元素战技造成伤害时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的概率重置该技能的冷却时间，该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                                   "r1":  {
                                                              "description":  "元素战技造成伤害时，有40%的概率重置该技能的冷却时间，该效果每30秒只能触发一次。",
@@ -10482,9 +10482,9 @@
                                                                           "1.75%"
                                                                       ]
                                                        },
+                                                "substatText":  "防御力",
                                                 "weaponText":  "单手剑",
                                                 "name":  "旅行剑",
-                                                "substat":  null,
                                                 "effectTemplateRaw":  "获得元素晶球或元素微粒时，恢复\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e生命值。",
                                                 "r1":  {
                                                            "description":  "获得元素晶球或元素微粒时，恢复1%生命值。",
@@ -10519,9 +10519,9 @@
                                                                         "63%"
                                                                     ]
                                                      },
+                                              "substatText":  "攻击力",
                                               "weaponText":  "弓",
                                               "name":  "试作澹月",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "重击若命中要害，则提升10%移动速度与\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力，持续10秒。",
                                               "r1":  {
                                                          "description":  "重击若命中要害，则提升10%移动速度与36%攻击力，持续10秒。",
@@ -10556,9 +10556,9 @@
                                                                     "21%"
                                                                 ]
                                                  },
+                                          "substatText":  "元素精通",
                                           "weaponText":  "单手剑",
                                           "name":  "暗巷闪光",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "角色造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。受到伤害后，该伤害提升效果会失效5秒。",
                                           "r1":  {
                                                      "description":  "角色造成的伤害提升12%。受到伤害后，该伤害提升效果会失效5秒。",
@@ -10601,9 +10601,9 @@
                                                                         "36%"
                                                                     ]
                                                      },
+                                              "substatText":  "生命值",
                                               "weaponText":  "法器",
                                               "name":  "碧落之珑",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "施放元素爆发或创造护盾后的3秒内，将产生「定土玉圭」效果：每2.5秒恢复\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点元素能量，并基于装备者的生命值上限，每1000点使其对应元素类型的元素伤害加成提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，至多提高\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。装备该武器的角色处于队伍后台时，依然能产生「定土玉圭」效果。",
                                               "r1":  {
                                                          "description":  "施放元素爆发或创造护盾后的3秒内，将产生「定土玉圭」效果：每2.5秒恢复4.5点元素能量，并基于装备者的生命值上限，每1000点使其对应元素类型的元素伤害加成提高0.3%，至多提高12%。装备该武器的角色处于队伍后台时，依然能产生「定土玉圭」效果。",
@@ -10648,9 +10648,9 @@
                                                                          "10%/13%/16%"
                                                                      ]
                                                       },
+                                               "substatText":  "暴击伤害",
                                                "weaponText":  "弓",
                                                "name":  "最初的大魔术",
-                                               "substat":  null,
                                                "effectTemplateRaw":  "重击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；队伍中每存在一位与装备者元素类型相同的角色（包括装备者自身），将获得1层「手法」效果；每存在一位元素类型不同的角色，将获得1层「演技」效果。处于1/2/3层及以上「手法」效果下时，攻击力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e；处于1/2/3层及以上「演技」效果下时，移动速度提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。",
                                                "r1":  {
                                                           "description":  "重击造成的伤害提升16%；队伍中每存在一位与装备者元素类型相同的角色（包括装备者自身），将获得1层「手法」效果；每存在一位元素类型不同的角色，将获得1层「演技」效果。处于1/2/3层及以上「手法」效果下时，攻击力提升16%/32%/48%；处于1/2/3层及以上「演技」效果下时，移动速度提升4%/7%/10%。",
@@ -10691,9 +10691,9 @@
                                                                 "70%"
                                                             ]
                                              },
+                                      "substatText":  "攻击力",
                                       "weaponText":  "双手剑",
                                       "name":  "恶王丸",
-                                      "substat":  null,
                                       "effectTemplateRaw":  "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，通过这种方式，元素爆发造成的伤害至多提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                       "r1":  {
                                                  "description":  "队伍中所有角色的元素能量上限的总和，每1点能使装备此武器的角色的元素爆发造成的伤害提高0.12%，通过这种方式，元素爆发造成的伤害至多提高40%。",
@@ -10737,9 +10737,9 @@
                                                                      "0.35%"
                                                                  ]
                                                   },
+                                           "substatText":  "生命值",
                                            "weaponText":  "单手剑",
                                            "name":  "圣显之钥",
-                                           "substat":  null,
                                            "effectTemplateRaw":  "生命值提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。元素战技命中敌人时，将产生持续20秒的「宏大诗篇」效果：基于装备者生命值上限的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，获得元素精通提升，该效果每0.3秒至多触发一次，至多叠加3层。该效果叠加至3层或3层的持续时间刷新时，将基于装备者生命值上限的\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e，为队伍中附近所有角色提供元素精通提升，持续20秒。",
                                            "r1":  {
                                                       "description":  "生命值提升20%。元素战技命中敌人时，将产生持续20秒的「宏大诗篇」效果：基于装备者生命值上限的0.12%，获得元素精通提升，该效果每0.3秒至多触发一次，至多叠加3层。该效果叠加至3层或3层的持续时间刷新时，将基于装备者生命值上限的0.2%，为队伍中附近所有角色提供元素精通提升，持续20秒。",
@@ -10776,9 +10776,9 @@
                                                                    "28%"
                                                                ]
                                                 },
+                                         "substatText":  "元素精通",
                                          "weaponText":  "弓",
                                          "name":  "风花之颂",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "施放元素战技时，获得风之花的悠古愿望加持，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续6秒。",
                                          "r1":  {
                                                     "description":  "施放元素战技时，获得风之花的悠古愿望加持，攻击力提升16%，持续6秒。",
@@ -10817,9 +10817,9 @@
                                                                       "70%"
                                                                   ]
                                                    },
+                                            "substatText":  "攻击力",
                                             "weaponText":  "双手剑",
                                             "name":  "狼的末路",
-                                            "substat":  null,
                                             "effectTemplateRaw":  "攻击力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；攻击命中生命值低于30%的敌人时，队伍中所有成员的攻击力提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，持续12秒。该效果30秒只能触发一次。",
                                             "r1":  {
                                                        "description":  "攻击力提高20%；攻击命中生命值低于30%的敌人时，队伍中所有成员的攻击力提高40%，持续12秒。该效果30秒只能触发一次。",
@@ -10859,9 +10859,9 @@
                                                                      "5.5%"
                                                                  ]
                                                   },
+                                           "substatText":  "生命值",
                                            "weaponText":  "法器",
                                            "name":  "试作金珀",
-                                           "substat":  null,
                                            "effectTemplateRaw":  "施放元素爆发后6秒内，每2秒恢复\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点元素能量，队伍中的所有角色每2秒恢复\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e生命值。",
                                            "r1":  {
                                                       "description":  "施放元素爆发后6秒内，每2秒恢复4点元素能量，队伍中的所有角色每2秒恢复4%生命值。",
@@ -10905,9 +10905,9 @@
                                                                "3.5%"
                                                            ]
                                             },
+                                     "substatText":  "暴击率",
                                      "weaponText":  "单手剑",
                                      "name":  "狼牙",
-                                     "substat":  null,
                                      "effectTemplateRaw":  "元素战技与元素爆发造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。元素战技命中敌人时，元素战技的暴击率提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e；元素爆发命中敌人时，元素爆发的暴击率提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。上述两种效果各自持续10秒，至多叠加4次，每0.1秒至多触发一次。",
                                      "r1":  {
                                                 "description":  "元素战技与元素爆发造成的伤害提升16%。元素战技命中敌人时，元素战技的暴击率提升2%；元素爆发命中敌人时，元素爆发的暴击率提升2%。上述两种效果各自持续10秒，至多叠加4次，每0.1秒至多触发一次。",
@@ -10948,9 +10948,9 @@
                                                                   "7%"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "双手剑",
                                         "name":  "无工之剑",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "护盾强效提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。攻击命中后的8秒内，攻击力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
                                         "r1":  {
                                                    "description":  "护盾强效提升20%。攻击命中后的8秒内，攻击力提升4%。该效果至多可叠加5层，每0.3秒只能触发一次。此外，处于护盾庇护下时，该效果的攻击力提升效果提高100%。",
@@ -10994,9 +10994,9 @@
                                                                            "11"
                                                                        ]
                                                         },
+                                                 "substatText":  "暴击伤害",
                                                  "weaponText":  "法器",
                                                  "name":  "万世流涌大典",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "生命值提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。当前生命值提升或降低时，重击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。该效果持续4秒，至多叠加3次，每0.3秒至多触发一次；叠加至3层或3层的持续时间刷新时，恢复\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e点元素能量，每12秒至多通过这种方式恢复一次元素能量。",
                                                  "r1":  {
                                                             "description":  "生命值提升16%。当前生命值提升或降低时，重击造成的伤害提升14%。该效果持续4秒，至多叠加3次，每0.3秒至多触发一次；叠加至3层或3层的持续时间刷新时，恢复8点元素能量，每12秒至多通过这种方式恢复一次元素能量。",
@@ -11013,9 +11013,9 @@
                                              "r5":  null,
                                              "r2":  null,
                                              "r4":  null,
+                                             "substatText":  null,
                                              "weaponText":  "法器",
                                              "name":  "学徒笔记",
-                                             "substat":  null,
                                              "effectTemplateRaw":  null,
                                              "r1":  null,
                                              "effectName":  null
@@ -11045,9 +11045,9 @@
                                                                     "21%"
                                                                 ]
                                                  },
+                                          "substatText":  "元素充能效率",
                                           "weaponText":  "单手剑",
                                           "name":  "飞天御剑",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "施放元素爆发后，提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力和移动速度，持续15秒。",
                                           "r1":  {
                                                      "description":  "施放元素爆发后，提高12%攻击力和移动速度，持续15秒。",
@@ -11082,9 +11082,9 @@
                                                                                  "14%"
                                                                              ]
                                                               },
+                                                       "substatText":  "暴击率",
                                                        "weaponText":  "法器",
                                                        "name":  "四风原典",
-                                                       "substat":  null,
                                                        "effectTemplateRaw":  "移动速度提高10%；在场上每4秒获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
                                                        "r1":  {
                                                                   "description":  "移动速度提高10%；在场上每4秒获得8%元素伤害加成。该效果最多叠加4层，持续直到角色倒下或离场。",
@@ -11119,9 +11119,9 @@
                                                                        "420%"
                                                                    ]
                                                     },
+                                             "substatText":  "攻击力",
                                              "weaponText":  "双手剑",
                                              "name":  "试作古华",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力的额外伤害。该效果每15秒只能触发一次。",
                                              "r1":  {
                                                         "description":  "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成240%攻击力的额外伤害。该效果每15秒只能触发一次。",
@@ -11160,9 +11160,9 @@
                                                                     "7.5"
                                                                 ]
                                                  },
+                                          "substatText":  "元素充能效率",
                                           "weaponText":  "单手剑",
                                           "name":  "西风剑",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "攻击造成暴击时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                           "r1":  {
                                                      "description":  "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
@@ -11198,9 +11198,9 @@
                                                                 "10.5%"
                                                             ]
                                              },
+                                      "substatText":  "元素精通",
                                       "weaponText":  "单手剑",
                                       "name":  "铁蜂刺",
-                                      "substat":  null,
                                       "effectTemplateRaw":  "造成元素伤害后的6秒内，角色造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，该效果最多叠加2层。该效果每1秒可以触发一次。",
                                       "r1":  {
                                                  "description":  "造成元素伤害后的6秒内，角色造成的伤害提高6%，该效果最多叠加2层。该效果每1秒可以触发一次。",
@@ -11215,9 +11215,9 @@
                                               "r5":  null,
                                               "r2":  null,
                                               "r4":  null,
+                                              "substatText":  "攻击力",
                                               "weaponText":  "单手剑",
                                               "name":  "「一心传」名刀",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "普通攻击、重击或下落攻击命中敌人时，将释放祟灵，造成180%攻击力的范围伤害，并且恢复等同于攻击力100%的生命值。该效果每8秒至多触发一次；装备该武器的角色造成的伤害降低50%。",
                                               "r1":  {
                                                          "description":  "普通攻击、重击或下落攻击命中敌人时，将释放祟灵，造成180%攻击力的范围伤害，并且恢复等同于攻击力100%的生命值。该效果每8秒至多触发一次；装备该武器的角色造成的伤害降低50%。",
@@ -11256,9 +11256,9 @@
                                                                                       "21%"
                                                                                   ]
                                                                    },
+                                                            "substatText":  "元素充能效率",
                                                             "weaponText":  "双手剑",
                                                             "name":  "「究极霸王超级魔剑」",
-                                                            "substat":  null,
                                                             "effectTemplateRaw":  "攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。不仅如此！海沫村中曾蒙你帮助的美露莘们的声援心意充满了力量，依照她们的数目，攻击力至多进一步提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                                             "r1":  {
                                                                        "description":  "攻击力提升12%。不仅如此！海沫村中曾蒙你帮助的美露莘们的声援心意充满了力量，依照她们的数目，攻击力至多进一步提升12%。",
@@ -11294,9 +11294,9 @@
                                                                     "105"
                                                                 ]
                                                  },
+                                          "substatText":  "元素充能效率",
                                           "weaponText":  "双手剑",
                                           "name":  "森林王器",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。",
                                           "r1":  {
                                                      "description":  "触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升60点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。",
@@ -11335,9 +11335,9 @@
                                                                  "11.5%"
                                                              ]
                                               },
+                                       "substatText":  "攻击力",
                                        "weaponText":  "弓",
                                        "name":  "测距规",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "受到治疗或进行治疗时，将赋予一枚团结标记，持续30秒，至多拥有三枚团结标记。施放元素战技或元素爆发时，将消耗所有的团结标记，产生持续10秒的「抗争」效果：每枚消耗的团结标记提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力与\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e所有元素伤害加成。每15秒至多触发一次抗争效果；角色处于队伍后台时也能获得团结标记。",
                                        "r1":  {
                                                   "description":  "受到治疗或进行治疗时，将赋予一枚团结标记，持续30秒，至多拥有三枚团结标记。施放元素战技或元素爆发时，将消耗所有的团结标记，产生持续10秒的「抗争」效果：每枚消耗的团结标记提高3%攻击力与7%所有元素伤害加成。每15秒至多触发一次抗争效果；角色处于队伍后台时也能获得团结标记。",
@@ -11381,9 +11381,9 @@
                                                                   "7%"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "弓",
                                         "name":  "暗巷猎手",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，最多通过这种方式获得\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e，直到降低至0%。",
                                         "r1":  {
                                                    "description":  "装备该武器的角色处于队伍后台时，每1秒角色造成的伤害提升2%，最多通过这种方式获得20%的伤害提升；在场上超过4秒后，上述伤害提升效果每1秒会流失4%，直到降低至0%。",
@@ -11420,9 +11420,9 @@
                                                                   "70"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "弓",
                                         "name":  "鹮穿之喙",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "重击命中敌人后的6秒内，角色元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点。该效果至多叠加2层，每0.5秒至多触发一次。",
                                         "r1":  {
                                                    "description":  "重击命中敌人后的6秒内，角色元素精通提升40点。该效果至多叠加2层，每0.5秒至多触发一次。",
@@ -11469,9 +11469,9 @@
                                                                    "35%"
                                                                ]
                                                 },
+                                         "substatText":  "元素充能效率",
                                          "weaponText":  "单手剑",
                                          "name":  "天空之刃",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；施放元素爆发时，获得破空之势：移动速度提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，攻击速度提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e，普通攻击与重击命中时，额外造成\u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e攻击力的伤害，持续12秒。",
                                          "r1":  {
                                                     "description":  "暴击率提升4%；施放元素爆发时，获得破空之势：移动速度提升10%，攻击速度提升10%，普通攻击与重击命中时，额外造成20%攻击力的伤害，持续12秒。",
@@ -11509,9 +11509,9 @@
                                                                      "14%"
                                                                  ]
                                                   },
+                                           "substatText":  "攻击力",
                                            "weaponText":  "单手剑",
                                            "name":  "宗室长剑",
-                                           "substat":  null,
                                            "effectTemplateRaw":  "攻击造成伤害时，暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
                                            "r1":  {
                                                       "description":  "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
@@ -11526,9 +11526,9 @@
                                               "r5":  null,
                                               "r2":  null,
                                               "r4":  null,
+                                              "substatText":  "攻击力",
                                               "weaponText":  "单手剑",
                                               "name":  "笼钓瓶一心",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "普通攻击、重击或下落攻击命中敌人时，将卷起切落风，造成180%攻击力的范围伤害，并且使攻击力提升15%，持续8秒。该效果每8秒至多触发一次。",
                                               "r1":  {
                                                          "description":  "普通攻击、重击或下落攻击命中敌人时，将卷起切落风，造成180%攻击力的范围伤害，并且使攻击力提升15%，持续8秒。该效果每8秒至多触发一次。",
@@ -11567,9 +11567,9 @@
                                                                        "11.5%"
                                                                    ]
                                                     },
+                                             "substatText":  "攻击力",
                                              "weaponText":  "长柄武器",
                                              "name":  "勘探钻机",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "受到治疗或进行治疗时，将赋予一枚团结标记，持续30秒，至多拥有三枚团结标记。施放元素战技或元素爆发时，将消耗所有的团结标记，产生持续10秒的「抗争」效果：每枚消耗的团结标记提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力与\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e所有元素伤害加成。每15秒至多触发一次抗争效果；角色处于队伍后台时也能获得团结标记。",
                                              "r1":  {
                                                         "description":  "受到治疗或进行治疗时，将赋予一枚团结标记，持续30秒，至多拥有三枚团结标记。施放元素战技或元素爆发时，将消耗所有的团结标记，产生持续10秒的「抗争」效果：每枚消耗的团结标记提高3%攻击力与7%所有元素伤害加成。每15秒至多触发一次抗争效果；角色处于队伍后台时也能获得团结标记。",
@@ -11605,9 +11605,9 @@
                                                                  "14%"
                                                              ]
                                               },
+                                       "substatText":  "攻击力",
                                        "weaponText":  "长柄武器",
                                        "name":  "宗室猎枪",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "攻击造成伤害时，暴击率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
                                        "r1":  {
                                                   "description":  "攻击造成伤害时，暴击率提升8%，最多堆叠5次。攻击造成暴击后，移除已有的专注效果。",
@@ -11646,9 +11646,9 @@
                                                               "14%"
                                                           ]
                                            },
+                                    "substatText":  "攻击力",
                                     "weaponText":  "弓",
                                     "name":  "阿莫斯之弓",
-                                    "substat":  null,
                                     "effectTemplateRaw":  "普通攻击与重击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；普通攻击与重击的箭矢发射后每经过0.1秒，伤害还会提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，至多提升5次。",
                                     "r1":  {
                                                "description":  "普通攻击与重击造成的伤害提升12%；普通攻击与重击的箭矢发射后每经过0.1秒，伤害还会提升8%，至多提升5次。",
@@ -11688,9 +11688,9 @@
                                                                    "21%"
                                                                ]
                                                 },
+                                         "substatText":  "暴击率",
                                          "weaponText":  "双手剑",
                                          "name":  "聊聊棒",
-                                         "substat":  null,
                                          "effectTemplateRaw":  "承受火元素附着后的15秒内，攻击力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，每12秒至多触发一次。",
                                          "r1":  {
                                                     "description":  "承受火元素附着后的15秒内，攻击力提升16%，每12秒至多触发一次；承受水元素、冰元素、雷元素或草元素附着后的15秒内，所有元素伤害加成提升12%，每12秒至多触发一次。",
@@ -11730,9 +11730,9 @@
                                                                                "10.5%"
                                                                            ]
                                                             },
+                                                     "substatText":  "元素充能效率",
                                                      "weaponText":  "法器",
                                                      "name":  "无垠蔚蓝之歌",
-                                                     "substat":  null,
                                                      "effectTemplateRaw":  "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，重击造成的伤害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。该效果至多叠加3次，每0.3秒至多触发一次。",
                                                      "r1":  {
                                                                 "description":  "普通攻击或重击命中敌人后的6秒内，普通攻击造成的伤害提升8%，重击造成的伤害提升6%。该效果至多叠加3次，每0.3秒至多触发一次。",
@@ -11768,9 +11768,9 @@
                                                                   "70%"
                                                               ]
                                                },
+                                        "substatText":  "生命值",
                                         "weaponText":  "长柄武器",
                                         "name":  "黑缨枪",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "对史莱姆类敌人造成的伤害增加\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                         "r1":  {
                                                    "description":  "对史莱姆类敌人造成的伤害增加40%。",
@@ -11805,9 +11805,9 @@
                                                                         "210"
                                                                     ]
                                                      },
+                                              "substatText":  "暴击率",
                                               "weaponText":  "长柄武器",
                                               "name":  "峡湾长歌",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "队伍中存在至少三种不同元素类型的角色时，元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点。",
                                               "r1":  {
                                                          "description":  "队伍中存在至少三种不同元素类型的角色时，元素精通提升120点。",
@@ -11850,9 +11850,9 @@
                                                                  "42%"
                                                              ]
                                               },
+                                       "substatText":  "暴击率",
                                        "weaponText":  "长柄武器",
                                        "name":  "决斗之枪",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "身边至少有2个敌人时，获得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力提升与\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e防御力提升；身边的敌人少于2个时，获得\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e攻击力提升。",
                                        "r1":  {
                                                   "description":  "身边至少有2个敌人时，获得16%攻击力提升与16%防御力提升；身边的敌人少于2个时，获得24%攻击力提升。",
@@ -11897,9 +11897,9 @@
                                                                   "320%"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "法器",
                                         "name":  "忍冬之果",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "普通攻击与重击命中敌人时，有\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e概率在敌人上方生成恒冰晶核并坠落，造成\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e攻击力的范围伤害。若敌人处于冰元素影响下，则造成\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e攻击力的伤害。该效果每10秒至多触发一次。",
                                         "r1":  {
                                                    "description":  "普通攻击与重击命中敌人时，有60%概率在敌人上方生成恒冰晶核并坠落，造成80%攻击力的范围伤害。若敌人处于冰元素影响下，则造成200%攻击力的伤害。该效果每10秒至多触发一次。",
@@ -11940,9 +11940,9 @@
                                                                                 "21%"
                                                                             ]
                                                              },
+                                                      "substatText":  "暴击率",
                                                       "weaponText":  "长柄武器",
                                                       "name":  "和璞鸢",
-                                                      "substat":  null,
                                                       "effectTemplateRaw":  "命中敌人时自身攻击力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                                       "r1":  {
                                                                  "description":  "命中敌人时自身攻击力提高3.2%，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升12%。",
@@ -11986,9 +11986,9 @@
                                                                     "290%"
                                                                 ]
                                                  },
+                                          "substatText":  "物理伤害加成",
                                           "weaponText":  "单手剑",
                                           "name":  "风鹰剑",
-                                          "substat":  null,
                                           "effectTemplateRaw":  "攻击力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e的生命值，并对周围的敌人造成\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e攻击力的伤害。该效果每15秒只能触发一次。",
                                           "r1":  {
                                                      "description":  "攻击力提高20%；受到伤害时触发：高扬抗争旗号的西风鹰之魂苏醒，恢复等同于攻击力的100%的生命值，并对周围的敌人造成200%攻击力的伤害。该效果每15秒只能触发一次。",
@@ -12005,9 +12005,9 @@
                                                  "r5":  null,
                                                  "r2":  null,
                                                  "r4":  null,
+                                                 "substatText":  "攻击力",
                                                  "weaponText":  "单手剑",
                                                  "name":  "「一心传」名刀",
-                                                 "substat":  null,
                                                  "effectTemplateRaw":  "普通攻击、重击或下落攻击命中敌人时，将释放祟灵，造成180%攻击力的范围伤害。该效果每8秒最多触发一次；装备该武器的角色造成的伤害降低50%。",
                                                  "r1":  {
                                                             "description":  "普通攻击、重击或下落攻击命中敌人时，将释放祟灵，造成180%攻击力的范围伤害。该效果每8秒最多触发一次；装备该武器的角色造成的伤害降低50%。",
@@ -12046,9 +12046,9 @@
                                                                   "12"
                                                               ]
                                                },
+                                        "substatText":  "攻击力",
                                         "weaponText":  "单手剑",
                                         "name":  "吃虎鱼刀",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "攻击命中时，有50%的概率对单个敌人造成\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻击力的伤害。该效果每\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e秒只能触发一次。",
                                         "r1":  {
                                                    "description":  "攻击命中时，有50%的概率对单个敌人造成240%攻击力的伤害。该效果每15秒只能触发一次。",
@@ -12088,9 +12088,9 @@
                                                                        "3.5"
                                                                    ]
                                                     },
+                                             "substatText":  "生命值",
                                              "weaponText":  "双手剑",
                                              "name":  "便携动力锯",
-                                             "substat":  null,
                                              "effectTemplateRaw":  "受到治疗或进行治疗时，将赋予一枚坚忍标记，持续30秒，至多拥有三枚坚忍标记。施放元素战技或元素爆发时，将消耗所有的坚忍标记，产生持续10秒的「奋起」效果：每枚消耗的坚忍标记提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e点元素精通，并在效果产生2秒后，每枚消耗的坚忍标记为装备者恢复\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e点元素能量。每15秒至多触发一次奋起效果；角色处于队伍后台时也能获得坚忍标记。",
                                              "r1":  {
                                                         "description":  "受到治疗或进行治疗时，将赋予一枚坚忍标记，持续30秒，至多拥有三枚坚忍标记。施放元素战技或元素爆发时，将消耗所有的坚忍标记，产生持续10秒的「奋起」效果：每枚消耗的坚忍标记提高40点元素精通，并在效果产生2秒后，每枚消耗的坚忍标记为装备者恢复2点元素能量。每15秒至多触发一次奋起效果；角色处于队伍后台时也能获得坚忍标记。",
@@ -12106,9 +12106,9 @@
                                      "r5":  null,
                                      "r2":  null,
                                      "r4":  null,
+                                     "substatText":  "攻击力",
                                      "weaponText":  "弓",
                                      "name":  "掠食者",
-                                     "substat":  null,
                                      "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003e仅在以下平台生效：\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\n对敌人造成冰元素伤害后，普通攻击与重击造成的伤害提高10%，该效果持续6秒，至多叠加2次；此外，埃洛伊装备掠食者时，攻击力提升66点。",
                                      "r1":  {
                                                 "description":  "仅在以下平台生效：\n\"PlayStation Network\"\n对敌人造成冰元素伤害后，普通攻击与重击造成的伤害提高10%，该效果持续6秒，至多叠加2次；此外，埃洛伊装备掠食者时，攻击力提升66点。",
@@ -12147,9 +12147,9 @@
                                                                  "35%"
                                                              ]
                                               },
+                                       "substatText":  "暴击率",
                                        "weaponText":  "法器",
                                        "name":  "匣里日月",
-                                       "substat":  null,
                                        "effectTemplateRaw":  "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
                                        "r1":  {
                                                   "description":  "普通攻击命中后的6秒内，元素战技与元素爆发的伤害提高20%；元素战技与元素爆发命中后的6秒内，普通攻击的伤害提高20%。",
@@ -12193,9 +12193,9 @@
                                                                         "35%"
                                                                     ]
                                                      },
+                                              "substatText":  "物理伤害加成",
                                               "weaponText":  "双手剑",
                                               "name":  "松籁响起之时",
-                                              "substat":  null,
                                               "effectTemplateRaw":  "飘游风中的「千年的大乐章」的一部分。攻击力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e；普通攻击或重击命中敌人时，角色获得一枚低语之符，每0.3秒内至多触发一次。拥有4枚低语之符时，将消耗所有低语之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·揭旗之歌」效果：普通攻击速度提高\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，攻击力提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e。触发后20秒内，无法再次获得低语之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
                                               "r1":  {
                                                          "description":  "飘游风中的「千年的大乐章」的一部分。攻击力提高16%；普通攻击或重击命中敌人时，角色获得一枚低语之符，每0.3秒内至多触发一次。拥有4枚低语之符时，将消耗所有低语之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章·揭旗之歌」效果：普通攻击速度提高12%，攻击力提升20%。触发后20秒内，无法再次获得低语之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。",
@@ -12232,9 +12232,9 @@
                                                                   "32%"
                                                               ]
                                                },
+                                        "substatText":  "元素精通",
                                         "weaponText":  "长柄武器",
                                         "name":  "匣里灭辰",
-                                        "substat":  null,
                                         "effectTemplateRaw":  "对处于水元素或火元素影响下的敌人，造成的伤害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。",
                                         "r1":  {
                                                    "description":  "对处于水元素或火元素影响下的敌人，造成的伤害提高20%。",
