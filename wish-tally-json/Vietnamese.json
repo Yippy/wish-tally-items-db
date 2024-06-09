@@ -590,9 +590,6 @@
                       "adventureexp":  {
                                            "name":  "EXP Mạo Hiểm"
                                        },
-                      "oasisgardenstruth":  {
-                                                "name":  "Chân Lý Vườn Hoa Ốc Đảo"
-                                            },
                       "stormbeads":  {
                                          "name":  "Ngọc Sấm Sét"
                                      },
@@ -662,12 +659,15 @@
                       "lightningprism":  {
                                              "name":  "Lăng Kính Sấm Sét"
                                          },
-                      "windwheelastersaroma":  {
-                                                   "name":  "Mùi Hương Của Cúc Cánh Quạt"
-                                               },
+                      "valberry":  {
+                                       "name":  "Quả Dâu Đỏ"
+                                   },
                       "stainedmask":  {
                                           "name":  "Mặt Nạ Bẩn"
                                       },
+                      "windwheelastersaroma":  {
+                                                   "name":  "Mùi Hương Của Cúc Cánh Quạt"
+                                               },
                       "cleansingheart":  {
                                              "name":  "Trái Tim Thuần Khiết"
                                          },
@@ -677,9 +677,9 @@
                       "dreamsolvent":  {
                                            "name":  "Dung Môi Ảo Mộng"
                                        },
-                      "valberry":  {
-                                       "name":  "Quả Dâu Đỏ"
-                                   },
+                      "northlanderswordbillet":  {
+                                                     "name":  "Phôi Kiếm Đơn Bắc Lục"
+                                                 },
                       "acquaintfate":  {
                                            "name":  "Mối Duyên Tương Ngộ"
                                        },
@@ -1109,9 +1109,9 @@
                       "brokengobletofthepristinesea":  {
                                                            "name":  "Ly Vỡ Của Biển Nguyên Sơ"
                                                        },
-                      "starshroom":  {
-                                         "name":  "Nấm Sao"
-                                     },
+                      "silkenfeather":  {
+                                            "name":  "Lông Vũ Tơ Lụa"
+                                        },
                       "betta":  {
                                     "name":  "Cá Gai Đấu Sĩ"
                                 },
@@ -1577,9 +1577,9 @@
                       "shadowofthewarrior":  {
                                                  "name":  "Linh Hồn Võ Luyện - Cô Độc"
                                              },
-                      "maplewood":  {
-                                        "name":  "Gỗ Phong"
-                                    },
+                      "lumidoucebell":  {
+                                            "name":  "Hoa Lumidouce"
+                                        },
                       "rimewornfragment":  {
                                                "name":  "Băng Vụn Vỡ"
                                            },
@@ -1589,9 +1589,9 @@
                       "borealwolfsmilktooth":  {
                                                    "name":  "Răng Sữa Sói Bão"
                                                },
-                      "northlanderswordbillet":  {
-                                                     "name":  "Phôi Kiếm Đơn Bắc Lục"
-                                                 },
+                      "maplewood":  {
+                                        "name":  "Gỗ Phong"
+                                    },
                       "trimmedredsilk":  {
                                              "name":  "Băng Đỏ Viền Vàng"
                                          },
@@ -1712,9 +1712,9 @@
                       "lindenwood":  {
                                          "name":  "Gỗ Linden"
                                      },
-                      "silkenfeather":  {
-                                            "name":  "Lông Vũ Tơ Lụa"
-                                        },
+                      "camandcablesoflaw":  {
+                                                "name":  "Trục Đo Lường"
+                                            },
                       "ironchunk":  {
                                         "name":  "Mảnh Sắt"
                                     },
@@ -1889,12 +1889,15 @@
                       "prithivatopazchunk":  {
                                                  "name":  "Miếng Hoàng Ngọc Cứng"
                                              },
-                      "lumidoucebell":  {
-                                            "name":  "Hoa Lumidouce"
-                                        },
+                      "oasisgardenstruth":  {
+                                                "name":  "Chân Lý Vườn Hoa Ốc Đảo"
+                                            },
                       "cheese":  {
                                      "name":  "Phô Mai"
                                  },
+                      "starshroom":  {
+                                         "name":  "Nấm Sao"
+                                     },
                       "marionettecore":  {
                                              "name":  "Lõi Marionette"
                                          },
@@ -2542,6 +2545,47 @@
                                      "region":  "Mondstadt",
                                      "gender":  "nam"
                                  },
+                       "sigewinne":  {
+                                         "constellations":  {
+                                                                "c2":  {
+                                                                           "name":  "\"Tinh Linh Nhân Từ Nhất, Liệu Có Hóa Giải Thù Địch?\"",
+                                                                           "descriptionRaw":  "Khi thi triển \u003ccolor=#FFD780FF\u003eTrị Liệu Nảy Nảy Nảy\u003c/color\u003e và \u003ccolor=#FFD780FF\u003eỐng Tiêm Siêu Bão Hòa\u003c/color\u003e, sẽ sản sinh một Khiên Bong Bóng tương đương với 30% Giới Hạn HP, có 250% hiệu quả hấp thụ với \u003ccolor=#80C0FFFF\u003eSát Thương Nguyên Tố Thủy\u003c/color\u003e, duy trì đến khi hoàn thành thi triển.\nNgoài ra, Bong Bóng Chữa Trị của Trị Liệu Nảy Nảy Nảy hoặc Ống Tiêm Siêu Bão Hòa sau khi trúng kẻ địch, \u003ccolor=#80C0FFFF\u003eKháng Nguyên Tố Thủy\u003c/color\u003e của kẻ địch đó giảm 35% trong 8s.",
+                                                                           "description":  "Khi thi triển Trị Liệu Nảy Nảy Nảy và Ống Tiêm Siêu Bão Hòa, sẽ sản sinh một Khiên Bong Bóng tương đương với 30% Giới Hạn HP, có 250% hiệu quả hấp thụ với Sát Thương Nguyên Tố Thủy, duy trì đến khi hoàn thành thi triển.\nNgoài ra, Bong Bóng Chữa Trị của Trị Liệu Nảy Nảy Nảy hoặc Ống Tiêm Siêu Bão Hòa sau khi trúng kẻ địch, Kháng Nguyên Tố Thủy của kẻ địch đó giảm 35% trong 8s."
+                                                                       },
+                                                                "c4":  {
+                                                                           "name":  "\"Tinh Linh Xinh Đẹp Nhất, Liệu Có Miễn Dịch Hao Mòn?\"",
+                                                                           "descriptionRaw":  "Thời gian duy trì của \u003ccolor=#FFD780FF\u003eỐng Tiêm Siêu Bão Hòa\u003c/color\u003e kéo dài thêm 3s.",
+                                                                           "description":  "Thời gian duy trì của Ống Tiêm Siêu Bão Hòa kéo dài thêm 3s."
+                                                                       },
+                                                                "c3":  {
+                                                                           "name":  "\"Tinh Linh Khỏe Mạnh Nhất, Liệu Có Chữa Khỏi Bệnh Tật?\"",
+                                                                           "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eTrị Liệu Nảy Nảy Nảy\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                           "description":  "Cấp kỹ năng Trị Liệu Nảy Nảy Nảy +3.\nTăng tối đa đến cấp 15."
+                                                                       },
+                                                                "c5":  {
+                                                                           "name":  "\"Tinh Linh Hạnh Phúc Nhất, Liệu Có Xóa Bỏ Giày Vò?\"",
+                                                                           "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eỐng Tiêm Siêu Bão Hòa\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                           "description":  "Cấp kỹ năng Ống Tiêm Siêu Bão Hòa +3.\nTăng tối đa đến cấp 15."
+                                                                       },
+                                                                "c6":  {
+                                                                           "name":  "\"Tinh Linh Lung Linh Nhất, Liệu Có Cầu Nguyện Cho Tôi?\"",
+                                                                           "descriptionRaw":  "Khi Sigewinne tiến hành trị liệu, sẽ gia tăng Tỷ Lệ Bạo Kích và Sát Thương Bạo Kích của \u003ccolor=#FFD780FF\u003eỐng Tiêm Siêu Bão Hòa\u003c/color\u003e dựa trên Giới Hạn HP của bản thân: Mỗi 1000 điểm Giới Hạn HP sẽ tăng 0.4% Tỷ Lệ Bạo Kích và 2.2% Sát Thương Bạo Kích, duy trì 15s. Tối đa tăng 20% Tỷ Lệ Bạo Kích và 110% Sát Thương Bạo Kích thông qua cách thức này.",
+                                                                           "description":  "Khi Sigewinne tiến hành trị liệu, sẽ gia tăng Tỷ Lệ Bạo Kích và Sát Thương Bạo Kích của Ống Tiêm Siêu Bão Hòa dựa trên Giới Hạn HP của bản thân: Mỗi 1000 điểm Giới Hạn HP sẽ tăng 0.4% Tỷ Lệ Bạo Kích và 2.2% Sát Thương Bạo Kích, duy trì 15s. Tối đa tăng 20% Tỷ Lệ Bạo Kích và 110% Sát Thương Bạo Kích thông qua cách thức này."
+                                                                       },
+                                                                "c1":  {
+                                                                           "name":  "\"Tinh Linh Vui Vẻ Nhất, Liệu Có Hiểu Được Lo Âu?\"",
+                                                                           "descriptionRaw":  "Bong Bóng Chữa Trị của \u003ccolor=#FFD780FF\u003eTrị Liệu Nảy Nảy Nảy\u003c/color\u003e có thể nảy thêm 3 lần; 3 lần nảy đầu tiên sẽ không khiến Bong Bóng Chữa Trị lớn bị nhỏ đi.\nNgoài ra sẽ tăng hiệu quả của thiên phú \"Nghỉ Ngơi Hợp Lý\": Khi Bong Bóng Chữa Trị nảy, sẽ cung cấp 1 tầng cộng dồn Tịnh Dưỡng cho Sigewinne, đồng thời thay đổi sát thương tăng thêm sản sinh từ Tịnh Dưỡng thành: Với mỗi 1000 điểm Giới Hạn HP vượt quá mốc 30000 Giới Hạn HP của Sigewinne sẽ gia tăng 100 điểm sát thương, thông qua cách thức này tối đa tăng 3500 điểm sát thương. Hiệu quả này cần mở khóa thiên phú \"Nghỉ Ngơi Hợp Lý\".",
+                                                                           "description":  "Bong Bóng Chữa Trị của Trị Liệu Nảy Nảy Nảy có thể nảy thêm 3 lần; 3 lần nảy đầu tiên sẽ không khiến Bong Bóng Chữa Trị lớn bị nhỏ đi.\nNgoài ra sẽ tăng hiệu quả của thiên phú \"Nghỉ Ngơi Hợp Lý\": Khi Bong Bóng Chữa Trị nảy, sẽ cung cấp 1 tầng cộng dồn Tịnh Dưỡng cho Sigewinne, đồng thời thay đổi sát thương tăng thêm sản sinh từ Tịnh Dưỡng thành: Với mỗi 1000 điểm Giới Hạn HP vượt quá mốc 30000 Giới Hạn HP của Sigewinne sẽ gia tăng 100 điểm sát thương, thông qua cách thức này tối đa tăng 3500 điểm sát thương. Hiệu quả này cần mở khóa thiên phú \"Nghỉ Ngơi Hợp Lý\"."
+                                                                       }
+                                                            },
+                                         "elementText":  "Thủy",
+                                         "fullname":  null,
+                                         "weaponText":  "Cung",
+                                         "name":  "Sigewinne",
+                                         "substatText":  "HP",
+                                         "region":  "Fontaine",
+                                         "gender":  "nữ"
+                                     },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3765,47 +3809,47 @@
                                        "region":  "Fontaine",
                                        "gender":  "nữ"
                                    },
-                       "zhongli":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Thạch, Bát Hoang Ngọc Minh",
-                                                                         "descriptionRaw":  "Khi \u003ccolor=#FFD780FF\u003eThiên Tinh\u003c/color\u003e rơi xuống, các nhân vật trong trận hiện tại ở lân cận sẽ nhận được Khiên Ngọc bảo vệ.",
-                                                                         "description":  "Khi Thiên Tinh rơi xuống, các nhân vật trong trận hiện tại ở lân cận sẽ nhận được Khiên Ngọc bảo vệ."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Hoàng Tông, Phá Nhưng Không Mất Kiên Cường",
-                                                                         "descriptionRaw":  "Tăng 20% phạm vi ảnh hưởng của \u003ccolor=#FFD780FF\u003eThiên Tinh\u003c/color\u003e.\nĐồng thời hiệu quả Hóa Thạch của Thiên Tinh sẽ kéo dài thêm 2s.",
-                                                                         "description":  "Tăng 20% phạm vi ảnh hưởng của Thiên Tinh.\nĐồng thời hiệu quả Hóa Thạch của Thiên Tinh sẽ kéo dài thêm 2s."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Khuê Chương, Khó Khăn Không Lùi Bước",
-                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eTâm Trái Đất\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                         "description":  "Cấp kỹ năng Tâm Trái Đất +3.\nTăng tối đa đến cấp 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Thương Bích, Kiên Cường Như Lẽ Trời",
-                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eThiên Tinh\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                         "description":  "Cấp kỹ năng Thiên Tinh +3.\nTăng tối đa đến cấp 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Thiên Ngọc, Lễ Thiên Địa Tứ Phương",
-                                                                         "descriptionRaw":  "Khi Khiên Ngọc chịu sát thương, sẽ hồi HP cho nhân vật hiện tại, lượng hồi phục bằng 40% sát thương.\nLượng hồi phục của 1 lần không vượt quá 8% HP tối đa của nhân vật.",
-                                                                         "description":  "Khi Khiên Ngọc chịu sát thương, sẽ hồi HP cho nhân vật hiện tại, lượng hồi phục bằng 40% sát thương.\nLượng hồi phục của 1 lần không vượt quá 8% HP tối đa của nhân vật."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Nham, Lục Hợp Dẫn Thành Cốt",
-                                                                         "descriptionRaw":  "Vách đá tạo thành từ \u003ccolor=#FFD780FF\u003eTâm Trái Đất\u003c/color\u003e có thể tồn tại cùng lúc 2 cái.",
-                                                                         "description":  "Vách đá tạo thành từ Tâm Trái Đất có thể tồn tại cùng lúc 2 cái."
-                                                                     }
-                                                          },
-                                       "elementText":  "Nham",
-                                       "fullname":  null,
-                                       "weaponText":  "Vũ Khí Cán Dài",
-                                       "name":  "Zhongli",
-                                       "substatText":  "Tăng ST Nguyên Tố Nham",
-                                       "region":  "Liyue",
-                                       "gender":  "nam"
-                                   },
+                       "sethos":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Kinh Giấy Cói Của Điều Ẩn Mật",
+                                                                        "descriptionRaw":  "Khi đáp ứng bất kỳ các điều kiện sau, Sethos sẽ tăng 15% \u003ccolor=#FFACFFFF\u003eBuff Sát Thương Nguyên Tố Lôi\u003c/color\u003e trong 10s, tối đa cộng dồn 2 tầng, mỗi tầng tính giờ riêng:\n·Tiêu hao Năng Lượng Nguyên Tố từ việc nhắm bắn, điều kiện này cần mở khóa thiên phú \"Thì Thầm Của Diều Đen\".\n·Thông qua \u003ccolor=#FFD780FF\u003eNghi Thức Cổ - Tiếng Sấm Của Cát\u003c/color\u003e kích hoạt phản ứng nguyên tố để hồi phục Năng Lượng Nguyên Tố.\n·Thi triển \u003ccolor=#FFD780FF\u003eNghi Thức Ẩn - Ánh Sáng Xuyên Bóng Tối\u003c/color\u003e.",
+                                                                        "description":  "Khi đáp ứng bất kỳ các điều kiện sau, Sethos sẽ tăng 15% Buff Sát Thương Nguyên Tố Lôi trong 10s, tối đa cộng dồn 2 tầng, mỗi tầng tính giờ riêng:\n·Tiêu hao Năng Lượng Nguyên Tố từ việc nhắm bắn, điều kiện này cần mở khóa thiên phú \"Thì Thầm Của Diều Đen\".\n·Thông qua Nghi Thức Cổ - Tiếng Sấm Của Cát kích hoạt phản ứng nguyên tố để hồi phục Năng Lượng Nguyên Tố.\n·Thi triển Nghi Thức Ẩn - Ánh Sáng Xuyên Bóng Tối."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Lông Đà Điểu Của Lòng Chánh Niệm",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eMũi Tên Xuyên Bóng Tối\u003c/color\u003e hoặc \u003ccolor=#FFD780FF\u003eMũi Tên Chạng Vạng\u003c/color\u003e khi trúng 2 kẻ địch trở lên, Tinh Thông Nguyên Tố của tất cả nhân vật trong đội gần đó tăng 80 điểm, duy trì 10s.",
+                                                                        "description":  "Mũi Tên Xuyên Bóng Tối hoặc Mũi Tên Chạng Vạng khi trúng 2 kẻ địch trở lên, Tinh Thông Nguyên Tố của tất cả nhân vật trong đội gần đó tăng 80 điểm, duy trì 10s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Lời Triết Lý Của Mặt Trăng Lên",
+                                                                        "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eTấn Công Thường - Tiễn Thuật Lau Sậy Hoàng Gia\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                        "description":  "Cấp kỹ năng Tấn Công Thường - Tiễn Thuật Lau Sậy Hoàng Gia +3.\nTăng tối đa đến cấp 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Quyển Cát Nóng Của Thần Hoang Vu",
+                                                                        "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eNghi Thức Ẩn - Ánh Sáng Xuyên Bóng Tối\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                        "description":  "Cấp kỹ năng Nghi Thức Ẩn - Ánh Sáng Xuyên Bóng Tối +3.\nTăng tối đa đến cấp 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Sách Môn Đồ Của Tháp Mặt Trời",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eMũi Tên Xuyên Bóng Tối\u003c/color\u003e khi trúng kẻ địch sẽ hoàn trả Năng Lượng Nguyên Tố tiêu hao bởi thiên phú \"Thì Thầm Của Diều Đen\". Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Cần mở khóa thiên phú cố định \"Thì Thầm Của Diều Đen\".",
+                                                                        "description":  "Mũi Tên Xuyên Bóng Tối khi trúng kẻ địch sẽ hoàn trả Năng Lượng Nguyên Tố tiêu hao bởi thiên phú \"Thì Thầm Của Diều Đen\". Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Cần mở khóa thiên phú cố định \"Thì Thầm Của Diều Đen\"."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Khúc Thánh Ca Của Đền Phong Ấn",
+                                                                        "descriptionRaw":  "Tỷ Lệ Bạo Kích của \u003ccolor=#FFD780FF\u003eMũi Tên Xuyên Bóng Tối\u003c/color\u003e tăng 15%.",
+                                                                        "description":  "Tỷ Lệ Bạo Kích của Mũi Tên Xuyên Bóng Tối tăng 15%."
+                                                                    }
+                                                         },
+                                      "elementText":  "Lôi",
+                                      "fullname":  null,
+                                      "weaponText":  "Cung",
+                                      "name":  "Sethos",
+                                      "substatText":  "Tinh Thông Nguyên Tố",
+                                      "region":  "Sumeru",
+                                      "gender":  "nam"
+                                  },
                        "chongyun":  {
                                         "constellations":  {
                                                                "c2":  {
@@ -5325,6 +5369,47 @@
                                        "region":  "Mondstadt",
                                        "gender":  "nam"
                                    },
+                       "clorinde":  {
+                                        "constellations":  {
+                                                               "c2":  {
+                                                                          "name":  "\"Từ Nay, Đối Mặt Với Nguy Cơ Của Đêm Dài\"",
+                                                                          "descriptionRaw":  "Hiệu quả từ thiên phú \"Ngọn Lửa Xua Bóng Tối\" sẽ được cường hóa: Nhân vật trong đội gần đó sau khi kích hoạt \u003ccolor=#FFACFFFF\u003ephản ứng nguyên tố Lôi\u003c/color\u003e lên kẻ địch, sẽ căn cứ vào 30% Tấn Công của Clorinde để tăng \u003ccolor=#FFACFFFF\u003eSát Thương Nguyên Tố Lôi\u003c/color\u003e từ Tấn Công Thường và \u003ccolor=#FFD780FF\u003eTia Sáng Cuối Cùng\u003c/color\u003e của Clorinde. Hiệu quả này duy trì 15s, tối đa cộng dồn 3 tầng, mỗi tầng tính giờ riêng. Khi có đủ 3 tầng, Clorinde sẽ tăng khả năng Kháng Gián Đoạn. Thông qua cách thức này tối đa có thể khiến sát thương gây ra từ loại tấn công nêu trên của Clorinde tăng 2700.\nCần mở khóa thiên phú \"Ngọn Lửa Xua Bóng Tối\".",
+                                                                          "description":  "Hiệu quả từ thiên phú \"Ngọn Lửa Xua Bóng Tối\" sẽ được cường hóa: Nhân vật trong đội gần đó sau khi kích hoạt phản ứng nguyên tố Lôi lên kẻ địch, sẽ căn cứ vào 30% Tấn Công của Clorinde để tăng Sát Thương Nguyên Tố Lôi từ Tấn Công Thường và Tia Sáng Cuối Cùng của Clorinde. Hiệu quả này duy trì 15s, tối đa cộng dồn 3 tầng, mỗi tầng tính giờ riêng. Khi có đủ 3 tầng, Clorinde sẽ tăng khả năng Kháng Gián Đoạn. Thông qua cách thức này tối đa có thể khiến sát thương gây ra từ loại tấn công nêu trên của Clorinde tăng 2700.\nCần mở khóa thiên phú \"Ngọn Lửa Xua Bóng Tối\"."
+                                                                      },
+                                                               "c4":  {
+                                                                          "name":  "\"Để Ghi Nhớ Nước Mắt, Sinh Mệnh Và Tình Yêu\"",
+                                                                          "descriptionRaw":  "Khi \u003ccolor=#FFD780FF\u003eTia Sáng Cuối Cùng\u003c/color\u003e gây sát thương cho kẻ địch, sẽ căn cứ vào tỉ lệ Khế Ước Sinh Mệnh hiện tại của Clorinde để tăng sát thương cho lần đó, mỗi 1% Khế Ước Sinh Mệnh sẽ khiến sát thương gây ra của \u003ccolor=#FFD780FF\u003eTia Sáng Cuối Cùng\u003c/color\u003e lần đó tăng 2%; Thông qua cách thức này, tối đa khiến sát thương gây ra từ \u003ccolor=#FFD780FF\u003eTia Sáng Cuối Cùng\u003c/color\u003e tăng 200%.",
+                                                                          "description":  "Khi Tia Sáng Cuối Cùng gây sát thương cho kẻ địch, sẽ căn cứ vào tỉ lệ Khế Ước Sinh Mệnh hiện tại của Clorinde để tăng sát thương cho lần đó, mỗi 1% Khế Ước Sinh Mệnh sẽ khiến sát thương gây ra của Tia Sáng Cuối Cùng lần đó tăng 2%; Thông qua cách thức này, tối đa khiến sát thương gây ra từ Tia Sáng Cuối Cùng tăng 200%."
+                                                                      },
+                                                               "c3":  {
+                                                                          "name":  "\"Tôi Sẽ Khắc Ghi Lời Thề Của Ban Ngày\"",
+                                                                          "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eThanh Trừng Bóng Tối\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                          "description":  "Cấp kỹ năng Thanh Trừng Bóng Tối +3.\nTăng tối đa đến cấp 15."
+                                                                      },
+                                                               "c5":  {
+                                                                          "name":  "\"Và Ghi Nhớ Bình Minh Rồi Cũng Sẽ Đến\"",
+                                                                          "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eTia Sáng Cuối Cùng\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                          "description":  "Cấp kỹ năng Tia Sáng Cuối Cùng +3.\nTăng tối đa đến cấp 15."
+                                                                      },
+                                                               "c6":  {
+                                                                          "name":  "\"Vì Thế, Tôi Sẽ Không Bao Giờ Từ Bỏ Hy Vọng\"",
+                                                                          "descriptionRaw":  "Trong 12s sau khi thi triển \u003ccolor=#FFD780FF\u003eThanh Trừng Bóng Tối\u003c/color\u003e, Tỷ Lệ Bạo Kích của Clorinde tăng 10%, Sát Thương Bạo Kích tăng 70%.\nNgoài ra, trong thời gian duy trì trạng thái Tuần Tra Đêm, Bóng Của Nến Sáng sẽ xuất hiện trong điều kiện đặc biệt và truy kích, gây \u003ccolor=#FFACFFFF\u003eSát Thương Nguyên Tố Lôi\u003c/color\u003e tương ứng với 200% Tấn Công của Clorinde. Sát thương gây ra từ cách thức này sẽ được xem là sát thương Tấn Công Thường.\nBóng Của Nến Sáng sẽ xuất hiện trong những tình huống sau:\n·Khi Clorinde sắp bị tấn công trúng.\n·Khi Clorinde thi triển Xuyên Qua Màn Đêm - Hiệp Ước.\nMỗi 1s tối đa triệu hồi 1 lần Bóng Của Nến Sáng thông qua cách thức trên. Trong một lần thời gian duy trì trạng thái Tuần Tra Đêm, tối đa triệu hồi 6 lần Bóng Của Nến Sáng.\nNgoài ra, trong thời gian duy trì trạng thái Tuần Tra Đêm, Clorinde giảm 80% sát thương phải chịu và tăng Kháng Gián Đoạn. Hiệu quả này sẽ xóa sau 1s từ khi kết thúc trạng thái Tuần Tra Đêm hoặc triệu hồi 6 lần Bóng Của Nến Sáng.",
+                                                                          "description":  "Trong 12s sau khi thi triển Thanh Trừng Bóng Tối, Tỷ Lệ Bạo Kích của Clorinde tăng 10%, Sát Thương Bạo Kích tăng 70%.\nNgoài ra, trong thời gian duy trì trạng thái Tuần Tra Đêm, Bóng Của Nến Sáng sẽ xuất hiện trong điều kiện đặc biệt và truy kích, gây Sát Thương Nguyên Tố Lôi tương ứng với 200% Tấn Công của Clorinde. Sát thương gây ra từ cách thức này sẽ được xem là sát thương Tấn Công Thường.\nBóng Của Nến Sáng sẽ xuất hiện trong những tình huống sau:\n·Khi Clorinde sắp bị tấn công trúng.\n·Khi Clorinde thi triển Xuyên Qua Màn Đêm - Hiệp Ước.\nMỗi 1s tối đa triệu hồi 1 lần Bóng Của Nến Sáng thông qua cách thức trên. Trong một lần thời gian duy trì trạng thái Tuần Tra Đêm, tối đa triệu hồi 6 lần Bóng Của Nến Sáng.\nNgoài ra, trong thời gian duy trì trạng thái Tuần Tra Đêm, Clorinde giảm 80% sát thương phải chịu và tăng Kháng Gián Đoạn. Hiệu quả này sẽ xóa sau 1s từ khi kết thúc trạng thái Tuần Tra Đêm hoặc triệu hồi 6 lần Bóng Của Nến Sáng."
+                                                                      },
+                                                               "c1":  {
+                                                                          "name":  "\"Từ Nay, Tôi Vượt Qua Bức Màn Che Bóng Của Ngọn Nến\"",
+                                                                          "descriptionRaw":  "Trong thời gian duy trì trạng thái Tuần Tra Đêm của \u003ccolor=#FFD780FF\u003eThanh Trừng Bóng Tối\u003c/color\u003e, khi \u003ccolor=#FFACFFFF\u003eSát Thương Nguyên Tố Lôi\u003c/color\u003e gây ra từ Tấn Công Thường của Clorinde trúng kẻ địch, sẽ triệu hồi Ảo Ảnh Tuần Tra gần kẻ địch để hỗ trợ tấn công hai lần, mỗi lần gây \u003ccolor=#FFACFFFF\u003eSát Thương Nguyên Tố Lôi\u003c/color\u003e tương ứng với 30% Tấn Công của Clorinde.\nHiệu quả này mỗi 1.2s tối đa kích hoạt một lần, sát thương gây ra từ cách thức này sẽ được xem là sát thương Tấn Công Thường.",
+                                                                          "description":  "Trong thời gian duy trì trạng thái Tuần Tra Đêm của Thanh Trừng Bóng Tối, khi Sát Thương Nguyên Tố Lôi gây ra từ Tấn Công Thường của Clorinde trúng kẻ địch, sẽ triệu hồi Ảo Ảnh Tuần Tra gần kẻ địch để hỗ trợ tấn công hai lần, mỗi lần gây Sát Thương Nguyên Tố Lôi tương ứng với 30% Tấn Công của Clorinde.\nHiệu quả này mỗi 1.2s tối đa kích hoạt một lần, sát thương gây ra từ cách thức này sẽ được xem là sát thương Tấn Công Thường."
+                                                                      }
+                                                           },
+                                        "elementText":  "Lôi",
+                                        "fullname":  null,
+                                        "weaponText":  "Kiếm Đơn",
+                                        "name":  "Clorinde",
+                                        "substatText":  "Tỷ Lệ Bạo Kích",
+                                        "region":  "Fontaine",
+                                        "gender":  "nữ"
+                                    },
                        "sayu":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -5489,6 +5574,47 @@
                                             "region":  "Inazuma",
                                             "gender":  "nữ"
                                         },
+                       "zhongli":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Thạch, Bát Hoang Ngọc Minh",
+                                                                         "descriptionRaw":  "Khi \u003ccolor=#FFD780FF\u003eThiên Tinh\u003c/color\u003e rơi xuống, các nhân vật trong trận hiện tại ở lân cận sẽ nhận được Khiên Ngọc bảo vệ.",
+                                                                         "description":  "Khi Thiên Tinh rơi xuống, các nhân vật trong trận hiện tại ở lân cận sẽ nhận được Khiên Ngọc bảo vệ."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Hoàng Tông, Phá Nhưng Không Mất Kiên Cường",
+                                                                         "descriptionRaw":  "Tăng 20% phạm vi ảnh hưởng của \u003ccolor=#FFD780FF\u003eThiên Tinh\u003c/color\u003e.\nĐồng thời hiệu quả Hóa Thạch của Thiên Tinh sẽ kéo dài thêm 2s.",
+                                                                         "description":  "Tăng 20% phạm vi ảnh hưởng của Thiên Tinh.\nĐồng thời hiệu quả Hóa Thạch của Thiên Tinh sẽ kéo dài thêm 2s."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Khuê Chương, Khó Khăn Không Lùi Bước",
+                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eTâm Trái Đất\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                         "description":  "Cấp kỹ năng Tâm Trái Đất +3.\nTăng tối đa đến cấp 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Thương Bích, Kiên Cường Như Lẽ Trời",
+                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eThiên Tinh\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                         "description":  "Cấp kỹ năng Thiên Tinh +3.\nTăng tối đa đến cấp 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Thiên Ngọc, Lễ Thiên Địa Tứ Phương",
+                                                                         "descriptionRaw":  "Khi Khiên Ngọc chịu sát thương, sẽ hồi HP cho nhân vật hiện tại, lượng hồi phục bằng 40% sát thương.\nLượng hồi phục của 1 lần không vượt quá 8% HP tối đa của nhân vật.",
+                                                                         "description":  "Khi Khiên Ngọc chịu sát thương, sẽ hồi HP cho nhân vật hiện tại, lượng hồi phục bằng 40% sát thương.\nLượng hồi phục của 1 lần không vượt quá 8% HP tối đa của nhân vật."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Nham, Lục Hợp Dẫn Thành Cốt",
+                                                                         "descriptionRaw":  "Vách đá tạo thành từ \u003ccolor=#FFD780FF\u003eTâm Trái Đất\u003c/color\u003e có thể tồn tại cùng lúc 2 cái.",
+                                                                         "description":  "Vách đá tạo thành từ Tâm Trái Đất có thể tồn tại cùng lúc 2 cái."
+                                                                     }
+                                                          },
+                                       "elementText":  "Nham",
+                                       "fullname":  null,
+                                       "weaponText":  "Vũ Khí Cán Dài",
+                                       "name":  "Zhongli",
+                                       "substatText":  "Tăng ST Nguyên Tố Nham",
+                                       "region":  "Liyue",
+                                       "gender":  "nam"
+                                   },
                        "nahida":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5783,53 +5909,6 @@
                                                     },
                                              "effectName":  "Ngọn Gió Không Đến"
                                          },
-                    "finaleofthedeep":  {
-                                            "r3":  {
-                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 18% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 3.6% xóa đi để tăng tối đa 225 tấn công, duy trì 15s.",
-                                                       "values":  [
-                                                                      "18%",
-                                                                      "3.6%",
-                                                                      "225"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 24% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 4.8% xóa đi để tăng tối đa 300 tấn công, duy trì 15s.",
-                                                       "values":  [
-                                                                      "24%",
-                                                                      "4.8%",
-                                                                      "300"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 15% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 3% xóa đi để tăng tối đa 187.5 tấn công, duy trì 15s.",
-                                                       "values":  [
-                                                                      "15%",
-                                                                      "3%",
-                                                                      "187.5"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 21% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 4.2% xóa đi để tăng tối đa 262.5 tấn công, duy trì 15s.",
-                                                       "values":  [
-                                                                      "21%",
-                                                                      "4.2%",
-                                                                      "262.5"
-                                                                  ]
-                                                   },
-                                            "substatText":  "Tấn Công",
-                                            "weaponText":  "Kiếm Đơn",
-                                            "name":  "Nhạc Khúc Biển Sâu",
-                                            "effectTemplateRaw":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e xóa đi để tăng tối đa \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e tấn công, duy trì 15s.",
-                                            "r1":  {
-                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 12% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 2.4% xóa đi để tăng tối đa 150 tấn công, duy trì 15s.",
-                                                       "values":  [
-                                                                      "12%",
-                                                                      "2.4%",
-                                                                      "150"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Kinh Điển Cuối Cùng"
-                                        },
                     "ferrousshadow":  {
                                           "r3":  {
                                                      "description":  "Khi HP dưới 80%, trọng kích khó bị ngắt đoạn, và tăng 40% sát thương trọng kích.",
@@ -7560,6 +7639,48 @@
                                                  },
                                           "effectName":  "Đi Cùng Với Gió"
                                       },
+                    "absolution":  {
+                                       "r3":  {
+                                                  "description":  "Sát Thương Bạo Kích tăng 30%; Khi giá trị của Khế Ước Sinh Mệnh gia tăng, sát thương gây ra của người trang bị tăng 24% trong 6s. Hiệu quả này tối đa cộng dồn 3 tầng.",
+                                                  "values":  [
+                                                                 "30%",
+                                                                 "24%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Sát Thương Bạo Kích tăng 40%; Khi giá trị của Khế Ước Sinh Mệnh gia tăng, sát thương gây ra của người trang bị tăng 32% trong 6s. Hiệu quả này tối đa cộng dồn 3 tầng.",
+                                                  "values":  [
+                                                                 "40%",
+                                                                 "32%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Sát Thương Bạo Kích tăng 25%; Khi giá trị của Khế Ước Sinh Mệnh gia tăng, sát thương gây ra của người trang bị tăng 20% trong 6s. Hiệu quả này tối đa cộng dồn 3 tầng.",
+                                                  "values":  [
+                                                                 "25%",
+                                                                 "20%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Sát Thương Bạo Kích tăng 35%; Khi giá trị của Khế Ước Sinh Mệnh gia tăng, sát thương gây ra của người trang bị tăng 28% trong 6s. Hiệu quả này tối đa cộng dồn 3 tầng.",
+                                                  "values":  [
+                                                                 "35%",
+                                                                 "28%"
+                                                             ]
+                                              },
+                                       "substatText":  "ST Bạo Kích",
+                                       "weaponText":  "Kiếm Đơn",
+                                       "name":  "Xá Tội",
+                                       "effectTemplateRaw":  "Sát Thương Bạo Kích tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e; Khi giá trị của Khế Ước Sinh Mệnh gia tăng, sát thương gây ra của người trang bị tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e trong 6s. Hiệu quả này tối đa cộng dồn 3 tầng.",
+                                       "r1":  {
+                                                  "description":  "Sát Thương Bạo Kích tăng 20%; Khi giá trị của Khế Ước Sinh Mệnh gia tăng, sát thương gây ra của người trang bị tăng 16% trong 6s. Hiệu quả này tối đa cộng dồn 3 tầng.",
+                                                  "values":  [
+                                                                 "20%",
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "effectName":  "Khế Ước Chết Chóc"
+                                   },
                     "freedomsworn":  {
                                          "r3":  {
                                                     "description":  "Một phần của \"Ca Khúc Thời Đại Nghìn Năm\" lãng du trong gió. Sát thương tạo thành tăng 15%; Khi kích hoạt phản ứng nguyên tố, nhân vật sẽ nhận 1 Lá Bùa Phấn Khởi, mỗi 0.5s tối đa kích hoạt một lần, nhân vật dự bị trong đội cũng sẽ kích hoạt. Khi có 2 Lá Bùa Phấn Khởi sẽ tiêu hao tất cả Lá Bùa Phấn Khởi, khiến tất cả nhân vật trong đội gần đó nhận được hiệu ứng \"Ca Khúc Thời Đại Nghìn Năm - Bài Ca Kháng Chiến\" trong 12s: Sát thương đánh thường, trọng kích, tấn công khi đáp tăng 24%, tấn công tăng 30%. Trong 20s sau khi kích hoạt sẽ không nhận được Lá Bùa Phấn Khởi nữa. Khi các hiệu quả của \"Ca Khúc Thời Đại Nghìn Năm\" đang kích hoạt, những hiệu quả cùng loại khác sẽ không được cộng dồn.",
@@ -8598,6 +8719,58 @@
                                                 },
                                          "effectName":  "Hoàng Cực Chương Vàng"
                                      },
+                    "skywardspine":  {
+                                         "r3":  {
+                                                    "description":  "Tỷ lệ bạo kích tăng 12%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 70% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
+                                                    "values":  [
+                                                                   "12%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "70%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Tỷ lệ bạo kích tăng 16%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 100% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
+                                                    "values":  [
+                                                                   "16%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "100%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Tỷ lệ bạo kích tăng 10%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 55% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
+                                                    "values":  [
+                                                                   "10%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "55%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Tỷ lệ bạo kích tăng 14%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 85% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
+                                                    "values":  [
+                                                                   "14%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "85%"
+                                                               ]
+                                                },
+                                         "substatText":  "Hiệu Quả Nạp Nguyên Tố",
+                                         "weaponText":  "Vũ Khí Cán Dài",
+                                         "name":  "Xương Sống Thiên Không",
+                                         "effectTemplateRaw":  "Tỷ lệ bạo kích tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e,tốc độ tấn công thường tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
+                                         "r1":  {
+                                                    "description":  "Tỷ lệ bạo kích tăng 8%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 40% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
+                                                    "values":  [
+                                                                   "8%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "40%"
+                                                               ]
+                                                },
+                                         "effectName":  "Răng Nanh Đen Vỡ Nát"
+                                     },
                     "kitaincrossspear":  {
                                              "r3":  {
                                                         "description":  "Tăng sát thương Kỹ Năng Nguyên Tố 9%. Sau khi Kỹ Năng Nguyên Tố đánh trúng, nhân vật mất 3 điểm Năng Lượng Nguyên Tố, đồng thời 6 giây tiếp theo mỗi 2 giây hồi phục 4 điểm. Hiệu quả này mỗi 10 giây kích hoạt 1 lần, nhân vật ở trong đội nhưng không ra trận vẫn có thể kích hoạt.",
@@ -8839,6 +9012,43 @@
                                                               ]
                                                },
                                         "effectName":  "Sắc Bén"
+                                    },
+                    "cloudforged":  {
+                                        "r3":  {
+                                                   "description":  "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 60 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng.",
+                                                   "values":  [
+                                                                  "60"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 80 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng.",
+                                                   "values":  [
+                                                                  "80"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 50 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng.",
+                                                   "values":  [
+                                                                  "50"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 70 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng.",
+                                                   "values":  [
+                                                                  "70"
+                                                              ]
+                                               },
+                                        "substatText":  "Tinh Thông Nguyên Tố",
+                                        "weaponText":  "Cung",
+                                        "name":  "Trúc Vân",
+                                        "effectTemplateRaw":  "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng.",
+                                        "r1":  {
+                                                   "description":  "Sau khi Năng Lượng Nguyên Tố giảm, Tinh Thông Nguyên Tố của người trang bị tăng 40 điểm. Hiệu quả này duy trì 18s, tối đa cộng dồn 2 tầng.",
+                                                   "values":  [
+                                                                  "40"
+                                                              ]
+                                               },
+                                        "effectName":  "Khối Vuông Điêu Khắc"
                                     },
                     "twinnephrite":  {
                                          "r3":  {
@@ -9760,58 +9970,53 @@
                                                },
                                         "effectName":  "Bài Thơ Vang Lên Trời Cao"
                                     },
-                    "skywardspine":  {
-                                         "r3":  {
-                                                    "description":  "Tỷ lệ bạo kích tăng 12%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 70% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
-                                                    "values":  [
-                                                                   "12%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "70%"
-                                                               ]
-                                                },
-                                         "r5":  {
-                                                    "description":  "Tỷ lệ bạo kích tăng 16%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 100% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
-                                                    "values":  [
-                                                                   "16%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "100%"
-                                                               ]
-                                                },
-                                         "r2":  {
-                                                    "description":  "Tỷ lệ bạo kích tăng 10%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 55% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
-                                                    "values":  [
-                                                                   "10%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "55%"
-                                                               ]
-                                                },
-                                         "r4":  {
-                                                    "description":  "Tỷ lệ bạo kích tăng 14%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 85% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
-                                                    "values":  [
-                                                                   "14%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "85%"
-                                                               ]
-                                                },
-                                         "substatText":  "Hiệu Quả Nạp Nguyên Tố",
-                                         "weaponText":  "Vũ Khí Cán Dài",
-                                         "name":  "Xương Sống Thiên Không",
-                                         "effectTemplateRaw":  "Tỷ lệ bạo kích tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e,tốc độ tấn công thường tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
-                                         "r1":  {
-                                                    "description":  "Tỷ lệ bạo kích tăng 8%,tốc độ tấn công thường tăng 12%. Ngoài ra, khi tấn công thường và trọng kích đánh trúng kẻ địch, có tỷ lệ 50% thi triển Lưỡi Dao Chân Không, tạo thêm sát thương bằng 40% tấn công trong phạm vi nhỏ. Hiệu quả này mỗi 2s thi triển nhiều nhất 1 lần.",
-                                                    "values":  [
-                                                                   "8%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "40%"
-                                                               ]
-                                                },
-                                         "effectName":  "Răng Nanh Đen Vỡ Nát"
-                                     },
+                    "finaleofthedeep":  {
+                                            "r3":  {
+                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 18% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 3.6% xóa đi để tăng tối đa 225 tấn công, duy trì 15s.",
+                                                       "values":  [
+                                                                      "18%",
+                                                                      "3.6%",
+                                                                      "225"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 24% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 4.8% xóa đi để tăng tối đa 300 tấn công, duy trì 15s.",
+                                                       "values":  [
+                                                                      "24%",
+                                                                      "4.8%",
+                                                                      "300"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 15% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 3% xóa đi để tăng tối đa 187.5 tấn công, duy trì 15s.",
+                                                       "values":  [
+                                                                      "15%",
+                                                                      "3%",
+                                                                      "187.5"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 21% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 4.2% xóa đi để tăng tối đa 262.5 tấn công, duy trì 15s.",
+                                                       "values":  [
+                                                                      "21%",
+                                                                      "4.2%",
+                                                                      "262.5"
+                                                                  ]
+                                                   },
+                                            "substatText":  "Tấn Công",
+                                            "weaponText":  "Kiếm Đơn",
+                                            "name":  "Nhạc Khúc Biển Sâu",
+                                            "effectTemplateRaw":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e xóa đi để tăng tối đa \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e tấn công, duy trì 15s.",
+                                            "r1":  {
+                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 12% tấn công, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 25% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, căn cứ vào 2.4% xóa đi để tăng tối đa 150 tấn công, duy trì 15s.",
+                                                       "values":  [
+                                                                      "12%",
+                                                                      "2.4%",
+                                                                      "150"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Kinh Điển Cuối Cùng"
+                                        },
                     "everlastingmoonglow":  {
                                                 "r3":  {
                                                            "description":  "Trị liệu tăng 15%; Tăng lượng sát thương đánh thường gây ra, lượng tăng thêm sẽ là 2% giới hạn HP của nhân vật trang bị vũ khí này. Trong 12s sau khi thi triển Kỹ Năng Nộ, đánh thường trúng kẻ địch sẽ hồi phục 0.6 Năng Lượng Nguyên Tố, mỗi 0.1s tối đa hồi phục Năng Lượng Nguyên Tố một lần bằng cách này.",
@@ -11664,6 +11869,48 @@
                                              },
                                       "effectName":  "Kích Năng Lượng"
                                   },
+                    "silvershowerheartstrings":  {
+                                                     "r3":  {
+                                                                "description":  "Người chơi nhận được hiệu quả \"Khôi Phục\". Mỗi khi có 1/2/3 tầng Khôi Phục, Giới Hạn HP tăng 18%/36%/60%. Người trang bị sẽ nhận 1 tầng Khôi Phục cho mỗi tình huống sau: Khi thi triển Kỹ Năng Nguyên Tố, duy trì 25s; Khi tăng giá trị Khế Ước Sinh Mệnh, duy trì 25s; Khi tiến hành trị liệu, duy trì 20s. Nhân vật không ra trận vẫn có thể kích hoạt. Thời gian duy trì của mỗi tầng Khôi Phục sẽ tính giờ riêng. Ngoài ra, khi có 3 tầng Khôi Phục, Tỷ Lệ Bạo Kích của Kỹ Năng Nộ tăng 42%, hiệu quả này sẽ bị xóa khi không có đủ 3 tầng Khôi Phục trong 4s.",
+                                                                "values":  [
+                                                                               "18%/36%/60%",
+                                                                               "42%"
+                                                                           ]
+                                                            },
+                                                     "r5":  {
+                                                                "description":  "Người chơi nhận được hiệu quả \"Khôi Phục\". Mỗi khi có 1/2/3 tầng Khôi Phục, Giới Hạn HP tăng 24%/48%/80%. Người trang bị sẽ nhận 1 tầng Khôi Phục cho mỗi tình huống sau: Khi thi triển Kỹ Năng Nguyên Tố, duy trì 25s; Khi tăng giá trị Khế Ước Sinh Mệnh, duy trì 25s; Khi tiến hành trị liệu, duy trì 20s. Nhân vật không ra trận vẫn có thể kích hoạt. Thời gian duy trì của mỗi tầng Khôi Phục sẽ tính giờ riêng. Ngoài ra, khi có 3 tầng Khôi Phục, Tỷ Lệ Bạo Kích của Kỹ Năng Nộ tăng 56%, hiệu quả này sẽ bị xóa khi không có đủ 3 tầng Khôi Phục trong 4s.",
+                                                                "values":  [
+                                                                               "24%/48%/80%",
+                                                                               "56%"
+                                                                           ]
+                                                            },
+                                                     "r2":  {
+                                                                "description":  "Người chơi nhận được hiệu quả \"Khôi Phục\". Mỗi khi có 1/2/3 tầng Khôi Phục, Giới Hạn HP tăng 15%/30%/50%. Người trang bị sẽ nhận 1 tầng Khôi Phục cho mỗi tình huống sau: Khi thi triển Kỹ Năng Nguyên Tố, duy trì 25s; Khi tăng giá trị Khế Ước Sinh Mệnh, duy trì 25s; Khi tiến hành trị liệu, duy trì 20s. Nhân vật không ra trận vẫn có thể kích hoạt. Thời gian duy trì của mỗi tầng Khôi Phục sẽ tính giờ riêng. Ngoài ra, khi có 3 tầng Khôi Phục, Tỷ Lệ Bạo Kích của Kỹ Năng Nộ tăng 35%, hiệu quả này sẽ bị xóa khi không có đủ 3 tầng Khôi Phục trong 4s.",
+                                                                "values":  [
+                                                                               "15%/30%/50%",
+                                                                               "35%"
+                                                                           ]
+                                                            },
+                                                     "r4":  {
+                                                                "description":  "Người chơi nhận được hiệu quả \"Khôi Phục\". Mỗi khi có 1/2/3 tầng Khôi Phục, Giới Hạn HP tăng 21%/42%/70%. Người trang bị sẽ nhận 1 tầng Khôi Phục cho mỗi tình huống sau: Khi thi triển Kỹ Năng Nguyên Tố, duy trì 25s; Khi tăng giá trị Khế Ước Sinh Mệnh, duy trì 25s; Khi tiến hành trị liệu, duy trì 20s. Nhân vật không ra trận vẫn có thể kích hoạt. Thời gian duy trì của mỗi tầng Khôi Phục sẽ tính giờ riêng. Ngoài ra, khi có 3 tầng Khôi Phục, Tỷ Lệ Bạo Kích của Kỹ Năng Nộ tăng 49%, hiệu quả này sẽ bị xóa khi không có đủ 3 tầng Khôi Phục trong 4s.",
+                                                                "values":  [
+                                                                               "21%/42%/70%",
+                                                                               "49%"
+                                                                           ]
+                                                            },
+                                                     "substatText":  "HP",
+                                                     "weaponText":  "Cung",
+                                                     "name":  "Màn Mưa Tơ Lòng",
+                                                     "effectTemplateRaw":  "Người chơi nhận được hiệu quả \"Khôi Phục\". Mỗi khi có 1/2/3 tầng Khôi Phục, Giới Hạn HP tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Người trang bị sẽ nhận 1 tầng Khôi Phục cho mỗi tình huống sau: Khi thi triển Kỹ Năng Nguyên Tố, duy trì 25s; Khi tăng giá trị Khế Ước Sinh Mệnh, duy trì 25s; Khi tiến hành trị liệu, duy trì 20s. Nhân vật không ra trận vẫn có thể kích hoạt. Thời gian duy trì của mỗi tầng Khôi Phục sẽ tính giờ riêng. Ngoài ra, khi có 3 tầng Khôi Phục, Tỷ Lệ Bạo Kích của Kỹ Năng Nộ tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, hiệu quả này sẽ bị xóa khi không có đủ 3 tầng Khôi Phục trong 4s.",
+                                                     "r1":  {
+                                                                "description":  "Người chơi nhận được hiệu quả \"Khôi Phục\". Mỗi khi có 1/2/3 tầng Khôi Phục, Giới Hạn HP tăng 12%/24%/40%. Người trang bị sẽ nhận 1 tầng Khôi Phục cho mỗi tình huống sau: Khi thi triển Kỹ Năng Nguyên Tố, duy trì 25s; Khi tăng giá trị Khế Ước Sinh Mệnh, duy trì 25s; Khi tiến hành trị liệu, duy trì 20s. Nhân vật không ra trận vẫn có thể kích hoạt. Thời gian duy trì của mỗi tầng Khôi Phục sẽ tính giờ riêng. Ngoài ra, khi có 3 tầng Khôi Phục, Tỷ Lệ Bạo Kích của Kỹ Năng Nộ tăng 28%, hiệu quả này sẽ bị xóa khi không có đủ 3 tầng Khôi Phục trong 4s.",
+                                                                "values":  [
+                                                                               "12%/24%/40%",
+                                                                               "28%"
+                                                                           ]
+                                                            },
+                                                     "effectName":  "Dạ Khúc Của Dryas"
+                                                 },
                     "prizedisshinblade":  {
                                               "r3":  null,
                                               "r5":  null,

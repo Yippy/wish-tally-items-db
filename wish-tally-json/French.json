@@ -590,9 +590,6 @@
                       "adventureexp":  {
                                            "name":  "EXP d\u0027aventure"
                                        },
-                      "oasisgardenstruth":  {
-                                                "name":  "Vérité du jardin d\u0027oasis"
-                                            },
                       "stormbeads":  {
                                          "name":  "Perles tempestives"
                                      },
@@ -662,12 +659,15 @@
                       "lightningprism":  {
                                              "name":  "Prisme d\u0027éclair"
                                          },
-                      "windwheelastersaroma":  {
-                                                   "name":  "Arôme de chrysanthème à aubes"
-                                               },
+                      "valberry":  {
+                                       "name":  "Tombaie"
+                                   },
                       "stainedmask":  {
                                           "name":  "Masque sale"
                                       },
+                      "windwheelastersaroma":  {
+                                                   "name":  "Arôme de chrysanthème à aubes"
+                                               },
                       "cleansingheart":  {
                                              "name":  "Cœur d\u0027eau pure"
                                          },
@@ -677,9 +677,9 @@
                       "dreamsolvent":  {
                                            "name":  "Solvant de rêve"
                                        },
-                      "valberry":  {
-                                       "name":  "Tombaie"
-                                   },
+                      "northlanderswordbillet":  {
+                                                     "name":  "Base d\u0027épée du nord"
+                                                 },
                       "acquaintfate":  {
                                            "name":  "Pierre de la destinée"
                                        },
@@ -1109,9 +1109,9 @@
                       "brokengobletofthepristinesea":  {
                                                            "name":  "Gobelet brisé de la mer immaculée"
                                                        },
-                      "starshroom":  {
-                                         "name":  "Champitoile"
-                                     },
+                      "silkenfeather":  {
+                                            "name":  "Plume soyeuse"
+                                        },
                       "betta":  {
                                     "name":  "Épinoche combattante"
                                 },
@@ -1577,9 +1577,9 @@
                       "shadowofthewarrior":  {
                                                  "name":  "Ombre du guerrier"
                                              },
-                      "maplewood":  {
-                                        "name":  "Bois d\u0027érable"
-                                    },
+                      "lumidoucebell":  {
+                                            "name":  "Clochette de Lumidouce"
+                                        },
                       "rimewornfragment":  {
                                                "name":  "Fragment du frimas"
                                            },
@@ -1589,9 +1589,9 @@
                       "borealwolfsmilktooth":  {
                                                    "name":  "Dent de lait du Loup boréal"
                                                },
-                      "northlanderswordbillet":  {
-                                                     "name":  "Base d\u0027épée du nord"
-                                                 },
+                      "maplewood":  {
+                                        "name":  "Bois d\u0027érable"
+                                    },
                       "trimmedredsilk":  {
                                              "name":  "Soie rouge brodée"
                                          },
@@ -1712,9 +1712,9 @@
                       "lindenwood":  {
                                          "name":  "Bois de tilleul"
                                      },
-                      "silkenfeather":  {
-                                            "name":  "Plume soyeuse"
-                                        },
+                      "camandcablesoflaw":  {
+                                                "name":  "Pièce d\u0027alignement"
+                                            },
                       "ironchunk":  {
                                         "name":  "Morceau de fer"
                                     },
@@ -1889,12 +1889,15 @@
                       "prithivatopazchunk":  {
                                                  "name":  "Morceau de topaze prithiva"
                                              },
-                      "lumidoucebell":  {
-                                            "name":  "Clochette de Lumidouce"
-                                        },
+                      "oasisgardenstruth":  {
+                                                "name":  "Vérité du jardin d\u0027oasis"
+                                            },
                       "cheese":  {
                                      "name":  "Fromage"
                                  },
+                      "starshroom":  {
+                                         "name":  "Champitoile"
+                                     },
                       "marionettecore":  {
                                              "name":  "Mécanisme oni"
                                          },
@@ -2530,8 +2533,8 @@
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Lignée de l\u0027excellence",
-                                                                       "descriptionRaw":  "Le taux CRIT des attaques normales et chargées de Kaeya contre les ennemis affectés par \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e augmente de 15 %.",
-                                                                       "description":  "Le taux CRIT des attaques normales et chargées de Kaeya contre les ennemis affectés par Cryo augmente de 15 %."
+                                                                       "descriptionRaw":  "Le taux CRIT des attaques normales et chargées de Kaeya contre les ennemis affectés par l\u0027\u003ccolor=#99FFFFFF\u003eélément Cryo\u003c/color\u003e augmente de 15 %.",
+                                                                       "description":  "Le taux CRIT des attaques normales et chargées de Kaeya contre les ennemis affectés par l\u0027élément Cryo augmente de 15 %."
                                                                    }
                                                         },
                                      "elementText":  "Cryo",
@@ -2542,12 +2545,53 @@
                                      "region":  "Mondstadt",
                                      "gender":  "Homme"
                                  },
+                       "sigewinne":  {
+                                         "constellations":  {
+                                                                "c2":  {
+                                                                           "name":  "« Le plus miséricordieux des esprits peut-il vaincre les ennemis ? »",
+                                                                           "descriptionRaw":  "Pendant la durée d\u0027\u003ccolor=#FFD780FF\u003eHydrothérapie rebondissante\u003c/color\u003e et d\u0027\u003ccolor=#FFD780FF\u003eInjection sur-saturée\u003c/color\u003e, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les \u003ccolor=#80C0FFFF\u003eDGT Hydro\u003c/color\u003e.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la \u003ccolor=#80C0FFFF\u003eRÉS Hydro\u003c/color\u003e de ce dernier diminue de 35 % pendant 8 s.",
+                                                                           "description":  "Pendant la durée d\u0027Hydrothérapie rebondissante et d\u0027Injection sur-saturée, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les DGT Hydro.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la RÉS Hydro de ce dernier diminue de 35 % pendant 8 s."
+                                                                       },
+                                                                "c4":  {
+                                                                           "name":  "« Le plus beau des esprits peut-il contrer la décrépitude ? »",
+                                                                           "descriptionRaw":  "La durée d\u0027\u003ccolor=#FFD780FF\u003eInjection sur-saturée\u003c/color\u003e augmente de 3 s.",
+                                                                           "description":  "La durée d\u0027Injection sur-saturée augmente de 3 s."
+                                                                       },
+                                                                "c3":  {
+                                                                           "name":  "« Le plus sain des esprits peut-il guérir la fièvre ? »",
+                                                                           "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eHydrothérapie rebondissante\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                           "description":  "Niveau d\u0027aptitude Hydrothérapie rebondissante +3.\nNiveau max : 15"
+                                                                       },
+                                                                "c5":  {
+                                                                           "name":  "« Le plus joyeux des esprits peut-il soulager l\u0027agonie ? »",
+                                                                           "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eInjection sur-saturée\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                           "description":  "Niveau d\u0027aptitude Injection sur-saturée +3.\nNiveau max : 15"
+                                                                       },
+                                                                "c6":  {
+                                                                           "name":  "« Le plus radieux des esprits peut-il prier pour moi ? »",
+                                                                           "descriptionRaw":  "Lorsque Sigewinne effectue des soins, elle augmente le taux CRIT et les DGT CRIT d\u0027\u003ccolor=#FFD780FF\u003eInjection sur-saturée\u003c/color\u003e selon ses PV max : chaque tranche de 1 000 PV max qu\u0027elle possède augmente le taux CRIT de 0,4 % et les DGT CRIT de 2,2 %, le tout pendant 15 s. Le taux CRIT peut être augmenté d\u0027un maximum de 20 % et les DGT CRIT d\u0027un maximum de 110 % de cette manière.",
+                                                                           "description":  "Lorsque Sigewinne effectue des soins, elle augmente le taux CRIT et les DGT CRIT d\u0027Injection sur-saturée selon ses PV max : chaque tranche de 1 000 PV max qu\u0027elle possède augmente le taux CRIT de 0,4 % et les DGT CRIT de 2,2 %, le tout pendant 15 s. Le taux CRIT peut être augmenté d\u0027un maximum de 20 % et les DGT CRIT d\u0027un maximum de 110 % de cette manière."
+                                                                       },
+                                                                "c1":  {
+                                                                           "name":  "« Le plus heureux des esprits peut-il comprendre l\u0027anxiété ? »",
+                                                                           "descriptionRaw":  "Les bulles d\u0027eau curative d\u0027\u003ccolor=#FFD780FF\u003eHydrothérapie rebondissante\u003c/color\u003e peuvent rebondir 3 fois supplémentaires et les 3 premiers rebonds ne font pas rapetisser les grandes bulles d\u0027eau curative.\nDe plus, l\u0027aptitude passive « Repos adéquat requis » est améliorée : chaque rebond des bulles d\u0027eau curative accorde 1 cumul d\u0027analepsie à Sigewinne et le bonus de DGT généré par l\u0027analepsie est modifié, chaque tranche de 1 000 PV max au-dessus de 30 000 que Sigewinne possède augmentant maintenant les DGT de 100 pts. Les DGT peuvent être augmentés d\u0027un maximum de 3 500 pts de cette manière. L\u0027aptitude passive « Repos adéquat requis » doit être déjà débloquée.",
+                                                                           "description":  "Les bulles d\u0027eau curative d\u0027Hydrothérapie rebondissante peuvent rebondir 3 fois supplémentaires et les 3 premiers rebonds ne font pas rapetisser les grandes bulles d\u0027eau curative.\nDe plus, l\u0027aptitude passive « Repos adéquat requis » est améliorée : chaque rebond des bulles d\u0027eau curative accorde 1 cumul d\u0027analepsie à Sigewinne et le bonus de DGT généré par l\u0027analepsie est modifié, chaque tranche de 1 000 PV max au-dessus de 30 000 que Sigewinne possède augmentant maintenant les DGT de 100 pts. Les DGT peuvent être augmentés d\u0027un maximum de 3 500 pts de cette manière. L\u0027aptitude passive « Repos adéquat requis » doit être déjà débloquée."
+                                                                       }
+                                                            },
+                                         "elementText":  "Hydro",
+                                         "fullname":  null,
+                                         "weaponText":  "Arc",
+                                         "name":  "Sigewinne",
+                                         "substatText":  "PV",
+                                         "region":  "Fontaine",
+                                         "gender":  "Femme"
+                                     },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
                                                                       "name":  "Gelé jusqu\u0027à l\u0027os",
-                                                                      "descriptionRaw":  "Les attaques normales et chargées de Qiqi infligent 15 % de DGT supplémentaires contre les ennemis affectés par \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e.",
-                                                                      "description":  "Les attaques normales et chargées de Qiqi infligent 15 % de DGT supplémentaires contre les ennemis affectés par Cryo."
+                                                                      "descriptionRaw":  "Les attaques normales et chargées de Qiqi infligent 15 % de DGT supplémentaires contre les ennemis affectés par l\u0027\u003ccolor=#99FFFFFF\u003eélément Cryo\u003c/color\u003e.",
+                                                                      "description":  "Les attaques normales et chargées de Qiqi infligent 15 % de DGT supplémentaires contre les ennemis affectés par l\u0027élément Cryo."
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Répression divine",
@@ -3765,47 +3809,47 @@
                                        "region":  "Fontaine",
                                        "gender":  "Femme"
                                    },
-                       "zhongli":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Pierre, le berceau du jade",
-                                                                         "descriptionRaw":  "Les personnages déployés à proximité sont protégés par un bouclier de jade lors de \u003ccolor=#FFD780FF\u003eChute de météore\u003c/color\u003e.",
-                                                                         "description":  "Les personnages déployés à proximité sont protégés par un bouclier de jade lors de Chute de météore."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Topaze, incassable et intrépide",
-                                                                         "descriptionRaw":  "Augmente la zone d\u0027effet de \u003ccolor=#FFD780FF\u003eChute de météore\u003c/color\u003e de 20 %.\nProlonge de plus la durée de la pétrification de 2 s.",
-                                                                         "description":  "Augmente la zone d\u0027effet de Chute de météore de 20 %.\nProlonge de plus la durée de la pétrification de 2 s."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Jade, brillant à travers les ténèbres",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Dominus Lapidis +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Lazulite, le héraut de l\u0027ordre divin",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eChute de météore\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Chute de météore +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Or, la générosité du dominateur",
-                                                                         "descriptionRaw":  "40 % des DGT subis par le bouclier de jade sont convertis en PV pour le personnage déployé.\nLa quantité de PV restaurés en une fois ne peut pas dépasser 8 % des PV max du personnage.",
-                                                                         "description":  "40 % des DGT subis par le bouclier de jade sont convertis en PV pour le personnage déployé.\nLa quantité de PV restaurés en une fois ne peut pas dépasser 8 % des PV max du personnage."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Roche, le squelette de la terre",
-                                                                         "descriptionRaw":  "2 Dorsales de \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e peuvent exister en même temps.",
-                                                                         "description":  "2 Dorsales de Dominus Lapidis peuvent exister en même temps."
-                                                                     }
-                                                          },
-                                       "elementText":  "Géo",
-                                       "fullname":  null,
-                                       "weaponText":  "Arme d\u0027hast",
-                                       "name":  "Zhongli",
-                                       "substatText":  "Bonus de DGT Géo",
-                                       "region":  "Liyue",
-                                       "gender":  "Homme"
-                                   },
+                       "sethos":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Papyrus du secret silencieux",
+                                                                        "descriptionRaw":  "Le \u003ccolor=#FFACFFFF\u003ebonus de DGT Électro\u003c/color\u003e de Sethos augmente de 15 % pendant 10 s en remplissant une des conditions suivantes (Cet effet peut être cumulé 2 fois maximum, la durée de chaque cumul étant calculée de façon indépendante.) :\n· En consommant de l\u0027énergie élémentaire pendant un tir visé, l\u0027aptitude passive « Énigme du milan noir » devant être déjà débloquée.\n· En restaurant de l\u0027énergie élémentaire après avoir déclenché une réaction élémentaire avec \u003ccolor=#FFD780FF\u003eRituel ancien : Clameur tonitruante des sables\u003c/color\u003e.\n· En utilisant \u003ccolor=#FFD780FF\u003eRituel secret : Percée crépusculaire des ombres\u003c/color\u003e.",
+                                                                        "description":  "Le bonus de DGT Électro de Sethos augmente de 15 % pendant 10 s en remplissant une des conditions suivantes (Cet effet peut être cumulé 2 fois maximum, la durée de chaque cumul étant calculée de façon indépendante.) :\n· En consommant de l\u0027énergie élémentaire pendant un tir visé, l\u0027aptitude passive « Énigme du milan noir » devant être déjà débloquée.\n· En restaurant de l\u0027énergie élémentaire après avoir déclenché une réaction élémentaire avec Rituel ancien : Clameur tonitruante des sables.\n· En utilisant Rituel secret : Percée crépusculaire des ombres."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Collection de la plume bienveillante",
+                                                                        "descriptionRaw":  "Lorsqu\u0027une \u003ccolor=#FFD780FF\u003eflèche de perce-ombre\u003c/color\u003e ou un \u003ccolor=#FFD780FF\u003ecarreau crépusculaire\u003c/color\u003e touchent 2 ennemis ou plus, la maîtrise élémentaire de tous les personnages de l\u0027équipe à proximité augmente de 80 pts pendant 10 s.",
+                                                                        "description":  "Lorsqu\u0027une flèche de perce-ombre ou un carreau crépusculaire touchent 2 ennemis ou plus, la maîtrise élémentaire de tous les personnages de l\u0027équipe à proximité augmente de 80 pts pendant 10 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Ode de la lune ascendante",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eAttaque normale : Archerie royale des roseaux\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Attaque normale : Archerie royale des roseaux +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Chronique du sable divin",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eRituel secret : Percée crépusculaire des ombres\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Rituel secret : Percée crépusculaire des ombres +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Manuscrit du soleil vagabond",
+                                                                        "descriptionRaw":  "Toucher un ennemi avec une \u003ccolor=#FFD780FF\u003eflèche de perce-ombre\u003c/color\u003e restaure l\u0027énergie élémentaire consommée par l\u0027aptitude passive « Énigme du milan noir ». Cet effet peut être déclenché une fois toutes les 15 s. L\u0027aptitude passive « Énigme du milan noir » doit être déjà débloquée.",
+                                                                        "description":  "Toucher un ennemi avec une flèche de perce-ombre restaure l\u0027énergie élémentaire consommée par l\u0027aptitude passive « Énigme du milan noir ». Cet effet peut être déclenché une fois toutes les 15 s. L\u0027aptitude passive « Énigme du milan noir » doit être déjà débloquée."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Chant du sanctuaire scellé",
+                                                                        "descriptionRaw":  "Augmente le taux CRIT des \u003ccolor=#FFD780FF\u003eflèches de perce-ombre\u003c/color\u003e de 15 %.",
+                                                                        "description":  "Augmente le taux CRIT des flèches de perce-ombre de 15 %."
+                                                                    }
+                                                         },
+                                      "elementText":  "Électro",
+                                      "fullname":  null,
+                                      "weaponText":  "Arc",
+                                      "name":  "Sethos",
+                                      "substatText":  "Maîtrise élémentaire",
+                                      "region":  "Sumeru",
+                                      "gender":  "Homme"
+                                  },
                        "chongyun":  {
                                         "constellations":  {
                                                                "c2":  {
@@ -3815,8 +3859,8 @@
                                                                       },
                                                                "c4":  {
                                                                           "name":  "Cieux givrés",
-                                                                          "descriptionRaw":  "Chongyun récupère 1 pt d\u0027énergie à chaque fois qu\u0027il touche un ennemi affecté par \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e.\nCet effet peut être déclenché une fois toutes les 2 s.",
-                                                                          "description":  "Chongyun récupère 1 pt d\u0027énergie à chaque fois qu\u0027il touche un ennemi affecté par Cryo.\nCet effet peut être déclenché une fois toutes les 2 s."
+                                                                          "descriptionRaw":  "Chongyun récupère 1 pt d\u0027énergie à chaque fois qu\u0027il touche un ennemi affecté par l\u0027\u003ccolor=#99FFFFFF\u003eélément Cryo\u003c/color\u003e.\nCet effet peut être déclenché une fois toutes les 2 s.",
+                                                                          "description":  "Chongyun récupère 1 pt d\u0027énergie à chaque fois qu\u0027il touche un ennemi affecté par l\u0027élément Cryo.\nCet effet peut être déclenché une fois toutes les 2 s."
                                                                       },
                                                                "c3":  {
                                                                           "name":  "Étincellement des nuages",
@@ -4141,7 +4185,7 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Taxation sévère",
-                                                                        "descriptionRaw":  "Les attaques normales et chargées de Keqing touchant un ennemi affecté par l\u0027élément \u003ccolor=#FFACFFFF\u003eÉlectro\u003c/color\u003e ont 50 % de chances de générer une particule élémentaire.\nCet effet peut être déclenché une fois toutes les 5 s.",
+                                                                        "descriptionRaw":  "Les attaques normales et chargées de Keqing touchant un ennemi affecté par l\u0027\u003ccolor=#FFACFFFF\u003eélément Électro\u003c/color\u003e ont 50 % de chances de générer une particule élémentaire.\nCet effet peut être déclenché une fois toutes les 5 s.",
                                                                         "description":  "Les attaques normales et chargées de Keqing touchant un ennemi affecté par l\u0027élément Électro ont 50 % de chances de générer une particule élémentaire.\nCet effet peut être déclenché une fois toutes les 5 s."
                                                                     },
                                                              "c4":  {
@@ -5325,6 +5369,47 @@
                                        "region":  "Mondstadt",
                                        "gender":  "Homme"
                                    },
+                       "clorinde":  {
+                                        "constellations":  {
+                                                               "c2":  {
+                                                                          "name":  "« Dorénavant, j\u0027affronterai les périls de la longue nuit »",
+                                                                          "descriptionRaw":  "L\u0027aptitude passive « Flamme brisant la nuit » est renforcée : lorsqu\u0027un personnage de l\u0027équipe à proximité a déclenché une \u003ccolor=#FFACFFFF\u003eréaction liée à l\u0027élément Électro\u003c/color\u003e sur un ennemi, les \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e infligés par les attaques normales de Clorinde et par \u003ccolor=#FFD780FF\u003eFin de la clarté\u003c/color\u003e augmentent d\u0027une valeur équivalant à 30 % de son ATQ pendant 15 s. Cet effet peut être cumulé 3 fois maximum, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, la RÉS à l\u0027interruption de Clorinde augmente. Les DGT infligés par les attaques susmentionnées de Clorinde peuvent augmenter d\u0027un maximum de 2 700 pts de cette manière.\nL\u0027aptitude passive « Flamme brisant la nuit » doit être déjà débloquée.",
+                                                                          "description":  "L\u0027aptitude passive « Flamme brisant la nuit » est renforcée : lorsqu\u0027un personnage de l\u0027équipe à proximité a déclenché une réaction liée à l\u0027élément Électro sur un ennemi, les DGT Électro infligés par les attaques normales de Clorinde et par Fin de la clarté augmentent d\u0027une valeur équivalant à 30 % de son ATQ pendant 15 s. Cet effet peut être cumulé 3 fois maximum, la durée de chaque cumul étant calculée de façon indépendante. Avec 3 cumuls, la RÉS à l\u0027interruption de Clorinde augmente. Les DGT infligés par les attaques susmentionnées de Clorinde peuvent augmenter d\u0027un maximum de 2 700 pts de cette manière.\nL\u0027aptitude passive « Flamme brisant la nuit » doit être déjà débloquée."
+                                                                      },
+                                                               "c4":  {
+                                                                          "name":  "« Pour toujours, j\u0027honorerai les larmes, la vie et l\u0027amour »",
+                                                                          "descriptionRaw":  "Lorsque \u003ccolor=#FFD780FF\u003eFin de la clarté\u003c/color\u003e inflige des DGT à un ennemi, les DGT augmentent selon le pourcentage d\u0027engagement vital actuel de Clorinde : chaque tranche de 1 % d\u0027engagement vital augmente les DGT infligés par cette instance de \u003ccolor=#FFD780FF\u003eFin de la clarté\u003c/color\u003e de 2 %. Les DGT infligés par \u003ccolor=#FFD780FF\u003eFin de la clarté\u003c/color\u003e peuvent augmenter d\u0027un maximum de 200 % de cette manière.",
+                                                                          "description":  "Lorsque Fin de la clarté inflige des DGT à un ennemi, les DGT augmentent selon le pourcentage d\u0027engagement vital actuel de Clorinde : chaque tranche de 1 % d\u0027engagement vital augmente les DGT infligés par cette instance de Fin de la clarté de 2 %. Les DGT infligés par Fin de la clarté peuvent augmenter d\u0027un maximum de 200 % de cette manière."
+                                                                      },
+                                                               "c3":  {
+                                                                          "name":  "« À jamais, je me souviendrai du serment de la lumière du jour »",
+                                                                          "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eRonde de la nuitée\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                          "description":  "Niveau d\u0027aptitude Ronde de la nuitée +3.\nNiveau max : 15"
+                                                                      },
+                                                               "c5":  {
+                                                                          "name":  "« Assidûment, je verrai l\u0027aube comme mon salut »",
+                                                                          "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eFin de la clarté\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                          "description":  "Niveau d\u0027aptitude Fin de la clarté +3.\nNiveau max : 15"
+                                                                      },
+                                                               "c6":  {
+                                                                          "name":  "« Ainsi, je ne désespérerai jamais plus »",
+                                                                          "descriptionRaw":  "Pendant 12 s après avoir utilisé \u003ccolor=#FFD780FF\u003eRonde de la nuitée\u003c/color\u003e, le taux CRIT de Clorinde augmente de 10 % et ses DGT CRIT de 70 %.\nDe plus, des ombres bougières peuvent apparaître dans certaines circonstances lors des vigiles nocturnes, afin d\u0027attaquer les ennemis en infligeant des \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e d\u0027une valeur équivalant à 200 % de l\u0027ATQ de Clorinde. Les DGT infligés de cette manière sont considérés comme des DGT d\u0027attaque normale.\nLes ombres bougières apparaissent dans les circonstances suivantes :\n· Lorsque Clorinde est sur le point de subir une attaque.\n· Lorsque Clorinde effectue un empalement nocturne de pacte.\nUne ombre bougière peut être invoquée une fois toutes les secondes des manières susmentionnées, et un maximum de 6 ombres bougières peut être invoqué pendant une vigile nocturne.\nAdditionnellement, les DGT subis par Clorinde diminuent de 80 % et sa RÉS à l\u0027interruption augmente lors des vigiles nocturnes. Cet effet cesse en même temps que la vigile nocturne ou 1 s après avoir invoqué 6 ombres bougières.",
+                                                                          "description":  "Pendant 12 s après avoir utilisé Ronde de la nuitée, le taux CRIT de Clorinde augmente de 10 % et ses DGT CRIT de 70 %.\nDe plus, des ombres bougières peuvent apparaître dans certaines circonstances lors des vigiles nocturnes, afin d\u0027attaquer les ennemis en infligeant des DGT Électro d\u0027une valeur équivalant à 200 % de l\u0027ATQ de Clorinde. Les DGT infligés de cette manière sont considérés comme des DGT d\u0027attaque normale.\nLes ombres bougières apparaissent dans les circonstances suivantes :\n· Lorsque Clorinde est sur le point de subir une attaque.\n· Lorsque Clorinde effectue un empalement nocturne de pacte.\nUne ombre bougière peut être invoquée une fois toutes les secondes des manières susmentionnées, et un maximum de 6 ombres bougières peut être invoqué pendant une vigile nocturne.\nAdditionnellement, les DGT subis par Clorinde diminuent de 80 % et sa RÉS à l\u0027interruption augmente lors des vigiles nocturnes. Cet effet cesse en même temps que la vigile nocturne ou 1 s après avoir invoqué 6 ombres bougières."
+                                                                      },
+                                                               "c1":  {
+                                                                          "name":  "« Dès lors, je traverserai le voile de l\u0027ombre de la bougie »",
+                                                                          "descriptionRaw":  "Pendant la vigile nocturne de \u003ccolor=#FFD780FF\u003eRonde de la nuitée\u003c/color\u003e, toucher un ennemi avec des \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e infligés par une attaque normale de Clorinde invoque une ombre vigile à proximité de l\u0027ennemi afin d\u0027effectuer 2 attaques coordonnées, chacune infligeant des \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e d\u0027une valeur équivalant à 30 % de l\u0027ATQ de Clorinde.\nCet effet peut être déclenché une fois toutes 1,2 s et les DGT infligés de cette manière sont considérés comme des DGT d\u0027attaque normale.",
+                                                                          "description":  "Pendant la vigile nocturne de Ronde de la nuitée, toucher un ennemi avec des DGT Électro infligés par une attaque normale de Clorinde invoque une ombre vigile à proximité de l\u0027ennemi afin d\u0027effectuer 2 attaques coordonnées, chacune infligeant des DGT Électro d\u0027une valeur équivalant à 30 % de l\u0027ATQ de Clorinde.\nCet effet peut être déclenché une fois toutes 1,2 s et les DGT infligés de cette manière sont considérés comme des DGT d\u0027attaque normale."
+                                                                      }
+                                                           },
+                                        "elementText":  "Électro",
+                                        "fullname":  null,
+                                        "weaponText":  "Épée à une main",
+                                        "name":  "Clorinde",
+                                        "substatText":  "Taux CRIT",
+                                        "region":  "Fontaine",
+                                        "gender":  "Femme"
+                                    },
                        "sayu":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -5489,6 +5574,47 @@
                                             "region":  "Inazuma",
                                             "gender":  "Femme"
                                         },
+                       "zhongli":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Pierre, le berceau du jade",
+                                                                         "descriptionRaw":  "Les personnages déployés à proximité sont protégés par un bouclier de jade lors de \u003ccolor=#FFD780FF\u003eChute de météore\u003c/color\u003e.",
+                                                                         "description":  "Les personnages déployés à proximité sont protégés par un bouclier de jade lors de Chute de météore."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Topaze, incassable et intrépide",
+                                                                         "descriptionRaw":  "Augmente la zone d\u0027effet de \u003ccolor=#FFD780FF\u003eChute de météore\u003c/color\u003e de 20 %.\nProlonge de plus la durée de la pétrification de 2 s.",
+                                                                         "description":  "Augmente la zone d\u0027effet de Chute de météore de 20 %.\nProlonge de plus la durée de la pétrification de 2 s."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Jade, brillant à travers les ténèbres",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Dominus Lapidis +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Lazulite, le héraut de l\u0027ordre divin",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eChute de météore\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Chute de météore +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Or, la générosité du dominateur",
+                                                                         "descriptionRaw":  "40 % des DGT subis par le bouclier de jade sont convertis en PV pour le personnage déployé.\nLa quantité de PV restaurés en une fois ne peut pas dépasser 8 % des PV max du personnage.",
+                                                                         "description":  "40 % des DGT subis par le bouclier de jade sont convertis en PV pour le personnage déployé.\nLa quantité de PV restaurés en une fois ne peut pas dépasser 8 % des PV max du personnage."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Roche, le squelette de la terre",
+                                                                         "descriptionRaw":  "2 Dorsales de \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e peuvent exister en même temps.",
+                                                                         "description":  "2 Dorsales de Dominus Lapidis peuvent exister en même temps."
+                                                                     }
+                                                          },
+                                       "elementText":  "Géo",
+                                       "fullname":  null,
+                                       "weaponText":  "Arme d\u0027hast",
+                                       "name":  "Zhongli",
+                                       "substatText":  "Bonus de DGT Géo",
+                                       "region":  "Liyue",
+                                       "gender":  "Homme"
+                                   },
                        "nahida":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5783,53 +5909,6 @@
                                                     },
                                              "effectName":  "Vent de nulle part"
                                          },
-                    "finaleofthedeep":  {
-                                            "r3":  {
-                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 18 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 3,6 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 225 pts de cette manière.",
-                                                       "values":  [
-                                                                      "18{NON_BREAK_SPACE}%",
-                                                                      "3,6 %",
-                                                                      "225"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 24 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 4,8 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 300 pts de cette manière.",
-                                                       "values":  [
-                                                                      "24{NON_BREAK_SPACE}%",
-                                                                      "4,8 %",
-                                                                      "300"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 15 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 3 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 187,5 pts de cette manière.",
-                                                       "values":  [
-                                                                      "15{NON_BREAK_SPACE}%",
-                                                                      "3 %",
-                                                                      "187,5"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 21 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 4,2 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 262,5 pts de cette manière.",
-                                                       "values":  [
-                                                                      "21{NON_BREAK_SPACE}%",
-                                                                      "4,2 %",
-                                                                      "262,5"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ATQ",
-                                            "weaponText":  "Épée à une main",
-                                            "name":  "Final des profondeurs",
-                                            "effectTemplateRaw":  "#Libérer une compétence élémentaire augmente l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e pts de cette manière.",
-                                            "r1":  {
-                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 12 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 2,4 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 150 pts de cette manière.",
-                                                       "values":  [
-                                                                      "12{NON_BREAK_SPACE}%",
-                                                                      "2,4 %",
-                                                                      "150"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Un ultime sublime"
-                                        },
                     "ferrousshadow":  {
                                           "r3":  {
                                                      "description":  "Les attaques chargées sont plus difficiles à interrompre si les PV sont inférieurs à 80 %, et les DGT infligés par les attaques chargées augmentent de 40 %.",
@@ -7560,6 +7639,48 @@
                                                  },
                                           "effectName":  "Charge critique"
                                       },
+                    "absolution":  {
+                                       "r3":  {
+                                                  "description":  "Augmente les DGT CRIT de 30 %. Lorsque la valeur d\u0027un engagement vital augmente, les DGT infligés par le personnage équipé de l\u0027arme augmentent de 24 % pendant 6 s, cet effet pouvant être cumulé 3 fois maximum.",
+                                                  "values":  [
+                                                                 "30{NON_BREAK_SPACE}%",
+                                                                 "24{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Augmente les DGT CRIT de 40 %. Lorsque la valeur d\u0027un engagement vital augmente, les DGT infligés par le personnage équipé de l\u0027arme augmentent de 32 % pendant 6 s, cet effet pouvant être cumulé 3 fois maximum.",
+                                                  "values":  [
+                                                                 "40{NON_BREAK_SPACE}%",
+                                                                 "32{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Augmente les DGT CRIT de 25 %. Lorsque la valeur d\u0027un engagement vital augmente, les DGT infligés par le personnage équipé de l\u0027arme augmentent de 20 % pendant 6 s, cet effet pouvant être cumulé 3 fois maximum.",
+                                                  "values":  [
+                                                                 "25{NON_BREAK_SPACE}%",
+                                                                 "20{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Augmente les DGT CRIT de 35 %. Lorsque la valeur d\u0027un engagement vital augmente, les DGT infligés par le personnage équipé de l\u0027arme augmentent de 28 % pendant 6 s, cet effet pouvant être cumulé 3 fois maximum.",
+                                                  "values":  [
+                                                                 "35{NON_BREAK_SPACE}%",
+                                                                 "28{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "substatText":  "DGT CRIT",
+                                       "weaponText":  "Épée à une main",
+                                       "name":  "Absolution",
+                                       "effectTemplateRaw":  "#Augmente les DGT CRIT de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Lorsque la valeur d\u0027un engagement vital augmente, les DGT infligés par le personnage équipé de l\u0027arme augmentent de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pendant 6 s, cet effet pouvant être cumulé 3 fois maximum.",
+                                       "r1":  {
+                                                  "description":  "Augmente les DGT CRIT de 20 %. Lorsque la valeur d\u0027un engagement vital augmente, les DGT infligés par le personnage équipé de l\u0027arme augmentent de 16 % pendant 6 s, cet effet pouvant être cumulé 3 fois maximum.",
+                                                  "values":  [
+                                                                 "20{NON_BREAK_SPACE}%",
+                                                                 "16{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "effectName":  "Pacte funeste"
+                                   },
                     "freedomsworn":  {
                                          "r3":  {
                                                     "description":  "Partie du « Concert du millénaire ». Augmente les DGT infligés de 15 %. Si le personnage déclenche une réaction élémentaire, il obtient un talisman de résistance, à raison d\u0027un talisman toutes les 0,5 s maximum, même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé. Une fois 2 talismans cumulés, ils sont consommés et font bénéficier pendant 12 s tous les personnages de l\u0027équipe à proximité de l\u0027effet « Concert du millénaire - Ode à la révolte », ce qui augmente les DGT infligés par les attaques normales, les attaques chargées et les attaques plongeantes de 24 % et l\u0027ATQ de 30 %. Il n\u0027est plus possible de gagner de talismans de résistance pendant 20 s après l\u0027activation de cet effet. Les différents effets du « Concert du millénaire » ne peuvent pas être cumulés.",
@@ -8598,6 +8719,58 @@
                                                 },
                                          "effectName":  "Majesté dorée"
                                      },
+                    "skywardspine":  {
+                                         "r3":  {
+                                                    "description":  "Augmente le taux CRIT de 12 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 70 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+                                                    "values":  [
+                                                                   "12 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "70 %"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Augmente le taux CRIT de 16 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 100 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+                                                    "values":  [
+                                                                   "16 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "100 %"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Augmente le taux CRIT de 10 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 55 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+                                                    "values":  [
+                                                                   "10 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "55 %"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Augmente le taux CRIT de 14 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 85 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+                                                    "values":  [
+                                                                   "14 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "85 %"
+                                                               ]
+                                                },
+                                         "substatText":  "Recharge d\u0027énergie",
+                                         "weaponText":  "Arme d\u0027hast",
+                                         "name":  "Berge de la Voûte d\u0027Azur",
+                                         "effectTemplateRaw":  "Augmente le taux CRIT de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et la VIT d\u0027attaque normale de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Les attaques normales et chargées ont \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+                                         "r1":  {
+                                                    "description":  "Augmente le taux CRIT de 8 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 40 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
+                                                    "values":  [
+                                                                   "8 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "40 %"
+                                                               ]
+                                                },
+                                         "effectName":  "Plume de jais"
+                                     },
                     "kitaincrossspear":  {
                                              "r3":  {
                                                         "description":  "Augmente les DGT infligés par les compétences élémentaires de 9 %. Lorsqu\u0027une compétence élémentaire touche un ennemi, le personnage perd 3 pts d\u0027énergie élémentaire, mais récupère 4 pts d\u0027énergie toutes les 2 s pendant 6 s. Cet effet peut être déclenché une fois toutes les 10 s, même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé.",
@@ -8839,6 +9012,43 @@
                                                               ]
                                                },
                                         "effectName":  "Tranchant"
+                                    },
+                    "cloudforged":  {
+                                        "r3":  {
+                                                   "description":  "La maîtrise élémentaire du personnage équipé de l\u0027arme augmente de 60 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+                                                   "values":  [
+                                                                  "60"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "La maîtrise élémentaire du personnage équipé de l\u0027arme augmente de 80 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+                                                   "values":  [
+                                                                  "80"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "La maîtrise élémentaire du personnage équipé de l\u0027arme augmente de 50 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+                                                   "values":  [
+                                                                  "50"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "La maîtrise élémentaire du personnage équipé de l\u0027arme augmente de 70 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+                                                   "values":  [
+                                                                  "70"
+                                                              ]
+                                               },
+                                        "substatText":  "Maîtrise élémentaire",
+                                        "weaponText":  "Arc",
+                                        "name":  "Nimbus-forgé",
+                                        "effectTemplateRaw":  "La maîtrise élémentaire du personnage équipé de l\u0027arme augmente de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+                                        "r1":  {
+                                                   "description":  "La maîtrise élémentaire du personnage équipé de l\u0027arme augmente de 40 pts pendant 18 s lorsque son énergie élémentaire a diminué. Cet effet peut être cumulé 2 fois maximum.",
+                                                   "values":  [
+                                                                  "40"
+                                                              ]
+                                               },
+                                        "effectName":  "Carré de roche"
                                     },
                     "twinnephrite":  {
                                          "r3":  {
@@ -9760,58 +9970,53 @@
                                                },
                                         "effectName":  "Ballade résonnante"
                                     },
-                    "skywardspine":  {
-                                         "r3":  {
-                                                    "description":  "Augmente le taux CRIT de 12 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 70 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
-                                                    "values":  [
-                                                                   "12 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "70 %"
-                                                               ]
-                                                },
-                                         "r5":  {
-                                                    "description":  "Augmente le taux CRIT de 16 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 100 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
-                                                    "values":  [
-                                                                   "16 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "100 %"
-                                                               ]
-                                                },
-                                         "r2":  {
-                                                    "description":  "Augmente le taux CRIT de 10 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 55 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
-                                                    "values":  [
-                                                                   "10 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "55 %"
-                                                               ]
-                                                },
-                                         "r4":  {
-                                                    "description":  "Augmente le taux CRIT de 14 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 85 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
-                                                    "values":  [
-                                                                   "14 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "85 %"
-                                                               ]
-                                                },
-                                         "substatText":  "Recharge d\u0027énergie",
-                                         "weaponText":  "Arme d\u0027hast",
-                                         "name":  "Berge de la Voûte d\u0027Azur",
-                                         "effectTemplateRaw":  "Augmente le taux CRIT de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et la VIT d\u0027attaque normale de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Les attaques normales et chargées ont \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
-                                         "r1":  {
-                                                    "description":  "Augmente le taux CRIT de 8 % et la VIT d\u0027attaque normale de 12 %. Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de générer une lame de vide qui inflige des DGT équivalant à 40 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 2 s.",
-                                                    "values":  [
-                                                                   "8 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "40 %"
-                                                               ]
-                                                },
-                                         "effectName":  "Plume de jais"
-                                     },
+                    "finaleofthedeep":  {
+                                            "r3":  {
+                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 18 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 3,6 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 225 pts de cette manière.",
+                                                       "values":  [
+                                                                      "18{NON_BREAK_SPACE}%",
+                                                                      "3,6 %",
+                                                                      "225"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 24 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 4,8 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 300 pts de cette manière.",
+                                                       "values":  [
+                                                                      "24{NON_BREAK_SPACE}%",
+                                                                      "4,8 %",
+                                                                      "300"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 15 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 3 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 187,5 pts de cette manière.",
+                                                       "values":  [
+                                                                      "15{NON_BREAK_SPACE}%",
+                                                                      "3 %",
+                                                                      "187,5"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 21 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 4,2 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 262,5 pts de cette manière.",
+                                                       "values":  [
+                                                                      "21{NON_BREAK_SPACE}%",
+                                                                      "4,2 %",
+                                                                      "262,5"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ATQ",
+                                            "weaponText":  "Épée à une main",
+                                            "name":  "Final des profondeurs",
+                                            "effectTemplateRaw":  "#Libérer une compétence élémentaire augmente l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e pts de cette manière.",
+                                            "r1":  {
+                                                       "description":  "Libérer une compétence élémentaire augmente l\u0027ATQ de 12 % pendant 15 s et accorde un engagement vital d\u0027une valeur équivalant à 25 % des PV max, cet effet pouvant être déclenché une fois toutes les 10 s. Lorsque l\u0027engagement vital disparaît, l\u0027ATQ augmente pendant 15 s d\u0027une valeur équivalant à 2,4 % de la valeur de l\u0027engagement dissipé, l\u0027ATQ pouvant être augmentée d\u0027un maximum de 150 pts de cette manière.",
+                                                       "values":  [
+                                                                      "12{NON_BREAK_SPACE}%",
+                                                                      "2,4 %",
+                                                                      "150"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Un ultime sublime"
+                                        },
                     "everlastingmoonglow":  {
                                                 "r3":  {
                                                            "description":  "Augmente le bonus de soins de 15 %, et les DGT des attaques normales d\u0027une valeur équivalant à 2 % des PV max du personnage équipé de l\u0027arme. Pendant 12 s après l\u0027utilisation d\u0027un déchaînement élémentaire, les attaques normales qui touchent un ennemi restaurent 0,6 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,1 s de cette manière.",
@@ -11664,6 +11869,48 @@
                                              },
                                       "effectName":  "Dard énergisant"
                                   },
+                    "silvershowerheartstrings":  {
+                                                     "r3":  {
+                                                                "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Traitement. Avec 1/2/3 cumuls de traitement, ses PV max augmentent respectivement de 18 %/36 %/60 %. Le personnage équipé de l\u0027arme peut obtenir un cumul de traitement des façons suivantes : utiliser une compétence élémentaire accorde un cumul de 25 s ; augmenter la valeur d\u0027un engagement vital accorde un cumul de 25 s ; et effectuer des soins accorde un cumul de 20 s. Cet effet peut être déclenché même si le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé, et la durée de chaque cumul de traitement est calculée indépendamment. De plus, posséder 3 cumuls de traitement augmente le taux CRIT des déchaînements élémentaires de 42 %, cet effet prenant fin 4 s après que le nombre de cumuls tombe en dessous de 3.",
+                                                                "values":  [
+                                                                               "18{NON_BREAK_SPACE}%/36{NON_BREAK_SPACE}%/60{NON_BREAK_SPACE}%",
+                                                                               "42{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "r5":  {
+                                                                "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Traitement. Avec 1/2/3 cumuls de traitement, ses PV max augmentent respectivement de 24 %/48 %/80 %. Le personnage équipé de l\u0027arme peut obtenir un cumul de traitement des façons suivantes : utiliser une compétence élémentaire accorde un cumul de 25 s ; augmenter la valeur d\u0027un engagement vital accorde un cumul de 25 s ; et effectuer des soins accorde un cumul de 20 s. Cet effet peut être déclenché même si le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé, et la durée de chaque cumul de traitement est calculée indépendamment. De plus, posséder 3 cumuls de traitement augmente le taux CRIT des déchaînements élémentaires de 56 %, cet effet prenant fin 4 s après que le nombre de cumuls tombe en dessous de 3.",
+                                                                "values":  [
+                                                                               "24{NON_BREAK_SPACE}%/48{NON_BREAK_SPACE}%/80{NON_BREAK_SPACE}%",
+                                                                               "56{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "r2":  {
+                                                                "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Traitement. Avec 1/2/3 cumuls de traitement, ses PV max augmentent respectivement de 15 %/30 %/50 %. Le personnage équipé de l\u0027arme peut obtenir un cumul de traitement des façons suivantes : utiliser une compétence élémentaire accorde un cumul de 25 s ; augmenter la valeur d\u0027un engagement vital accorde un cumul de 25 s ; et effectuer des soins accorde un cumul de 20 s. Cet effet peut être déclenché même si le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé, et la durée de chaque cumul de traitement est calculée indépendamment. De plus, posséder 3 cumuls de traitement augmente le taux CRIT des déchaînements élémentaires de 35 %, cet effet prenant fin 4 s après que le nombre de cumuls tombe en dessous de 3.",
+                                                                "values":  [
+                                                                               "15{NON_BREAK_SPACE}%/30{NON_BREAK_SPACE}%/50{NON_BREAK_SPACE}%",
+                                                                               "35{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "r4":  {
+                                                                "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Traitement. Avec 1/2/3 cumuls de traitement, ses PV max augmentent respectivement de 21 %/42 %/70 %. Le personnage équipé de l\u0027arme peut obtenir un cumul de traitement des façons suivantes : utiliser une compétence élémentaire accorde un cumul de 25 s ; augmenter la valeur d\u0027un engagement vital accorde un cumul de 25 s ; et effectuer des soins accorde un cumul de 20 s. Cet effet peut être déclenché même si le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé, et la durée de chaque cumul de traitement est calculée indépendamment. De plus, posséder 3 cumuls de traitement augmente le taux CRIT des déchaînements élémentaires de 49 %, cet effet prenant fin 4 s après que le nombre de cumuls tombe en dessous de 3.",
+                                                                "values":  [
+                                                                               "21{NON_BREAK_SPACE}%/42{NON_BREAK_SPACE}%/70{NON_BREAK_SPACE}%",
+                                                                               "49{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "substatText":  "PV",
+                                                     "weaponText":  "Arc",
+                                                     "name":  "Corde de pluie blanche",
+                                                     "effectTemplateRaw":  "#Le personnage équipé de l\u0027arme obtient l\u0027effet Traitement. Avec 1/2/3 cumuls de traitement, ses PV max augmentent respectivement de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Le personnage équipé de l\u0027arme peut obtenir un cumul de traitement des façons suivantes : utiliser une compétence élémentaire accorde un cumul de 25 s ; augmenter la valeur d\u0027un engagement vital accorde un cumul de 25 s ; et effectuer des soins accorde un cumul de 20 s. Cet effet peut être déclenché même si le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé, et la durée de chaque cumul de traitement est calculée indépendamment. De plus, posséder 3 cumuls de traitement augmente le taux CRIT des déchaînements élémentaires de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, cet effet prenant fin 4 s après que le nombre de cumuls tombe en dessous de 3.",
+                                                     "r1":  {
+                                                                "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Traitement. Avec 1/2/3 cumuls de traitement, ses PV max augmentent respectivement de 12 %/24 %/40 %. Le personnage équipé de l\u0027arme peut obtenir un cumul de traitement des façons suivantes : utiliser une compétence élémentaire accorde un cumul de 25 s ; augmenter la valeur d\u0027un engagement vital accorde un cumul de 25 s ; et effectuer des soins accorde un cumul de 20 s. Cet effet peut être déclenché même si le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé, et la durée de chaque cumul de traitement est calculée indépendamment. De plus, posséder 3 cumuls de traitement augmente le taux CRIT des déchaînements élémentaires de 28 %, cet effet prenant fin 4 s après que le nombre de cumuls tombe en dessous de 3.",
+                                                                "values":  [
+                                                                               "12{NON_BREAK_SPACE}%/24{NON_BREAK_SPACE}%/40{NON_BREAK_SPACE}%",
+                                                                               "28{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "effectName":  "Nocturne de dryas"
+                                                 },
                     "prizedisshinblade":  {
                                               "r3":  null,
                                               "r5":  null,

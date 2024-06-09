@@ -590,9 +590,6 @@
                       "adventureexp":  {
                                            "name":  "EXP de Aventura"
                                        },
-                      "oasisgardenstruth":  {
-                                                "name":  "Verdade do Jardim Oásis"
-                                            },
                       "stormbeads":  {
                                          "name":  "Pérola da Tempestade"
                                      },
@@ -662,12 +659,15 @@
                       "lightningprism":  {
                                              "name":  "Prisma do Relâmpago"
                                          },
-                      "windwheelastersaroma":  {
-                                                   "name":  "Aroma de Margaridas Voadoras"
-                                               },
+                      "valberry":  {
+                                       "name":  "Valberry"
+                                   },
                       "stainedmask":  {
                                           "name":  "Máscara Suja"
                                       },
+                      "windwheelastersaroma":  {
+                                                   "name":  "Aroma de Margaridas Voadoras"
+                                               },
                       "cleansingheart":  {
                                              "name":  "Coração Purificador"
                                          },
@@ -677,9 +677,9 @@
                       "dreamsolvent":  {
                                            "name":  "Solvente dos Sonhos"
                                        },
-                      "valberry":  {
-                                       "name":  "Valberry"
-                                   },
+                      "northlanderswordbillet":  {
+                                                     "name":  "Protótipo de Espada do Território do Norte"
+                                                 },
                       "acquaintfate":  {
                                            "name":  "Destino Familiar"
                                        },
@@ -1109,9 +1109,9 @@
                       "brokengobletofthepristinesea":  {
                                                            "name":  "Cálice Quebrado do Mar Pristino"
                                                        },
-                      "starshroom":  {
-                                         "name":  "Cogumelo Estrelar"
-                                     },
+                      "silkenfeather":  {
+                                            "name":  "Pluma de Seda"
+                                        },
                       "betta":  {
                                     "name":  "Betta Esgana-Gato"
                                 },
@@ -1577,9 +1577,9 @@
                       "shadowofthewarrior":  {
                                                  "name":  "Sombra do Guerreiro"
                                              },
-                      "maplewood":  {
-                                        "name":  "Bordo"
-                                    },
+                      "lumidoucebell":  {
+                                            "name":  "Campânula Lumidouce"
+                                        },
                       "rimewornfragment":  {
                                                "name":  "Fragmento de Gelo"
                                            },
@@ -1589,9 +1589,9 @@
                       "borealwolfsmilktooth":  {
                                                    "name":  "Dente de Leite do Lobo Boreal"
                                                },
-                      "northlanderswordbillet":  {
-                                                     "name":  "Protótipo de Espada do Território do Norte"
-                                                 },
+                      "maplewood":  {
+                                        "name":  "Bordo"
+                                    },
                       "trimmedredsilk":  {
                                              "name":  "Seda Vermelha Bordada"
                                          },
@@ -1712,9 +1712,9 @@
                       "lindenwood":  {
                                          "name":  "Madeira de Tília"
                                      },
-                      "silkenfeather":  {
-                                            "name":  "Pluma de Seda"
-                                        },
+                      "camandcablesoflaw":  {
+                                                "name":  "Câmera e Cabos da Lei"
+                                            },
                       "ironchunk":  {
                                         "name":  "Pedaço de Ferro"
                                     },
@@ -1889,12 +1889,15 @@
                       "prithivatopazchunk":  {
                                                  "name":  "Pedaço de Topázio Prithiva"
                                              },
-                      "lumidoucebell":  {
-                                            "name":  "Campânula Lumidouce"
-                                        },
+                      "oasisgardenstruth":  {
+                                                "name":  "Verdade do Jardim Oásis"
+                                            },
                       "cheese":  {
                                      "name":  "Queijo"
                                  },
+                      "starshroom":  {
+                                         "name":  "Cogumelo Estrelar"
+                                     },
                       "marionettecore":  {
                                              "name":  "Núcleo de Marionete"
                                          },
@@ -2542,6 +2545,47 @@
                                      "region":  "Mondstadt",
                                      "gender":  "Masculino"
                                  },
+                       "sigewinne":  {
+                                         "constellations":  {
+                                                                "c2":  {
+                                                                           "name":  "\"Pode o Mais Misericordioso Espírito Derrotar seus Inimigos?\"",
+                                                                           "descriptionRaw":  "Ao usar \u003ccolor=#FFD780FF\u003eTerapia de Água Saltitante\u003c/color\u003ee \u003ccolor=#FFD780FF\u003eInjeção Super Saturada\u003c/color\u003e, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve \u003ccolor=#80C0FFFF\u003eDano Hydro\u003c/color\u003e com 250% de eficiência.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a \u003ccolor=#80C0FFFF\u003eRES Hydro\u003c/color\u003e desse oponente será reduzida em 35% por 8s.",
+                                                                           "description":  "Ao usar Terapia de Água Saltitantee Injeção Super Saturada, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve Dano Hydro com 250% de eficiência.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a RES Hydro desse oponente será reduzida em 35% por 8s."
+                                                                       },
+                                                                "c4":  {
+                                                                           "name":  "\"Pode o mais Adorável Espírito Conter a Queda?\"",
+                                                                           "descriptionRaw":  "Duração de \u003ccolor=#FFD780FF\u003eInjeção Super Saturada\u003c/color\u003e é estendida em 3s.",
+                                                                           "description":  "Duração de Injeção Super Saturada é estendida em 3s."
+                                                                       },
+                                                                "c3":  {
+                                                                           "name":  "\"Pode o mais Saudável Espírito Curar Febres?\"",
+                                                                           "descriptionRaw":  "Aumenta o nível de \u003ccolor=#FFD780FF\u003eTerapia de Água Saltitante\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                           "description":  "Aumenta o nível de Terapia de Água Saltitante em 3.\nO nível máximo de elevação é 15."
+                                                                       },
+                                                                "c5":  {
+                                                                           "name":  "\"Pode o mais Alegre Espírito Aliviar a Agonia?\"",
+                                                                           "descriptionRaw":  "Aumenta o nível do \u003ccolor=#FFD780FF\u003eInjeção Super Saturada\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                           "description":  "Aumenta o nível do Injeção Super Saturada em 3.\nO nível máximo de elevação é 15."
+                                                                       },
+                                                                "c6":  {
+                                                                           "name":  "\"O Espírito mais Radiante Rezaria por Mim?\"",
+                                                                           "descriptionRaw":  "Quando Sigewinne cura, ela aumentará a Taxa CRIT e Dano CRIT de sua \u003ccolor=#FFD780FF\u003eInjeção Super Saturada\u003c/color\u003e baseado em sua Vida Máxima. Para cada 1.000 de Vida Máxima que ela tem, aumentará a Taxa CRIT em 0.4% e o Dano CRIT em 2.2% por 15s. O aumento máximo que pode ser obtido dessa forma é 20% de Taxa CRIT e 110% de Dano CRIT.",
+                                                                           "description":  "Quando Sigewinne cura, ela aumentará a Taxa CRIT e Dano CRIT de sua Injeção Super Saturada baseado em sua Vida Máxima. Para cada 1.000 de Vida Máxima que ela tem, aumentará a Taxa CRIT em 0.4% e o Dano CRIT em 2.2% por 15s. O aumento máximo que pode ser obtido dessa forma é 20% de Taxa CRIT e 110% de Dano CRIT."
+                                                                       },
+                                                                "c1":  {
+                                                                           "name":  "\"Pode o Mais Alegre dos Espíritos Entender a Ansiedade?\"",
+                                                                           "descriptionRaw":  "A Bolha Revigorante da \u003ccolor=#FFD780FF\u003eTerapia de Água Saltitante\u003c/color\u003e pode ricochetear mais 3 vezes, e os 3 primeiros ricochetes não farão as Bolhas Revigorantes diminuírem.\nO Talento Passivo \"Requer Descanso Apropriado\" é fortalecido: cada ricochete da Bolha Revigorante adiciona 1 acúmulo a sua contagem de Convalescença, e muda os acúmulos de Dano de Convalescença para: a cada 1.000 de Vida que Sigewinne tem acima de 30.000, aumenta o Dano em 100. É possível aumentar o Dano da Habilidade Elemental até 3.500 dessa forma. Primeiro é necessário desbloquear o Talento Passivo \"Requer Descanso Apropriado\" para usar esse efeito.",
+                                                                           "description":  "A Bolha Revigorante da Terapia de Água Saltitante pode ricochetear mais 3 vezes, e os 3 primeiros ricochetes não farão as Bolhas Revigorantes diminuírem.\nO Talento Passivo \"Requer Descanso Apropriado\" é fortalecido: cada ricochete da Bolha Revigorante adiciona 1 acúmulo a sua contagem de Convalescença, e muda os acúmulos de Dano de Convalescença para: a cada 1.000 de Vida que Sigewinne tem acima de 30.000, aumenta o Dano em 100. É possível aumentar o Dano da Habilidade Elemental até 3.500 dessa forma. Primeiro é necessário desbloquear o Talento Passivo \"Requer Descanso Apropriado\" para usar esse efeito."
+                                                                       }
+                                                            },
+                                         "elementText":  "Hydro",
+                                         "fullname":  null,
+                                         "weaponText":  "Arco",
+                                         "name":  "Sigewinne",
+                                         "substatText":  "Vida",
+                                         "region":  "Fontaine",
+                                         "gender":  "Feminino"
+                                     },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3765,47 +3809,47 @@
                                        "region":  "Fontaine",
                                        "gender":  "Feminino"
                                    },
-                       "zhongli":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Pedra, a Vela de Jade",
-                                                                         "descriptionRaw":  "Quando a \u003ccolor=#FFD780FF\u003eChuva Estelar\u003c/color\u003e cair, dará um Escudo de Jade para os personagens ao redor em campo próximos.",
-                                                                         "description":  "Quando a Chuva Estelar cair, dará um Escudo de Jade para os personagens ao redor em campo próximos."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Topázio, Inquebrável e Destemido",
-                                                                         "descriptionRaw":  "Aumenta a AdE da \u003ccolor=#FFD780FF\u003eChuva Estelar\u003c/color\u003e em 20%.\nAlém disso, o efeito de Petrificação da Chuva Estelar é prolongado em 2s.",
-                                                                         "description":  "Aumenta a AdE da Chuva Estelar em 20%.\nAlém disso, o efeito de Petrificação da Chuva Estelar é prolongado em 2s."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Jade, Cintilando na Escuridão",
-                                                                         "descriptionRaw":  "Aumenta o nível do \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
-                                                                         "description":  "Aumenta o nível do Dominus Lapidis em 3.\nO nível máximo de elevação é 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Lazuli, Heraldo da Ordem",
-                                                                         "descriptionRaw":  "Aumenta o nível da \u003ccolor=#FFD780FF\u003eChuva Estelar\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
-                                                                         "description":  "Aumenta o nível da Chuva Estelar em 3.\nO nível máximo de elevação é 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Chrysos, Recompensa do Dominador",
-                                                                         "descriptionRaw":  "Quando o Escudo de Jade recebe dano, 40% do Dano recebido é convertido em Vida para o personagem atual.\nA regeneração não pode exceder 8% da Vida Máxima do personagem por vez.",
-                                                                         "description":  "Quando o Escudo de Jade recebe dano, 40% do Dano recebido é convertido em Vida para o personagem atual.\nA regeneração não pode exceder 8% da Vida Máxima do personagem por vez."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Pedra, a Espinha Vertebral da Terra",
-                                                                         "descriptionRaw":  "Aumenta o número máximo de Estelas de Pedra criadas pelo \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e que podem existir simultaneamente para 2.",
-                                                                         "description":  "Aumenta o número máximo de Estelas de Pedra criadas pelo Dominus Lapidis que podem existir simultaneamente para 2."
-                                                                     }
-                                                          },
-                                       "elementText":  "Geo",
-                                       "fullname":  null,
-                                       "weaponText":  "Lança",
-                                       "name":  "Zhongli",
-                                       "substatText":  "Bônus de Dano Geo",
-                                       "region":  "Liyue",
-                                       "gender":  "Masculino"
-                                   },
+                       "sethos":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Escrituras de Papiro dos Segredos Silenciosos",
+                                                                        "descriptionRaw":  "Quando qualquer uma das seguintes condições são atingidas, Sethos ganha 15% de \u003ccolor=#FFACFFFF\u003eBônus de Dano Electro\u003c/color\u003e por 10s que pode acumular duas vezes, com a duração de cada acúmulo sendo contada independentemente:\n· Consumir Energia Elemental através de Disparo com Mira; você precisa primeiro desbloquear o Talento Passivo \"Enigma da Pipa Escura\" para desencadear essa condição.\n· Recuperando Energia Elemental ao desencadear Reações Elementais usando \u003ccolor=#FFD780FF\u003eRitual Antigo: Rugido Trovejante da Areia\u003c/color\u003e.\n· Usando \u003ccolor=#FFD780FF\u003eRitual Secreto: Perfura-Sombra do Crepúsculo\u003c/color\u003e.",
+                                                                        "description":  "Quando qualquer uma das seguintes condições são atingidas, Sethos ganha 15% de Bônus de Dano Electro por 10s que pode acumular duas vezes, com a duração de cada acúmulo sendo contada independentemente:\n· Consumir Energia Elemental através de Disparo com Mira; você precisa primeiro desbloquear o Talento Passivo \"Enigma da Pipa Escura\" para desencadear essa condição.\n· Recuperando Energia Elemental ao desencadear Reações Elementais usando Ritual Antigo: Rugido Trovejante da Areia.\n· Usando Ritual Secreto: Perfura-Sombra do Crepúsculo."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Coleção das Penas Reais do Avestruz",
+                                                                        "descriptionRaw":  "Quando \u003ccolor=#FFD780FF\u003eFlecha Perfura-Sombra\u003c/color\u003e ou \u003ccolor=#FFD780FF\u003eFlecha do Crepúsculo\u003c/color\u003e atinge 2 ou mais oponentes, todos os membros próximos da equipe ganham 80 de Proficiência Elemental por 10s.",
+                                                                        "description":  "Quando Flecha Perfura-Sombra ou Flecha do Crepúsculo atinge 2 ou mais oponentes, todos os membros próximos da equipe ganham 80 de Proficiência Elemental por 10s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Ode à Sabedoria do Luar",
+                                                                        "descriptionRaw":  "Aumenta o nível do \u003ccolor=#FFD780FF\u003eAtaque Normal: Técnica do Arco Real\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível do Ataque Normal: Técnica do Arco Real em 3.\nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Registro das Areias Ardentes Solitárias",
+                                                                        "descriptionRaw":  "Aumenta o nível de habilidade da \u003ccolor=#FFD780FF\u003eRitual Secreto: Perfura-Sombra do Crepúsculo\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível de habilidade da Ritual Secreto: Perfura-Sombra do Crepúsculo em 3 níveis. \nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Tomo do Templo do Sol Patrulhador",
+                                                                        "descriptionRaw":  "Depois que \u003ccolor=#FFD780FF\u003eFlecha Perfura-Sombra\u003c/color\u003e atingir um oponente, a Energia Elemental consumida pelo Talento Passivo \"Enigma da Pipa Escura\" será retornada. Esse efeito pode ser desencadeado uma vez a cada 15s. É necessário ter desbloqueado o Talento Passivo \"Enigma da Pipa Escura\" primeiro.",
+                                                                        "description":  "Depois que Flecha Perfura-Sombra atingir um oponente, a Energia Elemental consumida pelo Talento Passivo \"Enigma da Pipa Escura\" será retornada. Esse efeito pode ser desencadeado uma vez a cada 15s. É necessário ter desbloqueado o Talento Passivo \"Enigma da Pipa Escura\" primeiro."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Canção Espiritual do Altar Selado",
+                                                                        "descriptionRaw":  "A Taxa CRIT de \u003ccolor=#FFD780FF\u003eFlecha Perfura-Sombra\u003c/color\u003e é aumentada em 15%.",
+                                                                        "description":  "A Taxa CRIT de Flecha Perfura-Sombra é aumentada em 15%."
+                                                                    }
+                                                         },
+                                      "elementText":  "Electro",
+                                      "fullname":  null,
+                                      "weaponText":  "Arco",
+                                      "name":  "Sethos",
+                                      "substatText":  "Proficiência Elemental",
+                                      "region":  "Sumeru",
+                                      "gender":  "Masculino"
+                                  },
                        "chongyun":  {
                                         "constellations":  {
                                                                "c2":  {
@@ -5325,6 +5369,47 @@
                                        "region":  "Mondstadt",
                                        "gender":  "Masculino"
                                    },
+                       "clorinde":  {
+                                        "constellations":  {
+                                                               "c2":  {
+                                                                          "name":  "\"Até Aqui, Enquanto Enfrentamos os Perigos da Longa Noite\"",
+                                                                          "descriptionRaw":  "Aprimora o Talento Passivo \"Chama Dispersadora da Escuridão\": Após um membro próximo da equipe desencadear \u003ccolor=#FFACFFFF\u003ereações relacionadas a Electro\u003c/color\u003e contra um oponente, \u003ccolor=#FFACFFFF\u003eDano Electro\u003c/color\u003e causado por Ataques Normais e \u003ccolor=#FFACFFFF\u003eQueda da Luz\u003c/color\u003e serão aumentados em 30% do ATQ de Clorinde por 15s. Máximo de 3 acúmulos. Cada acúmulo tem sua duração contada independentemente. Quando você possui 3 acúmulos, a Resistência contra Interrupção de Clorinde será aumentada. O Dano Máximo alcançável desta forma para os ataques acima é de 2.700.\nÉ necessário primeiro desbloquear o Talento Passivo \"Chama Dispersadora da Escuridão\".",
+                                                                          "description":  "Aprimora o Talento Passivo \"Chama Dispersadora da Escuridão\": Após um membro próximo da equipe desencadear reações relacionadas a Electro contra um oponente, Dano Electro causado por Ataques Normais e Queda da Luz serão aumentados em 30% do ATQ de Clorinde por 15s. Máximo de 3 acúmulos. Cada acúmulo tem sua duração contada independentemente. Quando você possui 3 acúmulos, a Resistência contra Interrupção de Clorinde será aumentada. O Dano Máximo alcançável desta forma para os ataques acima é de 2.700.\nÉ necessário primeiro desbloquear o Talento Passivo \"Chama Dispersadora da Escuridão\"."
+                                                                      },
+                                                               "c4":  {
+                                                                          "name":  "\"Lembrarei as Lágrimas, a Vida e o Amor\"",
+                                                                          "descriptionRaw":  "Quando \u003ccolor=#FFD780FF\u003eQueda da Luz\u003c/color\u003e causa Dano contra os oponentes, o Dano causado será aumentado baseado na porcentagem do Contrato de Vida de Clorinde. Cada 1% de seu Contrato de Vida aumentará o Dano de \u003ccolor=#FFD780FF\u003eQueda da Luz\u003c/color\u003e em 2%. O máximo de aumento de Dano de \u003ccolor=#FFD780FF\u003eQueda da Luz\u003c/color\u003e alcançável desta forma é 200%.",
+                                                                          "description":  "Quando Queda da Luz causa Dano contra os oponentes, o Dano causado será aumentado baseado na porcentagem do Contrato de Vida de Clorinde. Cada 1% de seu Contrato de Vida aumentará o Dano de Queda da Luz em 2%. O máximo de aumento de Dano de Queda da Luz alcançável desta forma é 200%."
+                                                                      },
+                                                               "c3":  {
+                                                                          "name":  "\"Jamais Esquecerei o Juramento do Dia\"",
+                                                                          "descriptionRaw":  "Aumenta o nível das \u003ccolor=#FFD780FF\u003ePatrulha na Escuridão\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                          "description":  "Aumenta o nível das Patrulha na Escuridão em 3.\nO nível máximo de elevação é 15."
+                                                                      },
+                                                               "c5":  {
+                                                                          "name":  "\"Lembrarei da Chegada do Amanhecer\"",
+                                                                          "descriptionRaw":  "Aumenta o Nível de \u003ccolor=#FFD780FF\u003eQueda da Luz\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                          "description":  "Aumenta o Nível de Queda da Luz em 3.\nO nível máximo de elevação é 15."
+                                                                      },
+                                                               "c6":  {
+                                                                          "name":  "\"E Assim Nunca me Desesperarei\"",
+                                                                          "descriptionRaw":  "Por 12s depois de \u003ccolor=#FFD780FF\u003ePatrulha na Escuridão\u003c/color\u003e ser usada, a Taxa CRIT de Clorinde será aumentada em 10% e seu Dano CRIT em 70%.\nAlém disso, enquanto o estado Patrulha Noturna estiver ativo, uma Sombra da Luz aparecerá, fazendo um ataque perseguidor e causando 200% do ATQ de Clorinde como \u003ccolor=#FFACFFFF\u003eDano Electro\u003c/color\u003e. Dano causado dessa forma é considerado Dano de Ataque Normal.\nA Sombra da Luz aparecerá nas seguintes circunstâncias:\n· Quando está para ser atacada por um oponente.\n· Quando Clorinde usa Perfura-Noite: Ordem.\n1 Luz da Sombra pode ser invocada dessa forma a cada 1s. 6 Sombras podem ser invocadas por uma única duração de Patrulha Noturna.\nAlém disso, durante o estado Patrulha Noturna, o Dano que Clorinde sofre é reduzido em 80% e sua Resistência contra interrupção é aumentada. Esse efeito será removido quando o estado Patrulha Noturna acabar, ou 1s depois de invocar Sombras da Luz 6 vezes.",
+                                                                          "description":  "Por 12s depois de Patrulha na Escuridão ser usada, a Taxa CRIT de Clorinde será aumentada em 10% e seu Dano CRIT em 70%.\nAlém disso, enquanto o estado Patrulha Noturna estiver ativo, uma Sombra da Luz aparecerá, fazendo um ataque perseguidor e causando 200% do ATQ de Clorinde como Dano Electro. Dano causado dessa forma é considerado Dano de Ataque Normal.\nA Sombra da Luz aparecerá nas seguintes circunstâncias:\n· Quando está para ser atacada por um oponente.\n· Quando Clorinde usa Perfura-Noite: Ordem.\n1 Luz da Sombra pode ser invocada dessa forma a cada 1s. 6 Sombras podem ser invocadas por uma única duração de Patrulha Noturna.\nAlém disso, durante o estado Patrulha Noturna, o Dano que Clorinde sofre é reduzido em 80% e sua Resistência contra interrupção é aumentada. Esse efeito será removido quando o estado Patrulha Noturna acabar, ou 1s depois de invocar Sombras da Luz 6 vezes."
+                                                                      },
+                                                               "c1":  {
+                                                                          "name":  "\"De Hoje em Diante, Passo a Vela pelas Sombras\"",
+                                                                          "descriptionRaw":  "Enquanto o estado Patrulha Noturna de \u003ccolor=#FFD780FF\u003ePatrulha na Escuridão\u003c/color\u003e está ativo, e quando o \u003ccolor=#FFACFFFF\u003eDano Electro\u003c/color\u003e dos Ataques Normais de Clorinde atingir um inimigo, ativarão dois ataques coordenados da Sombra da Noite invocada perto do inimigo atingido, causando 30% do ATQ de Clorinde como \u003ccolor=#FFACFFFF\u003eDano Electro\u003c/color\u003e.\nEsse efeito pode ser desencadeado uma vez a cada 1.2s. O Dano causado dessa forma é considerado Dano de Ataque Normal.",
+                                                                          "description":  "Enquanto o estado Patrulha Noturna de Patrulha na Escuridão está ativo, e quando o Dano Electro dos Ataques Normais de Clorinde atingir um inimigo, ativarão dois ataques coordenados da Sombra da Noite invocada perto do inimigo atingido, causando 30% do ATQ de Clorinde como Dano Electro.\nEsse efeito pode ser desencadeado uma vez a cada 1.2s. O Dano causado dessa forma é considerado Dano de Ataque Normal."
+                                                                      }
+                                                           },
+                                        "elementText":  "Electro",
+                                        "fullname":  null,
+                                        "weaponText":  "Espada",
+                                        "name":  "Clorinde",
+                                        "substatText":  "Taxa Crítica",
+                                        "region":  "Fontaine",
+                                        "gender":  "Feminino"
+                                    },
                        "sayu":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -5489,6 +5574,47 @@
                                             "region":  "Inazuma",
                                             "gender":  "Feminino"
                                         },
+                       "zhongli":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Pedra, a Vela de Jade",
+                                                                         "descriptionRaw":  "Quando a \u003ccolor=#FFD780FF\u003eChuva Estelar\u003c/color\u003e cair, dará um Escudo de Jade para os personagens ao redor em campo próximos.",
+                                                                         "description":  "Quando a Chuva Estelar cair, dará um Escudo de Jade para os personagens ao redor em campo próximos."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Topázio, Inquebrável e Destemido",
+                                                                         "descriptionRaw":  "Aumenta a AdE da \u003ccolor=#FFD780FF\u003eChuva Estelar\u003c/color\u003e em 20%.\nAlém disso, o efeito de Petrificação da Chuva Estelar é prolongado em 2s.",
+                                                                         "description":  "Aumenta a AdE da Chuva Estelar em 20%.\nAlém disso, o efeito de Petrificação da Chuva Estelar é prolongado em 2s."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Jade, Cintilando na Escuridão",
+                                                                         "descriptionRaw":  "Aumenta o nível do \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                         "description":  "Aumenta o nível do Dominus Lapidis em 3.\nO nível máximo de elevação é 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Lazuli, Heraldo da Ordem",
+                                                                         "descriptionRaw":  "Aumenta o nível da \u003ccolor=#FFD780FF\u003eChuva Estelar\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                         "description":  "Aumenta o nível da Chuva Estelar em 3.\nO nível máximo de elevação é 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Chrysos, Recompensa do Dominador",
+                                                                         "descriptionRaw":  "Quando o Escudo de Jade recebe dano, 40% do Dano recebido é convertido em Vida para o personagem atual.\nA regeneração não pode exceder 8% da Vida Máxima do personagem por vez.",
+                                                                         "description":  "Quando o Escudo de Jade recebe dano, 40% do Dano recebido é convertido em Vida para o personagem atual.\nA regeneração não pode exceder 8% da Vida Máxima do personagem por vez."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Pedra, a Espinha Vertebral da Terra",
+                                                                         "descriptionRaw":  "Aumenta o número máximo de Estelas de Pedra criadas pelo \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e que podem existir simultaneamente para 2.",
+                                                                         "description":  "Aumenta o número máximo de Estelas de Pedra criadas pelo Dominus Lapidis que podem existir simultaneamente para 2."
+                                                                     }
+                                                          },
+                                       "elementText":  "Geo",
+                                       "fullname":  null,
+                                       "weaponText":  "Lança",
+                                       "name":  "Zhongli",
+                                       "substatText":  "Bônus de Dano Geo",
+                                       "region":  "Liyue",
+                                       "gender":  "Masculino"
+                                   },
                        "nahida":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5783,53 +5909,6 @@
                                                     },
                                              "effectName":  "Vento Inalcançável"
                                          },
-                    "finaleofthedeep":  {
-                                            "r3":  {
-                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 18% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 3.6% do valor removido por 15s, podendo ser aumentado até 225 pontos.",
-                                                       "values":  [
-                                                                      "18%",
-                                                                      "3.6%",
-                                                                      "225"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 24% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 4.8% do valor removido por 15s, podendo ser aumentado até 300 pontos.",
-                                                       "values":  [
-                                                                      "24%",
-                                                                      "4.8%",
-                                                                      "300"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 15% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 3% do valor removido por 15s, podendo ser aumentado até 187.5 pontos.",
-                                                       "values":  [
-                                                                      "15%",
-                                                                      "3%",
-                                                                      "187.5"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 21% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 4.2% do valor removido por 15s, podendo ser aumentado até 262.5 pontos.",
-                                                       "values":  [
-                                                                      "21%",
-                                                                      "4.2%",
-                                                                      "262.5"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ATQ",
-                                            "weaponText":  "Espada",
-                                            "name":  "Epílogo das Profundezas",
-                                            "effectTemplateRaw":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e do valor removido por 15s, podendo ser aumentado até \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e pontos.",
-                                            "r1":  {
-                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 12% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 2.4% do valor removido por 15s, podendo ser aumentado até 150 pontos.",
-                                                       "values":  [
-                                                                      "12%",
-                                                                      "2.4%",
-                                                                      "150"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Final Sublime"
-                                        },
                     "ferrousshadow":  {
                                           "r3":  {
                                                      "description":  "Quando a Vida estiver inferior a 80%, Ataques Carregados raramente são interrompidos e aumenta 40% do Ataque Carregado.",
@@ -7560,6 +7639,48 @@
                                                  },
                                           "effectName":  "Companhia do Vento"
                                       },
+                    "absolution":  {
+                                       "r3":  {
+                                                  "description":  "Aumenta o Dano CRIT em 30%. Aumentar o valor de um Contrato de Vida aumentará o Dano causado pelo personagem que está com essa arma equipada em 24% por 6s. Máximo de 3 acúmulos.",
+                                                  "values":  [
+                                                                 "30%",
+                                                                 "24%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Aumenta o Dano CRIT em 40%. Aumentar o valor de um Contrato de Vida aumentará o Dano causado pelo personagem que está com essa arma equipada em 32% por 6s. Máximo de 3 acúmulos.",
+                                                  "values":  [
+                                                                 "40%",
+                                                                 "32%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Aumenta o Dano CRIT em 25%. Aumentar o valor de um Contrato de Vida aumentará o Dano causado pelo personagem que está com essa arma equipada em 20% por 6s. Máximo de 3 acúmulos.",
+                                                  "values":  [
+                                                                 "25%",
+                                                                 "20%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Aumenta o Dano CRIT em 35%. Aumentar o valor de um Contrato de Vida aumentará o Dano causado pelo personagem que está com essa arma equipada em 28% por 6s. Máximo de 3 acúmulos.",
+                                                  "values":  [
+                                                                 "35%",
+                                                                 "28%"
+                                                             ]
+                                              },
+                                       "substatText":  "Dano Crítico",
+                                       "weaponText":  "Espada",
+                                       "name":  "Absolvição",
+                                       "effectTemplateRaw":  "Aumenta o Dano CRIT em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Aumentar o valor de um Contrato de Vida aumentará o Dano causado pelo personagem que está com essa arma equipada em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e por 6s. Máximo de 3 acúmulos.",
+                                       "r1":  {
+                                                  "description":  "Aumenta o Dano CRIT em 20%. Aumentar o valor de um Contrato de Vida aumentará o Dano causado pelo personagem que está com essa arma equipada em 16% por 6s. Máximo de 3 acúmulos.",
+                                                  "values":  [
+                                                                 "20%",
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "effectName":  "Pacto da Morte"
+                                   },
                     "freedomsworn":  {
                                          "r3":  {
                                                     "description":  "Uma parte do \"Concerto Milenar\" que flutua no vento. Aumenta o Dano causado em 15%. Quando ativa a Reação Elemental, o personagem obterá um Símbolo da Resistência, que pode ser ativado uma vez a cada 0.5s, mesmo quando o personagem não está no campo de batalha. Possuir 2 Símbolos da Resistência faz consumir todos eles, e faz todos os personagens da equipe obterem o efeito de \"Concerto Milenar: Canção da Resistência\" por 12s: Aumenta o Dano de Ataque Normal, Ataque Carregado, Ataque Imersivo em 24%, além disso o ATQ será aumentado em 30%. Dentro de 20s depois da ativação, não é possível obter os Símbolos da Resistência de novo. Entre todos os efeitos de vários valores, os efeitos do mesmo valor não podem ser acumulados.",
@@ -8598,6 +8719,58 @@
                                                 },
                                          "effectName":  "Majestade Dourada"
                                      },
+                    "skywardspine":  {
+                                         "r3":  {
+                                                    "description":  "A Taxa Crítica aumenta 12%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 70% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+                                                    "values":  [
+                                                                   "12%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "70%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "A Taxa Crítica aumenta 16%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 100% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+                                                    "values":  [
+                                                                   "16%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "100%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "A Taxa Crítica aumenta 10%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 55% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+                                                    "values":  [
+                                                                   "10%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "55%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "A Taxa Crítica aumenta 14%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 85% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+                                                    "values":  [
+                                                                   "14%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "85%"
+                                                               ]
+                                                },
+                                         "substatText":  "Recarga de Energia",
+                                         "weaponText":  "Lança",
+                                         "name":  "Espinha Celestial",
+                                         "effectTemplateRaw":  "A Taxa Crítica aumenta \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, a VEL do Ataque Normal aumenta \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e de chance de criar uma Lâmina de Vácuo que causa \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+                                         "r1":  {
+                                                    "description":  "A Taxa Crítica aumenta 8%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 40% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+                                                    "values":  [
+                                                                   "8%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "40%"
+                                                               ]
+                                                },
+                                         "effectName":  "Asas Negras"
+                                     },
                     "kitaincrossspear":  {
                                              "r3":  {
                                                         "description":  "Aumenta o Dano causado pela Habilidade Elemental em 9%. Quando o personagem acerta no inimigo com sua Habilidade Elemental, ele perde 3 pontos de Energia Elemental e dentro dos 6s posteriores ele restaura 4 pontos de Energia Elemental a cada 2s. Esse efeito só pode ser ativado uma vez a cada 10s. Quando o personagem não está em campo ele também pode ser ativado.",
@@ -8839,6 +9012,43 @@
                                                               ]
                                                },
                                         "effectName":  "Acume"
+                                    },
+                    "cloudforged":  {
+                                        "r3":  {
+                                                   "description":  "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 60. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+                                                   "values":  [
+                                                                  "60"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 80. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+                                                   "values":  [
+                                                                  "80"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 50. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+                                                   "values":  [
+                                                                  "50"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 70. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+                                                   "values":  [
+                                                                  "70"
+                                                              ]
+                                               },
+                                        "substatText":  "Proficiência Elemental",
+                                        "weaponText":  "Arco",
+                                        "name":  "Tocador de Nuvens",
+                                        "effectTemplateRaw":  "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+                                        "r1":  {
+                                                   "description":  "Depois que a Energia Elemental diminui, a Proficiência Elemental do personagem que está com essa arma equipada aumenta em 40. Esse efeito dura 18s e pode ser acumulado até 2 vezes.",
+                                                   "values":  [
+                                                                  "40"
+                                                              ]
+                                               },
+                                        "effectName":  "Padrões Entalhados na Rocha"
                                     },
                     "twinnephrite":  {
                                          "r3":  {
@@ -9760,58 +9970,53 @@
                                                },
                                         "effectName":  "Balada Retumbante"
                                     },
-                    "skywardspine":  {
-                                         "r3":  {
-                                                    "description":  "A Taxa Crítica aumenta 12%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 70% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
-                                                    "values":  [
-                                                                   "12%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "70%"
-                                                               ]
-                                                },
-                                         "r5":  {
-                                                    "description":  "A Taxa Crítica aumenta 16%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 100% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
-                                                    "values":  [
-                                                                   "16%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "100%"
-                                                               ]
-                                                },
-                                         "r2":  {
-                                                    "description":  "A Taxa Crítica aumenta 10%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 55% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
-                                                    "values":  [
-                                                                   "10%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "55%"
-                                                               ]
-                                                },
-                                         "r4":  {
-                                                    "description":  "A Taxa Crítica aumenta 14%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 85% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
-                                                    "values":  [
-                                                                   "14%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "85%"
-                                                               ]
-                                                },
-                                         "substatText":  "Recarga de Energia",
-                                         "weaponText":  "Lança",
-                                         "name":  "Espinha Celestial",
-                                         "effectTemplateRaw":  "A Taxa Crítica aumenta \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, a VEL do Ataque Normal aumenta \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e de chance de criar uma Lâmina de Vácuo que causa \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
-                                         "r1":  {
-                                                    "description":  "A Taxa Crítica aumenta 8%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa 40% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
-                                                    "values":  [
-                                                                   "8%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "40%"
-                                                               ]
-                                                },
-                                         "effectName":  "Asas Negras"
-                                     },
+                    "finaleofthedeep":  {
+                                            "r3":  {
+                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 18% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 3.6% do valor removido por 15s, podendo ser aumentado até 225 pontos.",
+                                                       "values":  [
+                                                                      "18%",
+                                                                      "3.6%",
+                                                                      "225"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 24% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 4.8% do valor removido por 15s, podendo ser aumentado até 300 pontos.",
+                                                       "values":  [
+                                                                      "24%",
+                                                                      "4.8%",
+                                                                      "300"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 15% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 3% do valor removido por 15s, podendo ser aumentado até 187.5 pontos.",
+                                                       "values":  [
+                                                                      "15%",
+                                                                      "3%",
+                                                                      "187.5"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 21% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 4.2% do valor removido por 15s, podendo ser aumentado até 262.5 pontos.",
+                                                       "values":  [
+                                                                      "21%",
+                                                                      "4.2%",
+                                                                      "262.5"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ATQ",
+                                            "weaponText":  "Espada",
+                                            "name":  "Epílogo das Profundezas",
+                                            "effectTemplateRaw":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e do valor removido por 15s, podendo ser aumentado até \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e pontos.",
+                                            "r1":  {
+                                                       "description":  "Ao utilizar a Habilidade Elemental, aumenta o ATQ em 12% por 15s e concede um Contrato de Vida equivalente a 25% da Vida Máxima. Este efeito pode ser ativado uma vez a cada 10s. Quando o Contrato de Vida é removido, o ATQ é aumentado em 2.4% do valor removido por 15s, podendo ser aumentado até 150 pontos.",
+                                                       "values":  [
+                                                                      "12%",
+                                                                      "2.4%",
+                                                                      "150"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Final Sublime"
+                                        },
                     "everlastingmoonglow":  {
                                                 "r3":  {
                                                            "description":  "Aumenta o Bônus de Cura em 15%; aumenta o Dano do Ataque Normal em 2% da Vida Máxima do personagem com o arma equipada. Nos 12s após utilizar o Supremo, Ataques Normais que atingirem oponentes regenerarão 0.6 pontos de Energia Elemental. Energia Elemental pode ser regenerada dessa forma uma vez a cada 0.1s.",
@@ -11664,6 +11869,48 @@
                                              },
                                       "effectName":  "Ferrão Energético"
                                   },
+                    "silvershowerheartstrings":  {
+                                                     "r3":  {
+                                                                "description":  "O personagem equipado pode obter o efeito \"Remédio\". Quando eles possuem 1/2/3 acúmulos de \"Remédio\", sua Vida Máxima aumentará em 18%/36%/60%. Eles podem obter 1 acúmulo nas seguintes situações: 1 ao usar uma Habilidade Elemental por 25s; 1 ao aumentar o valor do Contrato de Vida por 25s; 1 ao iniciar Cura por 20s. Isso ainda pode ser ativado quando o personagem equipado não está em campo. A duração de cada acúmulo é contada independentemente. Além disso, quando você tem 3 acúmulos, a Taxa CRIT do Supremo será aumentada em 42%. Este efeito será cancelado 4s após você ficar com menos de 3 acúmulos.",
+                                                                "values":  [
+                                                                               "18%/36%/60%",
+                                                                               "42%"
+                                                                           ]
+                                                            },
+                                                     "r5":  {
+                                                                "description":  "O personagem equipado pode obter o efeito \"Remédio\". Quando eles possuem 1/2/3 acúmulos de \"Remédio\", sua Vida Máxima aumentará em 24%/48%/80%. Eles podem obter 1 acúmulo nas seguintes situações: 1 ao usar uma Habilidade Elemental por 25s; 1 ao aumentar o valor do Contrato de Vida por 25s; 1 ao iniciar Cura por 20s. Isso ainda pode ser ativado quando o personagem equipado não está em campo. A duração de cada acúmulo é contada independentemente. Além disso, quando você tem 3 acúmulos, a Taxa CRIT do Supremo será aumentada em 56%. Este efeito será cancelado 4s após você ficar com menos de 3 acúmulos.",
+                                                                "values":  [
+                                                                               "24%/48%/80%",
+                                                                               "56%"
+                                                                           ]
+                                                            },
+                                                     "r2":  {
+                                                                "description":  "O personagem equipado pode obter o efeito \"Remédio\". Quando eles possuem 1/2/3 acúmulos de \"Remédio\", sua Vida Máxima aumentará em 15%/30%/50%. Eles podem obter 1 acúmulo nas seguintes situações: 1 ao usar uma Habilidade Elemental por 25s; 1 ao aumentar o valor do Contrato de Vida por 25s; 1 ao iniciar Cura por 20s. Isso ainda pode ser ativado quando o personagem equipado não está em campo. A duração de cada acúmulo é contada independentemente. Além disso, quando você tem 3 acúmulos, a Taxa CRIT do Supremo será aumentada em 35%. Este efeito será cancelado 4s após você ficar com menos de 3 acúmulos.",
+                                                                "values":  [
+                                                                               "15%/30%/50%",
+                                                                               "35%"
+                                                                           ]
+                                                            },
+                                                     "r4":  {
+                                                                "description":  "O personagem equipado pode obter o efeito \"Remédio\". Quando eles possuem 1/2/3 acúmulos de \"Remédio\", sua Vida Máxima aumentará em 21%/42%/70%. Eles podem obter 1 acúmulo nas seguintes situações: 1 ao usar uma Habilidade Elemental por 25s; 1 ao aumentar o valor do Contrato de Vida por 25s; 1 ao iniciar Cura por 20s. Isso ainda pode ser ativado quando o personagem equipado não está em campo. A duração de cada acúmulo é contada independentemente. Além disso, quando você tem 3 acúmulos, a Taxa CRIT do Supremo será aumentada em 49%. Este efeito será cancelado 4s após você ficar com menos de 3 acúmulos.",
+                                                                "values":  [
+                                                                               "21%/42%/70%",
+                                                                               "49%"
+                                                                           ]
+                                                            },
+                                                     "substatText":  "Vida",
+                                                     "weaponText":  "Arco",
+                                                     "name":  "Cordas da Chuva Branca",
+                                                     "effectTemplateRaw":  "O personagem equipado pode obter o efeito \"Remédio\". Quando eles possuem 1/2/3 acúmulos de \"Remédio\", sua Vida Máxima aumentará em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Eles podem obter 1 acúmulo nas seguintes situações: 1 ao usar uma Habilidade Elemental por 25s; 1 ao aumentar o valor do Contrato de Vida por 25s; 1 ao iniciar Cura por 20s. Isso ainda pode ser ativado quando o personagem equipado não está em campo. A duração de cada acúmulo é contada independentemente. Além disso, quando você tem 3 acúmulos, a Taxa CRIT do Supremo será aumentada em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Este efeito será cancelado 4s após você ficar com menos de 3 acúmulos.",
+                                                     "r1":  {
+                                                                "description":  "O personagem equipado pode obter o efeito \"Remédio\". Quando eles possuem 1/2/3 acúmulos de \"Remédio\", sua Vida Máxima aumentará em 12%/24%/40%. Eles podem obter 1 acúmulo nas seguintes situações: 1 ao usar uma Habilidade Elemental por 25s; 1 ao aumentar o valor do Contrato de Vida por 25s; 1 ao iniciar Cura por 20s. Isso ainda pode ser ativado quando o personagem equipado não está em campo. A duração de cada acúmulo é contada independentemente. Além disso, quando você tem 3 acúmulos, a Taxa CRIT do Supremo será aumentada em 28%. Este efeito será cancelado 4s após você ficar com menos de 3 acúmulos.",
+                                                                "values":  [
+                                                                               "12%/24%/40%",
+                                                                               "28%"
+                                                                           ]
+                                                            },
+                                                     "effectName":  "Melodia de Dryas"
+                                                 },
                     "prizedisshinblade":  {
                                               "r3":  null,
                                               "r5":  null,

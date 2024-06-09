@@ -590,9 +590,6 @@
                       "adventureexp":  {
                                            "name":  "Adventure EXP"
                                        },
-                      "oasisgardenstruth":  {
-                                                "name":  "Oasis Garden\u0027s Truth"
-                                            },
                       "stormbeads":  {
                                          "name":  "Storm Beads"
                                      },
@@ -662,12 +659,15 @@
                       "lightningprism":  {
                                              "name":  "Lightning Prism"
                                          },
-                      "windwheelastersaroma":  {
-                                                   "name":  "กลิ่นของ Windwheel Aster"
-                                               },
+                      "valberry":  {
+                                       "name":  "Valberry"
+                                   },
                       "stainedmask":  {
                                           "name":  "Stained Mask"
                                       },
+                      "windwheelastersaroma":  {
+                                                   "name":  "กลิ่นของ Windwheel Aster"
+                                               },
                       "cleansingheart":  {
                                              "name":  "Cleansing Heart"
                                          },
@@ -677,9 +677,9 @@
                       "dreamsolvent":  {
                                            "name":  "Dream Solvent"
                                        },
-                      "valberry":  {
-                                       "name":  "Valberry"
-                                   },
+                      "northlanderswordbillet":  {
+                                                     "name":  "Northlander Sword Billet"
+                                                 },
                       "acquaintfate":  {
                                            "name":  "Acquaint Fate"
                                        },
@@ -1109,9 +1109,9 @@
                       "brokengobletofthepristinesea":  {
                                                            "name":  "Broken Goblet of the Pristine Sea"
                                                        },
-                      "starshroom":  {
-                                         "name":  "Starshroom"
-                                     },
+                      "silkenfeather":  {
+                                            "name":  "Silken Feather"
+                                        },
                       "betta":  {
                                     "name":  "Betta"
                                 },
@@ -1577,9 +1577,9 @@
                       "shadowofthewarrior":  {
                                                  "name":  "Shadow of the Warrior"
                                              },
-                      "maplewood":  {
-                                        "name":  "ไม้ Maple"
-                                    },
+                      "lumidoucebell":  {
+                                            "name":  "Lumidouce Bell"
+                                        },
                       "rimewornfragment":  {
                                                "name":  "Rime-Worn Fragment"
                                            },
@@ -1589,9 +1589,9 @@
                       "borealwolfsmilktooth":  {
                                                    "name":  "Boreal Wolf\u0027s Milk Tooth"
                                                },
-                      "northlanderswordbillet":  {
-                                                     "name":  "Northlander Sword Billet"
-                                                 },
+                      "maplewood":  {
+                                        "name":  "ไม้ Maple"
+                                    },
                       "trimmedredsilk":  {
                                              "name":  "Trimmed Red Silk"
                                          },
@@ -1712,9 +1712,9 @@
                       "lindenwood":  {
                                          "name":  "ไม้ Linden"
                                      },
-                      "silkenfeather":  {
-                                            "name":  "Silken Feather"
-                                        },
+                      "camandcablesoflaw":  {
+                                                "name":  "Cam and Cables of Law"
+                                            },
                       "ironchunk":  {
                                         "name":  "Iron Chunk"
                                     },
@@ -1889,12 +1889,15 @@
                       "prithivatopazchunk":  {
                                                  "name":  "Prithiva Topaz Chunk"
                                              },
-                      "lumidoucebell":  {
-                                            "name":  "Lumidouce Bell"
-                                        },
+                      "oasisgardenstruth":  {
+                                                "name":  "Oasis Garden\u0027s Truth"
+                                            },
                       "cheese":  {
                                      "name":  "Cheese"
                                  },
+                      "starshroom":  {
+                                         "name":  "Starshroom"
+                                     },
                       "marionettecore":  {
                                              "name":  "Marionette Core"
                                          },
@@ -2542,6 +2545,47 @@
                                      "region":  "Mondstadt",
                                      "gender":  "ชาย"
                                  },
+                       "sigewinne":  {
+                                         "constellations":  {
+                                                                "c2":  {
+                                                                           "name":  "\"Can the Most Merciful of Spirits Defeat Its Foes?\"",
+                                                                           "descriptionRaw":  "เมื่อปล่อย \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e และ \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e จะทำให้เกิดโล่ลูกบอลน้ำที่สามารถดูดซับความเสียหายเท่ากับ 30% ของพลังชีวิตสูงสุด ซึ่งมีประสิทธิภาพการดูดซับ\u003ccolor=#80C0FFFF\u003eความเสียหายน้ำ\u003c/color\u003e 250% ต่อเนื่องไปจนกว่าจะจบสกิล\nนอกจากนี้ หลังจากลูกบอลน้ำบำบัดของ Rebound Hydrotherapy หรือ Super Saturated Syringing โจมตีโดนศัตรู \u003ccolor=#80C0FFFF\u003eความต้านทานน้ำ\u003c/color\u003eของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 8 วินาที",
+                                                                           "description":  "เมื่อปล่อย Rebound Hydrotherapy และ Super Saturated Syringing จะทำให้เกิดโล่ลูกบอลน้ำที่สามารถดูดซับความเสียหายเท่ากับ 30% ของพลังชีวิตสูงสุด ซึ่งมีประสิทธิภาพการดูดซับความเสียหายน้ำ 250% ต่อเนื่องไปจนกว่าจะจบสกิล\nนอกจากนี้ หลังจากลูกบอลน้ำบำบัดของ Rebound Hydrotherapy หรือ Super Saturated Syringing โจมตีโดนศัตรู ความต้านทานน้ำของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 8 วินาที"
+                                                                       },
+                                                                "c4":  {
+                                                                           "name":  "\"Can the Loveliest of Spirits Keep Decay at Bay?\"",
+                                                                           "descriptionRaw":  "เพิ่มระยะเวลาต่อเนื่องของ \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e 3 วินาที",
+                                                                           "description":  "เพิ่มระยะเวลาต่อเนื่องของ Super Saturated Syringing 3 วินาที"
+                                                                       },
+                                                                "c3":  {
+                                                                           "name":  "\"Can the Healthiest of Spirits Cure Fevers?\"",
+                                                                           "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                           "description":  "เพิ่มเลเวลสกิลของ Rebound Hydrotherapy ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                       },
+                                                                "c5":  {
+                                                                           "name":  "\"Can the Most Joyful of Spirits Alleviate Agony?\"",
+                                                                           "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                           "description":  "เพิ่มเลเวลสกิลของ Super Saturated Syringing ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                       },
+                                                                "c6":  {
+                                                                           "name":  "\"Can the Most Radiant of Spirits Pray For Me?\"",
+                                                                           "descriptionRaw":  "เมื่อ Sigewinne ทำการรักษา พลังชีวิตและอัตราคริของ \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e ของตัวเอง จะเพิ่มขึ้นตามค่าพลังชีวิตสูงสุด: ค่าพลังชีวิตสูงสุดทุก 1,000 หน่วย จะเพิ่มอัตราคริ 0.4% และเพิ่มความแรงคริ 2.2% เป็นเวลา 15 วินาที โดยวิธีนี้สามารถเพิ่มอัตราคริได้สูงสุด 20% และความแรงคริได้สูงสุด 110%",
+                                                                           "description":  "เมื่อ Sigewinne ทำการรักษา พลังชีวิตและอัตราคริของ Super Saturated Syringing ของตัวเอง จะเพิ่มขึ้นตามค่าพลังชีวิตสูงสุด: ค่าพลังชีวิตสูงสุดทุก 1,000 หน่วย จะเพิ่มอัตราคริ 0.4% และเพิ่มความแรงคริ 2.2% เป็นเวลา 15 วินาที โดยวิธีนี้สามารถเพิ่มอัตราคริได้สูงสุด 20% และความแรงคริได้สูงสุด 110%"
+                                                                       },
+                                                                "c1":  {
+                                                                           "name":  "\"Can the Happiest of Spirits Understand Anxiety?\"",
+                                                                           "descriptionRaw":  "ลูกบอลน้ำบำบัดของ \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e สามารถกระดอนเพิ่มเติมได้อีก 3 ครั้ง; และการกระดอน 3 ครั้งแรกจะไม่ทำให้ลูกบอลน้ำขนาดใหญ่หดเล็กลง\nนอกจากนี้ เอฟเฟกต์ของพรสวรรค์ติดตัว \"Requires Appropriate Rest\" จะเพิ่มขึ้น: เมื่อลูกบอลน้ำบำบัดกระดอน จะมอบค่าการพักฟื้น 1 ชั้นให้กับ Sigewinne และทำให้ความเสียหายที่เกิดจากค่าการพักฟื้น เปลี่ยนเป็น: ทุก 1,000 หน่วย ที่เกินมาจากพลังชีวิตสูงสุด 30,000 หน่วยของ Sigewinne จะเพิ่มความเสียหาย 100 หน่วย โดยสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้สูงสุด 3,500 หน่วย เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Requires Appropriate Rest\" ก่อน",
+                                                                           "description":  "ลูกบอลน้ำบำบัดของ Rebound Hydrotherapy สามารถกระดอนเพิ่มเติมได้อีก 3 ครั้ง; และการกระดอน 3 ครั้งแรกจะไม่ทำให้ลูกบอลน้ำขนาดใหญ่หดเล็กลง\nนอกจากนี้ เอฟเฟกต์ของพรสวรรค์ติดตัว \"Requires Appropriate Rest\" จะเพิ่มขึ้น: เมื่อลูกบอลน้ำบำบัดกระดอน จะมอบค่าการพักฟื้น 1 ชั้นให้กับ Sigewinne และทำให้ความเสียหายที่เกิดจากค่าการพักฟื้น เปลี่ยนเป็น: ทุก 1,000 หน่วย ที่เกินมาจากพลังชีวิตสูงสุด 30,000 หน่วยของ Sigewinne จะเพิ่มความเสียหาย 100 หน่วย โดยสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้สูงสุด 3,500 หน่วย เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Requires Appropriate Rest\" ก่อน"
+                                                                       }
+                                                            },
+                                         "elementText":  "น้ำ",
+                                         "fullname":  null,
+                                         "weaponText":  "ธนู",
+                                         "name":  "Sigewinne",
+                                         "substatText":  "พลังชีวิต",
+                                         "region":  "Fontaine",
+                                         "gender":  "ผู้หญิง"
+                                     },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3765,47 +3809,47 @@
                                        "region":  "Fontaine",
                                        "gender":  "ผู้หญิง"
                                    },
-                       "zhongli":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Stone, the Cradle of Jade",
-                                                                         "descriptionRaw":  "เมื่อ \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e ตกลงมา จะมอบ Jade Shield ให้กับตัวละครที่เข้าร่วมการต่อสู้ และอยู่ในบริเวณใกล้เคียงในขณะนั้น",
-                                                                         "description":  "เมื่อ Planet Befall ตกลงมา จะมอบ Jade Shield ให้กับตัวละครที่เข้าร่วมการต่อสู้ และอยู่ในบริเวณใกล้เคียงในขณะนั้น"
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Topaz, Unbreakable and Fearless",
-                                                                         "descriptionRaw":  "พื้นที่ผลกระทบของ \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e ขยายขึ้น 20%\nนอกจากนี้ เอฟเฟกต์กลายเป็นหินของ Planet Befall จะนานขึ้น 2 วินาที",
-                                                                         "description":  "พื้นที่ผลกระทบของ Planet Befall ขยายขึ้น 20%\nนอกจากนี้ เอฟเฟกต์กลายเป็นหินของ Planet Befall จะนานขึ้น 2 วินาที"
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Jade, Shimmering through Darkness",
-                                                                         "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
-                                                                         "description":  "เพิ่มเลเวลสกิลของ Dominus Lapidis ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Lazuli, Herald of the Order",
-                                                                         "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
-                                                                         "description":  "เพิ่มเลเวลสกิลของ Planet Befall ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Chrysos, Bounty of Dominator",
-                                                                         "descriptionRaw":  "เมื่อ Jade Shield ได้รับความเสียหาย ตัวละครในขณะนั้นจะได้รับการฟื้นฟูพลังชีวิตเท่ากับ 40% ของความเสียหาย\nซึ่งปริมาณการฟื้นฟูในหนึ่งครั้ง จะไม่เกิน 8% ของพลังชีวิตสูงสุดของตัวละครในขณะนั้น",
-                                                                         "description":  "เมื่อ Jade Shield ได้รับความเสียหาย ตัวละครในขณะนั้นจะได้รับการฟื้นฟูพลังชีวิตเท่ากับ 40% ของความเสียหาย\nซึ่งปริมาณการฟื้นฟูในหนึ่งครั้ง จะไม่เกิน 8% ของพลังชีวิตสูงสุดของตัวละครในขณะนั้น"
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Rock, the Backbone of Earth",
-                                                                         "descriptionRaw":  "Stone Stele ที่ \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e สร้างขึ้น จะสามารถคงอยู่ได้มากสุด 2 แท่ง ในเวลาเดียวกัน",
-                                                                         "description":  "Stone Stele ที่ Dominus Lapidis สร้างขึ้น จะสามารถคงอยู่ได้มากสุด 2 แท่ง ในเวลาเดียวกัน"
-                                                                     }
-                                                          },
-                                       "elementText":  "หิน",
-                                       "fullname":  null,
-                                       "weaponText":  "หอก",
-                                       "name":  "Zhongli",
-                                       "substatText":  "โบนัสความเสียหายหิน",
-                                       "region":  "Liyue",
-                                       "gender":  "ชาย"
-                                   },
+                       "sethos":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Papyrus Scripture of Silent Secrets",
+                                                                        "descriptionRaw":  "เมื่อบรรลุเงื่อนไขข้อใดข้อหนึ่งต่อไปนี้ \u003ccolor=#FFACFFFF\u003eโบนัสความเสียหายไฟฟ้า\u003c/color\u003eของ Sethos จะเพิ่มขึ้น 15% เป็นเวลา 10 วินาที ซึ่งจะซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน:\n·ใช้พลังงานธาตุจากการเล็งโจมตี เงื่อนไขนี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" ก่อน;\n·ฟื้นฟูพลังงานธาตุจากการทำให้เกิดปฏิกิริยาธาตุด้วย \u003ccolor=#FFD780FF\u003eAncient Rite: The Thundering Sands\u003c/color\u003e;\n·ปลดปล่อย \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e",
+                                                                        "description":  "เมื่อบรรลุเงื่อนไขข้อใดข้อหนึ่งต่อไปนี้ โบนัสความเสียหายไฟฟ้าของ Sethos จะเพิ่มขึ้น 15% เป็นเวลา 10 วินาที ซึ่งจะซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน:\n·ใช้พลังงานธาตุจากการเล็งโจมตี เงื่อนไขนี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" ก่อน;\n·ฟื้นฟูพลังงานธาตุจากการทำให้เกิดปฏิกิริยาธาตุด้วย Ancient Rite: The Thundering Sands;\n·ปลดปล่อย Secret Rite: Twilight Shadowpiercer"
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Beneficent Plumage",
+                                                                        "descriptionRaw":  "เมื่อ\u003ccolor=#FFD780FF\u003eศรทะลวงเงา\u003c/color\u003eหรือ\u003ccolor=#FFD780FF\u003eศรสนธยา\u003c/color\u003eโจมตีถูกศัตรูตั้งแต่ 2 ตัวขึ้นไป ความชำนาญธาตุของตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง จะเพิ่มขึ้น 80 หน่วย เป็นเวลา 10 วินาที",
+                                                                        "description":  "เมื่อศรทะลวงเงาหรือศรสนธยาโจมตีถูกศัตรูตั้งแต่ 2 ตัวขึ้นไป ความชำนาญธาตุของตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง จะเพิ่มขึ้น 80 หน่วย เป็นเวลา 10 วินาที"
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Ode to the Moonrise Sage",
+                                                                        "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003eโจมตีปกติ: Royal Reed Archery\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                        "description":  "เพิ่มเลเวลสกิลของ โจมตีปกติ: Royal Reed Archery ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Record of the Desolate God\u0027s Burning Sands",
+                                                                        "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                        "description":  "เพิ่มเลเวลสกิลของ Secret Rite: Twilight Shadowpiercer ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Pylon of the Sojourning Sun Temple",
+                                                                        "descriptionRaw":  "หลังจาก\u003ccolor=#FFD780FF\u003eศรทะลวงเงา\u003c/color\u003eโจมตีถูกศัตรู จะคืนพลังงานธาตุที่ถูกใช้ไปของพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" ก่อน",
+                                                                        "description":  "หลังจากศรทะลวงเงาโจมตีถูกศัตรู จะคืนพลังงานธาตุที่ถูกใช้ไปของพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" ก่อน"
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Sealed Shrine\u0027s Spiritsong",
+                                                                        "descriptionRaw":  "อัตราคริของ\u003ccolor=#FFD780FF\u003eศรทะลวงเงา\u003c/color\u003eเพิ่มขึ้น 15%",
+                                                                        "description":  "อัตราคริของศรทะลวงเงาเพิ่มขึ้น 15%"
+                                                                    }
+                                                         },
+                                      "elementText":  "ไฟฟ้า",
+                                      "fullname":  null,
+                                      "weaponText":  "ธนู",
+                                      "name":  "Sethos",
+                                      "substatText":  "ความชำนาญธาตุ",
+                                      "region":  "Sumeru",
+                                      "gender":  "ชาย"
+                                  },
                        "chongyun":  {
                                         "constellations":  {
                                                                "c2":  {
@@ -5325,6 +5369,47 @@
                                        "region":  "Mondstadt",
                                        "gender":  "ชาย"
                                    },
+                       "clorinde":  {
+                                        "constellations":  {
+                                                               "c2":  {
+                                                                          "name":  "\"Now, As We Face the Perils of the Long Night\"",
+                                                                          "descriptionRaw":  "เอฟเฟกต์พรสวรรค์ติดตัว \"Dark-Shattering Flame\" ได้รับการเสริมพลัง: หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิด\u003ccolor=#FFACFFFF\u003eปฏิกิริยาเกี่ยวกับธาตุไฟฟ้า\u003c/color\u003eแก่ศัตรู การโจมตีปกติและ \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e ของ Clorinde จะทำให้\u003ccolor=#FFACFFFF\u003eความเสียหายไฟฟ้า\u003c/color\u003eเพิ่มขึ้นตามพลังโจมตี 30% ของ Clorinde เป็นเวลา 15 วินาที เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 3 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน เมื่อมีเอฟเฟกต์นี้ 3 ชั้น ความสามารถในการต้านทานการหยุดชะงักของ Clorinde จะเพิ่มขึ้น ความเสียหายที่เกิดจากการโจมตีของ Clorinde ดังกล่าว จะเพิ่มขึ้นได้สูงสุด 2,700 หน่วย\nต้องปลดล็อกพรสวรรค์ติดตัว \"Dark-Shattering Flame\" ก่อน",
+                                                                          "description":  "เอฟเฟกต์พรสวรรค์ติดตัว \"Dark-Shattering Flame\" ได้รับการเสริมพลัง: หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาเกี่ยวกับธาตุไฟฟ้าแก่ศัตรู การโจมตีปกติและ Last Lightfall ของ Clorinde จะทำให้ความเสียหายไฟฟ้าเพิ่มขึ้นตามพลังโจมตี 30% ของ Clorinde เป็นเวลา 15 วินาที เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 3 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน เมื่อมีเอฟเฟกต์นี้ 3 ชั้น ความสามารถในการต้านทานการหยุดชะงักของ Clorinde จะเพิ่มขึ้น ความเสียหายที่เกิดจากการโจมตีของ Clorinde ดังกล่าว จะเพิ่มขึ้นได้สูงสุด 2,700 หน่วย\nต้องปลดล็อกพรสวรรค์ติดตัว \"Dark-Shattering Flame\" ก่อน"
+                                                                      },
+                                                               "c4":  {
+                                                                          "name":  "\"To Enshrine Tears, Life, and Love\"",
+                                                                          "descriptionRaw":  "เมื่อ \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e สร้างความเสียหายแก่ศัตรู ความเสียหายจะเพิ่มขึ้นตามเปอร์เซ็นต์บ่วงพันธะชีวันปัจจุบันของ Clorinde ทุก 1% ของบ่วงพันธะชีวัน จะทำให้ \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e สร้างความเสียหายเพิ่มขึ้น 2%; สามารถทำให้ความเสียหายของ \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e เพิ่มขึ้นด้วยวิธีนี้ได้สูงสุด 200%",
+                                                                          "description":  "เมื่อ Last Lightfall สร้างความเสียหายแก่ศัตรู ความเสียหายจะเพิ่มขึ้นตามเปอร์เซ็นต์บ่วงพันธะชีวันปัจจุบันของ Clorinde ทุก 1% ของบ่วงพันธะชีวัน จะทำให้ Last Lightfall สร้างความเสียหายเพิ่มขึ้น 2%; สามารถทำให้ความเสียหายของ Last Lightfall เพิ่มขึ้นด้วยวิธีนี้ได้สูงสุด 200%"
+                                                                      },
+                                                               "c3":  {
+                                                                          "name":  "\"I Pledge to Remember the Oath of Daylight\"",
+                                                                          "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003eHunter\u0027s Vigil\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                          "description":  "เพิ่มเลเวลสกิลของ Hunter\u0027s Vigil ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                      },
+                                                               "c5":  {
+                                                                          "name":  "\"Holding Dawn\u0027s Coming as My Votive\"",
+                                                                          "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                          "description":  "เพิ่มเลเวลสกิลของ Last Lightfall ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                      },
+                                                               "c6":  {
+                                                                          "name":  "\"And So Shall I Never Despair\"",
+                                                                          "descriptionRaw":  "ภายใน 12 วินาทีหลังจากปล่อย \u003ccolor=#FFD780FF\u003eHunter\u0027s Vigil\u003c/color\u003e อัตราคริของ Clorinde จะเพิ่มขึ้น 10% ความแรงคริจะเพิ่มขึ้น 70%\nนอกจากนี้ ในช่วงเวลาต่อเนื่องของสถานะลาดตระเวน เงาพรางเทียนจะปรากฏขึ้นภายใต้เงื่อนไขที่กำหนด และทำการไล่ล่า สร้าง\u003ccolor=#FFACFFFF\u003eความเสียหายไฟฟ้า\u003c/color\u003e 200% ของพลังโจมตีของ Clorinde ความเสียหายที่เกิดจากวิธีนี้ จะถูกนับว่าเป็นความเสียหายโจมตีปกติ\nเงาพรางเทียนจะปรากฏขึ้นภายใต้สถานการณ์ต่อไปนี้:\n·เมื่อ Clorinde กำลังจะถูกโจมตี;\n·เมื่อ Clorinde ใช้ Impale the Night: Pact\nในทุก 1 วินาที จะสามารถเรียกเงาพรางเทียนออกมาด้วยวิธีดังกล่าวได้สูงสุด 1 ครั้ง ในช่วงเวลาต่อเนื่องของสถานะลาดตระเวนหนึ่งครั้ง จะเรียกเงาพรางเทียนได้สูงสุด 6 ครั้ง\nนอกจากนี้ ในช่วงเวลาต่อเนื่องของสถานะลาดตระเวน ความเสียหายที่ Clorinde ได้รับจะลดลง 80% และความสามารถในการต้านทานการหยุดชะงักจะเพิ่มขึ้น เอฟเฟกต์นี้จะหายไปใน 1 วินาที หลังจากสถานะลาดตระเวนสิ้นสุดลง หรือเรียกเงาพรางเทียนออกมาครบ 6 ครั้ง",
+                                                                          "description":  "ภายใน 12 วินาทีหลังจากปล่อย Hunter\u0027s Vigil อัตราคริของ Clorinde จะเพิ่มขึ้น 10% ความแรงคริจะเพิ่มขึ้น 70%\nนอกจากนี้ ในช่วงเวลาต่อเนื่องของสถานะลาดตระเวน เงาพรางเทียนจะปรากฏขึ้นภายใต้เงื่อนไขที่กำหนด และทำการไล่ล่า สร้างความเสียหายไฟฟ้า 200% ของพลังโจมตีของ Clorinde ความเสียหายที่เกิดจากวิธีนี้ จะถูกนับว่าเป็นความเสียหายโจมตีปกติ\nเงาพรางเทียนจะปรากฏขึ้นภายใต้สถานการณ์ต่อไปนี้:\n·เมื่อ Clorinde กำลังจะถูกโจมตี;\n·เมื่อ Clorinde ใช้ Impale the Night: Pact\nในทุก 1 วินาที จะสามารถเรียกเงาพรางเทียนออกมาด้วยวิธีดังกล่าวได้สูงสุด 1 ครั้ง ในช่วงเวลาต่อเนื่องของสถานะลาดตระเวนหนึ่งครั้ง จะเรียกเงาพรางเทียนได้สูงสุด 6 ครั้ง\nนอกจากนี้ ในช่วงเวลาต่อเนื่องของสถานะลาดตระเวน ความเสียหายที่ Clorinde ได้รับจะลดลง 80% และความสามารถในการต้านทานการหยุดชะงักจะเพิ่มขึ้น เอฟเฟกต์นี้จะหายไปใน 1 วินาที หลังจากสถานะลาดตระเวนสิ้นสุดลง หรือเรียกเงาพรางเทียนออกมาครบ 6 ครั้ง"
+                                                                      },
+                                                               "c1":  {
+                                                                          "name":  "\"From This Day, I Pass the Candle\u0027s Shadow-Veil\"",
+                                                                          "descriptionRaw":  "ในช่วงเวลาต่อเนื่องของสถานะลาดตระเวนของ \u003ccolor=#FFD780FF\u003eHunter\u0027s Vigil\u003c/color\u003e เมื่อ\u003ccolor=#FFACFFFF\u003eความเสียหายไฟฟ้า\u003c/color\u003eที่เกิดจากการโจมตีปกติของ Clorinde โจมตีโดนศัตรู จะเรียกเงาลาดตระเวนออกมาในตำแหน่งใกล้เคียงของศัตรู เพื่อทำการโจมตีร่วมกัน 2 ครั้ง โดยสร้าง\u003ccolor=#FFACFFFF\u003eความเสียหายไฟฟ้า\u003c/color\u003e 30% ของพลังโจมตีของ Clorinde\nเอฟเฟกต์นี้ ในทุก 1.2 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง และความเสียหายที่เกิดจากวิธีนี้ จะถูกนับว่าเป็นความเสียหายโจมตีปกติ",
+                                                                          "description":  "ในช่วงเวลาต่อเนื่องของสถานะลาดตระเวนของ Hunter\u0027s Vigil เมื่อความเสียหายไฟฟ้าที่เกิดจากการโจมตีปกติของ Clorinde โจมตีโดนศัตรู จะเรียกเงาลาดตระเวนออกมาในตำแหน่งใกล้เคียงของศัตรู เพื่อทำการโจมตีร่วมกัน 2 ครั้ง โดยสร้างความเสียหายไฟฟ้า 30% ของพลังโจมตีของ Clorinde\nเอฟเฟกต์นี้ ในทุก 1.2 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง และความเสียหายที่เกิดจากวิธีนี้ จะถูกนับว่าเป็นความเสียหายโจมตีปกติ"
+                                                                      }
+                                                           },
+                                        "elementText":  "ไฟฟ้า",
+                                        "fullname":  null,
+                                        "weaponText":  "ดาบ",
+                                        "name":  "Clorinde",
+                                        "substatText":  "อัตราคริ",
+                                        "region":  "Fontaine",
+                                        "gender":  "ผู้หญิง"
+                                    },
                        "sayu":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -5489,6 +5574,47 @@
                                             "region":  "Inazuma",
                                             "gender":  "ผู้หญิง"
                                         },
+                       "zhongli":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Stone, the Cradle of Jade",
+                                                                         "descriptionRaw":  "เมื่อ \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e ตกลงมา จะมอบ Jade Shield ให้กับตัวละครที่เข้าร่วมการต่อสู้ และอยู่ในบริเวณใกล้เคียงในขณะนั้น",
+                                                                         "description":  "เมื่อ Planet Befall ตกลงมา จะมอบ Jade Shield ให้กับตัวละครที่เข้าร่วมการต่อสู้ และอยู่ในบริเวณใกล้เคียงในขณะนั้น"
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Topaz, Unbreakable and Fearless",
+                                                                         "descriptionRaw":  "พื้นที่ผลกระทบของ \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e ขยายขึ้น 20%\nนอกจากนี้ เอฟเฟกต์กลายเป็นหินของ Planet Befall จะนานขึ้น 2 วินาที",
+                                                                         "description":  "พื้นที่ผลกระทบของ Planet Befall ขยายขึ้น 20%\nนอกจากนี้ เอฟเฟกต์กลายเป็นหินของ Planet Befall จะนานขึ้น 2 วินาที"
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Jade, Shimmering through Darkness",
+                                                                         "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                         "description":  "เพิ่มเลเวลสกิลของ Dominus Lapidis ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Lazuli, Herald of the Order",
+                                                                         "descriptionRaw":  "เพิ่มเลเวลสกิลของ \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                         "description":  "เพิ่มเลเวลสกิลของ Planet Befall ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Chrysos, Bounty of Dominator",
+                                                                         "descriptionRaw":  "เมื่อ Jade Shield ได้รับความเสียหาย ตัวละครในขณะนั้นจะได้รับการฟื้นฟูพลังชีวิตเท่ากับ 40% ของความเสียหาย\nซึ่งปริมาณการฟื้นฟูในหนึ่งครั้ง จะไม่เกิน 8% ของพลังชีวิตสูงสุดของตัวละครในขณะนั้น",
+                                                                         "description":  "เมื่อ Jade Shield ได้รับความเสียหาย ตัวละครในขณะนั้นจะได้รับการฟื้นฟูพลังชีวิตเท่ากับ 40% ของความเสียหาย\nซึ่งปริมาณการฟื้นฟูในหนึ่งครั้ง จะไม่เกิน 8% ของพลังชีวิตสูงสุดของตัวละครในขณะนั้น"
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Rock, the Backbone of Earth",
+                                                                         "descriptionRaw":  "Stone Stele ที่ \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e สร้างขึ้น จะสามารถคงอยู่ได้มากสุด 2 แท่ง ในเวลาเดียวกัน",
+                                                                         "description":  "Stone Stele ที่ Dominus Lapidis สร้างขึ้น จะสามารถคงอยู่ได้มากสุด 2 แท่ง ในเวลาเดียวกัน"
+                                                                     }
+                                                          },
+                                       "elementText":  "หิน",
+                                       "fullname":  null,
+                                       "weaponText":  "หอก",
+                                       "name":  "Zhongli",
+                                       "substatText":  "โบนัสความเสียหายหิน",
+                                       "region":  "Liyue",
+                                       "gender":  "ชาย"
+                                   },
                        "nahida":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5783,53 +5909,6 @@
                                                     },
                                              "effectName":  "The Wind Unattained"
                                          },
-                    "finaleofthedeep":  {
-                                            "r3":  {
-                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 18% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 3.6% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 225 หน่วย",
-                                                       "values":  [
-                                                                      "18%",
-                                                                      "3.6%",
-                                                                      "225"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 24% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 4.8% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 300 หน่วย",
-                                                       "values":  [
-                                                                      "24%",
-                                                                      "4.8%",
-                                                                      "300"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 15% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 3% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 187.5 หน่วย",
-                                                       "values":  [
-                                                                      "15%",
-                                                                      "3%",
-                                                                      "187.5"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 21% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 4.2% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 262.5 หน่วย",
-                                                       "values":  [
-                                                                      "21%",
-                                                                      "4.2%",
-                                                                      "262.5"
-                                                                  ]
-                                                   },
-                                            "substatText":  "พลังโจมตี",
-                                            "weaponText":  "ดาบ",
-                                            "name":  "Finale of the Deep",
-                                            "effectTemplateRaw":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e หน่วย",
-                                            "r1":  {
-                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 12% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 2.4% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 150 หน่วย",
-                                                       "values":  [
-                                                                      "12%",
-                                                                      "2.4%",
-                                                                      "150"
-                                                                  ]
-                                                   },
-                                            "effectName":  "An End Sublime"
-                                        },
                     "ferrousshadow":  {
                                           "r3":  {
                                                      "description":  "เมื่อพลังชีวิตต่ำกว่า 80% การชาร์จโจมตีจะ ถูกขัดจังหวะได้ยากขึ้น และเพิ่มความเสียหายขึ้น 40%",
@@ -7560,6 +7639,48 @@
                                                  },
                                           "effectName":  "Windfall"
                                       },
+                    "absolution":  {
+                                       "r3":  {
+                                                  "description":  "ความแรงคริเพิ่มขึ้น 30%; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น ผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 24% โดยเอฟเฟกต์นี้จะคงอยู่ 6 วินาที ซ้อนทับได้สูงสุด 3 ชั้น",
+                                                  "values":  [
+                                                                 "30%",
+                                                                 "24%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "ความแรงคริเพิ่มขึ้น 40%; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น ผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 32% โดยเอฟเฟกต์นี้จะคงอยู่ 6 วินาที ซ้อนทับได้สูงสุด 3 ชั้น",
+                                                  "values":  [
+                                                                 "40%",
+                                                                 "32%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "ความแรงคริเพิ่มขึ้น 25%; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น ผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 20% โดยเอฟเฟกต์นี้จะคงอยู่ 6 วินาที ซ้อนทับได้สูงสุด 3 ชั้น",
+                                                  "values":  [
+                                                                 "25%",
+                                                                 "20%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "ความแรงคริเพิ่มขึ้น 35%; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น ผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 28% โดยเอฟเฟกต์นี้จะคงอยู่ 6 วินาที ซ้อนทับได้สูงสุด 3 ชั้น",
+                                                  "values":  [
+                                                                 "35%",
+                                                                 "28%"
+                                                             ]
+                                              },
+                                       "substatText":  "ความแรงคริ",
+                                       "weaponText":  "ดาบ",
+                                       "name":  "Absolution",
+                                       "effectTemplateRaw":  "ความแรงคริเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น ผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e โดยเอฟเฟกต์นี้จะคงอยู่ 6 วินาที ซ้อนทับได้สูงสุด 3 ชั้น",
+                                       "r1":  {
+                                                  "description":  "ความแรงคริเพิ่มขึ้น 20%; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น ผู้สวมใส่จะสร้างความเสียหายเพิ่มขึ้น 16% โดยเอฟเฟกต์นี้จะคงอยู่ 6 วินาที ซ้อนทับได้สูงสุด 3 ชั้น",
+                                                  "values":  [
+                                                                 "20%",
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "effectName":  "Deathly Pact"
+                                   },
                     "freedomsworn":  {
                                          "r3":  {
                                                     "description":  "ส่วนหนึ่งของ Millennial Movement ที่ล่องลอยอยู่ในอากาศ ช่วยเพิ่มความเสียหายที่สร้างขึ้น 15% เมื่อตัวละครที่สวมใส่ทำให้เกิดปฏิกิริยาธาตุ จะได้รับ Sigil of Rebellion 1 อัน โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.5 วินาที และจะยังได้รับแม้ว่าตัวละครจะอยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้แล้วก็ตาม เมื่อครอบครอง Sigil of Rebellion ครบ 2 อัน จะใช้ Sigil of Rebellion ทั้งหมดเพื่อมอบเอฟเฟกต์ Millennial Movement: Song of Resistance ให้แก่ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียงเป็นเวลา 12 วินาที: ความเสียหายโจมตีปกติ ชาร์จโจมตี โจมตีพุ่งลงจากอากาศเพิ่มขึ้น 24%, พลังโจมตีเพิ่มขึ้น 30% และจะไม่สามารถรับ Sigil of Rebellion ได้อีกภายในเวลา 20 วินาที หลังจากเอฟเฟกต์บัฟนี้แสดงผล โดยที่ในบรรดาเอฟเฟกต์บัฟต่าง ๆ ที่เกิดขึ้นโดย Millennial Movement นั้น เอฟเฟกต์บัฟที่เป็นประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้",
@@ -8598,6 +8719,58 @@
                                                 },
                                          "effectName":  "Golden Majesty"
                                      },
+                    "skywardspine":  {
+                                         "r3":  {
+                                                    "description":  "อัตราคริเพิ่มขึ้น 12% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 70% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+                                                    "values":  [
+                                                                   "12%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "70%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "อัตราคริเพิ่มขึ้น 16% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 100% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+                                                    "values":  [
+                                                                   "16%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "100%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "อัตราคริเพิ่มขึ้น 10% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 55% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+                                                    "values":  [
+                                                                   "10%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "55%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "อัตราคริเพิ่มขึ้น 14% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 85% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+                                                    "values":  [
+                                                                   "14%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "85%"
+                                                               ]
+                                                },
+                                         "substatText":  "การฟื้นฟูพลังงาน",
+                                         "weaponText":  "หอก",
+                                         "name":  "Skyward Spine",
+                                         "effectTemplateRaw":  "อัตราคริเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e และเพิ่มความเร็ว การโจมตีปกติ \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+                                         "r1":  {
+                                                    "description":  "อัตราคริเพิ่มขึ้น 8% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 40% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
+                                                    "values":  [
+                                                                   "8%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "40%"
+                                                               ]
+                                                },
+                                         "effectName":  "Black Wing"
+                                     },
                     "kitaincrossspear":  {
                                              "r3":  {
                                                         "description":  "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น 9% และหลังจากที่สกิลธาตุถูกเป้าหมาย ตัวละครจะเสียพลังงานธาตุ 3 หน่วย และหลังจากนั้น จะทำการฟื้นฟูพลังธาตุ 4 หน่วย ในทุก 2 วินาที เป็นเวลา 6 วินาที โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที และสามารถเกิดขึ้นได้ แม้ตัวละครจะอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
@@ -8839,6 +9012,43 @@
                                                               ]
                                                },
                                         "effectName":  "Sharp"
+                                    },
+                    "cloudforged":  {
+                                        "r3":  {
+                                                   "description":  "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 60 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+                                                   "values":  [
+                                                                  "60"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 80 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+                                                   "values":  [
+                                                                  "80"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 50 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+                                                   "values":  [
+                                                                  "50"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 70 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+                                                   "values":  [
+                                                                  "70"
+                                                              ]
+                                               },
+                                        "substatText":  "ความชำนาญธาตุ",
+                                        "weaponText":  "ธนู",
+                                        "name":  "Cloudforged",
+                                        "effectTemplateRaw":  "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+                                        "r1":  {
+                                                   "description":  "หลังจากพลังงานธาตุลดลง ความชำนาญธาตุของผู้สวมใส่จะเพิ่มขึ้น 40 หน่วย โดยเอฟเฟกต์นี้จะคงอยู่ 18 วินาที ซ้อนทับได้สูงสุด 2 ชั้น",
+                                                   "values":  [
+                                                                  "40"
+                                                              ]
+                                               },
+                                        "effectName":  "Crag-Chiseled Forge"
                                     },
                     "twinnephrite":  {
                                          "r3":  {
@@ -9760,58 +9970,53 @@
                                                },
                                         "effectName":  "Echoing Ballad"
                                     },
-                    "skywardspine":  {
-                                         "r3":  {
-                                                    "description":  "อัตราคริเพิ่มขึ้น 12% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 70% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
-                                                    "values":  [
-                                                                   "12%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "70%"
-                                                               ]
-                                                },
-                                         "r5":  {
-                                                    "description":  "อัตราคริเพิ่มขึ้น 16% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 100% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
-                                                    "values":  [
-                                                                   "16%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "100%"
-                                                               ]
-                                                },
-                                         "r2":  {
-                                                    "description":  "อัตราคริเพิ่มขึ้น 10% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 55% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
-                                                    "values":  [
-                                                                   "10%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "55%"
-                                                               ]
-                                                },
-                                         "r4":  {
-                                                    "description":  "อัตราคริเพิ่มขึ้น 14% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 85% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
-                                                    "values":  [
-                                                                   "14%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "85%"
-                                                               ]
-                                                },
-                                         "substatText":  "การฟื้นฟูพลังงาน",
-                                         "weaponText":  "หอก",
-                                         "name":  "Skyward Spine",
-                                         "effectTemplateRaw":  "อัตราคริเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e และเพิ่มความเร็ว การโจมตีปกติ \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
-                                         "r1":  {
-                                                    "description":  "อัตราคริเพิ่มขึ้น 8% และเพิ่มความเร็ว การโจมตีปกติ 12% เมื่อทำการโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู มีโอกาสสร้าง ใบมีดสุญญากาศ 50% และสร้างความเสียหาย เพิ่มเติมในพื้นที่วงแคบ 40% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 2 วินาที",
-                                                    "values":  [
-                                                                   "8%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "40%"
-                                                               ]
-                                                },
-                                         "effectName":  "Black Wing"
-                                     },
+                    "finaleofthedeep":  {
+                                            "r3":  {
+                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 18% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 3.6% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 225 หน่วย",
+                                                       "values":  [
+                                                                      "18%",
+                                                                      "3.6%",
+                                                                      "225"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 24% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 4.8% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 300 หน่วย",
+                                                       "values":  [
+                                                                      "24%",
+                                                                      "4.8%",
+                                                                      "300"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 15% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 3% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 187.5 หน่วย",
+                                                       "values":  [
+                                                                      "15%",
+                                                                      "3%",
+                                                                      "187.5"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 21% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 4.2% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 262.5 หน่วย",
+                                                       "values":  [
+                                                                      "21%",
+                                                                      "4.2%",
+                                                                      "262.5"
+                                                                  ]
+                                                   },
+                                            "substatText":  "พลังโจมตี",
+                                            "weaponText":  "ดาบ",
+                                            "name":  "Finale of the Deep",
+                                            "effectTemplateRaw":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e หน่วย",
+                                            "r1":  {
+                                                       "description":  "เมื่อใช้สกิลธาตุ พลังโจมตีจะเพิ่มขึ้น 12% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 25% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง พลังโจมตีจะเพิ่มขึ้น 2.4% ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที โดยเพิ่มขึ้นสูงสุดไม่เกิน 150 หน่วย",
+                                                       "values":  [
+                                                                      "12%",
+                                                                      "2.4%",
+                                                                      "150"
+                                                                  ]
+                                                   },
+                                            "effectName":  "An End Sublime"
+                                        },
                     "everlastingmoonglow":  {
                                                 "r3":  {
                                                            "description":  "โบนัสการรักษาเพิ่มขึ้น 15%; โจมตีปกติสร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 2% ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้ และภายใน 12 วินาที หลังจากใช้ท่าไม้ตาย เมื่อโจมตีปกติถูกศัตรู จะฟื้นฟูพลังงานธาตุ 0.6 หน่วย โดยจะฟื้นฟูพลังงานธาตุด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง ในทุก 0.1 วินาที",
@@ -11664,6 +11869,48 @@
                                              },
                                       "effectName":  "Infusion Stinger"
                                   },
+                    "silvershowerheartstrings":  {
+                                                     "r3":  {
+                                                                "description":  "ผู้สวมใส่จะได้รับเอฟเฟกต์ \"กู้ชีพ\" เมื่อมีเอฟเฟกต์กู้ชีพ 1/2/3 ชั้น พลังชีวิตสูงสุดจะเพิ่มขึ้น 18%/36%/60% ผู้สวมใส่จะได้รับกู้ชีพเพิ่มเติม 1 ชั้น ภายใต้สถานการณ์ต่อไปนี้: เมื่อปลดปล่อยสกิลธาตุ จะมีผล 25 วินาที; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น จะมีผล 25 วินาที; เมื่อทำการรักษา จะมีผล 20 วินาที จะยังคงใช้งานได้แม้ผู้ที่สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ช่วงเวลาต่อเนื่องของเอฟเฟกต์กู้ชีพแต่ละชั้นจะคำนวณแยกกัน นอกจากนี้ เมื่ออยู่ในสถานะกู้ชีพ 3 ชั้น อัตราคริของท่าไม้ตายจะเพิ่มขึ้น 42% เอฟเฟกต์นี้จะหายไปเมื่อกู้ชีพไม่ถึง 3 ชั้น ภายใน 4 วินาที",
+                                                                "values":  [
+                                                                               "18%/36%/60%",
+                                                                               "42%"
+                                                                           ]
+                                                            },
+                                                     "r5":  {
+                                                                "description":  "ผู้สวมใส่จะได้รับเอฟเฟกต์ \"กู้ชีพ\" เมื่อมีเอฟเฟกต์กู้ชีพ 1/2/3 ชั้น พลังชีวิตสูงสุดจะเพิ่มขึ้น 24%/48%/80% ผู้สวมใส่จะได้รับกู้ชีพเพิ่มเติม 1 ชั้น ภายใต้สถานการณ์ต่อไปนี้: เมื่อปลดปล่อยสกิลธาตุ จะมีผล 25 วินาที; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น จะมีผล 25 วินาที; เมื่อทำการรักษา จะมีผล 20 วินาที จะยังคงใช้งานได้แม้ผู้ที่สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ช่วงเวลาต่อเนื่องของเอฟเฟกต์กู้ชีพแต่ละชั้นจะคำนวณแยกกัน นอกจากนี้ เมื่ออยู่ในสถานะกู้ชีพ 3 ชั้น อัตราคริของท่าไม้ตายจะเพิ่มขึ้น 56% เอฟเฟกต์นี้จะหายไปเมื่อกู้ชีพไม่ถึง 3 ชั้น ภายใน 4 วินาที",
+                                                                "values":  [
+                                                                               "24%/48%/80%",
+                                                                               "56%"
+                                                                           ]
+                                                            },
+                                                     "r2":  {
+                                                                "description":  "ผู้สวมใส่จะได้รับเอฟเฟกต์ \"กู้ชีพ\" เมื่อมีเอฟเฟกต์กู้ชีพ 1/2/3 ชั้น พลังชีวิตสูงสุดจะเพิ่มขึ้น 15%/30%/50% ผู้สวมใส่จะได้รับกู้ชีพเพิ่มเติม 1 ชั้น ภายใต้สถานการณ์ต่อไปนี้: เมื่อปลดปล่อยสกิลธาตุ จะมีผล 25 วินาที; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น จะมีผล 25 วินาที; เมื่อทำการรักษา จะมีผล 20 วินาที จะยังคงใช้งานได้แม้ผู้ที่สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ช่วงเวลาต่อเนื่องของเอฟเฟกต์กู้ชีพแต่ละชั้นจะคำนวณแยกกัน นอกจากนี้ เมื่ออยู่ในสถานะกู้ชีพ 3 ชั้น อัตราคริของท่าไม้ตายจะเพิ่มขึ้น 35% เอฟเฟกต์นี้จะหายไปเมื่อกู้ชีพไม่ถึง 3 ชั้น ภายใน 4 วินาที",
+                                                                "values":  [
+                                                                               "15%/30%/50%",
+                                                                               "35%"
+                                                                           ]
+                                                            },
+                                                     "r4":  {
+                                                                "description":  "ผู้สวมใส่จะได้รับเอฟเฟกต์ \"กู้ชีพ\" เมื่อมีเอฟเฟกต์กู้ชีพ 1/2/3 ชั้น พลังชีวิตสูงสุดจะเพิ่มขึ้น 21%/42%/70% ผู้สวมใส่จะได้รับกู้ชีพเพิ่มเติม 1 ชั้น ภายใต้สถานการณ์ต่อไปนี้: เมื่อปลดปล่อยสกิลธาตุ จะมีผล 25 วินาที; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น จะมีผล 25 วินาที; เมื่อทำการรักษา จะมีผล 20 วินาที จะยังคงใช้งานได้แม้ผู้ที่สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ช่วงเวลาต่อเนื่องของเอฟเฟกต์กู้ชีพแต่ละชั้นจะคำนวณแยกกัน นอกจากนี้ เมื่ออยู่ในสถานะกู้ชีพ 3 ชั้น อัตราคริของท่าไม้ตายจะเพิ่มขึ้น 49% เอฟเฟกต์นี้จะหายไปเมื่อกู้ชีพไม่ถึง 3 ชั้น ภายใน 4 วินาที",
+                                                                "values":  [
+                                                                               "21%/42%/70%",
+                                                                               "49%"
+                                                                           ]
+                                                            },
+                                                     "substatText":  "พลังชีวิต",
+                                                     "weaponText":  "ธนู",
+                                                     "name":  "Silvershower Heartstrings",
+                                                     "effectTemplateRaw":  "ผู้สวมใส่จะได้รับเอฟเฟกต์ \"กู้ชีพ\" เมื่อมีเอฟเฟกต์กู้ชีพ 1/2/3 ชั้น พลังชีวิตสูงสุดจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ผู้สวมใส่จะได้รับกู้ชีพเพิ่มเติม 1 ชั้น ภายใต้สถานการณ์ต่อไปนี้: เมื่อปลดปล่อยสกิลธาตุ จะมีผล 25 วินาที; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น จะมีผล 25 วินาที; เมื่อทำการรักษา จะมีผล 20 วินาที จะยังคงใช้งานได้แม้ผู้ที่สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ช่วงเวลาต่อเนื่องของเอฟเฟกต์กู้ชีพแต่ละชั้นจะคำนวณแยกกัน นอกจากนี้ เมื่ออยู่ในสถานะกู้ชีพ 3 ชั้น อัตราคริของท่าไม้ตายจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e เอฟเฟกต์นี้จะหายไปเมื่อกู้ชีพไม่ถึง 3 ชั้น ภายใน 4 วินาที",
+                                                     "r1":  {
+                                                                "description":  "ผู้สวมใส่จะได้รับเอฟเฟกต์ \"กู้ชีพ\" เมื่อมีเอฟเฟกต์กู้ชีพ 1/2/3 ชั้น พลังชีวิตสูงสุดจะเพิ่มขึ้น 12%/24%/40% ผู้สวมใส่จะได้รับกู้ชีพเพิ่มเติม 1 ชั้น ภายใต้สถานการณ์ต่อไปนี้: เมื่อปลดปล่อยสกิลธาตุ จะมีผล 25 วินาที; เมื่อค่าบ่วงพันธะชีวันเพิ่มขึ้น จะมีผล 25 วินาที; เมื่อทำการรักษา จะมีผล 20 วินาที จะยังคงใช้งานได้แม้ผู้ที่สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ช่วงเวลาต่อเนื่องของเอฟเฟกต์กู้ชีพแต่ละชั้นจะคำนวณแยกกัน นอกจากนี้ เมื่ออยู่ในสถานะกู้ชีพ 3 ชั้น อัตราคริของท่าไม้ตายจะเพิ่มขึ้น 28% เอฟเฟกต์นี้จะหายไปเมื่อกู้ชีพไม่ถึง 3 ชั้น ภายใน 4 วินาที",
+                                                                "values":  [
+                                                                               "12%/24%/40%",
+                                                                               "28%"
+                                                                           ]
+                                                            },
+                                                     "effectName":  "Dryas\u0027s Nocturne"
+                                                 },
                     "prizedisshinblade":  {
                                               "r3":  null,
                                               "r5":  null,

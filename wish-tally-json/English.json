@@ -621,9 +621,6 @@
                       "adventureexp":  {
                                            "name":  "Adventure EXP"
                                        },
-                      "oasisgardenstruth":  {
-                                                "name":  "Oasis Garden\u0027s Truth"
-                                            },
                       "stormbeads":  {
                                          "name":  "Storm Beads"
                                      },
@@ -693,12 +690,15 @@
                       "lightningprism":  {
                                              "name":  "Lightning Prism"
                                          },
-                      "windwheelastersaroma":  {
-                                                   "name":  "Windwheel Aster\u0027s Aroma"
-                                               },
+                      "valberry":  {
+                                       "name":  "Valberry"
+                                   },
                       "stainedmask":  {
                                           "name":  "Stained Mask"
                                       },
+                      "windwheelastersaroma":  {
+                                                   "name":  "Windwheel Aster\u0027s Aroma"
+                                               },
                       "cleansingheart":  {
                                              "name":  "Cleansing Heart"
                                          },
@@ -708,9 +708,9 @@
                       "dreamsolvent":  {
                                            "name":  "Dream Solvent"
                                        },
-                      "valberry":  {
-                                       "name":  "Valberry"
-                                   },
+                      "northlanderswordbillet":  {
+                                                     "name":  "Northlander Sword Billet"
+                                                 },
                       "acquaintfate":  {
                                            "name":  "Acquaint Fate"
                                        },
@@ -1140,9 +1140,9 @@
                       "brokengobletofthepristinesea":  {
                                                            "name":  "Broken Goblet of the Pristine Sea"
                                                        },
-                      "starshroom":  {
-                                         "name":  "Starshroom"
-                                     },
+                      "silkenfeather":  {
+                                            "name":  "Silken Feather"
+                                        },
                       "betta":  {
                                     "name":  "Betta"
                                 },
@@ -1608,9 +1608,9 @@
                       "shadowofthewarrior":  {
                                                  "name":  "Shadow of the Warrior"
                                              },
-                      "maplewood":  {
-                                        "name":  "Maple Wood"
-                                    },
+                      "lumidoucebell":  {
+                                            "name":  "Lumidouce Bell"
+                                        },
                       "rimewornfragment":  {
                                                "name":  "Rime-Worn Fragment"
                                            },
@@ -1620,9 +1620,9 @@
                       "borealwolfsmilktooth":  {
                                                    "name":  "Boreal Wolf\u0027s Milk Tooth"
                                                },
-                      "northlanderswordbillet":  {
-                                                     "name":  "Northlander Sword Billet"
-                                                 },
+                      "maplewood":  {
+                                        "name":  "Maple Wood"
+                                    },
                       "trimmedredsilk":  {
                                              "name":  "Trimmed Red Silk"
                                          },
@@ -1743,9 +1743,9 @@
                       "lindenwood":  {
                                          "name":  "Linden Wood"
                                      },
-                      "silkenfeather":  {
-                                            "name":  "Silken Feather"
-                                        },
+                      "camandcablesoflaw":  {
+                                                "name":  "Cam and Cables of Law"
+                                            },
                       "ironchunk":  {
                                         "name":  "Iron Chunk"
                                     },
@@ -1920,12 +1920,15 @@
                       "prithivatopazchunk":  {
                                                  "name":  "Prithiva Topaz Chunk"
                                              },
-                      "lumidoucebell":  {
-                                            "name":  "Lumidouce Bell"
-                                        },
+                      "oasisgardenstruth":  {
+                                                "name":  "Oasis Garden\u0027s Truth"
+                                            },
                       "cheese":  {
                                      "name":  "Cheese"
                                  },
+                      "starshroom":  {
+                                         "name":  "Starshroom"
+                                     },
                       "marionettecore":  {
                                              "name":  "Marionette Core"
                                          },
@@ -2573,6 +2576,47 @@
                                      "region":  "Mondstadt",
                                      "gender":  "Male"
                                  },
+                       "sigewinne":  {
+                                         "constellations":  {
+                                                                "c2":  {
+                                                                           "name":  "\"Can the Most Merciful of Spirits Defeat Its Foes?\"",
+                                                                           "descriptionRaw":  "When using \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e and \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e, Sigewinne can create a Bubbly Shield worth 30% of her Max HP that absorbs \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e with 250% efficiency. The Bubbly Shield will persist until Sigewinne finishes using relevant skills.\nAdditionally, after Rebound Hydrotherapy\u0027s Bolstering Bubblebalm or Super Saturated Syringing hits an opponent, that opponent\u0027s \u003ccolor=#80C0FFFF\u003eHydro RES\u003c/color\u003e will be decreased by 35% for 8s.",
+                                                                           "description":  "When using Rebound Hydrotherapy and Super Saturated Syringing, Sigewinne can create a Bubbly Shield worth 30% of her Max HP that absorbs Hydro DMG with 250% efficiency. The Bubbly Shield will persist until Sigewinne finishes using relevant skills.\nAdditionally, after Rebound Hydrotherapy\u0027s Bolstering Bubblebalm or Super Saturated Syringing hits an opponent, that opponent\u0027s Hydro RES will be decreased by 35% for 8s."
+                                                                       },
+                                                                "c4":  {
+                                                                           "name":  "\"Can the Loveliest of Spirits Keep Decay at Bay?\"",
+                                                                           "descriptionRaw":  "The duration of \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e is extended by 3s.",
+                                                                           "description":  "The duration of Super Saturated Syringing is extended by 3s."
+                                                                       },
+                                                                "c3":  {
+                                                                           "name":  "\"Can the Healthiest of Spirits Cure Fevers?\"",
+                                                                           "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                           "description":  "Increases the Level of Rebound Hydrotherapy by 3.\nMaximum upgrade level is 15."
+                                                                       },
+                                                                "c5":  {
+                                                                           "name":  "\"Can the Most Joyful of Spirits Alleviate Agony?\"",
+                                                                           "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                           "description":  "Increases the Level of Super Saturated Syringing by 3.\nMaximum upgrade level is 15."
+                                                                       },
+                                                                "c6":  {
+                                                                           "name":  "\"Can the Most Radiant of Spirits Pray For Me?\"",
+                                                                           "descriptionRaw":  "When Sigewinne performs healing, she will increase the CRIT Rate and CRIT DMG of her \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e based on her Max HP. Every 1,000 Max HP she has will increase CRIT Rate by 0.4% and CRIT DMG by 2.2% for 15s. The maximum increase achievable this way is 20% CRIT Rate and 110% CRIT DMG.",
+                                                                           "description":  "When Sigewinne performs healing, she will increase the CRIT Rate and CRIT DMG of her Super Saturated Syringing based on her Max HP. Every 1,000 Max HP she has will increase CRIT Rate by 0.4% and CRIT DMG by 2.2% for 15s. The maximum increase achievable this way is 20% CRIT Rate and 110% CRIT DMG."
+                                                                       },
+                                                                "c1":  {
+                                                                           "name":  "\"Can the Happiest of Spirits Understand Anxiety?\"",
+                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e\u0027s Bolstering Bubblebalm can bounce 3 extra times, and the first 3 bounces will not cause big Bubblebalms to become smaller.\nThe Passive Talent \"Requires Appropriate Rest\" is enhanced: Each Bubblebalm bounce adds 1 stack to her Convalescence tally, and the values for the Convalescence stacks\u0027 DMG bonus will be modified to: Every 1,000 max HP Sigewinne has above 30,000 increases the DMG by 100. The maximum DMG increase for Elemental Skills that can be gained in this way is 3,500. You must first unlock the Passive Talent \"Requires Appropriate Rest.\"",
+                                                                           "description":  "Rebound Hydrotherapy\u0027s Bolstering Bubblebalm can bounce 3 extra times, and the first 3 bounces will not cause big Bubblebalms to become smaller.\nThe Passive Talent \"Requires Appropriate Rest\" is enhanced: Each Bubblebalm bounce adds 1 stack to her Convalescence tally, and the values for the Convalescence stacks\u0027 DMG bonus will be modified to: Every 1,000 max HP Sigewinne has above 30,000 increases the DMG by 100. The maximum DMG increase for Elemental Skills that can be gained in this way is 3,500. You must first unlock the Passive Talent \"Requires Appropriate Rest.\""
+                                                                       }
+                                                            },
+                                         "elementText":  "Hydro",
+                                         "fullname":  null,
+                                         "weaponText":  "Bow",
+                                         "name":  "Sigewinne",
+                                         "substatText":  "HP",
+                                         "region":  "Fontaine",
+                                         "gender":  "Female"
+                                     },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3796,47 +3840,47 @@
                                        "region":  "Fontaine",
                                        "gender":  "Female"
                                    },
-                       "zhongli":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Stone, the Cradle of Jade",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e grants nearby characters on the field a Jade Shield when it descends.",
-                                                                         "description":  "Planet Befall grants nearby characters on the field a Jade Shield when it descends."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Topaz, Unbreakable and Fearless",
-                                                                         "descriptionRaw":  "Increases \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e\u0027s AoE by 20% and increases the duration of Planet Befall\u0027s Petrification effect by 2s.",
-                                                                         "description":  "Increases Planet Befall\u0027s AoE by 20% and increases the duration of Planet Befall\u0027s Petrification effect by 2s."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Jade, Shimmering through Darkness",
-                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                         "description":  "Increases the Level of Dominus Lapidis by 3.\nMaximum upgrade level is 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Lazuli, Herald of the Order",
-                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                         "description":  "Increases the Level of Planet Befall by 3.\nMaximum upgrade level is 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Chrysos, Bounty of Dominator",
-                                                                         "descriptionRaw":  "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character\u0027s Max HP.",
-                                                                         "description":  "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character\u0027s Max HP."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Rock, the Backbone of Earth",
-                                                                         "descriptionRaw":  "Increases the maximum number of Stone Steles created by \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e that may exist simultaneously to 2.",
-                                                                         "description":  "Increases the maximum number of Stone Steles created by Dominus Lapidis that may exist simultaneously to 2."
-                                                                     }
-                                                          },
-                                       "elementText":  "Geo",
-                                       "fullname":  null,
-                                       "weaponText":  "Polearm",
-                                       "name":  "Zhongli",
-                                       "substatText":  "Geo DMG Bonus",
-                                       "region":  "Liyue",
-                                       "gender":  "Male"
-                                   },
+                       "sethos":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Papyrus Scripture of Silent Secrets",
+                                                                        "descriptionRaw":  "When any of the following conditions are met, Sethos gains a 15% \u003ccolor=#FFACFFFF\u003eElectro DMG Bonus\u003c/color\u003e for 10s that may stack twice, with each stack duration counted independently:\n· Consuming Elemental Energy through Aimed Shots; you must first unlock the Passive Talent \"Black Kite\u0027s Enigma\" to trigger this condition.\n· Regaining Elemental Energy by triggering Elemental Reactions using \u003ccolor=#FFD780FF\u003eAncient Rite: The Thundering Sands\u003c/color\u003e.\n· Using \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e.",
+                                                                        "description":  "When any of the following conditions are met, Sethos gains a 15% Electro DMG Bonus for 10s that may stack twice, with each stack duration counted independently:\n· Consuming Elemental Energy through Aimed Shots; you must first unlock the Passive Talent \"Black Kite\u0027s Enigma\" to trigger this condition.\n· Regaining Elemental Energy by triggering Elemental Reactions using Ancient Rite: The Thundering Sands.\n· Using Secret Rite: Twilight Shadowpiercer."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Beneficent Plumage",
+                                                                        "descriptionRaw":  "When a \u003ccolor=#FFD780FF\u003eShadowpiercing Shot\u003c/color\u003e or \u003ccolor=#FFD780FF\u003eDusk Bolt\u003c/color\u003e strikes 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s.",
+                                                                        "description":  "When a Shadowpiercing Shot or Dusk Bolt strikes 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Ode to the Moonrise Sage",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eNormal Attack: Royal Reed Archery\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of Normal Attack: Royal Reed Archery by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Record of the Desolate God\u0027s Burning Sands",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of Secret Rite: Twilight Shadowpiercer by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Pylon of the Sojourning Sun Temple",
+                                                                        "descriptionRaw":  "After \u003ccolor=#FFD780FF\u003eShadowpiercing Shot\u003c/color\u003e strikes an opponent, the Elemental Energy consumed by the Passive Talent \"Black Kite\u0027s Enigma\" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent \"Black Kite\u0027s Enigma.\"",
+                                                                        "description":  "After Shadowpiercing Shot strikes an opponent, the Elemental Energy consumed by the Passive Talent \"Black Kite\u0027s Enigma\" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent \"Black Kite\u0027s Enigma.\""
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Sealed Shrine\u0027s Spiritsong",
+                                                                        "descriptionRaw":  "The CRIT Rate of \u003ccolor=#FFD780FF\u003eShadowpiercing Shot\u003c/color\u003e is increased by 15%.",
+                                                                        "description":  "The CRIT Rate of Shadowpiercing Shot is increased by 15%."
+                                                                    }
+                                                         },
+                                      "elementText":  "Electro",
+                                      "fullname":  null,
+                                      "weaponText":  "Bow",
+                                      "name":  "Sethos",
+                                      "substatText":  "Elemental Mastery",
+                                      "region":  "Sumeru",
+                                      "gender":  "Male"
+                                  },
                        "chongyun":  {
                                         "constellations":  {
                                                                "c2":  {
@@ -5356,6 +5400,47 @@
                                        "region":  "Mondstadt",
                                        "gender":  "Male"
                                    },
+                       "clorinde":  {
+                                        "constellations":  {
+                                                               "c2":  {
+                                                                          "name":  "\"Now, As We Face the Perils of the Long Night\"",
+                                                                          "descriptionRaw":  "Enhance the Passive Talent \"Dark-Shattering Flame\": After a nearby party member triggers an \u003ccolor=#FFACFFFF\u003eElectro-related reaction\u003c/color\u003e against an opponent, \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e dealt by Clorinde\u0027s Normal Attacks and \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e will be increased by 30% of Clorinde\u0027s ATK for 15s. Max 3 stacks. Each stack is counted independently. When you have 3 stacks, Clorinde\u0027s interruption resistance will be increased. The Maximum DMG increase achievable this way for the above attacks is 2,700.\nYou must first unlock the Passive Talent \"Dark-Shattering Flame.\"",
+                                                                          "description":  "Enhance the Passive Talent \"Dark-Shattering Flame\": After a nearby party member triggers an Electro-related reaction against an opponent, Electro DMG dealt by Clorinde\u0027s Normal Attacks and Last Lightfall will be increased by 30% of Clorinde\u0027s ATK for 15s. Max 3 stacks. Each stack is counted independently. When you have 3 stacks, Clorinde\u0027s interruption resistance will be increased. The Maximum DMG increase achievable this way for the above attacks is 2,700.\nYou must first unlock the Passive Talent \"Dark-Shattering Flame.\""
+                                                                      },
+                                                               "c4":  {
+                                                                          "name":  "\"To Enshrine Tears, Life, and Love\"",
+                                                                          "descriptionRaw":  "When \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e deals DMG to opponent(s), DMG dealt is increased based on Clorinde\u0027s Bond of Life percentage. Every 1% of her current Bond of Life will increase \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e DMG by 2%. The maximum \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e DMG increase achievable this way is 200%.",
+                                                                          "description":  "When Last Lightfall deals DMG to opponent(s), DMG dealt is increased based on Clorinde\u0027s Bond of Life percentage. Every 1% of her current Bond of Life will increase Last Lightfall DMG by 2%. The maximum Last Lightfall DMG increase achievable this way is 200%."
+                                                                      },
+                                                               "c3":  {
+                                                                          "name":  "\"I Pledge to Remember the Oath of Daylight\"",
+                                                                          "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eHunter\u0027s Vigil\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                          "description":  "Increases the Level of Hunter\u0027s Vigil by 3.\nMaximum upgrade level is 15."
+                                                                      },
+                                                               "c5":  {
+                                                                          "name":  "\"Holding Dawn\u0027s Coming as My Votive\"",
+                                                                          "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                          "description":  "Increases the Level of Last Lightfall by 3.\nMaximum upgrade level is 15."
+                                                                      },
+                                                               "c6":  {
+                                                                          "name":  "\"And So Shall I Never Despair\"",
+                                                                          "descriptionRaw":  "For 12s after \u003ccolor=#FFD780FF\u003eHunter\u0027s Vigil\u003c/color\u003e is used, Clorinde\u0027s CRIT Rate will be increased by 10%, and her CRIT DMG by 70%.\nAdditionally, while Night Vigil is active, a Glimbright Shade will appear under specific circumstances, executing an attack that deals 200% of Clorinde\u0027s ATK as \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e. DMG dealt this way is considered Normal Attack DMG.\nThe Glimbright Shade will appear under the following circumstances:\n· When Clorinde is about to be hit by an attack.\n· When Clorinde uses Impale the Night: Pact.\n1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration.\nIn addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades.",
+                                                                          "description":  "For 12s after Hunter\u0027s Vigil is used, Clorinde\u0027s CRIT Rate will be increased by 10%, and her CRIT DMG by 70%.\nAdditionally, while Night Vigil is active, a Glimbright Shade will appear under specific circumstances, executing an attack that deals 200% of Clorinde\u0027s ATK as Electro DMG. DMG dealt this way is considered Normal Attack DMG.\nThe Glimbright Shade will appear under the following circumstances:\n· When Clorinde is about to be hit by an attack.\n· When Clorinde uses Impale the Night: Pact.\n1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration.\nIn addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades."
+                                                                      },
+                                                               "c1":  {
+                                                                          "name":  "\"From This Day, I Pass the Candle\u0027s Shadow-Veil\"",
+                                                                          "descriptionRaw":  "While \u003ccolor=#FFD780FF\u003eHunter\u0027s Vigil\u003c/color\u003e\u0027s Night Vigil state is active, when \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e from Clorinde\u0027s Normal Attacks hit opponents, they will trigger 2 coordinated attacks from a Nightvigil Shade summoned near the hit opponent, each dealing 30% of Clorinde\u0027s ATK as \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e.\nThis effect can occur once every 1.2s. DMG dealt this way is considered Normal Attack DMG.",
+                                                                          "description":  "While Hunter\u0027s Vigil\u0027s Night Vigil state is active, when Electro DMG from Clorinde\u0027s Normal Attacks hit opponents, they will trigger 2 coordinated attacks from a Nightvigil Shade summoned near the hit opponent, each dealing 30% of Clorinde\u0027s ATK as Electro DMG.\nThis effect can occur once every 1.2s. DMG dealt this way is considered Normal Attack DMG."
+                                                                      }
+                                                           },
+                                        "elementText":  "Electro",
+                                        "fullname":  null,
+                                        "weaponText":  "Sword",
+                                        "name":  "Clorinde",
+                                        "substatText":  "CRIT Rate",
+                                        "region":  "Fontaine",
+                                        "gender":  "Female"
+                                    },
                        "sayu":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -5520,6 +5605,47 @@
                                             "region":  "Inazuma",
                                             "gender":  "Female"
                                         },
+                       "zhongli":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Stone, the Cradle of Jade",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e grants nearby characters on the field a Jade Shield when it descends.",
+                                                                         "description":  "Planet Befall grants nearby characters on the field a Jade Shield when it descends."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Topaz, Unbreakable and Fearless",
+                                                                         "descriptionRaw":  "Increases \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e\u0027s AoE by 20% and increases the duration of Planet Befall\u0027s Petrification effect by 2s.",
+                                                                         "description":  "Increases Planet Befall\u0027s AoE by 20% and increases the duration of Planet Befall\u0027s Petrification effect by 2s."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Jade, Shimmering through Darkness",
+                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                         "description":  "Increases the Level of Dominus Lapidis by 3.\nMaximum upgrade level is 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Lazuli, Herald of the Order",
+                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                         "description":  "Increases the Level of Planet Befall by 3.\nMaximum upgrade level is 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Chrysos, Bounty of Dominator",
+                                                                         "descriptionRaw":  "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character\u0027s Max HP.",
+                                                                         "description":  "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character\u0027s Max HP."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Rock, the Backbone of Earth",
+                                                                         "descriptionRaw":  "Increases the maximum number of Stone Steles created by \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e that may exist simultaneously to 2.",
+                                                                         "description":  "Increases the maximum number of Stone Steles created by Dominus Lapidis that may exist simultaneously to 2."
+                                                                     }
+                                                          },
+                                       "elementText":  "Geo",
+                                       "fullname":  null,
+                                       "weaponText":  "Polearm",
+                                       "name":  "Zhongli",
+                                       "substatText":  "Geo DMG Bonus",
+                                       "region":  "Liyue",
+                                       "gender":  "Male"
+                                   },
                        "nahida":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5814,53 +5940,6 @@
                                                     },
                                              "effectName":  "The Wind Unattained"
                                          },
-                    "finaleofthedeep":  {
-                                            "r3":  {
-                                                       "description":  "When using an Elemental Skill, ATK will be increased by 18% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 225 ATK will be gained based on 3.6% of the total amount of the Life Bond cleared, lasting for 15s.",
-                                                       "values":  [
-                                                                      "18%",
-                                                                      "225",
-                                                                      "3.6%"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "When using an Elemental Skill, ATK will be increased by 24% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 300 ATK will be gained based on 4.8% of the total amount of the Life Bond cleared, lasting for 15s.",
-                                                       "values":  [
-                                                                      "24%",
-                                                                      "300",
-                                                                      "4.8%"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "When using an Elemental Skill, ATK will be increased by 15% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 187.5 ATK will be gained based on 3% of the total amount of the Life Bond cleared, lasting for 15s.",
-                                                       "values":  [
-                                                                      "15%",
-                                                                      "187.5",
-                                                                      "3%"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "When using an Elemental Skill, ATK will be increased by 21% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 262.5 ATK will be gained based on 4.2% of the total amount of the Life Bond cleared, lasting for 15s.",
-                                                       "values":  [
-                                                                      "21%",
-                                                                      "262.5",
-                                                                      "4.2%"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ATK",
-                                            "weaponText":  "Sword",
-                                            "name":  "Finale of the Deep",
-                                            "effectTemplateRaw":  "When using an Elemental Skill, ATK will be increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ATK will be gained based on \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e of the total amount of the Life Bond cleared, lasting for 15s.",
-                                            "r1":  {
-                                                       "description":  "When using an Elemental Skill, ATK will be increased by 12% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 150 ATK will be gained based on 2.4% of the total amount of the Life Bond cleared, lasting for 15s.",
-                                                       "values":  [
-                                                                      "12%",
-                                                                      "150",
-                                                                      "2.4%"
-                                                                  ]
-                                                   },
-                                            "effectName":  "An End Sublime"
-                                        },
                     "ferrousshadow":  {
                                           "r3":  {
                                                      "description":  "When HP falls below 80%, increases Charged Attack DMG by 40% and Charged Attacks become harder to interrupt.",
@@ -7591,6 +7670,48 @@
                                                  },
                                           "effectName":  "Windfall"
                                       },
+                    "absolution":  {
+                                       "r3":  {
+                                                  "description":  "CRIT DMG increased by 30%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 24% for 6s. Max 3 stacks.",
+                                                  "values":  [
+                                                                 "30%",
+                                                                 "24%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "CRIT DMG increased by 40%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 32% for 6s. Max 3 stacks.",
+                                                  "values":  [
+                                                                 "40%",
+                                                                 "32%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "CRIT DMG increased by 25%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 20% for 6s. Max 3 stacks.",
+                                                  "values":  [
+                                                                 "25%",
+                                                                 "20%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "CRIT DMG increased by 35%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 28% for 6s. Max 3 stacks.",
+                                                  "values":  [
+                                                                 "35%",
+                                                                 "28%"
+                                                             ]
+                                              },
+                                       "substatText":  "CRIT DMG",
+                                       "weaponText":  "Sword",
+                                       "name":  "Absolution",
+                                       "effectTemplateRaw":  "CRIT DMG increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Increasing the value of a Bond of Life increases the DMG the equipping character deals by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e for 6s. Max 3 stacks.",
+                                       "r1":  {
+                                                  "description":  "CRIT DMG increased by 20%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 16% for 6s. Max 3 stacks.",
+                                                  "values":  [
+                                                                 "20%",
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "effectName":  "Deathly Pact"
+                                   },
                     "freedomsworn":  {
                                          "r3":  {
                                                     "description":  "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by 15%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by 24% and increases ATK by 30%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
@@ -8629,6 +8750,58 @@
                                                 },
                                          "effectName":  "Golden Majesty"
                                      },
+                    "skywardspine":  {
+                                         "r3":  {
+                                                    "description":  "Increases CRIT Rate by 12% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 70% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                                                    "values":  [
+                                                                   "12%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "70%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Increases CRIT Rate by 16% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 100% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                                                    "values":  [
+                                                                   "16%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "100%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Increases CRIT Rate by 10% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 55% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                                                    "values":  [
+                                                                   "10%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "55%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Increases CRIT Rate by 14% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 85% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                                                    "values":  [
+                                                                   "14%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "85%"
+                                                               ]
+                                                },
+                                         "substatText":  "Energy Recharge",
+                                         "weaponText":  "Polearm",
+                                         "name":  "Skyward Spine",
+                                         "effectTemplateRaw":  "Increases CRIT Rate by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e and increases Normal ATK SPD by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Additionally, Normal and Charged Attacks hits on opponents have a \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e chance to trigger a vacuum blade that deals \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                                         "r1":  {
+                                                    "description":  "Increases CRIT Rate by 8% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 40% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                                                    "values":  [
+                                                                   "8%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "40%"
+                                                               ]
+                                                },
+                                         "effectName":  "Black Wing"
+                                     },
                     "kitaincrossspear":  {
                                              "r3":  {
                                                         "description":  "Increases Elemental Skill DMG by 9%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 4 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
@@ -8870,6 +9043,43 @@
                                                               ]
                                                },
                                         "effectName":  "Sharp"
+                                    },
+                    "cloudforged":  {
+                                        "r3":  {
+                                                   "description":  "After Elemental Energy is decreased, the equipping character\u0027s Elemental Mastery will increase by 60 for 18s. Max 2 stacks.",
+                                                   "values":  [
+                                                                  "60"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "After Elemental Energy is decreased, the equipping character\u0027s Elemental Mastery will increase by 80 for 18s. Max 2 stacks.",
+                                                   "values":  [
+                                                                  "80"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "After Elemental Energy is decreased, the equipping character\u0027s Elemental Mastery will increase by 50 for 18s. Max 2 stacks.",
+                                                   "values":  [
+                                                                  "50"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "After Elemental Energy is decreased, the equipping character\u0027s Elemental Mastery will increase by 70 for 18s. Max 2 stacks.",
+                                                   "values":  [
+                                                                  "70"
+                                                              ]
+                                               },
+                                        "substatText":  "Elemental Mastery",
+                                        "weaponText":  "Bow",
+                                        "name":  "Cloudforged",
+                                        "effectTemplateRaw":  "After Elemental Energy is decreased, the equipping character\u0027s Elemental Mastery will increase by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 18s. Max 2 stacks.",
+                                        "r1":  {
+                                                   "description":  "After Elemental Energy is decreased, the equipping character\u0027s Elemental Mastery will increase by 40 for 18s. Max 2 stacks.",
+                                                   "values":  [
+                                                                  "40"
+                                                              ]
+                                               },
+                                        "effectName":  "Crag-Chiseled Forge"
                                     },
                     "twinnephrite":  {
                                          "r3":  {
@@ -9791,58 +10001,53 @@
                                                },
                                         "effectName":  "Echoing Ballad"
                                     },
-                    "skywardspine":  {
-                                         "r3":  {
-                                                    "description":  "Increases CRIT Rate by 12% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 70% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-                                                    "values":  [
-                                                                   "12%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "70%"
-                                                               ]
-                                                },
-                                         "r5":  {
-                                                    "description":  "Increases CRIT Rate by 16% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 100% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-                                                    "values":  [
-                                                                   "16%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "100%"
-                                                               ]
-                                                },
-                                         "r2":  {
-                                                    "description":  "Increases CRIT Rate by 10% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 55% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-                                                    "values":  [
-                                                                   "10%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "55%"
-                                                               ]
-                                                },
-                                         "r4":  {
-                                                    "description":  "Increases CRIT Rate by 14% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 85% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-                                                    "values":  [
-                                                                   "14%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "85%"
-                                                               ]
-                                                },
-                                         "substatText":  "Energy Recharge",
-                                         "weaponText":  "Polearm",
-                                         "name":  "Skyward Spine",
-                                         "effectTemplateRaw":  "Increases CRIT Rate by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e and increases Normal ATK SPD by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Additionally, Normal and Charged Attacks hits on opponents have a \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e chance to trigger a vacuum blade that deals \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-                                         "r1":  {
-                                                    "description":  "Increases CRIT Rate by 8% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 40% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-                                                    "values":  [
-                                                                   "8%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "40%"
-                                                               ]
-                                                },
-                                         "effectName":  "Black Wing"
-                                     },
+                    "finaleofthedeep":  {
+                                            "r3":  {
+                                                       "description":  "When using an Elemental Skill, ATK will be increased by 18% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 225 ATK will be gained based on 3.6% of the total amount of the Life Bond cleared, lasting for 15s.",
+                                                       "values":  [
+                                                                      "18%",
+                                                                      "225",
+                                                                      "3.6%"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "When using an Elemental Skill, ATK will be increased by 24% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 300 ATK will be gained based on 4.8% of the total amount of the Life Bond cleared, lasting for 15s.",
+                                                       "values":  [
+                                                                      "24%",
+                                                                      "300",
+                                                                      "4.8%"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "When using an Elemental Skill, ATK will be increased by 15% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 187.5 ATK will be gained based on 3% of the total amount of the Life Bond cleared, lasting for 15s.",
+                                                       "values":  [
+                                                                      "15%",
+                                                                      "187.5",
+                                                                      "3%"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "When using an Elemental Skill, ATK will be increased by 21% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 262.5 ATK will be gained based on 4.2% of the total amount of the Life Bond cleared, lasting for 15s.",
+                                                       "values":  [
+                                                                      "21%",
+                                                                      "262.5",
+                                                                      "4.2%"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ATK",
+                                            "weaponText":  "Sword",
+                                            "name":  "Finale of the Deep",
+                                            "effectTemplateRaw":  "When using an Elemental Skill, ATK will be increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ATK will be gained based on \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e of the total amount of the Life Bond cleared, lasting for 15s.",
+                                            "r1":  {
+                                                       "description":  "When using an Elemental Skill, ATK will be increased by 12% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 150 ATK will be gained based on 2.4% of the total amount of the Life Bond cleared, lasting for 15s.",
+                                                       "values":  [
+                                                                      "12%",
+                                                                      "150",
+                                                                      "2.4%"
+                                                                  ]
+                                                   },
+                                            "effectName":  "An End Sublime"
+                                        },
                     "everlastingmoonglow":  {
                                                 "r3":  {
                                                            "description":  "Healing Bonus increased by 15%, Normal Attack DMG is increased by 2% of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s.",
@@ -11695,6 +11900,48 @@
                                              },
                                       "effectName":  "Infusion Stinger"
                                   },
+                    "silvershowerheartstrings":  {
+                                                     "r3":  {
+                                                                "description":  "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by 18%/36%/60%. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack\u0027s duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 42%. This effect will be canceled 4s after falling under 3 stacks.",
+                                                                "values":  [
+                                                                               "18%/36%/60%",
+                                                                               "42%"
+                                                                           ]
+                                                            },
+                                                     "r5":  {
+                                                                "description":  "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by 24%/48%/80%. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack\u0027s duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 56%. This effect will be canceled 4s after falling under 3 stacks.",
+                                                                "values":  [
+                                                                               "24%/48%/80%",
+                                                                               "56%"
+                                                                           ]
+                                                            },
+                                                     "r2":  {
+                                                                "description":  "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by 15%/30%/50%. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack\u0027s duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 35%. This effect will be canceled 4s after falling under 3 stacks.",
+                                                                "values":  [
+                                                                               "15%/30%/50%",
+                                                                               "35%"
+                                                                           ]
+                                                            },
+                                                     "r4":  {
+                                                                "description":  "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by 21%/42%/70%. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack\u0027s duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 49%. This effect will be canceled 4s after falling under 3 stacks.",
+                                                                "values":  [
+                                                                               "21%/42%/70%",
+                                                                               "49%"
+                                                                           ]
+                                                            },
+                                                     "substatText":  "HP",
+                                                     "weaponText":  "Bow",
+                                                     "name":  "Silvershower Heartstrings",
+                                                     "effectTemplateRaw":  "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack\u0027s duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. This effect will be canceled 4s after falling under 3 stacks.",
+                                                     "r1":  {
+                                                                "description":  "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by 12%/24%/40%. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack\u0027s duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 28%. This effect will be canceled 4s after falling under 3 stacks.",
+                                                                "values":  [
+                                                                               "12%/24%/40%",
+                                                                               "28%"
+                                                                           ]
+                                                            },
+                                                     "effectName":  "Dryas\u0027s Nocturne"
+                                                 },
                     "prizedisshinblade":  {
                                               "r3":  null,
                                               "r5":  null,

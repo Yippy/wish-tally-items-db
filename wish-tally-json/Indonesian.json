@@ -590,9 +590,6 @@
                       "adventureexp":  {
                                            "name":  "Adventure EXP"
                                        },
-                      "oasisgardenstruth":  {
-                                                "name":  "Oasis Garden\u0027s Truth"
-                                            },
                       "stormbeads":  {
                                          "name":  "Storm Beads"
                                      },
@@ -662,12 +659,15 @@
                       "lightningprism":  {
                                              "name":  "Lightning Prism"
                                          },
-                      "windwheelastersaroma":  {
-                                                   "name":  "Aroma Windwheel Aster"
-                                               },
+                      "valberry":  {
+                                       "name":  "Valberry"
+                                   },
                       "stainedmask":  {
                                           "name":  "Stained Mask"
                                       },
+                      "windwheelastersaroma":  {
+                                                   "name":  "Aroma Windwheel Aster"
+                                               },
                       "cleansingheart":  {
                                              "name":  "Cleansing Heart"
                                          },
@@ -677,9 +677,9 @@
                       "dreamsolvent":  {
                                            "name":  "Dream Solvent"
                                        },
-                      "valberry":  {
-                                       "name":  "Valberry"
-                                   },
+                      "northlanderswordbillet":  {
+                                                     "name":  "Northlander Sword Billet"
+                                                 },
                       "acquaintfate":  {
                                            "name":  "Acquaint Fate"
                                        },
@@ -1109,9 +1109,9 @@
                       "brokengobletofthepristinesea":  {
                                                            "name":  "Broken Goblet of the Pristine Sea"
                                                        },
-                      "starshroom":  {
-                                         "name":  "Starshroom"
-                                     },
+                      "silkenfeather":  {
+                                            "name":  "Silken Feather"
+                                        },
                       "betta":  {
                                     "name":  "Betta"
                                 },
@@ -1577,9 +1577,9 @@
                       "shadowofthewarrior":  {
                                                  "name":  "Shadow of the Warrior"
                                              },
-                      "maplewood":  {
-                                        "name":  "Maple Wood"
-                                    },
+                      "lumidoucebell":  {
+                                            "name":  "Lumidouce Bell"
+                                        },
                       "rimewornfragment":  {
                                                "name":  "Rime-Worn Fragment"
                                            },
@@ -1589,9 +1589,9 @@
                       "borealwolfsmilktooth":  {
                                                    "name":  "Boreal Wolf\u0027s Milk Tooth"
                                                },
-                      "northlanderswordbillet":  {
-                                                     "name":  "Northlander Sword Billet"
-                                                 },
+                      "maplewood":  {
+                                        "name":  "Maple Wood"
+                                    },
                       "trimmedredsilk":  {
                                              "name":  "Trimmed Red Silk"
                                          },
@@ -1712,9 +1712,9 @@
                       "lindenwood":  {
                                          "name":  "Linden Wood"
                                      },
-                      "silkenfeather":  {
-                                            "name":  "Silken Feather"
-                                        },
+                      "camandcablesoflaw":  {
+                                                "name":  "Cam and Cables of Law"
+                                            },
                       "ironchunk":  {
                                         "name":  "Iron Chunk"
                                     },
@@ -1889,12 +1889,15 @@
                       "prithivatopazchunk":  {
                                                  "name":  "Prithiva Topaz Chunk"
                                              },
-                      "lumidoucebell":  {
-                                            "name":  "Lumidouce Bell"
-                                        },
+                      "oasisgardenstruth":  {
+                                                "name":  "Oasis Garden\u0027s Truth"
+                                            },
                       "cheese":  {
                                      "name":  "Cheese"
                                  },
+                      "starshroom":  {
+                                         "name":  "Starshroom"
+                                     },
                       "marionettecore":  {
                                              "name":  "Marionette Core"
                                          },
@@ -2189,8 +2192,8 @@
                                                                         },
                                                                  "c4":  {
                                                                             "name":  "\"You Shall Love and Protect Each Other Henceforth ...\"",
-                                                                            "descriptionRaw":  "Saat Arlecchino berhasil menyerap Blood-Debt Directive, CD \u003ccolor=#FFD780FF\u003eBalemoon Rising\u003c/color\u003e akan diperpendek 2 detik, dan akan memulihkan 15 Energy. Efek ini dapat terpicu sekali setiap 10 detik.",
-                                                                            "description":  "Saat Arlecchino berhasil menyerap Blood-Debt Directive, CD Balemoon Rising akan diperpendek 2 detik, dan akan memulihkan 15 Energy. Efek ini dapat terpicu sekali setiap 10 detik."
+                                                                            "descriptionRaw":  "Saat Arlecchino berhasil menyerap Blood-Debt Directive, CD \u003ccolor=#FFD780FF\u003eBalemoon Rising\u003c/color\u003e akan berkurang 2 detik dan memulihkan 15 Energy. Efek ini dapat terpicu sekali setiap 10 detik.",
+                                                                            "description":  "Saat Arlecchino berhasil menyerap Blood-Debt Directive, CD Balemoon Rising akan berkurang 2 detik dan memulihkan 15 Energy. Efek ini dapat terpicu sekali setiap 10 detik."
                                                                         },
                                                                  "c3":  {
                                                                             "name":  "\"You Shall Become a New Member of Our Family ...\"",
@@ -2204,13 +2207,13 @@
                                                                         },
                                                                  "c6":  {
                                                                             "name":  "\"From This Day On, We Shall Delight in New Life Together.\"",
-                                                                            "descriptionRaw":  "DMG \u003ccolor=#FFD780FF\u003eBalemoon Rising\u003c/color\u003e meningkat sebesar ATK Arlecchino yang dikali dengan 700% persentase Bond of Life Arlecchino saat ini.\nSelama 20 detik setelah Arlecchino melancarkan \u003ccolor=#FFD780FF\u003eAll is Ash\u003c/color\u003e, Normal Attack dan Elemental Burst Arlecchino akan mendapatkan peningkatan 10% CRIT Rate dan 70% CRIT DMG. Efek ini dapat terpicu sekali setiap 15 detik.",
-                                                                            "description":  "DMG Balemoon Rising meningkat sebesar ATK Arlecchino yang dikali dengan 700% persentase Bond of Life Arlecchino saat ini.\nSelama 20 detik setelah Arlecchino melancarkan All is Ash, Normal Attack dan Elemental Burst Arlecchino akan mendapatkan peningkatan 10% CRIT Rate dan 70% CRIT DMG. Efek ini dapat terpicu sekali setiap 15 detik."
+                                                                            "descriptionRaw":  "DMG \u003ccolor=#FFD780FF\u003eBalemoon Rising\u003c/color\u003e meningkat sebesar ATK Arlecchino dikalikan 700% dari persentase Bond of Life Arlecchino saat ini.\nSelama 20 detik setelah Arlecchino melancarkan \u003ccolor=#FFD780FF\u003eAll is Ash\u003c/color\u003e, Normal Attack dan Elemental Burst Arlecchino akan mendapatkan peningkatan 10% CRIT Rate dan 70% CRIT DMG. Efek ini dapat terpicu sekali setiap 15 detik.",
+                                                                            "description":  "DMG Balemoon Rising meningkat sebesar ATK Arlecchino dikalikan 700% dari persentase Bond of Life Arlecchino saat ini.\nSelama 20 detik setelah Arlecchino melancarkan All is Ash, Normal Attack dan Elemental Burst Arlecchino akan mendapatkan peningkatan 10% CRIT Rate dan 70% CRIT DMG. Efek ini dapat terpicu sekali setiap 15 detik."
                                                                         },
                                                                  "c1":  {
                                                                             "name":  "\"All Reprisals and Arrears, Mine to Bear...\"",
-                                                                            "descriptionRaw":  "Masque of the Red Death ditingkatkan sebesar 100%; Selain itu, saat melancarkan Normal Attack atau Charged Attack dalam status Masque of the Red Death, ketahanan terhadap interupsi Arlecchino akan meningkat.",
-                                                                            "description":  "Masque of the Red Death ditingkatkan sebesar 100%; Selain itu, saat melancarkan Normal Attack atau Charged Attack dalam status Masque of the Red Death, ketahanan terhadap interupsi Arlecchino akan meningkat."
+                                                                            "descriptionRaw":  "Kekuatan Masque of the Red Death ditingkatkan lagi dengan nilai peningkatan sebesar 100%. Selain itu, saat melancarkan Normal Attack atau Charged Attack dalam status Masque of the Red Death, ketahanan Arlecchino terhadap interupsi akan meningkat.",
+                                                                            "description":  "Kekuatan Masque of the Red Death ditingkatkan lagi dengan nilai peningkatan sebesar 100%. Selain itu, saat melancarkan Normal Attack atau Charged Attack dalam status Masque of the Red Death, ketahanan Arlecchino terhadap interupsi akan meningkat."
                                                                         }
                                                              },
                                           "elementText":  "Pyro",
@@ -2542,6 +2545,47 @@
                                      "region":  "Mondstadt",
                                      "gender":  "Pria"
                                  },
+                       "sigewinne":  {
+                                         "constellations":  {
+                                                                "c2":  {
+                                                                           "name":  "\"Can the Most Merciful of Spirits Defeat Its Foes?\"",
+                                                                           "descriptionRaw":  "Saat melancarkan \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e dan \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e, akan menghasilkan 1 perisai gelembung yang bisa menyerap \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e sebesar 30% Max HP dan memiliki 250% efisiensi ketahanan, efek ini berlangsung sampai Skill ini selesai dilancarkan.\nSelain itu, setelah Bolstering Bubblebalm dari Rebound Hydrotherapy melambung atau setelah Super Saturated Syringing mengenai musuh, \u003ccolor=#80C0FFFF\u003eHydro RES\u003c/color\u003e musuh ini berkurang 35% selama 8 detik.",
+                                                                           "description":  "Saat melancarkan Rebound Hydrotherapy dan Super Saturated Syringing, akan menghasilkan 1 perisai gelembung yang bisa menyerap Hydro DMG sebesar 30% Max HP dan memiliki 250% efisiensi ketahanan, efek ini berlangsung sampai Skill ini selesai dilancarkan.\nSelain itu, setelah Bolstering Bubblebalm dari Rebound Hydrotherapy melambung atau setelah Super Saturated Syringing mengenai musuh, Hydro RES musuh ini berkurang 35% selama 8 detik."
+                                                                       },
+                                                                "c4":  {
+                                                                           "name":  "\"Can the Loveliest of Spirits Keep Decay at Bay?\"",
+                                                                           "descriptionRaw":  "Durasi \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e diperpanjang selama 3 detik.",
+                                                                           "description":  "Durasi Super Saturated Syringing diperpanjang selama 3 detik."
+                                                                       },
+                                                                "c3":  {
+                                                                           "name":  "\"Can the Healthiest of Spirits Cure Fevers?\"",
+                                                                           "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                           "description":  "Meningkatkan 3 level Rebound Hydrotherapy.\nMaksimum: Lv. 15."
+                                                                       },
+                                                                "c5":  {
+                                                                           "name":  "\"Can the Most Joyful of Spirits Alleviate Agony?\"",
+                                                                           "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                           "description":  "Meningkatkan 3 level Super Saturated Syringing.\nMaksimum: Lv. 15."
+                                                                       },
+                                                                "c6":  {
+                                                                           "name":  "\"Can the Most Radiant of Spirits Pray For Me?\"",
+                                                                           "descriptionRaw":  "Saat Sigewinne memberikan pemulihan, akan meningkatkan CRIT Rate dan CRIT DMG \u003ccolor=#FFD780FF\u003eSuper Saturated Syringing\u003c/color\u003e berdasarkan Max HP-nya: Untuk setiap 1.000 poin Max HP, akan meningkatkan 0,4% CRIT Rate dan 2,2% CRIT DMG selama 15 detik. Maksimum peningkatan yang bisa diperoleh dengan cara ini adalah 20% CRIT Rate dan 110% CRIT DMG.",
+                                                                           "description":  "Saat Sigewinne memberikan pemulihan, akan meningkatkan CRIT Rate dan CRIT DMG Super Saturated Syringing berdasarkan Max HP-nya: Untuk setiap 1.000 poin Max HP, akan meningkatkan 0,4% CRIT Rate dan 2,2% CRIT DMG selama 15 detik. Maksimum peningkatan yang bisa diperoleh dengan cara ini adalah 20% CRIT Rate dan 110% CRIT DMG."
+                                                                       },
+                                                                "c1":  {
+                                                                           "name":  "\"Can the Happiest of Spirits Understand Anxiety?\"",
+                                                                           "descriptionRaw":  "Bolstering Bubblebalm dari \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e bisa melambung 3 kali lagi. Tiga lambungan pertama tidak akan membuat Bubblebalm yang besar menjadi mengecil.\nSelain itu, efek Talenta Pasif \"Requires Appropriate Rest\" diperkuat: Saat Bolstering Bubblebalm melambung, akan memberikan 1 lapis Convalescence untuk Sigewwine, dan mengubah efek Convalescence menjadi: Untuk setiap 1.000 poin HP Sigewinne yang melebihi 30.000, DMG meningkat 100 poin. Maksimum peningkatan DMG Elemental Skill yang bisa diperoleh dengan cara ini adalah 3.500 poin. Harus membuka Talenta Pasif \"Requires Appropriate Rest\" terlebih dahulu.",
+                                                                           "description":  "Bolstering Bubblebalm dari Rebound Hydrotherapy bisa melambung 3 kali lagi. Tiga lambungan pertama tidak akan membuat Bubblebalm yang besar menjadi mengecil.\nSelain itu, efek Talenta Pasif \"Requires Appropriate Rest\" diperkuat: Saat Bolstering Bubblebalm melambung, akan memberikan 1 lapis Convalescence untuk Sigewwine, dan mengubah efek Convalescence menjadi: Untuk setiap 1.000 poin HP Sigewinne yang melebihi 30.000, DMG meningkat 100 poin. Maksimum peningkatan DMG Elemental Skill yang bisa diperoleh dengan cara ini adalah 3.500 poin. Harus membuka Talenta Pasif \"Requires Appropriate Rest\" terlebih dahulu."
+                                                                       }
+                                                            },
+                                         "elementText":  "Hydro",
+                                         "fullname":  null,
+                                         "weaponText":  "Bow",
+                                         "name":  "Sigewinne",
+                                         "substatText":  "HP",
+                                         "region":  "Fontaine",
+                                         "gender":  "Perempuan"
+                                     },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3765,47 +3809,47 @@
                                        "region":  "Fontaine",
                                        "gender":  "Perempuan"
                                    },
-                       "zhongli":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Stone, the Cradle of Jade",
-                                                                         "descriptionRaw":  "Saat \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e dilancarkan, sebuah Jade Shield akan tercipta untuk Karakter yang berada di dekatnya.",
-                                                                         "description":  "Saat Planet Befall dilancarkan, sebuah Jade Shield akan tercipta untuk Karakter yang berada di dekatnya."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Topaz, Unbreakable and Fearless",
-                                                                         "descriptionRaw":  "Meningkatkan radius \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e sebesar 20% dan meningkatkan durasi dari efek Petrification Planet Befall sebanyak 2 detik.",
-                                                                         "description":  "Meningkatkan radius Planet Befall sebesar 20% dan meningkatkan durasi dari efek Petrification Planet Befall sebanyak 2 detik."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Jade, Shimmering through Darkness",
-                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                         "description":  "Meningkatkan 3 level Dominus Lapidis.\nMaksimum: Lv. 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Lazuli, Herald of the Order!",
-                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                         "description":  "Meningkatkan 3 level Planet Befall.\nMaksimum: Lv. 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Chrysos, Bounty of Dominator",
-                                                                         "descriptionRaw":  "Saat Jade Shield aktif, 40% DMG yang diterima akan dikonversi menjadi pemulihan HP.\nJumlah pemulihan yang diterima dalam satu kali konversi tidak dapat melebihi 8% dari Max HP karakter tersebut.",
-                                                                         "description":  "Saat Jade Shield aktif, 40% DMG yang diterima akan dikonversi menjadi pemulihan HP.\nJumlah pemulihan yang diterima dalam satu kali konversi tidak dapat melebihi 8% dari Max HP karakter tersebut."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Rock, the Backbone of Earth",
-                                                                         "descriptionRaw":  "Jumlah Stone Stele yang dapat diciptakan oleh \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e meningkat menjadi 2.",
-                                                                         "description":  "Jumlah Stone Stele yang dapat diciptakan oleh Dominus Lapidis meningkat menjadi 2."
-                                                                     }
-                                                          },
-                                       "elementText":  "Geo",
-                                       "fullname":  null,
-                                       "weaponText":  "Polearm",
-                                       "name":  "Zhongli",
-                                       "substatText":  "Geo DMG Bonus",
-                                       "region":  "Liyue",
-                                       "gender":  "Pria"
-                                   },
+                       "sethos":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Papyrus Scripture of Silent Secrets",
+                                                                        "descriptionRaw":  "Saat memenuhi salah satu kondisi berikut, \u003ccolor=#FFACFFFF\u003eElectro DMG Bonus\u003c/color\u003e Sethos meningkat 15% selama 10 detik, dapat ditumpuk sampai 2 lapis, durasi setiap lapisnya dihitung terpisah:\n·Mengonsumsi Energy melalui serangan Membidik, kondisi ini harus membuka Talenta Pasif \"Black Kite\u0027s Enigma\" terlebih dahulu;\n·Memicu Reaksi Elemental dan memulihkan Energy melalui \u003ccolor=#FFD780FF\u003eAncient Rite: The Thundering Sands\u003c/color\u003e;\n·Melancarkan \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e.",
+                                                                        "description":  "Saat memenuhi salah satu kondisi berikut, Electro DMG Bonus Sethos meningkat 15% selama 10 detik, dapat ditumpuk sampai 2 lapis, durasi setiap lapisnya dihitung terpisah:\n·Mengonsumsi Energy melalui serangan Membidik, kondisi ini harus membuka Talenta Pasif \"Black Kite\u0027s Enigma\" terlebih dahulu;\n·Memicu Reaksi Elemental dan memulihkan Energy melalui Ancient Rite: The Thundering Sands;\n·Melancarkan Secret Rite: Twilight Shadowpiercer."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Beneficent Plumage",
+                                                                        "descriptionRaw":  "Saat \u003ccolor=#FFD780FF\u003eShadowpiercing Shot\u003c/color\u003e atau \u003ccolor=#FFD780FF\u003eDusk Bolt\u003c/color\u003e mengenai 2 musuh atau lebih, meningkatkan 80 poin Elemental Mastery seluruh anggota party di sekitar selama 10 detik.",
+                                                                        "description":  "Saat Shadowpiercing Shot atau Dusk Bolt mengenai 2 musuh atau lebih, meningkatkan 80 poin Elemental Mastery seluruh anggota party di sekitar selama 10 detik."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Ode to the Moonrise Sage",
+                                                                        "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eNormal Attack: Royal Reed Archery\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                        "description":  "Meningkatkan 3 level Normal Attack: Royal Reed Archery.\nMaksimum: Lv. 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Record of the Desolate God\u0027s Burning Sands",
+                                                                        "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                        "description":  "Meningkatkan 3 level Secret Rite: Twilight Shadowpiercer.\nMaksimum: Lv. 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Pylon of the Sojourning Sun Temple",
+                                                                        "descriptionRaw":  "Setelah \u003ccolor=#FFD780FF\u003eShadowpiercing Shot\u003c/color\u003e mengenai musuh, Energy yang dikonsumsi oleh Talenta Pasif \"Black Kite\u0027s Enigma\" akan dikembalikan. Efek ini dapat terpicu setiap 15 detik. Harus membuka Talenta Pasif \"Black Kite\u0027s Enigma\" terlebih dahulu.",
+                                                                        "description":  "Setelah Shadowpiercing Shot mengenai musuh, Energy yang dikonsumsi oleh Talenta Pasif \"Black Kite\u0027s Enigma\" akan dikembalikan. Efek ini dapat terpicu setiap 15 detik. Harus membuka Talenta Pasif \"Black Kite\u0027s Enigma\" terlebih dahulu."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Sealed Shrine\u0027s Spiritsong",
+                                                                        "descriptionRaw":  "CRIT Rate \u003ccolor=#FFD780FF\u003eShadowpiercing Shot\u003c/color\u003e meningkat 15%.",
+                                                                        "description":  "CRIT Rate Shadowpiercing Shot meningkat 15%."
+                                                                    }
+                                                         },
+                                      "elementText":  "Electro",
+                                      "fullname":  null,
+                                      "weaponText":  "Bow",
+                                      "name":  "Sethos",
+                                      "substatText":  "Elemental Mastery",
+                                      "region":  "Sumeru",
+                                      "gender":  "Pria"
+                                  },
                        "chongyun":  {
                                         "constellations":  {
                                                                "c2":  {
@@ -5325,6 +5369,47 @@
                                        "region":  "Mondstadt",
                                        "gender":  "Pria"
                                    },
+                       "clorinde":  {
+                                        "constellations":  {
+                                                               "c2":  {
+                                                                          "name":  "\"Now, As We Face the Perils of the Long Night\"",
+                                                                          "descriptionRaw":  "Efek Talenta Pasif \"Dark-Shattering Flame\" diperkuat: Saat Karakter anggota party di sekitar memicu \u003ccolor=#FFACFFFF\u003ereaksi terkait Electro\u003c/color\u003e terhadap musuh, akan meningkatkan \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e yang diakibatkan Normal Attack dan \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e Clorinde sebesar 30% ATK Clorinde. Efek ini berlangsung 15 detik, dapat ditumpuk sampai 3 lapis, durasi setiap lapisnya dihitung terpisah. Saat statusnya mencapai 3 lapis, ketahanan Clorinde terhadap interupsi juga akan meningkat. Peningkatan DMG Clorinde yang bisa diperoleh dengan cara di atas adalah maksimum 2.700.\nHarus membuka Talenta Pasif \"Dark-Shattering Flame\" terlebih dahulu.",
+                                                                          "description":  "Efek Talenta Pasif \"Dark-Shattering Flame\" diperkuat: Saat Karakter anggota party di sekitar memicu reaksi terkait Electro terhadap musuh, akan meningkatkan Electro DMG yang diakibatkan Normal Attack dan Last Lightfall Clorinde sebesar 30% ATK Clorinde. Efek ini berlangsung 15 detik, dapat ditumpuk sampai 3 lapis, durasi setiap lapisnya dihitung terpisah. Saat statusnya mencapai 3 lapis, ketahanan Clorinde terhadap interupsi juga akan meningkat. Peningkatan DMG Clorinde yang bisa diperoleh dengan cara di atas adalah maksimum 2.700.\nHarus membuka Talenta Pasif \"Dark-Shattering Flame\" terlebih dahulu."
+                                                                      },
+                                                               "c4":  {
+                                                                          "name":  "\"To Enshrine Tears, Life, and Love\"",
+                                                                          "descriptionRaw":  "Saat \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e mengakibatkan DMG terhadap musuh, akan meningkatkan DMG \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e kali ini berdasarkan persentase Bond of Life Clorinde saat ini, peningkatannya adalah sebesar 2% untuk setiap 1% Bond of Life yang dimiliki Clorinde. Maksimum peningkatan DMG \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e yang bisa diperoleh dengan cara ini adalah 200%.",
+                                                                          "description":  "Saat Last Lightfall mengakibatkan DMG terhadap musuh, akan meningkatkan DMG Last Lightfall kali ini berdasarkan persentase Bond of Life Clorinde saat ini, peningkatannya adalah sebesar 2% untuk setiap 1% Bond of Life yang dimiliki Clorinde. Maksimum peningkatan DMG Last Lightfall yang bisa diperoleh dengan cara ini adalah 200%."
+                                                                      },
+                                                               "c3":  {
+                                                                          "name":  "\"I Pledge to Remember the Oath of Daylight\"",
+                                                                          "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eHunter\u0027s Vigil\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                          "description":  "Meningkatkan 3 level Hunter\u0027s Vigil.\nMaksimum: Lv. 15."
+                                                                      },
+                                                               "c5":  {
+                                                                          "name":  "\"Holding Dawn\u0027s Coming as My Votive\"",
+                                                                          "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                          "description":  "Meningkatkan 3 level Last Lightfall.\nMaksimum: Lv. 15."
+                                                                      },
+                                                               "c6":  {
+                                                                          "name":  "\"And So Shall I Never Despair\"",
+                                                                          "descriptionRaw":  "Selama 12 detik setelah melancarkan \u003ccolor=#FFD780FF\u003eHunter\u0027s Vigil\u003c/color\u003e, CRIT Rate Clorinde meningkat 10% dan CRIT DMG meningkat 70%.\nSelain itu selama Night Vigil berlangsung, Glimbright Shade akan muncul dalam kondisi tertentu dan melakukan serangan yang mengakibatkan \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e sebesar 200% ATK Clorinde, DMG yang diakibatkan dengan cara ini dianggap sebagai DMG Normal Attack.\nGlimbright Shade akan muncul dalam kondisi berikut:\n·Saat Clorinde akan terkena serangan;\n·Saat Clorinde melancarkan Impale the Night: Pact.\nMaksimum 1 Glimbright Shade yang bisa dipanggil setiap 1 detik. Maksimum bisa memanggil hingga 6 Glimbright Shade selama satu kali durasi Night Vigil, \nSelain itu, selama status Night Vigil aktif, DMG yang diterima Clorinde berkurang 80% dan ketahanannya terhadap interupsi juga akan meningkat. Efek ini akan hilang setelah status Night Vigil berakhir atau 1 detik setelah memanggil 6 Glimbright Shade.",
+                                                                          "description":  "Selama 12 detik setelah melancarkan Hunter\u0027s Vigil, CRIT Rate Clorinde meningkat 10% dan CRIT DMG meningkat 70%.\nSelain itu selama Night Vigil berlangsung, Glimbright Shade akan muncul dalam kondisi tertentu dan melakukan serangan yang mengakibatkan Electro DMG sebesar 200% ATK Clorinde, DMG yang diakibatkan dengan cara ini dianggap sebagai DMG Normal Attack.\nGlimbright Shade akan muncul dalam kondisi berikut:\n·Saat Clorinde akan terkena serangan;\n·Saat Clorinde melancarkan Impale the Night: Pact.\nMaksimum 1 Glimbright Shade yang bisa dipanggil setiap 1 detik. Maksimum bisa memanggil hingga 6 Glimbright Shade selama satu kali durasi Night Vigil, \nSelain itu, selama status Night Vigil aktif, DMG yang diterima Clorinde berkurang 80% dan ketahanannya terhadap interupsi juga akan meningkat. Efek ini akan hilang setelah status Night Vigil berakhir atau 1 detik setelah memanggil 6 Glimbright Shade."
+                                                                      },
+                                                               "c1":  {
+                                                                          "name":  "\"From This Day, I Pass the Candle\u0027s Shadow-Veil\"",
+                                                                          "descriptionRaw":  "Sewaktu status Night Vigil dari \u003ccolor=#FFD780FF\u003eHunter\u0027s Vigil\u003c/color\u003e berlangsung, saat \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e Normal Attack Clorinde mengenai musuh, akan memanggil Nightvigil Shade di sekitar musuh untuk melancarkan 2 kali serangan terkoordinasi, masing-masingnya mengakibatkan \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e sebesar 30% ATK Clorinde.\nEfek ini dapat terpicu maksimum 1,2 detik sekali, dan DMG yang diakibatkan dengan cara ini dianggap sebagai DMG Normal Attack.",
+                                                                          "description":  "Sewaktu status Night Vigil dari Hunter\u0027s Vigil berlangsung, saat Electro DMG Normal Attack Clorinde mengenai musuh, akan memanggil Nightvigil Shade di sekitar musuh untuk melancarkan 2 kali serangan terkoordinasi, masing-masingnya mengakibatkan Electro DMG sebesar 30% ATK Clorinde.\nEfek ini dapat terpicu maksimum 1,2 detik sekali, dan DMG yang diakibatkan dengan cara ini dianggap sebagai DMG Normal Attack."
+                                                                      }
+                                                           },
+                                        "elementText":  "Electro",
+                                        "fullname":  null,
+                                        "weaponText":  "Sword",
+                                        "name":  "Clorinde",
+                                        "substatText":  "CRIT Rate",
+                                        "region":  "Fontaine",
+                                        "gender":  "Perempuan"
+                                    },
                        "sayu":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -5489,6 +5574,47 @@
                                             "region":  "Inazuma",
                                             "gender":  "Perempuan"
                                         },
+                       "zhongli":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Stone, the Cradle of Jade",
+                                                                         "descriptionRaw":  "Saat \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e dilancarkan, sebuah Jade Shield akan tercipta untuk Karakter yang berada di dekatnya.",
+                                                                         "description":  "Saat Planet Befall dilancarkan, sebuah Jade Shield akan tercipta untuk Karakter yang berada di dekatnya."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Topaz, Unbreakable and Fearless",
+                                                                         "descriptionRaw":  "Meningkatkan radius \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e sebesar 20% dan meningkatkan durasi dari efek Petrification Planet Befall sebanyak 2 detik.",
+                                                                         "description":  "Meningkatkan radius Planet Befall sebesar 20% dan meningkatkan durasi dari efek Petrification Planet Befall sebanyak 2 detik."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Jade, Shimmering through Darkness",
+                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                         "description":  "Meningkatkan 3 level Dominus Lapidis.\nMaksimum: Lv. 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Lazuli, Herald of the Order!",
+                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003ePlanet Befall\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                         "description":  "Meningkatkan 3 level Planet Befall.\nMaksimum: Lv. 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Chrysos, Bounty of Dominator",
+                                                                         "descriptionRaw":  "Saat Jade Shield aktif, 40% DMG yang diterima akan dikonversi menjadi pemulihan HP.\nJumlah pemulihan yang diterima dalam satu kali konversi tidak dapat melebihi 8% dari Max HP karakter tersebut.",
+                                                                         "description":  "Saat Jade Shield aktif, 40% DMG yang diterima akan dikonversi menjadi pemulihan HP.\nJumlah pemulihan yang diterima dalam satu kali konversi tidak dapat melebihi 8% dari Max HP karakter tersebut."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Rock, the Backbone of Earth",
+                                                                         "descriptionRaw":  "Jumlah Stone Stele yang dapat diciptakan oleh \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e meningkat menjadi 2.",
+                                                                         "description":  "Jumlah Stone Stele yang dapat diciptakan oleh Dominus Lapidis meningkat menjadi 2."
+                                                                     }
+                                                          },
+                                       "elementText":  "Geo",
+                                       "fullname":  null,
+                                       "weaponText":  "Polearm",
+                                       "name":  "Zhongli",
+                                       "substatText":  "Geo DMG Bonus",
+                                       "region":  "Liyue",
+                                       "gender":  "Pria"
+                                   },
                        "nahida":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5783,53 +5909,6 @@
                                                     },
                                              "effectName":  "The Wind Unattained"
                                          },
-                    "finaleofthedeep":  {
-                                            "r3":  {
-                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 18% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 3,6% dari nilai HP yang dibersihkan selama 15 detik, maksimum 225 poin ATK.",
-                                                       "values":  [
-                                                                      "18%",
-                                                                      "3,6%",
-                                                                      "225"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 24% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 4,8% dari nilai HP yang dibersihkan selama 15 detik, maksimum 300 poin ATK.",
-                                                       "values":  [
-                                                                      "24%",
-                                                                      "4,8%",
-                                                                      "300"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 15% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 3% dari nilai HP yang dibersihkan selama 15 detik, maksimum 187,5 poin ATK.",
-                                                       "values":  [
-                                                                      "15%",
-                                                                      "3%",
-                                                                      "187,5"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 21% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 4,2% dari nilai HP yang dibersihkan selama 15 detik, maksimum 262,5 poin ATK.",
-                                                       "values":  [
-                                                                      "21%",
-                                                                      "4,2%",
-                                                                      "262,5"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ATK",
-                                            "weaponText":  "Sword",
-                                            "name":  "Finale of the Deep",
-                                            "effectTemplateRaw":  "Saat melancarkan Elemental Skill, ATK meningkat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e dari nilai HP yang dibersihkan selama 15 detik, maksimum \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e poin ATK.",
-                                            "r1":  {
-                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 12% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 2,4% dari nilai HP yang dibersihkan selama 15 detik, maksimum 150 poin ATK.",
-                                                       "values":  [
-                                                                      "12%",
-                                                                      "2,4%",
-                                                                      "150"
-                                                                  ]
-                                                   },
-                                            "effectName":  "An End Sublime"
-                                        },
                     "ferrousshadow":  {
                                           "r3":  {
                                                      "description":  "Saat HP kurang dari 80%, Charged Attack menjadi lebih sulit untuk diinterupsi, dan DMG Charged Attack meningkat 40%.",
@@ -7560,6 +7639,48 @@
                                                  },
                                           "effectName":  "Wind Companion"
                                       },
+                    "absolution":  {
+                                       "r3":  {
+                                                  "description":  "Meningkatkan 30% CRIT DMG. Saat nilai Bond of Life meningkat, DMG Karakter yang mengenakan meningkat 24%. Efek ini berlangsung selama 6 detik dan dapat ditumpuk sampai 3 lapis.",
+                                                  "values":  [
+                                                                 "30%",
+                                                                 "24%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Meningkatkan 40% CRIT DMG. Saat nilai Bond of Life meningkat, DMG Karakter yang mengenakan meningkat 32%. Efek ini berlangsung selama 6 detik dan dapat ditumpuk sampai 3 lapis.",
+                                                  "values":  [
+                                                                 "40%",
+                                                                 "32%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Meningkatkan 25% CRIT DMG. Saat nilai Bond of Life meningkat, DMG Karakter yang mengenakan meningkat 20%. Efek ini berlangsung selama 6 detik dan dapat ditumpuk sampai 3 lapis.",
+                                                  "values":  [
+                                                                 "25%",
+                                                                 "20%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Meningkatkan 35% CRIT DMG. Saat nilai Bond of Life meningkat, DMG Karakter yang mengenakan meningkat 28%. Efek ini berlangsung selama 6 detik dan dapat ditumpuk sampai 3 lapis.",
+                                                  "values":  [
+                                                                 "35%",
+                                                                 "28%"
+                                                             ]
+                                              },
+                                       "substatText":  "CRIT DMG",
+                                       "weaponText":  "Sword",
+                                       "name":  "Absolution",
+                                       "effectTemplateRaw":  "Meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e CRIT DMG. Saat nilai Bond of Life meningkat, DMG Karakter yang mengenakan meningkat \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Efek ini berlangsung selama 6 detik dan dapat ditumpuk sampai 3 lapis.",
+                                       "r1":  {
+                                                  "description":  "Meningkatkan 20% CRIT DMG. Saat nilai Bond of Life meningkat, DMG Karakter yang mengenakan meningkat 16%. Efek ini berlangsung selama 6 detik dan dapat ditumpuk sampai 3 lapis.",
+                                                  "values":  [
+                                                                 "20%",
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "effectName":  "Deathly Pact"
+                                   },
                     "freedomsworn":  {
                                          "r3":  {
                                                     "description":  "Bagian dari \"Millennial Movement\" yang mengembara di tengah angin. Meningkatkan DMG sebesar 15%, dan saat Karakter yang menggunakan senjata ini memicu Reaksi Elemental, Karakter akan mendapatkan Sigil of Rebellion. Efek ini dapat terpicu setiap 0,5 detik dan bisa terpicu walaupun Karakter tersebut tidak berada di lapangan. Saat kamu mempunyai 2 Sigil of Rebellion, semuanya akan terkonsumsi dan semua anggota party di sekitar akan mendapatkan efek \"Millennial Movement: Song of Resistance\" selama 12 detik. \"Millennial Movement: Song of Resistance\" meningkatkan 24% DMG Normal, Charged dan Plunging Attack, serta meningkatkan 30% ATK. Ketika efek ini sudah terpicu, kamu tidak akan mendapatkan Sigils of Rebellion lagi selama 20 detik. Dari sekian banyak efek \"Millennial Movement\", efek dengan jenis yang sama tidak bisa ditumpuk.",
@@ -8598,6 +8719,58 @@
                                                 },
                                          "effectName":  "Golden Majesty"
                                      },
+                    "skywardspine":  {
+                                         "r3":  {
+                                                    "description":  "Meningkatkan 12% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 70% ATK. Efek ini dapat terpicu setiap 2 detik.",
+                                                    "values":  [
+                                                                   "12%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "70%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Meningkatkan 16% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 100% ATK. Efek ini dapat terpicu setiap 2 detik.",
+                                                    "values":  [
+                                                                   "16%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "100%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Meningkatkan 10% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 55% ATK. Efek ini dapat terpicu setiap 2 detik.",
+                                                    "values":  [
+                                                                   "10%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "55%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Meningkatkan 14% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 85% ATK. Efek ini dapat terpicu setiap 2 detik.",
+                                                    "values":  [
+                                                                   "14%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "85%"
+                                                               ]
+                                                },
+                                         "substatText":  "Energy Recharge",
+                                         "weaponText":  "Polearm",
+                                         "name":  "Skyward Spine",
+                                         "effectTemplateRaw":  "Meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e CRIT Rate dan \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e ATK. Efek ini dapat terpicu setiap 2 detik.",
+                                         "r1":  {
+                                                    "description":  "Meningkatkan 8% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 40% ATK. Efek ini dapat terpicu setiap 2 detik.",
+                                                    "values":  [
+                                                                   "8%",
+                                                                   "12%",
+                                                                   "50%",
+                                                                   "40%"
+                                                               ]
+                                                },
+                                         "effectName":  "Black Wing"
+                                     },
                     "kitaincrossspear":  {
                                              "r3":  {
                                                         "description":  "Meningkatkan 9% Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan 4 Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan perang.",
@@ -8839,6 +9012,43 @@
                                                               ]
                                                },
                                         "effectName":  "Sharp"
+                                    },
+                    "cloudforged":  {
+                                        "r3":  {
+                                                   "description":  "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 60 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+                                                   "values":  [
+                                                                  "60"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 80 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+                                                   "values":  [
+                                                                  "80"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 50 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+                                                   "values":  [
+                                                                  "50"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 70 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+                                                   "values":  [
+                                                                  "70"
+                                                              ]
+                                               },
+                                        "substatText":  "Elemental Mastery",
+                                        "weaponText":  "Bow",
+                                        "name":  "Cloudforged",
+                                        "effectTemplateRaw":  "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+                                        "r1":  {
+                                                   "description":  "Setelah Energy berkurang, Elemental Mastery Karakter yang mengenakan meningkat 40 poin. Efek ini berlangsung selama 18 detik dan dapat ditumpuk sampai 2 lapis.",
+                                                   "values":  [
+                                                                  "40"
+                                                              ]
+                                               },
+                                        "effectName":  "Crag-Chiseled Forge"
                                     },
                     "twinnephrite":  {
                                          "r3":  {
@@ -9760,58 +9970,53 @@
                                                },
                                         "effectName":  "Echoing Ballad"
                                     },
-                    "skywardspine":  {
-                                         "r3":  {
-                                                    "description":  "Meningkatkan 12% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 70% ATK. Efek ini dapat terpicu setiap 2 detik.",
-                                                    "values":  [
-                                                                   "12%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "70%"
-                                                               ]
-                                                },
-                                         "r5":  {
-                                                    "description":  "Meningkatkan 16% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 100% ATK. Efek ini dapat terpicu setiap 2 detik.",
-                                                    "values":  [
-                                                                   "16%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "100%"
-                                                               ]
-                                                },
-                                         "r2":  {
-                                                    "description":  "Meningkatkan 10% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 55% ATK. Efek ini dapat terpicu setiap 2 detik.",
-                                                    "values":  [
-                                                                   "10%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "55%"
-                                                               ]
-                                                },
-                                         "r4":  {
-                                                    "description":  "Meningkatkan 14% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 85% ATK. Efek ini dapat terpicu setiap 2 detik.",
-                                                    "values":  [
-                                                                   "14%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "85%"
-                                                               ]
-                                                },
-                                         "substatText":  "Energy Recharge",
-                                         "weaponText":  "Polearm",
-                                         "name":  "Skyward Spine",
-                                         "effectTemplateRaw":  "Meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e CRIT Rate dan \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e ATK. Efek ini dapat terpicu setiap 2 detik.",
-                                         "r1":  {
-                                                    "description":  "Meningkatkan 8% CRIT Rate dan 12% Normal ATK SPD. Selain itu, saat mengenai musuh, Normal dan Charged Attack memiliki 50% persentase untuk memicu pisau hampa yang mengakibatkan DMG di area kecil sebesar 40% ATK. Efek ini dapat terpicu setiap 2 detik.",
-                                                    "values":  [
-                                                                   "8%",
-                                                                   "12%",
-                                                                   "50%",
-                                                                   "40%"
-                                                               ]
-                                                },
-                                         "effectName":  "Black Wing"
-                                     },
+                    "finaleofthedeep":  {
+                                            "r3":  {
+                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 18% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 3,6% dari nilai HP yang dibersihkan selama 15 detik, maksimum 225 poin ATK.",
+                                                       "values":  [
+                                                                      "18%",
+                                                                      "3,6%",
+                                                                      "225"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 24% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 4,8% dari nilai HP yang dibersihkan selama 15 detik, maksimum 300 poin ATK.",
+                                                       "values":  [
+                                                                      "24%",
+                                                                      "4,8%",
+                                                                      "300"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 15% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 3% dari nilai HP yang dibersihkan selama 15 detik, maksimum 187,5 poin ATK.",
+                                                       "values":  [
+                                                                      "15%",
+                                                                      "3%",
+                                                                      "187,5"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 21% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 4,2% dari nilai HP yang dibersihkan selama 15 detik, maksimum 262,5 poin ATK.",
+                                                       "values":  [
+                                                                      "21%",
+                                                                      "4,2%",
+                                                                      "262,5"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ATK",
+                                            "weaponText":  "Sword",
+                                            "name":  "Finale of the Deep",
+                                            "effectTemplateRaw":  "Saat melancarkan Elemental Skill, ATK meningkat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e dari nilai HP yang dibersihkan selama 15 detik, maksimum \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e poin ATK.",
+                                            "r1":  {
+                                                       "description":  "Saat melancarkan Elemental Skill, ATK meningkat 12% selama 15 detik dan memberikan Bond of Life sebesar 25% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan ATK sebesar 2,4% dari nilai HP yang dibersihkan selama 15 detik, maksimum 150 poin ATK.",
+                                                       "values":  [
+                                                                      "12%",
+                                                                      "2,4%",
+                                                                      "150"
+                                                                  ]
+                                                   },
+                                            "effectName":  "An End Sublime"
+                                        },
                     "everlastingmoonglow":  {
                                                 "r3":  {
                                                            "description":  "Meningkatkan 15% Healing Bonus. Meningkatkan DMG Normal Attack sebesar 2% dari Max HP Karakter yang mengenakan senjata ini. Setelah melancarkan Elemental Burst, Normal Attack yang mengenai musuh akan memulihkan 0,6 Energy. Efek pemulihan Energy ini berlangsung selama 12 detik dan dapat terpicu setiap 0,1 detik.",
@@ -11664,6 +11869,48 @@
                                              },
                                       "effectName":  "Infusion Stinger"
                                   },
+                    "silvershowerheartstrings":  {
+                                                     "r3":  {
+                                                                "description":  "Karakter yang mengenakan bisa mendapatkan efek Remedy. Saat memiliki 1/2/3 lapis Remedy, Max HP meningkat 18%/36%/60%. Dalam kondisi berikut, Karakter yang mengenakan akan mendapatkan 1 lapis Remedy untuk masing-masing situasi: Saat melancarkan Elemental Skill, berlangsung 25 detik; Saat nilai Bond of Life bertambah, berlangsung 25 detik; Saat melakukan pemulihan HP, berlangsung 20 detik; Tetap akan bisa terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran. Durasi setiap lapis Remedy dihitung terpisah. Selain itu, saat memiliki 3 lapis status Remedy, CRIT Rate Elemental Burst meningkat 42%. Efek ini akan dihapus 4 detik setelah Remedy kurang dari 3 lapis.",
+                                                                "values":  [
+                                                                               "18%/36%/60%",
+                                                                               "42%"
+                                                                           ]
+                                                            },
+                                                     "r5":  {
+                                                                "description":  "Karakter yang mengenakan bisa mendapatkan efek Remedy. Saat memiliki 1/2/3 lapis Remedy, Max HP meningkat 24%/48%/80%. Dalam kondisi berikut, Karakter yang mengenakan akan mendapatkan 1 lapis Remedy untuk masing-masing situasi: Saat melancarkan Elemental Skill, berlangsung 25 detik; Saat nilai Bond of Life bertambah, berlangsung 25 detik; Saat melakukan pemulihan HP, berlangsung 20 detik; Tetap akan bisa terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran. Durasi setiap lapis Remedy dihitung terpisah. Selain itu, saat memiliki 3 lapis status Remedy, CRIT Rate Elemental Burst meningkat 56%. Efek ini akan dihapus 4 detik setelah Remedy kurang dari 3 lapis.",
+                                                                "values":  [
+                                                                               "24%/48%/80%",
+                                                                               "56%"
+                                                                           ]
+                                                            },
+                                                     "r2":  {
+                                                                "description":  "Karakter yang mengenakan bisa mendapatkan efek Remedy. Saat memiliki 1/2/3 lapis Remedy, Max HP meningkat 15%/30%/50%. Dalam kondisi berikut, Karakter yang mengenakan akan mendapatkan 1 lapis Remedy untuk masing-masing situasi: Saat melancarkan Elemental Skill, berlangsung 25 detik; Saat nilai Bond of Life bertambah, berlangsung 25 detik; Saat melakukan pemulihan HP, berlangsung 20 detik; Tetap akan bisa terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran. Durasi setiap lapis Remedy dihitung terpisah. Selain itu, saat memiliki 3 lapis status Remedy, CRIT Rate Elemental Burst meningkat 35%. Efek ini akan dihapus 4 detik setelah Remedy kurang dari 3 lapis.",
+                                                                "values":  [
+                                                                               "15%/30%/50%",
+                                                                               "35%"
+                                                                           ]
+                                                            },
+                                                     "r4":  {
+                                                                "description":  "Karakter yang mengenakan bisa mendapatkan efek Remedy. Saat memiliki 1/2/3 lapis Remedy, Max HP meningkat 21%/42%/70%. Dalam kondisi berikut, Karakter yang mengenakan akan mendapatkan 1 lapis Remedy untuk masing-masing situasi: Saat melancarkan Elemental Skill, berlangsung 25 detik; Saat nilai Bond of Life bertambah, berlangsung 25 detik; Saat melakukan pemulihan HP, berlangsung 20 detik; Tetap akan bisa terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran. Durasi setiap lapis Remedy dihitung terpisah. Selain itu, saat memiliki 3 lapis status Remedy, CRIT Rate Elemental Burst meningkat 49%. Efek ini akan dihapus 4 detik setelah Remedy kurang dari 3 lapis.",
+                                                                "values":  [
+                                                                               "21%/42%/70%",
+                                                                               "49%"
+                                                                           ]
+                                                            },
+                                                     "substatText":  "HP",
+                                                     "weaponText":  "Bow",
+                                                     "name":  "Silvershower Heartstrings",
+                                                     "effectTemplateRaw":  "Karakter yang mengenakan bisa mendapatkan efek Remedy. Saat memiliki 1/2/3 lapis Remedy, Max HP meningkat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Dalam kondisi berikut, Karakter yang mengenakan akan mendapatkan 1 lapis Remedy untuk masing-masing situasi: Saat melancarkan Elemental Skill, berlangsung 25 detik; Saat nilai Bond of Life bertambah, berlangsung 25 detik; Saat melakukan pemulihan HP, berlangsung 20 detik; Tetap akan bisa terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran. Durasi setiap lapis Remedy dihitung terpisah. Selain itu, saat memiliki 3 lapis status Remedy, CRIT Rate Elemental Burst meningkat \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Efek ini akan dihapus 4 detik setelah Remedy kurang dari 3 lapis.",
+                                                     "r1":  {
+                                                                "description":  "Karakter yang mengenakan bisa mendapatkan efek Remedy. Saat memiliki 1/2/3 lapis Remedy, Max HP meningkat 12%/24%/40%. Dalam kondisi berikut, Karakter yang mengenakan akan mendapatkan 1 lapis Remedy untuk masing-masing situasi: Saat melancarkan Elemental Skill, berlangsung 25 detik; Saat nilai Bond of Life bertambah, berlangsung 25 detik; Saat melakukan pemulihan HP, berlangsung 20 detik; Tetap akan bisa terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran. Durasi setiap lapis Remedy dihitung terpisah. Selain itu, saat memiliki 3 lapis status Remedy, CRIT Rate Elemental Burst meningkat 28%. Efek ini akan dihapus 4 detik setelah Remedy kurang dari 3 lapis.",
+                                                                "values":  [
+                                                                               "12%/24%/40%",
+                                                                               "28%"
+                                                                           ]
+                                                            },
+                                                     "effectName":  "Dryas\u0027s Nocturne"
+                                                 },
                     "prizedisshinblade":  {
                                               "r3":  null,
                                               "r5":  null,

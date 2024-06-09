@@ -590,9 +590,6 @@
                       "adventureexp":  {
                                            "name":  "Abenteuer-EP"
                                        },
-                      "oasisgardenstruth":  {
-                                                "name":  "Wahrheit der Oase der blühenden Blumen"
-                                            },
                       "stormbeads":  {
                                          "name":  "Sturmperlen"
                                      },
@@ -662,12 +659,15 @@
                       "lightningprism":  {
                                              "name":  "Blitzprisma"
                                          },
-                      "windwheelastersaroma":  {
-                                                   "name":  "Duft der Windmühlenaster"
-                                               },
+                      "valberry":  {
+                                       "name":  "Valbeere"
+                                   },
                       "stainedmask":  {
                                           "name":  "Verdreckte Maske"
                                       },
+                      "windwheelastersaroma":  {
+                                                   "name":  "Duft der Windmühlenaster"
+                                               },
                       "cleansingheart":  {
                                              "name":  "Reinigendes Herz"
                                          },
@@ -677,9 +677,9 @@
                       "dreamsolvent":  {
                                            "name":  "Traumlösungsmittel"
                                        },
-                      "valberry":  {
-                                       "name":  "Valbeere"
-                                   },
+                      "northlanderswordbillet":  {
+                                                     "name":  "Unbearbeiteter Einhänder des Nordens"
+                                                 },
                       "acquaintfate":  {
                                            "name":  "Vorbestimmtes Schicksal"
                                        },
@@ -1109,9 +1109,9 @@
                       "brokengobletofthepristinesea":  {
                                                            "name":  "Zerbrochener Kelch des unberührten Meers"
                                                        },
-                      "starshroom":  {
-                                         "name":  "Sternpilz"
-                                     },
+                      "silkenfeather":  {
+                                            "name":  "Seidene Feder"
+                                        },
                       "betta":  {
                                     "name":  "Kampfstichling"
                                 },
@@ -1577,9 +1577,9 @@
                       "shadowofthewarrior":  {
                                                  "name":  "Seele des Kriegers – Schatten"
                                              },
-                      "maplewood":  {
-                                        "name":  "Ahornholz"
-                                    },
+                      "lumidoucebell":  {
+                                            "name":  "Lumidouce-Glockenblume"
+                                        },
                       "rimewornfragment":  {
                                                "name":  "Frostbiss-Splitter"
                                            },
@@ -1589,9 +1589,9 @@
                       "borealwolfsmilktooth":  {
                                                    "name":  "Milchzahn des borealischen Wolfs"
                                                },
-                      "northlanderswordbillet":  {
-                                                     "name":  "Unbearbeiteter Einhänder des Nordens"
-                                                 },
+                      "maplewood":  {
+                                        "name":  "Ahornholz"
+                                    },
                       "trimmedredsilk":  {
                                              "name":  "Geränderte rote Seide"
                                          },
@@ -1712,9 +1712,9 @@
                       "lindenwood":  {
                                          "name":  "Lindenholz"
                                      },
-                      "silkenfeather":  {
-                                            "name":  "Seidene Feder"
-                                        },
+                      "camandcablesoflaw":  {
+                                                "name":  "Mechanisches Stück von Mitte und Maß"
+                                            },
                       "ironchunk":  {
                                         "name":  "Brocken Eisen"
                                     },
@@ -1889,12 +1889,15 @@
                       "prithivatopazchunk":  {
                                                  "name":  "Prithiva-Topas-Brocken"
                                              },
-                      "lumidoucebell":  {
-                                            "name":  "Lumidouce-Glockenblume"
-                                        },
+                      "oasisgardenstruth":  {
+                                                "name":  "Wahrheit der Oase der blühenden Blumen"
+                                            },
                       "cheese":  {
                                      "name":  "Käse"
                                  },
+                      "starshroom":  {
+                                         "name":  "Sternpilz"
+                                     },
                       "marionettecore":  {
                                              "name":  "Marionettenkern"
                                          },
@@ -2542,6 +2545,47 @@
                                      "region":  "Mondstadt",
                                      "gender":  "Männlich"
                                  },
+                       "sigewinne":  {
+                                         "constellations":  {
+                                                                "c2":  {
+                                                                           "name":  "„Kann der gütigste Geist seine Feinde vernichten?“",
+                                                                           "descriptionRaw":  "#Erstellt beim Anwenden von \u003ccolor=#FFD780FF\u003eHüpfende Hydrotherapie\u003c/color\u003e und \u003ccolor=#FFD780FF\u003eÜbereifrige Injektion\u003c/color\u003e einen Wasserballschild mit einer Stärke von 30{NON_BREAK_SPACE}% der max. LP. Hält bei \u003ccolor=#80C0FFFF\u003eHydro-Schaden\u003c/color\u003e 250{NON_BREAK_SPACE}% ab. Der Schild hält bis zum Abschluss des Anwendungsvorgangs der oben genannten Fähigkeiten.\nVerringert außerdem, nachdem der heilende Wasserballon von Hüpfende Hydrotherapie oder die Übereifrige Injektion einen Gegner trifft, dessen \u003ccolor=#80C0FFFF\u003eHydro-WDS\u003c/color\u003e 8{NON_BREAK_SPACE}s lang um 35{NON_BREAK_SPACE}%.",
+                                                                           "description":  "Erstellt beim Anwenden von Hüpfende Hydrotherapie und Übereifrige Injektion einen Wasserballschild mit einer Stärke von 30 % der max. LP. Hält bei Hydro-Schaden 250 % ab. Der Schild hält bis zum Abschluss des Anwendungsvorgangs der oben genannten Fähigkeiten.\nVerringert außerdem, nachdem der heilende Wasserballon von Hüpfende Hydrotherapie oder die Übereifrige Injektion einen Gegner trifft, dessen Hydro-WDS 8 s lang um 35 %."
+                                                                       },
+                                                                "c4":  {
+                                                                           "name":  "„Kann sich der schönste Geist dem Verfall verweigern?“",
+                                                                           "descriptionRaw":  "#Verlängert die Wirkungsdauer von \u003ccolor=#FFD780FF\u003eÜbereifrige Injektion\u003c/color\u003e um 3{NON_BREAK_SPACE}s.",
+                                                                           "description":  "Verlängert die Wirkungsdauer von Übereifrige Injektion um 3 s."
+                                                                       },
+                                                                "c3":  {
+                                                                           "name":  "„Kann der gesündeste Geist Fieber kurieren?“",
+                                                                           "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eHüpfende Hydrotherapie\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                           "description":  "Erhöht die Stufe der Fähigkeit Hüpfende Hydrotherapie um 3.\nHöchststufe 15."
+                                                                       },
+                                                                "c5":  {
+                                                                           "name":  "„Kann der freudigste Geist die Qualen lindern?“",
+                                                                           "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eÜbereifrige Injektion\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                           "description":  "Erhöht die Stufe der Fähigkeit Übereifrige Injektion um 3.\nHöchststufe 15."
+                                                                       },
+                                                                "c6":  {
+                                                                           "name":  "„Kann der erleuchtetste Geist für mich beten?“",
+                                                                           "descriptionRaw":  "#Erhöht die KT und den KSCH von \u003ccolor=#FFD780FF\u003eÜbereifrige Injektion\u003c/color\u003e basierend auf Sigewinnes max. LP, wenn sie Heilung gewährt: Erhöht für je 1.000 Punkte ihrer max. LP die KT um 0,4{NON_BREAK_SPACE}% und den KSCH um 2,2{NON_BREAK_SPACE}%, hält 15{NON_BREAK_SPACE}s. Boni von bis zu 20{NON_BREAK_SPACE}% KT und 110{NON_BREAK_SPACE}% KSCH sind auf diese Weise möglich.",
+                                                                           "description":  "Erhöht die KT und den KSCH von Übereifrige Injektion basierend auf Sigewinnes max. LP, wenn sie Heilung gewährt: Erhöht für je 1.000 Punkte ihrer max. LP die KT um 0,4 % und den KSCH um 2,2 %, hält 15 s. Boni von bis zu 20 % KT und 110 % KSCH sind auf diese Weise möglich."
+                                                                       },
+                                                                "c1":  {
+                                                                           "name":  "„Kann der glücklichste Geist Sorgen verstehen?“",
+                                                                           "descriptionRaw":  "Der heilende Wasserballon von \u003ccolor=#FFD780FF\u003eHüpfende Hydrotherapie\u003c/color\u003e kann 3-mal zusätzlich hüpfen und schrumpft während der ersten 3 Hüpfer nicht.\nAußerdem werden die Effekte des passiven Talents „Erfordert angemessene Ruhezeiten“ verstärkt: Gewährt Sigewinne, wenn der heilende Wasserballon hüpft, 1 Stapelung Ruhezählung. Außerdem wird der Schaden-Bonus von Ruhezählung verändert: Erhöht für je 1.000 Punkte der max. LP von Sigewinne über 30.000 den Schaden um 100 Punkte. Auf diese Weise kann der Schaden um bis zu 3.500 Punkte erhöht werden. Das passive Talent „Erfordert angemessene Ruhezeiten“ muss zuerst freigeschaltet werden.",
+                                                                           "description":  "Der heilende Wasserballon von Hüpfende Hydrotherapie kann 3-mal zusätzlich hüpfen und schrumpft während der ersten 3 Hüpfer nicht.\nAußerdem werden die Effekte des passiven Talents „Erfordert angemessene Ruhezeiten“ verstärkt: Gewährt Sigewinne, wenn der heilende Wasserballon hüpft, 1 Stapelung Ruhezählung. Außerdem wird der Schaden-Bonus von Ruhezählung verändert: Erhöht für je 1.000 Punkte der max. LP von Sigewinne über 30.000 den Schaden um 100 Punkte. Auf diese Weise kann der Schaden um bis zu 3.500 Punkte erhöht werden. Das passive Talent „Erfordert angemessene Ruhezeiten“ muss zuerst freigeschaltet werden."
+                                                                       }
+                                                            },
+                                         "elementText":  "Hydro",
+                                         "fullname":  null,
+                                         "weaponText":  "Bogen",
+                                         "name":  "Sigewinne",
+                                         "substatText":  "LP",
+                                         "region":  "Fontaine",
+                                         "gender":  "Weiblich"
+                                     },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3765,47 +3809,47 @@
                                        "region":  "Fontaine",
                                        "gender":  "Weiblich"
                                    },
-                       "zhongli":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Heimat der Jade",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eEinstürzender Himmel\u003c/color\u003e gibt aktuellen Figuren in der Nähe des Sturzes einen Jadeblock zum Schutz.",
-                                                                         "description":  "Einstürzender Himmel gibt aktuellen Figuren in der Nähe des Sturzes einen Jadeblock zum Schutz."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Gebrochen und doch hart",
-                                                                         "descriptionRaw":  "#Vergrößert den Wirkungsbereich von \u003ccolor=#FFD780FF\u003eEinstürzender Himmel\u003c/color\u003e um 20{NON_BREAK_SPACE}%.\nVerlängert den Effekt der Versteinerung von Einstürzender Himmel um 2 s.",
-                                                                         "description":  "Vergrößert den Wirkungsbereich von Einstürzender Himmel um 20 %.\nVerlängert den Effekt der Versteinerung von Einstürzender Himmel um 2 s."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Funkelnd und doch dunkel",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Dominus Lapidis um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Verkünder der Ordnung",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eEinstürzender Himmel\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Einstürzender Himmel um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Geschenk des Bodens",
-                                                                         "descriptionRaw":  "Stellt der aktuellen Figur LP in Höhe von 40 % des Schadens wieder her, wenn der Jadeblock Schaden erleidet.\nDie bei jeder Heilung wiederhergestellten LP können 8 % der max. LP der Figur nicht übersteigen.",
-                                                                         "description":  "Stellt der aktuellen Figur LP in Höhe von 40 % des Schadens wieder her, wenn der Jadeblock Schaden erleidet.\nDie bei jeder Heilung wiederhergestellten LP können 8 % der max. LP der Figur nicht übersteigen."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Skelett der Erde",
-                                                                         "descriptionRaw":  "Bis zu 2 Hügelkämme von \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e können gleichzeitig existieren.",
-                                                                         "description":  "Bis zu 2 Hügelkämme von Dominus Lapidis können gleichzeitig existieren."
-                                                                     }
-                                                          },
-                                       "elementText":  "Geo",
-                                       "fullname":  null,
-                                       "weaponText":  "Stangenwaffe",
-                                       "name":  "Zhongli",
-                                       "substatText":  "Geo-SCH-Bonus",
-                                       "region":  "Liyue",
-                                       "gender":  "Männlich"
-                                   },
+                       "sethos":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Papyrus-Schrift der schweigenden Geheimnisse",
+                                                                        "descriptionRaw":  "#Erhöht Sethos’ \u003ccolor=#FFACFFFF\u003eElektro-SCH-Bonus\u003c/color\u003e beim Erfüllen einer der folgenden Bedingungen 10{NON_BREAK_SPACE}s lang um 15{NON_BREAK_SPACE}%, 2-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\n· Es wird Elementarenergie durch einen gezielten Schuss verbraucht. Hierfür muss das passive Talent „Metapher des Dunkelmilans“ zuerst freigeschaltet werden.\n· Es wird durch \u003ccolor=#FFD780FF\u003eUraltes Ritual – Donnergebrüll des Sandes\u003c/color\u003e eine Elementarreaktion ausgelöst, wobei Elementarenergie wiederhergestellt wird.\n· Anwenden von \u003ccolor=#FFD780FF\u003eGeheimes Ritual – Zwielicht-Schattenbohrer\u003c/color\u003e.",
+                                                                        "description":  "Erhöht Sethos’ Elektro-SCH-Bonus beim Erfüllen einer der folgenden Bedingungen 10 s lang um 15 %, 2-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\n· Es wird Elementarenergie durch einen gezielten Schuss verbraucht. Hierfür muss das passive Talent „Metapher des Dunkelmilans“ zuerst freigeschaltet werden.\n· Es wird durch Uraltes Ritual – Donnergebrüll des Sandes eine Elementarreaktion ausgelöst, wobei Elementarenergie wiederhergestellt wird.\n· Anwenden von Geheimes Ritual – Zwielicht-Schattenbohrer."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Sammlung der wohlwollenden Federn",
+                                                                        "descriptionRaw":  "#Erhöht, sobald 2 oder mehr Gegner durch \u003ccolor=#FFD780FF\u003eSchattenbohrerpfeil\u003c/color\u003e oder \u003ccolor=#FFD780FF\u003eDämmerungspfeil\u003c/color\u003e getroffen werden, die Elementarkunde aller Truppenmitglieder in der Nähe 10{NON_BREAK_SPACE}s lang um 80 Punkte.",
+                                                                        "description":  "Erhöht, sobald 2 oder mehr Gegner durch Schattenbohrerpfeil oder Dämmerungspfeil getroffen werden, die Elementarkunde aller Truppenmitglieder in der Nähe 10 s lang um 80 Punkte."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Ode des Weisen des aufsteigenden Mondes",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eStandardangriff: Königlicher Schilfschuss\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Fähigkeit Standardangriff: Königlicher Schilfschuss um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Aufzeichnungen des trostlosen Gottes brennender Sande",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eGeheimes Ritual – Zwielicht-Schattenbohrer\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Fähigkeit Geheimes Ritual – Zwielicht-Schattenbohrer um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Foliant des Tempels der wandernden Sonne",
+                                                                        "descriptionRaw":  "#Erstattet, sobald ein Gegner vom \u003ccolor=#FFD780FF\u003eSchattenbohrerpfeil\u003c/color\u003e getroffen wird, die Elementarenergie, die mit „Metapher des Dunkelmilans“ verbraucht wurde, zurück, 15{NON_BREAK_SPACE}s Abklingzeit. Das passive Talent „Metapher des Dunkelmilans“ muss zuerst freigeschaltet werden.",
+                                                                        "description":  "Erstattet, sobald ein Gegner vom Schattenbohrerpfeil getroffen wird, die Elementarenergie, die mit „Metapher des Dunkelmilans“ verbraucht wurde, zurück, 15 s Abklingzeit. Das passive Talent „Metapher des Dunkelmilans“ muss zuerst freigeschaltet werden."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Spirituelles Lied des versiegelten Schreins",
+                                                                        "descriptionRaw":  "#Erhöht die KT von \u003ccolor=#FFD780FF\u003eSchattenbohrerpfeil\u003c/color\u003e um 15{NON_BREAK_SPACE}%.",
+                                                                        "description":  "Erhöht die KT von Schattenbohrerpfeil um 15 %."
+                                                                    }
+                                                         },
+                                      "elementText":  "Elektro",
+                                      "fullname":  null,
+                                      "weaponText":  "Bogen",
+                                      "name":  "Sethos",
+                                      "substatText":  "Elementarkunde",
+                                      "region":  "Sumeru",
+                                      "gender":  "Männlich"
+                                  },
                        "chongyun":  {
                                         "constellations":  {
                                                                "c2":  {
@@ -5325,6 +5369,47 @@
                                        "region":  "Mondstadt",
                                        "gender":  "Männlich"
                                    },
+                       "clorinde":  {
+                                        "constellations":  {
+                                                               "c2":  {
+                                                                          "name":  "„Von nun an stelle ich mich den Gefahren der langen Nacht“",
+                                                                          "descriptionRaw":  "#Verstärkt den Effekt des passiven Talents „Finsternis zersetzende Flamme“: Erhöht den von Clorinde verursachten \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e mit ihrem Standardangriff und den von \u003ccolor=#FFD780FF\u003eSterbende Lichtstrahlen\u003c/color\u003e um 30{NON_BREAK_SPACE}% von Clorindes ANG, nachdem Truppenmitglieder in der Nähe bei Gegnern \u003ccolor=#FFACFFFF\u003eElektro-Reaktionen\u003c/color\u003e ausgelöst haben. Dieser Effekt hält 15{NON_BREAK_SPACE}s, 3-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Clorindes Unterbrechungs-WDS. Der max. Schaden-Bonus, der auf diese Weise für die oben genannten Angriffe erreicht werden kann, beträgt 2.700 Punkte.\nDas passive Talent „Finsternis zersetzende Flamme“ muss zuerst freigeschaltet werden.",
+                                                                          "description":  "Verstärkt den Effekt des passiven Talents „Finsternis zersetzende Flamme“: Erhöht den von Clorinde verursachten Elektro-Schaden mit ihrem Standardangriff und den von Sterbende Lichtstrahlen um 30 % von Clorindes ANG, nachdem Truppenmitglieder in der Nähe bei Gegnern Elektro-Reaktionen ausgelöst haben. Dieser Effekt hält 15 s, 3-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Clorindes Unterbrechungs-WDS. Der max. Schaden-Bonus, der auf diese Weise für die oben genannten Angriffe erreicht werden kann, beträgt 2.700 Punkte.\nDas passive Talent „Finsternis zersetzende Flamme“ muss zuerst freigeschaltet werden."
+                                                                      },
+                                                               "c4":  {
+                                                                          "name":  "„In Erinnerung an die Tränen, das Leben und die Liebe“",
+                                                                          "descriptionRaw":  "#Verstärkt, wenn Clorinde Gegnern Schaden mit \u003ccolor=#FFD780FF\u003eSterbende Lichtstrahlen\u003c/color\u003e zufügt, diesen Schaden basierend auf dem aktuellen Prozentwert ihres Eids des Lebens: Erhöht für je 1{NON_BREAK_SPACE}% Eid des Lebens den mit \u003ccolor=#FFD780FF\u003eSterbende Lichtstrahlen\u003c/color\u003e zugefügten Schaden um 2{NON_BREAK_SPACE}%. Hierdurch kann der Schaden von \u003ccolor=#FFD780FF\u003eSterbende Lichtstrahlen\u003c/color\u003e um bis zu 200{NON_BREAK_SPACE}% erhöht werden.",
+                                                                          "description":  "Verstärkt, wenn Clorinde Gegnern Schaden mit Sterbende Lichtstrahlen zufügt, diesen Schaden basierend auf dem aktuellen Prozentwert ihres Eids des Lebens: Erhöht für je 1 % Eid des Lebens den mit Sterbende Lichtstrahlen zugefügten Schaden um 2 %. Hierdurch kann der Schaden von Sterbende Lichtstrahlen um bis zu 200 % erhöht werden."
+                                                                      },
+                                                               "c3":  {
+                                                                          "name":  "„Ich gelobe, mich an den Eid des Tageslichts zu erinnern“",
+                                                                          "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eNächtliche Jagd\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                          "description":  "Erhöht die Stufe der Fähigkeit Nächtliche Jagd um 3.\nHöchststufe 15."
+                                                                      },
+                                                               "c5":  {
+                                                                          "name":  "„Auch in Erinnerung an die kommende Morgenröte“",
+                                                                          "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eSterbende Lichtstrahlen\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                          "description":  "Erhöht die Stufe der Fähigkeit Sterbende Lichtstrahlen um 3.\nHöchststufe 15."
+                                                                      },
+                                                               "c6":  {
+                                                                          "name":  "„Lass die Hoffnung also niemals fahren“",
+                                                                          "descriptionRaw":  "#Verstärkt für 12{NON_BREAK_SPACE}s nach Einsatz von \u003ccolor=#FFD780FF\u003eNächtliche Jagd\u003c/color\u003e Clorindes KT um 10{NON_BREAK_SPACE}% und den KSCH um 70{NON_BREAK_SPACE}%.\nAußerdem wird während des Zustands Nachtpatrouille unter bestimmten Bedingungen ein Glimmlicht-Schatten erscheinen. Er greift Ziele an und fügt ihnen \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e in Höhe von 200{NON_BREAK_SPACE}% von Clorindes ANG zu. Hierdurch verursachter Schaden wird als Schaden des Standardangriffs gewertet.\nDer Glimmlicht-Schatten erscheint unter folgenden Bedingungen:\n· Clorinde wird bald von Angriffen getroffen.\n· Clorinde löst „Nächtliche Durchbohrung – Pakt“ aus.\nHierdurch kann jede 1{NON_BREAK_SPACE}s einmal ein Glimmlicht-Schatten beschworen werden. Während der Wirkungsdauer des Zustands Nachtpatrouille kann der Glimmlicht-Schatten bis zu 6 Mal beschworen werden.\nAußerdem wird während der Dauer des Zustands Nachtpatrouille Clorindes erlittener Schaden um 80{NON_BREAK_SPACE}% verringert und ihr Unterbrechungs-WDS erhöht. Dieser Effekt wird bei Ablauf des Zustands Nachtpatrouille oder 1{NON_BREAK_SPACE}s nach dem 6-maligen Beschwören des Glimmlicht-Schattens entfernt.",
+                                                                          "description":  "Verstärkt für 12 s nach Einsatz von Nächtliche Jagd Clorindes KT um 10 % und den KSCH um 70 %.\nAußerdem wird während des Zustands Nachtpatrouille unter bestimmten Bedingungen ein Glimmlicht-Schatten erscheinen. Er greift Ziele an und fügt ihnen Elektro-Schaden in Höhe von 200 % von Clorindes ANG zu. Hierdurch verursachter Schaden wird als Schaden des Standardangriffs gewertet.\nDer Glimmlicht-Schatten erscheint unter folgenden Bedingungen:\n· Clorinde wird bald von Angriffen getroffen.\n· Clorinde löst „Nächtliche Durchbohrung – Pakt“ aus.\nHierdurch kann jede 1 s einmal ein Glimmlicht-Schatten beschworen werden. Während der Wirkungsdauer des Zustands Nachtpatrouille kann der Glimmlicht-Schatten bis zu 6 Mal beschworen werden.\nAußerdem wird während der Dauer des Zustands Nachtpatrouille Clorindes erlittener Schaden um 80 % verringert und ihr Unterbrechungs-WDS erhöht. Dieser Effekt wird bei Ablauf des Zustands Nachtpatrouille oder 1 s nach dem 6-maligen Beschwören des Glimmlicht-Schattens entfernt."
+                                                                      },
+                                                               "c1":  {
+                                                                          "name":  "„Von heute an ziehe ich am Schattenschleier der Kerze vorbei“",
+                                                                          "descriptionRaw":  "#Verursacht Clorinde mit ihrem Standardangriff beim Treffen von Gegnern während des Zustands Nachtpatrouille von \u003ccolor=#FFD780FF\u003eNächtliche Jagd\u003c/color\u003e \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e, beschwört sie in der Nähe des getroffenen Gegners den Schatten der Nachtpatrouille, der zwei abgestimmte Angriffe ausführt, wovon jeder \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e in Höhe von 30{NON_BREAK_SPACE}% von Clorindes ANG verursacht.\n1,2{NON_BREAK_SPACE}s Abklingzeit. Hierdurch verursachter Schaden wird als Schaden des Standardangriffs gewertet.",
+                                                                          "description":  "Verursacht Clorinde mit ihrem Standardangriff beim Treffen von Gegnern während des Zustands Nachtpatrouille von Nächtliche Jagd Elektro-Schaden, beschwört sie in der Nähe des getroffenen Gegners den Schatten der Nachtpatrouille, der zwei abgestimmte Angriffe ausführt, wovon jeder Elektro-Schaden in Höhe von 30 % von Clorindes ANG verursacht.\n1,2 s Abklingzeit. Hierdurch verursachter Schaden wird als Schaden des Standardangriffs gewertet."
+                                                                      }
+                                                           },
+                                        "elementText":  "Elektro",
+                                        "fullname":  null,
+                                        "weaponText":  "Einhänder",
+                                        "name":  "Clorinde",
+                                        "substatText":  "KT",
+                                        "region":  "Fontaine",
+                                        "gender":  "Weiblich"
+                                    },
                        "sayu":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -5489,6 +5574,47 @@
                                             "region":  "Inazuma",
                                             "gender":  "Weiblich"
                                         },
+                       "zhongli":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Heimat der Jade",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eEinstürzender Himmel\u003c/color\u003e gibt aktuellen Figuren in der Nähe des Sturzes einen Jadeblock zum Schutz.",
+                                                                         "description":  "Einstürzender Himmel gibt aktuellen Figuren in der Nähe des Sturzes einen Jadeblock zum Schutz."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Gebrochen und doch hart",
+                                                                         "descriptionRaw":  "#Vergrößert den Wirkungsbereich von \u003ccolor=#FFD780FF\u003eEinstürzender Himmel\u003c/color\u003e um 20{NON_BREAK_SPACE}%.\nVerlängert den Effekt der Versteinerung von Einstürzender Himmel um 2 s.",
+                                                                         "description":  "Vergrößert den Wirkungsbereich von Einstürzender Himmel um 20 %.\nVerlängert den Effekt der Versteinerung von Einstürzender Himmel um 2 s."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Funkelnd und doch dunkel",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Dominus Lapidis um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Verkünder der Ordnung",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eEinstürzender Himmel\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Einstürzender Himmel um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Geschenk des Bodens",
+                                                                         "descriptionRaw":  "Stellt der aktuellen Figur LP in Höhe von 40 % des Schadens wieder her, wenn der Jadeblock Schaden erleidet.\nDie bei jeder Heilung wiederhergestellten LP können 8 % der max. LP der Figur nicht übersteigen.",
+                                                                         "description":  "Stellt der aktuellen Figur LP in Höhe von 40 % des Schadens wieder her, wenn der Jadeblock Schaden erleidet.\nDie bei jeder Heilung wiederhergestellten LP können 8 % der max. LP der Figur nicht übersteigen."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Skelett der Erde",
+                                                                         "descriptionRaw":  "Bis zu 2 Hügelkämme von \u003ccolor=#FFD780FF\u003eDominus Lapidis\u003c/color\u003e können gleichzeitig existieren.",
+                                                                         "description":  "Bis zu 2 Hügelkämme von Dominus Lapidis können gleichzeitig existieren."
+                                                                     }
+                                                          },
+                                       "elementText":  "Geo",
+                                       "fullname":  null,
+                                       "weaponText":  "Stangenwaffe",
+                                       "name":  "Zhongli",
+                                       "substatText":  "Geo-SCH-Bonus",
+                                       "region":  "Liyue",
+                                       "gender":  "Männlich"
+                                   },
                        "nahida":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5783,53 +5909,6 @@
                                                     },
                                              "effectName":  "Nicht ankommender Wind"
                                          },
-                    "finaleofthedeep":  {
-                                            "r3":  {
-                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 18 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 3,6 % der entfernten Summe, max. 225 Punkte, erhöht. Hält 15 s.",
-                                                       "values":  [
-                                                                      "18{NON_BREAK_SPACE}%",
-                                                                      "3,6{NON_BREAK_SPACE}%",
-                                                                      "225"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 24 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 4,8 % der entfernten Summe, max. 300 Punkte, erhöht. Hält 15 s.",
-                                                       "values":  [
-                                                                      "24{NON_BREAK_SPACE}%",
-                                                                      "4,8{NON_BREAK_SPACE}%",
-                                                                      "300"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 15 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 3 % der entfernten Summe, max. 187,5 Punkte, erhöht. Hält 15 s.",
-                                                       "values":  [
-                                                                      "15{NON_BREAK_SPACE}%",
-                                                                      "3{NON_BREAK_SPACE}%",
-                                                                      "187,5"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 21 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 4,2 % der entfernten Summe, max. 262,5 Punkte, erhöht. Hält 15 s.",
-                                                       "values":  [
-                                                                      "21{NON_BREAK_SPACE}%",
-                                                                      "4,2{NON_BREAK_SPACE}%",
-                                                                      "262,5"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ANG",
-                                            "weaponText":  "Einhänder",
-                                            "name":  "Finale in der Tiefe",
-                                            "effectTemplateRaw":  "#Erhöht beim Auslösen der Elementarfähigkeit den ANG um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, hält 15{NON_BREAK_SPACE}s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25{NON_BREAK_SPACE}% der max. LP. 10{NON_BREAK_SPACE}s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e der entfernten Summe, max. \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e Punkte, erhöht. Hält 15{NON_BREAK_SPACE}s.",
-                                            "r1":  {
-                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 12 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 2,4 % der entfernten Summe, max. 150 Punkte, erhöht. Hält 15 s.",
-                                                       "values":  [
-                                                                      "12{NON_BREAK_SPACE}%",
-                                                                      "2,4{NON_BREAK_SPACE}%",
-                                                                      "150"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Erhabenheit des Endes"
-                                        },
                     "ferrousshadow":  {
                                           "r3":  {
                                                      "description":  "Ein heftiger Schlag wird bei weniger als 80 % LP nicht so leicht abgewehrt. Erhöht den Schaden heftiger Schläge dabei um 40 %.",
@@ -7560,6 +7639,48 @@
                                                  },
                                           "effectName":  "Folge dem Wind"
                                       },
+                    "absolution":  {
+                                       "r3":  {
+                                                  "description":  "Erhöht den KSCH um 30 %. Erhöht den vom Träger verursachten Schaden um 24 %, wenn Eid des Lebens erhöht wird. Hält 6 s, 3-fach stapelbar.",
+                                                  "values":  [
+                                                                 "30{NON_BREAK_SPACE}%",
+                                                                 "24{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Erhöht den KSCH um 40 %. Erhöht den vom Träger verursachten Schaden um 32 %, wenn Eid des Lebens erhöht wird. Hält 6 s, 3-fach stapelbar.",
+                                                  "values":  [
+                                                                 "40{NON_BREAK_SPACE}%",
+                                                                 "32{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Erhöht den KSCH um 25 %. Erhöht den vom Träger verursachten Schaden um 20 %, wenn Eid des Lebens erhöht wird. Hält 6 s, 3-fach stapelbar.",
+                                                  "values":  [
+                                                                 "25{NON_BREAK_SPACE}%",
+                                                                 "20{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Erhöht den KSCH um 35 %. Erhöht den vom Träger verursachten Schaden um 28 %, wenn Eid des Lebens erhöht wird. Hält 6 s, 3-fach stapelbar.",
+                                                  "values":  [
+                                                                 "35{NON_BREAK_SPACE}%",
+                                                                 "28{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "substatText":  "KSCH",
+                                       "weaponText":  "Einhänder",
+                                       "name":  "Absolution",
+                                       "effectTemplateRaw":  "#Erhöht den KSCH um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Erhöht den vom Träger verursachten Schaden um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, wenn Eid des Lebens erhöht wird. Hält 6{NON_BREAK_SPACE}s, 3-fach stapelbar.",
+                                       "r1":  {
+                                                  "description":  "Erhöht den KSCH um 20 %. Erhöht den vom Träger verursachten Schaden um 16 %, wenn Eid des Lebens erhöht wird. Hält 6 s, 3-fach stapelbar.",
+                                                  "values":  [
+                                                                 "20{NON_BREAK_SPACE}%",
+                                                                 "16{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "effectName":  "Eid des Todes"
+                                   },
                     "freedomsworn":  {
                                          "r3":  {
                                                     "description":  "Ein Teil der „Bewegung des Jahrtausends“, die mit dem Wind zieht. Erhöht den verursachten Schaden um 15 %. Gibt der damit ausgerüsteten Figur beim Auslösen von Elementarreaktionen ein Zeichen der Revolte, 0,5 s Abklingzeit. Der Effekt bleibt auch bestehen, wenn die Figur ausgewechselt wird. Verbraucht alle Zeichen der Revolte, sobald 2 davon vorhanden sind, und verleiht allen Truppenmitgliedern in der Nähe den 12 s anhaltenden Effekt von „Bewegung des Jahrtausends – Lied der Revolution“: Erhöht den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden um 24 % und den ANG um 30 %. Nach Auslösen dieses Effekts kann 20 s lang kein weiteres Zeichen der Revolte erhalten werden. Die verschiedenen durch „Bewegung des Jahrtausends“ ausgelösten Boni können bei gleicher Art nicht gestapelt werden.",
@@ -8598,6 +8719,58 @@
                                                 },
                                          "effectName":  "Majestätische Größe"
                                      },
+                    "skywardspine":  {
+                                         "r3":  {
+                                                    "description":  "Erhöht die KT um 12 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 70 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+                                                    "values":  [
+                                                                   "12 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "70 %"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Erhöht die KT um 16 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 100 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+                                                    "values":  [
+                                                                   "16 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "100 %"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Erhöht die KT um 10 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 55 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+                                                    "values":  [
+                                                                   "10 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "55 %"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Erhöht die KT um 14 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 85 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+                                                    "values":  [
+                                                                   "14 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "85 %"
+                                                               ]
+                                                },
+                                         "substatText":  "Aufladerate",
+                                         "weaponText":  "Stangenwaffe",
+                                         "name":  "Himmelsgrat",
+                                         "effectTemplateRaw":  "Erhöht die KT um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e und die Standardangriffs-GSW um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e ANG mit geringer Reichweite. 2 s Abklingzeit.",
+                                         "r1":  {
+                                                    "description":  "Erhöht die KT um 8 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 40 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
+                                                    "values":  [
+                                                                   "8 %",
+                                                                   "12 %",
+                                                                   "50 %",
+                                                                   "40 %"
+                                                               ]
+                                                },
+                                         "effectName":  "Flügelbrecher"
+                                     },
                     "kitaincrossspear":  {
                                              "r3":  {
                                                         "description":  "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 9 %. Zieht der Figur bei Treffern mit einer Elementarfähigkeit 3 Punkte Elementarenergie ab und stellt im Gegenzug 6 s lang alle 2 s 4 Punkte Elementarenergie wieder her. Dieser Effekt kann nur einmal alle 10 s ausgelöst werden, auch von Figuren, die sich in deiner Truppe, aber nicht im Kampf befinden.",
@@ -8839,6 +9012,43 @@
                                                               ]
                                                },
                                         "effectName":  "Schärfe"
+                                    },
+                    "cloudforged":  {
+                                        "r3":  {
+                                                   "description":  "Erhöht die Elementarkunde des Trägers um 60 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+                                                   "values":  [
+                                                                  "60"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Erhöht die Elementarkunde des Trägers um 80 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+                                                   "values":  [
+                                                                  "80"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Erhöht die Elementarkunde des Trägers um 50 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+                                                   "values":  [
+                                                                  "50"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Erhöht die Elementarkunde des Trägers um 70 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+                                                   "values":  [
+                                                                  "70"
+                                                              ]
+                                               },
+                                        "substatText":  "Elementarkunde",
+                                        "weaponText":  "Bogen",
+                                        "name":  "Wolkenweber",
+                                        "effectTemplateRaw":  "#Erhöht die Elementarkunde des Trägers um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e Punkte, wenn sich dessen Elementarenergie verringert, hält 18{NON_BREAK_SPACE}s, 2-fach stapelbar.",
+                                        "r1":  {
+                                                   "description":  "Erhöht die Elementarkunde des Trägers um 40 Punkte, wenn sich dessen Elementarenergie verringert, hält 18 s, 2-fach stapelbar.",
+                                                   "values":  [
+                                                                  "40"
+                                                              ]
+                                               },
+                                        "effectName":  "Aus Fels wird Werkstatt"
                                     },
                     "twinnephrite":  {
                                          "r3":  {
@@ -9760,58 +9970,53 @@
                                                },
                                         "effectName":  "Widerhallende Ballade"
                                     },
-                    "skywardspine":  {
-                                         "r3":  {
-                                                    "description":  "Erhöht die KT um 12 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 70 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
-                                                    "values":  [
-                                                                   "12 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "70 %"
-                                                               ]
-                                                },
-                                         "r5":  {
-                                                    "description":  "Erhöht die KT um 16 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 100 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
-                                                    "values":  [
-                                                                   "16 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "100 %"
-                                                               ]
-                                                },
-                                         "r2":  {
-                                                    "description":  "Erhöht die KT um 10 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 55 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
-                                                    "values":  [
-                                                                   "10 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "55 %"
-                                                               ]
-                                                },
-                                         "r4":  {
-                                                    "description":  "Erhöht die KT um 14 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 85 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
-                                                    "values":  [
-                                                                   "14 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "85 %"
-                                                               ]
-                                                },
-                                         "substatText":  "Aufladerate",
-                                         "weaponText":  "Stangenwaffe",
-                                         "name":  "Himmelsgrat",
-                                         "effectTemplateRaw":  "Erhöht die KT um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e und die Standardangriffs-GSW um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e ANG mit geringer Reichweite. 2 s Abklingzeit.",
-                                         "r1":  {
-                                                    "description":  "Erhöht die KT um 8 % und die Standardangriffs-GSW um 12 %. Wendet beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Vakuumklinge an und verursacht zusätzlichen Schaden in Höhe von 40 % ANG mit geringer Reichweite. 2 s Abklingzeit.",
-                                                    "values":  [
-                                                                   "8 %",
-                                                                   "12 %",
-                                                                   "50 %",
-                                                                   "40 %"
-                                                               ]
-                                                },
-                                         "effectName":  "Flügelbrecher"
-                                     },
+                    "finaleofthedeep":  {
+                                            "r3":  {
+                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 18 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 3,6 % der entfernten Summe, max. 225 Punkte, erhöht. Hält 15 s.",
+                                                       "values":  [
+                                                                      "18{NON_BREAK_SPACE}%",
+                                                                      "3,6{NON_BREAK_SPACE}%",
+                                                                      "225"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 24 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 4,8 % der entfernten Summe, max. 300 Punkte, erhöht. Hält 15 s.",
+                                                       "values":  [
+                                                                      "24{NON_BREAK_SPACE}%",
+                                                                      "4,8{NON_BREAK_SPACE}%",
+                                                                      "300"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 15 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 3 % der entfernten Summe, max. 187,5 Punkte, erhöht. Hält 15 s.",
+                                                       "values":  [
+                                                                      "15{NON_BREAK_SPACE}%",
+                                                                      "3{NON_BREAK_SPACE}%",
+                                                                      "187,5"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 21 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 4,2 % der entfernten Summe, max. 262,5 Punkte, erhöht. Hält 15 s.",
+                                                       "values":  [
+                                                                      "21{NON_BREAK_SPACE}%",
+                                                                      "4,2{NON_BREAK_SPACE}%",
+                                                                      "262,5"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ANG",
+                                            "weaponText":  "Einhänder",
+                                            "name":  "Finale in der Tiefe",
+                                            "effectTemplateRaw":  "#Erhöht beim Auslösen der Elementarfähigkeit den ANG um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, hält 15{NON_BREAK_SPACE}s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25{NON_BREAK_SPACE}% der max. LP. 10{NON_BREAK_SPACE}s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e der entfernten Summe, max. \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e Punkte, erhöht. Hält 15{NON_BREAK_SPACE}s.",
+                                            "r1":  {
+                                                       "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 12 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 25 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der ANG um 2,4 % der entfernten Summe, max. 150 Punkte, erhöht. Hält 15 s.",
+                                                       "values":  [
+                                                                      "12{NON_BREAK_SPACE}%",
+                                                                      "2,4{NON_BREAK_SPACE}%",
+                                                                      "150"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Erhabenheit des Endes"
+                                        },
                     "everlastingmoonglow":  {
                                                 "r3":  {
                                                            "description":  "Erhöht den Heilungseffekt um 15 %. Erhöht den mit Standardangriffen verursachten Schaden um 2 % der max. LP der mit dieser Waffe ausgerüsteten Figur. Stellt nach Anwendung von Spezialfähigkeiten 12 s lang beim Treffen von Gegnern mit Standardangriffen 0,6 Punkte Elementarenergie wieder her. Stellt auf diese Weise alle 0,1 s höchstens einmal Elementarenergie wieder her.",
@@ -11664,6 +11869,48 @@
                                              },
                                       "effectName":  "Energieschubstachel"
                                   },
+                    "silvershowerheartstrings":  {
+                                                     "r3":  {
+                                                                "description":  "Verleiht dem Träger „Behandlung“. Erhöht die max. LP des Trägers bei 1/2/3 Stapelungen Behandlung um jeweils 18/36/60 %. Bedingungen zum Verleihen einer Stapelung Behandlung: Beim Auslösen der Elementarfähigkeit, hält 25 s; bei Erhöhung des Werts von Eid des Lebens, hält 25 s; bei aktiver Heilung durch den Träger, hält 20 s. Kann auch dann ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die Wirkungsdauer jeder Stapelung Behandlung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Behandlung außerdem die KT der Spezialfähigkeit um 42 %. Bei weniger als 3 Stapelungen Behandlung wird der Effekt nach 4 s entfernt.",
+                                                                "values":  [
+                                                                               "18/36/60{NON_BREAK_SPACE}%",
+                                                                               "42{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "r5":  {
+                                                                "description":  "Verleiht dem Träger „Behandlung“. Erhöht die max. LP des Trägers bei 1/2/3 Stapelungen Behandlung um jeweils 24/48/80 %. Bedingungen zum Verleihen einer Stapelung Behandlung: Beim Auslösen der Elementarfähigkeit, hält 25 s; bei Erhöhung des Werts von Eid des Lebens, hält 25 s; bei aktiver Heilung durch den Träger, hält 20 s. Kann auch dann ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die Wirkungsdauer jeder Stapelung Behandlung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Behandlung außerdem die KT der Spezialfähigkeit um 56 %. Bei weniger als 3 Stapelungen Behandlung wird der Effekt nach 4 s entfernt.",
+                                                                "values":  [
+                                                                               "24/48/80{NON_BREAK_SPACE}%",
+                                                                               "56{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "r2":  {
+                                                                "description":  "Verleiht dem Träger „Behandlung“. Erhöht die max. LP des Trägers bei 1/2/3 Stapelungen Behandlung um jeweils 15/30/50 %. Bedingungen zum Verleihen einer Stapelung Behandlung: Beim Auslösen der Elementarfähigkeit, hält 25 s; bei Erhöhung des Werts von Eid des Lebens, hält 25 s; bei aktiver Heilung durch den Träger, hält 20 s. Kann auch dann ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die Wirkungsdauer jeder Stapelung Behandlung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Behandlung außerdem die KT der Spezialfähigkeit um 35 %. Bei weniger als 3 Stapelungen Behandlung wird der Effekt nach 4 s entfernt.",
+                                                                "values":  [
+                                                                               "15/30/50{NON_BREAK_SPACE}%",
+                                                                               "35{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "r4":  {
+                                                                "description":  "Verleiht dem Träger „Behandlung“. Erhöht die max. LP des Trägers bei 1/2/3 Stapelungen Behandlung um jeweils 21/42/70 %. Bedingungen zum Verleihen einer Stapelung Behandlung: Beim Auslösen der Elementarfähigkeit, hält 25 s; bei Erhöhung des Werts von Eid des Lebens, hält 25 s; bei aktiver Heilung durch den Träger, hält 20 s. Kann auch dann ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die Wirkungsdauer jeder Stapelung Behandlung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Behandlung außerdem die KT der Spezialfähigkeit um 49 %. Bei weniger als 3 Stapelungen Behandlung wird der Effekt nach 4 s entfernt.",
+                                                                "values":  [
+                                                                               "21/42/70{NON_BREAK_SPACE}%",
+                                                                               "49{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "substatText":  "LP",
+                                                     "weaponText":  "Bogen",
+                                                     "name":  "Tröpfelnde Herzsaiten",
+                                                     "effectTemplateRaw":  "#Verleiht dem Träger „Behandlung“. Erhöht die max. LP des Trägers bei 1/2/3 Stapelungen Behandlung um jeweils \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Bedingungen zum Verleihen einer Stapelung Behandlung: Beim Auslösen der Elementarfähigkeit, hält 25{NON_BREAK_SPACE}s; bei Erhöhung des Werts von Eid des Lebens, hält 25{NON_BREAK_SPACE}s; bei aktiver Heilung durch den Träger, hält 20{NON_BREAK_SPACE}s. Kann auch dann ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die Wirkungsdauer jeder Stapelung Behandlung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Behandlung außerdem die KT der Spezialfähigkeit um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Bei weniger als 3 Stapelungen Behandlung wird der Effekt nach 4{NON_BREAK_SPACE}s entfernt.",
+                                                     "r1":  {
+                                                                "description":  "Verleiht dem Träger „Behandlung“. Erhöht die max. LP des Trägers bei 1/2/3 Stapelungen Behandlung um jeweils 12/24/40 %. Bedingungen zum Verleihen einer Stapelung Behandlung: Beim Auslösen der Elementarfähigkeit, hält 25 s; bei Erhöhung des Werts von Eid des Lebens, hält 25 s; bei aktiver Heilung durch den Träger, hält 20 s. Kann auch dann ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die Wirkungsdauer jeder Stapelung Behandlung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Behandlung außerdem die KT der Spezialfähigkeit um 28 %. Bei weniger als 3 Stapelungen Behandlung wird der Effekt nach 4 s entfernt.",
+                                                                "values":  [
+                                                                               "12/24/40{NON_BREAK_SPACE}%",
+                                                                               "28{NON_BREAK_SPACE}%"
+                                                                           ]
+                                                            },
+                                                     "effectName":  "Dryas’ Nachtmusik"
+                                                 },
                     "prizedisshinblade":  {
                                               "r3":  null,
                                               "r5":  null,

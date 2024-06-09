@@ -590,9 +590,6 @@
                       "adventureexp":  {
                                            "name":  "Macera TP"
                                        },
-                      "oasisgardenstruth":  {
-                                                "name":  "Vaha Bahçesi Gerçeği"
-                                            },
                       "stormbeads":  {
                                          "name":  "Fırtına İncileri"
                                      },
@@ -662,12 +659,15 @@
                       "lightningprism":  {
                                              "name":  "Şimşek Prizması"
                                          },
-                      "windwheelastersaroma":  {
-                                                   "name":  "Rüzgargülü Çiçeği Rayihası"
-                                               },
+                      "valberry":  {
+                                       "name":  "Valyemiş"
+                                   },
                       "stainedmask":  {
                                           "name":  "Lekeli Maske"
                                       },
+                      "windwheelastersaroma":  {
+                                                   "name":  "Rüzgargülü Çiçeği Rayihası"
+                                               },
                       "cleansingheart":  {
                                              "name":  "Saf Su Kalbi"
                                          },
@@ -677,9 +677,9 @@
                       "dreamsolvent":  {
                                            "name":  "Rüya Çözücü"
                                        },
-                      "valberry":  {
-                                       "name":  "Valyemiş"
-                                   },
+                      "northlanderswordbillet":  {
+                                                     "name":  "Kuzey Diyarı Kılıç Prototipi"
+                                                 },
                       "acquaintfate":  {
                                            "name":  "Buluşma Yazgısı"
                                        },
@@ -1109,9 +1109,9 @@
                       "brokengobletofthepristinesea":  {
                                                            "name":  "Saf Denizin Kırık Kadehi"
                                                        },
-                      "starshroom":  {
-                                         "name":  "Yıldız Mantarı"
-                                     },
+                      "silkenfeather":  {
+                                            "name":  "İpek Tüy"
+                                        },
                       "betta":  {
                                     "name":  "Kavgacı Dikence Balığı"
                                 },
@@ -1577,9 +1577,9 @@
                       "shadowofthewarrior":  {
                                                  "name":  "Savaşçının Gölgesi"
                                              },
-                      "maplewood":  {
-                                        "name":  "Akçaağaç Kütüğü"
-                                    },
+                      "lumidoucebell":  {
+                                            "name":  "Lumidouce Çanı"
+                                        },
                       "rimewornfragment":  {
                                                "name":  "Kırağı Parçası"
                                            },
@@ -1589,9 +1589,9 @@
                       "borealwolfsmilktooth":  {
                                                    "name":  "Kutup Kurdunun Süt Dişi"
                                                },
-                      "northlanderswordbillet":  {
-                                                     "name":  "Kuzey Diyarı Kılıç Prototipi"
-                                                 },
+                      "maplewood":  {
+                                        "name":  "Akçaağaç Kütüğü"
+                                    },
                       "trimmedredsilk":  {
                                              "name":  "İşlemeli Kırmızı İpek"
                                          },
@@ -1712,9 +1712,9 @@
                       "lindenwood":  {
                                          "name":  "Ihlamur Ağacı Kütüğü"
                                      },
-                      "silkenfeather":  {
-                                            "name":  "İpek Tüy"
-                                        },
+                      "camandcablesoflaw":  {
+                                                "name":  "Kalibrasyon Parçası"
+                                            },
                       "ironchunk":  {
                                         "name":  "Demir Parçası"
                                     },
@@ -1889,12 +1889,15 @@
                       "prithivatopazchunk":  {
                                                  "name":  "Prithiva Topazı Parçası"
                                              },
-                      "lumidoucebell":  {
-                                            "name":  "Lumidouce Çanı"
-                                        },
+                      "oasisgardenstruth":  {
+                                                "name":  "Vaha Bahçesi Gerçeği"
+                                            },
                       "cheese":  {
                                      "name":  "Peynir"
                                  },
+                      "starshroom":  {
+                                         "name":  "Yıldız Mantarı"
+                                     },
                       "marionettecore":  {
                                              "name":  "Kukla Çekirdeği"
                                          },
@@ -2542,6 +2545,47 @@
                                      "region":  "Mondstadt",
                                      "gender":  "erkek"
                                  },
+                       "sigewinne":  {
+                                         "constellations":  {
+                                                                "c2":  {
+                                                                           "name":  "\"Ruhların En Merhametlisi Düşmanı Yenebilir Mi?\"",
+                                                                           "descriptionRaw":  "Sigewinne \u003ccolor=#FFD780FF\u003eZıplayan Hidroterapi\u003c/color\u003e ve \u003ccolor=#FFD780FF\u003eAşırı Doygun Şırınga\u003c/color\u003e kullandığında Maks. Canının %30\u0027una denk miktarda bir Baloncuk Kalkanı oluşturur. Bu kalkan \u003ccolor=#80C0FFFF\u003eSu Hasarını\u003c/color\u003e %250 verimlilikle emer. Baloncuk Kalkanı, Sigewinne ilgili becerileri kullanmayı bitirene kadar sürer.\nAyrıca Zıplayan Hidroterapi becerisi ile oluşan Canlandıran Baloncuk veya Aşırı Doygun Şırınga bir düşmana isabet ettikten sonra 8sn boyunca düşmanın \u003ccolor=#80C0FFFF\u003eSu Direnci\u003c/color\u003e %35 azalır.",
+                                                                           "description":  "Sigewinne Zıplayan Hidroterapi ve Aşırı Doygun Şırınga kullandığında Maks. Canının %30\u0027una denk miktarda bir Baloncuk Kalkanı oluşturur. Bu kalkan Su Hasarını %250 verimlilikle emer. Baloncuk Kalkanı, Sigewinne ilgili becerileri kullanmayı bitirene kadar sürer.\nAyrıca Zıplayan Hidroterapi becerisi ile oluşan Canlandıran Baloncuk veya Aşırı Doygun Şırınga bir düşmana isabet ettikten sonra 8sn boyunca düşmanın Su Direnci %35 azalır."
+                                                                       },
+                                                                "c4":  {
+                                                                           "name":  "\"Ruhların En Sevimlisi Çürümeyi Yavaşlatabilir Mi?\"",
+                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAşırı Doygun Şırınga\u003c/color\u003e süresi 3sn uzar.",
+                                                                           "description":  "Aşırı Doygun Şırınga süresi 3sn uzar."
+                                                                       },
+                                                                "c3":  {
+                                                                           "name":  "\"Ruhların En Sağlıklısı Ateşi Düşürebilir Mi?\"",
+                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eZıplayan Hidroterapi\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                           "description":  "Zıplayan Hidroterapi Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                       },
+                                                                "c5":  {
+                                                                           "name":  "\"Ruhların En Neşelisi Acıyı Dindirebilir Mi?\"",
+                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAşırı Doygun Şırınga\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                           "description":  "Aşırı Doygun Şırınga Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                       },
+                                                                "c6":  {
+                                                                           "name":  "\"Ruhların En Parlağı Benim İçin Dua Edebilir Mi?\"",
+                                                                           "descriptionRaw":  "Sigewinne bir iyileştirme gerçekleştirdiğinde kendi Maks. Canına bağlı olarak \u003ccolor=#FFD780FF\u003eAşırı Doygun Şırınga\u003c/color\u003e becerisinin Kritik Oranı ve Kritik Hasarı artar. 15sn boyunca sahip olduğu her 1.000 Maks. Can başına Kritik Oranı %0,4, Kritik Hasarı %2,2 artar. Bu şekilde alınabilecek en yüksek Kritik Oranı artışı %20, Kritik Hasar artışı %110 olabilir.",
+                                                                           "description":  "Sigewinne bir iyileştirme gerçekleştirdiğinde kendi Maks. Canına bağlı olarak Aşırı Doygun Şırınga becerisinin Kritik Oranı ve Kritik Hasarı artar. 15sn boyunca sahip olduğu her 1.000 Maks. Can başına Kritik Oranı %0,4, Kritik Hasarı %2,2 artar. Bu şekilde alınabilecek en yüksek Kritik Oranı artışı %20, Kritik Hasar artışı %110 olabilir."
+                                                                       },
+                                                                "c1":  {
+                                                                           "name":  "\"Ruhların En Mutlusu Endişe Nedir Bilir Mi?\"",
+                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eZıplayan Hidroterapi\u003c/color\u003e becerisiyle oluşan Canlandıran Baloncuk 3 defa daha seker ve ilk 3 sekme sırasında büyük Baloncuklar küçülmez.\n\"Bol Bol İstirahat\" Pasif Yeteneği güçlenir: Baloncuk her sektiğinde 1 kademe Toparlanma eklenir ve Toparlanma kademelerinin verdiği Hasar bonusu değerleri şu şekilde değişir: Sigewinne\u0027in 30.000\u0027in üzerindeki her 1.000 Maks. Canı için Hasar 100 artar. Element Becerileri için bu şekilde en fazla 3.500 Hasar artışı kazanılabilir. \"Bol Bol İstirahat\" Pasif Yeteneğinin açılmış olması gerekir.",
+                                                                           "description":  "Zıplayan Hidroterapi becerisiyle oluşan Canlandıran Baloncuk 3 defa daha seker ve ilk 3 sekme sırasında büyük Baloncuklar küçülmez.\n\"Bol Bol İstirahat\" Pasif Yeteneği güçlenir: Baloncuk her sektiğinde 1 kademe Toparlanma eklenir ve Toparlanma kademelerinin verdiği Hasar bonusu değerleri şu şekilde değişir: Sigewinne\u0027in 30.000\u0027in üzerindeki her 1.000 Maks. Canı için Hasar 100 artar. Element Becerileri için bu şekilde en fazla 3.500 Hasar artışı kazanılabilir. \"Bol Bol İstirahat\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                       }
+                                                            },
+                                         "elementText":  "Su",
+                                         "fullname":  null,
+                                         "weaponText":  "Yay",
+                                         "name":  "Sigewinne",
+                                         "substatText":  "Can",
+                                         "region":  "Fontaine",
+                                         "gender":  "kadın"
+                                     },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3765,47 +3809,47 @@
                                        "region":  "Fontaine",
                                        "gender":  "kadın"
                                    },
-                       "zhongli":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Yeşimin Beşiği Taş",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eDüşen Gezegen\u003c/color\u003e çarptığında savaş alanında ve yakında bulunan karakterlere Yeşim Kalkan sağlar.",
-                                                                         "description":  "Düşen Gezegen çarptığında savaş alanında ve yakında bulunan karakterlere Yeşim Kalkan sağlar."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Sarsılmaz ve Korkusuz Topaz",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eDüşen Gezegen\u003c/color\u003e becerisinin Etki Alanı %20 artırır. Becerinin verdiği Taşlaşma etkisinin süresi de 2sn uzar.",
-                                                                         "description":  "Düşen Gezegen becerisinin Etki Alanı %20 artırır. Becerinin verdiği Taşlaşma etkisinin süresi de 2sn uzar."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Karanlıkta Parlayan Yeşim",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eTaşların Efendisi\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
-                                                                         "description":  "Taşların Efendisi Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Düzenin Habercisi Gökcevher",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eDüşen Gezegen\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
-                                                                         "description":  "Düşen Gezegen Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Hükmedenin Mükafatı Altın",
-                                                                         "descriptionRaw":  "Yeşim Kalkan Hasar aldığında gelen Hasarın %40\u0027ı mevcut karakter için Cana dönüşür.\nYenilenme miktarı tek seferde karakterin Maks. Canının %8\u0027ini aşamaz.",
-                                                                         "description":  "Yeşim Kalkan Hasar aldığında gelen Hasarın %40\u0027ı mevcut karakter için Cana dönüşür.\nYenilenme miktarı tek seferde karakterin Maks. Canının %8\u0027ini aşamaz."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Dünyanın Omurgası Kaya",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eTaşların Efendisi\u003c/color\u003e becerisinin oluşturduğu ve aynı anda alanda olabilecek maksimum Dikili Taş sayısı 2\u0027ye yükseltir.",
-                                                                         "description":  "Taşların Efendisi becerisinin oluşturduğu ve aynı anda alanda olabilecek maksimum Dikili Taş sayısı 2\u0027ye yükseltir."
-                                                                     }
-                                                          },
-                                       "elementText":  "Toprak",
-                                       "fullname":  null,
-                                       "weaponText":  "Mızrak",
-                                       "name":  "Zhongli",
-                                       "substatText":  "Toprak Hasarı Bonusu",
-                                       "region":  "Liyue",
-                                       "gender":  "erkek"
-                                   },
+                       "sethos":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Papirüse Yazılı Yasaklı Sırlar",
+                                                                        "descriptionRaw":  "Aşağıdaki koşullar karşılandığında Sethos 10sn boyunca %15 \u003ccolor=#FFACFFFF\u003eElektrik Hasarı Bonusu\u003c/color\u003e kazanır (2 kademeye kadar birikebilir, kademelerin süresi bağımsızdır):\n·Hedefli Atışlar aracılığıyla Element Enerjisi tüketmek; bu koşulun tetiklenmesi için önce \"Kara Çaylağın Sırrı\" Pasif Yeteneğinin açılmış olması gerekir.\n·\u003ccolor=#FFD780FF\u003eKadim Ayin: Gürleyen Kumlar\u003c/color\u003e aracılığıyla Element Tepkimeleri tetikleyerek Element Enerjisi yenilemek.\n·\u003ccolor=#FFD780FF\u003eSaklı Ayin: Gölgedelen Alacakaranlık\u003c/color\u003e kullanmak.",
+                                                                        "description":  "Aşağıdaki koşullar karşılandığında Sethos 10sn boyunca %15 Elektrik Hasarı Bonusu kazanır (2 kademeye kadar birikebilir, kademelerin süresi bağımsızdır):\n·Hedefli Atışlar aracılığıyla Element Enerjisi tüketmek; bu koşulun tetiklenmesi için önce \"Kara Çaylağın Sırrı\" Pasif Yeteneğinin açılmış olması gerekir.\n·Kadim Ayin: Gürleyen Kumlar aracılığıyla Element Tepkimeleri tetikleyerek Element Enerjisi yenilemek.\n·Saklı Ayin: Gölgedelen Alacakaranlık kullanmak."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Uğurlu Tüyler",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eGölgedelen Atışı\u003c/color\u003e ya da \u003ccolor=#FFD780FF\u003eGün Batımı Oku\u003c/color\u003e 2 veya daha fazla düşmana isabet ettiğinde yakındaki tüm grup üyeleri 10 saniyeliğine 80 Element Ustalığı kazanır.",
+                                                                        "description":  "Gölgedelen Atışı ya da Gün Batımı Oku 2 veya daha fazla düşmana isabet ettiğinde yakındaki tüm grup üyeleri 10 saniyeliğine 80 Element Ustalığı kazanır."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Yükselen Ay Bilgesine Övgü",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eNormal Saldırı: Kraliyet Saz Okçuluğu\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                        "description":  "Normal Saldırı: Kraliyet Saz Okçuluğu Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Yalnız Tanrının Yakan Kum Günlükleri",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSaklı Ayin: Gölgedelen Alacakaranlık\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                        "description":  "Saklı Ayin: Gölgedelen Alacakaranlık Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Sürgün Güneş Tapınağının Büyük Kitabı",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eGölgedelen Atışı\u003c/color\u003e bir düşmana isabet ettiğinde, \"Kara Çaylağın Sırrı\" Pasif Yeteneği tarafından tüketilen Element Enerjisi iade edilir. Bu etki her 15 saniyede bir tetiklenebilir. \"Kara Çaylağın Sırrı\" Pasif Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "Gölgedelen Atışı bir düşmana isabet ettiğinde, \"Kara Çaylağın Sırrı\" Pasif Yeteneği tarafından tüketilen Element Enerjisi iade edilir. Bu etki her 15 saniyede bir tetiklenebilir. \"Kara Çaylağın Sırrı\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Mühürlü Tapınağın İlahisi",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eGölgedelen Atışının\u003c/color\u003e Kritik Oranı %15 artar.",
+                                                                        "description":  "Gölgedelen Atışının Kritik Oranı %15 artar."
+                                                                    }
+                                                         },
+                                      "elementText":  "Elektrik",
+                                      "fullname":  null,
+                                      "weaponText":  "Yay",
+                                      "name":  "Sethos",
+                                      "substatText":  "Element Ustalığı",
+                                      "region":  "Sumeru",
+                                      "gender":  "erkek"
+                                  },
                        "chongyun":  {
                                         "constellations":  {
                                                                "c2":  {
@@ -5325,6 +5369,47 @@
                                        "region":  "Mondstadt",
                                        "gender":  "erkek"
                                    },
+                       "clorinde":  {
+                                        "constellations":  {
+                                                               "c2":  {
+                                                                          "name":  "\"Uzun Gecenin Tehlikeleriyle Yüzleştim\"",
+                                                                          "descriptionRaw":  "\"Karanlığı Yaran Alev\" Pasif Yeteneği güçlenir: Yakındaki bir grup üyesi düşman üzerinde \u003ccolor=#FFACFFFF\u003eElektrikle ilgili bir tepkime\u003c/color\u003e tetiklediğinde 15sn boyunca Clorinde\u0027in Normal Saldırıları ve \u003ccolor=#FFD780FF\u003eSon Parıltı\u003c/color\u003e ile verilen \u003ccolor=#FFACFFFF\u003eElektrik Hasarı\u003c/color\u003e Clorinde\u0027in Saldırısının %30\u0027u kadar artar. En fazla 3 kademeye kadar birikir, her kademenin süresi birbirinden bağımsızdır. 3 kademe biriktiğinde Clorinde\u0027in müdahaleye karşı olan direnci artar. Bu saldırılar için kazanılabilecek Maksimum Hasar artışı 2.700 olabilir.\n\"Karanlığı Yaran Alev\" Pasif Yeteneğinin açılmış olması gerekir.",
+                                                                          "description":  "\"Karanlığı Yaran Alev\" Pasif Yeteneği güçlenir: Yakındaki bir grup üyesi düşman üzerinde Elektrikle ilgili bir tepkime tetiklediğinde 15sn boyunca Clorinde\u0027in Normal Saldırıları ve Son Parıltı ile verilen Elektrik Hasarı Clorinde\u0027in Saldırısının %30\u0027u kadar artar. En fazla 3 kademeye kadar birikir, her kademenin süresi birbirinden bağımsızdır. 3 kademe biriktiğinde Clorinde\u0027in müdahaleye karşı olan direnci artar. Bu saldırılar için kazanılabilecek Maksimum Hasar artışı 2.700 olabilir.\n\"Karanlığı Yaran Alev\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                      },
+                                                               "c4":  {
+                                                                          "name":  "\"Gözyaşı, Hayat ve Aşk Adına\"",
+                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSon Parıltı\u003c/color\u003e becerisiyle düşmana Hasar verildiğinde bu Hasar, Clorinde\u0027in sahip olduğu Hayat Bağı yüzdesine göre artar. Mevcut her %1 Hayat Bağı için \u003ccolor=#FFD780FF\u003eSon Parıltı\u003c/color\u003e Hasarı %2 artar. Bu şekilde elde edilebilecek en fazla \u003ccolor=#FFD780FF\u003eSon Parıltı\u003c/color\u003e Hasarı artışı %200 olabilir.",
+                                                                          "description":  "Son Parıltı becerisiyle düşmana Hasar verildiğinde bu Hasar, Clorinde\u0027in sahip olduğu Hayat Bağı yüzdesine göre artar. Mevcut her %1 Hayat Bağı için Son Parıltı Hasarı %2 artar. Bu şekilde elde edilebilecek en fazla Son Parıltı Hasarı artışı %200 olabilir."
+                                                                      },
+                                                               "c3":  {
+                                                                          "name":  "\"Gün Işığı Yeminini Unutmayacağıma Ant İçtim\"",
+                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAvcının Nöbeti\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                          "description":  "Avcının Nöbeti Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                      },
+                                                               "c5":  {
+                                                                          "name":  "\"Kendimi Doğacak Güneşe Adamayı Seçtim\"",
+                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSon Parıltının\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                          "description":  "Son Parıltının Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                      },
+                                                               "c6":  {
+                                                                          "name":  "\"Umutsuzluğa Kapılmayacağım Asla\"",
+                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAvcının Nöbeti\u003c/color\u003e kullanıldıktan sonra 12sn boyunca Clorinde\u0027in Kritik Oranı %10, Kritik Hasarı %70 artar.\nAyrıca Gece Nöbeti etkinken belirli koşullarda bir Mum Gölgesi ortaya çıkarak Clorinde\u0027in Saldırısının %200\u0027ü kadar \u003ccolor=#FFACFFFF\u003eElektrik Hasarı\u003c/color\u003e veren bir saldırı gerçekleştirir. Bu şekilde verilen Hasar, Normal Saldırı Hasarı sayılır.\nŞu koşullar sağlandığında Mum Gölgesi ortaya çıkar:\n·Clorinde bir saldırıdan isabet almak üzereyken.\n·Clorinde Gece Yaran: Ahit becerisini kullandığında.\nYukarıdaki şekilde her 1 saniyede 1 Mum Gölgesi çağrılabilir. Bir Gece Nöbeti süresi boyunca 6 Mum Gölgesi çağrılabilir.\nAyrıca Gece Nöbeti etkinken Clorinde\u0027in aldığı Hasar %80 azalır ve müdahaleye karşı olan direnci artar. Bu etki Gece Nöbeti durumu sona erdiğinde veya 6 Mum Gölgesi çağrıldıktan 1sn sonra sona erer.",
+                                                                          "description":  "Avcının Nöbeti kullanıldıktan sonra 12sn boyunca Clorinde\u0027in Kritik Oranı %10, Kritik Hasarı %70 artar.\nAyrıca Gece Nöbeti etkinken belirli koşullarda bir Mum Gölgesi ortaya çıkarak Clorinde\u0027in Saldırısının %200\u0027ü kadar Elektrik Hasarı veren bir saldırı gerçekleştirir. Bu şekilde verilen Hasar, Normal Saldırı Hasarı sayılır.\nŞu koşullar sağlandığında Mum Gölgesi ortaya çıkar:\n·Clorinde bir saldırıdan isabet almak üzereyken.\n·Clorinde Gece Yaran: Ahit becerisini kullandığında.\nYukarıdaki şekilde her 1 saniyede 1 Mum Gölgesi çağrılabilir. Bir Gece Nöbeti süresi boyunca 6 Mum Gölgesi çağrılabilir.\nAyrıca Gece Nöbeti etkinken Clorinde\u0027in aldığı Hasar %80 azalır ve müdahaleye karşı olan direnci artar. Bu etki Gece Nöbeti durumu sona erdiğinde veya 6 Mum Gölgesi çağrıldıktan 1sn sonra sona erer."
+                                                                      },
+                                                               "c1":  {
+                                                                          "name":  "\"Bugün Mumun Gölgesinden Geçtim\"",
+                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAvcının Nöbeti\u003c/color\u003e becerisinin Gece Nöbeti durumu etkinken Clorinde, Normal Saldırıları ile bir düşmana \u003ccolor=#FFACFFFF\u003eElektrik Hasarı\u003c/color\u003e verdiğinde düşmanın yakınına çağrılan bir Gece Nöbetçisinin Gölgesi 2 ortak saldırı yapar, her saldırı Clorinde\u0027in Saldırısının %30\u0027u kadar \u003ccolor=#FFACFFFF\u003eElektrik Hasarı\u003c/color\u003e verir.\nBu etki her 1,2 saniyede bir tetiklenebilir. Bu şekilde verilen Hasar, Normal Saldırı Hasarı sayılır.",
+                                                                          "description":  "Avcının Nöbeti becerisinin Gece Nöbeti durumu etkinken Clorinde, Normal Saldırıları ile bir düşmana Elektrik Hasarı verdiğinde düşmanın yakınına çağrılan bir Gece Nöbetçisinin Gölgesi 2 ortak saldırı yapar, her saldırı Clorinde\u0027in Saldırısının %30\u0027u kadar Elektrik Hasarı verir.\nBu etki her 1,2 saniyede bir tetiklenebilir. Bu şekilde verilen Hasar, Normal Saldırı Hasarı sayılır."
+                                                                      }
+                                                           },
+                                        "elementText":  "Elektrik",
+                                        "fullname":  null,
+                                        "weaponText":  "Kılıç",
+                                        "name":  "Clorinde",
+                                        "substatText":  "Kritik Oranı",
+                                        "region":  "Fontaine",
+                                        "gender":  "kadın"
+                                    },
                        "sayu":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -5489,6 +5574,47 @@
                                             "region":  "Inazuma",
                                             "gender":  "kadın"
                                         },
+                       "zhongli":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Yeşimin Beşiği Taş",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eDüşen Gezegen\u003c/color\u003e çarptığında savaş alanında ve yakında bulunan karakterlere Yeşim Kalkan sağlar.",
+                                                                         "description":  "Düşen Gezegen çarptığında savaş alanında ve yakında bulunan karakterlere Yeşim Kalkan sağlar."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Sarsılmaz ve Korkusuz Topaz",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eDüşen Gezegen\u003c/color\u003e becerisinin Etki Alanı %20 artırır. Becerinin verdiği Taşlaşma etkisinin süresi de 2sn uzar.",
+                                                                         "description":  "Düşen Gezegen becerisinin Etki Alanı %20 artırır. Becerinin verdiği Taşlaşma etkisinin süresi de 2sn uzar."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Karanlıkta Parlayan Yeşim",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eTaşların Efendisi\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                         "description":  "Taşların Efendisi Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Düzenin Habercisi Gökcevher",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eDüşen Gezegen\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                         "description":  "Düşen Gezegen Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Hükmedenin Mükafatı Altın",
+                                                                         "descriptionRaw":  "Yeşim Kalkan Hasar aldığında gelen Hasarın %40\u0027ı mevcut karakter için Cana dönüşür.\nYenilenme miktarı tek seferde karakterin Maks. Canının %8\u0027ini aşamaz.",
+                                                                         "description":  "Yeşim Kalkan Hasar aldığında gelen Hasarın %40\u0027ı mevcut karakter için Cana dönüşür.\nYenilenme miktarı tek seferde karakterin Maks. Canının %8\u0027ini aşamaz."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Dünyanın Omurgası Kaya",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eTaşların Efendisi\u003c/color\u003e becerisinin oluşturduğu ve aynı anda alanda olabilecek maksimum Dikili Taş sayısı 2\u0027ye yükseltir.",
+                                                                         "description":  "Taşların Efendisi becerisinin oluşturduğu ve aynı anda alanda olabilecek maksimum Dikili Taş sayısı 2\u0027ye yükseltir."
+                                                                     }
+                                                          },
+                                       "elementText":  "Toprak",
+                                       "fullname":  null,
+                                       "weaponText":  "Mızrak",
+                                       "name":  "Zhongli",
+                                       "substatText":  "Toprak Hasarı Bonusu",
+                                       "region":  "Liyue",
+                                       "gender":  "erkek"
+                                   },
                        "nahida":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5783,53 +5909,6 @@
                                                     },
                                              "effectName":  "Rüzgarın Özgürlüğü"
                                          },
-                    "finaleofthedeep":  {
-                                            "r3":  {
-                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %18 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 225 olmak üzere temizlenen toplam Hayat Bağının %3,6\u0027sı kadar Saldırı kazanılır.",
-                                                       "values":  [
-                                                                      "%18",
-                                                                      "225",
-                                                                      "%3,6\u0027sı"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %24 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 300 olmak üzere temizlenen toplam Hayat Bağının %4,8\u0027i kadar Saldırı kazanılır.",
-                                                       "values":  [
-                                                                      "%24",
-                                                                      "300",
-                                                                      "%4,8\u0027i"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %15 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 187,5 olmak üzere temizlenen toplam Hayat Bağının %3\u0027ü kadar Saldırı kazanılır.",
-                                                       "values":  [
-                                                                      "%15",
-                                                                      "187,5",
-                                                                      "%3\u0027ü"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %21 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 262,5 olmak üzere temizlenen toplam Hayat Bağının %4,2\u0027si kadar Saldırı kazanılır.",
-                                                       "values":  [
-                                                                      "%21",
-                                                                      "262,5",
-                                                                      "%4,2\u0027si"
-                                                                  ]
-                                                   },
-                                            "substatText":  "Saldırı",
-                                            "weaponText":  "Kılıç",
-                                            "name":  "Derinliklerin Sonu",
-                                            "effectTemplateRaw":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e olmak üzere temizlenen toplam Hayat Bağının \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e kadar Saldırı kazanılır.",
-                                            "r1":  {
-                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %12 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 150 olmak üzere temizlenen toplam Hayat Bağının %2,4\u0027ü kadar Saldırı kazanılır.",
-                                                       "values":  [
-                                                                      "%12",
-                                                                      "150",
-                                                                      "%2,4\u0027ü"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Yüce Son"
-                                        },
                     "ferrousshadow":  {
                                           "r3":  {
                                                      "description":  "Can %80 oranının altına indiğinde Yüklü Saldırı Hasarı %40 artar ve Yüklü Saldırıları kesintiye uğratmak zorlaşır.",
@@ -7560,6 +7639,48 @@
                                                  },
                                           "effectName":  "Talih Kuşu"
                                       },
+                    "absolution":  {
+                                       "r3":  {
+                                                  "description":  "Kritik Hasar %30 artar. Hayat Bağı değerinin artması 6sn boyunca, kuşanan karakterin verdiği Hasarın %24 artmasını sağlar. En fazla 3 kademeye kadar birikir.",
+                                                  "values":  [
+                                                                 "%30",
+                                                                 "%24"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Kritik Hasar %40 artar. Hayat Bağı değerinin artması 6sn boyunca, kuşanan karakterin verdiği Hasarın %32 artmasını sağlar. En fazla 3 kademeye kadar birikir.",
+                                                  "values":  [
+                                                                 "%40",
+                                                                 "%32"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Kritik Hasar %25 artar. Hayat Bağı değerinin artması 6sn boyunca, kuşanan karakterin verdiği Hasarın %20 artmasını sağlar. En fazla 3 kademeye kadar birikir.",
+                                                  "values":  [
+                                                                 "%25",
+                                                                 "%20"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Kritik Hasar %35 artar. Hayat Bağı değerinin artması 6sn boyunca, kuşanan karakterin verdiği Hasarın %28 artmasını sağlar. En fazla 3 kademeye kadar birikir.",
+                                                  "values":  [
+                                                                 "%35",
+                                                                 "%28"
+                                                             ]
+                                              },
+                                       "substatText":  "Kritik Hasar",
+                                       "weaponText":  "Kılıç",
+                                       "name":  "Müsamaha",
+                                       "effectTemplateRaw":  "Kritik Hasar \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Hayat Bağı değerinin artması 6sn boyunca, kuşanan karakterin verdiği Hasarın \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artmasını sağlar. En fazla 3 kademeye kadar birikir.",
+                                       "r1":  {
+                                                  "description":  "Kritik Hasar %20 artar. Hayat Bağı değerinin artması 6sn boyunca, kuşanan karakterin verdiği Hasarın %16 artmasını sağlar. En fazla 3 kademeye kadar birikir.",
+                                                  "values":  [
+                                                                 "%20",
+                                                                 "%16"
+                                                             ]
+                                              },
+                                       "effectName":  "Ölümcül Anlaşma"
+                                   },
                     "freedomsworn":  {
                                          "r3":  {
                                                     "description":  "\"Milenyum Hareketi\" koleksiyonunun rüzgarla birlikte hareket eden bir parçası. Hasarı %15 artırır. Bu silahı kuşanan karakter Element Tepkimesi tetiklerse bir İsyan Mührü kazanır. Bu etki 0,5 saniyede bir uygulanabilir ve kuşanan karakter sahada değilken bile tetiklenir. 2 adet İsyan Mührüne sahip olduğunda, ikisi de kullanılır ve çevredeki tüm grup üyeleri 12 saniyeliğine \"Milenyum Hareketi: Direniş Şarkısı\" kazanır. \"Milenyum Hareketi: Direniş Şarkısı\" ile Normal, Yüklü ve Havadan Saldırı Hasarı %24, Saldırı %30 artar. Bu etki tetiklendikten sonra 20 saniye boyunca İsyan Mührü kazanılamaz. \"Milenyum Hareketi\"nin etkileri arasından aynı türde güçlendirmeler birbirine eklenmez.",
@@ -8598,6 +8719,58 @@
                                                 },
                                          "effectName":  "Altın İhtişam"
                                      },
+                    "skywardspine":  {
+                                         "r3":  {
+                                                    "description":  "Kritik Oranını %12, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %70 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+                                                    "values":  [
+                                                                   "%12",
+                                                                   "%12",
+                                                                   "%50",
+                                                                   "%70"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Kritik Oranını %16, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %100 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+                                                    "values":  [
+                                                                   "%16",
+                                                                   "%12",
+                                                                   "%50",
+                                                                   "%100"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Kritik Oranını %10, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %55 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+                                                    "values":  [
+                                                                   "%10",
+                                                                   "%12",
+                                                                   "%50",
+                                                                   "%55"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Kritik Oranını %14, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %85 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+                                                    "values":  [
+                                                                   "%14",
+                                                                   "%12",
+                                                                   "%50",
+                                                                   "%85"
+                                                               ]
+                                                },
+                                         "substatText":  "Enerji Yüklemesi",
+                                         "weaponText":  "Mızrak",
+                                         "name":  "Göklerin Omurgası",
+                                         "effectTemplateRaw":  "Kritik Oranını \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, Normal Saldırı Hızını \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+                                         "r1":  {
+                                                    "description":  "Kritik Oranını %8, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %40 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
+                                                    "values":  [
+                                                                   "%8",
+                                                                   "%12",
+                                                                   "%50",
+                                                                   "%40"
+                                                               ]
+                                                },
+                                         "effectName":  "Kara Kanat"
+                                     },
                     "kitaincrossspear":  {
                                              "r3":  {
                                                         "description":  "Element Becerisi Hasarını %9 artırır. Bir Element Becerisi bir düşmana isabet ettiğinde karakter 3 Enerji kaybeder ama sonraki 6 saniye boyunca her 2 saniyede 4 Enerji kazanır. Bu etki 10 saniyede bir uygulanabilir. Karakter savaş alanında değilken de tetiklenebilir.",
@@ -8839,6 +9012,43 @@
                                                               ]
                                                },
                                         "effectName":  "Keskin"
+                                    },
+                    "cloudforged":  {
+                                        "r3":  {
+                                                   "description":  "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 60 artar. En fazla 2 kademeye kadar birikir.",
+                                                   "values":  [
+                                                                  "60"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 80 artar. En fazla 2 kademeye kadar birikir.",
+                                                   "values":  [
+                                                                  "80"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 50 artar. En fazla 2 kademeye kadar birikir.",
+                                                   "values":  [
+                                                                  "50"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 70 artar. En fazla 2 kademeye kadar birikir.",
+                                                   "values":  [
+                                                                  "70"
+                                                              ]
+                                               },
+                                        "substatText":  "Element Ustalığı",
+                                        "weaponText":  "Yay",
+                                        "name":  "Bulut Örgüsü",
+                                        "effectTemplateRaw":  "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. En fazla 2 kademeye kadar birikir.",
+                                        "r1":  {
+                                                   "description":  "Element Enerjisi azaldıktan sonra 18sn boyunca kuşanan karakterin Element Ustalığı 40 artar. En fazla 2 kademeye kadar birikir.",
+                                                   "values":  [
+                                                                  "40"
+                                                              ]
+                                               },
+                                        "effectName":  "Yontma İşçiliği"
                                     },
                     "twinnephrite":  {
                                          "r3":  {
@@ -9760,58 +9970,53 @@
                                                },
                                         "effectName":  "Yankılanan Balat"
                                     },
-                    "skywardspine":  {
-                                         "r3":  {
-                                                    "description":  "Kritik Oranını %12, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %70 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
-                                                    "values":  [
-                                                                   "%12",
-                                                                   "%12",
-                                                                   "%50",
-                                                                   "%70"
-                                                               ]
-                                                },
-                                         "r5":  {
-                                                    "description":  "Kritik Oranını %16, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %100 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
-                                                    "values":  [
-                                                                   "%16",
-                                                                   "%12",
-                                                                   "%50",
-                                                                   "%100"
-                                                               ]
-                                                },
-                                         "r2":  {
-                                                    "description":  "Kritik Oranını %10, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %55 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
-                                                    "values":  [
-                                                                   "%10",
-                                                                   "%12",
-                                                                   "%50",
-                                                                   "%55"
-                                                               ]
-                                                },
-                                         "r4":  {
-                                                    "description":  "Kritik Oranını %14, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %85 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
-                                                    "values":  [
-                                                                   "%14",
-                                                                   "%12",
-                                                                   "%50",
-                                                                   "%85"
-                                                               ]
-                                                },
-                                         "substatText":  "Enerji Yüklemesi",
-                                         "weaponText":  "Mızrak",
-                                         "name":  "Göklerin Omurgası",
-                                         "effectTemplateRaw":  "Kritik Oranını \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, Normal Saldırı Hızını \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
-                                         "r1":  {
-                                                    "description":  "Kritik Oranını %8, Normal Saldırı Hızını %12 artırır. Ayrıca düşmanlara isabet eden Normal ve Yüklü Saldırı vuruşları %50 ihtimalle bir vakum kılıcı tetikleyerek küçük bir alana %40 Saldırı kadar Hasar verir. Bu etki en fazla 2 saniyede bir uygulanabilir.",
-                                                    "values":  [
-                                                                   "%8",
-                                                                   "%12",
-                                                                   "%50",
-                                                                   "%40"
-                                                               ]
-                                                },
-                                         "effectName":  "Kara Kanat"
-                                     },
+                    "finaleofthedeep":  {
+                                            "r3":  {
+                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %18 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 225 olmak üzere temizlenen toplam Hayat Bağının %3,6\u0027sı kadar Saldırı kazanılır.",
+                                                       "values":  [
+                                                                      "%18",
+                                                                      "225",
+                                                                      "%3,6\u0027sı"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %24 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 300 olmak üzere temizlenen toplam Hayat Bağının %4,8\u0027i kadar Saldırı kazanılır.",
+                                                       "values":  [
+                                                                      "%24",
+                                                                      "300",
+                                                                      "%4,8\u0027i"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %15 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 187,5 olmak üzere temizlenen toplam Hayat Bağının %3\u0027ü kadar Saldırı kazanılır.",
+                                                       "values":  [
+                                                                      "%15",
+                                                                      "187,5",
+                                                                      "%3\u0027ü"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %21 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 262,5 olmak üzere temizlenen toplam Hayat Bağının %4,2\u0027si kadar Saldırı kazanılır.",
+                                                       "values":  [
+                                                                      "%21",
+                                                                      "262,5",
+                                                                      "%4,2\u0027si"
+                                                                  ]
+                                                   },
+                                            "substatText":  "Saldırı",
+                                            "weaponText":  "Kılıç",
+                                            "name":  "Derinliklerin Sonu",
+                                            "effectTemplateRaw":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e olmak üzere temizlenen toplam Hayat Bağının \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e kadar Saldırı kazanılır.",
+                                            "r1":  {
+                                                       "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Saldırı %12 artar ve Maks. Canın %25\u0027i oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde 15 saniyeliğine en fazla 150 olmak üzere temizlenen toplam Hayat Bağının %2,4\u0027ü kadar Saldırı kazanılır.",
+                                                       "values":  [
+                                                                      "%12",
+                                                                      "150",
+                                                                      "%2,4\u0027ü"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Yüce Son"
+                                        },
                     "everlastingmoonglow":  {
                                                 "r3":  {
                                                            "description":  "İyileştirme Bonusu %15 artar, Normal Saldırı Hasarı bu silahı kuşanan karakterin %2 Maks. Canı kadar artar. Bir Element Patlaması kullandıktan sonra 12 saniye boyunca, düşmana isabet eden Normal Saldırılar 0,6 Enerji yeniler. Bu şekilde her 0,1 saniyede bir Enerji yenilenebilir.",
@@ -11664,6 +11869,48 @@
                                              },
                                       "effectName":  "Tesirli Meç"
                                   },
+                    "silvershowerheartstrings":  {
+                                                     "r3":  {
+                                                                "description":  "Kuşanan karakter Deva etkisi kazanır. Karakter 1/2/3 Deva kademesine sahip olduğunda Maks. Canı %18/%36/%60 artar. Karakter, şu koşullar karşılandığında 1 kademe kazanır: Element Becerisi kullandığında 25sn için 1 kademe, Hayat Bağı değeri arttığında 25sn için 1 kademe, iyileştirme yaptığında 20sn için 1 kademe. Kuşanan karakter savaş alanında olmasa da kademeler tetiklenebilir. Her kademenin süresi birbirinden bağımsızdır. Ayrıca aktif 3 kademe olduğunda Element Patlamasının Kritik Oranı %42 artar. 3 kademenin altına düştükten 4sn sonra bu etki kaybolur.",
+                                                                "values":  [
+                                                                               "%18/%36/%60",
+                                                                               "%42"
+                                                                           ]
+                                                            },
+                                                     "r5":  {
+                                                                "description":  "Kuşanan karakter Deva etkisi kazanır. Karakter 1/2/3 Deva kademesine sahip olduğunda Maks. Canı %24/%48/%80 artar. Karakter, şu koşullar karşılandığında 1 kademe kazanır: Element Becerisi kullandığında 25sn için 1 kademe, Hayat Bağı değeri arttığında 25sn için 1 kademe, iyileştirme yaptığında 20sn için 1 kademe. Kuşanan karakter savaş alanında olmasa da kademeler tetiklenebilir. Her kademenin süresi birbirinden bağımsızdır. Ayrıca aktif 3 kademe olduğunda Element Patlamasının Kritik Oranı %56 artar. 3 kademenin altına düştükten 4sn sonra bu etki kaybolur.",
+                                                                "values":  [
+                                                                               "%24/%48/%80",
+                                                                               "%56"
+                                                                           ]
+                                                            },
+                                                     "r2":  {
+                                                                "description":  "Kuşanan karakter Deva etkisi kazanır. Karakter 1/2/3 Deva kademesine sahip olduğunda Maks. Canı %15/%30/%50 artar. Karakter, şu koşullar karşılandığında 1 kademe kazanır: Element Becerisi kullandığında 25sn için 1 kademe, Hayat Bağı değeri arttığında 25sn için 1 kademe, iyileştirme yaptığında 20sn için 1 kademe. Kuşanan karakter savaş alanında olmasa da kademeler tetiklenebilir. Her kademenin süresi birbirinden bağımsızdır. Ayrıca aktif 3 kademe olduğunda Element Patlamasının Kritik Oranı %35 artar. 3 kademenin altına düştükten 4sn sonra bu etki kaybolur.",
+                                                                "values":  [
+                                                                               "%15/%30/%50",
+                                                                               "%35"
+                                                                           ]
+                                                            },
+                                                     "r4":  {
+                                                                "description":  "Kuşanan karakter Deva etkisi kazanır. Karakter 1/2/3 Deva kademesine sahip olduğunda Maks. Canı %21/%42/%70 artar. Karakter, şu koşullar karşılandığında 1 kademe kazanır: Element Becerisi kullandığında 25sn için 1 kademe, Hayat Bağı değeri arttığında 25sn için 1 kademe, iyileştirme yaptığında 20sn için 1 kademe. Kuşanan karakter savaş alanında olmasa da kademeler tetiklenebilir. Her kademenin süresi birbirinden bağımsızdır. Ayrıca aktif 3 kademe olduğunda Element Patlamasının Kritik Oranı %49 artar. 3 kademenin altına düştükten 4sn sonra bu etki kaybolur.",
+                                                                "values":  [
+                                                                               "%21/%42/%70",
+                                                                               "%49"
+                                                                           ]
+                                                            },
+                                                     "substatText":  "Can",
+                                                     "weaponText":  "Yay",
+                                                     "name":  "Gönül Yayları",
+                                                     "effectTemplateRaw":  "Kuşanan karakter Deva etkisi kazanır. Karakter 1/2/3 Deva kademesine sahip olduğunda Maks. Canı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Karakter, şu koşullar karşılandığında 1 kademe kazanır: Element Becerisi kullandığında 25sn için 1 kademe, Hayat Bağı değeri arttığında 25sn için 1 kademe, iyileştirme yaptığında 20sn için 1 kademe. Kuşanan karakter savaş alanında olmasa da kademeler tetiklenebilir. Her kademenin süresi birbirinden bağımsızdır. Ayrıca aktif 3 kademe olduğunda Element Patlamasının Kritik Oranı \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artar. 3 kademenin altına düştükten 4sn sonra bu etki kaybolur.",
+                                                     "r1":  {
+                                                                "description":  "Kuşanan karakter Deva etkisi kazanır. Karakter 1/2/3 Deva kademesine sahip olduğunda Maks. Canı %12/%24/%40 artar. Karakter, şu koşullar karşılandığında 1 kademe kazanır: Element Becerisi kullandığında 25sn için 1 kademe, Hayat Bağı değeri arttığında 25sn için 1 kademe, iyileştirme yaptığında 20sn için 1 kademe. Kuşanan karakter savaş alanında olmasa da kademeler tetiklenebilir. Her kademenin süresi birbirinden bağımsızdır. Ayrıca aktif 3 kademe olduğunda Element Patlamasının Kritik Oranı %28 artar. 3 kademenin altına düştükten 4sn sonra bu etki kaybolur.",
+                                                                "values":  [
+                                                                               "%12/%24/%40",
+                                                                               "%28"
+                                                                           ]
+                                                            },
+                                                     "effectName":  "Dryas Ezgisi"
+                                                 },
                     "prizedisshinblade":  {
                                               "r3":  null,
                                               "r5":  null,
@@ -13459,7 +13706,7 @@
                                          "specialname":  null
                                      },
                     "hydrocicin":  {
-                                       "name":  "Su Cicin",
+                                       "name":  "Su Cicini",
                                        "specialname":  null
                                    },
                     "shadowyhuskstandardbearer":  {
