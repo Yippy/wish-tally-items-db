@@ -365,9 +365,9 @@
                       "crownofinsight":  {
                                              "name":  "Couronne de la sagesse"
                                          },
-                      "shimmeringnectar":  {
-                                               "name":  "Nectar miroitant"
-                                           },
+                      "jubilantfeather":  {
+                                              "name":  "Plume jubilatoire"
+                                          },
                       "eelmeat":  {
                                       "name":  "Anguille"
                                   },
@@ -1130,8 +1130,11 @@
                       "bitterpufferfish":  {
                                                "name":  "Poisson-globe amer"
                                            },
+                      "shimmeringnectar":  {
+                                               "name":  "Nectar miroitant"
+                                           },
                       "scatteredpieceofdecarabiansdream":  {
-                                                               "name":  "Rêve brisé de Décabarian"
+                                                               "name":  "Rêve brisé de Décarabian"
                                                            },
                       "cecilia":  {
                                       "name":  "Cécilia"
@@ -1275,7 +1278,7 @@
                                                    "name":  "Pierre d\u0027agate agnidus"
                                                },
                       "fragmentofdecarabiansepic":  {
-                                                        "name":  "Fragment dispersé de Décabarian"
+                                                        "name":  "Fragment dispersé de Décarabian"
                                                     },
                       "prithivatopazgemstone":  {
                                                     "name":  "Pierre de topaze prithiva"
@@ -1680,7 +1683,7 @@
                                                     "name":  "Panache de lumière purificatrice"
                                                 },
                       "tileofdecarabianstower":  {
-                                                     "name":  "Tuile cassée de Décabarian"
+                                                     "name":  "Tuile cassée de Décarabian"
                                                  },
                       "fruitpastebait":  {
                                              "name":  "Appât de pâte de fruit"
@@ -1791,7 +1794,7 @@
                                              "name":  "Baume de l\u0027Empereur"
                                          },
                       "debrisofdecarabianscity":  {
-                                                      "name":  "Mur abattu de Décabarian"
+                                                      "name":  "Mur abattu de Décarabian"
                                                   },
                       "riftcore":  {
                                        "name":  "Noyau de faille"
@@ -2549,8 +2552,8 @@
                                          "constellations":  {
                                                                 "c2":  {
                                                                            "name":  "« Le plus miséricordieux des esprits peut-il vaincre les ennemis ? »",
-                                                                           "descriptionRaw":  "Pendant la durée d\u0027\u003ccolor=#FFD780FF\u003eHydrothérapie rebondissante\u003c/color\u003e et d\u0027\u003ccolor=#FFD780FF\u003eInjection sur-saturée\u003c/color\u003e, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les \u003ccolor=#80C0FFFF\u003eDGT Hydro\u003c/color\u003e.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la \u003ccolor=#80C0FFFF\u003eRÉS Hydro\u003c/color\u003e de ce dernier diminue de 35 % pendant 8 s.",
-                                                                           "description":  "Pendant la durée d\u0027Hydrothérapie rebondissante et d\u0027Injection sur-saturée, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les DGT Hydro.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la RÉS Hydro de ce dernier diminue de 35 % pendant 8 s."
+                                                                           "descriptionRaw":  "Pendant la durée d\u0027\u003ccolor=#FFD780FF\u003eHydrothérapie rebondissante\u003c/color\u003e et d\u0027\u003ccolor=#FFD780FF\u003eInjection sur-saturée\u003c/color\u003e, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les \u003ccolor=#80C0FFFF\u003eDGT Hydro\u003c/color\u003e, ce bouclier durant jusqu\u0027à la fin de l\u0027utilisation des capacités correspondantes.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la \u003ccolor=#80C0FFFF\u003eRÉS Hydro\u003c/color\u003e de ce dernier diminue de 35 % pendant 8 s.",
+                                                                           "description":  "Pendant la durée d\u0027Hydrothérapie rebondissante et d\u0027Injection sur-saturée, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les DGT Hydro, ce bouclier durant jusqu\u0027à la fin de l\u0027utilisation des capacités correspondantes.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la RÉS Hydro de ce dernier diminue de 35 % pendant 8 s."
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "« Le plus beau des esprits peut-il contrer la décrépitude ? »",
@@ -3394,8 +3397,8 @@
                                                                      },
                                                               "c1":  {
                                                                          "name":  "Champ du néant",
-                                                                         "descriptionRaw":  "Confère une utilisation supplémentaire de \u003ccolor=#FFD780FF\u003eEsprit du vent : Sujet 6308\u003c/color\u003e.",
-                                                                         "description":  "Confère une utilisation supplémentaire de Esprit du vent : Sujet 6308."
+                                                                         "descriptionRaw":  "Confère une utilisation supplémentaire d\u0027\u003ccolor=#FFD780FF\u003eEsprit du vent : Sujet 6308\u003c/color\u003e.",
+                                                                         "description":  "Confère une utilisation supplémentaire d\u0027Esprit du vent : Sujet 6308."
                                                                      }
                                                           },
                                        "elementText":  "Anémo",
@@ -3987,8 +3990,8 @@
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Tisseuse de vers",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eÉpée Guhua - Pluie et arc-en-ciel\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Épée Guhua - Pluie et arc-en-ciel +3.\nNiveau max : 15"
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eÉpée Guhua : Pluie et arc-en-ciel\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Épée Guhua : Pluie et arc-en-ciel +3.\nNiveau max : 15"
                                                                      },
                                                               "c5":  {
                                                                          "name":  "Embrassement de pluie",
@@ -4686,6 +4689,47 @@
                                      "region":  "Sumeru",
                                      "gender":  "Homme"
                                  },
+                       "emilie":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Exhalaison lacmineuse",
+                                                                        "descriptionRaw":  "Lorsqu\u0027\u003ccolor=#FFD780FF\u003eExtraction de fragrance\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eExplication de parfum\u003c/color\u003e ou une cologne d\u0027aiguail clair créée par l\u0027aptitude passive « Arôme persistant », cette aptitude devant être déjà débloquée, touche un ennemi, la \u003ccolor=#99FF88FF\u003eRÉS Dendro\u003c/color\u003e de ce dernier diminue de 30 % pendant 10 s.",
+                                                                        "description":  "Lorsqu\u0027Extraction de fragrance, Explication de parfum ou une cologne d\u0027aiguail clair créée par l\u0027aptitude passive « Arôme persistant », cette aptitude devant être déjà débloquée, touche un ennemi, la RÉS Dendro de ce dernier diminue de 30 % pendant 10 s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Extrait de Lumidouce",
+                                                                        "descriptionRaw":  "La durée d\u0027\u003ccolor=#FFD780FF\u003eExplication de parfum\u003c/color\u003e augmente de 2 s, et la durée minimum requise pour cibler à nouveau un même ennemi avec une rosée parfumée diminue de 0,3 s.",
+                                                                        "description":  "La durée d\u0027Explication de parfum augmente de 2 s, et la durée minimum requise pour cibler à nouveau un même ennemi avec une rosée parfumée diminue de 0,3 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Essence exquise",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eExtraction de fragrance\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Extraction de fragrance +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Effluve d\u0027aiguail pur",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eExplication de parfum\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Explication de parfum +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Soupçon de Marcotte",
+                                                                        "descriptionRaw":  "En utilisant \u003ccolor=#FFD780FF\u003eExtraction de fragrance\u003c/color\u003e ou \u003ccolor=#FFD780FF\u003eExplication de parfum\u003c/color\u003e, Émilie obtient l\u0027effet Persistance fragrante pendant 5 s.\nPendant cette durée, Émilie génère une senteur après avoir utilisé une attaque normale ou chargée, et ses attaques normales et chargées sont converties en \u003ccolor=#99FF88FF\u003eDGT Dendro\u003c/color\u003e ne pouvant pas être enchantés, les DGT qu\u0027elles infligent étant de plus augmentés d\u0027une valeur équivalant à 300 % de l\u0027ATQ d\u0027Émilie.\n\nLes effets de la persistance fragrante cessent après la création de 4 senteurs de cette manière ou lorsque sa durée expire. Une persistance fragrante peut être obtenue une fois toutes les 12 s.",
+                                                                        "description":  "En utilisant Extraction de fragrance ou Explication de parfum, Émilie obtient l\u0027effet Persistance fragrante pendant 5 s.\nPendant cette durée, Émilie génère une senteur après avoir utilisé une attaque normale ou chargée, et ses attaques normales et chargées sont converties en DGT Dendro ne pouvant pas être enchantés, les DGT qu\u0027elles infligent étant de plus augmentés d\u0027une valeur équivalant à 300 % de l\u0027ATQ d\u0027Émilie.\n\nLes effets de la persistance fragrante cessent après la création de 4 senteurs de cette manière ou lorsque sa durée expire. Une persistance fragrante peut être obtenue une fois toutes les 12 s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Lessivage d\u0027aromate léger",
+                                                                        "descriptionRaw":  "Les DGT infligés par \u003ccolor=#FFD780FF\u003eExtraction de fragrance\u003c/color\u003e et par la cologne d\u0027aiguail clair d\u0027Arôme persistant augmentent de 20 %. L\u0027aptitude passive « Arôme persistant » doit être déjà débloquée pour pouvoir augmenter les DGT infligés par la cologne d\u0027aiguail clair.\nDe plus, lorsqu\u0027un membre de l\u0027équipe à proximité déclenche une réaction de Brûlure sur un ennemi ou inflige des \u003ccolor=#99FF88FF\u003eDGT Dendro\u003c/color\u003e à un ennemi brûlé, ce dernier dégage une \u003ccolor=#FFD780FF\u003esenteur\u003c/color\u003e supplémentaire. Cet effet peut être déclenché une fois toutes les 2,9 s",
+                                                                        "description":  "Les DGT infligés par Extraction de fragrance et par la cologne d\u0027aiguail clair d\u0027Arôme persistant augmentent de 20 %. L\u0027aptitude passive « Arôme persistant » doit être déjà débloquée pour pouvoir augmenter les DGT infligés par la cologne d\u0027aiguail clair.\nDe plus, lorsqu\u0027un membre de l\u0027équipe à proximité déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, ce dernier dégage une senteur supplémentaire. Cet effet peut être déclenché une fois toutes les 2,9 s"
+                                                                    }
+                                                         },
+                                      "elementText":  "Dendro",
+                                      "fullname":  null,
+                                      "weaponText":  "Arme d\u0027hast",
+                                      "name":  "Émilie",
+                                      "substatText":  "DGT CRIT",
+                                      "region":  "Fontaine",
+                                      "gender":  "Femme"
+                                  },
                        "noelle":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5250,8 +5294,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Candeur",
-                                                                        "descriptionRaw":  "Pendant l\u0027état Héritage adeptal de \u003ccolor=#FFD780FF\u003eCoucher de lune de jade\u003c/color\u003e, Yaoyao récupère 3 pts d\u0027énergie élémentaire lorsqu\u0027une explosion de radis de jade blanc touche un ennemi. L\u0027énergie peut être restaurée une fois toutes les 0,8 s de cette manière.",
-                                                                        "description":  "Pendant l\u0027état Héritage adeptal de Coucher de lune de jade, Yaoyao récupère 3 pts d\u0027énergie élémentaire lorsqu\u0027une explosion de radis de jade blanc touche un ennemi. L\u0027énergie peut être restaurée une fois toutes les 0,8 s de cette manière."
+                                                                        "descriptionRaw":  "Pendant l\u0027état Héritage adeptal de \u003ccolor=#FFD780FF\u003eCoucher de lune de jade\u003c/color\u003e, Yaoyao récupère 3 pts d\u0027énergie élémentaire lorsqu\u0027une explosion de radis de jade blanc touche un ennemi. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,8 s de cette manière.",
+                                                                        "description":  "Pendant l\u0027état Héritage adeptal de Coucher de lune de jade, Yaoyao récupère 3 pts d\u0027énergie élémentaire lorsqu\u0027une explosion de radis de jade blanc touche un ennemi. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,8 s de cette manière."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Attrait",
@@ -7824,6 +7868,53 @@
                                                          },
                                                   "effectName":  "Code du samouraï"
                                               },
+                    "lumidouceelegy":  {
+                                           "r3":  {
+                                                      "description":  "Augmente l\u0027ATQ de 23 %. Lorsque le personnage équipé de l\u0027arme déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, les DGT infligés augmentent de 28 % pendant 8 s, cet effet pouvant être cumulé 2 fois maximum. En atteignant 2 cumuls ou lorsque la durée du 2e cumul est actualisée, 14 pts d\u0027énergie élémentaires sont restaurés, l\u0027énergie élémentaire pouvant être restaurée une fois toutes les 12 s de cette manière. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                      "values":  [
+                                                                     "23 %",
+                                                                     "28{NON_BREAK_SPACE}%",
+                                                                     "14"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Augmente l\u0027ATQ de 31 %. Lorsque le personnage équipé de l\u0027arme déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, les DGT infligés augmentent de 38 % pendant 8 s, cet effet pouvant être cumulé 2 fois maximum. En atteignant 2 cumuls ou lorsque la durée du 2e cumul est actualisée, 16 pts d\u0027énergie élémentaires sont restaurés, l\u0027énergie élémentaire pouvant être restaurée une fois toutes les 12 s de cette manière. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                      "values":  [
+                                                                     "31 %",
+                                                                     "38 %",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Augmente l\u0027ATQ de 19 %. Lorsque le personnage équipé de l\u0027arme déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, les DGT infligés augmentent de 23 % pendant 8 s, cet effet pouvant être cumulé 2 fois maximum. En atteignant 2 cumuls ou lorsque la durée du 2e cumul est actualisée, 13 pts d\u0027énergie élémentaires sont restaurés, l\u0027énergie élémentaire pouvant être restaurée une fois toutes les 12 s de cette manière. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                      "values":  [
+                                                                     "19 %",
+                                                                     "23 %",
+                                                                     "13"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Augmente l\u0027ATQ de 27 %. Lorsque le personnage équipé de l\u0027arme déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, les DGT infligés augmentent de 33 % pendant 8 s, cet effet pouvant être cumulé 2 fois maximum. En atteignant 2 cumuls ou lorsque la durée du 2e cumul est actualisée, 15 pts d\u0027énergie élémentaires sont restaurés, l\u0027énergie élémentaire pouvant être restaurée une fois toutes les 12 s de cette manière. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                      "values":  [
+                                                                     "27 %",
+                                                                     "33{NON_BREAK_SPACE}%",
+                                                                     "15"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Taux CRIT",
+                                           "weaponText":  "Arme d\u0027hast",
+                                           "name":  "Élégie de Lumidouce",
+                                           "effectTemplateRaw":  "Augmente l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Lorsque le personnage équipé de l\u0027arme déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, les DGT infligés augmentent de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pendant 8 s, cet effet pouvant être cumulé 2 fois maximum. En atteignant 2 cumuls ou lorsque la durée du 2e cumul est actualisée, \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e pts d\u0027énergie élémentaires sont restaurés, l\u0027énergie élémentaire pouvant être restaurée une fois toutes les 12 s de cette manière. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                           "r1":  {
+                                                      "description":  "Augmente l\u0027ATQ de 15 %. Lorsque le personnage équipé de l\u0027arme déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, les DGT infligés augmentent de 18 % pendant 8 s, cet effet pouvant être cumulé 2 fois maximum. En atteignant 2 cumuls ou lorsque la durée du 2e cumul est actualisée, 12 pts d\u0027énergie élémentaires sont restaurés, l\u0027énergie élémentaire pouvant être restaurée une fois toutes les 12 s de cette manière. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                      "values":  [
+                                                                     "15 %",
+                                                                     "18 %",
+                                                                     "12"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Prélude de l\u0027aube blanche"
+                                       },
                     "sacrificialbow":  {
                                            "r3":  {
                                                       "description":  "Les compétences élémentaires ont 60 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 22 s.",
@@ -12009,28 +12100,28 @@
                                       },
                     "cranesechoingcall":  {
                                               "r3":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 54 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3 pts d\u0027énergie élémentaire. L\u0027énergie peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 54 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
                                                          "values":  [
                                                                         "54 %",
                                                                         "3"
                                                                     ]
                                                      },
                                               "r5":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 80 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3,5 pts d\u0027énergie élémentaire. L\u0027énergie peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 80 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3,5 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
                                                          "values":  [
                                                                         "80 %",
                                                                         "3,5"
                                                                     ]
                                                      },
                                               "r2":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 41 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 2,75 pts d\u0027énergie élémentaire. L\u0027énergie peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 41 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 2,75 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
                                                          "values":  [
                                                                         "41 %",
                                                                         "2,75"
                                                                     ]
                                                      },
                                               "r4":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 67 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3,25 pts d\u0027énergie élémentaire. L\u0027énergie peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 67 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3,25 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
                                                          "values":  [
                                                                         "67 %",
                                                                         "3,25"
@@ -12039,9 +12130,9 @@
                                               "substatText":  "ATQ",
                                               "weaponText":  "Catalyseur",
                                               "name":  "Écho de la grue",
-                                              "effectTemplateRaw":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pts d\u0027énergie élémentaire. L\u0027énergie peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                              "effectTemplateRaw":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
                                               "r1":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 28 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 2,5 pts d\u0027énergie élémentaire. L\u0027énergie peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 28 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 2,5 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
                                                          "values":  [
                                                                         "28 %",
                                                                         "2,5"

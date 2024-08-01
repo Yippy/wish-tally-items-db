@@ -365,9 +365,9 @@
                       "crownofinsight":  {
                                              "name":  "Corona della saggezza"
                                          },
-                      "shimmeringnectar":  {
-                                               "name":  "Nettare brillante"
-                                           },
+                      "jubilantfeather":  {
+                                              "name":  "Piuma gioiosa"
+                                          },
                       "eelmeat":  {
                                       "name":  "Carne di anguilla"
                                   },
@@ -1129,6 +1129,9 @@
                                                       },
                       "bitterpufferfish":  {
                                                "name":  "Pesce palla amaro"
+                                           },
+                      "shimmeringnectar":  {
+                                               "name":  "Nettare brillante"
                                            },
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Frammento del sogno di Decarabian"
@@ -4686,6 +4689,47 @@
                                      "region":  "Sumeru",
                                      "gender":  "maschio"
                                  },
+                       "emilie":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Nota di testa del Lagoluce",
+                                                                        "descriptionRaw":  "#Quando \u003ccolor=#FFD780FF\u003eEstratto fragrante\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eRappresentazione aromatica\u003c/color\u003e o la Colonia di Chiarugiada del talento passivo Profumo persistente (se già sbloccato) colpiscono gli avversari, la \u003ccolor=#99FF88FF\u003eRES a Dendro\u003c/color\u003e di questi ultimi si riduce di un 30% per 10{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Quando Estratto fragrante, Rappresentazione aromatica o la Colonia di Chiarugiada del talento passivo Profumo persistente (se già sbloccato) colpiscono gli avversari, la RES a Dendro di questi ultimi si riduce di un 30% per 10 s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Nota di cuore di Lumidouce",
+                                                                        "descriptionRaw":  "#La durata di \u003ccolor=#FFD780FF\u003eRappresentazione aromatica\u003c/color\u003e aumenta di 2{NON_BREAK_SPACE}s. L\u0027intervallo di designazione del bersaglio della Rugiada odorosa si riduce di 0,3{NON_BREAK_SPACE}s.",
+                                                                        "description":  "La durata di Rappresentazione aromatica aumenta di 2 s. L\u0027intervallo di designazione del bersaglio della Rugiada odorosa si riduce di 0,3 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Essenza sopraffina",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eEstratto fragrante\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di Estratto fragrante.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Aroma della Limpirugiada",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eRappresentazione aromatica\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di Rappresentazione aromatica.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Sillage di Marcotte",
+                                                                        "descriptionRaw":  "#Usando \u003ccolor=#FFD780FF\u003eEstratto fragrante\u003c/color\u003e o \u003ccolor=#FFD780FF\u003eRappresentazione aromatica\u003c/color\u003e, Émilie ottiene l\u0027effetto Fragranza durevole per 5{NON_BREAK_SPACE}s.\nQuando Fragranza durevole è attivo, ogni attacco normale o caricato di Émilie genera 1 Aroma. Inoltre, i DAN inflitti da questi tipi di attacchi vengono convertiti in \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e non influenzabili da altre infusioni elementali, e aumentano di un 300% dell\u0027ATT di Émilie.\n\nFragranza durevole viene rimosso dopo aver generato 4 Aromi nei modi sopra descritti o al termine della sua durata effettiva. È possibile ottenere Fragranza durevole una volta ogni 12{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Usando Estratto fragrante o Rappresentazione aromatica, Émilie ottiene l\u0027effetto Fragranza durevole per 5 s.\nQuando Fragranza durevole è attivo, ogni attacco normale o caricato di Émilie genera 1 Aroma. Inoltre, i DAN inflitti da questi tipi di attacchi vengono convertiti in DAN da Dendro non influenzabili da altre infusioni elementali, e aumentano di un 300% dell\u0027ATT di Émilie.\n\nFragranza durevole viene rimosso dopo aver generato 4 Aromi nei modi sopra descritti o al termine della sua durata effettiva. È possibile ottenere Fragranza durevole una volta ogni 12 s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Estrazione di fragranza leggera",
+                                                                        "descriptionRaw":  "#Aumenta di un 20% i DAN inflitti da \u003ccolor=#FFD780FF\u003eEstratto fragrante\u003c/color\u003e e dalla Colonia di Chiarugiada del talento passivo Profumo persistente, se già sbloccato.\nIn più, quando i membri del gruppo vicini innescano una reazione di Ustione sugli avversari o infliggono \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e ad avversari affetti da Ustione, viene generato 1 \u003ccolor=#FFD780FF\u003eAroma\u003c/color\u003e aggiuntivo. Quest\u0027effetto può attivarsi una volta ogni 2,9{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Aumenta di un 20% i DAN inflitti da Estratto fragrante e dalla Colonia di Chiarugiada del talento passivo Profumo persistente, se già sbloccato.\nIn più, quando i membri del gruppo vicini innescano una reazione di Ustione sugli avversari o infliggono DAN da Dendro ad avversari affetti da Ustione, viene generato 1 Aroma aggiuntivo. Quest\u0027effetto può attivarsi una volta ogni 2,9 s."
+                                                                    }
+                                                         },
+                                      "elementText":  "Dendro",
+                                      "fullname":  null,
+                                      "weaponText":  "Lancia",
+                                      "name":  "Émilie",
+                                      "substatText":  "DAN da CRIT",
+                                      "region":  "Fontaine",
+                                      "gender":  "femmina"
+                                  },
                        "noelle":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -7824,6 +7868,53 @@
                                                          },
                                                   "effectName":  "Codice dei samurai"
                                               },
+                    "lumidouceelegy":  {
+                                           "r3":  {
+                                                      "description":  "L\u0027ATT aumenta di un 23%. Quando il personaggio che equipaggia l\u0027arma innesca Ustione su un avversario o infligge DAN da Dendro ad avversari affetti da Ustione, i DAN inflitti aumentano di un 28%. L\u0027effetto dura 8 s, ed è cumulabile fino a 2 volte. Quando si ottengono 2 accumuli, o quando la durata dell\u0027effetto si ripristina all\u0027ottenimento del secondo accumulo, l\u0027energia si ricarica di 14. Questa forma di ripristino dell\u0027energia può verificarsi solo una volta ogni 12 s. I 2 suddetti effetti possono attivarsi anche se il personaggio non è in campo.",
+                                                      "values":  [
+                                                                     "23%",
+                                                                     "28%",
+                                                                     "14"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "L\u0027ATT aumenta di un 31%. Quando il personaggio che equipaggia l\u0027arma innesca Ustione su un avversario o infligge DAN da Dendro ad avversari affetti da Ustione, i DAN inflitti aumentano di un 38%. L\u0027effetto dura 8 s, ed è cumulabile fino a 2 volte. Quando si ottengono 2 accumuli, o quando la durata dell\u0027effetto si ripristina all\u0027ottenimento del secondo accumulo, l\u0027energia si ricarica di 16. Questa forma di ripristino dell\u0027energia può verificarsi solo una volta ogni 12 s. I 2 suddetti effetti possono attivarsi anche se il personaggio non è in campo.",
+                                                      "values":  [
+                                                                     "31%",
+                                                                     "38%",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "L\u0027ATT aumenta di un 19%. Quando il personaggio che equipaggia l\u0027arma innesca Ustione su un avversario o infligge DAN da Dendro ad avversari affetti da Ustione, i DAN inflitti aumentano di un 23%. L\u0027effetto dura 8 s, ed è cumulabile fino a 2 volte. Quando si ottengono 2 accumuli, o quando la durata dell\u0027effetto si ripristina all\u0027ottenimento del secondo accumulo, l\u0027energia si ricarica di 13. Questa forma di ripristino dell\u0027energia può verificarsi solo una volta ogni 12 s. I 2 suddetti effetti possono attivarsi anche se il personaggio non è in campo.",
+                                                      "values":  [
+                                                                     "19%",
+                                                                     "23%",
+                                                                     "13"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "L\u0027ATT aumenta di un 27%. Quando il personaggio che equipaggia l\u0027arma innesca Ustione su un avversario o infligge DAN da Dendro ad avversari affetti da Ustione, i DAN inflitti aumentano di un 33%. L\u0027effetto dura 8 s, ed è cumulabile fino a 2 volte. Quando si ottengono 2 accumuli, o quando la durata dell\u0027effetto si ripristina all\u0027ottenimento del secondo accumulo, l\u0027energia si ricarica di 15. Questa forma di ripristino dell\u0027energia può verificarsi solo una volta ogni 12 s. I 2 suddetti effetti possono attivarsi anche se il personaggio non è in campo.",
+                                                      "values":  [
+                                                                     "27%",
+                                                                     "33%",
+                                                                     "15"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Tasso di CRIT",
+                                           "weaponText":  "Lancia",
+                                           "name":  "Elegia di Lumidouce",
+                                           "effectTemplateRaw":  "#L\u0027ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Quando il personaggio che equipaggia l\u0027arma innesca Ustione su un avversario o infligge DAN da Dendro ad avversari affetti da Ustione, i DAN inflitti aumentano di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. L\u0027effetto dura 8{NON_BREAK_SPACE}s, ed è cumulabile fino a 2 volte. Quando si ottengono 2 accumuli, o quando la durata dell\u0027effetto si ripristina all\u0027ottenimento del secondo accumulo, l\u0027energia si ricarica di \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e. Questa forma di ripristino dell\u0027energia può verificarsi solo una volta ogni 12{NON_BREAK_SPACE}s. I 2 suddetti effetti possono attivarsi anche se il personaggio non è in campo.",
+                                           "r1":  {
+                                                      "description":  "L\u0027ATT aumenta di un 15%. Quando il personaggio che equipaggia l\u0027arma innesca Ustione su un avversario o infligge DAN da Dendro ad avversari affetti da Ustione, i DAN inflitti aumentano di un 18%. L\u0027effetto dura 8 s, ed è cumulabile fino a 2 volte. Quando si ottengono 2 accumuli, o quando la durata dell\u0027effetto si ripristina all\u0027ottenimento del secondo accumulo, l\u0027energia si ricarica di 12. Questa forma di ripristino dell\u0027energia può verificarsi solo una volta ogni 12 s. I 2 suddetti effetti possono attivarsi anche se il personaggio non è in campo.",
+                                                      "values":  [
+                                                                     "15%",
+                                                                     "18%",
+                                                                     "12"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Preludio dell\u0027alba lucente"
+                                       },
                     "sacrificialbow":  {
                                            "r3":  {
                                                       "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 60% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 22 s.",
@@ -13601,7 +13692,7 @@
                                                  "specialname":  null
                                              },
                     "mirrormaiden":  {
-                                         "name":  "Sacerdotessa degli specchi",
+                                         "name":  "Dama degli specchi",
                                          "specialname":  null
                                      },
                     "pyrospecter":  {

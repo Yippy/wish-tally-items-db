@@ -365,9 +365,9 @@
                       "crownofinsight":  {
                                              "name":  "Vương Miện Trí Thức"
                                          },
-                      "shimmeringnectar":  {
-                                               "name":  "Mật Hoa Lấp Lánh"
-                                           },
+                      "jubilantfeather":  {
+                                              "name":  "Lông Vũ Reo Hò"
+                                          },
                       "eelmeat":  {
                                       "name":  "Thịt Lươn"
                                   },
@@ -1129,6 +1129,9 @@
                                                       },
                       "bitterpufferfish":  {
                                                "name":  "Cá Pháo Cay Đắng"
+                                           },
+                      "shimmeringnectar":  {
+                                               "name":  "Mật Hoa Lấp Lánh"
                                            },
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Mảnh Giấc Mơ Tháp Cô Vương"
@@ -4686,6 +4689,47 @@
                                      "region":  "Sumeru",
                                      "gender":  "nam"
                                  },
+                       "emilie":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Tinh Hoa Hồ Quang",
+                                                                        "descriptionRaw":  "Khi \u003ccolor=#FFD780FF\u003eChiết Xuất Nước Hoa\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eTrình Diễn Hương Thơm\u003c/color\u003e hoặc Tinh Hoa Sương Sớm của thiên phú cố định Dư Hương (cần mở khóa thiên phú cố định) đánh trúng kẻ địch, kẻ địch này sẽ giảm 30% \u003ccolor=#99FF88FF\u003eKháng Nguyên Tố Thảo\u003c/color\u003e trong 10s.",
+                                                                        "description":  "Khi Chiết Xuất Nước Hoa, Trình Diễn Hương Thơm hoặc Tinh Hoa Sương Sớm của thiên phú cố định Dư Hương (cần mở khóa thiên phú cố định) đánh trúng kẻ địch, kẻ địch này sẽ giảm 30% Kháng Nguyên Tố Thảo trong 10s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Tâm Sắc Lumidouce",
+                                                                        "descriptionRaw":  "Thời gian duy trì \u003ccolor=#FFD780FF\u003eTrình Diễn Hương Thơm\u003c/color\u003e kéo dài thêm 2s, đồng thời giãn cách mỗi kẻ địch bị Sương Thơm chọn làm mục tiêu giảm 0.3s.",
+                                                                        "description":  "Thời gian duy trì Trình Diễn Hương Thơm kéo dài thêm 2s, đồng thời giãn cách mỗi kẻ địch bị Sương Thơm chọn làm mục tiêu giảm 0.3s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Tinh Chất Nồng Nàn",
+                                                                        "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eChiết Xuất Nước Hoa\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                        "description":  "Cấp kỹ năng Chiết Xuất Nước Hoa +3.\nTăng tối đa đến cấp 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Hương Thơm Sương Sớm",
+                                                                        "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eTrình Diễn Hương Thơm\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                        "description":  "Cấp kỹ năng Trình Diễn Hương Thơm +3.\nTăng tối đa đến cấp 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Dư Hương Marcotte",
+                                                                        "descriptionRaw":  "Khi thi triển \u003ccolor=#FFD780FF\u003eChiết Xuất Nước Hoa\u003c/color\u003e hoặc \u003ccolor=#FFD780FF\u003eTrình Diễn Hương Thơm\u003c/color\u003e, Emilie nhận được hiệu quả \"Dư Hương Quanh Quẩn\" trong 5s.\nTrong thời gian duy trì, sau khi Emilie tiến hành Tấn Công Thường hoặc Trọng Kích sẽ sản sinh một Hương Thơm, đòn Tấn Công Thường và Trọng Kích của Emilie sẽ chuyển thành \u003ccolor=#99FF88FF\u003eSát Thương Nguyên Tố Thảo\u003c/color\u003e không thể bị thay thế, đồng thời tăng sát thương gây ra tương đương với 300% Tấn Công của Emilie.\n\nHiệu quả \"Dư Hương Quanh Quẩn\" sẽ bị xóa khi sản sinh 4 Hương Thơm thông qua cách này hoặc kết thúc thời gian duy trì. Mỗi 12s tối đa nhận một lần hiệu quả \"Dư Hương Quanh Quẩn\".",
+                                                                        "description":  "Khi thi triển Chiết Xuất Nước Hoa hoặc Trình Diễn Hương Thơm, Emilie nhận được hiệu quả \"Dư Hương Quanh Quẩn\" trong 5s.\nTrong thời gian duy trì, sau khi Emilie tiến hành Tấn Công Thường hoặc Trọng Kích sẽ sản sinh một Hương Thơm, đòn Tấn Công Thường và Trọng Kích của Emilie sẽ chuyển thành Sát Thương Nguyên Tố Thảo không thể bị thay thế, đồng thời tăng sát thương gây ra tương đương với 300% Tấn Công của Emilie.\n\nHiệu quả \"Dư Hương Quanh Quẩn\" sẽ bị xóa khi sản sinh 4 Hương Thơm thông qua cách này hoặc kết thúc thời gian duy trì. Mỗi 12s tối đa nhận một lần hiệu quả \"Dư Hương Quanh Quẩn\"."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Hương Hoa Nhẹ Nhàng",
+                                                                        "descriptionRaw":  "Sát thương gây ra từ Tinh Hoa Sương Sớm của \u003ccolor=#FFD780FF\u003eChiết Xuất Nước Hoa\u003c/color\u003e và thiên phú \"Dư Hương\" tăng 20%, vế sau cần mở khóa thiên phú \"Dư Hương\".\nNgoài ra, khi nhân vật trong đội gần đó kích hoạt phản ứng Thiêu Đốt lên kẻ địch hoặc gây \u003ccolor=#99FF88FF\u003eSát Thương Nguyên Tố Thảo\u003c/color\u003e lên kẻ địch đang trong trạng thái Thiêu Đốt, sẽ sinh thêm một \u003ccolor=#FFD780FF\u003eHương Thơm\u003c/color\u003e. Hiệu quả này mỗi 2.9s tối đa kích hoạt một lần.",
+                                                                        "description":  "Sát thương gây ra từ Tinh Hoa Sương Sớm của Chiết Xuất Nước Hoa và thiên phú \"Dư Hương\" tăng 20%, vế sau cần mở khóa thiên phú \"Dư Hương\".\nNgoài ra, khi nhân vật trong đội gần đó kích hoạt phản ứng Thiêu Đốt lên kẻ địch hoặc gây Sát Thương Nguyên Tố Thảo lên kẻ địch đang trong trạng thái Thiêu Đốt, sẽ sinh thêm một Hương Thơm. Hiệu quả này mỗi 2.9s tối đa kích hoạt một lần."
+                                                                    }
+                                                         },
+                                      "elementText":  "Thảo",
+                                      "fullname":  null,
+                                      "weaponText":  "Vũ Khí Cán Dài",
+                                      "name":  "Emilie",
+                                      "substatText":  "ST Bạo Kích",
+                                      "region":  "Fontaine",
+                                      "gender":  "nữ"
+                                  },
                        "noelle":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -7824,6 +7868,53 @@
                                                          },
                                                   "effectName":  "Vũ Điệu Samurai"
                                               },
+                    "lumidouceelegy":  {
+                                           "r3":  {
+                                                      "description":  "Tấn Công tăng 23%; Người trang bị khi kích hoạt phản ứng Thiêu Đốt lên kẻ địch hoặc gây Sát Thương Nguyên Tố Thảo lên kẻ địch trong trạng thái Thiêu Đốt, sát thương gây ra sẽ tăng 28%. Hiệu quả này duy trì 8s, tối đa cộng dồn 2 tầng; Khi cộng dồn đến tầng 2 hoặc thời gian duy trì của tầng 2 được làm mới thì sẽ hồi phục 14 Năng Lượng Nguyên Tố. Mỗi 12s tối đa hồi phục một lần Năng Lượng Nguyên Tố thông qua cách thức này. Nhân vật không ra trận cũng có thể kích hoạt 2 hiệu quả nêu trên.",
+                                                      "values":  [
+                                                                     "23%",
+                                                                     "28%",
+                                                                     "14"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Tấn Công tăng 31%; Người trang bị khi kích hoạt phản ứng Thiêu Đốt lên kẻ địch hoặc gây Sát Thương Nguyên Tố Thảo lên kẻ địch trong trạng thái Thiêu Đốt, sát thương gây ra sẽ tăng 38%. Hiệu quả này duy trì 8s, tối đa cộng dồn 2 tầng; Khi cộng dồn đến tầng 2 hoặc thời gian duy trì của tầng 2 được làm mới thì sẽ hồi phục 16 Năng Lượng Nguyên Tố. Mỗi 12s tối đa hồi phục một lần Năng Lượng Nguyên Tố thông qua cách thức này. Nhân vật không ra trận cũng có thể kích hoạt 2 hiệu quả nêu trên.",
+                                                      "values":  [
+                                                                     "31%",
+                                                                     "38%",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Tấn Công tăng 19%; Người trang bị khi kích hoạt phản ứng Thiêu Đốt lên kẻ địch hoặc gây Sát Thương Nguyên Tố Thảo lên kẻ địch trong trạng thái Thiêu Đốt, sát thương gây ra sẽ tăng 23%. Hiệu quả này duy trì 8s, tối đa cộng dồn 2 tầng; Khi cộng dồn đến tầng 2 hoặc thời gian duy trì của tầng 2 được làm mới thì sẽ hồi phục 13 Năng Lượng Nguyên Tố. Mỗi 12s tối đa hồi phục một lần Năng Lượng Nguyên Tố thông qua cách thức này. Nhân vật không ra trận cũng có thể kích hoạt 2 hiệu quả nêu trên.",
+                                                      "values":  [
+                                                                     "19%",
+                                                                     "23%",
+                                                                     "13"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Tấn Công tăng 27%; Người trang bị khi kích hoạt phản ứng Thiêu Đốt lên kẻ địch hoặc gây Sát Thương Nguyên Tố Thảo lên kẻ địch trong trạng thái Thiêu Đốt, sát thương gây ra sẽ tăng 33%. Hiệu quả này duy trì 8s, tối đa cộng dồn 2 tầng; Khi cộng dồn đến tầng 2 hoặc thời gian duy trì của tầng 2 được làm mới thì sẽ hồi phục 15 Năng Lượng Nguyên Tố. Mỗi 12s tối đa hồi phục một lần Năng Lượng Nguyên Tố thông qua cách thức này. Nhân vật không ra trận cũng có thể kích hoạt 2 hiệu quả nêu trên.",
+                                                      "values":  [
+                                                                     "27%",
+                                                                     "33%",
+                                                                     "15"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Tỷ Lệ Bạo Kích",
+                                           "weaponText":  "Vũ Khí Cán Dài",
+                                           "name":  "Bi Ca Lumidouce",
+                                           "effectTemplateRaw":  "Tấn Công tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e; Người trang bị khi kích hoạt phản ứng Thiêu Đốt lên kẻ địch hoặc gây Sát Thương Nguyên Tố Thảo lên kẻ địch trong trạng thái Thiêu Đốt, sát thương gây ra sẽ tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Hiệu quả này duy trì 8s, tối đa cộng dồn 2 tầng; Khi cộng dồn đến tầng 2 hoặc thời gian duy trì của tầng 2 được làm mới thì sẽ hồi phục \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e Năng Lượng Nguyên Tố. Mỗi 12s tối đa hồi phục một lần Năng Lượng Nguyên Tố thông qua cách thức này. Nhân vật không ra trận cũng có thể kích hoạt 2 hiệu quả nêu trên.",
+                                           "r1":  {
+                                                      "description":  "Tấn Công tăng 15%; Người trang bị khi kích hoạt phản ứng Thiêu Đốt lên kẻ địch hoặc gây Sát Thương Nguyên Tố Thảo lên kẻ địch trong trạng thái Thiêu Đốt, sát thương gây ra sẽ tăng 18%. Hiệu quả này duy trì 8s, tối đa cộng dồn 2 tầng; Khi cộng dồn đến tầng 2 hoặc thời gian duy trì của tầng 2 được làm mới thì sẽ hồi phục 12 Năng Lượng Nguyên Tố. Mỗi 12s tối đa hồi phục một lần Năng Lượng Nguyên Tố thông qua cách thức này. Nhân vật không ra trận cũng có thể kích hoạt 2 hiệu quả nêu trên.",
+                                                      "values":  [
+                                                                     "15%",
+                                                                     "18%",
+                                                                     "12"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Khúc Dạo Đầu Bình Minh"
+                                       },
                     "sacrificialbow":  {
                                            "r3":  {
                                                       "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 60% làm mới thời gian CD kỹ năng đó, mỗi 22s mới thi triển 1 lần.",

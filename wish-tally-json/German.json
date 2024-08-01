@@ -365,9 +365,9 @@
                       "crownofinsight":  {
                                              "name":  "Krone der Weisheit"
                                          },
-                      "shimmeringnectar":  {
-                                               "name":  "Leuchtender Nektar"
-                                           },
+                      "jubilantfeather":  {
+                                              "name":  "Jubelfeder"
+                                          },
                       "eelmeat":  {
                                       "name":  "Aalfleisch"
                                   },
@@ -1129,6 +1129,9 @@
                                                       },
                       "bitterpufferfish":  {
                                                "name":  "Bitterer Kugelfisch"
+                                           },
+                      "shimmeringnectar":  {
+                                               "name":  "Leuchtender Nektar"
                                            },
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Decarabians zerstörter Traum"
@@ -4686,6 +4689,47 @@
                                      "region":  "Sumeru",
                                      "gender":  "Männlich"
                                  },
+                       "emilie":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Angeruch der Seebrise",
+                                                                        "descriptionRaw":  "#Verringert den \u003ccolor=#99FF88FF\u003eDendro-WDS\u003c/color\u003e des Gegners 10{NON_BREAK_SPACE}s lang um 30{NON_BREAK_SPACE}%, wenn dieser von \u003ccolor=#FFD780FF\u003e„Essenzsammlung und Duftmischung“\u003c/color\u003e, \u003ccolor=#FFD780FF\u003e„Manifestation der driftenden Essenzen“\u003c/color\u003e oder Duft des klaren Taus des passiven Talents „Nachklingender Wohlgeruch“ (muss zuerst freigeschaltet werden) getroffen wird.",
+                                                                        "description":  "Verringert den Dendro-WDS des Gegners 10 s lang um 30 %, wenn dieser von „Essenzsammlung und Duftmischung“, „Manifestation der driftenden Essenzen“ oder Duft des klaren Taus des passiven Talents „Nachklingender Wohlgeruch“ (muss zuerst freigeschaltet werden) getroffen wird."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Lumidouce-Herz",
+                                                                        "descriptionRaw":  "#Verlängert die Dauer von \u003ccolor=#FFD780FF\u003e„Manifestation der driftenden Essenzen“\u003c/color\u003e um 2{NON_BREAK_SPACE}s. Das Intervall zwischen der Auswahl eines Gegners als Ziel für Dufttau wird um 0,3{NON_BREAK_SPACE}s verringert.",
+                                                                        "description":  "Verlängert die Dauer von „Manifestation der driftenden Essenzen“ um 2 s. Das Intervall zwischen der Auswahl eines Gegners als Ziel für Dufttau wird um 0,3 s verringert."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Exquisite Essenz",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eEssenzsammlung und Duftmischung\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Fähigkeit Essenzsammlung und Duftmischung um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Reintau-Duft",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eManifestation der driftenden Essenzen\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Fähigkeit Manifestation der driftenden Essenzen um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Marcotte-Spur",
+                                                                        "descriptionRaw":  "#Beim Auslösen von \u003ccolor=#FFD780FF\u003eEssenzsammlung und Duftmischung\u003c/color\u003e oder \u003ccolor=#FFD780FF\u003eManifestation der driftenden Essenzen\u003c/color\u003e erhält Émilie 5{NON_BREAK_SPACE}s lang den Effekt „Verweilender Duft“.\nWandelt während der Wirkungsdauer den mit Émilies Standardangriffen und heftigen Schlägen verursachten Schaden zu \u003ccolor=#99FF88FF\u003eDendro-Schaden\u003c/color\u003e, der nicht von anderen Elementen überdeckt werden kann, und erhöht den damit verursachten Schaden um 300{NON_BREAK_SPACE}% von Émilies ANG. Erschafft außerdem nach dem Ausführen der Standardangriffe oder heftigen Schläge eine Essenz.\n\nDer Effekt „Verweilender Duft“ wird aufgehoben, nachdem 4 Essenzen auf diese Weise erzeugt worden sind oder die Wirkungsdauer abgelaufen ist. 12{NON_BREAK_SPACE}s Abklingzeit für das Erhalten des Effektes „Verweilender Duft“.",
+                                                                        "description":  "Beim Auslösen von Essenzsammlung und Duftmischung oder Manifestation der driftenden Essenzen erhält Émilie 5 s lang den Effekt „Verweilender Duft“.\nWandelt während der Wirkungsdauer den mit Émilies Standardangriffen und heftigen Schlägen verursachten Schaden zu Dendro-Schaden, der nicht von anderen Elementen überdeckt werden kann, und erhöht den damit verursachten Schaden um 300 % von Émilies ANG. Erschafft außerdem nach dem Ausführen der Standardangriffe oder heftigen Schläge eine Essenz.\n\nDer Effekt „Verweilender Duft“ wird aufgehoben, nachdem 4 Essenzen auf diese Weise erzeugt worden sind oder die Wirkungsdauer abgelaufen ist. 12 s Abklingzeit für das Erhalten des Effektes „Verweilender Duft“."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Auslaugung leichter Düfte",
+                                                                        "descriptionRaw":  "#Erhöht den durch die Fähigkeit \u003ccolor=#FFD780FF\u003e„Essenzsammlung und Duftmischung“\u003c/color\u003e und den Duft des klaren Taus des passiven Talents „Nachklingender Wohlgeruch“ verursachten Schaden um 20{NON_BREAK_SPACE}%. Das passive Talent „Nachklingender Wohlgeruch“ muss für das Letztere zuerst freigeschaltet werden.\nWenn Truppenmitglieder in der Nähe an Gegnern die Reaktion „In Flammen“ auslösen oder den im Zustand „In Flammen“ befindlichen Gegnern \u003ccolor=#99FF88FF\u003eDendro-Schaden\u003c/color\u003e zufügen, wird außerdem eine zusätzliche \u003ccolor=#FFD780FF\u003eEssenz\u003c/color\u003e erschaffen, 2,9{NON_BREAK_SPACE}s Abklingzeit.",
+                                                                        "description":  "Erhöht den durch die Fähigkeit „Essenzsammlung und Duftmischung“ und den Duft des klaren Taus des passiven Talents „Nachklingender Wohlgeruch“ verursachten Schaden um 20 %. Das passive Talent „Nachklingender Wohlgeruch“ muss für das Letztere zuerst freigeschaltet werden.\nWenn Truppenmitglieder in der Nähe an Gegnern die Reaktion „In Flammen“ auslösen oder den im Zustand „In Flammen“ befindlichen Gegnern Dendro-Schaden zufügen, wird außerdem eine zusätzliche Essenz erschaffen, 2,9 s Abklingzeit."
+                                                                    }
+                                                         },
+                                      "elementText":  "Dendro",
+                                      "fullname":  null,
+                                      "weaponText":  "Stangenwaffe",
+                                      "name":  "Émilie",
+                                      "substatText":  "KSCH",
+                                      "region":  "Fontaine",
+                                      "gender":  "Weiblich"
+                                  },
                        "noelle":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -7824,6 +7868,53 @@
                                                          },
                                                   "effectName":  "Verhalten eines Samurais"
                                               },
+                    "lumidouceelegy":  {
+                                           "r3":  {
+                                                      "description":  "Erhöht den ANG um 23 %. Erhöht den verursachten Schaden um 28 %, nachdem der Träger bei Gegnern die Reaktion „In Flammen“ ausgelöst oder den im Zustand „In Flammen“ befindlichen Gegnern Dendro-Schaden zugefügt hat, hält 8 s, 2-fach stapelbar. Stellt bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen 14 Punkte Elementarenergie wieder her. Die Elementarenergie kann auf diese Weise alle 12 s höchstens einmal wiederhergestellt werden. Die beiden oben genannten Effekte können auch noch ausgelöst werden, wenn sich die Figur inaktiv in der Truppe befindet.",
+                                                      "values":  [
+                                                                     "23{NON_BREAK_SPACE}%",
+                                                                     "28{NON_BREAK_SPACE}%",
+                                                                     "14"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Erhöht den ANG um 31 %. Erhöht den verursachten Schaden um 38 %, nachdem der Träger bei Gegnern die Reaktion „In Flammen“ ausgelöst oder den im Zustand „In Flammen“ befindlichen Gegnern Dendro-Schaden zugefügt hat, hält 8 s, 2-fach stapelbar. Stellt bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen 16 Punkte Elementarenergie wieder her. Die Elementarenergie kann auf diese Weise alle 12 s höchstens einmal wiederhergestellt werden. Die beiden oben genannten Effekte können auch noch ausgelöst werden, wenn sich die Figur inaktiv in der Truppe befindet.",
+                                                      "values":  [
+                                                                     "31{NON_BREAK_SPACE}%",
+                                                                     "38{NON_BREAK_SPACE}%",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Erhöht den ANG um 19 %. Erhöht den verursachten Schaden um 23 %, nachdem der Träger bei Gegnern die Reaktion „In Flammen“ ausgelöst oder den im Zustand „In Flammen“ befindlichen Gegnern Dendro-Schaden zugefügt hat, hält 8 s, 2-fach stapelbar. Stellt bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen 13 Punkte Elementarenergie wieder her. Die Elementarenergie kann auf diese Weise alle 12 s höchstens einmal wiederhergestellt werden. Die beiden oben genannten Effekte können auch noch ausgelöst werden, wenn sich die Figur inaktiv in der Truppe befindet.",
+                                                      "values":  [
+                                                                     "19{NON_BREAK_SPACE}%",
+                                                                     "23{NON_BREAK_SPACE}%",
+                                                                     "13"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Erhöht den ANG um 27 %. Erhöht den verursachten Schaden um 33 %, nachdem der Träger bei Gegnern die Reaktion „In Flammen“ ausgelöst oder den im Zustand „In Flammen“ befindlichen Gegnern Dendro-Schaden zugefügt hat, hält 8 s, 2-fach stapelbar. Stellt bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen 15 Punkte Elementarenergie wieder her. Die Elementarenergie kann auf diese Weise alle 12 s höchstens einmal wiederhergestellt werden. Die beiden oben genannten Effekte können auch noch ausgelöst werden, wenn sich die Figur inaktiv in der Truppe befindet.",
+                                                      "values":  [
+                                                                     "27{NON_BREAK_SPACE}%",
+                                                                     "33{NON_BREAK_SPACE}%",
+                                                                     "15"
+                                                                 ]
+                                                  },
+                                           "substatText":  "KT",
+                                           "weaponText":  "Stangenwaffe",
+                                           "name":  "Lumidouce-Elegie",
+                                           "effectTemplateRaw":  "#Erhöht den ANG um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Erhöht den verursachten Schaden um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, nachdem der Träger bei Gegnern die Reaktion „In Flammen“ ausgelöst oder den im Zustand „In Flammen“ befindlichen Gegnern Dendro-Schaden zugefügt hat, hält 8{NON_BREAK_SPACE}s, 2-fach stapelbar. Stellt bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e Punkte Elementarenergie wieder her. Die Elementarenergie kann auf diese Weise alle 12{NON_BREAK_SPACE}s höchstens einmal wiederhergestellt werden. Die beiden oben genannten Effekte können auch noch ausgelöst werden, wenn sich die Figur inaktiv in der Truppe befindet.",
+                                           "r1":  {
+                                                      "description":  "Erhöht den ANG um 15 %. Erhöht den verursachten Schaden um 18 %, nachdem der Träger bei Gegnern die Reaktion „In Flammen“ ausgelöst oder den im Zustand „In Flammen“ befindlichen Gegnern Dendro-Schaden zugefügt hat, hält 8 s, 2-fach stapelbar. Stellt bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen 12 Punkte Elementarenergie wieder her. Die Elementarenergie kann auf diese Weise alle 12 s höchstens einmal wiederhergestellt werden. Die beiden oben genannten Effekte können auch noch ausgelöst werden, wenn sich die Figur inaktiv in der Truppe befindet.",
+                                                      "values":  [
+                                                                     "15{NON_BREAK_SPACE}%",
+                                                                     "18{NON_BREAK_SPACE}%",
+                                                                     "12"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Ouvertüre zur Morgenröte"
+                                       },
                     "sacrificialbow":  {
                                            "r3":  {
                                                       "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 60 %, 22 s Abklingzeit.",

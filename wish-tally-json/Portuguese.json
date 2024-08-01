@@ -365,9 +365,9 @@
                       "crownofinsight":  {
                                              "name":  "Coroa da Sabedoria"
                                          },
-                      "shimmeringnectar":  {
-                                               "name":  "Néctar Brilhante"
-                                           },
+                      "jubilantfeather":  {
+                                              "name":  "Penas Jubilantes"
+                                          },
                       "eelmeat":  {
                                       "name":  "Carne Unagi"
                                   },
@@ -1129,6 +1129,9 @@
                                                       },
                       "bitterpufferfish":  {
                                                "name":  "Fugu Amargo"
+                                           },
+                      "shimmeringnectar":  {
+                                               "name":  "Néctar Brilhante"
                                            },
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Pedaços de Sonho da Decarabian"
@@ -2549,8 +2552,8 @@
                                          "constellations":  {
                                                                 "c2":  {
                                                                            "name":  "\"Pode o Mais Misericordioso Espírito Derrotar seus Inimigos?\"",
-                                                                           "descriptionRaw":  "Ao usar \u003ccolor=#FFD780FF\u003eTerapia de Água Saltitante\u003c/color\u003ee \u003ccolor=#FFD780FF\u003eInjeção Super Saturada\u003c/color\u003e, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve \u003ccolor=#80C0FFFF\u003eDano Hydro\u003c/color\u003e com 250% de eficiência.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a \u003ccolor=#80C0FFFF\u003eRES Hydro\u003c/color\u003e desse oponente será reduzida em 35% por 8s.",
-                                                                           "description":  "Ao usar Terapia de Água Saltitantee Injeção Super Saturada, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve Dano Hydro com 250% de eficiência.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a RES Hydro desse oponente será reduzida em 35% por 8s."
+                                                                           "descriptionRaw":  "Ao usar \u003ccolor=#FFD780FF\u003eTerapia de Água Saltitante\u003c/color\u003ee \u003ccolor=#FFD780FF\u003eInjeção Super Saturada\u003c/color\u003e, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve \u003ccolor=#80C0FFFF\u003eDano Hydro\u003c/color\u003e com 250% de eficiência, que dura até a conclusão do uso.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a \u003ccolor=#80C0FFFF\u003eRES Hydro\u003c/color\u003e desse oponente será reduzida em 35% por 8s.",
+                                                                           "description":  "Ao usar Terapia de Água Saltitantee Injeção Super Saturada, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve Dano Hydro com 250% de eficiência, que dura até a conclusão do uso.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a RES Hydro desse oponente será reduzida em 35% por 8s."
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "\"Pode o mais Adorável Espírito Conter a Queda?\"",
@@ -4686,6 +4689,47 @@
                                      "region":  "Sumeru",
                                      "gender":  "Masculino"
                                  },
+                       "emilie":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Harmonia de Luzes",
+                                                                        "descriptionRaw":  "Quando \u003ccolor=#FFD780FF\u003eExtração de Fragrância\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eApresentação Aromática\u003c/color\u003e ou Colônia do Orvalho produzidos pelo Talento Passivo \"Fragrância Residual\" (é necessário ter desbloqueado esse Talento Passivo) atingir um inimigo, a \u003ccolor=#99FF88FF\u003eRES Dendro\u003c/color\u003e desse inimigo é reduzida em 30% por 10s.",
+                                                                        "description":  "Quando Extração de Fragrância, Apresentação Aromática ou Colônia do Orvalho produzidos pelo Talento Passivo \"Fragrância Residual\" (é necessário ter desbloqueado esse Talento Passivo) atingir um inimigo, a RES Dendro desse inimigo é reduzida em 30% por 10s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Aroma Lumidouce",
+                                                                        "descriptionRaw":  "Aumenta a duração de \u003ccolor=#FFD780FF\u003eApresentação Aromática\u003c/color\u003e em 2s, e o tempo para cada inimigo ser escolhido para ser atingido pela Chuva Aromática será reduzido em 0.3s.",
+                                                                        "description":  "Aumenta a duração de Apresentação Aromática em 2s, e o tempo para cada inimigo ser escolhido para ser atingido pela Chuva Aromática será reduzido em 0.3s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Fragrâncias Reunidas",
+                                                                        "descriptionRaw":  "Aumenta o nível do \u003ccolor=#FFD780FF\u003eExtração de Fragrância\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível do Extração de Fragrância em 3.\nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Aroma do Orvalho Puro",
+                                                                        "descriptionRaw":  "Aumenta o nível de \u003ccolor=#FFD780FF\u003eApresentação Aromática\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível de Apresentação Aromática em 3.\nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Fragrância da Marcotte",
+                                                                        "descriptionRaw":  "Ao lançar \u003ccolor=#FFD780FF\u003eExtração de Fragrância\u003c/color\u003e ou \u003ccolor=#FFD780FF\u003eApresentação Aromática\u003c/color\u003e, Emilie obtém \"Aroma Remanescente\" por 5s.\nNa duração, depois de fazer um Ataque Normal ou Carregado, gera um Aroma e os Ataques Normais e Carregados de Emilie serão convertidos em \u003ccolor=#99FF88FF\u003eDano Dendro\u003c/color\u003e que não pode ser substituído, e aumenta o Dano causado. O valor do aumento é equivalente a 300% do ATQ de Emilie.\n\nO efeito Aroma Remanescente será removido depois de gerar 4 Aromas dessa forma ou quando sua duração acabar. É possível obter o efeito Aroma Remanescente uma vez a cada 12s.",
+                                                                        "description":  "Ao lançar Extração de Fragrância ou Apresentação Aromática, Emilie obtém \"Aroma Remanescente\" por 5s.\nNa duração, depois de fazer um Ataque Normal ou Carregado, gera um Aroma e os Ataques Normais e Carregados de Emilie serão convertidos em Dano Dendro que não pode ser substituído, e aumenta o Dano causado. O valor do aumento é equivalente a 300% do ATQ de Emilie.\n\nO efeito Aroma Remanescente será removido depois de gerar 4 Aromas dessa forma ou quando sua duração acabar. É possível obter o efeito Aroma Remanescente uma vez a cada 12s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Análise de Fragrância Leve",
+                                                                        "descriptionRaw":  "Aumenta o Dano causado por \u003ccolor=#FFD780FF\u003eExtração de Fragrância\u003c/color\u003e e por Colônia do Orvalho do Talento Passivo \"Fragrância Residual\" em 20%. Para o segundo, é necessário primeiro desbloquear o Talento Passivo.\nAlém disso, quando um personagem próximo da equipe desencadeia Queimadura no inimigo, ou quando causa \u003ccolor=#99FF88FF\u003eDano Dendro\u003c/color\u003e contra um inimigo que está Queimando, gera um \u003ccolor=#FFD780FF\u003eAroma\u003c/color\u003e adicional. Esse efeito pode ser desencadeado uma vez a cada 2.9s.",
+                                                                        "description":  "Aumenta o Dano causado por Extração de Fragrância e por Colônia do Orvalho do Talento Passivo \"Fragrância Residual\" em 20%. Para o segundo, é necessário primeiro desbloquear o Talento Passivo.\nAlém disso, quando um personagem próximo da equipe desencadeia Queimadura no inimigo, ou quando causa Dano Dendro contra um inimigo que está Queimando, gera um Aroma adicional. Esse efeito pode ser desencadeado uma vez a cada 2.9s."
+                                                                    }
+                                                         },
+                                      "elementText":  "Dendro",
+                                      "fullname":  null,
+                                      "weaponText":  "Lança",
+                                      "name":  "Emilie",
+                                      "substatText":  "Dano Crítico",
+                                      "region":  "Fontaine",
+                                      "gender":  "Feminino"
+                                  },
                        "noelle":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -7824,6 +7868,53 @@
                                                          },
                                                   "effectName":  "Conduta do Samurai"
                                               },
+                    "lumidouceelegy":  {
+                                           "r3":  {
+                                                      "description":  "Aumenta o ATQ em 23%. Quando o personagem que está com essa arma equipada desencadeia Queimadura ou causa Dano Dendro a oponentes com Queimaduras, aumenta o Dano causado em 28%. Esse efeito dura 8s e pode ser acumulado até 2 vezes. Quando atingir 2 acúmulos ou a duração dos 2 acúmulos for redefinida, regenera 14 de Energia Elemental. É possível regenerar Energia Elemental dessa forma uma vez a cada 12s. Esses dois efeitos também são aplicáveis a personagens que não estão ativos no campo de batalha.",
+                                                      "values":  [
+                                                                     "23%",
+                                                                     "28%",
+                                                                     "14"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Aumenta o ATQ em 31%. Quando o personagem que está com essa arma equipada desencadeia Queimadura ou causa Dano Dendro a oponentes com Queimaduras, aumenta o Dano causado em 38%. Esse efeito dura 8s e pode ser acumulado até 2 vezes. Quando atingir 2 acúmulos ou a duração dos 2 acúmulos for redefinida, regenera 16 de Energia Elemental. É possível regenerar Energia Elemental dessa forma uma vez a cada 12s. Esses dois efeitos também são aplicáveis a personagens que não estão ativos no campo de batalha.",
+                                                      "values":  [
+                                                                     "31%",
+                                                                     "38%",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Aumenta o ATQ em 19%. Quando o personagem que está com essa arma equipada desencadeia Queimadura ou causa Dano Dendro a oponentes com Queimaduras, aumenta o Dano causado em 23%. Esse efeito dura 8s e pode ser acumulado até 2 vezes. Quando atingir 2 acúmulos ou a duração dos 2 acúmulos for redefinida, regenera 13 de Energia Elemental. É possível regenerar Energia Elemental dessa forma uma vez a cada 12s. Esses dois efeitos também são aplicáveis a personagens que não estão ativos no campo de batalha.",
+                                                      "values":  [
+                                                                     "19%",
+                                                                     "23%",
+                                                                     "13"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Aumenta o ATQ em 27%. Quando o personagem que está com essa arma equipada desencadeia Queimadura ou causa Dano Dendro a oponentes com Queimaduras, aumenta o Dano causado em 33%. Esse efeito dura 8s e pode ser acumulado até 2 vezes. Quando atingir 2 acúmulos ou a duração dos 2 acúmulos for redefinida, regenera 15 de Energia Elemental. É possível regenerar Energia Elemental dessa forma uma vez a cada 12s. Esses dois efeitos também são aplicáveis a personagens que não estão ativos no campo de batalha.",
+                                                      "values":  [
+                                                                     "27%",
+                                                                     "33%",
+                                                                     "15"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Taxa Crítica",
+                                           "weaponText":  "Lança",
+                                           "name":  "Elegia Lumidouce",
+                                           "effectTemplateRaw":  "Aumenta o ATQ em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Quando o personagem que está com essa arma equipada desencadeia Queimadura ou causa Dano Dendro a oponentes com Queimaduras, aumenta o Dano causado em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Esse efeito dura 8s e pode ser acumulado até 2 vezes. Quando atingir 2 acúmulos ou a duração dos 2 acúmulos for redefinida, regenera \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e de Energia Elemental. É possível regenerar Energia Elemental dessa forma uma vez a cada 12s. Esses dois efeitos também são aplicáveis a personagens que não estão ativos no campo de batalha.",
+                                           "r1":  {
+                                                      "description":  "Aumenta o ATQ em 15%. Quando o personagem que está com essa arma equipada desencadeia Queimadura ou causa Dano Dendro a oponentes com Queimaduras, aumenta o Dano causado em 18%. Esse efeito dura 8s e pode ser acumulado até 2 vezes. Quando atingir 2 acúmulos ou a duração dos 2 acúmulos for redefinida, regenera 12 de Energia Elemental. É possível regenerar Energia Elemental dessa forma uma vez a cada 12s. Esses dois efeitos também são aplicáveis a personagens que não estão ativos no campo de batalha.",
+                                                      "values":  [
+                                                                     "15%",
+                                                                     "18%",
+                                                                     "12"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Prelúdio do Amanhecer"
+                                       },
                     "sacrificialbow":  {
                                            "r3":  {
                                                       "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 60% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 22 segundos.",

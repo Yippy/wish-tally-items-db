@@ -396,9 +396,9 @@
                       "crownofinsight":  {
                                              "name":  "Crown of Insight"
                                          },
-                      "shimmeringnectar":  {
-                                               "name":  "Shimmering Nectar"
-                                           },
+                      "jubilantfeather":  {
+                                              "name":  "Jubilant Feather"
+                                          },
                       "eelmeat":  {
                                       "name":  "Eel Meat"
                                   },
@@ -1160,6 +1160,9 @@
                                                       },
                       "bitterpufferfish":  {
                                                "name":  "Bitter Pufferfish"
+                                           },
+                      "shimmeringnectar":  {
+                                               "name":  "Shimmering Nectar"
                                            },
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Scattered Piece of Decarabian\u0027s Dream"
@@ -4717,6 +4720,47 @@
                                      "region":  "Sumeru",
                                      "gender":  "Male"
                                  },
+                       "emilie":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Lakelight Top Note",
+                                                                        "descriptionRaw":  "When \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eAromatic Explication\u003c/color\u003e, or Cleardew Cologne produced by the Passive Talent \"Lingering Fragrance\" (the last of which requires Passive Talent activation) hits opponents, those opponents\u0027 \u003ccolor=#99FF88FF\u003eDendro RES\u003c/color\u003e is decreased by 30% for 10s.",
+                                                                        "description":  "When Fragrance Extraction, Aromatic Explication, or Cleardew Cologne produced by the Passive Talent \"Lingering Fragrance\" (the last of which requires Passive Talent activation) hits opponents, those opponents\u0027 Dendro RES is decreased by 30% for 10s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Lumidouce Heart Note",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAromatic Explication\u003c/color\u003e\u0027s duration is increased by 2s. The interval between opponents being selected as the target for Scented Dew is decreased by 0.3s.",
+                                                                        "description":  "Aromatic Explication\u0027s duration is increased by 2s. The interval between opponents being selected as the target for Scented Dew is decreased by 0.3s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Exquisite Essence",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of Fragrance Extraction by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Puredew Aroma",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eAromatic Explication\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of Aromatic Explication by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Marcotte Sillage",
+                                                                        "descriptionRaw":  "When using \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e or \u003ccolor=#FFD780FF\u003eAromatic Explication\u003c/color\u003e, Emilie will gain Abiding Fragrance for 5s.\nWhile this is active, after Emilie uses Normal or Charged Attacks, she will generate 1 Scent, and her Normal and Charged Attack DMG will be converted into \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e that cannot be overridden, and the DMG dealt will be increased by 300% of Emilie\u0027s ATK.\n\nThe Abiding Fragrance effect will be removed after 4 Scents are created this way or after its duration expires. Abiding Fragrance can be triggered once every 12s.",
+                                                                        "description":  "When using Fragrance Extraction or Aromatic Explication, Emilie will gain Abiding Fragrance for 5s.\nWhile this is active, after Emilie uses Normal or Charged Attacks, she will generate 1 Scent, and her Normal and Charged Attack DMG will be converted into Dendro DMG that cannot be overridden, and the DMG dealt will be increased by 300% of Emilie\u0027s ATK.\n\nThe Abiding Fragrance effect will be removed after 4 Scents are created this way or after its duration expires. Abiding Fragrance can be triggered once every 12s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Light Fragrance Leaching",
+                                                                        "descriptionRaw":  "Increases the DMG dealt by \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e and her Passive Talent\u0027s Cleardew Cologne \"Lingering Fragrance\" by 20%. The latter requires unlocking said Passive Talent first.\nAdditionally, when nearby party members trigger the Burning reaction on opponents or deal \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e to Burning opponents, they will generate an additional \u003ccolor=#FFD780FF\u003eScent\u003c/color\u003e. This effect can be triggered once every 2.9s.",
+                                                                        "description":  "Increases the DMG dealt by Fragrance Extraction and her Passive Talent\u0027s Cleardew Cologne \"Lingering Fragrance\" by 20%. The latter requires unlocking said Passive Talent first.\nAdditionally, when nearby party members trigger the Burning reaction on opponents or deal Dendro DMG to Burning opponents, they will generate an additional Scent. This effect can be triggered once every 2.9s."
+                                                                    }
+                                                         },
+                                      "elementText":  "Dendro",
+                                      "fullname":  null,
+                                      "weaponText":  "Polearm",
+                                      "name":  "Emilie",
+                                      "substatText":  "CRIT DMG",
+                                      "region":  "Fontaine",
+                                      "gender":  "Female"
+                                  },
                        "noelle":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -7855,6 +7899,53 @@
                                                          },
                                                   "effectName":  "Samurai Conduct"
                                               },
+                    "lumidouceelegy":  {
+                                           "r3":  {
+                                                      "description":  "ATK increased by 23%. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 28%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore 14 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                                                      "values":  [
+                                                                     "23%",
+                                                                     "28%",
+                                                                     "14"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "ATK increased by 31%. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 38%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore 16 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                                                      "values":  [
+                                                                     "31%",
+                                                                     "38%",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "ATK increased by 19%. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 23%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore 13 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                                                      "values":  [
+                                                                     "19%",
+                                                                     "23%",
+                                                                     "13"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "ATK increased by 27%. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 33%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore 15 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                                                      "values":  [
+                                                                     "27%",
+                                                                     "33%",
+                                                                     "15"
+                                                                 ]
+                                                  },
+                                           "substatText":  "CRIT Rate",
+                                           "weaponText":  "Polearm",
+                                           "name":  "Lumidouce Elegy",
+                                           "effectTemplateRaw":  "ATK increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                                           "r1":  {
+                                                      "description":  "ATK increased by 15%. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 18%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore 12 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                                                      "values":  [
+                                                                     "15%",
+                                                                     "18%",
+                                                                     "12"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Bright Dawn Overture"
+                                       },
                     "sacrificialbow":  {
                                            "r3":  {
                                                       "description":  "After damaging an opponent with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s.",
