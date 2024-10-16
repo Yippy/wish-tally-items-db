@@ -2216,6 +2216,9 @@
                       "akossakevessel":  {
                                              "name":  "Ako\u0027nun Sake Kabı"
                                          },
+                      "goldinscribedsecretsourcecore":  {
+                                                            "name":  "Altın İşlemeli Gizli Kaynak Çekirdeği"
+                                                        },
                       "philosophiesofdiligence":  {
                                                       "name":  "Çalışkanlık Felsefesi"
                                                   },
@@ -4512,6 +4515,47 @@
                                       "region":  "Liyue",
                                       "gender":  "kadın"
                                   },
+                       "xilonen":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Chiucue Miksi",
+                                                                         "descriptionRaw":  "Xilonen\u0027in \u003ccolor=#FFE699FF\u003eToprak\u003c/color\u003e Örnek Kayıtları her zaman etkin kalır. Ayrıca, Örnek Kayıtları etkinken yakındaki tüm grup üyeleri, kendi Element Türlerine denk gelen etkin Örnek Kayıtlara göre şu etkileri kazanır:\n·\u003ccolor=#FFE699FF\u003eToprak\u003c/color\u003e: Verilen Hasar +%50.\n·\u003ccolor=#FF9999FF\u003eAteş\u003c/color\u003e: Saldırı +%45.\n·\u003ccolor=#80C0FFFF\u003eSu\u003c/color\u003e: Maks. Can +%45.\n·\u003ccolor=#99FFFFFF\u003eBuz\u003c/color\u003e: Kritik Hasar +%60.\n·\u003ccolor=#FFACFFFF\u003eElektrik\u003c/color\u003e: 25 Enerji yeniler, Element Patlaması Bekleme Süresi 6sn azalır.",
+                                                                         "description":  "Xilonen\u0027in Toprak Örnek Kayıtları her zaman etkin kalır. Ayrıca, Örnek Kayıtları etkinken yakındaki tüm grup üyeleri, kendi Element Türlerine denk gelen etkin Örnek Kayıtlara göre şu etkileri kazanır:\n·Toprak: Verilen Hasar +%50.\n·Ateş: Saldırı +%45.\n·Su: Maks. Can +%45.\n·Buz: Kritik Hasar +%60.\n·Elektrik: 25 Enerji yeniler, Element Patlaması Bekleme Süresi 6sn azalır."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Suchitl Transı",
+                                                                         "descriptionRaw":  "Xilonen \u003ccolor=#FFD780FF\u003eYohual Pençesi\u003c/color\u003e kullandıktan sonra yakındaki tüm grup üyelerine 15sn boyunca Görkem Lütfu etkisi verir.\nGörkem Lütfu alan karakterlerin Normal, Yüklü ve Havadan Saldırı Hasarı, Xilonen\u0027in Savunmasının %65\u0027i kadar artar. Bu etki 6 defa tetiklendiğinde veya süre sona erdiğinde kaldırılır.\nSaldırılar birden fazla düşmana isabet ettiğinde tüketilen tetiklenme sayısı, isabet alan düşman sayısına göre hesaplanır. Görkem Lütfuna sahip olan grup üyeleri için tetiklenme sayısı ayrı ayrı hesaplanır.",
+                                                                         "description":  "Xilonen Yohual Pençesi kullandıktan sonra yakındaki tüm grup üyelerine 15sn boyunca Görkem Lütfu etkisi verir.\nGörkem Lütfu alan karakterlerin Normal, Yüklü ve Havadan Saldırı Hasarı, Xilonen\u0027in Savunmasının %65\u0027i kadar artar. Bu etki 6 defa tetiklendiğinde veya süre sona erdiğinde kaldırılır.\nSaldırılar birden fazla düşmana isabet ettiğinde tüketilen tetiklenme sayısı, isabet alan düşman sayısına göre hesaplanır. Görkem Lütfuna sahip olan grup üyeleri için tetiklenme sayısı ayrı ayrı hesaplanır."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Tonalpohualli Döngüsü",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eYohual Pençesi\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                         "description":  "Yohual Pençesi Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Tlaltecuhtli Geçişi",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eOselo Ritmi!\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                         "description":  "Oselo Ritmi! Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Ölümsüz Gece Karnavalı",
+                                                                         "descriptionRaw":  "Xilonen Gece Ruhunun Lütfu durumundayken depar attığında, zıpladığında veya Normal ya da Havadan Saldırı yaptığında Ölümsüz Gece Kutsaması kazanır. Bu durumdayken Gece Ruhunun Lütfu sınırlamalarını yok sayar, 5sn boyunca Normal ve Havadan Saldırılarının verdiği Hasar artar.\nBu süre boyunca:\n·Gece Ruhunun Lütfu süre sınırının geri sayımı dondurulur. Xilonen\u0027in Gece Ruhu puanları, Filojistonu ve Dayanıklılığı azalmaz, Gece Ruhu puanı en üst sınıra ulaştığında Gece Ruhunun Lütfu durumu da sona ermez.\n·Xilonen Gece Ruhunun Lütfu durumundayken Normal ve Havadan Saldırı Hasarı, Savunmasının %300\u0027ü kadar artar.\n·Yakındaki grup üyelerini her 1,5 saniyede bir Savunmasının %120\u0027si oranında iyileştirir.\nXilonen her 15 saniyede 1 Ölümsüz Gece Kutsaması kazanabilir.",
+                                                                         "description":  "Xilonen Gece Ruhunun Lütfu durumundayken depar attığında, zıpladığında veya Normal ya da Havadan Saldırı yaptığında Ölümsüz Gece Kutsaması kazanır. Bu durumdayken Gece Ruhunun Lütfu sınırlamalarını yok sayar, 5sn boyunca Normal ve Havadan Saldırılarının verdiği Hasar artar.\nBu süre boyunca:\n·Gece Ruhunun Lütfu süre sınırının geri sayımı dondurulur. Xilonen\u0027in Gece Ruhu puanları, Filojistonu ve Dayanıklılığı azalmaz, Gece Ruhu puanı en üst sınıra ulaştığında Gece Ruhunun Lütfu durumu da sona ermez.\n·Xilonen Gece Ruhunun Lütfu durumundayken Normal ve Havadan Saldırı Hasarı, Savunmasının %300\u0027ü kadar artar.\n·Yakındaki grup üyelerini her 1,5 saniyede bir Savunmasının %120\u0027si oranında iyileştirir.\nXilonen her 15 saniyede 1 Ölümsüz Gece Kutsaması kazanabilir."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Yıllık İzin",
+                                                                         "descriptionRaw":  "Xilonen\u0027in Gece Ruhunun Lütfu durumundayken tükettiği Gece Ruhu puanı ve Filojiston %30 azalır, Gece Ruhu puanı süre sınırı %45 uzar.\nAyrıca Xilonen\u0027in Örnek Kayıtları etkinken yakındaki karakterlerin müdahale dirençleri de artar.",
+                                                                         "description":  "Xilonen\u0027in Gece Ruhunun Lütfu durumundayken tükettiği Gece Ruhu puanı ve Filojiston %30 azalır, Gece Ruhu puanı süre sınırı %45 uzar.\nAyrıca Xilonen\u0027in Örnek Kayıtları etkinken yakındaki karakterlerin müdahale dirençleri de artar."
+                                                                     }
+                                                          },
+                                       "elementText":  "Toprak",
+                                       "fullname":  null,
+                                       "weaponText":  "Kılıç",
+                                       "name":  "Xilonen",
+                                       "substatText":  "Savunma",
+                                       "region":  "Natlan",
+                                       "gender":  "kadın"
+                                   },
                        "chevreuse":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -7307,6 +7351,48 @@
                                                           },
                                                    "effectName":  "Ufuk Serabı"
                                                },
+                    "fruitfulhook":  {
+                                         "r3":  {
+                                                    "description":  "Havadan Saldırı Kritik Oranı %24 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %24 artar.",
+                                                    "values":  [
+                                                                   "%24",
+                                                                   "%24"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Havadan Saldırı Kritik Oranı %32 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %32 artar.",
+                                                    "values":  [
+                                                                   "%32",
+                                                                   "%32"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Havadan Saldırı Kritik Oranı %20 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %20 artar.",
+                                                    "values":  [
+                                                                   "%20",
+                                                                   "%20"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Havadan Saldırı Kritik Oranı %28 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %28 artar.",
+                                                    "values":  [
+                                                                   "%28",
+                                                                   "%28"
+                                                               ]
+                                                },
+                                         "substatText":  "Saldırı",
+                                         "weaponText":  "Çift Elli Kılıç",
+                                         "name":  "Meyve Kancası",
+                                         "effectTemplateRaw":  "Havadan Saldırı Kritik Oranı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artar.",
+                                         "r1":  {
+                                                    "description":  "Havadan Saldırı Kritik Oranı %16 artar. Bir düşmana Havadan Saldırı ile vurulduğunda 10sn boyunca Normal, Yüklü ve Havadan Saldırıların verdiği Hasar %16 artar.",
+                                                    "values":  [
+                                                                   "%16",
+                                                                   "%16"
+                                                               ]
+                                                },
+                                         "effectName":  "Dökülen Dalların Ağırlığı"
+                                     },
                     "emeraldorb":  {
                                        "r3":  {
                                                   "description":  "Bir Buharlaşma, Elektrik Yüklü, Donma, Çiçeklenme veya Su Tesirli Girdap tepkimesine yol açtıktan sonra 12 saniyeliğine Saldırı %30 artar.",
@@ -9132,6 +9218,43 @@
                                                      },
                                               "effectName":  "Zuhur"
                                           },
+                    "whiteblind":  {
+                                       "r3":  {
+                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %9 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
+                                                  "values":  [
+                                                                 "%9"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %12 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
+                                                  "values":  [
+                                                                 "%12"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %7,5 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
+                                                  "values":  [
+                                                                 "%7,5"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %10,5 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
+                                                  "values":  [
+                                                                 "%10,5"
+                                                             ]
+                                              },
+                                       "substatText":  "Savunma",
+                                       "weaponText":  "Çift Elli Kılıç",
+                                       "name":  "Akkörelten",
+                                       "effectTemplateRaw":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
+                                       "r1":  {
+                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %6 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
+                                                  "values":  [
+                                                                 "%6"
+                                                             ]
+                                              },
+                                       "effectName":  "Tesirli Kılıç"
+                                   },
                     "favoniuswarbow":  {
                                            "r3":  {
                                                       "description":  "Kritik Vuruşlar, %80 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 9 saniyede bir uygulanabilir.",
@@ -9364,6 +9487,43 @@
                                                "r1":  null,
                                                "effectName":  null
                                            },
+                    "sturdybone":  {
+                                       "r3":  {
+                                                  "description":  "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %24\u0027ü kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+                                                  "values":  [
+                                                                 "%24\u0027ü"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %32\u0027si kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+                                                  "values":  [
+                                                                 "%32\u0027si"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %20\u0027si kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+                                                  "values":  [
+                                                                 "%20\u0027si"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %28\u0027i kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+                                                  "values":  [
+                                                                 "%28\u0027i"
+                                                             ]
+                                              },
+                                       "substatText":  "Saldırı",
+                                       "weaponText":  "Kılıç",
+                                       "name":  "Sağlam Kemik",
+                                       "effectTemplateRaw":  "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+                                       "r1":  {
+                                                  "description":  "Depar veya Alternatif Depar Dayanıklılık Tüketimi %15 azalır. Ayrıca Depar veya Alternatif Depar kullanıldığında Normal Saldırı Hasarı, Saldırının %16\u0027sı kadar artar. Bu etki 18 defa tetiklendiğinde veya 7sn geçtiğinde sona erer.",
+                                                  "values":  [
+                                                                 "%16\u0027sı"
+                                                             ]
+                                              },
+                                       "effectName":  "Öncü Gururu"
+                                   },
                     "theflute":  {
                                      "r3":  {
                                                 "description":  "İsabet eden Normal veya Yüklü Saldırılar bir Armonik kazandırır. 5 Armonik kazanıldığında müziğin gücü tetiklenerek çevredeki düşmanlara %150 Saldırı kadar Hasar verilir. Armonikler 30 saniyeye kadar bekler ve her 0,5 saniyede en fazla 1 tane kazanılır.",
@@ -9796,6 +9956,48 @@
                                                      },
                                               "effectName":  "Bilenmiş Akım"
                                           },
+                    "favoniussword":  {
+                                          "r3":  {
+                                                     "description":  "Kritik Vuruşlar, %80 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 9 saniyede bir uygulanabilir.",
+                                                     "values":  [
+                                                                    "%80",
+                                                                    "9"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Kritik Vuruşlar, %100 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 6 saniyede bir uygulanabilir.",
+                                                     "values":  [
+                                                                    "%100",
+                                                                    "6"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Kritik Vuruşlar, %70 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 10,5 saniyede bir uygulanabilir.",
+                                                     "values":  [
+                                                                    "%70",
+                                                                    "10,5"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Kritik Vuruşlar, %90 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 7,5 saniyede bir uygulanabilir.",
+                                                     "values":  [
+                                                                    "%90",
+                                                                    "7,5"
+                                                                ]
+                                                 },
+                                          "substatText":  "Enerji Yüklemesi",
+                                          "weaponText":  "Kılıç",
+                                          "name":  "Favonius Kılıcı",
+                                          "effectTemplateRaw":  "Kritik Vuruşlar, \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e saniyede bir uygulanabilir.",
+                                          "r1":  {
+                                                     "description":  "Kritik Vuruşlar, %60 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 12 saniyede bir uygulanabilir.",
+                                                     "values":  [
+                                                                    "%60",
+                                                                    "12"
+                                                                ]
+                                                 },
+                                          "effectName":  "Talih Kuşu"
+                                      },
                     "sacrificialsword":  {
                                              "r3":  {
                                                         "description":  "Bir düşmana bir Element Becerisi ile hasar verildikten sonra becerinin Bekleme Süresi %60 ihtimalle sıfırlanır. 22 saniyede bir uygulanabilir.",
@@ -11319,43 +11521,58 @@
                                                    },
                                             "effectName":  "Yeşim Döngüsü"
                                         },
-                    "whiteblind":  {
-                                       "r3":  {
-                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %9 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
-                                                  "values":  [
-                                                                 "%9"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %12 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
-                                                  "values":  [
-                                                                 "%12"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %7,5 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
-                                                  "values":  [
-                                                                 "%7,5"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %10,5 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
-                                                  "values":  [
-                                                                 "%10,5"
-                                                             ]
-                                              },
-                                       "substatText":  "Savunma",
-                                       "weaponText":  "Çift Elli Kılıç",
-                                       "name":  "Akkörelten",
-                                       "effectTemplateRaw":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
-                                       "r1":  {
-                                                  "description":  "Normal veya Yüklü Saldırılarla darbe vurduğunda, 6 saniyeliğine Saldırı ve Savunmayı %6 artırır. 4 kademeye kadar birikir. Bu etki 0,5 saniyede bir uygulanabilir.",
-                                                  "values":  [
-                                                                 "%6"
-                                                             ]
-                                              },
-                                       "effectName":  "Tesirli Kılıç"
-                                   },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Normal veya Havadan Saldırılar bir düşmana isabet ettiğinde \"Çiçek Kasidesi\" etkisi kazanılır: 6sn boyunca Savunma %12 artar ve %15 Tüm Element Hasarları Bonusu kazanılır, en fazla 2 kademe birikebilir. Her 0,1 saniyede bir tetiklenebilir. Bu etki 2 kademeye ulaştığında veya 2. kademenin süresi yenilendiğinde 15sn boyunca yakındaki tüm grup üyelerinin Tüm Element Hasarları Bonusu, kuşanan karakterin sahip olduğu her 1.000 Savunma başına %12 artar, en fazla %38,4 artabilir.",
+                                                      "values":  [
+                                                                     "%12",
+                                                                     "%15",
+                                                                     "%12",
+                                                                     "%38,4"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Normal veya Havadan Saldırılar bir düşmana isabet ettiğinde \"Çiçek Kasidesi\" etkisi kazanılır: 6sn boyunca Savunma %16 artar ve %20 Tüm Element Hasarları Bonusu kazanılır, en fazla 2 kademe birikebilir. Her 0,1 saniyede bir tetiklenebilir. Bu etki 2 kademeye ulaştığında veya 2. kademenin süresi yenilendiğinde 15sn boyunca yakındaki tüm grup üyelerinin Tüm Element Hasarları Bonusu, kuşanan karakterin sahip olduğu her 1.000 Savunma başına %16 artar, en fazla %51,2 artabilir.",
+                                                      "values":  [
+                                                                     "%16",
+                                                                     "%20",
+                                                                     "%16",
+                                                                     "%51,2"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Normal veya Havadan Saldırılar bir düşmana isabet ettiğinde \"Çiçek Kasidesi\" etkisi kazanılır: 6sn boyunca Savunma %10 artar ve %12,5 Tüm Element Hasarları Bonusu kazanılır, en fazla 2 kademe birikebilir. Her 0,1 saniyede bir tetiklenebilir. Bu etki 2 kademeye ulaştığında veya 2. kademenin süresi yenilendiğinde 15sn boyunca yakındaki tüm grup üyelerinin Tüm Element Hasarları Bonusu, kuşanan karakterin sahip olduğu her 1.000 Savunma başına %10 artar, en fazla %32 artabilir.",
+                                                      "values":  [
+                                                                     "%10",
+                                                                     "%12,5",
+                                                                     "%10",
+                                                                     "%32"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Normal veya Havadan Saldırılar bir düşmana isabet ettiğinde \"Çiçek Kasidesi\" etkisi kazanılır: 6sn boyunca Savunma %14 artar ve %17,5 Tüm Element Hasarları Bonusu kazanılır, en fazla 2 kademe birikebilir. Her 0,1 saniyede bir tetiklenebilir. Bu etki 2 kademeye ulaştığında veya 2. kademenin süresi yenilendiğinde 15sn boyunca yakındaki tüm grup üyelerinin Tüm Element Hasarları Bonusu, kuşanan karakterin sahip olduğu her 1.000 Savunma başına %14 artar, en fazla %44,8 artabilir.",
+                                                      "values":  [
+                                                                     "%14",
+                                                                     "%17,5",
+                                                                     "%14",
+                                                                     "%44,8"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Savunma",
+                                           "weaponText":  "Kılıç",
+                                           "name":  "Tepe Devriyesi Şarkısı",
+                                           "effectTemplateRaw":  "Normal veya Havadan Saldırılar bir düşmana isabet ettiğinde \"Çiçek Kasidesi\" etkisi kazanılır: 6sn boyunca Savunma \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar ve \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Tüm Element Hasarları Bonusu kazanılır, en fazla 2 kademe birikebilir. Her 0,1 saniyede bir tetiklenebilir. Bu etki 2 kademeye ulaştığında veya 2. kademenin süresi yenilendiğinde 15sn boyunca yakındaki tüm grup üyelerinin Tüm Element Hasarları Bonusu, kuşanan karakterin sahip olduğu her 1.000 Savunma başına \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e artar, en fazla \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e artabilir.",
+                                           "r1":  {
+                                                      "description":  "Normal veya Havadan Saldırılar bir düşmana isabet ettiğinde \"Çiçek Kasidesi\" etkisi kazanılır: 6sn boyunca Savunma %8 artar ve %10 Tüm Element Hasarları Bonusu kazanılır, en fazla 2 kademe birikebilir. Her 0,1 saniyede bir tetiklenebilir. Bu etki 2 kademeye ulaştığında veya 2. kademenin süresi yenilendiğinde 15sn boyunca yakındaki tüm grup üyelerinin Tüm Element Hasarları Bonusu, kuşanan karakterin sahip olduğu her 1.000 Savunma başına %8 artar, en fazla %25,6 artabilir.",
+                                                      "values":  [
+                                                                     "%8",
+                                                                     "%10",
+                                                                     "%8",
+                                                                     "%25,6"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Bitmeyen Altın Çağ"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -12524,48 +12741,48 @@
                                                     },
                                              "effectName":  "Parçalama"
                                          },
-                    "favoniussword":  {
-                                          "r3":  {
-                                                     "description":  "Kritik Vuruşlar, %80 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 9 saniyede bir uygulanabilir.",
-                                                     "values":  [
-                                                                    "%80",
-                                                                    "9"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Kritik Vuruşlar, %100 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 6 saniyede bir uygulanabilir.",
-                                                     "values":  [
-                                                                    "%100",
-                                                                    "6"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Kritik Vuruşlar, %70 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 10,5 saniyede bir uygulanabilir.",
-                                                     "values":  [
-                                                                    "%70",
-                                                                    "10,5"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Kritik Vuruşlar, %90 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 7,5 saniyede bir uygulanabilir.",
-                                                     "values":  [
-                                                                    "%90",
-                                                                    "7,5"
-                                                                ]
-                                                 },
-                                          "substatText":  "Enerji Yüklemesi",
-                                          "weaponText":  "Kılıç",
-                                          "name":  "Favonius Kılıcı",
-                                          "effectTemplateRaw":  "Kritik Vuruşlar, \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e saniyede bir uygulanabilir.",
-                                          "r1":  {
-                                                     "description":  "Kritik Vuruşlar, %60 ihtimalle karaktere 6 Enerji kazandıracak küçük bir miktar Element Parçacığı açığa çıkarır. 12 saniyede bir uygulanabilir.",
-                                                     "values":  [
-                                                                    "%60",
-                                                                    "12"
-                                                                ]
-                                                 },
-                                          "effectName":  "Talih Kuşu"
-                                      },
+                    "mountainbracingbolt":  {
+                                                "r3":  {
+                                                           "description":  "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %18 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %18 artar.",
+                                                           "values":  [
+                                                                          "%18",
+                                                                          "%18"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %24 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %24 artar.",
+                                                           "values":  [
+                                                                          "%24",
+                                                                          "%24"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %15 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %15 artar.",
+                                                           "values":  [
+                                                                          "%15",
+                                                                          "%15"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %21 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %21 artar.",
+                                                           "values":  [
+                                                                          "%21",
+                                                                          "%21"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Enerji Yüklemesi",
+                                                "weaponText":  "Mızrak",
+                                                "name":  "Dağ Sürgüsü",
+                                                "effectTemplateRaw":  "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artar.",
+                                                "r1":  {
+                                                           "description":  "Tırmanma Dayanıklılık Tüketimi %15 azalır ve Element Becerisi Hasarı %12 artar. Ayrıca yakındaki diğer grup üyeleri Element Becerisi kullandığında kuşanan karakterin de 8sn boyunca Element Becerisi Hasarı %12 artar.",
+                                                           "values":  [
+                                                                          "%12",
+                                                                          "%12"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Tepenin Ardındaki Umut"
+                                            },
                     "ironsting":  {
                                       "r3":  {
                                                  "description":  "Element Hasarı verildiğinde 6 saniyeliğine tüm Hasarlar %9 artar. 2 kademeye kadar birikir. Her 1 saniyede bir uygulanabilir.",
@@ -13864,10 +14081,10 @@
                                                 "name":  "Çevik Adım: Fırtına Gözcüsü",
                                                 "specialname":  null
                                             },
-                    "woodenshieldhilichurlguard":  {
-                                                       "name":  "Ahşap Kalkanlı Dağ Yabanisi Muhafızı",
-                                                       "specialname":  null
-                                                   },
+                    "secretsourceautomatonconfigurationdevice":  {
+                                                                     "name":  "Gizli Kaynak Canavar Makinası: Yapılandırma Cihazı",
+                                                                     "specialname":  null
+                                                                 },
                     "stormterror":  {
                                         "name":  "Fırtına Dehşeti",
                                         "specialname":  null
@@ -14288,6 +14505,10 @@
                                         "name":  "Balon Ahtapot",
                                         "specialname":  null
                                     },
+                    "tenebrousmimiflora":  {
+                                               "name":  "Karanlık Taklit Çiçeği",
+                                               "specialname":  null
+                                           },
                     "taintedwatersplittingphantasm":  {
                                                           "name":  "Lekeli Su Yaran Tayf",
                                                           "specialname":  null
@@ -14388,6 +14609,10 @@
                                        "name":  "Harabe Ezicisi",
                                        "specialname":  null
                                    },
+                    "woodenshieldhilichurlguard":  {
+                                                       "name":  "Ahşap Kalkanlı Dağ Yabanisi Muhafızı",
+                                                       "specialname":  null
+                                                   },
                     "tepetlisaurwhelp":  {
                                              "name":  "Yavru Tepetlizor",
                                              "specialname":  null

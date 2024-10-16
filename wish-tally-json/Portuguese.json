@@ -2216,6 +2216,9 @@
                       "akossakevessel":  {
                                              "name":  "Recipiente para Saquê de Ako"
                                          },
+                      "goldinscribedsecretsourcecore":  {
+                                                            "name":  "Núcleo da Fonte Secreta com Inscrição Dourada"
+                                                        },
                       "philosophiesofdiligence":  {
                                                       "name":  "Filosofia de Esforço"
                                                   },
@@ -3520,8 +3523,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Bico de Papagaio",
-                                                                        "descriptionRaw":  "Após Kinich aterrissar do ataque aéreo de \u003ccolor=#FFD780FF\u003eCaçador de Dossel: Montando nas Alturas\u003c/color\u003e, sua Veloc. Mov. aumentará em 30% por 6s. \nAlém disso, o Dano CRIT do Canhão Perfurador Giratório é aumentado em 100%.",
-                                                                        "description":  "Após Kinich aterrissar do ataque aéreo de Caçador de Dossel: Montando nas Alturas, sua Veloc. Mov. aumentará em 30% por 6s. \nAlém disso, o Dano CRIT do Canhão Perfurador Giratório é aumentado em 100%."
+                                                                        "descriptionRaw":  "Após Kinich aterrissar do balanço de \u003ccolor=#FFD780FF\u003eCaçador de Dossel: Montando nas Alturas\u003c/color\u003e, sua Veloc. Mov. aumentará em 30% por 6s. \nAlém disso, o Dano CRIT do Canhão Perfurador Giratório é aumentado em 100%.",
+                                                                        "description":  "Após Kinich aterrissar do balanço de Caçador de Dossel: Montando nas Alturas, sua Veloc. Mov. aumentará em 30% por 6s. \nAlém disso, o Dano CRIT do Canhão Perfurador Giratório é aumentado em 100%."
                                                                     }
                                                          },
                                       "elementText":  "Dendro",
@@ -4512,6 +4515,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Feminino"
                                   },
+                       "xilonen":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mix Chiucue",
+                                                                         "descriptionRaw":  "A Amostra \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e de Xilonen ficará ativa do começo ao fim. Além disso, ao ativar Amostra da Origem de Xilonen, todos os personagens de mesmo Tipo Elemental que o Tipo Elemental da Amostra da Origem obtêm os seguintes efeitos:\n· \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e: aumenta o Dano causado em 50%;\n·\u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e: aumenta o ATQ em 45%.\n·\u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e: aumenta a Vida Máxima em 45%;\n·\u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e aumenta o Dano CRIT em 60%;\n·\u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e: regenera 25 de Energia Elemental, e reduz a recarga do Supremo em 6s.",
+                                                                         "description":  "A Amostra Geo de Xilonen ficará ativa do começo ao fim. Além disso, ao ativar Amostra da Origem de Xilonen, todos os personagens de mesmo Tipo Elemental que o Tipo Elemental da Amostra da Origem obtêm os seguintes efeitos:\n· Geo: aumenta o Dano causado em 50%;\n·Pyro: aumenta o ATQ em 45%.\n·Hydro: aumenta a Vida Máxima em 45%;\n·Cryo aumenta o Dano CRIT em 60%;\n·Electro: regenera 25 de Energia Elemental, e reduz a recarga do Supremo em 6s."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Sonho de Suchitl",
+                                                                         "descriptionRaw":  "Depois que Xilonen lançar \u003ccolor=#FFD780FF\u003eArranhão de Yohual\u003c/color\u003e, aplica em todos os membros próximos da equipe o efeito \"Bênção Gloriosa\" por 15s.\nPersonagens que possuem \"Bênção Gloriosa\" ganham um aumento de Dano em seus Ataques Normal, Carregados e Imersivos de 65% da DEF de Xilonen. Esse efeito é removido depois de surtir efeito 6 vezes ou quando a duração acabar.\nAo atingir mais de um inimigo simultaneamente, consumirá vezes de surtimento de efeito de acordo com a quantidade de inimigos atingida. A contagem de surtimentos de efeitos é contada separadamente para os personagens da equipe que possuem \"Bênção Gloriosa\".",
+                                                                         "description":  "Depois que Xilonen lançar Arranhão de Yohual, aplica em todos os membros próximos da equipe o efeito \"Bênção Gloriosa\" por 15s.\nPersonagens que possuem \"Bênção Gloriosa\" ganham um aumento de Dano em seus Ataques Normal, Carregados e Imersivos de 65% da DEF de Xilonen. Esse efeito é removido depois de surtir efeito 6 vezes ou quando a duração acabar.\nAo atingir mais de um inimigo simultaneamente, consumirá vezes de surtimento de efeito de acordo com a quantidade de inimigos atingida. A contagem de surtimentos de efeitos é contada separadamente para os personagens da equipe que possuem \"Bênção Gloriosa\"."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Patrulha de Tonalpuhualli",
+                                                                         "descriptionRaw":  "Aumenta o nível do \u003ccolor=#FFD780FF\u003eArranhão de Yohual\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                         "description":  "Aumenta o nível do Arranhão de Yohual em 3.\nO nível máximo de elevação é 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Estilo de Tlaltecuhtli",
+                                                                         "descriptionRaw":  "Aumenta o nível do \u003ccolor=#FFD780FF\u003eRitmo Ocelotlicue!\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                         "description":  "Aumenta o nível do Ritmo Ocelotlicue! em 3.\nO nível máximo de elevação é 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Carnaval da Noite Eterna",
+                                                                         "descriptionRaw":  "Quando Xilonen está no estado de Bênção do Espírito da Noite, ao correr, saltar ou usar Ataques Normais, ou Imersivos, ela ganhará a Bênção da Noite Eterna, ignorando as limitações de seu estado de Bênção do Espírito da Noite e aumentando o Dano causado por seus Ataques Normais e Imersivos por 5s.\nDurante esse tempo:\n· O cronômetro de limite de tempo da Bênção do Espírito da Noite será pausado. Os pontos de Espírito da Noite de Xilonen, Flogisto e Stamina não diminuirão, e quando seus pontos de Espírito da Noite atingirem o máximo, seu estado de Bênção do Espírito da Noite também não terminará.\n· Xilonen causa 300% de sua DEF como aumento de Dano de Ataque Normal e Imersivo enquanto estiver no estado de Bênção do Espírito da Noite.\n· Ela cura os membros da equipe próximos em 120% de sua DEF a cada 1.5s.\nEla pode ganhar 1 Bênção da Noite Eterna uma vez a cada 15s.",
+                                                                         "description":  "Quando Xilonen está no estado de Bênção do Espírito da Noite, ao correr, saltar ou usar Ataques Normais, ou Imersivos, ela ganhará a Bênção da Noite Eterna, ignorando as limitações de seu estado de Bênção do Espírito da Noite e aumentando o Dano causado por seus Ataques Normais e Imersivos por 5s.\nDurante esse tempo:\n· O cronômetro de limite de tempo da Bênção do Espírito da Noite será pausado. Os pontos de Espírito da Noite de Xilonen, Flogisto e Stamina não diminuirão, e quando seus pontos de Espírito da Noite atingirem o máximo, seu estado de Bênção do Espírito da Noite também não terminará.\n· Xilonen causa 300% de sua DEF como aumento de Dano de Ataque Normal e Imersivo enquanto estiver no estado de Bênção do Espírito da Noite.\n· Ela cura os membros da equipe próximos em 120% de sua DEF a cada 1.5s.\nEla pode ganhar 1 Bênção da Noite Eterna uma vez a cada 15s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Férias Sabáticas",
+                                                                         "descriptionRaw":  "Reduz o consumo de pontos de Espírito da Noite e de Flogisto do estado Bênção do Espírito da Noite de Xilonen em 30%, e prolonga a duração dos pontos de Espírito da Noite em 45%.\nAlém disso, quando ativa Amostra da Origem de Xilonen, aumenta RES contra Interrupção dos membros próximos ativos da equipe.",
+                                                                         "description":  "Reduz o consumo de pontos de Espírito da Noite e de Flogisto do estado Bênção do Espírito da Noite de Xilonen em 30%, e prolonga a duração dos pontos de Espírito da Noite em 45%.\nAlém disso, quando ativa Amostra da Origem de Xilonen, aumenta RES contra Interrupção dos membros próximos ativos da equipe."
+                                                                     }
+                                                          },
+                                       "elementText":  "Geo",
+                                       "fullname":  null,
+                                       "weaponText":  "Espada",
+                                       "name":  "Xilonen",
+                                       "substatText":  "DEF",
+                                       "region":  "Natlan",
+                                       "gender":  "Feminino"
+                                   },
                        "chevreuse":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -5882,7 +5926,7 @@
                                                                          "description":  "Aumenta o nível da Tubarão Surfista das Ondas em 3.\nO nível máximo de elevação é 15."
                                                                      },
                                                               "c5":  {
-                                                                         "name":  "Mesma Modelo de Prancha com Desconto!",
+                                                                         "name":  "Mesmo Modelo de Prancha com Desconto!",
                                                                          "descriptionRaw":  "Aumenta o nível da \u003ccolor=#FFD780FF\u003eDisparo da Tempestade Explosiva\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
                                                                          "description":  "Aumenta o nível da Disparo da Tempestade Explosiva em 3.\nO nível máximo de elevação é 15."
                                                                      },
@@ -7307,6 +7351,48 @@
                                                           },
                                                    "effectName":  "Sonho Ardente no Fim do Horizonte"
                                                },
+                    "fruitfulhook":  {
+                                         "r3":  {
+                                                    "description":  "Aumenta a Taxa CRIT dos Ataques Imersivos em 24%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 24% por 10s.",
+                                                    "values":  [
+                                                                   "24%",
+                                                                   "24%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Aumenta a Taxa CRIT dos Ataques Imersivos em 32%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 32% por 10s.",
+                                                    "values":  [
+                                                                   "32%",
+                                                                   "32%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Aumenta a Taxa CRIT dos Ataques Imersivos em 20%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 20% por 10s.",
+                                                    "values":  [
+                                                                   "20%",
+                                                                   "20%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Aumenta a Taxa CRIT dos Ataques Imersivos em 28%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 28% por 10s.",
+                                                    "values":  [
+                                                                   "28%",
+                                                                   "28%"
+                                                               ]
+                                                },
+                                         "substatText":  "ATQ",
+                                         "weaponText":  "Espadão",
+                                         "name":  "Gancho Frutífero",
+                                         "effectTemplateRaw":  "Aumenta a Taxa CRIT dos Ataques Imersivos em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e por 10s.",
+                                         "r1":  {
+                                                    "description":  "Aumenta a Taxa CRIT dos Ataques Imersivos em 16%. Quando um Ataque Imersivo atinge um inimigo, aumenta o Dano causado pelos Ataques Normais, Carregados e Imersivos em 16% por 10s.",
+                                                    "values":  [
+                                                                   "16%",
+                                                                   "16%"
+                                                               ]
+                                                },
+                                         "effectName":  "Peso dos Galhos Caídos"
+                                     },
                     "emeraldorb":  {
                                        "r3":  {
                                                   "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em 30% por 12s.",
@@ -9132,6 +9218,43 @@
                                                      },
                                               "effectName":  "Descensão"
                                           },
+                    "whiteblind":  {
+                                       "r3":  {
+                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 9% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+                                                  "values":  [
+                                                                 "9%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 12% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+                                                  "values":  [
+                                                                 "12%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 7.5% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+                                                  "values":  [
+                                                                 "7.5%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 10.5% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+                                                  "values":  [
+                                                                 "10.5%"
+                                                             ]
+                                              },
+                                       "substatText":  "DEF",
+                                       "weaponText":  "Espadão",
+                                       "name":  "Sombra Branca",
+                                       "effectTemplateRaw":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+                                       "r1":  {
+                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 6% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+                                                  "values":  [
+                                                                 "6%"
+                                                             ]
+                                              },
+                                       "effectName":  "Ponta Energética"
+                                   },
                     "favoniuswarbow":  {
                                            "r3":  {
                                                       "description":  "Os Acertos Críticos possuem 80% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 9s.",
@@ -9364,6 +9487,43 @@
                                                "r1":  null,
                                                "effectName":  null
                                            },
+                    "sturdybone":  {
+                                       "r3":  {
+                                                  "description":  "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 24% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+                                                  "values":  [
+                                                                 "24%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 32% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+                                                  "values":  [
+                                                                 "32%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 20% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+                                                  "values":  [
+                                                                 "20%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 28% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+                                                  "values":  [
+                                                                 "28%"
+                                                             ]
+                                              },
+                                       "substatText":  "ATQ",
+                                       "weaponText":  "Espada",
+                                       "name":  "Osso Robusto",
+                                       "effectTemplateRaw":  "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+                                       "r1":  {
+                                                  "description":  "Reduz o consumo de Stamina de Correr ou de Habilidades que substituem Correr em 15%. Além disso, ao Correr ou usar uma Habilidade que substitui Correr, aumenta o Dano causado por Ataques Normais. O valor do aumento é baseado em 16% do ATQ. Esse efeito desaparecerá depois ser desencadeado 18 vezes ou depois de 7s.",
+                                                  "values":  [
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "effectName":  "Orgulho do Armador"
+                                   },
                     "theflute":  {
                                      "r3":  {
                                                 "description":  "O Ataque Normal ou Ataque Carregado concede um Acorde. Obter 5 Acordes ativa o poder da música e causa 150% de Dano de ATQ aos inimigos ao redor. Os Acordes duram até 30s e pode-se ganhar 1 Acorde a cada 0.5s.",
@@ -9796,6 +9956,48 @@
                                                      },
                                               "effectName":  "Fluxo Aperfeiçoado"
                                           },
+                    "favoniussword":  {
+                                          "r3":  {
+                                                     "description":  "Os Acertos Críticos possuem 80% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 9s.",
+                                                     "values":  [
+                                                                    "80%",
+                                                                    "9"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Os Acertos Críticos possuem 100% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 6s.",
+                                                     "values":  [
+                                                                    "100%",
+                                                                    "6"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Os Acertos Críticos possuem 70% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 10.5s.",
+                                                     "values":  [
+                                                                    "70%",
+                                                                    "10.5"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Os Acertos Críticos possuem 90% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 7.5s.",
+                                                     "values":  [
+                                                                    "90%",
+                                                                    "7.5"
+                                                                ]
+                                                 },
+                                          "substatText":  "Recarga de Energia",
+                                          "weaponText":  "Espada",
+                                          "name":  "Espada de Favonius",
+                                          "effectTemplateRaw":  "Os Acertos Críticos possuem \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es.",
+                                          "r1":  {
+                                                     "description":  "Os Acertos Críticos possuem 60% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 12s.",
+                                                     "values":  [
+                                                                    "60%",
+                                                                    "12"
+                                                                ]
+                                                 },
+                                          "effectName":  "Companhia do Vento"
+                                      },
                     "sacrificialsword":  {
                                              "r3":  {
                                                         "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 60% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 22 segundos.",
@@ -11319,43 +11521,58 @@
                                                    },
                                             "effectName":  "Circulação de Jade"
                                         },
-                    "whiteblind":  {
-                                       "r3":  {
-                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 9% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
-                                                  "values":  [
-                                                                 "9%"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 12% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
-                                                  "values":  [
-                                                                 "12%"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 7.5% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
-                                                  "values":  [
-                                                                 "7.5%"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 10.5% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
-                                                  "values":  [
-                                                                 "10.5%"
-                                                             ]
-                                              },
-                                       "substatText":  "DEF",
-                                       "weaponText":  "Espadão",
-                                       "name":  "Sombra Branca",
-                                       "effectTemplateRaw":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
-                                       "r1":  {
-                                                  "description":  "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam 6% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
-                                                  "values":  [
-                                                                 "6%"
-                                                             ]
-                                              },
-                                       "effectName":  "Ponta Energética"
-                                   },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Quando um Ataque Normal ou Imersivo atinge um inimigo, obtém \"Canção de Glória\": aumenta DEF em 12% e obtém 15% de bônus de Dano de todos os Elementos por 6s e acumula até 2 vezes. Esse efeito pode ser desencadeado uma vez a cada 0.1s. Quando esse efeito alcançar ou possuir 2 acúmulos, sua duração será redefinida, para então, com base em cada 1.000 de DEF do personagem que está com essa arma equipada, aumentar o bônus de Dano de todos os Elementos para todos os membros da equipe em 12%, podendo aumentar até 38.4% por 15s.",
+                                                      "values":  [
+                                                                     "12%",
+                                                                     "15%",
+                                                                     "12%",
+                                                                     "38.4%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Quando um Ataque Normal ou Imersivo atinge um inimigo, obtém \"Canção de Glória\": aumenta DEF em 16% e obtém 20% de bônus de Dano de todos os Elementos por 6s e acumula até 2 vezes. Esse efeito pode ser desencadeado uma vez a cada 0.1s. Quando esse efeito alcançar ou possuir 2 acúmulos, sua duração será redefinida, para então, com base em cada 1.000 de DEF do personagem que está com essa arma equipada, aumentar o bônus de Dano de todos os Elementos para todos os membros da equipe em 16%, podendo aumentar até 51.2% por 15s.",
+                                                      "values":  [
+                                                                     "16%",
+                                                                     "20%",
+                                                                     "16%",
+                                                                     "51.2%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Quando um Ataque Normal ou Imersivo atinge um inimigo, obtém \"Canção de Glória\": aumenta DEF em 10% e obtém 12.5% de bônus de Dano de todos os Elementos por 6s e acumula até 2 vezes. Esse efeito pode ser desencadeado uma vez a cada 0.1s. Quando esse efeito alcançar ou possuir 2 acúmulos, sua duração será redefinida, para então, com base em cada 1.000 de DEF do personagem que está com essa arma equipada, aumentar o bônus de Dano de todos os Elementos para todos os membros da equipe em 10%, podendo aumentar até 32% por 15s.",
+                                                      "values":  [
+                                                                     "10%",
+                                                                     "12.5%",
+                                                                     "10%",
+                                                                     "32%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Quando um Ataque Normal ou Imersivo atinge um inimigo, obtém \"Canção de Glória\": aumenta DEF em 14% e obtém 17.5% de bônus de Dano de todos os Elementos por 6s e acumula até 2 vezes. Esse efeito pode ser desencadeado uma vez a cada 0.1s. Quando esse efeito alcançar ou possuir 2 acúmulos, sua duração será redefinida, para então, com base em cada 1.000 de DEF do personagem que está com essa arma equipada, aumentar o bônus de Dano de todos os Elementos para todos os membros da equipe em 14%, podendo aumentar até 44.8% por 15s.",
+                                                      "values":  [
+                                                                     "14%",
+                                                                     "17.5%",
+                                                                     "14%",
+                                                                     "44.8%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "DEF",
+                                           "weaponText":  "Espada",
+                                           "name":  "Canção da Patrulha do Pico",
+                                           "effectTemplateRaw":  "Quando um Ataque Normal ou Imersivo atinge um inimigo, obtém \"Canção de Glória\": aumenta DEF em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e obtém \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e de bônus de Dano de todos os Elementos por 6s e acumula até 2 vezes. Esse efeito pode ser desencadeado uma vez a cada 0.1s. Quando esse efeito alcançar ou possuir 2 acúmulos, sua duração será redefinida, para então, com base em cada 1.000 de DEF do personagem que está com essa arma equipada, aumentar o bônus de Dano de todos os Elementos para todos os membros da equipe em \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e, podendo aumentar até \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e por 15s.",
+                                           "r1":  {
+                                                      "description":  "Quando um Ataque Normal ou Imersivo atinge um inimigo, obtém \"Canção de Glória\": aumenta DEF em 8% e obtém 10% de bônus de Dano de todos os Elementos por 6s e acumula até 2 vezes. Esse efeito pode ser desencadeado uma vez a cada 0.1s. Quando esse efeito alcançar ou possuir 2 acúmulos, sua duração será redefinida, para então, com base em cada 1.000 de DEF do personagem que está com essa arma equipada, aumentar o bônus de Dano de todos os Elementos para todos os membros da equipe em 8%, podendo aumentar até 25.6% por 15s.",
+                                                      "values":  [
+                                                                     "8%",
+                                                                     "10%",
+                                                                     "8%",
+                                                                     "25.6%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Juventude Eterna"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -12524,48 +12741,48 @@
                                                     },
                                              "effectName":  "Esmagar"
                                          },
-                    "favoniussword":  {
-                                          "r3":  {
-                                                     "description":  "Os Acertos Críticos possuem 80% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 9s.",
-                                                     "values":  [
-                                                                    "80%",
-                                                                    "9"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Os Acertos Críticos possuem 100% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 6s.",
-                                                     "values":  [
-                                                                    "100%",
-                                                                    "6"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Os Acertos Críticos possuem 70% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 10.5s.",
-                                                     "values":  [
-                                                                    "70%",
-                                                                    "10.5"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Os Acertos Críticos possuem 90% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 7.5s.",
-                                                     "values":  [
-                                                                    "90%",
-                                                                    "7.5"
-                                                                ]
-                                                 },
-                                          "substatText":  "Recarga de Energia",
-                                          "weaponText":  "Espada",
-                                          "name":  "Espada de Favonius",
-                                          "effectTemplateRaw":  "Os Acertos Críticos possuem \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es.",
-                                          "r1":  {
-                                                     "description":  "Os Acertos Críticos possuem 60% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 12s.",
-                                                     "values":  [
-                                                                    "60%",
-                                                                    "12"
-                                                                ]
-                                                 },
-                                          "effectName":  "Companhia do Vento"
-                                      },
+                    "mountainbracingbolt":  {
+                                                "r3":  {
+                                                           "description":  "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 18%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 18% por 8s.",
+                                                           "values":  [
+                                                                          "18%",
+                                                                          "18%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 24%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 24% por 8s.",
+                                                           "values":  [
+                                                                          "24%",
+                                                                          "24%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 15%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 15% por 8s.",
+                                                           "values":  [
+                                                                          "15%",
+                                                                          "15%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 21%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 21% por 8s.",
+                                                           "values":  [
+                                                                          "21%",
+                                                                          "21%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Recarga de Energia",
+                                                "weaponText":  "Lança",
+                                                "name":  "Prego Esmagador de Montanhas",
+                                                "effectTemplateRaw":  "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e por 8s.",
+                                                "r1":  {
+                                                           "description":  "Reduz o consumo de Stamina ao escalar em 15% e aumenta o Dano causado pela Habilidade Elemental em 12%. Além disso, quando os outros personagens próximos da equipe lançam sua Habilidade Elemental, aumenta o Dano da Habilidade Elemental do personagem que está com essa arma equipada em mais 12% por 8s.",
+                                                           "values":  [
+                                                                          "12%",
+                                                                          "12%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Esperança Além dos Picos"
+                                            },
                     "ironsting":  {
                                       "r3":  {
                                                  "description":  "6s após ao causar Dano Elemental, aumenta todos os Danos em 9%. Este efeito pode acumular até 2 vezes e pode ser ativado uma vez a cada 1s.",
@@ -13869,10 +14086,10 @@
                                                 "name":  "Batedor da Tempestade de Passo Ágil",
                                                 "specialname":  null
                                             },
-                    "woodenshieldhilichurlguard":  {
-                                                       "name":  "Hilichurl Guarda de Escudo de Madeira",
-                                                       "specialname":  null
-                                                   },
+                    "secretsourceautomatonconfigurationdevice":  {
+                                                                     "name":  "Autômato da Fonte Secreta: Mecanismo Construtivo",
+                                                                     "specialname":  null
+                                                                 },
                     "stormterror":  {
                                         "name":  "Stormterror",
                                         "specialname":  null
@@ -14293,6 +14510,10 @@
                                         "name":  "Polvo de Bola",
                                         "specialname":  null
                                     },
+                    "tenebrousmimiflora":  {
+                                               "name":  "Mimiflora Abissal",
+                                               "specialname":  null
+                                           },
                     "taintedwatersplittingphantasm":  {
                                                           "name":  "Fantasma Destruidor da Água",
                                                           "specialname":  null
@@ -14393,6 +14614,10 @@
                                        "name":  "Colosso das Ruínas",
                                        "specialname":  null
                                    },
+                    "woodenshieldhilichurlguard":  {
+                                                       "name":  "Hilichurl Guarda de Escudo de Madeira",
+                                                       "specialname":  null
+                                                   },
                     "tepetlisaurwhelp":  {
                                              "name":  "Filhote de Tepetlissauro",
                                              "specialname":  null

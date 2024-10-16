@@ -2216,6 +2216,9 @@
                       "akossakevessel":  {
                                              "name":  "Hộp Rượu Ako Domeki"
                                          },
+                      "goldinscribedsecretsourcecore":  {
+                                                            "name":  "Lõi Nguồn Khắc Hoa Văn Kỳ Bí"
+                                                        },
                       "philosophiesofdiligence":  {
                                                       "name":  "Triết Học Của \"Chăm Chỉ\""
                                                   },
@@ -4512,6 +4515,47 @@
                                       "region":  "Liyue",
                                       "gender":  "nữ"
                                   },
+                       "xilonen":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Hòa Tấu Của Chiucue",
+                                                                         "descriptionRaw":  "Âm Điệu Gốc \u003ccolor=#FFE699FF\u003eNguyên Tố Nham\u003c/color\u003e của Xilonen sẽ luôn duy trì trạng thái kích hoạt. Ngoài ra, khi Âm Điệu Gốc của Xilonen kích hoạt, sẽ căn cứ vào loại nguyên tố của Âm Điệu Gốc để khiến tất cả nhân vật có loại nguyên tố tương đồng trong đội gần đó nhận hiệu quả tương ứng:\n·\u003ccolor=#FFE699FF\u003eNguyên Tố Nham\u003c/color\u003e: Sát thương gây ra tăng 50%.\n·\u003ccolor=#FF9999FF\u003eNguyên Tố Hỏa\u003c/color\u003e: Tấn Công tăng 45%.\n·\u003ccolor=#80C0FFFF\u003eNguyên Tố Thủy\u003c/color\u003e: Giới Hạn HP tăng 45%.\n·\u003ccolor=#99FFFFFF\u003eNguyên Tố Băng\u003c/color\u003e: Sát Thương Bạo Kích tăng 60%.\n·\u003ccolor=#FFACFFFF\u003eNguyên Tố Lôi\u003c/color\u003e: Hồi phục 25 điểm Năng Lượng Nguyên Tố, và thời gian chờ của Kỹ Năng Nộ giảm 6s.",
+                                                                         "description":  "Âm Điệu Gốc Nguyên Tố Nham của Xilonen sẽ luôn duy trì trạng thái kích hoạt. Ngoài ra, khi Âm Điệu Gốc của Xilonen kích hoạt, sẽ căn cứ vào loại nguyên tố của Âm Điệu Gốc để khiến tất cả nhân vật có loại nguyên tố tương đồng trong đội gần đó nhận hiệu quả tương ứng:\n·Nguyên Tố Nham: Sát thương gây ra tăng 50%.\n·Nguyên Tố Hỏa: Tấn Công tăng 45%.\n·Nguyên Tố Thủy: Giới Hạn HP tăng 45%.\n·Nguyên Tố Băng: Sát Thương Bạo Kích tăng 60%.\n·Nguyên Tố Lôi: Hồi phục 25 điểm Năng Lượng Nguyên Tố, và thời gian chờ của Kỹ Năng Nộ giảm 6s."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Nhạc Trance Của Suchitl",
+                                                                         "descriptionRaw":  "Xilonen sau khi thi triển \u003ccolor=#FFD780FF\u003eYohual Cào Xé\u003c/color\u003e, sẽ cung cấp hiệu quả Chúc Phúc Nở Rộ cho tất cả nhân vật trong đội gần đó trong 15s.\nTăng sát thương Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp của nhân vật mang Chúc Phúc Nở Rộ, mức tăng tương ứng với 65% Phòng Ngự của Xilonen. Hiệu quả này sẽ bị xóa sau khi hiệu lực 6 lần hoặc kết thúc thời gian duy trì.\nKhi đánh trúng nhiều kẻ địch cùng lúc, sẽ căn cứ vào số lượng kẻ địch trúng đòn để tiêu hao số lần hiệu lực. Số lần hiệu lực của nhân vật có Chúc Phúc Nở Rộ trong đội sẽ được tính độc lập.",
+                                                                         "description":  "Xilonen sau khi thi triển Yohual Cào Xé, sẽ cung cấp hiệu quả Chúc Phúc Nở Rộ cho tất cả nhân vật trong đội gần đó trong 15s.\nTăng sát thương Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp của nhân vật mang Chúc Phúc Nở Rộ, mức tăng tương ứng với 65% Phòng Ngự của Xilonen. Hiệu quả này sẽ bị xóa sau khi hiệu lực 6 lần hoặc kết thúc thời gian duy trì.\nKhi đánh trúng nhiều kẻ địch cùng lúc, sẽ căn cứ vào số lượng kẻ địch trúng đòn để tiêu hao số lần hiệu lực. Số lần hiệu lực của nhân vật có Chúc Phúc Nở Rộ trong đội sẽ được tính độc lập."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Vòng Lặp Của Tonalpohualli",
+                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eYohual Cào Xé\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                         "description":  "Cấp kỹ năng Yohual Cào Xé +3.\nTăng tối đa đến cấp 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Khoảng Lặng Của Tlaltecuhtli",
+                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eÂm Điệu Ocelotlicue!\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                         "description":  "Cấp kỹ năng Âm Điệu Ocelotlicue! +3.\nTăng tối đa đến cấp 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Vũ Hội Đêm Vĩnh Hằng",
+                                                                         "descriptionRaw":  "Trong trạng thái Dạ Hồn Chúc Phúc, khi Xilonen tiến hành xung kích, nhảy, Tấn Công Thường hoặc Tấn Công Khi Đáp sẽ nhận được \"Chúc Phúc Đêm Vĩnh Hằng\", bỏ qua hạn chế của trạng thái Dạ Hồn Chúc Phúc, đồng thời tăng sát thương gây ra từ Tấn Công Thường và Tấn Công Khi Đáp trong 5s.\nTrong thời gian duy trì:\n·Tạm thời ngừng tính giới hạn thời gian điểm Dạ Hồn của Xilonen. Điểm Dạ Hồn, Phlogiston và Thể Lực của Xilonen sẽ không giảm, đồng thời khi điểm Dạ Hồn đạt tối đa, trạng thái Dạ Hồn Chúc Phúc của cô ấy cũng sẽ không kết thúc.\n·Tăng sát thương Tấn Công Thường và Tấn Công Khi Đáp trong trạng thái Dạ Hồn Chúc Phúc của Xilonen tương ứng với 300% Phòng Ngự của cô ấy.\n·Mỗi 1.5s sẽ hồi phục HP cho tất cả nhân vật trong đội ở gần, lượng hồi phục tương đương 120% Phòng Ngự của Xilonen.\nMỗi 15s tối đa nhận một lần Chúc Phúc Đêm Vĩnh Hằng.",
+                                                                         "description":  "Trong trạng thái Dạ Hồn Chúc Phúc, khi Xilonen tiến hành xung kích, nhảy, Tấn Công Thường hoặc Tấn Công Khi Đáp sẽ nhận được \"Chúc Phúc Đêm Vĩnh Hằng\", bỏ qua hạn chế của trạng thái Dạ Hồn Chúc Phúc, đồng thời tăng sát thương gây ra từ Tấn Công Thường và Tấn Công Khi Đáp trong 5s.\nTrong thời gian duy trì:\n·Tạm thời ngừng tính giới hạn thời gian điểm Dạ Hồn của Xilonen. Điểm Dạ Hồn, Phlogiston và Thể Lực của Xilonen sẽ không giảm, đồng thời khi điểm Dạ Hồn đạt tối đa, trạng thái Dạ Hồn Chúc Phúc của cô ấy cũng sẽ không kết thúc.\n·Tăng sát thương Tấn Công Thường và Tấn Công Khi Đáp trong trạng thái Dạ Hồn Chúc Phúc của Xilonen tương ứng với 300% Phòng Ngự của cô ấy.\n·Mỗi 1.5s sẽ hồi phục HP cho tất cả nhân vật trong đội ở gần, lượng hồi phục tương đương 120% Phòng Ngự của Xilonen.\nMỗi 15s tối đa nhận một lần Chúc Phúc Đêm Vĩnh Hằng."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Giai Điệu Của Ngày Nghỉ",
+                                                                         "descriptionRaw":  "Điểm Dạ Hồn và Phlogiston tiêu hao trong trạng thái Dạ Hồn Chúc Phúc của Xilonen giảm 30%, đồng thời giới hạn thời gian điểm Dạ Hồn kéo dài thêm 45%.\nNgoài ra, khi kích hoạt Âm Điệu Gốc của Xilonen, sẽ còn tăng khả năng kháng gián đoạn của nhân vật trong trận hiện tại gần đó.",
+                                                                         "description":  "Điểm Dạ Hồn và Phlogiston tiêu hao trong trạng thái Dạ Hồn Chúc Phúc của Xilonen giảm 30%, đồng thời giới hạn thời gian điểm Dạ Hồn kéo dài thêm 45%.\nNgoài ra, khi kích hoạt Âm Điệu Gốc của Xilonen, sẽ còn tăng khả năng kháng gián đoạn của nhân vật trong trận hiện tại gần đó."
+                                                                     }
+                                                          },
+                                       "elementText":  "Nham",
+                                       "fullname":  null,
+                                       "weaponText":  "Kiếm Đơn",
+                                       "name":  "Xilonen",
+                                       "substatText":  "Phòng Ngự",
+                                       "region":  "Natlan",
+                                       "gender":  "nữ"
+                                   },
                        "chevreuse":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -7307,6 +7351,48 @@
                                                           },
                                                    "effectName":  "Giấc Mộng Cuối Chân Trời"
                                                },
+                    "fruitfulhook":  {
+                                         "r3":  {
+                                                    "description":  "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 24%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 24% trong 10s.",
+                                                    "values":  [
+                                                                   "24%",
+                                                                   "24%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 32%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 32% trong 10s.",
+                                                    "values":  [
+                                                                   "32%",
+                                                                   "32%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 20%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 20% trong 10s.",
+                                                    "values":  [
+                                                                   "20%",
+                                                                   "20%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 28%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 28% trong 10s.",
+                                                    "values":  [
+                                                                   "28%",
+                                                                   "28%"
+                                                               ]
+                                                },
+                                         "substatText":  "Tấn Công",
+                                         "weaponText":  "Trọng Kiếm",
+                                         "name":  "Móc Trĩu Quả",
+                                         "effectTemplateRaw":  "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e trong 10s.",
+                                         "r1":  {
+                                                    "description":  "Tỷ Lệ Bạo Kích của Tấn Công Khi Đáp tăng 16%; Sau khi Tấn Công Khi Đáp trúng kẻ địch, sát thương của Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp tăng 16% trong 10s.",
+                                                    "values":  [
+                                                                   "16%",
+                                                                   "16%"
+                                                               ]
+                                                },
+                                         "effectName":  "Trọng Lượng Của Cành Rơi"
+                                     },
                     "emeraldorb":  {
                                        "r3":  {
                                                   "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng 30%.",
@@ -9132,6 +9218,43 @@
                                                      },
                                               "effectName":  "Giáng Thế"
                                           },
+                    "whiteblind":  {
+                                       "r3":  {
+                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 9%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
+                                                  "values":  [
+                                                                 "9%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 12%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
+                                                  "values":  [
+                                                                 "12%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 7.5%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
+                                                  "values":  [
+                                                                 "7.5%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 10.5%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
+                                                  "values":  [
+                                                                 "10.5%"
+                                                             ]
+                                              },
+                                       "substatText":  "Phòng Ngự",
+                                       "weaponText":  "Trọng Kiếm",
+                                       "name":  "Kiếm Bạch Ảnh",
+                                       "effectTemplateRaw":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
+                                       "r1":  {
+                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 6%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
+                                                  "values":  [
+                                                                 "6%"
+                                                             ]
+                                              },
+                                       "effectName":  "Đỉnh Năng Lượng"
+                                   },
                     "favoniuswarbow":  {
                                            "r3":  {
                                                       "description":  "Khi tạo thành bạo kích có tỷ lệ 80% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 9s mới thi triển 1 lần.",
@@ -9364,6 +9487,43 @@
                                                "r1":  null,
                                                "effectName":  null
                                            },
+                    "sturdybone":  {
+                                       "r3":  {
+                                                  "description":  "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 24% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s.",
+                                                  "values":  [
+                                                                 "24%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 32% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s.",
+                                                  "values":  [
+                                                                 "32%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 20% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s.",
+                                                  "values":  [
+                                                                 "20%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 28% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s.",
+                                                  "values":  [
+                                                                 "28%"
+                                                             ]
+                                              },
+                                       "substatText":  "Tấn Công",
+                                       "weaponText":  "Kiếm Đơn",
+                                       "name":  "Xương Cứng",
+                                       "effectTemplateRaw":  "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s.",
+                                       "r1":  {
+                                                  "description":  "Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương Tấn Công Thường, mức tăng tương ứng với 16% Tấn Công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s.",
+                                                  "values":  [
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "effectName":  "Niềm Kiêu Hãnh Của Kẻ Đặt Bẫy"
+                                   },
                     "theflute":  {
                                      "r3":  {
                                                 "description":  "Khi tấn công thường hoặc trọng kích đánh trúng địch, sẽ nhận 1 hợp âm. Sau khi tích lũy đủ 5 hợp âm, phát ra sức mạnh của âm luật, tạo thành 150% sát thương công kích cho kẻ địch xung quanh. Hợp âm có thể tồn lại lâu nhất 30s, mỗi 0.5s nhiều nhất có thể nhận 1 hợp âm.",
@@ -9796,6 +9956,48 @@
                                                      },
                                               "effectName":  "Bạch Nhẫn Lưu Chuyển"
                                           },
+                    "favoniussword":  {
+                                          "r3":  {
+                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 80% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 9s mới thi triển 1 lần.",
+                                                     "values":  [
+                                                                    "80%",
+                                                                    "9"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 100% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 6s mới thi triển 1 lần.",
+                                                     "values":  [
+                                                                    "100%",
+                                                                    "6"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 70% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 10.5s mới thi triển 1 lần.",
+                                                     "values":  [
+                                                                    "70%",
+                                                                    "10.5"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 90% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 7.5s mới thi triển 1 lần.",
+                                                     "values":  [
+                                                                    "90%",
+                                                                    "7.5"
+                                                                ]
+                                                 },
+                                          "substatText":  "Hiệu Quả Nạp Nguyên Tố",
+                                          "weaponText":  "Kiếm Đơn",
+                                          "name":  "Tây Phong Kiếm",
+                                          "effectTemplateRaw":  "Khi tạo thành bạo kích có tỷ lệ \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es mới thi triển 1 lần.",
+                                          "r1":  {
+                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 60% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 12s mới thi triển 1 lần.",
+                                                     "values":  [
+                                                                    "60%",
+                                                                    "12"
+                                                                ]
+                                                 },
+                                          "effectName":  "Đi Cùng Với Gió"
+                                      },
                     "sacrificialsword":  {
                                              "r3":  {
                                                         "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 60% làm mới thời gian CD kỹ năng đó, mỗi 22s mới thi triển 1 lần.",
@@ -11319,43 +11521,58 @@
                                                    },
                                             "effectName":  "Bích Ngọc Lưu Chuyển"
                                         },
-                    "whiteblind":  {
-                                       "r3":  {
-                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 9%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
-                                                  "values":  [
-                                                                 "9%"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 12%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
-                                                  "values":  [
-                                                                 "12%"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 7.5%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
-                                                  "values":  [
-                                                                 "7.5%"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 10.5%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
-                                                  "values":  [
-                                                                 "10.5%"
-                                                             ]
-                                              },
-                                       "substatText":  "Phòng Ngự",
-                                       "weaponText":  "Trọng Kiếm",
-                                       "name":  "Kiếm Bạch Ảnh",
-                                       "effectTemplateRaw":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
-                                       "r1":  {
-                                                  "description":  "Sau khi tấn công thường và trọng kích đánh trúng địch, tấn công và phòng ngự tăng 6%. Kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0.5s mới thi triển 1 lần.",
-                                                  "values":  [
-                                                                 "6%"
-                                                             ]
-                                              },
-                                       "effectName":  "Đỉnh Năng Lượng"
-                                   },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Sau khi Tấn Công Thường hoặc Tấn Công Khi Đáp trúng kẻ địch, sẽ nhận được \"Khúc Ca Vinh Hoa\": Phòng Ngự tăng 12%, đồng thời nhận 15% buff sát thương tất cả nguyên tố trong 6s, tối đa cộng dồn 2 tầng, mỗi 0.1s tối đa kích hoạt một lần. Khi hiệu quả cộng dồn đến 2 tầng hoặc thời gian duy trì tầng 2 được làm mới, sẽ căn cứ vào Phòng Ngự của người trang bị, mỗi 1000 điểm Phòng Ngự sẽ khiến tất cả nhân vật trong đội ở gần tăng 12% buff sát thương tất cả nguyên tố, tối đa tăng 38.4%, duy trì 15s.",
+                                                      "values":  [
+                                                                     "12%",
+                                                                     "15%",
+                                                                     "12%",
+                                                                     "38.4%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Sau khi Tấn Công Thường hoặc Tấn Công Khi Đáp trúng kẻ địch, sẽ nhận được \"Khúc Ca Vinh Hoa\": Phòng Ngự tăng 16%, đồng thời nhận 20% buff sát thương tất cả nguyên tố trong 6s, tối đa cộng dồn 2 tầng, mỗi 0.1s tối đa kích hoạt một lần. Khi hiệu quả cộng dồn đến 2 tầng hoặc thời gian duy trì tầng 2 được làm mới, sẽ căn cứ vào Phòng Ngự của người trang bị, mỗi 1000 điểm Phòng Ngự sẽ khiến tất cả nhân vật trong đội ở gần tăng 16% buff sát thương tất cả nguyên tố, tối đa tăng 51.2%, duy trì 15s.",
+                                                      "values":  [
+                                                                     "16%",
+                                                                     "20%",
+                                                                     "16%",
+                                                                     "51.2%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Sau khi Tấn Công Thường hoặc Tấn Công Khi Đáp trúng kẻ địch, sẽ nhận được \"Khúc Ca Vinh Hoa\": Phòng Ngự tăng 10%, đồng thời nhận 12.5% buff sát thương tất cả nguyên tố trong 6s, tối đa cộng dồn 2 tầng, mỗi 0.1s tối đa kích hoạt một lần. Khi hiệu quả cộng dồn đến 2 tầng hoặc thời gian duy trì tầng 2 được làm mới, sẽ căn cứ vào Phòng Ngự của người trang bị, mỗi 1000 điểm Phòng Ngự sẽ khiến tất cả nhân vật trong đội ở gần tăng 10% buff sát thương tất cả nguyên tố, tối đa tăng 32%, duy trì 15s.",
+                                                      "values":  [
+                                                                     "10%",
+                                                                     "12.5%",
+                                                                     "10%",
+                                                                     "32%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Sau khi Tấn Công Thường hoặc Tấn Công Khi Đáp trúng kẻ địch, sẽ nhận được \"Khúc Ca Vinh Hoa\": Phòng Ngự tăng 14%, đồng thời nhận 17.5% buff sát thương tất cả nguyên tố trong 6s, tối đa cộng dồn 2 tầng, mỗi 0.1s tối đa kích hoạt một lần. Khi hiệu quả cộng dồn đến 2 tầng hoặc thời gian duy trì tầng 2 được làm mới, sẽ căn cứ vào Phòng Ngự của người trang bị, mỗi 1000 điểm Phòng Ngự sẽ khiến tất cả nhân vật trong đội ở gần tăng 14% buff sát thương tất cả nguyên tố, tối đa tăng 44.8%, duy trì 15s.",
+                                                      "values":  [
+                                                                     "14%",
+                                                                     "17.5%",
+                                                                     "14%",
+                                                                     "44.8%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Phòng Ngự",
+                                           "weaponText":  "Kiếm Đơn",
+                                           "name":  "Khúc Ca Núi Đá",
+                                           "effectTemplateRaw":  "Sau khi Tấn Công Thường hoặc Tấn Công Khi Đáp trúng kẻ địch, sẽ nhận được \"Khúc Ca Vinh Hoa\": Phòng Ngự tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, đồng thời nhận \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e buff sát thương tất cả nguyên tố trong 6s, tối đa cộng dồn 2 tầng, mỗi 0.1s tối đa kích hoạt một lần. Khi hiệu quả cộng dồn đến 2 tầng hoặc thời gian duy trì tầng 2 được làm mới, sẽ căn cứ vào Phòng Ngự của người trang bị, mỗi 1000 điểm Phòng Ngự sẽ khiến tất cả nhân vật trong đội ở gần tăng \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e buff sát thương tất cả nguyên tố, tối đa tăng \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e, duy trì 15s.",
+                                           "r1":  {
+                                                      "description":  "Sau khi Tấn Công Thường hoặc Tấn Công Khi Đáp trúng kẻ địch, sẽ nhận được \"Khúc Ca Vinh Hoa\": Phòng Ngự tăng 8%, đồng thời nhận 10% buff sát thương tất cả nguyên tố trong 6s, tối đa cộng dồn 2 tầng, mỗi 0.1s tối đa kích hoạt một lần. Khi hiệu quả cộng dồn đến 2 tầng hoặc thời gian duy trì tầng 2 được làm mới, sẽ căn cứ vào Phòng Ngự của người trang bị, mỗi 1000 điểm Phòng Ngự sẽ khiến tất cả nhân vật trong đội ở gần tăng 8% buff sát thương tất cả nguyên tố, tối đa tăng 25.6%, duy trì 15s.",
+                                                      "values":  [
+                                                                     "8%",
+                                                                     "10%",
+                                                                     "8%",
+                                                                     "25.6%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Tháng Năm Tươi Đẹp Bất Tận"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -12524,48 +12741,48 @@
                                                     },
                                              "effectName":  "Vụn Vỡ"
                                          },
-                    "favoniussword":  {
-                                          "r3":  {
-                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 80% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 9s mới thi triển 1 lần.",
-                                                     "values":  [
-                                                                    "80%",
-                                                                    "9"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 100% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 6s mới thi triển 1 lần.",
-                                                     "values":  [
-                                                                    "100%",
-                                                                    "6"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 70% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 10.5s mới thi triển 1 lần.",
-                                                     "values":  [
-                                                                    "70%",
-                                                                    "10.5"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 90% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 7.5s mới thi triển 1 lần.",
-                                                     "values":  [
-                                                                    "90%",
-                                                                    "7.5"
-                                                                ]
-                                                 },
-                                          "substatText":  "Hiệu Quả Nạp Nguyên Tố",
-                                          "weaponText":  "Kiếm Đơn",
-                                          "name":  "Tây Phong Kiếm",
-                                          "effectTemplateRaw":  "Khi tạo thành bạo kích có tỷ lệ \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es mới thi triển 1 lần.",
-                                          "r1":  {
-                                                     "description":  "Khi tạo thành bạo kích có tỷ lệ 60% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi 12s mới thi triển 1 lần.",
-                                                     "values":  [
-                                                                    "60%",
-                                                                    "12"
-                                                                ]
-                                                 },
-                                          "effectName":  "Đi Cùng Với Gió"
-                                      },
+                    "mountainbracingbolt":  {
+                                                "r3":  {
+                                                           "description":  "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 18% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 18% trong 8s.",
+                                                           "values":  [
+                                                                          "18%",
+                                                                          "18%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 24% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 24% trong 8s.",
+                                                           "values":  [
+                                                                          "24%",
+                                                                          "24%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 15% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 15% trong 8s.",
+                                                           "values":  [
+                                                                          "15%",
+                                                                          "15%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 21% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 21% trong 8s.",
+                                                           "values":  [
+                                                                          "21%",
+                                                                          "21%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Hiệu Quả Nạp Nguyên Tố",
+                                                "weaponText":  "Vũ Khí Cán Dài",
+                                                "name":  "Mũi Đinh Trấn Núi",
+                                                "effectTemplateRaw":  "Giảm 15% tiêu hao thể lực khi leo trèo, tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e trong 8s.",
+                                                "r1":  {
+                                                           "description":  "Giảm 15% tiêu hao thể lực khi leo trèo, tăng 12% sát thương Kỹ Năng Nguyên Tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển Kỹ Năng Nguyên Tố, sát thương Kỹ Năng Nguyên Tố của người trang bị sẽ còn tăng 12% trong 8s.",
+                                                           "values":  [
+                                                                          "12%",
+                                                                          "12%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Hy Vọng Vượt Qua Đỉnh Núi"
+                                            },
                     "ironsting":  {
                                       "r3":  {
                                                  "description":  "Trong 6s sau khi tạo thành sát thương nguyên tố, sát thương nhân vật tạo ra tăng 9%, cộng dồn 2 lần. Mỗi 1s mới thi triển 1 lần.",
@@ -13869,10 +14086,10 @@
                                                 "name":  "Dũng Sĩ Nhanh Nhẹn - Trinh Sát",
                                                 "specialname":  null
                                             },
-                    "woodenshieldhilichurlguard":  {
-                                                       "name":  "Hilichurl Khiên Gỗ",
-                                                       "specialname":  null
-                                                   },
+                    "secretsourceautomatonconfigurationdevice":  {
+                                                                     "name":  "Cỗ Máy Bí Ẩn - Thiết Bị Cấu Tạo",
+                                                                     "specialname":  null
+                                                                 },
                     "stormterror":  {
                                         "name":  "Phong Ma Long Bão Tố",
                                         "specialname":  null
@@ -14293,6 +14510,10 @@
                                         "name":  "Bạch Tuộc Bóng Tròn",
                                         "specialname":  null
                                     },
+                    "tenebrousmimiflora":  {
+                                               "name":  "Lá Mô Phỏng U Ám",
+                                               "specialname":  null
+                                           },
                     "taintedwatersplittingphantasm":  {
                                                           "name":  "Ảo Linh Nước Đục Phân Tách",
                                                           "specialname":  null
@@ -14393,6 +14614,10 @@
                                        "name":  "Cần Cẩu Di Tích",
                                        "specialname":  null
                                    },
+                    "woodenshieldhilichurlguard":  {
+                                                       "name":  "Hilichurl Khiên Gỗ",
+                                                       "specialname":  null
+                                                   },
                     "tepetlisaurwhelp":  {
                                              "name":  "Tepetlisaurus Non",
                                              "specialname":  null

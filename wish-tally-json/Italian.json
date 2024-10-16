@@ -2216,6 +2216,9 @@
                       "akossakevessel":  {
                                              "name":  "Contenitore di sakè di Ako"
                                          },
+                      "goldinscribedsecretsourcecore":  {
+                                                            "name":  "Nucleo di Fonte segreta con incisioni dorate"
+                                                        },
                       "philosophiesofdiligence":  {
                                                       "name":  "Filosofie della diligenza"
                                                   },
@@ -4512,6 +4515,47 @@
                                       "region":  "Liyue",
                                       "gender":  "femmina"
                                   },
+                       "xilonen":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mixaggio di Chiucue",
+                                                                         "descriptionRaw":  "#I Campioni musicali di \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e di Xilonen rimangono sempre attivi. Inoltre, quando i suoi Campioni musicali si attivano, tutti i membri del gruppo vicini ottengono degli effetti in base ai Campioni musicali corrispondenti al proprio tipo elementale.\n· \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e: DAN +50%.\n· \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e: ATT +45%.\n· \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e: PS max +45%.\n· \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e: DAN da CRIT +60%.\n· \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e: ripristina 25 di energia, il TdR del Tripudio elementale si riduce di 6{NON_BREAK_SPACE}s.",
+                                                                         "description":  "I Campioni musicali di Geo di Xilonen rimangono sempre attivi. Inoltre, quando i suoi Campioni musicali si attivano, tutti i membri del gruppo vicini ottengono degli effetti in base ai Campioni musicali corrispondenti al proprio tipo elementale.\n· Geo: DAN +50%.\n· Pyro: ATT +45%.\n· Hydro: PS max +45%.\n· Cryo: DAN da CRIT +60%.\n· Electro: ripristina 25 di energia, il TdR del Tripudio elementale si riduce di 6 s."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Trance di Suchitl",
+                                                                         "descriptionRaw":  "#Dopo aver usato \u003ccolor=#FFD780FF\u003eGraffio di Yohual\u003c/color\u003e, Xilonen conferisce a tutti i membri del gruppo vicini l\u0027effetto Benedizione fiorita per 15{NON_BREAK_SPACE}s.\nGli attacchi normali, caricati e in picchiata dei personaggi con Benedizione fiorita infliggono DAN aumentati di un 65% della DIF di Xilonen. Questo effetto viene rimosso dopo 6 attivazioni o quando la sua durata termina.\nQuando si colpisce più di un nemico, il conteggio delle attivazioni cala in base al numero di avversari colpiti. Il conteggio di ciascun membro della squadra con Benedizione fiorita è indipendente dagli altri.",
+                                                                         "description":  "Dopo aver usato Graffio di Yohual, Xilonen conferisce a tutti i membri del gruppo vicini l\u0027effetto Benedizione fiorita per 15 s.\nGli attacchi normali, caricati e in picchiata dei personaggi con Benedizione fiorita infliggono DAN aumentati di un 65% della DIF di Xilonen. Questo effetto viene rimosso dopo 6 attivazioni o quando la sua durata termina.\nQuando si colpisce più di un nemico, il conteggio delle attivazioni cala in base al numero di avversari colpiti. Il conteggio di ciascun membro della squadra con Benedizione fiorita è indipendente dagli altri."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Loop di Tonalpohualli",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eGraffio di Yohual\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Graffio di Yohual.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Dissolvenza di Tlaltecuhtli",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eA ritmo dell\u0027ozelot!\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di A ritmo dell\u0027ozelot!.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Carnevale notturno imperituro",
+                                                                         "descriptionRaw":  "#Quando Xilonen è nello stato di Grazia dell\u0027Anima della Notte, quando compie uno Scatto, salta o usa un attacco normale o in picchiata, ottiene la Benedizione della Notte imperitura, che ignora le limitazioni del suo stato di Grazia dell\u0027Anima della Notte e aumenta i DAN inflitti dai suoi attacchi normali e in picchiata per 5{NON_BREAK_SPACE}s.\nMentre questo effetto è attivo:\n· il limite di tempo della sua Grazia dell\u0027Anima della Notte viene temporaneamente interrotto. I punti Anima della Notte, il Flogisto e il vigore di Xilonen non calano, e quando i punti Anima della Notte raggiungono il massimo il suo stato di Grazia dell\u0027Anima della Notte non termina;\n· gli attacchi normali e in picchiata di Xilonen infliggono DAN aumentati di un 300% della sua DIF quando è in stato di Grazia dell\u0027Anima della Notte;\n· i PS dei membri del gruppo vicini si ripristinano di un 120% della DIF di Xilonen ogni 1,5{NON_BREAK_SPACE}s.\nXilonen può ottenere 1 Benedizione della Notte imperitura una volta ogni 15{NON_BREAK_SPACE}s.",
+                                                                         "description":  "Quando Xilonen è nello stato di Grazia dell\u0027Anima della Notte, quando compie uno Scatto, salta o usa un attacco normale o in picchiata, ottiene la Benedizione della Notte imperitura, che ignora le limitazioni del suo stato di Grazia dell\u0027Anima della Notte e aumenta i DAN inflitti dai suoi attacchi normali e in picchiata per 5 s.\nMentre questo effetto è attivo:\n· il limite di tempo della sua Grazia dell\u0027Anima della Notte viene temporaneamente interrotto. I punti Anima della Notte, il Flogisto e il vigore di Xilonen non calano, e quando i punti Anima della Notte raggiungono il massimo il suo stato di Grazia dell\u0027Anima della Notte non termina;\n· gli attacchi normali e in picchiata di Xilonen infliggono DAN aumentati di un 300% della sua DIF quando è in stato di Grazia dell\u0027Anima della Notte;\n· i PS dei membri del gruppo vicini si ripristinano di un 120% della DIF di Xilonen ogni 1,5 s.\nXilonen può ottenere 1 Benedizione della Notte imperitura una volta ogni 15 s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Fraseggio sabbatico",
+                                                                         "descriptionRaw":  "Il consumo di punti Anima della Notte e di Flogisto di Xilonen quando è nello stato di Grazia dell\u0027Anima della Notte è ridotto di un 30% e il limite di tempo dei suoi punti Anima della Notte è esteso di un 45%.\nInoltre, quando i suoi Campioni musicali sono attivi, Xilonen aumenta la resistenza all\u0027interruzione dei personaggi attivi vicini.",
+                                                                         "description":  "Il consumo di punti Anima della Notte e di Flogisto di Xilonen quando è nello stato di Grazia dell\u0027Anima della Notte è ridotto di un 30% e il limite di tempo dei suoi punti Anima della Notte è esteso di un 45%.\nInoltre, quando i suoi Campioni musicali sono attivi, Xilonen aumenta la resistenza all\u0027interruzione dei personaggi attivi vicini."
+                                                                     }
+                                                          },
+                                       "elementText":  "Geo",
+                                       "fullname":  null,
+                                       "weaponText":  "Spada",
+                                       "name":  "Xilonen",
+                                       "substatText":  "DIF",
+                                       "region":  "Natlan",
+                                       "gender":  "femmina"
+                                   },
                        "chevreuse":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -7307,6 +7351,48 @@
                                                           },
                                                    "effectName":  "Foschia di calore all\u0027orizzonte"
                                                },
+                    "fruitfulhook":  {
+                                         "r3":  {
+                                                    "description":  "Aumenta di un 24% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 24% per 10 s.",
+                                                    "values":  [
+                                                                   "24%",
+                                                                   "24%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Aumenta di un 32% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 32% per 10 s.",
+                                                    "values":  [
+                                                                   "32%",
+                                                                   "32%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Aumenta di un 20% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 20% per 10 s.",
+                                                    "values":  [
+                                                                   "20%",
+                                                                   "20%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Aumenta di un 28% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 28% per 10 s.",
+                                                    "values":  [
+                                                                   "28%",
+                                                                   "28%"
+                                                               ]
+                                                },
+                                         "substatText":  "ATT",
+                                         "weaponText":  "Claymore",
+                                         "name":  "Gancio fruttuoso",
+                                         "effectTemplateRaw":  "#Aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 10{NON_BREAK_SPACE}s.",
+                                         "r1":  {
+                                                    "description":  "Aumenta di un 16% il tasso di CRIT degli attacchi in picchiata. Dopo aver colpito un avversario con un attacco in picchiata, i DAN degli attacchi normali, caricati e in picchiata aumentano di un 16% per 10 s.",
+                                                    "values":  [
+                                                                   "16%",
+                                                                   "16%"
+                                                               ]
+                                                },
+                                         "effectName":  "Peso dei rami cadenti"
+                                     },
                     "emeraldorb":  {
                                        "r3":  {
                                                   "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura o Turbinio di Hydro, l\u0027ATT aumenta di un 30% per 12 s.",
@@ -7681,7 +7767,7 @@
                                      },
                     "vortexvanquisher":  {
                                              "r3":  {
-                                                        "description":  "Aumenta l\u0027efficacia dello scudo di un 30%. Mandare a segno un colpo contro gli avversari aumenta l\u0027ATT di un 6% per 8 s. Cumulabile fino a 5 volte. Si può verificare una sola volta ogni 0,3 s. Mentre la protezione dello scudo è attiva, l\u0027effetto di quest\u0027ATT aumenta del 100%.",
+                                                        "description":  "Aumenta l\u0027efficacia dello scudo di un 30%. Mandare a segno un colpo contro gli avversari aumenta l\u0027ATT di un 6% per 8 s. Cumulabile fino a 5 volte. Si può verificare una sola volta ogni 0,3 s. Mentre la protezione dello scudo è attiva, l\u0027effetto di quest\u0027ATT aumenta di un 100%.",
                                                         "values":  [
                                                                        "30%",
                                                                        "6%"
@@ -9132,6 +9218,43 @@
                                                      },
                                               "effectName":  "Discensione"
                                           },
+                    "whiteblind":  {
+                                       "r3":  {
+                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 9% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
+                                                  "values":  [
+                                                                 "9%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 12% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
+                                                  "values":  [
+                                                                 "12%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 7,5% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
+                                                  "values":  [
+                                                                 "7,5%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 10,5% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
+                                                  "values":  [
+                                                                 "10,5%"
+                                                             ]
+                                              },
+                                       "substatText":  "DIF",
+                                       "weaponText":  "Claymore",
+                                       "name":  "Ombracandida",
+                                       "effectTemplateRaw":  "#Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 6{NON_BREAK_SPACE}s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5{NON_BREAK_SPACE}s.",
+                                       "r1":  {
+                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 6% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
+                                                  "values":  [
+                                                                 "6%"
+                                                             ]
+                                              },
+                                       "effectName":  "Lama energizzante"
+                                   },
                     "favoniuswarbow":  {
                                            "r3":  {
                                                       "description":  "I colpi CRIT hanno un 80% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 9 s.",
@@ -9364,6 +9487,43 @@
                                                "r1":  null,
                                                "effectName":  null
                                            },
+                    "sturdybone":  {
+                                       "r3":  {
+                                                  "description":  "Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 24% dell\u0027ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+                                                  "values":  [
+                                                                 "24%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 32% dell\u0027ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+                                                  "values":  [
+                                                                 "32%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 20% dell\u0027ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+                                                  "values":  [
+                                                                 "20%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 28% dell\u0027ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+                                                  "values":  [
+                                                                 "28%"
+                                                             ]
+                                              },
+                                       "substatText":  "ATT",
+                                       "weaponText":  "Spada",
+                                       "name":  "Osso tenace",
+                                       "effectTemplateRaw":  "#Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e dell\u0027ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7{NON_BREAK_SPACE}s.",
+                                       "r1":  {
+                                                  "description":  "Il consumo di vigore dello Scatto o dello Scatto alternativo si riduce di un 15%. Inoltre, dopo aver usato una delle due azioni suddette, i DAN da attacco normale aumentano di un 16% dell\u0027ATT. Questo effetto si annulla dopo 18 attivazioni o trascorsi 7 s.",
+                                                  "values":  [
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "effectName":  "Orgoglio del capocaccia"
+                                   },
                     "theflute":  {
                                      "r3":  {
                                                 "description":  "Colpire con gli attacchi normali o caricati conferisce un\u0027Armonia. Acquisire 5 Armonie attiva il potere della musica e infligge un 150% di DAN da ATT agli avversari circostanti. Le Armonie durano fino a 30 s, ed è possibile acquisirne 1 ogni 0,5 s.",
@@ -9796,6 +9956,48 @@
                                                      },
                                               "effectName":  "Flusso affilato"
                                           },
+                    "favoniussword":  {
+                                          "r3":  {
+                                                     "description":  "I colpi CRIT hanno un 80% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 9 s.",
+                                                     "values":  [
+                                                                    "80%",
+                                                                    "9"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "I colpi CRIT hanno un 100% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 6 s.",
+                                                     "values":  [
+                                                                    "100%",
+                                                                    "6"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "I colpi CRIT hanno un 70% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 10,5 s.",
+                                                     "values":  [
+                                                                    "70%",
+                                                                    "10,5"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "I colpi CRIT hanno un 90% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 7,5 s.",
+                                                     "values":  [
+                                                                    "90%",
+                                                                    "7,5"
+                                                                ]
+                                                 },
+                                          "substatText":  "Ricarica di energia",
+                                          "weaponText":  "Spada",
+                                          "name":  "Spada di Favonius",
+                                          "effectTemplateRaw":  "#I colpi CRIT hanno un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}s.",
+                                          "r1":  {
+                                                     "description":  "I colpi CRIT hanno un 60% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 12 s.",
+                                                     "values":  [
+                                                                    "60%",
+                                                                    "12"
+                                                                ]
+                                                 },
+                                          "effectName":  "Vento propizio"
+                                      },
                     "sacrificialsword":  {
                                              "r3":  {
                                                         "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 60% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 22 s.",
@@ -11319,43 +11521,58 @@
                                                    },
                                             "effectName":  "Circolazione di giada"
                                         },
-                    "whiteblind":  {
-                                       "r3":  {
-                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 9% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
-                                                  "values":  [
-                                                                 "9%"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 12% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
-                                                  "values":  [
-                                                                 "12%"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 7,5% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
-                                                  "values":  [
-                                                                 "7,5%"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 10,5% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
-                                                  "values":  [
-                                                                 "10,5%"
-                                                             ]
-                                              },
-                                       "substatText":  "DIF",
-                                       "weaponText":  "Claymore",
-                                       "name":  "Ombracandida",
-                                       "effectTemplateRaw":  "#Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 6{NON_BREAK_SPACE}s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5{NON_BREAK_SPACE}s.",
-                                       "r1":  {
-                                                  "description":  "Per colpo a segno, gli attacchi normali o caricati aumentano ATT e DIF di un 6% per 6 s. Cumulabile fino a 4 volte. Quest\u0027effetto si può verificare una sola volta ogni 0,5 s.",
-                                                  "values":  [
-                                                                 "6%"
-                                                             ]
-                                              },
-                                       "effectName":  "Lama energizzante"
-                                   },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 12% e riceve un bonus DAN per tutti gli elementi di un 15% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 12% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 38,4% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "12%",
+                                                                     "15%",
+                                                                     "12%",
+                                                                     "38,4%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 16% e riceve un bonus DAN per tutti gli elementi di un 20% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 16% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 51,2% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "16%",
+                                                                     "20%",
+                                                                     "16%",
+                                                                     "51,2%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 10% e riceve un bonus DAN per tutti gli elementi di un 12,5% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 10% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 32% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "10%",
+                                                                     "12,5%",
+                                                                     "10%",
+                                                                     "32%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 14% e riceve un bonus DAN per tutti gli elementi di un 17,5% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 14% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 44,8% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "14%",
+                                                                     "17,5%",
+                                                                     "14%",
+                                                                     "44,8%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "DIF",
+                                           "weaponText":  "Spada",
+                                           "name":  "Canzone della Pattuglia delle Sommità",
+                                           "effectTemplateRaw":  "#Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e riceve un bonus DAN per tutti gli elementi di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 6{NON_BREAK_SPACE}s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1{NON_BREAK_SPACE}s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e massimo per 15{NON_BREAK_SPACE}s.",
+                                           "r1":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 8% e riceve un bonus DAN per tutti gli elementi di un 10% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 8% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 25,6% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "8%",
+                                                                     "10%",
+                                                                     "8%",
+                                                                     "25,6%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Epoca d\u0027oro infinita"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -11370,7 +11587,7 @@
                                   },
                     "thewidsith":  {
                                        "r3":  {
-                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 90%. Aria: aumenta i DAN elementali per tutti gli elementi di un 72%. Interludio: la maestria elementale aumenta di 360.",
+                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 90%. Aria: aumenta tutti i DAN elementali di un 72%. Interludio: la maestria elementale aumenta di 360.",
                                                   "values":  [
                                                                  "90%",
                                                                  "72%",
@@ -11378,7 +11595,7 @@
                                                              ]
                                               },
                                        "r5":  {
-                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 120%. Aria: aumenta i DAN elementali per tutti gli elementi di un 96%. Interludio: la maestria elementale aumenta di 480.",
+                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 120%. Aria: aumenta tutti i DAN elementali di un 96%. Interludio: la maestria elementale aumenta di 480.",
                                                   "values":  [
                                                                  "120%",
                                                                  "96%",
@@ -11386,7 +11603,7 @@
                                                              ]
                                               },
                                        "r2":  {
-                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 75%. Aria: aumenta i DAN elementali per tutti gli elementi di un 60%. Interludio: la maestria elementale aumenta di 300.",
+                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 75%. Aria: aumenta tutti i DAN elementali di un 60%. Interludio: la maestria elementale aumenta di 300.",
                                                   "values":  [
                                                                  "75%",
                                                                  "60%",
@@ -11394,7 +11611,7 @@
                                                              ]
                                               },
                                        "r4":  {
-                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 105%. Aria: aumenta i DAN elementali per tutti gli elementi di un 84%. Interludio: la maestria elementale aumenta di 420.",
+                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 105%. Aria: aumenta tutti i DAN elementali di un 84%. Interludio: la maestria elementale aumenta di 420.",
                                                   "values":  [
                                                                  "105%",
                                                                  "84%",
@@ -11404,9 +11621,9 @@
                                        "substatText":  "DAN da CRIT",
                                        "weaponText":  "Catalizzatore",
                                        "name":  "Sinfonia errante",
-                                       "effectTemplateRaw":  "#Quando il personaggio scende in campo, riceve un tema musicale casuale per 10{NON_BREAK_SPACE}s. Si può verificare una sola volta ogni 30{NON_BREAK_SPACE}s. Recitativo: l\u0027ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Aria: aumenta i DAN elementali per tutti gli elementi di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Interludio: la maestria elementale aumenta di \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                       "effectTemplateRaw":  "#Quando il personaggio scende in campo, riceve un tema musicale casuale per 10{NON_BREAK_SPACE}s. Si può verificare una sola volta ogni 30{NON_BREAK_SPACE}s. Recitativo: l\u0027ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Aria: aumenta tutti i DAN elementali di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Interludio: la maestria elementale aumenta di \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
                                        "r1":  {
-                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 60%. Aria: aumenta i DAN elementali per tutti gli elementi di un 48%. Interludio: la maestria elementale aumenta di 240.",
+                                                  "description":  "Quando il personaggio scende in campo, riceve un tema musicale casuale per 10 s. Si può verificare una sola volta ogni 30 s. Recitativo: l\u0027ATT aumenta di un 60%. Aria: aumenta tutti i DAN elementali di un 48%. Interludio: la maestria elementale aumenta di 240.",
                                                   "values":  [
                                                                  "60%",
                                                                  "48%",
@@ -12524,48 +12741,48 @@
                                                     },
                                              "effectName":  "Polverizzazione"
                                          },
-                    "favoniussword":  {
-                                          "r3":  {
-                                                     "description":  "I colpi CRIT hanno un 80% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 9 s.",
-                                                     "values":  [
-                                                                    "80%",
-                                                                    "9"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "I colpi CRIT hanno un 100% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 6 s.",
-                                                     "values":  [
-                                                                    "100%",
-                                                                    "6"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "I colpi CRIT hanno un 70% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 10,5 s.",
-                                                     "values":  [
-                                                                    "70%",
-                                                                    "10,5"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "I colpi CRIT hanno un 90% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 7,5 s.",
-                                                     "values":  [
-                                                                    "90%",
-                                                                    "7,5"
-                                                                ]
-                                                 },
-                                          "substatText":  "Ricarica di energia",
-                                          "weaponText":  "Spada",
-                                          "name":  "Spada di Favonius",
-                                          "effectTemplateRaw":  "#I colpi CRIT hanno un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}s.",
-                                          "r1":  {
-                                                     "description":  "I colpi CRIT hanno un 60% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 12 s.",
-                                                     "values":  [
-                                                                    "60%",
-                                                                    "12"
-                                                                ]
-                                                 },
-                                          "effectName":  "Vento propizio"
-                                      },
+                    "mountainbracingbolt":  {
+                                                "r3":  {
+                                                           "description":  "Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 18%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l\u0027arma aumentano di un 18% per 8 s.",
+                                                           "values":  [
+                                                                          "18%",
+                                                                          "18%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 24%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l\u0027arma aumentano di un 24% per 8 s.",
+                                                           "values":  [
+                                                                          "24%",
+                                                                          "24%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 15%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l\u0027arma aumentano di un 15% per 8 s.",
+                                                           "values":  [
+                                                                          "15%",
+                                                                          "15%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 21%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l\u0027arma aumentano di un 21% per 8 s.",
+                                                           "values":  [
+                                                                          "21%",
+                                                                          "21%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Ricarica di energia",
+                                                "weaponText":  "Lancia",
+                                                "name":  "Chiodo reggimonti",
+                                                "effectTemplateRaw":  "#Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l\u0027arma aumentano di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 8{NON_BREAK_SPACE}s.",
+                                                "r1":  {
+                                                           "description":  "Riduce il consumo di vigore durante le arrampicate di un 15% e aumenta i DAN da abilità elementale di un 12%. In più, quando altri membri del gruppo vicini usano le abilità elementali, i DAN da abilità elementale del personaggio che equipaggia l\u0027arma aumentano di un 12% per 8 s.",
+                                                           "values":  [
+                                                                          "12%",
+                                                                          "12%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Speranza oltre le sommità"
+                                            },
                     "ironsting":  {
                                       "r3":  {
                                                  "description":  "Infliggere DAN elementali aumenta tutti i DAN di un 9% per 6 s. Cumulabile fino a 2 volte. Si può verificare una volta ogni 1 s.",
@@ -13859,10 +14076,10 @@
                                                 "name":  "Ricognitore burrascoso piè veloce",
                                                 "specialname":  null
                                             },
-                    "woodenshieldhilichurlguard":  {
-                                                       "name":  "Guardia Hilichurl con scudo di legno",
-                                                       "specialname":  null
-                                                   },
+                    "secretsourceautomatonconfigurationdevice":  {
+                                                                     "name":  "Automa della Fonte segreta: Dispositivo di configurazione",
+                                                                     "specialname":  null
+                                                                 },
                     "stormterror":  {
                                         "name":  "Terrore alato",
                                         "specialname":  null
@@ -14283,6 +14500,10 @@
                                         "name":  "Polpotondo",
                                         "specialname":  null
                                     },
+                    "tenebrousmimiflora":  {
+                                               "name":  "Mimiflora tenebrosa",
+                                               "specialname":  null
+                                           },
                     "taintedwatersplittingphantasm":  {
                                                           "name":  "Fantasma squarciacque contaminato",
                                                           "specialname":  null
@@ -14383,6 +14604,10 @@
                                        "name":  "Colosso delle rovine",
                                        "specialname":  null
                                    },
+                    "woodenshieldhilichurlguard":  {
+                                                       "name":  "Guardia Hilichurl con scudo di legno",
+                                                       "specialname":  null
+                                                   },
                     "tepetlisaurwhelp":  {
                                              "name":  "Cucciolo di Tepetlisauro",
                                              "specialname":  null

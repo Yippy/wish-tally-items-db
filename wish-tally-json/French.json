@@ -2216,6 +2216,9 @@
                       "akossakevessel":  {
                                              "name":  "Verre à saké d\u0027Ako"
                                          },
+                      "goldinscribedsecretsourcecore":  {
+                                                            "name":  "Noyau source aux motifs dorés secrets"
+                                                        },
                       "philosophiesofdiligence":  {
                                                       "name":  "Philosophie de la Diligence"
                                                   },
@@ -3515,8 +3518,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Forme de bête augurale",
-                                                                        "descriptionRaw":  "Après avoir touché un ennemi, le canon à pointe d\u0027écailles rebondit une fois entre les ennemis, infligeant des \u003ccolor=#99FF88FF\u003eDGT Dendro\u003c/color\u003e d\u0027une valeur équivalant à 700 % de l\u0027ATQ de Kinich.\nSi ce canon à pointe d\u0027écailles déclenche les améliorations que l\u0027aptitude passive « Pacte de l\u0027esprit enflammé » ou la constellation « Paume de coléoptère » peuvent lui conférer, l\u0027attaque rebondissante en bénéfice également.",
-                                                                        "description":  "Après avoir touché un ennemi, le canon à pointe d\u0027écailles rebondit une fois entre les ennemis, infligeant des DGT Dendro d\u0027une valeur équivalant à 700 % de l\u0027ATQ de Kinich.\nSi ce canon à pointe d\u0027écailles déclenche les améliorations que l\u0027aptitude passive « Pacte de l\u0027esprit enflammé » ou la constellation « Paume de coléoptère » peuvent lui conférer, l\u0027attaque rebondissante en bénéfice également."
+                                                                        "descriptionRaw":  "Après avoir touché un ennemi, le canon à pointe d\u0027écailles rebondit une fois entre les ennemis, infligeant des \u003ccolor=#99FF88FF\u003eDGT Dendro\u003c/color\u003e d\u0027une valeur équivalant à 700 % de l\u0027ATQ de Kinich.\nSi ce canon à pointe d\u0027écailles déclenche les améliorations que l\u0027aptitude passive « Pacte de l\u0027esprit enflammé » ou la constellation « Paume de coléoptère » peuvent lui conférer, l\u0027attaque rebondissante en bénéficie également.",
+                                                                        "description":  "Après avoir touché un ennemi, le canon à pointe d\u0027écailles rebondit une fois entre les ennemis, infligeant des DGT Dendro d\u0027une valeur équivalant à 700 % de l\u0027ATQ de Kinich.\nSi ce canon à pointe d\u0027écailles déclenche les améliorations que l\u0027aptitude passive « Pacte de l\u0027esprit enflammé » ou la constellation « Paume de coléoptère » peuvent lui conférer, l\u0027attaque rebondissante en bénéficie également."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Bec de perroquet",
@@ -3959,8 +3962,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Pureté de la terre",
-                                                                        "descriptionRaw":  "Les personnages déployés se trouvant dans la zone de l\u0027aura solaire infligent 17 % de DGT supplémentaires lorsqu\u0027ils sont sous la protection d\u0027un bouclier généré par une Cristallisation.",
-                                                                        "description":  "Les personnages déployés se trouvant dans la zone de l\u0027aura solaire infligent 17 % de DGT supplémentaires lorsqu\u0027ils sont sous la protection d\u0027un bouclier généré par une Cristallisation."
+                                                                        "descriptionRaw":  "Les personnages déployés se trouvant dans la zone de l\u0027aura solaire infligent 17 % de DGT supplémentaires lorsqu\u0027ils sont sous la protection d\u0027un bouclier généré par une réaction de Cristallisation.",
+                                                                        "description":  "Les personnages déployés se trouvant dans la zone de l\u0027aura solaire infligent 17 % de DGT supplémentaires lorsqu\u0027ils sont sous la protection d\u0027un bouclier généré par une réaction de Cristallisation."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Fleur d\u0027Éden",
@@ -4512,6 +4515,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Femme"
                                   },
+                       "xilonen":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Arrangement de Chiucue",
+                                                                         "descriptionRaw":  "Les échantillons sources \u003ccolor=#FFE699FF\u003eGéo\u003c/color\u003e que Xilonen possède restent activés. De plus, lorsque ses échantillons sources sont activés, tous les personnages de l\u0027équipe à proximité ayant un type élémentaire correspondant obtiennent l\u0027effet concerné :\n· \u003ccolor=#FFE699FF\u003eGéo\u003c/color\u003e : augmente les DGT infligés de 50 %.\n· \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e : augmente l\u0027ATQ de 45 %.\n· \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e : augmente les PV max de 45 %.\n· \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e : augmente les DGT CRIT de 60 %.\n· \u003ccolor=#FFACFFFF\u003eÉlectro\u003c/color\u003e : restaure 25 pts d\u0027énergie élémentaire et diminue le TdR des déchaînements élémentaires de 6 s.",
+                                                                         "description":  "Les échantillons sources Géo que Xilonen possède restent activés. De plus, lorsque ses échantillons sources sont activés, tous les personnages de l\u0027équipe à proximité ayant un type élémentaire correspondant obtiennent l\u0027effet concerné :\n· Géo : augmente les DGT infligés de 50 %.\n· Pyro : augmente l\u0027ATQ de 45 %.\n· Hydro : augmente les PV max de 45 %.\n· Cryo : augmente les DGT CRIT de 60 %.\n· Électro : restaure 25 pts d\u0027énergie élémentaire et diminue le TdR des déchaînements élémentaires de 6 s."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Transe de Suchitl",
+                                                                         "descriptionRaw":  "Lorsque Xilonen a utilisé \u003ccolor=#FFD780FF\u003eScratch de Yohual\u003c/color\u003e, tous les personnages de l\u0027équipe à proximité obtiennent l\u0027effet Don fleuri pendant 15 s.\nLes DGT infligés par les attaques normales, chargées et plongeantes des personnages bénéficiant d\u0027un don fleuri augmentent d\u0027une valeur équivalant à 65 % de la DÉF de Xilonen, cet effet étant annulé après avoir été déclenché 6 fois ou à la fin de sa durée.\nEn touchant plusieurs ennemis en même temps, un déclenchement est comptabilisé pour chaque ennemi touché. De plus, les déclenchements des dons fleuris des personnages de l\u0027équipe sont calculés indépendamment.",
+                                                                         "description":  "Lorsque Xilonen a utilisé Scratch de Yohual, tous les personnages de l\u0027équipe à proximité obtiennent l\u0027effet Don fleuri pendant 15 s.\nLes DGT infligés par les attaques normales, chargées et plongeantes des personnages bénéficiant d\u0027un don fleuri augmentent d\u0027une valeur équivalant à 65 % de la DÉF de Xilonen, cet effet étant annulé après avoir été déclenché 6 fois ou à la fin de sa durée.\nEn touchant plusieurs ennemis en même temps, un déclenchement est comptabilisé pour chaque ennemi touché. De plus, les déclenchements des dons fleuris des personnages de l\u0027équipe sont calculés indépendamment."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Boucle de Tonalpohualli",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eScratch de Yohual\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Scratch de Yohual +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Fondu enchaîné de Tlaltecuhtli",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eRythme d\u0027Ocelotlicue !\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Rythme d\u0027Ocelotlicue ! +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Carnaval de la nuit impérissable",
+                                                                         "descriptionRaw":  "Lorsque Xilonen bénéficie d\u0027une bénédiction noctâme, elle obtient une bénédiction de la nuit impérissable lorsqu\u0027elle sprinte, saute et utilise une attaque normale ou plongeante, ce qui lui permet d\u0027ignorer les restrictions de sa bénédiction noctâme et d\u0027augmenter les DGT infligés par ses attaques normales et plongeantes pendant 5 s.\nPendant cette durée :\n· Le compte à rebours de la durée limite des points de noctâme de Xilonen s\u0027arrête, ses points de noctâme, son phlogistique et son endurance ne diminuent plus, et sa bénédiction noctâme ne s\u0027arrête plus lorsque ses points de noctâme atteignent le maximum.\n· Les DGT infligés par les attaques normales et plongeantes de Xilonen lorsqu\u0027elle bénéficie d\u0027une bénédiction noctâme augmentent d\u0027une valeur équivalant à 300 % de sa DÉF.\n· Xilonen soigne les PV de tous les personnages de l\u0027équipe à proximité d\u0027une valeur équivalant à 120 % de sa DÉF toutes les 1,5 s.\nUne bénédiction de la nuit impérissable peut être obtenue une fois toutes les 15 s.",
+                                                                         "description":  "Lorsque Xilonen bénéficie d\u0027une bénédiction noctâme, elle obtient une bénédiction de la nuit impérissable lorsqu\u0027elle sprinte, saute et utilise une attaque normale ou plongeante, ce qui lui permet d\u0027ignorer les restrictions de sa bénédiction noctâme et d\u0027augmenter les DGT infligés par ses attaques normales et plongeantes pendant 5 s.\nPendant cette durée :\n· Le compte à rebours de la durée limite des points de noctâme de Xilonen s\u0027arrête, ses points de noctâme, son phlogistique et son endurance ne diminuent plus, et sa bénédiction noctâme ne s\u0027arrête plus lorsque ses points de noctâme atteignent le maximum.\n· Les DGT infligés par les attaques normales et plongeantes de Xilonen lorsqu\u0027elle bénéficie d\u0027une bénédiction noctâme augmentent d\u0027une valeur équivalant à 300 % de sa DÉF.\n· Xilonen soigne les PV de tous les personnages de l\u0027équipe à proximité d\u0027une valeur équivalant à 120 % de sa DÉF toutes les 1,5 s.\nUne bénédiction de la nuit impérissable peut être obtenue une fois toutes les 15 s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Phrase sabbatique",
+                                                                         "descriptionRaw":  "La consommation de points de noctâme et de phlogistique de Xilonen pendant sa bénédiction noctâme diminue de 30 % et la durée limite de ses points de noctâme est prolongée de 45 %.\nDe plus, lorsque ses échantillons sources sont activés, Xilonen augmente également les RÉS à l\u0027interruption des personnages déployés de l\u0027équipe à proximité.",
+                                                                         "description":  "La consommation de points de noctâme et de phlogistique de Xilonen pendant sa bénédiction noctâme diminue de 30 % et la durée limite de ses points de noctâme est prolongée de 45 %.\nDe plus, lorsque ses échantillons sources sont activés, Xilonen augmente également les RÉS à l\u0027interruption des personnages déployés de l\u0027équipe à proximité."
+                                                                     }
+                                                          },
+                                       "elementText":  "Géo",
+                                       "fullname":  null,
+                                       "weaponText":  "Épée à une main",
+                                       "name":  "Xilonen",
+                                       "substatText":  "DÉF",
+                                       "region":  "Natlan",
+                                       "gender":  "Femme"
+                                   },
                        "chevreuse":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -6366,28 +6410,28 @@
                                       },
                     "wineandsong":  {
                                         "r3":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou de l\u0027aptitude qui le remplace diminue de 18 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 30 % pendant 5 s.",
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 18 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 30 % pendant 5 s.",
                                                    "values":  [
                                                                   "18 %",
                                                                   "30 %"
                                                               ]
                                                },
                                         "r5":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou de l\u0027aptitude qui le remplace diminue de 22 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 40 % pendant 5 s.",
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 22 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 40 % pendant 5 s.",
                                                    "values":  [
                                                                   "22 %",
                                                                   "40 %"
                                                               ]
                                                },
                                         "r2":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou de l\u0027aptitude qui le remplace diminue de 16 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 25 % pendant 5 s.",
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 16 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 25 % pendant 5 s.",
                                                    "values":  [
                                                                   "16 %",
                                                                   "25 %"
                                                               ]
                                                },
                                         "r4":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou de l\u0027aptitude qui le remplace diminue de 20 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 35 % pendant 5 s.",
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 20 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 35 % pendant 5 s.",
                                                    "values":  [
                                                                   "20 %",
                                                                   "35 %"
@@ -6396,9 +6440,9 @@
                                         "substatText":  "Recharge d\u0027énergie",
                                         "weaponText":  "Catalyseur",
                                         "name":  "Vins et chants",
-                                        "effectTemplateRaw":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou de l\u0027aptitude qui le remplace diminue de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pendant 5 s.",
+                                        "effectTemplateRaw":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pendant 5 s.",
                                         "r1":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou de l\u0027aptitude qui le remplace diminue de 14 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 20 % pendant 5 s.",
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 14 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 20 % pendant 5 s.",
                                                    "values":  [
                                                                   "14 %",
                                                                   "20 %"
@@ -6640,7 +6684,7 @@
                                       },
                     "thebell":  {
                                     "r3":  {
-                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 26 % des PV max pendant 10 s. Peut être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 18 %.",
+                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 26 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 18 %.",
                                                "values":  [
                                                               "26 %",
                                                               "45",
@@ -6648,7 +6692,7 @@
                                                           ]
                                            },
                                     "r5":  {
-                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 32 % des PV max pendant 10 s. Peut être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 24 %.",
+                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 32 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 24 %.",
                                                "values":  [
                                                               "32 %",
                                                               "45",
@@ -6656,7 +6700,7 @@
                                                           ]
                                            },
                                     "r2":  {
-                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 23 % des PV max pendant 10 s. Peut être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 15 %.",
+                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 23 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 15 %.",
                                                "values":  [
                                                               "23 %",
                                                               "45",
@@ -6664,7 +6708,7 @@
                                                           ]
                                            },
                                     "r4":  {
-                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 29 % des PV max pendant 10 s. Peut être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 21 %.",
+                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 29 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 21 %.",
                                                "values":  [
                                                               "29 %",
                                                               "45",
@@ -6674,9 +6718,9 @@
                                     "substatText":  "PV",
                                     "weaponText":  "Épée à deux mains",
                                     "name":  "Épée-horloge",
-                                    "effectTemplateRaw":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e des PV max pendant 10 s. Peut être déclenché une fois toutes les \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                    "effectTemplateRaw":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
                                     "r1":  {
-                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 20 % des PV max pendant 10 s. Peut être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 12 %.",
+                                               "description":  "Subir des DGT génère un bouclier qui absorbe jusqu\u0027à 20 % des PV max pendant 10 s, cet effet pouvant être déclenché une fois toutes les 45 s. Lorsque le personnage est sous la protection du bouclier, les DGT infligés augmentent de 12 %.",
                                                "values":  [
                                                               "20 %",
                                                               "45",
@@ -7307,6 +7351,48 @@
                                                           },
                                                    "effectName":  "Chimère de fin de mirage"
                                                },
+                    "fruitfulhook":  {
+                                         "r3":  {
+                                                    "description":  "Augmente le taux CRIT des attaques plongeantes de 24 %. Lorsqu\u0027une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 24 % pendant 10 s.",
+                                                    "values":  [
+                                                                   "24 %",
+                                                                   "24 %"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Augmente le taux CRIT des attaques plongeantes de 32 %. Lorsqu\u0027une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 32 % pendant 10 s.",
+                                                    "values":  [
+                                                                   "32 %",
+                                                                   "32 %"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Augmente le taux CRIT des attaques plongeantes de 20 %. Lorsqu\u0027une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 20 % pendant 10 s.",
+                                                    "values":  [
+                                                                   "20 %",
+                                                                   "20 %"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Augmente le taux CRIT des attaques plongeantes de 28 %. Lorsqu\u0027une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 28 % pendant 10 s.",
+                                                    "values":  [
+                                                                   "28 %",
+                                                                   "28 %"
+                                                               ]
+                                                },
+                                         "substatText":  "ATQ",
+                                         "weaponText":  "Épée à deux mains",
+                                         "name":  "Crochet fructueux",
+                                         "effectTemplateRaw":  "Augmente le taux CRIT des attaques plongeantes de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Lorsqu\u0027une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pendant 10 s.",
+                                         "r1":  {
+                                                    "description":  "Augmente le taux CRIT des attaques plongeantes de 16 %. Lorsqu\u0027une attaque plongeante a touché un ennemi, les DGT infligés par les attaques normales, chargées et plongeantes augmentent de 16 % pendant 10 s.",
+                                                    "values":  [
+                                                                   "16 %",
+                                                                   "16 %"
+                                                               ]
+                                                },
+                                         "effectName":  "Poids des branches tombantes"
+                                     },
                     "emeraldorb":  {
                                        "r3":  {
                                                   "description":  "Augmente l\u0027ATQ de 30 % pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
@@ -9132,6 +9218,43 @@
                                                      },
                                               "effectName":  "Descente"
                                           },
+                    "whiteblind":  {
+                                       "r3":  {
+                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 9 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+                                                  "values":  [
+                                                                 "9 %"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 12 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+                                                  "values":  [
+                                                                 "12 %"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 7,5 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+                                                  "values":  [
+                                                                 "7,5 %"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 10,5 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+                                                  "values":  [
+                                                                 "10,5 %"
+                                                             ]
+                                              },
+                                       "substatText":  "DÉF",
+                                       "weaponText":  "Épée à deux mains",
+                                       "name":  "Ombre immaculée",
+                                       "effectTemplateRaw":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+                                       "r1":  {
+                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 6 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
+                                                  "values":  [
+                                                                 "6 %"
+                                                             ]
+                                              },
+                                       "effectName":  "Lame énergisante"
+                                   },
                     "favoniuswarbow":  {
                                            "r3":  {
                                                       "description":  "Les coups CRIT des attaques ont 80 % de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 9 s.",
@@ -9364,6 +9487,43 @@
                                                "r1":  null,
                                                "effectName":  null
                                            },
+                    "sturdybone":  {
+                                       "r3":  {
+                                                  "description":  "La consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d\u0027une valeur équivalant à 24 % de l\u0027ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+                                                  "values":  [
+                                                                 "24 %"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "La consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d\u0027une valeur équivalant à 32 % de l\u0027ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+                                                  "values":  [
+                                                                 "32 %"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "La consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d\u0027une valeur équivalant à 20 % de l\u0027ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+                                                  "values":  [
+                                                                 "20 %"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "La consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d\u0027une valeur équivalant à 28 % de l\u0027ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+                                                  "values":  [
+                                                                 "28 %"
+                                                             ]
+                                              },
+                                       "substatText":  "ATQ",
+                                       "weaponText":  "Épée à une main",
+                                       "name":  "Os robuste",
+                                       "effectTemplateRaw":  "La consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d\u0027une valeur équivalant à \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de l\u0027ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+                                       "r1":  {
+                                                  "description":  "La consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 15 %. De plus, les DGT infligés par les attaques normales augmentent d\u0027une valeur équivalant à 16 % de l\u0027ATQ après avoir utilisé un sprint ou un sprint alternatif, cet effet disparaissant après avoir été activé 18 fois ou après 7 s.",
+                                                  "values":  [
+                                                                 "16 %"
+                                                             ]
+                                              },
+                                       "effectName":  "Orgueil du trappeur"
+                                   },
                     "theflute":  {
                                      "r3":  {
                                                 "description":  "Les attaques normales et chargées confèrent une harmonie à chaque fois qu\u0027elles touchent. Au bout de 5 harmonies, le pouvoir de la musique est libéré, et inflige 150 % de DGT d\u0027ATQ aux ennemis proches. Les harmonies durent jusqu\u0027à 30 s, et une harmonie peut être obtenue une fois toutes les 0,5 s.",
@@ -9796,6 +9956,48 @@
                                                      },
                                               "effectName":  "Flux aiguisé"
                                           },
+                    "favoniussword":  {
+                                          "r3":  {
+                                                     "description":  "Les coups CRIT des attaques ont 80 % de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 9 s.",
+                                                     "values":  [
+                                                                    "80 %",
+                                                                    "9"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Les coups CRIT des attaques ont 100 % de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 6 s.",
+                                                     "values":  [
+                                                                    "100 %",
+                                                                    "6"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Les coups CRIT des attaques ont 70 % de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 10,5 s.",
+                                                     "values":  [
+                                                                    "70 %",
+                                                                    "10,5"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Les coups CRIT des attaques ont 90 % de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 7,5 s.",
+                                                     "values":  [
+                                                                    "90 %",
+                                                                    "7,5"
+                                                                ]
+                                                 },
+                                          "substatText":  "Recharge d\u0027énergie",
+                                          "weaponText":  "Épée à une main",
+                                          "name":  "Épée de Favonius",
+                                          "effectTemplateRaw":  "Les coups CRIT des attaques ont \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s.",
+                                          "r1":  {
+                                                     "description":  "Les coups CRIT des attaques ont 60 % de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 12 s.",
+                                                     "values":  [
+                                                                    "60 %",
+                                                                    "12"
+                                                                ]
+                                                 },
+                                          "effectName":  "Charge critique"
+                                      },
                     "sacrificialsword":  {
                                              "r3":  {
                                                         "description":  "Les compétences élémentaires ont 60 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 22 s.",
@@ -11319,43 +11521,58 @@
                                                    },
                                             "effectName":  "Circulation du jade"
                                         },
-                    "whiteblind":  {
-                                       "r3":  {
-                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 9 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
-                                                  "values":  [
-                                                                 "9 %"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 12 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
-                                                  "values":  [
-                                                                 "12 %"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 7,5 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
-                                                  "values":  [
-                                                                 "7,5 %"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 10,5 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
-                                                  "values":  [
-                                                                 "10,5 %"
-                                                             ]
-                                              },
-                                       "substatText":  "DÉF",
-                                       "weaponText":  "Épée à deux mains",
-                                       "name":  "Ombre immaculée",
-                                       "effectTemplateRaw":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
-                                       "r1":  {
-                                                  "description":  "Les attaques normales et chargées augmentent l\u0027ATQ et la DÉF de 6 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,5 s.",
-                                                  "values":  [
-                                                                 "6 %"
-                                                             ]
-                                              },
-                                       "effectName":  "Lame énergisante"
-                                   },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 12 % et accorde un bonus de DGT élémentaires de 15 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 12 % (jusqu\u0027à 38,4 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "12 %",
+                                                                     "15 %",
+                                                                     "12 %",
+                                                                     "38,4 %"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 16 % et accorde un bonus de DGT élémentaires de 20 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 16 % (jusqu\u0027à 51,2 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "16 %",
+                                                                     "20 %",
+                                                                     "16 %",
+                                                                     "51,2 %"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 10 % et accorde un bonus de DGT élémentaires de 12,5 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 10 % (jusqu\u0027à 32 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "10 %",
+                                                                     "12,5 %",
+                                                                     "10 %",
+                                                                     "32 %"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 14 % et accorde un bonus de DGT élémentaires de 17,5 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 14 % (jusqu\u0027à 44,8 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "14 %",
+                                                                     "17,5 %",
+                                                                     "14 %",
+                                                                     "44,8 %"
+                                                                 ]
+                                                  },
+                                           "substatText":  "DÉF",
+                                           "weaponText":  "Épée à une main",
+                                           "name":  "Chanson de patrouille de sommet",
+                                           "effectTemplateRaw":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et accorde un bonus de DGT élémentaires de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e (jusqu\u0027à \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e maximum) pendant 15 s.",
+                                           "r1":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 8 % et accorde un bonus de DGT élémentaires de 10 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 8 % (jusqu\u0027à 25,6 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "8 %",
+                                                                     "10 %",
+                                                                     "8 %",
+                                                                     "25,6 %"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Âge d\u0027or sans fin"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -12524,48 +12741,48 @@
                                                     },
                                              "effectName":  "Pulvérisation"
                                          },
-                    "favoniussword":  {
-                                          "r3":  {
-                                                     "description":  "Les coups CRIT des attaques ont 80 % de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 9 s.",
-                                                     "values":  [
-                                                                    "80 %",
-                                                                    "9"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Les coups CRIT des attaques ont 100 % de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 6 s.",
-                                                     "values":  [
-                                                                    "100 %",
-                                                                    "6"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Les coups CRIT des attaques ont 70 % de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 10,5 s.",
-                                                     "values":  [
-                                                                    "70 %",
-                                                                    "10,5"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Les coups CRIT des attaques ont 90 % de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 7,5 s.",
-                                                     "values":  [
-                                                                    "90 %",
-                                                                    "7,5"
-                                                                ]
-                                                 },
-                                          "substatText":  "Recharge d\u0027énergie",
-                                          "weaponText":  "Épée à une main",
-                                          "name":  "Épée de Favonius",
-                                          "effectTemplateRaw":  "Les coups CRIT des attaques ont \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s.",
-                                          "r1":  {
-                                                     "description":  "Les coups CRIT des attaques ont 60 % de chances de générer une faible quantité de particules élémentaires qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 12 s.",
-                                                     "values":  [
-                                                                    "60 %",
-                                                                    "12"
-                                                                ]
-                                                 },
-                                          "effectName":  "Charge critique"
-                                      },
+                    "mountainbracingbolt":  {
+                                                "r3":  {
+                                                           "description":  "La consommation d\u0027endurance lors de l\u0027escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 18 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l\u0027arme augmentent de 18 % supplémentaires pendant 8 s lorsqu\u0027un autre personnage de l\u0027équipe à proximité a utilisé une compétence élémentaire.",
+                                                           "values":  [
+                                                                          "18 %",
+                                                                          "18 %"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "La consommation d\u0027endurance lors de l\u0027escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 24 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l\u0027arme augmentent de 24 % supplémentaires pendant 8 s lorsqu\u0027un autre personnage de l\u0027équipe à proximité a utilisé une compétence élémentaire.",
+                                                           "values":  [
+                                                                          "24 %",
+                                                                          "24 %"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "La consommation d\u0027endurance lors de l\u0027escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 15 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l\u0027arme augmentent de 15 % supplémentaires pendant 8 s lorsqu\u0027un autre personnage de l\u0027équipe à proximité a utilisé une compétence élémentaire.",
+                                                           "values":  [
+                                                                          "15 %",
+                                                                          "15 %"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "La consommation d\u0027endurance lors de l\u0027escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 21 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l\u0027arme augmentent de 21 % supplémentaires pendant 8 s lorsqu\u0027un autre personnage de l\u0027équipe à proximité a utilisé une compétence élémentaire.",
+                                                           "values":  [
+                                                                          "21 %",
+                                                                          "21 %"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Recharge d\u0027énergie",
+                                                "weaponText":  "Arme d\u0027hast",
+                                                "name":  "Clou soutenant les montagnes",
+                                                "effectTemplateRaw":  "La consommation d\u0027endurance lors de l\u0027escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l\u0027arme augmentent de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e supplémentaires pendant 8 s lorsqu\u0027un autre personnage de l\u0027équipe à proximité a utilisé une compétence élémentaire.",
+                                                "r1":  {
+                                                           "description":  "La consommation d\u0027endurance lors de l\u0027escalade diminue de 15 % et les DGT infligés par les compétences élémentaires augmentent de 12 %. De plus, les DGT infligés par les compétences élémentaires du personnage équipé de l\u0027arme augmentent de 12 % supplémentaires pendant 8 s lorsqu\u0027un autre personnage de l\u0027équipe à proximité a utilisé une compétence élémentaire.",
+                                                           "values":  [
+                                                                          "12 %",
+                                                                          "12 %"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Espoir au-delà des sommets"
+                                            },
                     "ironsting":  {
                                       "r3":  {
                                                  "description":  "Lorsque vous infligez des DGT élémentaires à vos ennemis, tous les DGT infligés par ce personnage augmentent de 9 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les secondes.",
@@ -13869,10 +14086,10 @@
                                                 "name":  "Éclaireur-tempête à pas rapide",
                                                 "specialname":  null
                                             },
-                    "woodenshieldhilichurlguard":  {
-                                                       "name":  "Brutocollinus avec bouclier de bois",
-                                                       "specialname":  null
-                                                   },
+                    "secretsourceautomatonconfigurationdevice":  {
+                                                                     "name":  "Automate de source secrète : Configurateur",
+                                                                     "specialname":  null
+                                                                 },
                     "stormterror":  {
                                         "name":  "Stormterror",
                                         "specialname":  null
@@ -14293,6 +14510,10 @@
                                         "name":  "Poulpe bouffi",
                                         "specialname":  null
                                     },
+                    "tenebrousmimiflora":  {
+                                               "name":  "Miméflore obombrée",
+                                               "specialname":  null
+                                           },
                     "taintedwatersplittingphantasm":  {
                                                           "name":  "Fantasme briseur d\u0027eau",
                                                           "specialname":  null
@@ -14393,6 +14614,10 @@
                                        "name":  "Colosse des ruines",
                                        "specialname":  null
                                    },
+                    "woodenshieldhilichurlguard":  {
+                                                       "name":  "Brutocollinus avec bouclier de bois",
+                                                       "specialname":  null
+                                                   },
                     "tepetlisaurwhelp":  {
                                              "name":  "Jeune tepetlisaure",
                                              "specialname":  null

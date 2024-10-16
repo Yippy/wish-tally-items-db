@@ -2247,6 +2247,9 @@
                       "akossakevessel":  {
                                              "name":  "Ako\u0027s Sake Vessel"
                                          },
+                      "goldinscribedsecretsourcecore":  {
+                                                            "name":  "Gold-Inscribed Secret Source Core"
+                                                        },
                       "philosophiesofdiligence":  {
                                                       "name":  "Philosophies of Diligence"
                                                   },
@@ -4543,6 +4546,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Female"
                                   },
+                       "xilonen":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Chiucue Mix",
+                                                                         "descriptionRaw":  "Xilonen\u0027s \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e Source Samples will always remain active. Additionally, when her Source Samples activate, all nearby party members will gain effects corresponding to the active Source Sample that matches their Elemental Type:\n·\u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e: DMG dealt +50%.\n·\u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e: ATK +45%.\n·\u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e: Max HP +45%.\n·\u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e: CRIT DMG +60%.\n·\u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e: Restore 25 Energy, decrease Elemental Burst CD by 6s.",
+                                                                         "description":  "Xilonen\u0027s Geo Source Samples will always remain active. Additionally, when her Source Samples activate, all nearby party members will gain effects corresponding to the active Source Sample that matches their Elemental Type:\n·Geo: DMG dealt +50%.\n·Pyro: ATK +45%.\n·Hydro: Max HP +45%.\n·Cryo: CRIT DMG +60%.\n·Electro: Restore 25 Energy, decrease Elemental Burst CD by 6s."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Suchitl\u0027s Trance",
+                                                                         "descriptionRaw":  "After Xilonen uses \u003ccolor=#FFD780FF\u003eYohual\u0027s Scratch\u003c/color\u003e, she will grant all nearby party members the Blooming Blessing effect for 15s.\nCharacters with Blooming Blessing deal 65% of Xilonen\u0027s DEF as increased Normal, Charged, and Plunging Attack DMG. This effect will be removed after triggering 6 times or when the duration ends.\nWhen you hit more than one opponent, trigger counts will be consumed based on the number of opponents hit. The counts for each party member with Blooming Blessing are counted independently.",
+                                                                         "description":  "After Xilonen uses Yohual\u0027s Scratch, she will grant all nearby party members the Blooming Blessing effect for 15s.\nCharacters with Blooming Blessing deal 65% of Xilonen\u0027s DEF as increased Normal, Charged, and Plunging Attack DMG. This effect will be removed after triggering 6 times or when the duration ends.\nWhen you hit more than one opponent, trigger counts will be consumed based on the number of opponents hit. The counts for each party member with Blooming Blessing are counted independently."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Tonalpohualli\u0027s Loop",
+                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eYohual\u0027s Scratch\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                         "description":  "Increases the Level of Yohual\u0027s Scratch by 3.\nMaximum upgrade level is 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Tlaltecuhtli\u0027s Crossfade",
+                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eOcelotlicue Point!\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                         "description":  "Increases the Level of Ocelotlicue Point! by 3.\nMaximum upgrade level is 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Imperishable Night Carnival",
+                                                                         "descriptionRaw":  "When Xilonen is in the Nightsoul\u0027s Blessing state, when she sprints, leaps, or uses Normal or Plunging Attacks, she will gain Imperishable Night\u0027s Blessing, ignoring the limitations of her Nightsoul\u0027s Blessing state and increasing the DMG dealt by her Normal and Plunging Attacks for 5s.\nDuring this time:\n·Her Nightsoul\u0027s Blessing time limit countdown will be paused. Xilonen\u0027s Nightsoul points, Phlogiston, and Stamina will not decrease, and when her Nightsoul points reach the maximum, her Nightsoul\u0027s Blessing state will not end either.\n·Xilonen deals 300% of her DEF as increased Normal and Plunging Attack DMG while in the Nightsoul\u0027s Blessing state.\n·She heals nearby party members for 120% of her DEF every 1.5s.\nShe can gain 1 Imperishable Night\u0027s Blessing once every 15s.",
+                                                                         "description":  "When Xilonen is in the Nightsoul\u0027s Blessing state, when she sprints, leaps, or uses Normal or Plunging Attacks, she will gain Imperishable Night\u0027s Blessing, ignoring the limitations of her Nightsoul\u0027s Blessing state and increasing the DMG dealt by her Normal and Plunging Attacks for 5s.\nDuring this time:\n·Her Nightsoul\u0027s Blessing time limit countdown will be paused. Xilonen\u0027s Nightsoul points, Phlogiston, and Stamina will not decrease, and when her Nightsoul points reach the maximum, her Nightsoul\u0027s Blessing state will not end either.\n·Xilonen deals 300% of her DEF as increased Normal and Plunging Attack DMG while in the Nightsoul\u0027s Blessing state.\n·She heals nearby party members for 120% of her DEF every 1.5s.\nShe can gain 1 Imperishable Night\u0027s Blessing once every 15s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Sabbatical Phrase",
+                                                                         "descriptionRaw":  "Xilonen\u0027s Nightsoul point and Phlogiston consumption in her Nightsoul\u0027s Blessing state is decreased by 30%, and her Nightsoul point time limit is extended by 45%.\nAdditionally, when Xilonen\u0027s Source Samples are active, she can also increase nearby active characters\u0027 interruption resistance.",
+                                                                         "description":  "Xilonen\u0027s Nightsoul point and Phlogiston consumption in her Nightsoul\u0027s Blessing state is decreased by 30%, and her Nightsoul point time limit is extended by 45%.\nAdditionally, when Xilonen\u0027s Source Samples are active, she can also increase nearby active characters\u0027 interruption resistance."
+                                                                     }
+                                                          },
+                                       "elementText":  "Geo",
+                                       "fullname":  null,
+                                       "weaponText":  "Sword",
+                                       "name":  "Xilonen",
+                                       "substatText":  "DEF",
+                                       "region":  "Natlan",
+                                       "gender":  "Female"
+                                   },
                        "chevreuse":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -7338,6 +7382,48 @@
                                                           },
                                                    "effectName":  "Heat Haze at Horizon\u0027s End"
                                                },
+                    "fruitfulhook":  {
+                                         "r3":  {
+                                                    "description":  "Increase Plunging Attack CRIT Rate by 24%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 24% for 10s.",
+                                                    "values":  [
+                                                                   "24%",
+                                                                   "24%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Increase Plunging Attack CRIT Rate by 32%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 32% for 10s.",
+                                                    "values":  [
+                                                                   "32%",
+                                                                   "32%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Increase Plunging Attack CRIT Rate by 20%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 20% for 10s.",
+                                                    "values":  [
+                                                                   "20%",
+                                                                   "20%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Increase Plunging Attack CRIT Rate by 28%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 28% for 10s.",
+                                                    "values":  [
+                                                                   "28%",
+                                                                   "28%"
+                                                               ]
+                                                },
+                                         "substatText":  "ATK",
+                                         "weaponText":  "Claymore",
+                                         "name":  "Fruitful Hook",
+                                         "effectTemplateRaw":  "Increase Plunging Attack CRIT Rate by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e for 10s.",
+                                         "r1":  {
+                                                    "description":  "Increase Plunging Attack CRIT Rate by 16%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 16% for 10s.",
+                                                    "values":  [
+                                                                   "16%",
+                                                                   "16%"
+                                                               ]
+                                                },
+                                         "effectName":  "The Weight of Falling Branches"
+                                     },
                     "emeraldorb":  {
                                        "r3":  {
                                                   "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 30% for 12s.",
@@ -9163,6 +9249,43 @@
                                                      },
                                               "effectName":  "Descension"
                                           },
+                    "whiteblind":  {
+                                       "r3":  {
+                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 9% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
+                                                  "values":  [
+                                                                 "9%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 12% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
+                                                  "values":  [
+                                                                 "12%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 7.5% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
+                                                  "values":  [
+                                                                 "7.5%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 10.5% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
+                                                  "values":  [
+                                                                 "10.5%"
+                                                             ]
+                                              },
+                                       "substatText":  "DEF",
+                                       "weaponText":  "Claymore",
+                                       "name":  "Whiteblind",
+                                       "effectTemplateRaw":  "On hit, Normal or Charged Attacks increase ATK and DEF by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
+                                       "r1":  {
+                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 6% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
+                                                  "values":  [
+                                                                 "6%"
+                                                             ]
+                                              },
+                                       "effectName":  "Infusion Blade"
+                                   },
                     "favoniuswarbow":  {
                                            "r3":  {
                                                       "description":  "CRIT Hits have a 80% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 9s.",
@@ -9395,6 +9518,43 @@
                                                "r1":  null,
                                                "effectName":  null
                                            },
+                    "sturdybone":  {
+                                       "r3":  {
+                                                  "description":  "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 24% of ATK. This effect expires after triggering 18 times or 7s.",
+                                                  "values":  [
+                                                                 "24%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 32% of ATK. This effect expires after triggering 18 times or 7s.",
+                                                  "values":  [
+                                                                 "32%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 20% of ATK. This effect expires after triggering 18 times or 7s.",
+                                                  "values":  [
+                                                                 "20%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 28% of ATK. This effect expires after triggering 18 times or 7s.",
+                                                  "values":  [
+                                                                 "28%"
+                                                             ]
+                                              },
+                                       "substatText":  "ATK",
+                                       "weaponText":  "Sword",
+                                       "name":  "Sturdy Bone",
+                                       "effectTemplateRaw":  "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e of ATK. This effect expires after triggering 18 times or 7s.",
+                                       "r1":  {
+                                                  "description":  "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 16% of ATK. This effect expires after triggering 18 times or 7s.",
+                                                  "values":  [
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "effectName":  "Trapper\u0027s Pride"
+                                   },
                     "theflute":  {
                                      "r3":  {
                                                 "description":  "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals 150% ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s.",
@@ -9827,6 +9987,48 @@
                                                      },
                                               "effectName":  "Honed Flow"
                                           },
+                    "favoniussword":  {
+                                          "r3":  {
+                                                     "description":  "CRIT Hits have a 80% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 9s.",
+                                                     "values":  [
+                                                                    "80%",
+                                                                    "9"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.",
+                                                     "values":  [
+                                                                    "100%",
+                                                                    "6"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "CRIT Hits have a 70% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 10.5s.",
+                                                     "values":  [
+                                                                    "70%",
+                                                                    "10.5"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "CRIT Hits have a 90% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 7.5s.",
+                                                     "values":  [
+                                                                    "90%",
+                                                                    "7.5"
+                                                                ]
+                                                 },
+                                          "substatText":  "Energy Recharge",
+                                          "weaponText":  "Sword",
+                                          "name":  "Favonius Sword",
+                                          "effectTemplateRaw":  "CRIT Hits have a \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es.",
+                                          "r1":  {
+                                                     "description":  "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s.",
+                                                     "values":  [
+                                                                    "60%",
+                                                                    "12"
+                                                                ]
+                                                 },
+                                          "effectName":  "Windfall"
+                                      },
                     "sacrificialsword":  {
                                              "r3":  {
                                                         "description":  "After damaging an opponent with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s.",
@@ -11350,43 +11552,58 @@
                                                    },
                                             "effectName":  "Jade Circulation"
                                         },
-                    "whiteblind":  {
-                                       "r3":  {
-                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 9% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-                                                  "values":  [
-                                                                 "9%"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 12% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-                                                  "values":  [
-                                                                 "12%"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 7.5% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-                                                  "values":  [
-                                                                 "7.5%"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 10.5% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-                                                  "values":  [
-                                                                 "10.5%"
-                                                             ]
-                                              },
-                                       "substatText":  "DEF",
-                                       "weaponText":  "Claymore",
-                                       "name":  "Whiteblind",
-                                       "effectTemplateRaw":  "On hit, Normal or Charged Attacks increase ATK and DEF by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-                                       "r1":  {
-                                                  "description":  "On hit, Normal or Charged Attacks increase ATK and DEF by 6% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-                                                  "values":  [
-                                                                 "6%"
-                                                             ]
-                                              },
-                                       "effectName":  "Infusion Blade"
-                                   },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 12% and gain a 15% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack\u0027s duration is refreshed, increase all nearby party members\u0027 All Elemental DMG Bonus by 12% for every 1,000 DEF the equipping character has, up to a maximum of 38.4%, for 15s.",
+                                                      "values":  [
+                                                                     "12%",
+                                                                     "15%",
+                                                                     "12%",
+                                                                     "38.4%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 16% and gain a 20% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack\u0027s duration is refreshed, increase all nearby party members\u0027 All Elemental DMG Bonus by 16% for every 1,000 DEF the equipping character has, up to a maximum of 51.2%, for 15s.",
+                                                      "values":  [
+                                                                     "16%",
+                                                                     "20%",
+                                                                     "16%",
+                                                                     "51.2%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 10% and gain a 12.5% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack\u0027s duration is refreshed, increase all nearby party members\u0027 All Elemental DMG Bonus by 10% for every 1,000 DEF the equipping character has, up to a maximum of 32%, for 15s.",
+                                                      "values":  [
+                                                                     "10%",
+                                                                     "12.5%",
+                                                                     "10%",
+                                                                     "32%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 14% and gain a 17.5% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack\u0027s duration is refreshed, increase all nearby party members\u0027 All Elemental DMG Bonus by 14% for every 1,000 DEF the equipping character has, up to a maximum of 44.8%, for 15s.",
+                                                      "values":  [
+                                                                     "14%",
+                                                                     "17.5%",
+                                                                     "14%",
+                                                                     "44.8%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "DEF",
+                                           "weaponText":  "Sword",
+                                           "name":  "Peak Patrol Song",
+                                           "effectTemplateRaw":  "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e and gain a \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack\u0027s duration is refreshed, increase all nearby party members\u0027 All Elemental DMG Bonus by \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e for every 1,000 DEF the equipping character has, up to a maximum of \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e, for 15s.",
+                                           "r1":  {
+                                                      "description":  "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 8% and gain a 10% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack\u0027s duration is refreshed, increase all nearby party members\u0027 All Elemental DMG Bonus by 8% for every 1,000 DEF the equipping character has, up to a maximum of 25.6%, for 15s.",
+                                                      "values":  [
+                                                                     "8%",
+                                                                     "10%",
+                                                                     "8%",
+                                                                     "25.6%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Halcyon Years Unending"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -12555,48 +12772,48 @@
                                                     },
                                              "effectName":  "Crush"
                                          },
-                    "favoniussword":  {
-                                          "r3":  {
-                                                     "description":  "CRIT Hits have a 80% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 9s.",
-                                                     "values":  [
-                                                                    "80%",
-                                                                    "9"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.",
-                                                     "values":  [
-                                                                    "100%",
-                                                                    "6"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "CRIT Hits have a 70% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 10.5s.",
-                                                     "values":  [
-                                                                    "70%",
-                                                                    "10.5"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "CRIT Hits have a 90% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 7.5s.",
-                                                     "values":  [
-                                                                    "90%",
-                                                                    "7.5"
-                                                                ]
-                                                 },
-                                          "substatText":  "Energy Recharge",
-                                          "weaponText":  "Sword",
-                                          "name":  "Favonius Sword",
-                                          "effectTemplateRaw":  "CRIT Hits have a \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es.",
-                                          "r1":  {
-                                                     "description":  "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s.",
-                                                     "values":  [
-                                                                    "60%",
-                                                                    "12"
-                                                                ]
-                                                 },
-                                          "effectName":  "Windfall"
-                                      },
+                    "mountainbracingbolt":  {
+                                                "r3":  {
+                                                           "description":  "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 18%. Also, after other nearby party members use Elemental Skills, the equipping character\u0027s Elemental Skill DMG will also increase by 18% for 8s.",
+                                                           "values":  [
+                                                                          "18%",
+                                                                          "18%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 24%. Also, after other nearby party members use Elemental Skills, the equipping character\u0027s Elemental Skill DMG will also increase by 24% for 8s.",
+                                                           "values":  [
+                                                                          "24%",
+                                                                          "24%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 15%. Also, after other nearby party members use Elemental Skills, the equipping character\u0027s Elemental Skill DMG will also increase by 15% for 8s.",
+                                                           "values":  [
+                                                                          "15%",
+                                                                          "15%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 21%. Also, after other nearby party members use Elemental Skills, the equipping character\u0027s Elemental Skill DMG will also increase by 21% for 8s.",
+                                                           "values":  [
+                                                                          "21%",
+                                                                          "21%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Energy Recharge",
+                                                "weaponText":  "Polearm",
+                                                "name":  "Mountain-Bracing Bolt",
+                                                "effectTemplateRaw":  "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Also, after other nearby party members use Elemental Skills, the equipping character\u0027s Elemental Skill DMG will also increase by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e for 8s.",
+                                                "r1":  {
+                                                           "description":  "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 12%. Also, after other nearby party members use Elemental Skills, the equipping character\u0027s Elemental Skill DMG will also increase by 12% for 8s.",
+                                                           "values":  [
+                                                                          "12%",
+                                                                          "12%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Hope Beyond the Peaks"
+                                            },
                     "ironsting":  {
                                       "r3":  {
                                                  "description":  "Dealing Elemental DMG increases all DMG by 9% for 6s. Max 2 stacks. Can occur once every 1s.",
@@ -13900,10 +14117,10 @@
                                                 "name":  "Swiftstep Storm Scout",
                                                 "specialname":  null
                                             },
-                    "woodenshieldhilichurlguard":  {
-                                                       "name":  "Wooden Shield Hilichurl Guard",
-                                                       "specialname":  null
-                                                   },
+                    "secretsourceautomatonconfigurationdevice":  {
+                                                                     "name":  "Secret Source Automaton: Configuration Device",
+                                                                     "specialname":  null
+                                                                 },
                     "stormterror":  {
                                         "name":  "Stormterror",
                                         "specialname":  null
@@ -14324,6 +14541,10 @@
                                         "name":  "Ball Octopus",
                                         "specialname":  null
                                     },
+                    "tenebrousmimiflora":  {
+                                               "name":  "Tenebrous Mimiflora",
+                                               "specialname":  null
+                                           },
                     "taintedwatersplittingphantasm":  {
                                                           "name":  "Tainted Water-Splitting Phantasm",
                                                           "specialname":  null
@@ -14424,6 +14645,10 @@
                                        "name":  "Ruin Grader",
                                        "specialname":  null
                                    },
+                    "woodenshieldhilichurlguard":  {
+                                                       "name":  "Wooden Shield Hilichurl Guard",
+                                                       "specialname":  null
+                                                   },
                     "tepetlisaurwhelp":  {
                                              "name":  "Tepetlisaur Whelp",
                                              "specialname":  null

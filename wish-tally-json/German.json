@@ -2216,6 +2216,9 @@
                       "akossakevessel":  {
                                              "name":  "Akos Sakegefäß"
                                          },
+                      "goldinscribedsecretsourcecore":  {
+                                                            "name":  "Energiekern mit mysteriösen goldenen Inschriften"
+                                                        },
                       "philosophiesofdiligence":  {
                                                       "name":  "Philosophie des „Fleißes“"
                                                   },
@@ -4512,6 +4515,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Weiblich"
                                   },
+                       "xilonen":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Der glühenden Wildnis gewidmetes Quintett",
+                                                                         "descriptionRaw":  "#Die von Xilonen getragenen \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e-Sampler bleiben durchgehend aktiv. Verleiht außerdem beim Aktivieren des „Urtonsamplers“ von Xilonen den Truppenmitgliedern in der Nähe mit denselben Elementartypen der Sampler einen Bonuseffekt des entsprechenden Elementartyps basierend auf den Elementartypen der aktivierten Sampler:\n· \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e: Erhöht den verursachten Schaden um 50{NON_BREAK_SPACE}%.\n· \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e: Erhöht den ANG um 45{NON_BREAK_SPACE}%.\n· \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e: Erhöht die max. LP um 45{NON_BREAK_SPACE}%.\n· \u003ccolor=#99FFFFFF\u003eKryo\u003c/color\u003e: Erhöht den KSCH um 60{NON_BREAK_SPACE}%.\n· \u003ccolor=#FFACFFFF\u003eElektro\u003c/color\u003e: Stellt 25 Punkte Elementarenergie wieder her und verringert die Abklingzeit der Spezialfähigkeit um 6{NON_BREAK_SPACE}s.",
+                                                                         "description":  "Die von Xilonen getragenen Geo-Sampler bleiben durchgehend aktiv. Verleiht außerdem beim Aktivieren des „Urtonsamplers“ von Xilonen den Truppenmitgliedern in der Nähe mit denselben Elementartypen der Sampler einen Bonuseffekt des entsprechenden Elementartyps basierend auf den Elementartypen der aktivierten Sampler:\n· Geo: Erhöht den verursachten Schaden um 50 %.\n· Pyro: Erhöht den ANG um 45 %.\n· Hydro: Erhöht die max. LP um 45 %.\n· Kryo: Erhöht den KSCH um 60 %.\n· Elektro: Stellt 25 Punkte Elementarenergie wieder her und verringert die Abklingzeit der Spezialfähigkeit um 6 s."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Dem Nachmittag gewidmete Traumblumen",
+                                                                         "descriptionRaw":  "#Nachdem Xilonen \u003ccolor=#FFD780FF\u003eYohuals Kratzer\u003c/color\u003e eingesetzt hat, verleiht sie allen Truppenmitgliedern in der Nähe den 15{NON_BREAK_SPACE}s anhaltenden Effekt „Glorreicher Segen“.\nErhöht den von den Figuren mit „Glorreicher Segen“ mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden um 65{NON_BREAK_SPACE}% von Xilonens VTD. Dieser Effekt wird aufgehoben, wenn er 6-mal ausgelöst wurde oder die Wirkungsdauer abgelaufen ist.\nWenn mehrere Gegner gleichzeitig getroffen werden, richtet sich die Anzahl der Auslösungen nach der Anzahl der getroffenen Gegner. Die Zählungen der Auslösungen für jedes Truppenmitglied mit „Glorreicher Segen“ werden unabhängig voneinander berechnet.",
+                                                                         "description":  "Nachdem Xilonen Yohuals Kratzer eingesetzt hat, verleiht sie allen Truppenmitgliedern in der Nähe den 15 s anhaltenden Effekt „Glorreicher Segen“.\nErhöht den von den Figuren mit „Glorreicher Segen“ mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden um 65 % von Xilonens VTD. Dieser Effekt wird aufgehoben, wenn er 6-mal ausgelöst wurde oder die Wirkungsdauer abgelaufen ist.\nWenn mehrere Gegner gleichzeitig getroffen werden, richtet sich die Anzahl der Auslösungen nach der Anzahl der getroffenen Gegner. Die Zählungen der Auslösungen für jedes Truppenmitglied mit „Glorreicher Segen“ werden unabhängig voneinander berechnet."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Der Sonnenhitze gewidmete Parade",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eYohuals Kratzer\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Yohuals Kratzer um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Dem Zwielicht gewidmeter Rhythmus",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eOzelot-Rhythmus!\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Ozelot-Rhythmus! um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Der ewigen Nacht gewidmeter Karneval",
+                                                                         "descriptionRaw":  "#Wenn Xilonen sich im Zustand „Nachtseelensegen“ befindet und rennt, springt, Standardangriffe oder Angriffe aus dem Fall einsetzt, erhält sie den Segen der unvergänglichen Nacht, der sie die Beschränkungen des Nachtseelensegens ignorieren lässt und den von ihren Standardangriffen und Angriffen aus dem Fall verursachten Schaden erhöht, hält 5{NON_BREAK_SPACE}s.\nWährend der Wirkungsdauer:\n· Der Countdown für das Zeitlimit der Nachtseelenpunkte von Xilonen wird angehalten. Xilonens Nachtseelenpunkte, Phlogiston und Ausdauer nehmen nicht ab, und wenn ihre Nachtseelenpunkte den Höchstwert erreichen, endet auch der Zustand des Nachtseelensegens nicht.\n· Erhöht den von Xilonens Standardangriffen und Angriffen aus dem Fall im Zustand „Nachtseelensegen“ verursachten Schaden um 300{NON_BREAK_SPACE}% von Xilonens VTD.\n· Stellt alle 1,5{NON_BREAK_SPACE}s allen Truppenmitgliedern in der Nähe LP in Höhe von 120{NON_BREAK_SPACE}% von Xilonens VTD wieder her.\n15{NON_BREAK_SPACE}s Abklingzeit für das Erhalten des Segens der unvergänglichen Nacht.",
+                                                                         "description":  "Wenn Xilonen sich im Zustand „Nachtseelensegen“ befindet und rennt, springt, Standardangriffe oder Angriffe aus dem Fall einsetzt, erhält sie den Segen der unvergänglichen Nacht, der sie die Beschränkungen des Nachtseelensegens ignorieren lässt und den von ihren Standardangriffen und Angriffen aus dem Fall verursachten Schaden erhöht, hält 5 s.\nWährend der Wirkungsdauer:\n· Der Countdown für das Zeitlimit der Nachtseelenpunkte von Xilonen wird angehalten. Xilonens Nachtseelenpunkte, Phlogiston und Ausdauer nehmen nicht ab, und wenn ihre Nachtseelenpunkte den Höchstwert erreichen, endet auch der Zustand des Nachtseelensegens nicht.\n· Erhöht den von Xilonens Standardangriffen und Angriffen aus dem Fall im Zustand „Nachtseelensegen“ verursachten Schaden um 300 % von Xilonens VTD.\n· Stellt alle 1,5 s allen Truppenmitgliedern in der Nähe LP in Höhe von 120 % von Xilonens VTD wieder her.\n15 s Abklingzeit für das Erhalten des Segens der unvergänglichen Nacht."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Dem sorglosen Schlafen gewidmete Urlaubstage",
+                                                                         "descriptionRaw":  "#Verringert den Verbrauch von Nachtseelenpunkten sowie Phlogiston durch Xilonens Nachtseelensegen um 30{NON_BREAK_SPACE}% und verlängert das Zeitlimit der Nachtseelenpunkte um 45{NON_BREAK_SPACE}%.\nErhöht außerdem beim Aktivieren des „Urtonsamplers“ von Xilonen den Unterbrechungs-WDS der aktuellen Truppenmitglieder in der Nähe.",
+                                                                         "description":  "Verringert den Verbrauch von Nachtseelenpunkten sowie Phlogiston durch Xilonens Nachtseelensegen um 30 % und verlängert das Zeitlimit der Nachtseelenpunkte um 45 %.\nErhöht außerdem beim Aktivieren des „Urtonsamplers“ von Xilonen den Unterbrechungs-WDS der aktuellen Truppenmitglieder in der Nähe."
+                                                                     }
+                                                          },
+                                       "elementText":  "Geo",
+                                       "fullname":  null,
+                                       "weaponText":  "Einhänder",
+                                       "name":  "Xilonen",
+                                       "substatText":  "VTD",
+                                       "region":  "Natlan",
+                                       "gender":  "Weiblich"
+                                   },
                        "chevreuse":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -7307,6 +7351,48 @@
                                                           },
                                                    "effectName":  "Traum am Ende des Hitzedunsts"
                                                },
+                    "fruitfulhook":  {
+                                         "r3":  {
+                                                    "description":  "Erhöht die KT von Angriffen aus dem Fall um 24 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 24 %.",
+                                                    "values":  [
+                                                                   "24{NON_BREAK_SPACE}%",
+                                                                   "24{NON_BREAK_SPACE}%"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Erhöht die KT von Angriffen aus dem Fall um 32 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 32 %.",
+                                                    "values":  [
+                                                                   "32{NON_BREAK_SPACE}%",
+                                                                   "32{NON_BREAK_SPACE}%"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Erhöht die KT von Angriffen aus dem Fall um 20 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 20 %.",
+                                                    "values":  [
+                                                                   "20{NON_BREAK_SPACE}%",
+                                                                   "20{NON_BREAK_SPACE}%"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Erhöht die KT von Angriffen aus dem Fall um 28 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 28 %.",
+                                                    "values":  [
+                                                                   "28{NON_BREAK_SPACE}%",
+                                                                   "28{NON_BREAK_SPACE}%"
+                                                               ]
+                                                },
+                                         "substatText":  "ANG",
+                                         "weaponText":  "Zweihänder",
+                                         "name":  "Fruchtbarer Haken",
+                                         "effectTemplateRaw":  "#Erhöht die KT von Angriffen aus dem Fall um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                         "r1":  {
+                                                    "description":  "Erhöht die KT von Angriffen aus dem Fall um 16 %. Erhöht nach dem Treffen von Gegnern mit Angriffen aus dem Fall den mit den Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden des Trägers 10 s lang um 16 %.",
+                                                    "values":  [
+                                                                   "16{NON_BREAK_SPACE}%",
+                                                                   "16{NON_BREAK_SPACE}%"
+                                                               ]
+                                                },
+                                         "effectName":  "Das Gewicht der herabfallenden Äste"
+                                     },
                     "emeraldorb":  {
                                        "r3":  {
                                                   "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um 30 %.",
@@ -9132,6 +9218,43 @@
                                                      },
                                               "effectName":  "Niederkunft"
                                           },
+                    "whiteblind":  {
+                                       "r3":  {
+                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 9 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+                                                  "values":  [
+                                                                 "9 %"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 12 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+                                                  "values":  [
+                                                                 "12 %"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 7,5 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+                                                  "values":  [
+                                                                 "7,5 %"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 10,5 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+                                                  "values":  [
+                                                                 "10,5 %"
+                                                             ]
+                                              },
+                                       "substatText":  "VTD",
+                                       "weaponText":  "Zweihänder",
+                                       "name":  "Weißer Schatten",
+                                       "effectTemplateRaw":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, 4-fach stapelbar. 0,5 s Abklingzeit.",
+                                       "r1":  {
+                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 6 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
+                                                  "values":  [
+                                                                 "6 %"
+                                                             ]
+                                              },
+                                       "effectName":  "Energieschubspitze"
+                                   },
                     "favoniuswarbow":  {
                                            "r3":  {
                                                       "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 80 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 9 s Abklingzeit.",
@@ -9364,6 +9487,43 @@
                                                "r1":  null,
                                                "effectName":  null
                                            },
+                    "sturdybone":  {
+                                       "r3":  {
+                                                  "description":  "Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 24 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+                                                  "values":  [
+                                                                 "24{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 32 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+                                                  "values":  [
+                                                                 "32{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 20 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+                                                  "values":  [
+                                                                 "20{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 28 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+                                                  "values":  [
+                                                                 "28{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "substatText":  "ANG",
+                                       "weaponText":  "Einhänder",
+                                       "name":  "Robuster Knochen",
+                                       "effectTemplateRaw":  "#Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15{NON_BREAK_SPACE}%. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7{NON_BREAK_SPACE}s.",
+                                       "r1":  {
+                                                  "description":  "Verringert die beim Rennen oder von Fähigkeiten, die Rennen ersetzen, verbrauchte Ausdauer um 15 %. Erhöht außerdem den mit Standardangriffen verursachten Schaden nach dem Rennen oder Anwenden einer Fähigkeit, die Rennen ersetzt, um 16 % ANG. Dieser Effekt verschwindet nach 18 Auslösungen oder 7 s.",
+                                                  "values":  [
+                                                                 "16{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "effectName":  "Stolz des Stürmers"
+                                   },
                     "theflute":  {
                                      "r3":  {
                                                 "description":  "Erzeugt bei Treffern mit Standardangriffen und heftigen Schlägen einen harmonischen Ton. Hast du insgesamt 5 harmonische Töne gesammelt, wird die Kraft der Klänge freigegeben und fügt den Gegnern in der Umgebung Schaden in Höhe von 150 % ANG zu. Harmonische Töne bestehen für 30 s. Erzeugt höchstens alle 0,5 s 1 harmonischen Ton.",
@@ -9796,6 +9956,48 @@
                                                      },
                                               "effectName":  "Fließendes Schwert"
                                           },
+                    "favoniussword":  {
+                                          "r3":  {
+                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 80 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 9 s Abklingzeit.",
+                                                     "values":  [
+                                                                    "80 %",
+                                                                    "9"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 100 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 6 s Abklingzeit.",
+                                                     "values":  [
+                                                                    "100 %",
+                                                                    "6"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 70 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 10,5 s Abklingzeit.",
+                                                     "values":  [
+                                                                    "70 %",
+                                                                    "10,5"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 90 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 7,5 s Abklingzeit.",
+                                                     "values":  [
+                                                                    "90 %",
+                                                                    "7,5"
+                                                                ]
+                                                 },
+                                          "substatText":  "Aufladerate",
+                                          "weaponText":  "Einhänder",
+                                          "name":  "Favonius-Schwert",
+                                          "effectTemplateRaw":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s Abklingzeit.",
+                                          "r1":  {
+                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 60 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 12 s Abklingzeit.",
+                                                     "values":  [
+                                                                    "60 %",
+                                                                    "12"
+                                                                ]
+                                                 },
+                                          "effectName":  "Folge dem Wind"
+                                      },
                     "sacrificialsword":  {
                                              "r3":  {
                                                         "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 60 %, 22 s Abklingzeit.",
@@ -11319,43 +11521,58 @@
                                                    },
                                             "effectName":  "Umlauf der grünen Jade"
                                         },
-                    "whiteblind":  {
-                                       "r3":  {
-                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 9 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
-                                                  "values":  [
-                                                                 "9 %"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 12 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
-                                                  "values":  [
-                                                                 "12 %"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 7,5 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
-                                                  "values":  [
-                                                                 "7,5 %"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 10,5 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
-                                                  "values":  [
-                                                                 "10,5 %"
-                                                             ]
-                                              },
-                                       "substatText":  "VTD",
-                                       "weaponText":  "Zweihänder",
-                                       "name":  "Weißer Schatten",
-                                       "effectTemplateRaw":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, 4-fach stapelbar. 0,5 s Abklingzeit.",
-                                       "r1":  {
-                                                  "description":  "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 6 %, 4-fach stapelbar. 0,5 s Abklingzeit.",
-                                                  "values":  [
-                                                                 "6 %"
-                                                             ]
-                                              },
-                                       "effectName":  "Energieschubspitze"
-                                   },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 12 % und erhält einen Elementar-SCH-Bonus aller Elemente von 15 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 12 %, höchstens 38,4 %.",
+                                                      "values":  [
+                                                                     "12{NON_BREAK_SPACE}%",
+                                                                     "15{NON_BREAK_SPACE}%",
+                                                                     "12{NON_BREAK_SPACE}%",
+                                                                     "38,4{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 16 % und erhält einen Elementar-SCH-Bonus aller Elemente von 20 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 16 %, höchstens 51,2 %.",
+                                                      "values":  [
+                                                                     "16{NON_BREAK_SPACE}%",
+                                                                     "20{NON_BREAK_SPACE}%",
+                                                                     "16{NON_BREAK_SPACE}%",
+                                                                     "51,2{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 10 % und erhält einen Elementar-SCH-Bonus aller Elemente von 12,5 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 10 %, höchstens 32 %.",
+                                                      "values":  [
+                                                                     "10{NON_BREAK_SPACE}%",
+                                                                     "12,5{NON_BREAK_SPACE}%",
+                                                                     "10{NON_BREAK_SPACE}%",
+                                                                     "32{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 14 % und erhält einen Elementar-SCH-Bonus aller Elemente von 17,5 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 14 %, höchstens 44,8 %.",
+                                                      "values":  [
+                                                                     "14{NON_BREAK_SPACE}%",
+                                                                     "17,5{NON_BREAK_SPACE}%",
+                                                                     "14{NON_BREAK_SPACE}%",
+                                                                     "44,8{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "VTD",
+                                           "weaponText":  "Einhänder",
+                                           "name":  "Lied der Gipfelpatrouille",
+                                           "effectTemplateRaw":  "#Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e und erhält einen Elementar-SCH-Bonus aller Elemente von \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, hält 6{NON_BREAK_SPACE}s, 2-fach stapelbar, 0,1{NON_BREAK_SPACE}s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e, höchstens \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e.",
+                                           "r1":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 8 % und erhält einen Elementar-SCH-Bonus aller Elemente von 10 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 8 %, höchstens 25,6 %.",
+                                                      "values":  [
+                                                                     "8{NON_BREAK_SPACE}%",
+                                                                     "10{NON_BREAK_SPACE}%",
+                                                                     "8{NON_BREAK_SPACE}%",
+                                                                     "25,6{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Unendliche Blütezeit"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -12524,48 +12741,48 @@
                                                     },
                                              "effectName":  "Zermalmen"
                                          },
-                    "favoniussword":  {
-                                          "r3":  {
-                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 80 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 9 s Abklingzeit.",
-                                                     "values":  [
-                                                                    "80 %",
-                                                                    "9"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 100 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 6 s Abklingzeit.",
-                                                     "values":  [
-                                                                    "100 %",
-                                                                    "6"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 70 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 10,5 s Abklingzeit.",
-                                                     "values":  [
-                                                                    "70 %",
-                                                                    "10,5"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 90 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 7,5 s Abklingzeit.",
-                                                     "values":  [
-                                                                    "90 %",
-                                                                    "7,5"
-                                                                ]
-                                                 },
-                                          "substatText":  "Aufladerate",
-                                          "weaponText":  "Einhänder",
-                                          "name":  "Favonius-Schwert",
-                                          "effectTemplateRaw":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s Abklingzeit.",
-                                          "r1":  {
-                                                     "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 60 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 12 s Abklingzeit.",
-                                                     "values":  [
-                                                                    "60 %",
-                                                                    "12"
-                                                                ]
-                                                 },
-                                          "effectName":  "Folge dem Wind"
-                                      },
+                    "mountainbracingbolt":  {
+                                                "r3":  {
+                                                           "description":  "Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 18 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 18 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+                                                           "values":  [
+                                                                          "18{NON_BREAK_SPACE}%",
+                                                                          "18{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 24 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 24 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+                                                           "values":  [
+                                                                          "24{NON_BREAK_SPACE}%",
+                                                                          "24{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 15 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 15 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+                                                           "values":  [
+                                                                          "15{NON_BREAK_SPACE}%",
+                                                                          "15{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 21 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 21 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+                                                           "values":  [
+                                                                          "21{NON_BREAK_SPACE}%",
+                                                                          "21{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Aufladerate",
+                                                "weaponText":  "Stangenwaffe",
+                                                "name":  "Bergschützer-Bolzen",
+                                                "effectTemplateRaw":  "#Verringert die beim Klettern verbrauchte Ausdauer um 15{NON_BREAK_SPACE}% und erhöht den mit Elementarfähigkeiten verursachten Schaden um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8{NON_BREAK_SPACE}s.",
+                                                "r1":  {
+                                                           "description":  "Verringert die beim Klettern verbrauchte Ausdauer um 15 % und erhöht den mit Elementarfähigkeiten verursachten Schaden um 12 %. Erhöht außerdem den mit Elementarfähigkeiten des Trägers verursachten Schaden um 12 %, nachdem ein anderes Truppenmitglied in der Nähe eine Elementarfähigkeit ausgelöst hat, hält 8 s.",
+                                                           "values":  [
+                                                                          "12{NON_BREAK_SPACE}%",
+                                                                          "12{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Hoffnung jenseits der Gipfel"
+                                            },
                     "ironsting":  {
                                       "r3":  {
                                                  "description":  "Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um 9 %, 2-fach stapelbar. 1 s Abklingzeit.",
@@ -13869,10 +14086,10 @@
                                                 "name":  "Recke des schnellen Schritts – Sturmspäher",
                                                 "specialname":  null
                                             },
-                    "woodenshieldhilichurlguard":  {
-                                                       "name":  "Hilichurl mit Holzschild",
-                                                       "specialname":  null
-                                                   },
+                    "secretsourceautomatonconfigurationdevice":  {
+                                                                     "name":  "Geheimquellen-Automaton – Konfigurationsgerät",
+                                                                     "specialname":  null
+                                                                 },
                     "stormterror":  {
                                         "name":  "Furchterregender Sturmschrecken",
                                         "specialname":  null
@@ -14293,6 +14510,10 @@
                                         "name":  "Poingpoing-Oktopus",
                                         "specialname":  null
                                     },
+                    "tenebrousmimiflora":  {
+                                               "name":  "Abgrundimitator",
+                                               "specialname":  null
+                                           },
                     "taintedwatersplittingphantasm":  {
                                                           "name":  "Wasser spaltender Okeanospuk",
                                                           "specialname":  null
@@ -14393,6 +14614,10 @@
                                        "name":  "Ruinenkoloss",
                                        "specialname":  null
                                    },
+                    "woodenshieldhilichurlguard":  {
+                                                       "name":  "Hilichurl mit Holzschild",
+                                                       "specialname":  null
+                                                   },
                     "tepetlisaurwhelp":  {
                                              "name":  "Junger Tepetlisaurier",
                                              "specialname":  null
