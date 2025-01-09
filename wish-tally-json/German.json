@@ -638,6 +638,9 @@
                       "northlanderbowbillet":  {
                                                    "name":  "Unbearbeiteter Bogen des Nordens"
                                                },
+                      "tidalga":  {
+                                      "name":  "Gezeitenalge"
+                                  },
                       "bluedye":  {
                                       "name":  "Blaue Farbe"
                                   },
@@ -770,9 +773,9 @@
                       "borderlandswordbillet":  {
                                                     "name":  "Unbearbeiteter Einhänder des Grenzlands"
                                                 },
-                      "goldentalismanoftheforestdew":  {
-                                                           "name":  "Goldtalisman des Waldtaus"
-                                                       },
+                      "nightwindsmysticaugury":  {
+                                                     "name":  "Omen der Vergänglichkeit"
+                                                 },
                       "dawncatcher":  {
                                           "name":  "Dämmerfänger"
                                       },
@@ -1190,6 +1193,9 @@
                       "alkahest":  {
                                        "name":  "Alkahest"
                                    },
+                      "erodedscalefeather":  {
+                                                 "name":  "Erodierte Schuppenfeder"
+                                             },
                       "almond":  {
                                      "name":  "Mandeln"
                                  },
@@ -1331,6 +1337,9 @@
                       "keysigil":  {
                                        "name":  "Schlüsselmuster"
                                    },
+                      "talismanoftheenigmaticland":  {
+                                                         "name":  "Talisman des rätselhaften Landes"
+                                                     },
                       "masterlessstardust":  {
                                                  "name":  "Herrenloser Sternenstaub"
                                              },
@@ -1583,6 +1592,9 @@
                       "mirrorofmushin":  {
                                              "name":  "Mushin-Abgrundspiegel"
                                          },
+                      "ultrahotburnerlamptestmodel":  {
+                                                          "name":  "Test-Ultrahitzelampe"
+                                                      },
                       "dreamofthedandeliongladiator":  {
                                                            "name":  "Ideal des Löwenzahnkriegers"
                                                        },
@@ -1604,6 +1616,9 @@
                       "hurricaneseed":  {
                                             "name":  "Orkansamen"
                                         },
+                      "scrollofthefieryfirmament":  {
+                                                        "name":  "„Feuriges Firmament“"
+                                                    },
                       "dormantfungalnucleus":  {
                                                    "name":  "Schlafendes Sklerotium"
                                                },
@@ -1679,9 +1694,9 @@
                       "radish":  {
                                      "name":  "Rettich"
                                  },
-                      "ultrahotburnerlamptestmodel":  {
-                                                          "name":  "Test-Ultrahitzelampe"
-                                                      },
+                      "tuskofmonoceroscaeli":  {
+                                                   "name":  "Hauer des Monoceros Caeli"
+                                               },
                       "crab":  {
                                    "name":  "Krebs"
                                },
@@ -1694,9 +1709,9 @@
                       "riftbornregalia":  {
                                               "name":  "Gehörn des Wolfskönigs"
                                           },
-                      "tuskofmonoceroscaeli":  {
-                                                   "name":  "Hauer des Monoceros Caeli"
-                                               },
+                      "goldentalismanoftheforestdew":  {
+                                                           "name":  "Goldtalisman des Waldtaus"
+                                                       },
                       "crystalfish":  {
                                           "name":  "Kristallfisch"
                                       },
@@ -1709,9 +1724,9 @@
                       "maintenancemekwaterbodycleaner":  {
                                                              "name":  "Unterstützungs-Mecha – Gewässer-Aufräumer"
                                                          },
-                      "nightwindsmysticaugury":  {
-                                                     "name":  "Omen der Vergänglichkeit"
-                                                 },
+                      "vajradaamethystgemstone":  {
+                                                      "name":  "Vajrada-Amethyst"
+                                                  },
                       "spiritlocketofboreas":  {
                                                    "name":  "Seele des Nordwinds"
                                                },
@@ -2045,6 +2060,9 @@
                       "congealedpupawax":  {
                                                "name":  "Erstarrtes Pupawachs"
                                            },
+                      "erodedsunfire":  {
+                                            "name":  "Erodiertes Sonnenfeuer"
+                                        },
                       "bacon":  {
                                     "name":  "Speck"
                                 },
@@ -2240,9 +2258,9 @@
                       "fruitpastebait":  {
                                              "name":  "Fruchtpastenköder"
                                          },
-                      "tidalga":  {
-                                      "name":  "Gezeitenalge"
-                                  },
+                      "erodedhorn":  {
+                                         "name":  "Erodiertes Horn"
+                                     },
                       "cultivationareaexpansionvi":  {
                                                          "name":  "Erweiterung des Anbaubereichs VI"
                                                      },
@@ -2363,9 +2381,6 @@
                       "movementofanancientchord":  {
                                                        "name":  "Satz einer archaischen Serenade"
                                                    },
-                      "vajradaamethystgemstone":  {
-                                                      "name":  "Vajrada-Amethyst"
-                                                  },
                       "philosophiesofgold":  {
                                                  "name":  "Philosophie des „Golds“"
                                              },
@@ -3229,6 +3244,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "Männlich"
                                     },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani gibt alles!",
+                                                                         "descriptionRaw":  "#Verleiht Mualani 2 Stapelungen Wellenschwung von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2{NON_BREAK_SPACE}s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden.",
+                                                                         "description":  "Verleiht Mualani 2 Stapelungen Wellenschwung von Haifischreitende Wellenspalterin, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2 s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Haifisch frisst Kugelfische",
+                                                                         "descriptionRaw":  "#Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e verursachten Schaden um 75{NON_BREAK_SPACE}%.",
+                                                                         "description":  "Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch Haibitzen-Geschoss verursachten Schaden um 75 %."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surfen auf fröhlichen Meeren",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Haifischreitende Wellenspalterin um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Surfbrett im gleichen Stil im Angebot!",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Haibitzen-Geschoss um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Der Geist der Menschen der Quellen",
+                                                                         "descriptionRaw":  "Entfernt die Beschränkung, dass der Schadenbonus durch das Sternbild „Die gemütlichen ‚Meztli‘ ...“ nur einmal pro Nachtseelensegen ausgelöst werden kann.",
+                                                                         "description":  "Entfernt die Beschränkung, dass der Schadenbonus durch das Sternbild „Die gemütlichen ‚Meztli‘ ...“ nur einmal pro Nachtseelensegen ausgelöst werden kann."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Die gemütlichen „Meztli“ ...",
+                                                                         "descriptionRaw":  "#Erhöht den SCH durch den ersten Wogenden Haibiss und die davon ausgelösten Haifischgeschosse, nachdem Mualani in den Zustand Nachtseelensegen eingetreten hat, um 66{NON_BREAK_SPACE}% von Mualanis max. LP. Dieser SCH-Bonuseffekt unterliegt den SCH-Reduktionsregeln von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e.\nVerringert außerdem Mualanis Verbrauch von Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30{NON_BREAK_SPACE}%, wenn sie sich nicht im Kampf befindet.",
+                                                                         "description":  "Erhöht den SCH durch den ersten Wogenden Haibiss und die davon ausgelösten Haifischgeschosse, nachdem Mualani in den Zustand Nachtseelensegen eingetreten hat, um 66 % von Mualanis max. LP. Dieser SCH-Bonuseffekt unterliegt den SCH-Reduktionsregeln von Haifischreitende Wellenspalterin.\nVerringert außerdem Mualanis Verbrauch von Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30 %, wenn sie sich nicht im Kampf befindet."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Katalysator",
+                                       "name":  "Mualani",
+                                       "substatText":  "KT",
+                                       "region":  "Natlan",
+                                       "gender":  "Weiblich"
+                                   },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3352,6 +3408,47 @@
                                          "region":  "Liyue",
                                          "gender":  "Weiblich"
                                      },
+                       "mavuika":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Aschfahler Preis",
+                                                                         "descriptionRaw":  "#Erhöht Mavuikas Basis-ANG im Nachtseelensegen-Zustand um 200 Punkte und verleiht ihr gemäß der Form der Allfeuerrüstung den entsprechenden Effekt:\n· Ring des Sengenden Glanzes: Verringert die VTD in der Nähe befindlicher Gegner um 20{NON_BREAK_SPACE}%.\n· Flammenreiter: Erhöht den durch Mavuikas Standardangriffe, heftige Schläge sowie den Sonnensturz-Hieb der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eStunde brennender Himmel\u003c/color\u003e verursachten Schaden jeweils um 60/90/120{NON_BREAK_SPACE}% von Mavuikas ANG.",
+                                                                         "description":  "Erhöht Mavuikas Basis-ANG im Nachtseelensegen-Zustand um 200 Punkte und verleiht ihr gemäß der Form der Allfeuerrüstung den entsprechenden Effekt:\n· Ring des Sengenden Glanzes: Verringert die VTD in der Nähe befindlicher Gegner um 20 %.\n· Flammenreiter: Erhöht den durch Mavuikas Standardangriffe, heftige Schläge sowie den Sonnensturz-Hieb der Spezialfähigkeit Stunde brennender Himmel verursachten Schaden jeweils um 60/90/120 % von Mavuikas ANG."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Entschlossenheit der Anführerin",
+                                                                         "descriptionRaw":  "#Verstärkt den Effekt des passiven Talents „Kiongozi“:\nDer Schadenbonus, der nach dem Einsetzen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eStunde brennender Himmel\u003c/color\u003e erhalten wird, wird nicht mit der Zeit abnehmen, sondern zusätzlich um 10{NON_BREAK_SPACE}% erhöht.\nDas passive Talent „Kiongozi“ muss zuerst freigeschaltet werden.",
+                                                                         "description":  "Verstärkt den Effekt des passiven Talents „Kiongozi“:\nDer Schadenbonus, der nach dem Einsetzen der Spezialfähigkeit Stunde brennender Himmel erhalten wird, wird nicht mit der Zeit abnehmen, sondern zusätzlich um 10 % erhöht.\nDas passive Talent „Kiongozi“ muss zuerst freigeschaltet werden."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Brennende Sonne",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eStunde brennender Himmel\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Spezialfähigkeit Stunde brennender Himmel um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Bedeutung der Wahrheit",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eMoment des Benennens\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Elementarfähigkeit Moment des Benennens um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "„Der Name der Menschheit“ entfesselt",
+                                                                         "descriptionRaw":  "#Verleiht der Allfeuerrüstung der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eMoment des Benennens\u003c/color\u003e umfassende Verstärkungen:\n· Ring des Sengenden Glanzes: Wenn der Angriff des Rings des Sengenden Glanzes einen Gegner trifft, stürzt ein Flammenreiter in den getroffenen Gegner und verursacht mit Nachtseelen versehenen \u003ccolor=#FF9999FF\u003ePyro-Flächenschaden\u003c/color\u003e in Höhe von 200{NON_BREAK_SPACE}% ANG.\n· Flammenreiter: Wenn Mavuika auf dem Flammenreiter reitet, beschwört sie einen ihr fortlaufend folgenden „Ring des Sengenden Glanzes – Brennende Vision“, der die VTD der in der Nähe befindlichen Gegner um 20{NON_BREAK_SPACE}% verringert sowie ihnen alle 3{NON_BREAK_SPACE}s einmal mit Nachtseelen versehenen \u003ccolor=#FF9999FF\u003ePyro-Flächenschaden\u003c/color\u003e in Höhe von 500{NON_BREAK_SPACE}% ANG zufügt. Außerdem werden die Geländeüberwindungsfähigkeiten des Flammenreitermodus weiter verbessert.\n\nWenn Mavuika auf dem Flammenreiter reitet und sich nicht im Kampf befindet, erhält sie, wenn ihre Nachtseelenpunkte auf 5 Punkte fallen, 80 Nachtseelenpunkte, 15{NON_BREAK_SPACE}s Abklingzeit.",
+                                                                         "description":  "Verleiht der Allfeuerrüstung der Elementarfähigkeit Moment des Benennens umfassende Verstärkungen:\n· Ring des Sengenden Glanzes: Wenn der Angriff des Rings des Sengenden Glanzes einen Gegner trifft, stürzt ein Flammenreiter in den getroffenen Gegner und verursacht mit Nachtseelen versehenen Pyro-Flächenschaden in Höhe von 200 % ANG.\n· Flammenreiter: Wenn Mavuika auf dem Flammenreiter reitet, beschwört sie einen ihr fortlaufend folgenden „Ring des Sengenden Glanzes – Brennende Vision“, der die VTD der in der Nähe befindlichen Gegner um 20 % verringert sowie ihnen alle 3 s einmal mit Nachtseelen versehenen Pyro-Flächenschaden in Höhe von 500 % ANG zufügt. Außerdem werden die Geländeüberwindungsfähigkeiten des Flammenreitermodus weiter verbessert.\n\nWenn Mavuika auf dem Flammenreiter reitet und sich nicht im Kampf befindet, erhält sie, wenn ihre Nachtseelenpunkte auf 5 Punkte fallen, 80 Nachtseelenpunkte, 15 s Abklingzeit."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Explikation des Nachtherrschers",
+                                                                         "descriptionRaw":  "#Erhöht Mavuikas maximale Nachtseelenpunkte auf 120 Punkte und ihre Effizienz beim Erhalten von Kampfgeist um 25{NON_BREAK_SPACE}%.\nErhöht außerdem Mavuikas ANG für 8{NON_BREAK_SPACE}s um 40{NON_BREAK_SPACE}%, nachdem sie Kampfgeist erhalten hat.",
+                                                                         "description":  "Erhöht Mavuikas maximale Nachtseelenpunkte auf 120 Punkte und ihre Effizienz beim Erhalten von Kampfgeist um 25 %.\nErhöht außerdem Mavuikas ANG für 8 s um 40 %, nachdem sie Kampfgeist erhalten hat."
+                                                                     }
+                                                          },
+                                       "elementText":  "Pyro",
+                                       "fullname":  null,
+                                       "weaponText":  "Zweihänder",
+                                       "name":  "Mavuika",
+                                       "substatText":  "KSCH",
+                                       "region":  "Natlan",
+                                       "gender":  "Weiblich"
+                                   },
                        "xiao":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3557,6 +3654,47 @@
                                     "region":  "Sumeru",
                                     "gender":  "Männlich"
                                 },
+                       "yaemiko":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mondgesang der Kitsune",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSesshou-Sakura\u003c/color\u003e sind bei der Entstehung anfänglich in Phase 2 und können höchstens Phase 4 erreichen. Außerdem wird ihr Angriffsradius um 60 % erhöht.",
+                                                                         "description":  "Sesshou-Sakura sind bei der Entstehung anfänglich in Phase 2 und können höchstens Phase 4 erreichen. Außerdem wird ihr Angriffsradius um 60 % erhöht."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Rosarote Blitzleiter",
+                                                                         "descriptionRaw":  "Erhöht beim Treffen von Gegnern mit den Blitzschlägen von \u003ccolor=#FFD780FF\u003eSesshou-Sakura\u003c/color\u003e den \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e aller Truppenmitglieder in der Nähe 5 s lang um 20 %.",
+                                                                         "description":  "Erhöht beim Treffen von Gegnern mit den Blitzschlägen von Sesshou-Sakura den Elektro-Schaden aller Truppenmitglieder in der Nähe 5 s lang um 20 %."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Sieben wunderbare Variationen",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eYakan-Kriegszauber – Sesshou-Sakura\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Yakan-Kriegszauber – Sesshou-Sakura um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Unerbittlicher Spott",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eGroße Geheimkunst – Tenko Kenshin\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Große Geheimkunst – Tenko Kenshin um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Daisesshou-Fluch",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSesshou-Sakura\u003c/color\u003e ignorieren beim Angriff 60 % der VTD des Gegners.",
+                                                                         "description":  "Sesshou-Sakura ignorieren beim Angriff 60 % der VTD des Gegners."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Yakan-Opfer",
+                                                                         "descriptionRaw":  "Stellt Yae Miko selbst bei jedem Tenko-Blitzschlag von \u003ccolor=#FFD780FF\u003eGroße Geheimkunst – Tenko Kenshin\u003c/color\u003e 8 Punkte Elementarenergie wieder her.",
+                                                                         "description":  "Stellt Yae Miko selbst bei jedem Tenko-Blitzschlag von Große Geheimkunst – Tenko Kenshin 8 Punkte Elementarenergie wieder her."
+                                                                     }
+                                                          },
+                                       "elementText":  "Elektro",
+                                       "fullname":  null,
+                                       "weaponText":  "Katalysator",
+                                       "name":  "Yae Miko",
+                                       "substatText":  "KT",
+                                       "region":  "Inazuma",
+                                       "gender":  "Weiblich"
+                                   },
                        "kinich":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -4288,47 +4426,47 @@
                                              "region":  "Inazuma",
                                              "gender":  "Weiblich"
                                          },
-                       "yaemiko":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mondgesang der Kitsune",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSesshou-Sakura\u003c/color\u003e sind bei der Entstehung anfänglich in Phase 2 und können höchstens Phase 4 erreichen. Außerdem wird ihr Angriffsradius um 60 % erhöht.",
-                                                                         "description":  "Sesshou-Sakura sind bei der Entstehung anfänglich in Phase 2 und können höchstens Phase 4 erreichen. Außerdem wird ihr Angriffsradius um 60 % erhöht."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Rosarote Blitzleiter",
-                                                                         "descriptionRaw":  "Erhöht beim Treffen von Gegnern mit den Blitzschlägen von \u003ccolor=#FFD780FF\u003eSesshou-Sakura\u003c/color\u003e den \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e aller Truppenmitglieder in der Nähe 5 s lang um 20 %.",
-                                                                         "description":  "Erhöht beim Treffen von Gegnern mit den Blitzschlägen von Sesshou-Sakura den Elektro-Schaden aller Truppenmitglieder in der Nähe 5 s lang um 20 %."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Sieben wunderbare Variationen",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eYakan-Kriegszauber – Sesshou-Sakura\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Yakan-Kriegszauber – Sesshou-Sakura um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Unerbittlicher Spott",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eGroße Geheimkunst – Tenko Kenshin\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Große Geheimkunst – Tenko Kenshin um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Daisesshou-Fluch",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSesshou-Sakura\u003c/color\u003e ignorieren beim Angriff 60 % der VTD des Gegners.",
-                                                                         "description":  "Sesshou-Sakura ignorieren beim Angriff 60 % der VTD des Gegners."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Yakan-Opfer",
-                                                                         "descriptionRaw":  "Stellt Yae Miko selbst bei jedem Tenko-Blitzschlag von \u003ccolor=#FFD780FF\u003eGroße Geheimkunst – Tenko Kenshin\u003c/color\u003e 8 Punkte Elementarenergie wieder her.",
-                                                                         "description":  "Stellt Yae Miko selbst bei jedem Tenko-Blitzschlag von Große Geheimkunst – Tenko Kenshin 8 Punkte Elementarenergie wieder her."
-                                                                     }
-                                                          },
-                                       "elementText":  "Elektro",
-                                       "fullname":  null,
-                                       "weaponText":  "Katalysator",
-                                       "name":  "Yae Miko",
-                                       "substatText":  "KT",
-                                       "region":  "Inazuma",
-                                       "gender":  "Weiblich"
-                                   },
+                       "sangonomiyakokomi":  {
+                                                 "constellations":  {
+                                                                        "c2":  {
+                                                                                   "name":  "Wellen des Wolkenmeers",
+                                                                                   "descriptionRaw":  "Gewährt Sangonomiya Kokomi Heilungsboni in Bezug auf Figuren mit 50 % oder weniger LP basierend auf ihren max. LP auf folgende Art und Weise:\n· Durch „Bakekurage“ von \u003ccolor=#FFD780FF\u003eEid des Kurage\u003c/color\u003e: 4,5 % der max. LP\n· Durch Standardangriffe und heftige Schläge von \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e: 0,6 % der max. LP.",
+                                                                                   "description":  "Gewährt Sangonomiya Kokomi Heilungsboni in Bezug auf Figuren mit 50 % oder weniger LP basierend auf ihren max. LP auf folgende Art und Weise:\n· Durch „Bakekurage“ von Eid des Kurage: 4,5 % der max. LP\n· Durch Standardangriffe und heftige Schläge von Nereidenaufstieg: 0,6 % der max. LP."
+                                                                               },
+                                                                        "c4":  {
+                                                                                   "name":  "Mond über den Strömen",
+                                                                                   "descriptionRaw":  "Erhöht die Angriffsgeschwindigkeit der Standardangriffe von Sangonomiya Kokomi im Zustand Rituelles Federkleid von \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e um 10 % und stellt 0,8 Punkt Elementarenergie wieder, wenn die Standardangriffe Gegner treffen.\n0,2 s Abklingzeit.",
+                                                                                   "description":  "Erhöht die Angriffsgeschwindigkeit der Standardangriffe von Sangonomiya Kokomi im Zustand Rituelles Federkleid von Nereidenaufstieg um 10 % und stellt 0,8 Punkt Elementarenergie wieder, wenn die Standardangriffe Gegner treffen.\n0,2 s Abklingzeit."
+                                                                               },
+                                                                        "c3":  {
+                                                                                   "name":  "Mondschiff auf den Meeren",
+                                                                                   "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                                   "description":  "Erhöht die Stufe der Fähigkeit Nereidenaufstieg um 3.\nHöchststufe 15."
+                                                                               },
+                                                                        "c5":  {
+                                                                                   "name":  "Alle Ströme fließen ins Meer",
+                                                                                   "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eEid des Kurage\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                                   "description":  "Erhöht die Stufe der Fähigkeit Eid des Kurage um 3.\nHöchststufe 15."
+                                                                               },
+                                                                        "c6":  {
+                                                                                   "name":  "Sango Isshin",
+                                                                                   "descriptionRaw":  "Gewährt Sangonomiya Kokomi im Zustand Rituelles Federkleid von \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e 4 s lang einen \u003ccolor=#80C0FFFF\u003eHydro-SCH-Bonus\u003c/color\u003e von 40 %, wenn die Standardangriffe und heftigen Schläge von Sangonomiya Kokomi Figuren mit 80 % oder mehr LP heilen.",
+                                                                                   "description":  "Gewährt Sangonomiya Kokomi im Zustand Rituelles Federkleid von Nereidenaufstieg 4 s lang einen Hydro-SCH-Bonus von 40 %, wenn die Standardangriffe und heftigen Schläge von Sangonomiya Kokomi Figuren mit 80 % oder mehr LP heilen."
+                                                                               },
+                                                                        "c1":  {
+                                                                                   "name":  "Am Rande des Flusses",
+                                                                                   "descriptionRaw":  "Entfesselt im Zustand Rituelles Federkleid von \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e mit dem letzten Angriff der Standardangriffe von Sangonomiya Kokomi einen schwimmenden Fisch, der \u003ccolor=#80C0FFFF\u003eHydro-Schaden\u003c/color\u003e in Höhe von 30 % der max. LP von Sangonomiya Kokomi verursacht.\nDieser Schaden gilt nicht als Schaden von Standardangriffen.",
+                                                                                   "description":  "Entfesselt im Zustand Rituelles Federkleid von Nereidenaufstieg mit dem letzten Angriff der Standardangriffe von Sangonomiya Kokomi einen schwimmenden Fisch, der Hydro-Schaden in Höhe von 30 % der max. LP von Sangonomiya Kokomi verursacht.\nDieser Schaden gilt nicht als Schaden von Standardangriffen."
+                                                                               }
+                                                                    },
+                                                 "elementText":  "Hydro",
+                                                 "fullname":  null,
+                                                 "weaponText":  "Katalysator",
+                                                 "name":  "Sangonomiya Kokomi",
+                                                 "substatText":  "Hydro-SCH-Bonus",
+                                                 "region":  "Inazuma",
+                                                 "gender":  "Weiblich"
+                                             },
                        "xingqiu":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -4455,47 +4593,47 @@
                        "traveler":  {
                                         "name":  "Reisende"
                                     },
-                       "beidou":  {
-                                      "constellations":  {
-                                                             "c2":  {
-                                                                        "name":  "Aufziehendes Unwetter",
-                                                                        "descriptionRaw":  "Kettenblitze von \u003ccolor=#FFD780FF\u003eBlitzbrecher\u003c/color\u003e springen auf 2 zusätzliche Gegner über.",
-                                                                        "description":  "Kettenblitze von Blitzbrecher springen auf 2 zusätzliche Gegner über."
-                                                                    },
-                                                             "c4":  {
-                                                                        "name":  "Überwältigender Gegenschlag",
-                                                                        "descriptionRaw":  "Beidous Standardangriffe verursachen nach dem Erleiden von Angriffen 10 s lang zusätzlich 20 % \u003ccolor=#FFACFFFF\u003eElektro-SCH\u003c/color\u003e.",
-                                                                        "description":  "Beidous Standardangriffe verursachen nach dem Erleiden von Angriffen 10 s lang zusätzlich 20 % Elektro-SCH."
-                                                                    },
-                                                             "c3":  {
-                                                                        "name":  "Spontane Induktion",
-                                                                        "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eWellenfänger\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                        "description":  "Erhöht die Stufe der Fähigkeit Wellenfänger um 3.\nHöchststufe 15."
-                                                                    },
-                                                             "c5":  {
-                                                                        "name":  "Gezeitenwanderer",
-                                                                        "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eBlitzbrecher\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                        "description":  "Erhöht die Stufe der Fähigkeit Blitzbrecher um 3.\nHöchststufe 15."
-                                                                    },
-                                                             "c6":  {
-                                                                        "name":  "Schrecken des Bösen",
-                                                                        "descriptionRaw":  "Verringert während der Wirkungsdauer von \u003ccolor=#FFD780FF\u003eBlitzbrecher\u003c/color\u003e den \u003ccolor=#FFACFFFF\u003eElektro-WDS\u003c/color\u003e von Gegnern in der Umgebung um 15 %.",
-                                                                        "description":  "Verringert während der Wirkungsdauer von Blitzbrecher den Elektro-WDS von Gegnern in der Umgebung um 15 %."
-                                                                    },
-                                                             "c1":  {
-                                                                        "name":  "Untergang der Ungeheuer",
-                                                                        "descriptionRaw":  "Effekte bei Anwendung von \u003ccolor=#FFD780FF\u003eBlitzbrecher\u003c/color\u003e:\nErstellt einen Schutzschild, der Schaden in Höhe von 16 % der max. LP abhält, hält 15 s.\nHält bei \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e 250 % ab.",
-                                                                        "description":  "Effekte bei Anwendung von Blitzbrecher:\nErstellt einen Schutzschild, der Schaden in Höhe von 16 % der max. LP abhält, hält 15 s.\nHält bei Elektro-Schaden 250 % ab."
-                                                                    }
-                                                         },
-                                      "elementText":  "Elektro",
-                                      "fullname":  null,
-                                      "weaponText":  "Zweihänder",
-                                      "name":  "Beidou",
-                                      "substatText":  "Elektro-SCH-Bonus",
-                                      "region":  "Liyue",
-                                      "gender":  "Weiblich"
-                                  },
+                       "citlali":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Reise des Herzensverschlingers",
+                                                                         "descriptionRaw":  "#Erhöht Citlalis Elementarkunde um 125 Punkte. Erhöht die Elementarkunde anderer Figuren im Schutz vom Opal-Schild sowie derer, denen Itzpapa folgt, um 250 Punkte.\nVerleiht außerdem anderen aktuellen Figuren in der Nähe beim Auslösen der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwarzer Stern am frostigen Tag\u003c/color\u003e ebenfalls den Opal-Schild.\n\nVerstärkt den Effekt des passiven Talents „Mamaloacos eisiger Regen“:\nVerringert, wenn Itzpapa auf dem Feld ist und ein in der Nähe befindliches Truppenmitglied die Reaktionen „Gefroren“ oder „Schmelzen“ auslöst, den \u003ccolor=#FF9999FF\u003ePyro-\u003c/color\u003e sowie \u003ccolor=#80C0FFFF\u003eHydro-\u003c/color\u003eWDS des von der diesmaligen Reaktion betroffenen Gegners 12{NON_BREAK_SPACE}s lang zusätzlich um 20{NON_BREAK_SPACE}%. Das passive Talent „Mamaloacos eisiger Regen“ muss für diesen Effekt zuerst freigeschaltet werden.",
+                                                                         "description":  "Erhöht Citlalis Elementarkunde um 125 Punkte. Erhöht die Elementarkunde anderer Figuren im Schutz vom Opal-Schild sowie derer, denen Itzpapa folgt, um 250 Punkte.\nVerleiht außerdem anderen aktuellen Figuren in der Nähe beim Auslösen der Elementarfähigkeit Schwarzer Stern am frostigen Tag ebenfalls den Opal-Schild.\n\nVerstärkt den Effekt des passiven Talents „Mamaloacos eisiger Regen“:\nVerringert, wenn Itzpapa auf dem Feld ist und ein in der Nähe befindliches Truppenmitglied die Reaktionen „Gefroren“ oder „Schmelzen“ auslöst, den Pyro- sowie Hydro-WDS des von der diesmaligen Reaktion betroffenen Gegners 12 s lang zusätzlich um 20 %. Das passive Talent „Mamaloacos eisiger Regen“ muss für diesen Effekt zuerst freigeschaltet werden."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Seelenschädel des Todesverteidigers",
+                                                                         "descriptionRaw":  "#Erschafft zusätzlich einen \u003ccolor=#FFD780FF\u003eGeistgefäß-Schädel – Schwarzer Stern\u003c/color\u003e, wenn der Erfrierungssturm von Itzpapa der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwarzer Stern am frostigen Tag\u003c/color\u003e einen Gegner trifft. Der auf diese Weise erschaffene Geistgefäß-Schädel verursacht beim Explodieren mit Nachtseelen versehenen \u003ccolor=#99FFFFFF\u003eKryo-Flächenschaden\u003c/color\u003e in Höhe von 1.800{NON_BREAK_SPACE}% von Citlalis Elementarkunde und stellt ihr 16 Nachtseelenpunkte sowie 8 Punkte Elementarenergie wieder her, 8{NON_BREAK_SPACE}s Abklingzeit. Hierdurch verursachter Schaden wird nicht als Schaden der Spezialfähigkeit gewertet.",
+                                                                         "description":  "Erschafft zusätzlich einen Geistgefäß-Schädel – Schwarzer Stern, wenn der Erfrierungssturm von Itzpapa der Elementarfähigkeit Schwarzer Stern am frostigen Tag einen Gegner trifft. Der auf diese Weise erschaffene Geistgefäß-Schädel verursacht beim Explodieren mit Nachtseelen versehenen Kryo-Flächenschaden in Höhe von 1.800 % von Citlalis Elementarkunde und stellt ihr 16 Nachtseelenpunkte sowie 8 Punkte Elementarenergie wieder her, 8 s Abklingzeit. Hierdurch verursachter Schaden wird nicht als Schaden der Spezialfähigkeit gewertet."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Gefiederte Krone der Wolkenschlange",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwarzer Stern am frostigen Tag\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Elementarfähigkeit Schwarzer Stern am frostigen Tag um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Nemontemis Fluch",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eEdikt der verflochtenen Pracht\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Spezialfähigkeit Edikt der verflochtenen Pracht um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Teoiztacs Geheimpakt",
+                                                                         "descriptionRaw":  "#Lässt den mit der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwarzer Stern am frostigen Tag\u003c/color\u003e beschworenen Itzpapa von Anfang bis Ende im Zustand Glühen verweilen, selbst wenn alle Nachtseelenpunkte aufgebraucht sind.\nItzpapa verbraucht beim Auslösen der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwarzer Stern am frostigen Tag\u003c/color\u003e sofort alle Nachtseelenpunkte und während seiner Wirkungsdauer fortlaufend weitere. Für jeden auf die oben genannte Weise verbrauchten Nachtseelenpunkt erhält Citlali 1 Punkt „Zahl der Bestimmungen“.\nDie Obergrenze der „Zahl der Bestimmungen“ beträgt 40 Punkte. Für jeden Punkt „Zahl der Bestimmungen“ von Citlali werden allen Truppenmitgliedern in der Nähe ein \u003ccolor=#FF9999FF\u003ePyro-SCH-Bonus\u003c/color\u003e sowie ein \u003ccolor=#80C0FFFF\u003eHydro-SCH-Bonus\u003c/color\u003e von 1,5{NON_BREAK_SPACE}% und Citlali ein SCH-Bonus von 2,5{NON_BREAK_SPACE}% verliehen.\nDie gesamte „Zahl der Bestimmungen“ von Citlali wird beim Verlassen des Schlachtfeldes von Itzpapa sowie beim erneuten Einsetzen der Elementarfähigkeit entfernt.",
+                                                                         "description":  "Lässt den mit der Elementarfähigkeit Schwarzer Stern am frostigen Tag beschworenen Itzpapa von Anfang bis Ende im Zustand Glühen verweilen, selbst wenn alle Nachtseelenpunkte aufgebraucht sind.\nItzpapa verbraucht beim Auslösen der Elementarfähigkeit Schwarzer Stern am frostigen Tag sofort alle Nachtseelenpunkte und während seiner Wirkungsdauer fortlaufend weitere. Für jeden auf die oben genannte Weise verbrauchten Nachtseelenpunkt erhält Citlali 1 Punkt „Zahl der Bestimmungen“.\nDie Obergrenze der „Zahl der Bestimmungen“ beträgt 40 Punkte. Für jeden Punkt „Zahl der Bestimmungen“ von Citlali werden allen Truppenmitgliedern in der Nähe ein Pyro-SCH-Bonus sowie ein Hydro-SCH-Bonus von 1,5 % und Citlali ein SCH-Bonus von 2,5 % verliehen.\nDie gesamte „Zahl der Bestimmungen“ von Citlali wird beim Verlassen des Schlachtfeldes von Itzpapa sowie beim erneuten Einsetzen der Elementarfähigkeit entfernt."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Klingenlicht von Centzon Mimixcoah",
+                                                                         "descriptionRaw":  "#Verleiht Citlali, wenn sie ihre Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwarzer Stern am frostigen Tag\u003c/color\u003e einsetzt, den Effekt „Opalstern-Gewänder“, bis Itzpapa das Feld verlässt. Gibt ihr während der Wirkungsdauer 10 Stapelungen „Stellar-Klinge“. Verbraucht, wenn eine aktuelle Figur in der Nähe außer Citlali mit Standardangriffen, heftigen Schlägen, Angriffen aus dem Fall, Elementarfähigkeiten oder Spezialfähigkeiten Schaden verursacht, 1 Stapelung „Stellar-Klinge“ und erhöht damit den verursachten Schaden um 200{NON_BREAK_SPACE}% ihrer Elementarkunde.\nNach dem Auslösen der Reaktionen „Gefroren“ oder „Schmelzen“ durch ein Truppenmitglied in der Nähe erhält Citlali zusätzlich 3 Stapelungen „Stellar-Klinge“, 8{NON_BREAK_SPACE}s Abklingzeit.\n\nDas Einsetzen der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwarzer Stern am frostigen Tag\u003c/color\u003e setzt die Stapelungen der „Stellar-Klinge“ zurück.\nVerringert außerdem den Phlogistonverbrauch von Citlali beim Hochspringen und beim Zielen oder Ausführen von heftigen Schlägen in der Luft um 45{NON_BREAK_SPACE}%.",
+                                                                         "description":  "Verleiht Citlali, wenn sie ihre Elementarfähigkeit Schwarzer Stern am frostigen Tag einsetzt, den Effekt „Opalstern-Gewänder“, bis Itzpapa das Feld verlässt. Gibt ihr während der Wirkungsdauer 10 Stapelungen „Stellar-Klinge“. Verbraucht, wenn eine aktuelle Figur in der Nähe außer Citlali mit Standardangriffen, heftigen Schlägen, Angriffen aus dem Fall, Elementarfähigkeiten oder Spezialfähigkeiten Schaden verursacht, 1 Stapelung „Stellar-Klinge“ und erhöht damit den verursachten Schaden um 200 % ihrer Elementarkunde.\nNach dem Auslösen der Reaktionen „Gefroren“ oder „Schmelzen“ durch ein Truppenmitglied in der Nähe erhält Citlali zusätzlich 3 Stapelungen „Stellar-Klinge“, 8 s Abklingzeit.\n\nDas Einsetzen der Elementarfähigkeit Schwarzer Stern am frostigen Tag setzt die Stapelungen der „Stellar-Klinge“ zurück.\nVerringert außerdem den Phlogistonverbrauch von Citlali beim Hochspringen und beim Zielen oder Ausführen von heftigen Schlägen in der Luft um 45 %."
+                                                                     }
+                                                          },
+                                       "elementText":  "Kryo",
+                                       "fullname":  null,
+                                       "weaponText":  "Katalysator",
+                                       "name":  "Citlali",
+                                       "substatText":  "Elementarkunde",
+                                       "region":  "Natlan",
+                                       "gender":  "Weiblich"
+                                   },
                        "gorou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -4916,88 +5054,50 @@
                                      "region":  "Mondstadt",
                                      "gender":  "Männlich"
                                  },
-                       "mona":  {
-                                    "constellations":  {
-                                                           "c2":  {
-                                                                      "name":  "Sternenkette",
-                                                                      "descriptionRaw":  "Löst bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 20 % automatisch einen heftigen Schlag aus.\n5 s Abklingzeit.",
-                                                                      "description":  "Löst bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 20 % automatisch einen heftigen Schlag aus.\n5 s Abklingzeit."
-                                                                  },
-                                                           "c4":  {
-                                                                      "name":  "Prophezeiung der Ausrottung",
-                                                                      "descriptionRaw":  "Erhöht die KT bei Angriffen aller Truppenmitglieder auf Gegner im Zustand Omen um 15 %.",
-                                                                      "description":  "Erhöht die KT bei Angriffen aller Truppenmitglieder auf Gegner im Zustand Omen um 15 %."
-                                                                  },
-                                                           "c3":  {
-                                                                      "name":  "Im ewigen Umlauf",
-                                                                      "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eVorbestimmte Laufbahn\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                      "description":  "Erhöht die Stufe der Fähigkeit Vorbestimmte Laufbahn um 3.\nHöchststufe 15."
-                                                                  },
-                                                           "c5":  {
-                                                                      "name":  "Verspottung des Schicksals",
-                                                                      "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eTrugbilder im Wasser\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                      "description":  "Erhöht die Stufe der Fähigkeit Trugbilder im Wasser um 3.\nHöchststufe 15."
-                                                                  },
-                                                           "c6":  {
-                                                                      "name":  "Rhetorik des Unglücks",
-                                                                      "descriptionRaw":  "Erhöht den Schaden des nächsten heftigen Schlags für jede Sekunde, die sich Mona im Zustand \u003ccolor=#FFD780FF\u003eIrreführende Strömung\u003c/color\u003e bewegt, um 60 %.\nAuf diese Weise kann der Schaden heftiger Schläge um bis zu 180 % erhöht werden und hält bis zu 8 s lang.",
-                                                                      "description":  "Erhöht den Schaden des nächsten heftigen Schlags für jede Sekunde, die sich Mona im Zustand Irreführende Strömung bewegt, um 60 %.\nAuf diese Weise kann der Schaden heftiger Schläge um bis zu 180 % erhöht werden und hält bis zu 8 s lang."
-                                                                  },
-                                                           "c1":  {
-                                                                      "name":  "Prophezeiung des Untergangs",
-                                                                      "descriptionRaw":  "Verstärkt den Effekt von \u003ccolor=#80C0FFFF\u003eHydro-Elementarreaktionen\u003c/color\u003e, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang:\n· Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von Gefroren um 15 %.",
-                                                                      "description":  "Verstärkt den Effekt von Hydro-Elementarreaktionen, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang:\n· Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von Gefroren um 15 %."
-                                                                  }
-                                                       },
-                                    "elementText":  "Hydro",
-                                    "fullname":  null,
-                                    "weaponText":  "Katalysator",
-                                    "name":  "Mona",
-                                    "substatText":  "Aufladerate",
-                                    "region":  "Mondstadt",
-                                    "gender":  "Weiblich"
-                                },
-                       "sangonomiyakokomi":  {
-                                                 "constellations":  {
-                                                                        "c2":  {
-                                                                                   "name":  "Wellen des Wolkenmeers",
-                                                                                   "descriptionRaw":  "Gewährt Sangonomiya Kokomi Heilungsboni in Bezug auf Figuren mit 50 % oder weniger LP basierend auf ihren max. LP auf folgende Art und Weise:\n· Durch „Bakekurage“ von \u003ccolor=#FFD780FF\u003eEid des Kurage\u003c/color\u003e: 4,5 % der max. LP\n· Durch Standardangriffe und heftige Schläge von \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e: 0,6 % der max. LP.",
-                                                                                   "description":  "Gewährt Sangonomiya Kokomi Heilungsboni in Bezug auf Figuren mit 50 % oder weniger LP basierend auf ihren max. LP auf folgende Art und Weise:\n· Durch „Bakekurage“ von Eid des Kurage: 4,5 % der max. LP\n· Durch Standardangriffe und heftige Schläge von Nereidenaufstieg: 0,6 % der max. LP."
-                                                                               },
-                                                                        "c4":  {
-                                                                                   "name":  "Mond über den Strömen",
-                                                                                   "descriptionRaw":  "Erhöht die Angriffsgeschwindigkeit der Standardangriffe von Sangonomiya Kokomi im Zustand Rituelles Federkleid von \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e um 10 % und stellt 0,8 Punkt Elementarenergie wieder, wenn die Standardangriffe Gegner treffen.\n0,2 s Abklingzeit.",
-                                                                                   "description":  "Erhöht die Angriffsgeschwindigkeit der Standardangriffe von Sangonomiya Kokomi im Zustand Rituelles Federkleid von Nereidenaufstieg um 10 % und stellt 0,8 Punkt Elementarenergie wieder, wenn die Standardangriffe Gegner treffen.\n0,2 s Abklingzeit."
-                                                                               },
-                                                                        "c3":  {
-                                                                                   "name":  "Mondschiff auf den Meeren",
-                                                                                   "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                                   "description":  "Erhöht die Stufe der Fähigkeit Nereidenaufstieg um 3.\nHöchststufe 15."
-                                                                               },
-                                                                        "c5":  {
-                                                                                   "name":  "Alle Ströme fließen ins Meer",
-                                                                                   "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eEid des Kurage\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                                   "description":  "Erhöht die Stufe der Fähigkeit Eid des Kurage um 3.\nHöchststufe 15."
-                                                                               },
-                                                                        "c6":  {
-                                                                                   "name":  "Sango Isshin",
-                                                                                   "descriptionRaw":  "Gewährt Sangonomiya Kokomi im Zustand Rituelles Federkleid von \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e 4 s lang einen \u003ccolor=#80C0FFFF\u003eHydro-SCH-Bonus\u003c/color\u003e von 40 %, wenn die Standardangriffe und heftigen Schläge von Sangonomiya Kokomi Figuren mit 80 % oder mehr LP heilen.",
-                                                                                   "description":  "Gewährt Sangonomiya Kokomi im Zustand Rituelles Federkleid von Nereidenaufstieg 4 s lang einen Hydro-SCH-Bonus von 40 %, wenn die Standardangriffe und heftigen Schläge von Sangonomiya Kokomi Figuren mit 80 % oder mehr LP heilen."
-                                                                               },
-                                                                        "c1":  {
-                                                                                   "name":  "Am Rande des Flusses",
-                                                                                   "descriptionRaw":  "Entfesselt im Zustand Rituelles Federkleid von \u003ccolor=#FFD780FF\u003eNereidenaufstieg\u003c/color\u003e mit dem letzten Angriff der Standardangriffe von Sangonomiya Kokomi einen schwimmenden Fisch, der \u003ccolor=#80C0FFFF\u003eHydro-Schaden\u003c/color\u003e in Höhe von 30 % der max. LP von Sangonomiya Kokomi verursacht.\nDieser Schaden gilt nicht als Schaden von Standardangriffen.",
-                                                                                   "description":  "Entfesselt im Zustand Rituelles Federkleid von Nereidenaufstieg mit dem letzten Angriff der Standardangriffe von Sangonomiya Kokomi einen schwimmenden Fisch, der Hydro-Schaden in Höhe von 30 % der max. LP von Sangonomiya Kokomi verursacht.\nDieser Schaden gilt nicht als Schaden von Standardangriffen."
-                                                                               }
-                                                                    },
-                                                 "elementText":  "Hydro",
-                                                 "fullname":  null,
-                                                 "weaponText":  "Katalysator",
-                                                 "name":  "Sangonomiya Kokomi",
-                                                 "substatText":  "Hydro-SCH-Bonus",
-                                                 "region":  "Inazuma",
-                                                 "gender":  "Weiblich"
-                                             },
+                       "travelerpyro":  {
+                                            "constellations":  {
+                                                                   "c2":  {
+                                                                              "name":  "Ewig leuchtender Kerzenschein",
+                                                                              "descriptionRaw":  "#Stellt {F#der}{M#dem} Reisenden innerhalb von 12{NON_BREAK_SPACE}s nach dem Einsetzen der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eFlussfeuer-Klinge\u003c/color\u003e beim Auslösen von \u003ccolor=#FF9999FF\u003ePyro-Reaktionen\u003c/color\u003e an Gegnern durch in der Nähe befindliche Truppenmitglieder 14 Nachtseelenpunkte wieder her. Auf diese Weise können pro Einsetzen der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eFlussfeuer-Klinge\u003c/color\u003e max. 28 Nachtseelenpunkte wiederhergestellt werden.",
+                                                                              "description":  "Stellt dem Reisenden innerhalb von 12 s nach dem Einsetzen der Elementarfähigkeit Flussfeuer-Klinge beim Auslösen von Pyro-Reaktionen an Gegnern durch in der Nähe befindliche Truppenmitglieder 14 Nachtseelenpunkte wieder her. Auf diese Weise können pro Einsetzen der Elementarfähigkeit Flussfeuer-Klinge max. 28 Nachtseelenpunkte wiederhergestellt werden."
+                                                                          },
+                                                                   "c4":  {
+                                                                              "name":  "Tobende Flamme",
+                                                                              "descriptionRaw":  "#Verleiht {F#der}{M#dem} Reisenden nach dem Einsetzen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003ePrärienbrenner\u003c/color\u003e einen \u003ccolor=#FF9999FF\u003ePyro-SCH-Bonus\u003c/color\u003e von 20{NON_BREAK_SPACE}%, hält 9{NON_BREAK_SPACE}s.",
+                                                                              "description":  "Verleiht dem Reisenden nach dem Einsetzen der Spezialfähigkeit Prärienbrenner einen Pyro-SCH-Bonus von 20 %, hält 9 s."
+                                                                          },
+                                                                   "c3":  {
+                                                                              "name":  "Weitergegebenes Signalfeuer",
+                                                                              "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eFlussfeuer-Klinge\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                              "description":  "Erhöht die Stufe der Elementarfähigkeit Flussfeuer-Klinge um 3.\nHöchststufe 15."
+                                                                          },
+                                                                   "c5":  {
+                                                                              "name":  "Unauslöschliche Feuer",
+                                                                              "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003ePrärienbrenner\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                              "description":  "Erhöht die Stufe der Spezialfähigkeit Prärienbrenner um 3.\nHöchststufe 15."
+                                                                          },
+                                                                   "c6":  {
+                                                                              "name":  "Unvergängliches heiliges Feuer",
+                                                                              "descriptionRaw":  "#Wandelt im Nachtseelensegen-Zustand den Schaden der Standardangriffe, heftigen Schläge und Angriffe aus dem Fall {F#der}{M#des} Reisenden in mit Nachtseelen versehenen \u003ccolor=#FF9999FF\u003ePyro-Schaden\u003c/color\u003e um, der nicht von anderen Elementen überdeckt werden kann, und erhöht deren KSCH um 40{NON_BREAK_SPACE}%.",
+                                                                              "description":  "Wandelt im Nachtseelensegen-Zustand den Schaden der Standardangriffe, heftigen Schläge und Angriffe aus dem Fall des Reisenden in mit Nachtseelen versehenen Pyro-Schaden um, der nicht von anderen Elementen überdeckt werden kann, und erhöht deren KSCH um 40 %."
+                                                                          },
+                                                                   "c1":  {
+                                                                              "name":  "Fließendes Licht des Sternenfeuers",
+                                                                              "descriptionRaw":  "#Erhöht während der Wirkungsdauer von \u003ccolor=#FFD780FF\u003e„Flammende Schwelle“\u003c/color\u003e oder \u003ccolor=#FFD780FF\u003e„Versengende Schwelle“\u003c/color\u003e den von der aktuellen Figur verursachten Schaden um 6{NON_BREAK_SPACE}% und weiter um 9{NON_BREAK_SPACE}%, wenn die aktuelle Figur sich im Nachtseelensegen-Zustand befindet.",
+                                                                              "description":  "Erhöht während der Wirkungsdauer von „Flammende Schwelle“ oder „Versengende Schwelle“ den von der aktuellen Figur verursachten Schaden um 6 % und weiter um 9 %, wenn die aktuelle Figur sich im Nachtseelensegen-Zustand befindet."
+                                                                          }
+                                                               }
+                                        },
+                       "aether":  {
+                                      "constellations":  null,
+                                      "elementText":  "k. A.",
+                                      "fullname":  null,
+                                      "weaponText":  "Einhänder",
+                                      "name":  "Leer",
+                                      "substatText":  "ANG",
+                                      "region":  "",
+                                      "gender":  "Männlich"
+                                  },
                        "travelerelectro":  {
                                                "constellations":  {
                                                                       "c2":  {
@@ -5599,16 +5699,88 @@
                                            "region":  "Inazuma",
                                            "gender":  "Männlich"
                                        },
-                       "aether":  {
-                                      "constellations":  null,
-                                      "elementText":  "k. A.",
+                       "lanyan":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "„Das Tanzgewand, wie Jade farbenprächtig glimmt“",
+                                                                        "descriptionRaw":  "#Stellt beim Verursachen von Schaden mit dem Standardangriff der eigenen aktuellen Figur in der Truppe während der Wirkungsdauer des \u003ccolor=#FFD780FF\u003eSchwalbenschnittschilds\u003c/color\u003e diesem 40{NON_BREAK_SPACE}% seiner Schildstärke wieder her, höchstens bis zu der Schildstärke beim Erschaffen des Schilds, 2{NON_BREAK_SPACE}s Abklingzeit.",
+                                                                        "description":  "Stellt beim Verursachen von Schaden mit dem Standardangriff der eigenen aktuellen Figur in der Truppe während der Wirkungsdauer des Schwalbenschnittschilds diesem 40 % seiner Schildstärke wieder her, höchstens bis zu der Schildstärke beim Erschaffen des Schilds, 2 s Abklingzeit."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "„Mit Blutperlenschmuck, des Drachenfalken Gunst“",
+                                                                        "descriptionRaw":  "#Erhöht beim Anwenden der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eBlendender Mondaufgang\u003c/color\u003e die Elementarkunde aller in der Nähe befindlichen Truppenmitglieder 12{NON_BREAK_SPACE}s lang um 60{NON_BREAK_SPACE}Punkte.",
+                                                                        "description":  "Erhöht beim Anwenden der Spezialfähigkeit Blendender Mondaufgang die Elementarkunde aller in der Nähe befindlichen Truppenmitglieder 12 s lang um 60 Punkte."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "„Den weißen Phönix reitend durch der Nebel Dunst“",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwalbenschnitt-Tanz\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Elementarfähigkeit Schwalbenschnitt-Tanz um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "„Allein dir zu begegnen, ist mir Freude genug“",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eBlendender Mondaufgang\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Spezialfähigkeit Blendender Mondaufgang um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "„Auf Winden ziehen wir, Silberklang ertönt im Flug“",
+                                                                        "descriptionRaw":  "Ermöglicht 1 weitere Anwendung von \u003ccolor=#FFD780FF\u003eSchwalbenschnitt-Tanz\u003c/color\u003e.",
+                                                                        "description":  "Ermöglicht 1 weitere Anwendung von Schwalbenschnitt-Tanz."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "„Hoch jemand gleitet, in den Wolken geschwind“",
+                                                                        "descriptionRaw":  "Lan Yan wirft nach Auslösen der Elementarumwandlung des passiven Talents „Wahrsagung durch vier Klingen“ bei diesmaliger Anwendung der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwalbenschnitt-Tanz\u003c/color\u003e einen Mondsichelring mehr auf die Gegner.\nDas passive Talent „Wahrsagung durch vier Klingen“ muss zuerst freigeschaltet werden.",
+                                                                        "description":  "Lan Yan wirft nach Auslösen der Elementarumwandlung des passiven Talents „Wahrsagung durch vier Klingen“ bei diesmaliger Anwendung der Elementarfähigkeit Schwalbenschnitt-Tanz einen Mondsichelring mehr auf die Gegner.\nDas passive Talent „Wahrsagung durch vier Klingen“ muss zuerst freigeschaltet werden."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anemo",
                                       "fullname":  null,
-                                      "weaponText":  "Einhänder",
-                                      "name":  "Leer",
+                                      "weaponText":  "Katalysator",
+                                      "name":  "Lan Yan",
                                       "substatText":  "ANG",
-                                      "region":  "",
-                                      "gender":  "Männlich"
+                                      "region":  "Liyue",
+                                      "gender":  "Weiblich"
                                   },
+                       "mona":  {
+                                    "constellations":  {
+                                                           "c2":  {
+                                                                      "name":  "Sternenkette",
+                                                                      "descriptionRaw":  "Löst bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 20 % automatisch einen heftigen Schlag aus.\n5 s Abklingzeit.",
+                                                                      "description":  "Löst bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 20 % automatisch einen heftigen Schlag aus.\n5 s Abklingzeit."
+                                                                  },
+                                                           "c4":  {
+                                                                      "name":  "Prophezeiung der Ausrottung",
+                                                                      "descriptionRaw":  "Erhöht die KT bei Angriffen aller Truppenmitglieder auf Gegner im Zustand Omen um 15 %.",
+                                                                      "description":  "Erhöht die KT bei Angriffen aller Truppenmitglieder auf Gegner im Zustand Omen um 15 %."
+                                                                  },
+                                                           "c3":  {
+                                                                      "name":  "Im ewigen Umlauf",
+                                                                      "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eVorbestimmte Laufbahn\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                      "description":  "Erhöht die Stufe der Fähigkeit Vorbestimmte Laufbahn um 3.\nHöchststufe 15."
+                                                                  },
+                                                           "c5":  {
+                                                                      "name":  "Verspottung des Schicksals",
+                                                                      "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eTrugbilder im Wasser\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                      "description":  "Erhöht die Stufe der Fähigkeit Trugbilder im Wasser um 3.\nHöchststufe 15."
+                                                                  },
+                                                           "c6":  {
+                                                                      "name":  "Rhetorik des Unglücks",
+                                                                      "descriptionRaw":  "Erhöht den Schaden des nächsten heftigen Schlags für jede Sekunde, die sich Mona im Zustand \u003ccolor=#FFD780FF\u003eIrreführende Strömung\u003c/color\u003e bewegt, um 60 %.\nAuf diese Weise kann der Schaden heftiger Schläge um bis zu 180 % erhöht werden und hält bis zu 8 s lang.",
+                                                                      "description":  "Erhöht den Schaden des nächsten heftigen Schlags für jede Sekunde, die sich Mona im Zustand Irreführende Strömung bewegt, um 60 %.\nAuf diese Weise kann der Schaden heftiger Schläge um bis zu 180 % erhöht werden und hält bis zu 8 s lang."
+                                                                  },
+                                                           "c1":  {
+                                                                      "name":  "Prophezeiung des Untergangs",
+                                                                      "descriptionRaw":  "Verstärkt den Effekt von \u003ccolor=#80C0FFFF\u003eHydro-Elementarreaktionen\u003c/color\u003e, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang:\n· Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von Gefroren um 15 %.",
+                                                                      "description":  "Verstärkt den Effekt von Hydro-Elementarreaktionen, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang:\n· Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von Gefroren um 15 %."
+                                                                  }
+                                                       },
+                                    "elementText":  "Hydro",
+                                    "fullname":  null,
+                                    "weaponText":  "Katalysator",
+                                    "name":  "Mona",
+                                    "substatText":  "Aufladerate",
+                                    "region":  "Mondstadt",
+                                    "gender":  "Weiblich"
+                                },
                        "barbara":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -6012,47 +6184,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Männlich"
                                   },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani gibt alles!",
-                                                                         "descriptionRaw":  "#Verleiht Mualani 2 Stapelungen Wellenschwung von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2{NON_BREAK_SPACE}s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden.",
-                                                                         "description":  "Verleiht Mualani 2 Stapelungen Wellenschwung von Haifischreitende Wellenspalterin, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2 s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Haifisch frisst Kugelfische",
-                                                                         "descriptionRaw":  "#Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e verursachten Schaden um 75{NON_BREAK_SPACE}%.",
-                                                                         "description":  "Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch Haibitzen-Geschoss verursachten Schaden um 75 %."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surfen auf fröhlichen Meeren",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Haifischreitende Wellenspalterin um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Surfbrett im gleichen Stil im Angebot!",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Haibitzen-Geschoss um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Der Geist der Menschen der Quellen",
-                                                                         "descriptionRaw":  "Entfernt die Beschränkung, dass der Schadenbonus durch das Sternbild „Die gemütlichen ‚Meztli‘ ...“ nur einmal pro Nachtseelensegen ausgelöst werden kann.",
-                                                                         "description":  "Entfernt die Beschränkung, dass der Schadenbonus durch das Sternbild „Die gemütlichen ‚Meztli‘ ...“ nur einmal pro Nachtseelensegen ausgelöst werden kann."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Die gemütlichen „Meztli“ ...",
-                                                                         "descriptionRaw":  "#Erhöht den SCH durch den ersten Wogenden Haibiss und die davon ausgelösten Haifischgeschosse, nachdem Mualani in den Zustand Nachtseelensegen eingetreten hat, um 66{NON_BREAK_SPACE}% von Mualanis max. LP. Dieser SCH-Bonuseffekt unterliegt den SCH-Reduktionsregeln von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e.\nVerringert außerdem Mualanis Verbrauch von Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30{NON_BREAK_SPACE}%, wenn sie sich nicht im Kampf befindet.",
-                                                                         "description":  "Erhöht den SCH durch den ersten Wogenden Haibiss und die davon ausgelösten Haifischgeschosse, nachdem Mualani in den Zustand Nachtseelensegen eingetreten hat, um 66 % von Mualanis max. LP. Dieser SCH-Bonuseffekt unterliegt den SCH-Reduktionsregeln von Haifischreitende Wellenspalterin.\nVerringert außerdem Mualanis Verbrauch von Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30 %, wenn sie sich nicht im Kampf befindet."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Katalysator",
-                                       "name":  "Mualani",
-                                       "substatText":  "KT",
-                                       "region":  "Natlan",
-                                       "gender":  "Weiblich"
-                                   },
+                       "beidou":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Aufziehendes Unwetter",
+                                                                        "descriptionRaw":  "Kettenblitze von \u003ccolor=#FFD780FF\u003eBlitzbrecher\u003c/color\u003e springen auf 2 zusätzliche Gegner über.",
+                                                                        "description":  "Kettenblitze von Blitzbrecher springen auf 2 zusätzliche Gegner über."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Überwältigender Gegenschlag",
+                                                                        "descriptionRaw":  "Beidous Standardangriffe verursachen nach dem Erleiden von Angriffen 10 s lang zusätzlich 20 % \u003ccolor=#FFACFFFF\u003eElektro-SCH\u003c/color\u003e.",
+                                                                        "description":  "Beidous Standardangriffe verursachen nach dem Erleiden von Angriffen 10 s lang zusätzlich 20 % Elektro-SCH."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Spontane Induktion",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eWellenfänger\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Fähigkeit Wellenfänger um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Gezeitenwanderer",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eBlitzbrecher\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Fähigkeit Blitzbrecher um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Schrecken des Bösen",
+                                                                        "descriptionRaw":  "Verringert während der Wirkungsdauer von \u003ccolor=#FFD780FF\u003eBlitzbrecher\u003c/color\u003e den \u003ccolor=#FFACFFFF\u003eElektro-WDS\u003c/color\u003e von Gegnern in der Umgebung um 15 %.",
+                                                                        "description":  "Verringert während der Wirkungsdauer von Blitzbrecher den Elektro-WDS von Gegnern in der Umgebung um 15 %."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Untergang der Ungeheuer",
+                                                                        "descriptionRaw":  "Effekte bei Anwendung von \u003ccolor=#FFD780FF\u003eBlitzbrecher\u003c/color\u003e:\nErstellt einen Schutzschild, der Schaden in Höhe von 16 % der max. LP abhält, hält 15 s.\nHält bei \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e 250 % ab.",
+                                                                        "description":  "Effekte bei Anwendung von Blitzbrecher:\nErstellt einen Schutzschild, der Schaden in Höhe von 16 % der max. LP abhält, hält 15 s.\nHält bei Elektro-Schaden 250 % ab."
+                                                                    }
+                                                         },
+                                      "elementText":  "Elektro",
+                                      "fullname":  null,
+                                      "weaponText":  "Zweihänder",
+                                      "name":  "Beidou",
+                                      "substatText":  "Elektro-SCH-Bonus",
+                                      "region":  "Liyue",
+                                      "gender":  "Weiblich"
+                                  },
                        "nilou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6553,65 +6725,85 @@
                                                  },
                                           "effectName":  "Unbeugsamkeit"
                                       },
-                    "wineandsong":  {
-                                        "r3":  {
-                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 18 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 30 %.",
-                                                   "values":  [
-                                                                  "18 %",
-                                                                  "30 %"
-                                                              ]
-                                               },
-                                        "r5":  {
-                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 22 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 40 %.",
-                                                   "values":  [
-                                                                  "22 %",
-                                                                  "40 %"
-                                                              ]
-                                               },
-                                        "r2":  {
-                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 16 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 25 %.",
-                                                   "values":  [
-                                                                  "16 %",
-                                                                  "25 %"
-                                                              ]
-                                               },
-                                        "r4":  {
-                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 20 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 35 %.",
-                                                   "values":  [
-                                                                  "20 %",
-                                                                  "35 %"
-                                                              ]
-                                               },
-                                        "substatText":  "Aufladerate",
-                                        "weaponText":  "Katalysator",
-                                        "name":  "Wein und Gesang in den Gassen",
-                                        "effectTemplateRaw":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
-                                        "r1":  {
-                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 14 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 20 %.",
-                                                   "values":  [
-                                                                  "14 %",
-                                                                  "20 %"
-                                                              ]
-                                               },
-                                        "effectName":  "Unaufhörlicher Wandel"
-                                    },
-                    "prizedisshinblade":  {
-                                              "r3":  null,
-                                              "r5":  null,
-                                              "r2":  null,
-                                              "r4":  null,
-                                              "substatText":  "ANG",
-                                              "weaponText":  "Einhänder",
-                                              "name":  "Berühmtes Schwert der „Isshin-Schule“",
-                                              "effectTemplateRaw":  "Entfesselt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen bösen Geist, der Flächenschaden in Höhe von 180 % ANG verursacht. Stellt dabei LP in Höhe von 100 % ANG wieder her. 8 s Abklingzeit. Verringert den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden um 50 %.",
-                                              "r1":  {
-                                                         "description":  "Entfesselt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen bösen Geist, der Flächenschaden in Höhe von 180 % ANG verursacht. Stellt dabei LP in Höhe von 100 % ANG wieder her. 8 s Abklingzeit. Verringert den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden um 50 %.",
-                                                         "values":  [
-
-                                                                    ]
-                                                     },
-                                              "effectName":  "Ziellose Klinge"
-                                          },
+                    "starcallerswatch":  {
+                                             "r3":  {
+                                                        "description":  "Erhöht die Elementarkunde um 150 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 42 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+                                                        "values":  [
+                                                                       "150",
+                                                                       "42{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Erhöht die Elementarkunde um 200 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 56 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+                                                        "values":  [
+                                                                       "200",
+                                                                       "56{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Erhöht die Elementarkunde um 125 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 35 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+                                                        "values":  [
+                                                                       "125",
+                                                                       "35{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Erhöht die Elementarkunde um 175 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 49 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+                                                        "values":  [
+                                                                       "175",
+                                                                       "49{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "Elementarkunde",
+                                             "weaponText":  "Katalysator",
+                                             "name":  "Wacht des Sternenopfers",
+                                             "effectTemplateRaw":  "#Erhöht die Elementarkunde um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e Punkte. Verleiht innerhalb von 15{NON_BREAK_SPACE}s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. 14{NON_BREAK_SPACE}s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+                                             "r1":  {
+                                                        "description":  "Erhöht die Elementarkunde um 100 Punkte. Verleiht innerhalb von 15 s nach Erschaffen eines Schildes durch den Träger den Effekt „Nacht reflektierender Spiegel“: Erhöht den in der Nähe befindlichen Gegnern durch die eigene aktuelle Figur in der Truppe zugefügten Schaden um 28 %. 14 s Abklingzeit für das Erhalten des Effektes „Nacht reflektierender Spiegel“.",
+                                                        "values":  [
+                                                                       "100",
+                                                                       "28{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Opfer für den Wind und die Sonne"
+                                         },
+                    "recurvebow":  {
+                                       "r3":  {
+                                                  "description":  "Stellt beim Besiegen eines Gegners 12 % LP wieder her.",
+                                                  "values":  [
+                                                                 "12 %"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Stellt beim Besiegen eines Gegners 16 % LP wieder her.",
+                                                  "values":  [
+                                                                 "16 %"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Stellt beim Besiegen eines Gegners 10 % LP wieder her.",
+                                                  "values":  [
+                                                                 "10 %"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Stellt beim Besiegen eines Gegners 14 % LP wieder her.",
+                                                  "values":  [
+                                                                 "14 %"
+                                                             ]
+                                              },
+                                       "substatText":  "LP",
+                                       "weaponText":  "Bogen",
+                                       "name":  "Reflexbogen",
+                                       "effectTemplateRaw":  "Stellt beim Besiegen eines Gegners \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e LP wieder her.",
+                                       "r1":  {
+                                                  "description":  "Stellt beim Besiegen eines Gegners 8 % LP wieder her.",
+                                                  "values":  [
+                                                                 "8 %"
+                                                             ]
+                                              },
+                                       "effectName":  "Lebensentzug"
+                                   },
                     "eyeofperception":  {
                                             "r3":  {
                                                        "description":  "Schießt bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % eine Kugel des Herzensblicks ab und verursacht Schaden in Höhe von 300 % ANG. Geht bis zu 4-mal auf Gegner in der Nähe über. 10 s Abklingzeit.",
@@ -10155,48 +10347,48 @@
                                              },
                                       "effectName":  "Bewährtheit von Wasser und Eis"
                                   },
-                    "sacrificialjade":  {
-                                            "r3":  {
-                                                       "description":  "Erhöht die max. LP um 48 % und die Elementarkunde um 60 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
-                                                       "values":  [
-                                                                      "48{NON_BREAK_SPACE}%",
-                                                                      "60"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Erhöht die max. LP um 64 % und die Elementarkunde um 80 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
-                                                       "values":  [
-                                                                      "64{NON_BREAK_SPACE}%",
-                                                                      "80"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Erhöht die max. LP um 40 % und die Elementarkunde um 50 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
-                                                       "values":  [
-                                                                      "40{NON_BREAK_SPACE}%",
-                                                                      "50"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Erhöht die max. LP um 56 % und die Elementarkunde um 70 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
-                                                       "values":  [
-                                                                      "56{NON_BREAK_SPACE}%",
-                                                                      "70"
-                                                                  ]
-                                                   },
-                                            "substatText":  "KT",
-                                            "weaponText":  "Katalysator",
-                                            "name":  "Zeremonielle Jade",
-                                            "effectTemplateRaw":  "#Erhöht die max. LP um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e und die Elementarkunde um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Punkte, sobald sich die Figur mehr als 5{NON_BREAK_SPACE}s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10{NON_BREAK_SPACE}s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
-                                            "r1":  {
-                                                       "description":  "Erhöht die max. LP um 32 % und die Elementarkunde um 40 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
-                                                       "values":  [
-                                                                      "32{NON_BREAK_SPACE}%",
-                                                                      "40"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Umlauf der grünen Jade"
-                                        },
+                    "harangeppakufutsu":  {
+                                              "r3":  {
+                                                         "description":  "Erhöht den Schaden aller Elemente um 18 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 30 %.",
+                                                         "values":  [
+                                                                        "18 %",
+                                                                        "30 %"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Erhöht den Schaden aller Elemente um 24 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 40 %.",
+                                                         "values":  [
+                                                                        "24 %",
+                                                                        "40 %"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Erhöht den Schaden aller Elemente um 15 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 25 %.",
+                                                         "values":  [
+                                                                        "15 %",
+                                                                        "25 %"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Erhöht den Schaden aller Elemente um 21 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 35 %.",
+                                                         "values":  [
+                                                                        "21 %",
+                                                                        "35 %"
+                                                                    ]
+                                                     },
+                                              "substatText":  "KT",
+                                              "weaponText":  "Einhänder",
+                                              "name":  "Haran Geppaku Futsu",
+                                              "effectTemplateRaw":  "Erhöht den Schaden aller Elemente um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                              "r1":  {
+                                                         "description":  "Erhöht den Schaden aller Elemente um 12 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 20 %.",
+                                                         "values":  [
+                                                                        "12 %",
+                                                                        "20 %"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Fließendes Schwert"
+                                          },
                     "favoniussword":  {
                                           "r3":  {
                                                      "description":  "Erschafft bei einem KT mit einer Wahrscheinlichkeit von 80 % einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. 9 s Abklingzeit.",
@@ -10276,43 +10468,6 @@
                                                          },
                                                   "effectName":  "Türkisjagd"
                                               },
-                    "recurvebow":  {
-                                       "r3":  {
-                                                  "description":  "Stellt beim Besiegen eines Gegners 12 % LP wieder her.",
-                                                  "values":  [
-                                                                 "12 %"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Stellt beim Besiegen eines Gegners 16 % LP wieder her.",
-                                                  "values":  [
-                                                                 "16 %"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Stellt beim Besiegen eines Gegners 10 % LP wieder her.",
-                                                  "values":  [
-                                                                 "10 %"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Stellt beim Besiegen eines Gegners 14 % LP wieder her.",
-                                                  "values":  [
-                                                                 "14 %"
-                                                             ]
-                                              },
-                                       "substatText":  "LP",
-                                       "weaponText":  "Bogen",
-                                       "name":  "Reflexbogen",
-                                       "effectTemplateRaw":  "Stellt beim Besiegen eines Gegners \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e LP wieder her.",
-                                       "r1":  {
-                                                  "description":  "Stellt beim Besiegen eines Gegners 8 % LP wieder her.",
-                                                  "values":  [
-                                                                 "8 %"
-                                                             ]
-                                              },
-                                       "effectName":  "Lebensentzug"
-                                   },
                     "crescentpike":  {
                                          "r3":  {
                                                     "description":  "Verursacht nach dem Erhalten von Elementarteilchen oder Elementarkristallen 5 s lang zusätzlichen Schaden in Höhe von 30 % ANG mit Standardangriffen und heftigen Schlägen.",
@@ -11757,48 +11912,100 @@
                                                     },
                                              "effectName":  "Triumphaler Übermut"
                                          },
-                    "harangeppakufutsu":  {
-                                              "r3":  {
-                                                         "description":  "Erhöht den Schaden aller Elemente um 18 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 30 %.",
-                                                         "values":  [
-                                                                        "18 %",
-                                                                        "30 %"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Erhöht den Schaden aller Elemente um 24 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 40 %.",
-                                                         "values":  [
-                                                                        "24 %",
-                                                                        "40 %"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Erhöht den Schaden aller Elemente um 15 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 25 %.",
-                                                         "values":  [
-                                                                        "15 %",
-                                                                        "25 %"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Erhöht den Schaden aller Elemente um 21 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 35 %.",
-                                                         "values":  [
-                                                                        "21 %",
-                                                                        "35 %"
-                                                                    ]
-                                                     },
-                                              "substatText":  "KT",
-                                              "weaponText":  "Einhänder",
-                                              "name":  "Haran Geppaku Futsu",
-                                              "effectTemplateRaw":  "Erhöht den Schaden aller Elemente um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
-                                              "r1":  {
-                                                         "description":  "Erhöht den Schaden aller Elemente um 12 %. Verleiht der mit dieser Waffe ausgerüsteten Figur bei Anwendung von Elementarfähigkeiten anderer Truppenmitglieder in der Nähe 1 Stapelung des Effekts „Wellenähre“, 2-fach stapelbar, 0,3 s Abklingzeit. Verbraucht bei der Anwendung der Elementarfähigkeit der mit dieser Waffe ausgerüsteten Figur den gesamten Effekt „Wellenähre“, sofern dieser Effekt vorhanden ist, und erhält den Effekt „Wogenprall“: Erhöht den mit Standardangriffen verursachten Schaden pro verbrauchte Stapelung 8 s lang um 20 %.",
-                                                         "values":  [
-                                                                        "12 %",
-                                                                        "20 %"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Fließendes Schwert"
-                                          },
+                    "sacrificialjade":  {
+                                            "r3":  {
+                                                       "description":  "Erhöht die max. LP um 48 % und die Elementarkunde um 60 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+                                                       "values":  [
+                                                                      "48{NON_BREAK_SPACE}%",
+                                                                      "60"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Erhöht die max. LP um 64 % und die Elementarkunde um 80 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+                                                       "values":  [
+                                                                      "64{NON_BREAK_SPACE}%",
+                                                                      "80"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Erhöht die max. LP um 40 % und die Elementarkunde um 50 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+                                                       "values":  [
+                                                                      "40{NON_BREAK_SPACE}%",
+                                                                      "50"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Erhöht die max. LP um 56 % und die Elementarkunde um 70 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+                                                       "values":  [
+                                                                      "56{NON_BREAK_SPACE}%",
+                                                                      "70"
+                                                                  ]
+                                                   },
+                                            "substatText":  "KT",
+                                            "weaponText":  "Katalysator",
+                                            "name":  "Zeremonielle Jade",
+                                            "effectTemplateRaw":  "#Erhöht die max. LP um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e und die Elementarkunde um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Punkte, sobald sich die Figur mehr als 5{NON_BREAK_SPACE}s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10{NON_BREAK_SPACE}s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+                                            "r1":  {
+                                                       "description":  "Erhöht die max. LP um 32 % und die Elementarkunde um 40 Punkte, sobald sich die Figur mehr als 5 s inaktiv in der Truppe befindet. Der Effekt verschwindet nach 10 s, nachdem der Träger eingewechselt worden ist und sich dauerhaft aktiv auf dem Feld befunden hat.",
+                                                       "values":  [
+                                                                      "32{NON_BREAK_SPACE}%",
+                                                                      "40"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Umlauf der grünen Jade"
+                                        },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 12 % und erhält einen Elementar-SCH-Bonus aller Elemente von 15 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 12 %, höchstens 38,4 %.",
+                                                      "values":  [
+                                                                     "12{NON_BREAK_SPACE}%",
+                                                                     "15{NON_BREAK_SPACE}%",
+                                                                     "12{NON_BREAK_SPACE}%",
+                                                                     "38,4{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 16 % und erhält einen Elementar-SCH-Bonus aller Elemente von 20 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 16 %, höchstens 51,2 %.",
+                                                      "values":  [
+                                                                     "16{NON_BREAK_SPACE}%",
+                                                                     "20{NON_BREAK_SPACE}%",
+                                                                     "16{NON_BREAK_SPACE}%",
+                                                                     "51,2{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 10 % und erhält einen Elementar-SCH-Bonus aller Elemente von 12,5 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 10 %, höchstens 32 %.",
+                                                      "values":  [
+                                                                     "10{NON_BREAK_SPACE}%",
+                                                                     "12,5{NON_BREAK_SPACE}%",
+                                                                     "10{NON_BREAK_SPACE}%",
+                                                                     "32{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 14 % und erhält einen Elementar-SCH-Bonus aller Elemente von 17,5 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 14 %, höchstens 44,8 %.",
+                                                      "values":  [
+                                                                     "14{NON_BREAK_SPACE}%",
+                                                                     "17,5{NON_BREAK_SPACE}%",
+                                                                     "14{NON_BREAK_SPACE}%",
+                                                                     "44,8{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "VTD",
+                                           "weaponText":  "Einhänder",
+                                           "name":  "Lied der Gipfelpatrouille",
+                                           "effectTemplateRaw":  "#Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e und erhält einen Elementar-SCH-Bonus aller Elemente von \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, hält 6{NON_BREAK_SPACE}s, 2-fach stapelbar, 0,1{NON_BREAK_SPACE}s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e, höchstens \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e.",
+                                           "r1":  {
+                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 8 % und erhält einen Elementar-SCH-Bonus aller Elemente von 10 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 8 %, höchstens 25,6 %.",
+                                                      "values":  [
+                                                                     "8{NON_BREAK_SPACE}%",
+                                                                     "10{NON_BREAK_SPACE}%",
+                                                                     "8{NON_BREAK_SPACE}%",
+                                                                     "25,6{NON_BREAK_SPACE}%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Unendliche Blütezeit"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -13145,58 +13352,23 @@
                                                             },
                                                      "effectName":  "Dryas’ Nachtmusik"
                                                  },
-                    "peakpatrolsong":  {
-                                           "r3":  {
-                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 12 % und erhält einen Elementar-SCH-Bonus aller Elemente von 15 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 12 %, höchstens 38,4 %.",
-                                                      "values":  [
-                                                                     "12{NON_BREAK_SPACE}%",
-                                                                     "15{NON_BREAK_SPACE}%",
-                                                                     "12{NON_BREAK_SPACE}%",
-                                                                     "38,4{NON_BREAK_SPACE}%"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 16 % und erhält einen Elementar-SCH-Bonus aller Elemente von 20 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 16 %, höchstens 51,2 %.",
-                                                      "values":  [
-                                                                     "16{NON_BREAK_SPACE}%",
-                                                                     "20{NON_BREAK_SPACE}%",
-                                                                     "16{NON_BREAK_SPACE}%",
-                                                                     "51,2{NON_BREAK_SPACE}%"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 10 % und erhält einen Elementar-SCH-Bonus aller Elemente von 12,5 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 10 %, höchstens 32 %.",
-                                                      "values":  [
-                                                                     "10{NON_BREAK_SPACE}%",
-                                                                     "12,5{NON_BREAK_SPACE}%",
-                                                                     "10{NON_BREAK_SPACE}%",
-                                                                     "32{NON_BREAK_SPACE}%"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 14 % und erhält einen Elementar-SCH-Bonus aller Elemente von 17,5 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 14 %, höchstens 44,8 %.",
-                                                      "values":  [
-                                                                     "14{NON_BREAK_SPACE}%",
-                                                                     "17,5{NON_BREAK_SPACE}%",
-                                                                     "14{NON_BREAK_SPACE}%",
-                                                                     "44,8{NON_BREAK_SPACE}%"
-                                                                 ]
-                                                  },
-                                           "substatText":  "VTD",
-                                           "weaponText":  "Einhänder",
-                                           "name":  "Lied der Gipfelpatrouille",
-                                           "effectTemplateRaw":  "#Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e und erhält einen Elementar-SCH-Bonus aller Elemente von \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, hält 6{NON_BREAK_SPACE}s, 2-fach stapelbar, 0,1{NON_BREAK_SPACE}s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e, höchstens \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e.",
-                                           "r1":  {
-                                                      "description":  "Erhält nach dem Treffen von Gegnern mit Standardangriffen oder Angriffen aus dem Fall „Glorreiches Lied“: Erhöht die VTD um 8 % und erhält einen Elementar-SCH-Bonus aller Elemente von 10 %, hält 6 s, 2-fach stapelbar, 0,1 s Abklingzeit. Erhöht bei 2 Stapelungen oder beim Zurücksetzen der Wirkungsdauer von 2 Stapelungen für je 1.000 Punkte VTD des Trägers den Elementar-SCH-Bonus für alle Elemente aller Truppenmitglieder in der Nähe 15 s lang um 8 %, höchstens 25,6 %.",
-                                                      "values":  [
-                                                                     "8{NON_BREAK_SPACE}%",
-                                                                     "10{NON_BREAK_SPACE}%",
-                                                                     "8{NON_BREAK_SPACE}%",
-                                                                     "25,6{NON_BREAK_SPACE}%"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Unendliche Blütezeit"
-                                       },
+                    "prizedisshinblade":  {
+                                              "r3":  null,
+                                              "r5":  null,
+                                              "r2":  null,
+                                              "r4":  null,
+                                              "substatText":  "ANG",
+                                              "weaponText":  "Einhänder",
+                                              "name":  "Berühmtes Schwert der „Isshin-Schule“",
+                                              "effectTemplateRaw":  "Entfesselt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen bösen Geist, der Flächenschaden in Höhe von 180 % ANG verursacht. Stellt dabei LP in Höhe von 100 % ANG wieder her. 8 s Abklingzeit. Verringert den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden um 50 %.",
+                                              "r1":  {
+                                                         "description":  "Entfesselt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen bösen Geist, der Flächenschaden in Höhe von 180 % ANG verursacht. Stellt dabei LP in Höhe von 100 % ANG wieder her. 8 s Abklingzeit. Verringert den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden um 50 %.",
+                                                         "values":  [
+
+                                                                    ]
+                                                     },
+                                              "effectName":  "Ziellose Klinge"
+                                          },
                     "ultimateoverlordsmegamagicsword":  {
                                                             "r3":  {
                                                                        "description":  "Erhöht den ANG um 18 %. Das ist noch nicht alles! Die Unterstützung durch alle Melusinen, denen du im Dorf Mérusea geholfen hast, erfüllt dich mit Kraft! Erhöht den ANG basierend auf der Anzahl der Melusinen, denen du geholfen hast, zusätzlich um bis zu 18 %.",
@@ -13239,6 +13411,48 @@
                                                                    },
                                                             "effectName":  "Melusinen-Unterstützung"
                                                         },
+                    "wineandsong":  {
+                                        "r3":  {
+                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 18 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 30 %.",
+                                                   "values":  [
+                                                                  "18 %",
+                                                                  "30 %"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 22 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 40 %.",
+                                                   "values":  [
+                                                                  "22 %",
+                                                                  "40 %"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 16 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 25 %.",
+                                                   "values":  [
+                                                                  "16 %",
+                                                                  "25 %"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 20 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 35 %.",
+                                                   "values":  [
+                                                                  "20 %",
+                                                                  "35 %"
+                                                              ]
+                                               },
+                                        "substatText":  "Aufladerate",
+                                        "weaponText":  "Katalysator",
+                                        "name":  "Wein und Gesang in den Gassen",
+                                        "effectTemplateRaw":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                        "r1":  {
+                                                   "description":  "Verringert den Ausdauerverbrauch beim Rennen oder von Fähigkeiten, die Rennen ersetzen, beim Treffen von Gegnern mit Standardangriffen 5 s lang um 14 %. Erhöht außerdem den ANG beim Rennen oder bei Anwendung von Fähigkeiten, die Rennen ersetzen, 5 s lang um 20 %.",
+                                                   "values":  [
+                                                                  "14 %",
+                                                                  "20 %"
+                                                              ]
+                                               },
+                                        "effectName":  "Unaufhörlicher Wandel"
+                                    },
                     "forestregalia":  {
                                           "r3":  {
                                                      "description":  "Erzeugt nach dem Auslösen der Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“ oder „Flammenspross“ in der Umgebung der Figur ein Vijnana-Blatt, das höchstens 10 s lang bestehen bleibt. Erhöht 12 s lang die Elementarkunde der Figur, die das Blatt sammelt, um 90 Punkte. Auf diese Weise kann alle 20 s nur ein Vijnana-Blatt erzeugt werden. Dieser Effekt tritt auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Der Effekt von Vijnana-Blatt ist nicht stapelbar.",
@@ -13671,6 +13885,48 @@
                                                 },
                                          "effectName":  "„Wortgewandtheit“"
                                      },
+                    "athousandblazingsuns":  {
+                                                 "r3":  {
+                                                            "description":  "Verleiht beim Einsetzen der Elementarfähigkeit oder Spezialfähigkeit den Effekt „Brennendes Licht“: Erhöht 6 s lang den KSCH um 30 % sowie den ANG um 42 %, 10 s Abklingzeit.\nVerlängert beim Verursachen von Elementar-Schaden durch Standardangriffe oder heftige Schläge während der Wirkungsdauer den diesmaligen Effekt „Brennendes Licht“ um 2 s und insgesamt um bis zu 6 s, 1 s Abklingzeit.\nErhöht den Effekt von „Brennendes Licht“ unter dem Nachtseelensegen-Zustand um 75 % und lässt die Wirkungsdauer des Effekts „Brennendes Licht“ nicht ablaufen, wenn der Träger inaktiv in der Truppe ist.",
+                                                            "values":  [
+                                                                           "30{NON_BREAK_SPACE}%",
+                                                                           "42{NON_BREAK_SPACE}%"
+                                                                       ]
+                                                        },
+                                                 "r5":  {
+                                                            "description":  "Verleiht beim Einsetzen der Elementarfähigkeit oder Spezialfähigkeit den Effekt „Brennendes Licht“: Erhöht 6 s lang den KSCH um 40 % sowie den ANG um 56 %, 10 s Abklingzeit.\nVerlängert beim Verursachen von Elementar-Schaden durch Standardangriffe oder heftige Schläge während der Wirkungsdauer den diesmaligen Effekt „Brennendes Licht“ um 2 s und insgesamt um bis zu 6 s, 1 s Abklingzeit.\nErhöht den Effekt von „Brennendes Licht“ unter dem Nachtseelensegen-Zustand um 75 % und lässt die Wirkungsdauer des Effekts „Brennendes Licht“ nicht ablaufen, wenn der Träger inaktiv in der Truppe ist.",
+                                                            "values":  [
+                                                                           "40{NON_BREAK_SPACE}%",
+                                                                           "56{NON_BREAK_SPACE}%"
+                                                                       ]
+                                                        },
+                                                 "r2":  {
+                                                            "description":  "Verleiht beim Einsetzen der Elementarfähigkeit oder Spezialfähigkeit den Effekt „Brennendes Licht“: Erhöht 6 s lang den KSCH um 25 % sowie den ANG um 35 %, 10 s Abklingzeit.\nVerlängert beim Verursachen von Elementar-Schaden durch Standardangriffe oder heftige Schläge während der Wirkungsdauer den diesmaligen Effekt „Brennendes Licht“ um 2 s und insgesamt um bis zu 6 s, 1 s Abklingzeit.\nErhöht den Effekt von „Brennendes Licht“ unter dem Nachtseelensegen-Zustand um 75 % und lässt die Wirkungsdauer des Effekts „Brennendes Licht“ nicht ablaufen, wenn der Träger inaktiv in der Truppe ist.",
+                                                            "values":  [
+                                                                           "25{NON_BREAK_SPACE}%",
+                                                                           "35{NON_BREAK_SPACE}%"
+                                                                       ]
+                                                        },
+                                                 "r4":  {
+                                                            "description":  "Verleiht beim Einsetzen der Elementarfähigkeit oder Spezialfähigkeit den Effekt „Brennendes Licht“: Erhöht 6 s lang den KSCH um 35 % sowie den ANG um 49 %, 10 s Abklingzeit.\nVerlängert beim Verursachen von Elementar-Schaden durch Standardangriffe oder heftige Schläge während der Wirkungsdauer den diesmaligen Effekt „Brennendes Licht“ um 2 s und insgesamt um bis zu 6 s, 1 s Abklingzeit.\nErhöht den Effekt von „Brennendes Licht“ unter dem Nachtseelensegen-Zustand um 75 % und lässt die Wirkungsdauer des Effekts „Brennendes Licht“ nicht ablaufen, wenn der Träger inaktiv in der Truppe ist.",
+                                                            "values":  [
+                                                                           "35{NON_BREAK_SPACE}%",
+                                                                           "49{NON_BREAK_SPACE}%"
+                                                                       ]
+                                                        },
+                                                 "substatText":  "KT",
+                                                 "weaponText":  "Zweihänder",
+                                                 "name":  "Die tausend flammenden Sonnen",
+                                                 "effectTemplateRaw":  "#Verleiht beim Einsetzen der Elementarfähigkeit oder Spezialfähigkeit den Effekt „Brennendes Licht“: Erhöht 6{NON_BREAK_SPACE}s lang den KSCH um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e sowie den ANG um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, 10{NON_BREAK_SPACE}s Abklingzeit.\nVerlängert beim Verursachen von Elementar-Schaden durch Standardangriffe oder heftige Schläge während der Wirkungsdauer den diesmaligen Effekt „Brennendes Licht“ um 2{NON_BREAK_SPACE}s und insgesamt um bis zu 6{NON_BREAK_SPACE}s, 1{NON_BREAK_SPACE}s Abklingzeit.\nErhöht den Effekt von „Brennendes Licht“ unter dem Nachtseelensegen-Zustand um 75{NON_BREAK_SPACE}% und lässt die Wirkungsdauer des Effekts „Brennendes Licht“ nicht ablaufen, wenn der Träger inaktiv in der Truppe ist.",
+                                                 "r1":  {
+                                                            "description":  "Verleiht beim Einsetzen der Elementarfähigkeit oder Spezialfähigkeit den Effekt „Brennendes Licht“: Erhöht 6 s lang den KSCH um 20 % sowie den ANG um 28 %, 10 s Abklingzeit.\nVerlängert beim Verursachen von Elementar-Schaden durch Standardangriffe oder heftige Schläge während der Wirkungsdauer den diesmaligen Effekt „Brennendes Licht“ um 2 s und insgesamt um bis zu 6 s, 1 s Abklingzeit.\nErhöht den Effekt von „Brennendes Licht“ unter dem Nachtseelensegen-Zustand um 75 % und lässt die Wirkungsdauer des Effekts „Brennendes Licht“ nicht ablaufen, wenn der Träger inaktiv in der Truppe ist.",
+                                                            "values":  [
+                                                                           "20{NON_BREAK_SPACE}%",
+                                                                           "28{NON_BREAK_SPACE}%"
+                                                                       ]
+                                                        },
+                                                 "effectName":  "Morgendämmerung der wieder aufflammenden untergehenden Sonne"
+                                             },
                     "balladoftheboundlessblue":  {
                                                      "r3":  {
                                                                 "description":  "Erhöht den mit Standardangriffen verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen 6 s lang um 12 % und den mit heftigen Schlägen verursachten Schaden um 9 %. 3-fach stapelbar, 0,3 s Abklingzeit.",
@@ -14556,6 +14812,10 @@
                                            "name":  "Junger Yumkasaurier",
                                            "specialname":  null
                                        },
+                    "lordoferodedprimalfire":  {
+                                                   "name":  "Herr des erodierten Urfeuers",
+                                                   "specialname":  null
+                                               },
                     "largedendroslime":  {
                                              "name":  "Großer Dendro-Schleim",
                                              "specialname":  null
@@ -14980,6 +15240,10 @@
                                                     "name":  "„Shouki no Kami“",
                                                     "specialname":  null
                                                 },
+                    "waywardhermeticspiritspeaker":  {
+                                                         "name":  "Wandernde eremitische Seelensprecherin",
+                                                         "specialname":  null
+                                                     },
                     "wingedwarriorskymaster":  {
                                                    "name":  "Gefiederter Recke – Himmelbändiger",
                                                    "specialname":  null

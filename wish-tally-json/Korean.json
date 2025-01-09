@@ -638,6 +638,9 @@
                       "northlanderbowbillet":  {
                                                    "name":  "북대륙의 활 원형"
                                                },
+                      "tidalga":  {
+                                      "name":  "돌말"
+                                  },
                       "bluedye":  {
                                       "name":  "파란색 염료"
                                   },
@@ -770,9 +773,9 @@
                       "borderlandswordbillet":  {
                                                     "name":  "가장자리 땅의 한손검 원형"
                                                 },
-                      "goldentalismanoftheforestdew":  {
-                                                           "name":  "숲의 이슬을 닮은 금 부적"
-                                                       },
+                      "nightwindsmysticaugury":  {
+                                                     "name":  "신이 깃든 연기의 징조"
+                                                 },
                       "dawncatcher":  {
                                           "name":  "노을빛 구피"
                                       },
@@ -1190,6 +1193,9 @@
                       "alkahest":  {
                                        "name":  "「용매」"
                                    },
+                      "erodedscalefeather":  {
+                                                 "name":  "침식된 비늘깃"
+                                             },
                       "almond":  {
                                      "name":  "행인"
                                  },
@@ -1331,6 +1337,9 @@
                       "keysigil":  {
                                        "name":  "건문"
                                    },
+                      "talismanoftheenigmaticland":  {
+                                                         "name":  "수수께끼 땅의 부적"
+                                                     },
                       "masterlessstardust":  {
                                                  "name":  "주인 없는 스타더스트"
                                              },
@@ -1583,6 +1592,9 @@
                       "mirrorofmushin":  {
                                              "name":  "무념의 거울"
                                          },
+                      "ultrahotburnerlamptestmodel":  {
+                                                          "name":  "특급 가열 램프 프로토타입"
+                                                      },
                       "dreamofthedandeliongladiator":  {
                                                            "name":  "라이언 투사의 이념"
                                                        },
@@ -1604,6 +1616,9 @@
                       "hurricaneseed":  {
                                             "name":  "폭풍의 씨앗"
                                         },
+                      "scrollofthefieryfirmament":  {
+                                                        "name":  "「불 하늘의 두루마리」"
+                                                    },
                       "dormantfungalnucleus":  {
                                                    "name":  "잠든 버섯핵"
                                                },
@@ -1679,9 +1694,9 @@
                       "radish":  {
                                      "name":  "흰 무"
                                  },
-                      "ultrahotburnerlamptestmodel":  {
-                                                          "name":  "특급 가열 램프 프로토타입"
-                                                      },
+                      "tuskofmonoceroscaeli":  {
+                                                   "name":  "하늘을 삼킨 고래·뿔"
+                                               },
                       "crab":  {
                                    "name":  "꽃게"
                                },
@@ -1694,9 +1709,9 @@
                       "riftbornregalia":  {
                                               "name":  "수계(獸界) 늑대왕의 그릇"
                                           },
-                      "tuskofmonoceroscaeli":  {
-                                                   "name":  "하늘을 삼킨 고래·뿔"
-                                               },
+                      "goldentalismanoftheforestdew":  {
+                                                           "name":  "숲의 이슬을 닮은 금 부적"
+                                                       },
                       "crystalfish":  {
                                           "name":  "수정빛 구피"
                                       },
@@ -1709,9 +1724,9 @@
                       "maintenancemekwaterbodycleaner":  {
                                                              "name":  "유지 보수 장치·수중 청소 타입"
                                                          },
-                      "nightwindsmysticaugury":  {
-                                                     "name":  "신이 깃든 연기의 징조"
-                                                 },
+                      "vajradaamethystgemstone":  {
+                                                      "name":  "승리의 자수정"
+                                                  },
                       "spiritlocketofboreas":  {
                                                    "name":  "북풍의 영혼상자"
                                                },
@@ -2045,6 +2060,9 @@
                       "congealedpupawax":  {
                                                "name":  "응고된 번데기 기름"
                                            },
+                      "erodedsunfire":  {
+                                            "name":  "침식된 태양"
+                                        },
                       "bacon":  {
                                     "name":  "베이컨"
                                 },
@@ -2240,9 +2258,9 @@
                       "fruitpastebait":  {
                                              "name":  "과즙 미끼"
                                          },
-                      "tidalga":  {
-                                      "name":  "돌말"
-                                  },
+                      "erodedhorn":  {
+                                         "name":  "침식된 불꽃뿔"
+                                     },
                       "cultivationareaexpansionvi":  {
                                                          "name":  "재배 구역 확장·VI"
                                                      },
@@ -2363,9 +2381,6 @@
                       "movementofanancientchord":  {
                                                        "name":  "오래된 현악의 악장"
                                                    },
-                      "vajradaamethystgemstone":  {
-                                                      "name":  "승리의 자수정"
-                                                  },
                       "philosophiesofgold":  {
                                                  "name":  "「황금」의 철학"
                                              },
@@ -3229,6 +3244,47 @@
                                         "region":  "수메르",
                                         "gender":  "남성"
                                     },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "전력을 다하는 말라니!",
+                                                                         "descriptionRaw":  "밤혼 가호 상태 진입 시, 말라니는 \u003ccolor=#FFD780FF\u003e파도를 가르는 샤크\u003c/color\u003e의 파도 기세를 2스택 획득한다. 말라니가 빵빵볼 획득 시, 파도 기세를 1스택 획득한다.\n또한 말라니가 한 번의 밤혼 가호 기간 동안 빵빵볼을 2개 획득하면, 2초 동안 추가로 밤혼 12pt를 회복한다.\n고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다",
+                                                                         "description":  "밤혼 가호 상태 진입 시, 말라니는 파도를 가르는 샤크의 파도 기세를 2스택 획득한다. 말라니가 빵빵볼 획득 시, 파도 기세를 1스택 획득한다.\n또한 말라니가 한 번의 밤혼 가호 기간 동안 빵빵볼을 2개 획득하면, 2초 동안 추가로 밤혼 12pt를 회복한다.\n고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다"
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "샤크의 주식은 빵빵이",
+                                                                         "descriptionRaw":  "빵빵볼 획득 시, 말라니가 원소 에너지를 8pt 회복한다. 해당 효과는 고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다.\n또한 \u003ccolor=#FFD780FF\u003e보글보글탄\u003c/color\u003e으로 주는 피해가 75% 증가한다",
+                                                                         "description":  "빵빵볼 획득 시, 말라니가 원소 에너지를 8pt 회복한다. 해당 효과는 고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다.\n또한 보글보글탄으로 주는 피해가 75% 증가한다"
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "즐거운 바다 서핑",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e파도를 가르는 샤크\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                         "description":  "파도를 가르는 샤크의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "같은 서핑보드 판매 중!",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e보글보글탄\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                         "description":  "보글보글탄의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "「샘물 무리」의 정신",
+                                                                         "descriptionRaw":  "운명의 자리 「여유로운 「메즈틀리」…」의 피해 증가 효과 설명 중, 「밤혼 가호 상태 진입 후 첫」 제한이 사라진다",
+                                                                         "description":  "운명의 자리 「여유로운 「메즈틀리」…」의 피해 증가 효과 설명 중, 「밤혼 가호 상태 진입 후 첫」 제한이 사라진다"
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "여유로운 「메즈틀리」…",
+                                                                         "descriptionRaw":  "밤혼 가호 상태 진입 후 첫 빅샤크 물어뜯기와 해당 공격으로 발동된 샤크 폭탄으로 주는 피해가 증가한다. 증가량은 말라니 HP 최대치의 66%에 해당한다. 해당 피해 증가는 \u003ccolor=#FFD780FF\u003e파도를 가르는 샤크\u003c/color\u003e의 피해 감소 규칙을 따른다.\n또한 전투 상태가 아닐 시, 말라니의 밤혼 가호 상태가 소모하는 밤혼과 열소가 30% 감소한다",
+                                                                         "description":  "밤혼 가호 상태 진입 후 첫 빅샤크 물어뜯기와 해당 공격으로 발동된 샤크 폭탄으로 주는 피해가 증가한다. 증가량은 말라니 HP 최대치의 66%에 해당한다. 해당 피해 증가는 파도를 가르는 샤크의 피해 감소 규칙을 따른다.\n또한 전투 상태가 아닐 시, 말라니의 밤혼 가호 상태가 소모하는 밤혼과 열소가 30% 감소한다"
+                                                                     }
+                                                          },
+                                       "elementText":  "물",
+                                       "fullname":  null,
+                                       "weaponText":  "법구",
+                                       "name":  "말라니",
+                                       "substatText":  "치명타 확률",
+                                       "region":  "나타",
+                                       "gender":  "여성"
+                                   },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3352,6 +3408,47 @@
                                          "region":  "리월",
                                          "gender":  "여성"
                                      },
+                       "mavuika":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "잿더미의 대가",
+                                                                         "descriptionRaw":  "밤혼 가호 상태에서 마비카의 기초 공격력이 200pt 증가하고, 불꽃 무장의 형태에 따라 상응하는 효과를 획득한다:\n·불볕 고리: 주변 적의 방어력이 20% 감소한다.\n·바이크: 마비카의 일반 공격, 강공격, 원소폭발 \u003ccolor=#FFD780FF\u003e불타는 하늘\u003c/color\u003e의 석양 베기로 주는 피해가 마비카 공격력의 60%/90%/120%만큼 증가한다",
+                                                                         "description":  "밤혼 가호 상태에서 마비카의 기초 공격력이 200pt 증가하고, 불꽃 무장의 형태에 따라 상응하는 효과를 획득한다:\n·불볕 고리: 주변 적의 방어력이 20% 감소한다.\n·바이크: 마비카의 일반 공격, 강공격, 원소폭발 불타는 하늘의 석양 베기로 주는 피해가 마비카 공격력의 60%/90%/120%만큼 증가한다"
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "「지도자」의 각오",
+                                                                         "descriptionRaw":  "고유 특성 「키온고지」 효과 강화:\n원소폭발 \u003ccolor=#FFD780FF\u003e불타는 하늘\u003c/color\u003e 발동 후의 피해 증가 효과가 시간에 따라 감소하지 않는다. 또한 추가로 피해 보너스를 10% 획득한다.\n고유 특성 「키온고지」를 해금해야 한다",
+                                                                         "description":  "고유 특성 「키온고지」 효과 강화:\n원소폭발 불타는 하늘 발동 후의 피해 증가 효과가 시간에 따라 감소하지 않는다. 또한 추가로 피해 보너스를 10% 획득한다.\n고유 특성 「키온고지」를 해금해야 한다"
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "타오르는 태양",
+                                                                         "descriptionRaw":  "원소폭발 \u003ccolor=#FFD780FF\u003e불타는 하늘\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                         "description":  "원소폭발 불타는 하늘의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "진정한 의미",
+                                                                         "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e해방의 순간\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                         "description":  "원소전투 스킬 해방의 순간의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "「인간의 이름」 해방",
+                                                                         "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e해방의 순간\u003c/color\u003e의 불꽃 무장이 완전 강화된다:\n·불볕 고리: 불볕 고리의 공격이 적에게 명중 시, 바이크 1대가 명중한 적에게 돌진해 공격력의 200%에 해당하는 밤혼 성질의 \u003ccolor=#FF9999FF\u003e불 원소 범위 피해\u003c/color\u003e를 준다.\n·바이크: 마비카가 바이크 조종 시, 마비카를 따라다니는 「불볕 고리·빛」을 소환해 주변의 적의 방어력을 20% 감소시킨다. 또한 주변의 적에게 3초마다 공격력의 500%에 해당하는 밤혼 성질의 \u003ccolor=#FF9999FF\u003e불 원소 범위 피해\u003c/color\u003e를 주고, 마비카의 각종 지형 돌파 능력이 향상된다.\n\n또한 마비카가 비전투 상태에서 바이크 조종 시, 마비카의 밤혼이 5pt로 떨어지면 추가로 밤혼을 80pt 획득한다. 해당 효과는 15초마다 최대 1회 발동된다",
+                                                                         "description":  "원소전투 스킬 해방의 순간의 불꽃 무장이 완전 강화된다:\n·불볕 고리: 불볕 고리의 공격이 적에게 명중 시, 바이크 1대가 명중한 적에게 돌진해 공격력의 200%에 해당하는 밤혼 성질의 불 원소 범위 피해를 준다.\n·바이크: 마비카가 바이크 조종 시, 마비카를 따라다니는 「불볕 고리·빛」을 소환해 주변의 적의 방어력을 20% 감소시킨다. 또한 주변의 적에게 3초마다 공격력의 500%에 해당하는 밤혼 성질의 불 원소 범위 피해를 주고, 마비카의 각종 지형 돌파 능력이 향상된다.\n\n또한 마비카가 비전투 상태에서 바이크 조종 시, 마비카의 밤혼이 5pt로 떨어지면 추가로 밤혼을 80pt 획득한다. 해당 효과는 15초마다 최대 1회 발동된다"
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "밤 주인의 계시",
+                                                                         "descriptionRaw":  "마비카의 밤혼 최대치가 120pt로 증가하고, 전의 획득 효율이 25% 증가한다.\n또한, 전의 획득 후 마비카의 공격력이 40% 증가한다, 지속 시간: 8초",
+                                                                         "description":  "마비카의 밤혼 최대치가 120pt로 증가하고, 전의 획득 효율이 25% 증가한다.\n또한, 전의 획득 후 마비카의 공격력이 40% 증가한다, 지속 시간: 8초"
+                                                                     }
+                                                          },
+                                       "elementText":  "불",
+                                       "fullname":  null,
+                                       "weaponText":  "양손검",
+                                       "name":  "마비카",
+                                       "substatText":  "치명타 피해",
+                                       "region":  "나타",
+                                       "gender":  "여성"
+                                   },
                        "xiao":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3557,6 +3654,47 @@
                                     "region":  "수메르",
                                     "gender":  "남성"
                                 },
+                       "yaemiko":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "달을 향한 포효",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e살생앵\u003c/color\u003e이 생성될 때의 초기 등급이 2단계까지 상승하며, 등급 최대치가 4단계까지 상승한다. 공격 범위가 60% 증가한다",
+                                                                         "description":  "살생앵이 생성될 때의 초기 등급이 2단계까지 상승하며, 등급 최대치가 4단계까지 상승한다. 공격 범위가 60% 증가한다"
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "벚꽃이 불러온 뇌장",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e살생앵\u003c/color\u003e의 낙뢰가 적을 명중하면, 근처 파티 내 모든 캐릭터가 \u003ccolor=#FFACFFFF\u003e번개 원소 피해 보너스\u003c/color\u003e를 20% 획득한다. 지속 시간: 5초",
+                                                                         "description":  "살생앵의 낙뢰가 적을 명중하면, 근처 파티 내 모든 캐릭터가 번개 원소 피해 보너스를 20% 획득한다. 지속 시간: 5초"
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "신묘한 7단 변화",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e야칸의 소환·살생앵\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                         "description":  "야칸의 소환·살생앵의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "폭악 조소의 가면",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e대비법·천호(天狐)현신\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                         "description":  "대비법·천호(天狐)현신의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "대살생의 저주",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e살생앵\u003c/color\u003e 공격이 적의 방어력을 60% 무시한다",
+                                                                         "description":  "살생앵 공격이 적의 방어력을 60% 무시한다"
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "여우의 제물",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e대비법·천호(天狐) 현신\u003c/color\u003e으로 천호 뇌정을 1회 발동할 때마다 야에 미코 자신의 원소 에너지를 8pt 회복한다",
+                                                                         "description":  "대비법·천호(天狐) 현신으로 천호 뇌정을 1회 발동할 때마다 야에 미코 자신의 원소 에너지를 8pt 회복한다"
+                                                                     }
+                                                          },
+                                       "elementText":  "번개",
+                                       "fullname":  null,
+                                       "weaponText":  "법구",
+                                       "name":  "야에 미코",
+                                       "substatText":  "치명타 확률",
+                                       "region":  "이나즈마",
+                                       "gender":  "여성"
+                                   },
                        "kinich":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -4288,47 +4426,47 @@
                                              "region":  "이나즈마",
                                              "gender":  "여성"
                                          },
-                       "yaemiko":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "달을 향한 포효",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e살생앵\u003c/color\u003e이 생성될 때의 초기 등급이 2단계까지 상승하며, 등급 최대치가 4단계까지 상승한다. 공격 범위가 60% 증가한다",
-                                                                         "description":  "살생앵이 생성될 때의 초기 등급이 2단계까지 상승하며, 등급 최대치가 4단계까지 상승한다. 공격 범위가 60% 증가한다"
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "벚꽃이 불러온 뇌장",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e살생앵\u003c/color\u003e의 낙뢰가 적을 명중하면, 근처 파티 내 모든 캐릭터가 \u003ccolor=#FFACFFFF\u003e번개 원소 피해 보너스\u003c/color\u003e를 20% 획득한다. 지속 시간: 5초",
-                                                                         "description":  "살생앵의 낙뢰가 적을 명중하면, 근처 파티 내 모든 캐릭터가 번개 원소 피해 보너스를 20% 획득한다. 지속 시간: 5초"
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "신묘한 7단 변화",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e야칸의 소환·살생앵\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                         "description":  "야칸의 소환·살생앵의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "폭악 조소의 가면",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e대비법·천호(天狐)현신\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                         "description":  "대비법·천호(天狐)현신의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "대살생의 저주",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e살생앵\u003c/color\u003e 공격이 적의 방어력을 60% 무시한다",
-                                                                         "description":  "살생앵 공격이 적의 방어력을 60% 무시한다"
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "여우의 제물",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e대비법·천호(天狐) 현신\u003c/color\u003e으로 천호 뇌정을 1회 발동할 때마다 야에 미코 자신의 원소 에너지를 8pt 회복한다",
-                                                                         "description":  "대비법·천호(天狐) 현신으로 천호 뇌정을 1회 발동할 때마다 야에 미코 자신의 원소 에너지를 8pt 회복한다"
-                                                                     }
-                                                          },
-                                       "elementText":  "번개",
-                                       "fullname":  null,
-                                       "weaponText":  "법구",
-                                       "name":  "야에 미코",
-                                       "substatText":  "치명타 확률",
-                                       "region":  "이나즈마",
-                                       "gender":  "여성"
-                                   },
+                       "sangonomiyakokomi":  {
+                                                 "constellations":  {
+                                                                        "c2":  {
+                                                                                   "name":  "일렁이는 운해",
+                                                                                   "descriptionRaw":  "산고노미야 코코미의 HP 최대치에 기반하여 HP 50% 이하의 캐릭터에 대해 다음과 같은 방식으로 치유하는 회복량이 증가한다:\n·\u003ccolor=#FFD780FF\u003e해파리의 서약\u003c/color\u003e의 환영 해파리: HP 최대치의 4.5%\n·\u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 일반 공격 및 강공격: HP 최대치의 0.6%",
+                                                                                   "description":  "산고노미야 코코미의 HP 최대치에 기반하여 HP 50% 이하의 캐릭터에 대해 다음과 같은 방식으로 치유하는 회복량이 증가한다:\n·해파리의 서약의 환영 해파리: HP 최대치의 4.5%\n·해인화우(海人化羽)의 일반 공격 및 강공격: HP 최대치의 0.6%"
+                                                                               },
+                                                                        "c4":  {
+                                                                                   "name":  "물을 보살피는 달",
+                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 의식의 날개옷 상태에서 산고노미야 코코미의 일반 공격의 공격 속도가 10% 증가하고, 일반 공격으로 적 명중 시 원소 에너지를 0.8pt 회복한다.\n해당 효과는 0.2초마다 1회 발동한다",
+                                                                                   "description":  "해인화우(海人化羽)의 의식의 날개옷 상태에서 산고노미야 코코미의 일반 공격의 공격 속도가 10% 증가하고, 일반 공격으로 적 명중 시 원소 에너지를 0.8pt 회복한다.\n해당 효과는 0.2초마다 1회 발동한다"
+                                                                               },
+                                                                        "c3":  {
+                                                                                   "name":  "해변의 달빛 배",
+                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                                   "description":  "해인화우(海人化羽)의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                               },
+                                                                        "c5":  {
+                                                                                   "name":  "백천귀해",
+                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e해파리의 서약\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                                   "description":  "해파리의 서약의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                               },
+                                                                        "c6":  {
+                                                                                   "name":  "산호 일심",
+                                                                                   "descriptionRaw":  "산고노미야 코코미가 \u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 의식의 날개옷 상태에서 일반 공격과 강공격으로 HP가 80% 이상인 캐릭터를 치유 시, \u003ccolor=#80C0FFFF\u003e물 원소 피해 보너스\u003c/color\u003e를 40% 획득한다. 지속 시간: 4초",
+                                                                                   "description":  "산고노미야 코코미가 해인화우(海人化羽)의 의식의 날개옷 상태에서 일반 공격과 강공격으로 HP가 80% 이상인 캐릭터를 치유 시, 물 원소 피해 보너스를 40% 획득한다. 지속 시간: 4초"
+                                                                               },
+                                                                        "c1":  {
+                                                                                   "name":  "물의 흐름",
+                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 의식의 날개옷 상태에서 산고노미야 코코미 일반 공격의 마지막 일격에 헤엄치는 물고기 1마리를 추가로 방출하고, 산고노미야 코코미 HP 최대치 30%에 해당하는 \u003ccolor=#80C0FFFF\u003e물 원소 피해\u003c/color\u003e를 준다.\n해당 피해는 일반 공격 피해로 간주하지 않는다",
+                                                                                   "description":  "해인화우(海人化羽)의 의식의 날개옷 상태에서 산고노미야 코코미 일반 공격의 마지막 일격에 헤엄치는 물고기 1마리를 추가로 방출하고, 산고노미야 코코미 HP 최대치 30%에 해당하는 물 원소 피해를 준다.\n해당 피해는 일반 공격 피해로 간주하지 않는다"
+                                                                               }
+                                                                    },
+                                                 "elementText":  "물",
+                                                 "fullname":  null,
+                                                 "weaponText":  "법구",
+                                                 "name":  "산고노미야 코코미",
+                                                 "substatText":  "물 원소 피해 보너스",
+                                                 "region":  "이나즈마",
+                                                 "gender":  "여성"
+                                             },
                        "xingqiu":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -4455,47 +4593,47 @@
                        "traveler":  {
                                         "name":  "여행자"
                                     },
-                       "beidou":  {
-                                      "constellations":  {
-                                                             "c2":  {
-                                                                        "name":  "솟아오르는 천둥번개",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e작뢰\u003c/color\u003e의 체인 라이트닝이 추가로 2명의 적에게 튕긴다",
-                                                                        "description":  "작뢰의 체인 라이트닝이 추가로 2명의 적에게 튕긴다"
-                                                                    },
-                                                             "c4":  {
-                                                                        "name":  "별을 따라 찾은 고향의 땅",
-                                                                        "descriptionRaw":  "피격 후 10초 동안 북두의 일반 공격에 20%의 \u003ccolor=#FFACFFFF\u003e번개 원소 피해\u003c/color\u003e가 추가된다",
-                                                                        "description":  "피격 후 10초 동안 북두의 일반 공격에 20%의 번개 원소 피해가 추가된다"
-                                                                    },
-                                                             "c3":  {
-                                                                        "name":  "조류발전",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e파도잡이\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                        "description":  "파도잡이의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                    },
-                                                             "c5":  {
-                                                                        "name":  "파도를 비추는 노을빛",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e작뢰\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                        "description":  "작뢰의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                    },
-                                                             "c6":  {
-                                                                        "name":  "북두의 귀신 퇴치",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e작뢰\u003c/color\u003e가 지속되는 동안 주변의 적의 \u003ccolor=#FFACFFFF\u003e번개 원소 내성\u003c/color\u003e이 15% 감소한다",
-                                                                        "description":  "작뢰가 지속되는 동안 주변의 적의 번개 원소 내성이 15% 감소한다"
-                                                                    },
-                                                             "c1":  {
-                                                                        "name":  "사방으로 잠긴 어룡",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e작뢰\u003c/color\u003e 발동 시:\nHP 최대치의 16%에 해당하는 피해를 흡수하는 보호막을 생성한다. 지속 시간: 15초.\n이 보호막은 \u003ccolor=#FFACFFFF\u003e번개 원소 피해\u003c/color\u003e에 대해 250%의 흡수 효과가 있다",
-                                                                        "description":  "작뢰 발동 시:\nHP 최대치의 16%에 해당하는 피해를 흡수하는 보호막을 생성한다. 지속 시간: 15초.\n이 보호막은 번개 원소 피해에 대해 250%의 흡수 효과가 있다"
-                                                                    }
-                                                         },
-                                      "elementText":  "번개",
-                                      "fullname":  null,
-                                      "weaponText":  "양손검",
-                                      "name":  "북두",
-                                      "substatText":  "번개 원소 피해 보너스",
-                                      "region":  "리월",
-                                      "gender":  "여성"
-                                  },
+                       "citlali":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "심장을 삼키는 자의 순행",
+                                                                         "descriptionRaw":  "시틀라리의 원소 마스터리가 125pt 증가하고, 하얀빛 보호막의 보호를 받고 있거나 이즈파파가 따라다니고 있는 다른 캐릭터의 원소 마스터리가 250pt 증가한다.\n또한 원소전투 스킬 \u003ccolor=#FFD780FF\u003e검은 서리별\u003c/color\u003e 발동 시, 주변에 있는 현재 필드 위 캐릭터에게 하얀빛 보호막을 부여한다.\n\n또한 고유 특성 「다섯 번째 하늘의 서리비」 효과가 증가한다:\n이즈파파 존재 기간 동안, 주변에 있는 파티 내 캐릭터가 빙결 또는 융해 반응 발동 후, 이번 반응의 영향을 받은 적의 \u003ccolor=#FF9999FF\u003e불 원소\u003c/color\u003e와 \u003ccolor=#80C0FFFF\u003e물 원소\u003c/color\u003e 내성이 추가로 20% 감소한다, 지속 시간: 12초. 해당 효과는 고유 특성 「다섯 번째 하늘의 서리비」를 해금해야 한다",
+                                                                         "description":  "시틀라리의 원소 마스터리가 125pt 증가하고, 하얀빛 보호막의 보호를 받고 있거나 이즈파파가 따라다니고 있는 다른 캐릭터의 원소 마스터리가 250pt 증가한다.\n또한 원소전투 스킬 검은 서리별 발동 시, 주변에 있는 현재 필드 위 캐릭터에게 하얀빛 보호막을 부여한다.\n\n또한 고유 특성 「다섯 번째 하늘의 서리비」 효과가 증가한다:\n이즈파파 존재 기간 동안, 주변에 있는 파티 내 캐릭터가 빙결 또는 융해 반응 발동 후, 이번 반응의 영향을 받은 적의 불 원소와 물 원소 내성이 추가로 20% 감소한다, 지속 시간: 12초. 해당 효과는 고유 특성 「다섯 번째 하늘의 서리비」를 해금해야 한다"
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "죽음을 거부하는 자의 영혼 해골",
+                                                                         "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e검은 서리별\u003c/color\u003e의 이즈파파가 일으킨 서리운석 폭풍이 적에게 명중 시, \u003ccolor=#FFD780FF\u003e영혼 해골·검은별\u003c/color\u003e을 추가로 소환한다. 해당 방식으로 소환한 영혼 해골이 폭발 시, 시틀라리 원소 마스터리의 1800%에 해당하는 밤혼 성질의 \u003ccolor=#99FFFFFF\u003e얼음 원소 범위 피해\u003c/color\u003e를 주고, 시틀라리의 밤혼을 16pt, 원소 에너지를 8pt 회복한다. 해당 효과는 8초마다 최대 1회 발동된다. 해당 피해는 원소폭발 피해로 간주하지 않는다",
+                                                                         "description":  "원소전투 스킬 검은 서리별의 이즈파파가 일으킨 서리운석 폭풍이 적에게 명중 시, 영혼 해골·검은별을 추가로 소환한다. 해당 방식으로 소환한 영혼 해골이 폭발 시, 시틀라리 원소 마스터리의 1800%에 해당하는 밤혼 성질의 얼음 원소 범위 피해를 주고, 시틀라리의 밤혼을 16pt, 원소 에너지를 8pt 회복한다. 해당 효과는 8초마다 최대 1회 발동된다. 해당 피해는 원소폭발 피해로 간주하지 않는다"
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "구름뱀의 깃털 왕관",
+                                                                         "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e검은 서리별\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                         "description":  "원소전투 스킬 검은 서리별의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "불길한 닷새의 저주",
+                                                                         "descriptionRaw":  "원소폭발 \u003ccolor=#FFD780FF\u003e반짝이는 칙령\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                         "description":  "원소폭발 반짝이는 칙령의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "아홉 번째 하늘의 계약",
+                                                                         "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e검은 서리별\u003c/color\u003e이 소환한 이즈파파가 계속 하얀 불 상태를 유지한다. 밤혼 소진 시에도 이즈파파의 하얀 불 상태가 종료되지 않는다.\n또한 원소전투 스킬 \u003ccolor=#FFD780FF\u003e검은 서리별\u003c/color\u003e 발동 시, 이즈파파는 모든 밤혼을 소모하고 존재 기간 동안 지속적으로 밤혼을 소모한다. 해당 방식으로 밤혼을 1pt 소모하면, 시틀라리가 「신비의 수」를 1pt 획득한다.\n시틀라리가 보유한 「신비의 수」 1pt당, 주변에 있는 파티 내 모든 캐릭터가 \u003ccolor=#FF9999FF\u003e불 원소\u003c/color\u003e와 \u003ccolor=#80C0FFFF\u003e물 원소\u003c/color\u003e 피해 보너스를 1.5% 획득하고 시틀라리가 주는 피해가 2.5% 증가한다. 「신비의 수」 최대치: 40pt.\n이즈파파가 퇴장 또는 원소 전투 스킬 재발동 시, 시틀라리가 보유한 「신비의 수」가 사라진다",
+                                                                         "description":  "원소전투 스킬 검은 서리별이 소환한 이즈파파가 계속 하얀 불 상태를 유지한다. 밤혼 소진 시에도 이즈파파의 하얀 불 상태가 종료되지 않는다.\n또한 원소전투 스킬 검은 서리별 발동 시, 이즈파파는 모든 밤혼을 소모하고 존재 기간 동안 지속적으로 밤혼을 소모한다. 해당 방식으로 밤혼을 1pt 소모하면, 시틀라리가 「신비의 수」를 1pt 획득한다.\n시틀라리가 보유한 「신비의 수」 1pt당, 주변에 있는 파티 내 모든 캐릭터가 불 원소와 물 원소 피해 보너스를 1.5% 획득하고 시틀라리가 주는 피해가 2.5% 증가한다. 「신비의 수」 최대치: 40pt.\n이즈파파가 퇴장 또는 원소 전투 스킬 재발동 시, 시틀라리가 보유한 「신비의 수」가 사라진다"
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "사백 개의 별빛",
+                                                                         "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e검은 서리별\u003c/color\u003e 발동 시, 시틀라리는 이즈파파가 퇴장 전까지 지속되는 「흰별 치마」 효과를 획득한다: 지속 시간 동안 시틀라리가 「별빛 검」 효과를 10스택 획득한다. 주변에 있는 시틀라리를 제외한 현재 필드 위 캐릭터가 일반 공격, 강공격, 낙하 공격, 원소전투 스킬 또는 원소폭발로 피해를 줄 시, 「별빛 검」 1스택을 소모해 주는 피해를 시틀라리 원소 마스터리의 200%만큼 증가시킨다.\n주변에 있는 파티 내 캐릭터가 빙결 또는 융해 반응 발동 후, 시틀라리가 「별빛 검」을 추가로 3스택 획득한다. 해당 효과는 8초마다 최대 1회 발동된다.\n\n원소전투 스킬 \u003ccolor=#FFD780FF\u003e검은 서리별\u003c/color\u003e 발동 시, 「별빛 검」의 스택이 갱신된다.\n또한 시틀라리가 도약하거나 공중에서 조준 혹은 강공격 진행 시, 소모되는 열소가 45% 감소한다",
+                                                                         "description":  "원소전투 스킬 검은 서리별 발동 시, 시틀라리는 이즈파파가 퇴장 전까지 지속되는 「흰별 치마」 효과를 획득한다: 지속 시간 동안 시틀라리가 「별빛 검」 효과를 10스택 획득한다. 주변에 있는 시틀라리를 제외한 현재 필드 위 캐릭터가 일반 공격, 강공격, 낙하 공격, 원소전투 스킬 또는 원소폭발로 피해를 줄 시, 「별빛 검」 1스택을 소모해 주는 피해를 시틀라리 원소 마스터리의 200%만큼 증가시킨다.\n주변에 있는 파티 내 캐릭터가 빙결 또는 융해 반응 발동 후, 시틀라리가 「별빛 검」을 추가로 3스택 획득한다. 해당 효과는 8초마다 최대 1회 발동된다.\n\n원소전투 스킬 검은 서리별 발동 시, 「별빛 검」의 스택이 갱신된다.\n또한 시틀라리가 도약하거나 공중에서 조준 혹은 강공격 진행 시, 소모되는 열소가 45% 감소한다"
+                                                                     }
+                                                          },
+                                       "elementText":  "얼음",
+                                       "fullname":  null,
+                                       "weaponText":  "법구",
+                                       "name":  "시틀라리",
+                                       "substatText":  "원소 마스터리",
+                                       "region":  "나타",
+                                       "gender":  "여성"
+                                   },
                        "gorou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -4916,88 +5054,50 @@
                                      "region":  "몬드",
                                      "gender":  "남성"
                                  },
-                       "mona":  {
-                                    "constellations":  {
-                                                           "c2":  {
-                                                                      "name":  "성월의 연주",
-                                                                      "descriptionRaw":  "일반 공격 명중 시 20%의 확률로 강공격을 1회 추가 발동한다.\n해당 효과는 5초마다 1회만 발동한다",
-                                                                      "description":  "일반 공격 명중 시 20%의 확률로 강공격을 1회 추가 발동한다.\n해당 효과는 5초마다 1회만 발동한다"
-                                                                  },
-                                                           "c4":  {
-                                                                      "name":  "절멸의 예언",
-                                                                      "descriptionRaw":  "파티 내 모든 캐릭터가 성이 상태의 적을 공격 시 치명타 확률이 15% 증가한다",
-                                                                      "description":  "파티 내 모든 캐릭터가 성이 상태의 적을 공격 시 치명타 확률이 15% 증가한다"
-                                                                  },
-                                                           "c3":  {
-                                                                      "name":  "멈추지 않는 천상",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e별의 운명\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                      "description":  "별의 운명의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                  },
-                                                           "c5":  {
-                                                                      "name":  "운명의 우롱",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e수중 환원\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                      "description":  "수중 환원의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                  },
-                                                           "c6":  {
-                                                                      "name":  "악운의 수식",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e흐르는 허와 실\u003c/color\u003e 상태에 진입 후 1초 이동할 때마다 모나의 다음 강공격 피해가 60% 증가한다.\n이러한 방식으로 강공격 피해가 최대 180%까지 증가할 수 있다. 최대 지속 시간: 8초",
-                                                                      "description":  "흐르는 허와 실 상태에 진입 후 1초 이동할 때마다 모나의 다음 강공격 피해가 60% 증가한다.\n이러한 방식으로 강공격 피해가 최대 180%까지 증가할 수 있다. 최대 지속 시간: 8초"
-                                                                  },
-                                                           "c1":  {
-                                                                      "name":  "침몰한 예언",
-                                                                      "descriptionRaw":  "파티 내 자신의 캐릭터의 공격이 성이 상태의 적에게 명중 후 8초 동안 \u003ccolor=#80C0FFFF\u003e물 원소 관련 반응\u003c/color\u003e의 효과가 증가한다:\n·감전 반응으로 주는 피해+15%, 증발 반응으로 주는 피해+15%, 물 원소 확산 반응으로 주는 피해+15%\n·빙결 반응 지속 시간+15%",
-                                                                      "description":  "파티 내 자신의 캐릭터의 공격이 성이 상태의 적에게 명중 후 8초 동안 물 원소 관련 반응의 효과가 증가한다:\n·감전 반응으로 주는 피해+15%, 증발 반응으로 주는 피해+15%, 물 원소 확산 반응으로 주는 피해+15%\n·빙결 반응 지속 시간+15%"
-                                                                  }
-                                                       },
-                                    "elementText":  "물",
-                                    "fullname":  null,
-                                    "weaponText":  "법구",
-                                    "name":  "모나",
-                                    "substatText":  "원소 충전 효율",
-                                    "region":  "몬드",
-                                    "gender":  "여성"
-                                },
-                       "sangonomiyakokomi":  {
-                                                 "constellations":  {
-                                                                        "c2":  {
-                                                                                   "name":  "일렁이는 운해",
-                                                                                   "descriptionRaw":  "산고노미야 코코미의 HP 최대치에 기반하여 HP 50% 이하의 캐릭터에 대해 다음과 같은 방식으로 치유하는 회복량이 증가한다:\n·\u003ccolor=#FFD780FF\u003e해파리의 서약\u003c/color\u003e의 환영 해파리: HP 최대치의 4.5%\n·\u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 일반 공격 및 강공격: HP 최대치의 0.6%",
-                                                                                   "description":  "산고노미야 코코미의 HP 최대치에 기반하여 HP 50% 이하의 캐릭터에 대해 다음과 같은 방식으로 치유하는 회복량이 증가한다:\n·해파리의 서약의 환영 해파리: HP 최대치의 4.5%\n·해인화우(海人化羽)의 일반 공격 및 강공격: HP 최대치의 0.6%"
-                                                                               },
-                                                                        "c4":  {
-                                                                                   "name":  "물을 보살피는 달",
-                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 의식의 날개옷 상태에서 산고노미야 코코미의 일반 공격의 공격 속도가 10% 증가하고, 일반 공격으로 적 명중 시 원소 에너지를 0.8pt 회복한다.\n해당 효과는 0.2초마다 1회 발동한다",
-                                                                                   "description":  "해인화우(海人化羽)의 의식의 날개옷 상태에서 산고노미야 코코미의 일반 공격의 공격 속도가 10% 증가하고, 일반 공격으로 적 명중 시 원소 에너지를 0.8pt 회복한다.\n해당 효과는 0.2초마다 1회 발동한다"
-                                                                               },
-                                                                        "c3":  {
-                                                                                   "name":  "해변의 달빛 배",
-                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                                   "description":  "해인화우(海人化羽)의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                               },
-                                                                        "c5":  {
-                                                                                   "name":  "백천귀해",
-                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e해파리의 서약\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                                   "description":  "해파리의 서약의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                               },
-                                                                        "c6":  {
-                                                                                   "name":  "산호 일심",
-                                                                                   "descriptionRaw":  "산고노미야 코코미가 \u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 의식의 날개옷 상태에서 일반 공격과 강공격으로 HP가 80% 이상인 캐릭터를 치유 시, \u003ccolor=#80C0FFFF\u003e물 원소 피해 보너스\u003c/color\u003e를 40% 획득한다. 지속 시간: 4초",
-                                                                                   "description":  "산고노미야 코코미가 해인화우(海人化羽)의 의식의 날개옷 상태에서 일반 공격과 강공격으로 HP가 80% 이상인 캐릭터를 치유 시, 물 원소 피해 보너스를 40% 획득한다. 지속 시간: 4초"
-                                                                               },
-                                                                        "c1":  {
-                                                                                   "name":  "물의 흐름",
-                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e해인화우(海人化羽)\u003c/color\u003e의 의식의 날개옷 상태에서 산고노미야 코코미 일반 공격의 마지막 일격에 헤엄치는 물고기 1마리를 추가로 방출하고, 산고노미야 코코미 HP 최대치 30%에 해당하는 \u003ccolor=#80C0FFFF\u003e물 원소 피해\u003c/color\u003e를 준다.\n해당 피해는 일반 공격 피해로 간주하지 않는다",
-                                                                                   "description":  "해인화우(海人化羽)의 의식의 날개옷 상태에서 산고노미야 코코미 일반 공격의 마지막 일격에 헤엄치는 물고기 1마리를 추가로 방출하고, 산고노미야 코코미 HP 최대치 30%에 해당하는 물 원소 피해를 준다.\n해당 피해는 일반 공격 피해로 간주하지 않는다"
-                                                                               }
-                                                                    },
-                                                 "elementText":  "물",
-                                                 "fullname":  null,
-                                                 "weaponText":  "법구",
-                                                 "name":  "산고노미야 코코미",
-                                                 "substatText":  "물 원소 피해 보너스",
-                                                 "region":  "이나즈마",
-                                                 "gender":  "여성"
-                                             },
+                       "travelerpyro":  {
+                                            "constellations":  {
+                                                                   "c2":  {
+                                                                              "name":  "영속의 촛불",
+                                                                              "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e타오르는 검\u003c/color\u003e 발동 후, 12초 동안 주변의 파티 내 캐릭터가 적에게 \u003ccolor=#FF9999FF\u003e불 원소 관련 반응\u003c/color\u003e을 발동하면 여행자의 밤혼이 14pt 회복된다. 원소전투 스킬 \u003ccolor=#FFD780FF\u003e타오르는 검\u003c/color\u003e을 발동할 때마다 해당 방식으로 밤혼을 최대 28pt 회복할 수 있다",
+                                                                              "description":  "원소전투 스킬 타오르는 검 발동 후, 12초 동안 주변의 파티 내 캐릭터가 적에게 불 원소 관련 반응을 발동하면 여행자의 밤혼이 14pt 회복된다. 원소전투 스킬 타오르는 검을 발동할 때마다 해당 방식으로 밤혼을 최대 28pt 회복할 수 있다"
+                                                                          },
+                                                                   "c4":  {
+                                                                              "name":  "작열의 불길",
+                                                                              "descriptionRaw":  "원소폭발 \u003ccolor=#FFD780FF\u003e번지는 들불\u003c/color\u003e 발동 후, 여행자가 \u003ccolor=#FF9999FF\u003e불 원소 피해 보너스\u003c/color\u003e를 20% 획득한다, 지속 시간: 9초",
+                                                                              "description":  "원소폭발 번지는 들불 발동 후, 여행자가 불 원소 피해 보너스를 20% 획득한다, 지속 시간: 9초"
+                                                                          },
+                                                                   "c3":  {
+                                                                              "name":  "전달의 봉화",
+                                                                              "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e타오르는 검\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                              "description":  "원소전투 스킬 타오르는 검의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                          },
+                                                                   "c5":  {
+                                                                              "name":  "불멸의 횃불",
+                                                                              "descriptionRaw":  "원소폭발 \u003ccolor=#FFD780FF\u003e번지는 들불\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                              "description":  "원소폭발 번지는 들불의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                          },
+                                                                   "c6":  {
+                                                                              "name":  "영원의 성화",
+                                                                              "descriptionRaw":  "밤혼 가호 상태에서 여행자의 일반 공격, 강공격 및 낙하 공격이 다른 원소 부여 효과로 대체될 수 없는 밤혼 성질의 \u003ccolor=#FF9999FF\u003e불 원소 피해\u003c/color\u003e로 전환되고, 해당 공격의 치명타 피해가 40% 증가한다",
+                                                                              "description":  "밤혼 가호 상태에서 여행자의 일반 공격, 강공격 및 낙하 공격이 다른 원소 부여 효과로 대체될 수 없는 밤혼 성질의 불 원소 피해로 전환되고, 해당 공격의 치명타 피해가 40% 증가한다"
+                                                                          },
+                                                                   "c1":  {
+                                                                              "name":  "유성의 불빛",
+                                                                              "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e불길 고리\u003c/color\u003e 또는 \u003ccolor=#FFD780FF\u003e불꽃 고리\u003c/color\u003e 존재 기간 동안 현재 필드 위 캐릭터가 주는 피해가 6% 증가한다. 만약 현재 필드 위 캐릭터가 밤혼 가호 상태일 경우 주는 피해가 추가로 9% 증가한다",
+                                                                              "description":  "불길 고리 또는 불꽃 고리 존재 기간 동안 현재 필드 위 캐릭터가 주는 피해가 6% 증가한다. 만약 현재 필드 위 캐릭터가 밤혼 가호 상태일 경우 주는 피해가 추가로 9% 증가한다"
+                                                                          }
+                                                               }
+                                        },
+                       "aether":  {
+                                      "constellations":  null,
+                                      "elementText":  "없음",
+                                      "fullname":  null,
+                                      "weaponText":  "한손검",
+                                      "name":  "아이테르",
+                                      "substatText":  "공격력",
+                                      "region":  "",
+                                      "gender":  "남성"
+                                  },
                        "travelerelectro":  {
                                                "constellations":  {
                                                                       "c2":  {
@@ -5599,16 +5699,88 @@
                                            "region":  "이나즈마",
                                            "gender":  "남성"
                                        },
-                       "aether":  {
-                                      "constellations":  null,
-                                      "elementText":  "없음",
+                       "lanyan":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "「옥빛 무지개를 그리며 춤추고」",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e현조 보호막\u003c/color\u003e 존재 기간 동안, 파티 내 자신의 현재 필드 위 캐릭터의 일반 공격이 피해를 줄 시, 현조 보호막의 피해 흡수량이 40% 회복된다. 보호막 생성 시의 피해 흡수량을 초과 회복할 수 없으며, 해당 효과는 2초마다 최대 1회 발동된다",
+                                                                        "description":  "현조 보호막 존재 기간 동안, 파티 내 자신의 현재 필드 위 캐릭터의 일반 공격이 피해를 줄 시, 현조 보호막의 피해 흡수량이 40% 회복된다. 보호막 생성 시의 피해 흡수량을 초과 회복할 수 없으며, 해당 효과는 2초마다 최대 1회 발동된다"
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "「용매를 모아 혈주를 만드니」",
+                                                                        "descriptionRaw":  "원소폭발 \u003ccolor=#FFD780FF\u003e달을 밟는 제비\u003c/color\u003e 발동 후 12초 동안, 파티 내 주변에 있는 모든 캐릭터의 원소 마스터리가 60pt 증가한다",
+                                                                        "description":  "원소폭발 달을 밟는 제비 발동 후 12초 동안, 파티 내 주변에 있는 모든 캐릭터의 원소 마스터리가 60pt 증가한다"
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "「흰 봉황에 올라타 안개를 가르며」",
+                                                                        "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e현조의 날갯짓\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                        "description":  "원소전투 스킬 현조의 날갯짓의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "「그대를 만난 이 기쁨을」",
+                                                                        "descriptionRaw":  "원소폭발 \u003ccolor=#FFD780FF\u003e달을 밟는 제비\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                        "description":  "원소폭발 달을 밟는 제비의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "「은빛 제비처럼 바람 따라 노래하리라」",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e현조의 날갯짓\u003c/color\u003e의 사용 가능 횟수가 1회 증가한다",
+                                                                        "description":  "현조의 날갯짓의 사용 가능 횟수가 1회 증가한다"
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "「구름 사이에 그대가 보이네」",
+                                                                        "descriptionRaw":  "고유 특성 「사방 봉인검의 점괘」의 원소 전환 발동 후, 남연이 이번 원소전투 스킬 \u003ccolor=#FFD780FF\u003e현조의 날갯짓\u003c/color\u003e의 달빛 제비 고리를 적에게 투척 시, 추가로 달빛 제비 고리를 1개 더 투척한다.\n고유 특성 「사방 봉인검의 점괘」를 해금해야 한다",
+                                                                        "description":  "고유 특성 「사방 봉인검의 점괘」의 원소 전환 발동 후, 남연이 이번 원소전투 스킬 현조의 날갯짓의 달빛 제비 고리를 적에게 투척 시, 추가로 달빛 제비 고리를 1개 더 투척한다.\n고유 특성 「사방 봉인검의 점괘」를 해금해야 한다"
+                                                                    }
+                                                         },
+                                      "elementText":  "바람",
                                       "fullname":  null,
-                                      "weaponText":  "한손검",
-                                      "name":  "아이테르",
+                                      "weaponText":  "법구",
+                                      "name":  "남연",
                                       "substatText":  "공격력",
-                                      "region":  "",
-                                      "gender":  "남성"
+                                      "region":  "리월",
+                                      "gender":  "여성"
                                   },
+                       "mona":  {
+                                    "constellations":  {
+                                                           "c2":  {
+                                                                      "name":  "성월의 연주",
+                                                                      "descriptionRaw":  "일반 공격 명중 시 20%의 확률로 강공격을 1회 추가 발동한다.\n해당 효과는 5초마다 1회만 발동한다",
+                                                                      "description":  "일반 공격 명중 시 20%의 확률로 강공격을 1회 추가 발동한다.\n해당 효과는 5초마다 1회만 발동한다"
+                                                                  },
+                                                           "c4":  {
+                                                                      "name":  "절멸의 예언",
+                                                                      "descriptionRaw":  "파티 내 모든 캐릭터가 성이 상태의 적을 공격 시 치명타 확률이 15% 증가한다",
+                                                                      "description":  "파티 내 모든 캐릭터가 성이 상태의 적을 공격 시 치명타 확률이 15% 증가한다"
+                                                                  },
+                                                           "c3":  {
+                                                                      "name":  "멈추지 않는 천상",
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e별의 운명\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                      "description":  "별의 운명의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                  },
+                                                           "c5":  {
+                                                                      "name":  "운명의 우롱",
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e수중 환원\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                      "description":  "수중 환원의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                  },
+                                                           "c6":  {
+                                                                      "name":  "악운의 수식",
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e흐르는 허와 실\u003c/color\u003e 상태에 진입 후 1초 이동할 때마다 모나의 다음 강공격 피해가 60% 증가한다.\n이러한 방식으로 강공격 피해가 최대 180%까지 증가할 수 있다. 최대 지속 시간: 8초",
+                                                                      "description":  "흐르는 허와 실 상태에 진입 후 1초 이동할 때마다 모나의 다음 강공격 피해가 60% 증가한다.\n이러한 방식으로 강공격 피해가 최대 180%까지 증가할 수 있다. 최대 지속 시간: 8초"
+                                                                  },
+                                                           "c1":  {
+                                                                      "name":  "침몰한 예언",
+                                                                      "descriptionRaw":  "파티 내 자신의 캐릭터의 공격이 성이 상태의 적에게 명중 후 8초 동안 \u003ccolor=#80C0FFFF\u003e물 원소 관련 반응\u003c/color\u003e의 효과가 증가한다:\n·감전 반응으로 주는 피해+15%, 증발 반응으로 주는 피해+15%, 물 원소 확산 반응으로 주는 피해+15%\n·빙결 반응 지속 시간+15%",
+                                                                      "description":  "파티 내 자신의 캐릭터의 공격이 성이 상태의 적에게 명중 후 8초 동안 물 원소 관련 반응의 효과가 증가한다:\n·감전 반응으로 주는 피해+15%, 증발 반응으로 주는 피해+15%, 물 원소 확산 반응으로 주는 피해+15%\n·빙결 반응 지속 시간+15%"
+                                                                  }
+                                                       },
+                                    "elementText":  "물",
+                                    "fullname":  null,
+                                    "weaponText":  "법구",
+                                    "name":  "모나",
+                                    "substatText":  "원소 충전 효율",
+                                    "region":  "몬드",
+                                    "gender":  "여성"
+                                },
                        "barbara":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -6012,47 +6184,47 @@
                                       "region":  "리월",
                                       "gender":  "남성"
                                   },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "전력을 다하는 말라니!",
-                                                                         "descriptionRaw":  "밤혼 가호 상태 진입 시, 말라니는 \u003ccolor=#FFD780FF\u003e파도를 가르는 샤크\u003c/color\u003e의 파도 기세를 2스택 획득한다. 말라니가 빵빵볼 획득 시, 파도 기세를 1스택 획득한다.\n또한 말라니가 한 번의 밤혼 가호 기간 동안 빵빵볼을 2개 획득하면, 2초 동안 추가로 밤혼 12pt를 회복한다.\n고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다",
-                                                                         "description":  "밤혼 가호 상태 진입 시, 말라니는 파도를 가르는 샤크의 파도 기세를 2스택 획득한다. 말라니가 빵빵볼 획득 시, 파도 기세를 1스택 획득한다.\n또한 말라니가 한 번의 밤혼 가호 기간 동안 빵빵볼을 2개 획득하면, 2초 동안 추가로 밤혼 12pt를 회복한다.\n고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다"
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "샤크의 주식은 빵빵이",
-                                                                         "descriptionRaw":  "빵빵볼 획득 시, 말라니가 원소 에너지를 8pt 회복한다. 해당 효과는 고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다.\n또한 \u003ccolor=#FFD780FF\u003e보글보글탄\u003c/color\u003e으로 주는 피해가 75% 증가한다",
-                                                                         "description":  "빵빵볼 획득 시, 말라니가 원소 에너지를 8pt 회복한다. 해당 효과는 고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다.\n또한 보글보글탄으로 주는 피해가 75% 증가한다"
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "즐거운 바다 서핑",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e파도를 가르는 샤크\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                         "description":  "파도를 가르는 샤크의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "같은 서핑보드 판매 중!",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e보글보글탄\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
-                                                                         "description":  "보글보글탄의 스킬 레벨+3\n최대 Lv.15까지 상승"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "「샘물 무리」의 정신",
-                                                                         "descriptionRaw":  "운명의 자리 「여유로운 「메즈틀리」…」의 피해 증가 효과 설명 중, 「밤혼 가호 상태 진입 후 첫」 제한이 사라진다",
-                                                                         "description":  "운명의 자리 「여유로운 「메즈틀리」…」의 피해 증가 효과 설명 중, 「밤혼 가호 상태 진입 후 첫」 제한이 사라진다"
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "여유로운 「메즈틀리」…",
-                                                                         "descriptionRaw":  "밤혼 가호 상태 진입 후 첫 빅샤크 물어뜯기와 해당 공격으로 발동된 샤크 폭탄으로 주는 피해가 증가한다. 증가량은 말라니 HP 최대치의 66%에 해당한다. 해당 피해 증가는 \u003ccolor=#FFD780FF\u003e파도를 가르는 샤크\u003c/color\u003e의 피해 감소 규칙을 따른다.\n또한 전투 상태가 아닐 시, 말라니의 밤혼 가호 상태가 소모하는 밤혼과 열소가 30% 감소한다",
-                                                                         "description":  "밤혼 가호 상태 진입 후 첫 빅샤크 물어뜯기와 해당 공격으로 발동된 샤크 폭탄으로 주는 피해가 증가한다. 증가량은 말라니 HP 최대치의 66%에 해당한다. 해당 피해 증가는 파도를 가르는 샤크의 피해 감소 규칙을 따른다.\n또한 전투 상태가 아닐 시, 말라니의 밤혼 가호 상태가 소모하는 밤혼과 열소가 30% 감소한다"
-                                                                     }
-                                                          },
-                                       "elementText":  "물",
-                                       "fullname":  null,
-                                       "weaponText":  "법구",
-                                       "name":  "말라니",
-                                       "substatText":  "치명타 확률",
-                                       "region":  "나타",
-                                       "gender":  "여성"
-                                   },
+                       "beidou":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "솟아오르는 천둥번개",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e작뢰\u003c/color\u003e의 체인 라이트닝이 추가로 2명의 적에게 튕긴다",
+                                                                        "description":  "작뢰의 체인 라이트닝이 추가로 2명의 적에게 튕긴다"
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "별을 따라 찾은 고향의 땅",
+                                                                        "descriptionRaw":  "피격 후 10초 동안 북두의 일반 공격에 20%의 \u003ccolor=#FFACFFFF\u003e번개 원소 피해\u003c/color\u003e가 추가된다",
+                                                                        "description":  "피격 후 10초 동안 북두의 일반 공격에 20%의 번개 원소 피해가 추가된다"
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "조류발전",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e파도잡이\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                        "description":  "파도잡이의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "파도를 비추는 노을빛",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e작뢰\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                        "description":  "작뢰의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "북두의 귀신 퇴치",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e작뢰\u003c/color\u003e가 지속되는 동안 주변의 적의 \u003ccolor=#FFACFFFF\u003e번개 원소 내성\u003c/color\u003e이 15% 감소한다",
+                                                                        "description":  "작뢰가 지속되는 동안 주변의 적의 번개 원소 내성이 15% 감소한다"
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "사방으로 잠긴 어룡",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e작뢰\u003c/color\u003e 발동 시:\nHP 최대치의 16%에 해당하는 피해를 흡수하는 보호막을 생성한다. 지속 시간: 15초.\n이 보호막은 \u003ccolor=#FFACFFFF\u003e번개 원소 피해\u003c/color\u003e에 대해 250%의 흡수 효과가 있다",
+                                                                        "description":  "작뢰 발동 시:\nHP 최대치의 16%에 해당하는 피해를 흡수하는 보호막을 생성한다. 지속 시간: 15초.\n이 보호막은 번개 원소 피해에 대해 250%의 흡수 효과가 있다"
+                                                                    }
+                                                         },
+                                      "elementText":  "번개",
+                                      "fullname":  null,
+                                      "weaponText":  "양손검",
+                                      "name":  "북두",
+                                      "substatText":  "번개 원소 피해 보너스",
+                                      "region":  "리월",
+                                      "gender":  "여성"
+                                  },
                        "nilou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6118,8 +6290,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "결투·투쟁의 영광",
-                                                                        "descriptionRaw":  "차스카의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e에 필요한 차지 시간이 감소한다. 또한 고유 특성 「총알 트릭」의 「결속 전환」 발동 후, 차스카가 「수확」 상태를 획득한다. 이어지는 3초 동안 차스카의 다음번 원소전투 스킬 \u003ccolor=#FFD780FF\u003e영혼 올가미\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e 발동 시 차지가 즉시 완료되고, 이번 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e의\u003ccolor=#FFD780FF\u003e그림자 추적탄\u003c/color\u003e과 \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e의 치명타 피해가 120% 증가한다. 3초마다 「수확」 효과를 최대 1회 획득할 수 있다.\n\n상술한 효과는 고유 특성 「총알 트릭」을 해금해야 한다",
-                                                                        "description":  "차스카의 다중 조준에 필요한 차지 시간이 감소한다. 또한 고유 특성 「총알 트릭」의 「결속 전환」 발동 후, 차스카가 「수확」 상태를 획득한다. 이어지는 3초 동안 차스카의 다음번 원소전투 스킬 영혼 올가미의 다중 조준 발동 시 차지가 즉시 완료되고, 이번 다중 조준의그림자 추적탄과 빛나는 그림자 추적탄의 치명타 피해가 120% 증가한다. 3초마다 「수확」 효과를 최대 1회 획득할 수 있다.\n\n상술한 효과는 고유 특성 「총알 트릭」을 해금해야 한다"
+                                                                        "descriptionRaw":  "차스카의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e에 필요한 차지 시간이 감소한다. 또한 고유 특성 「총알 트릭」의 「결속 전환」 발동 후, 차스카가 「수확」 상태를 획득한다. 이어지는 3초 동안 차스카의 다음번 원소전투 스킬 \u003ccolor=#FFD780FF\u003e영혼 올가미\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e 발동 시 차지가 즉시 완료되고, 이번 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e그림자 추적탄\u003c/color\u003e과 \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e의 치명타 피해가 120% 증가한다. 3초마다 「수확」 효과를 최대 1회 획득할 수 있다.\n\n상술한 효과는 고유 특성 「총알 트릭」을 해금해야 한다",
+                                                                        "description":  "차스카의 다중 조준에 필요한 차지 시간이 감소한다. 또한 고유 특성 「총알 트릭」의 「결속 전환」 발동 후, 차스카가 「수확」 상태를 획득한다. 이어지는 3초 동안 차스카의 다음번 원소전투 스킬 영혼 올가미의 다중 조준 발동 시 차지가 즉시 완료되고, 이번 다중 조준의 그림자 추적탄과 빛나는 그림자 추적탄의 치명타 피해가 120% 증가한다. 3초마다 「수확」 효과를 최대 1회 획득할 수 있다.\n\n상술한 효과는 고유 특성 「총알 트릭」을 해금해야 한다"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "탄창·회전하는 실린더",
@@ -6553,65 +6725,85 @@
                                                  },
                                           "effectName":  "불굴"
                                       },
-                    "wineandsong":  {
-                                        "r3":  {
-                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 18% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 30% 증가한다. 지속 시간: 5초",
-                                                   "values":  [
-                                                                  "18%",
-                                                                  "30%"
-                                                              ]
-                                               },
-                                        "r5":  {
-                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 22% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 40% 증가한다. 지속 시간: 5초",
-                                                   "values":  [
-                                                                  "22%",
-                                                                  "40%"
-                                                              ]
-                                               },
-                                        "r2":  {
-                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 16% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 25% 증가한다. 지속 시간: 5초",
-                                                   "values":  [
-                                                                  "16%",
-                                                                  "25%"
-                                                              ]
-                                               },
-                                        "r4":  {
-                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 20% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 35% 증가한다. 지속 시간: 5초",
-                                                   "values":  [
-                                                                  "20%",
-                                                                  "35%"
-                                                              ]
-                                               },
-                                        "substatText":  "원소 충전 효율",
-                                        "weaponText":  "법구",
-                                        "name":  "뒷골목의 술과 시",
-                                        "effectTemplateRaw":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e 증가한다. 지속 시간: 5초",
-                                        "r1":  {
-                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 14% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 20% 증가한다. 지속 시간: 5초",
-                                                   "values":  [
-                                                                  "14%",
-                                                                  "20%"
-                                                              ]
-                                               },
-                                        "effectName":  "변화무쌍"
-                                    },
-                    "prizedisshinblade":  {
-                                              "r3":  null,
-                                              "r5":  null,
-                                              "r2":  null,
-                                              "r4":  null,
-                                              "substatText":  "공격력",
-                                              "weaponText":  "한손검",
-                                              "name":  "「잇신의 기술」 명검",
-                                              "effectTemplateRaw":  "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 원령을 발동해 공격력의 180%에 해당하는 범위 피해를 주고, 공격력의 100%에 해당하는 HP를 회복한다. 해당 효과는 8초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 주는 피해가 50% 감소한다",
-                                              "r1":  {
-                                                         "description":  "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 원령을 발동해 공격력의 180%에 해당하는 범위 피해를 주고, 공격력의 100%에 해당하는 HP를 회복한다. 해당 효과는 8초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 주는 피해가 50% 감소한다",
-                                                         "values":  [
-
-                                                                    ]
-                                                     },
-                                              "effectName":  "배회하는 칼날"
-                                          },
+                    "starcallerswatch":  {
+                                             "r3":  {
+                                                        "description":  "원소 마스터리가 150pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 42% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+                                                        "values":  [
+                                                                       "150",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "원소 마스터리가 200pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 56% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+                                                        "values":  [
+                                                                       "200",
+                                                                       "56%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "원소 마스터리가 125pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 35% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+                                                        "values":  [
+                                                                       "125",
+                                                                       "35%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "원소 마스터리가 175pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 49% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+                                                        "values":  [
+                                                                       "175",
+                                                                       "49%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "원소 마스터리",
+                                             "weaponText":  "법구",
+                                             "name":  "별지기의 시선",
+                                             "effectTemplateRaw":  "원소 마스터리가 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003ept 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+                                             "r1":  {
+                                                        "description":  "원소 마스터리가 100pt 증가한다. 장착 캐릭터가 보호막 생성 후, 15초 동안 「밤을 비추는 거울」 효과를 획득한다: 현재 필드 위에 있는 파티 내 자신의 캐릭터가 주변에 있는 적에게 주는 피해가 28% 증가한다. 「밤을 비추는 거울」 효과는 14초마다 최대 1회 획득할 수 있다",
+                                                        "values":  [
+                                                                       "100",
+                                                                       "28%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "바람과 태양에 바치는 연기 제사"
+                                         },
+                    "recurvebow":  {
+                                       "r3":  {
+                                                  "description":  "적을 처치하면 HP를 12% 회복한다",
+                                                  "values":  [
+                                                                 "12%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "적을 처치하면 HP를 16% 회복한다",
+                                                  "values":  [
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "적을 처치하면 HP를 10% 회복한다",
+                                                  "values":  [
+                                                                 "10%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "적을 처치하면 HP를 14% 회복한다",
+                                                  "values":  [
+                                                                 "14%"
+                                                             ]
+                                              },
+                                       "substatText":  "HP",
+                                       "weaponText":  "활",
+                                       "name":  "곡궁",
+                                       "effectTemplateRaw":  "적을 처치하면 HP를 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e 회복한다",
+                                       "r1":  {
+                                                  "description":  "적을 처치하면 HP를 8% 회복한다",
+                                                  "values":  [
+                                                                 "8%"
+                                                             ]
+                                              },
+                                       "effectName":  "수확"
+                                   },
                     "eyeofperception":  {
                                             "r3":  {
                                                        "description":  "일반 공격과 강공격 명중 시 50%의 확률로 마음을 비추는 법구를 발사해 공격력 300%의 피해를 주고 적 사이에서 4번 튕긴다. 해당 효과는 10초마다 1번 발동한다",
@@ -10155,48 +10347,48 @@
                                              },
                                       "effectName":  "해빙의 물"
                                   },
-                    "sacrificialjade":  {
-                                            "r3":  {
-                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 48%, 원소 마스터리가 60pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
-                                                       "values":  [
-                                                                      "48%",
-                                                                      "60"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 64%, 원소 마스터리가 80pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 사라진다",
-                                                       "values":  [
-                                                                      "64%",
-                                                                      "80"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 40%, 원소 마스터리가 50pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
-                                                       "values":  [
-                                                                      "40%",
-                                                                      "50"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 56%, 원소 마스터리가 70pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
-                                                       "values":  [
-                                                                      "56%",
-                                                                      "70"
-                                                                  ]
-                                                   },
-                                            "substatText":  "치명타 확률",
-                                            "weaponText":  "법구",
-                                            "name":  "제사의 옥",
-                                            "effectTemplateRaw":  "대기 상태가 5초를 초과하면, HP 최대치가 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, 원소 마스터리가 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003ept 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 사라진다",
-                                            "r1":  {
-                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 32%, 원소 마스터리가 40pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
-                                                       "values":  [
-                                                                      "32%",
-                                                                      "40"
-                                                                  ]
-                                                   },
-                                            "effectName":  "흐르는 옥"
-                                        },
+                    "harangeppakufutsu":  {
+                                              "r3":  {
+                                                         "description":  "모든 원소 피해 보너스를 18% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 30% 증가한다. 지속 시간: 8초",
+                                                         "values":  [
+                                                                        "18%",
+                                                                        "30%"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "모든 원소 피해 보너스를 24% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 40% 증가한다. 지속 시간: 8초",
+                                                         "values":  [
+                                                                        "24%",
+                                                                        "40%"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "모든 원소 피해 보너스를 15% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 25% 증가한다. 지속 시간: 8초",
+                                                         "values":  [
+                                                                        "15%",
+                                                                        "25%"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "모든 원소 피해 보너스를 21% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 35% 증가한다. 지속 시간: 8초",
+                                                         "values":  [
+                                                                        "21%",
+                                                                        "35%"
+                                                                    ]
+                                                     },
+                                              "substatText":  "치명타 확률",
+                                              "weaponText":  "한손검",
+                                              "name":  "하란 월백의 후츠",
+                                              "effectTemplateRaw":  "모든 원소 피해 보너스를 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e 증가한다. 지속 시간: 8초",
+                                              "r1":  {
+                                                         "description":  "모든 원소 피해 보너스를 12% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 20% 증가한다. 지속 시간: 8초",
+                                                         "values":  [
+                                                                        "12%",
+                                                                        "20%"
+                                                                    ]
+                                                     },
+                                              "effectName":  "흐르는 칼날"
+                                          },
                     "favoniussword":  {
                                           "r3":  {
                                                      "description":  "치명타 시 80%의 확률로 소량의 원소 구슬이 생성되고 캐릭터의 원소 에너지를 6pt 회복한다. 해당 효과는 9초마다 1회만 발동한다",
@@ -10276,43 +10468,6 @@
                                                          },
                                                   "effectName":  "터키석의 사냥"
                                               },
-                    "recurvebow":  {
-                                       "r3":  {
-                                                  "description":  "적을 처치하면 HP를 12% 회복한다",
-                                                  "values":  [
-                                                                 "12%"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "적을 처치하면 HP를 16% 회복한다",
-                                                  "values":  [
-                                                                 "16%"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "적을 처치하면 HP를 10% 회복한다",
-                                                  "values":  [
-                                                                 "10%"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "적을 처치하면 HP를 14% 회복한다",
-                                                  "values":  [
-                                                                 "14%"
-                                                             ]
-                                              },
-                                       "substatText":  "HP",
-                                       "weaponText":  "활",
-                                       "name":  "곡궁",
-                                       "effectTemplateRaw":  "적을 처치하면 HP를 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e 회복한다",
-                                       "r1":  {
-                                                  "description":  "적을 처치하면 HP를 8% 회복한다",
-                                                  "values":  [
-                                                                 "8%"
-                                                             ]
-                                              },
-                                       "effectName":  "수확"
-                                   },
                     "crescentpike":  {
                                          "r3":  {
                                                     "description":  "원소 입자 또는 원소 구슬 획득 후 5초 동안 일반 공격 혹은 강공격 시 적에게 추가로 공격력 30%의 피해를 준다",
@@ -11757,48 +11912,100 @@
                                                     },
                                              "effectName":  "승승장구"
                                          },
-                    "harangeppakufutsu":  {
-                                              "r3":  {
-                                                         "description":  "모든 원소 피해 보너스를 18% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 30% 증가한다. 지속 시간: 8초",
-                                                         "values":  [
-                                                                        "18%",
-                                                                        "30%"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "모든 원소 피해 보너스를 24% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 40% 증가한다. 지속 시간: 8초",
-                                                         "values":  [
-                                                                        "24%",
-                                                                        "40%"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "모든 원소 피해 보너스를 15% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 25% 증가한다. 지속 시간: 8초",
-                                                         "values":  [
-                                                                        "15%",
-                                                                        "25%"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "모든 원소 피해 보너스를 21% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 35% 증가한다. 지속 시간: 8초",
-                                                         "values":  [
-                                                                        "21%",
-                                                                        "35%"
-                                                                    ]
-                                                     },
-                                              "substatText":  "치명타 확률",
-                                              "weaponText":  "한손검",
-                                              "name":  "하란 월백의 후츠",
-                                              "effectTemplateRaw":  "모든 원소 피해 보너스를 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e 증가한다. 지속 시간: 8초",
-                                              "r1":  {
-                                                         "description":  "모든 원소 피해 보너스를 12% 획득한다. 근처 파티 내 다른 캐릭터가 원소전투 스킬 발동 시, 해당 무기를 장착한 캐릭터가 「하스이」 효과를 1스택 획득한다. 최대 중첩수: 2스택, 0.3초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 원소전투 스킬 발동 시, 쌓여있는 「하스이」 스택이 있다면 스택을 소모하여 「하란」을 획득한다. 소모한 스택마다 일반 공격 피해가 20% 증가한다. 지속 시간: 8초",
-                                                         "values":  [
-                                                                        "12%",
-                                                                        "20%"
-                                                                    ]
-                                                     },
-                                              "effectName":  "흐르는 칼날"
-                                          },
+                    "sacrificialjade":  {
+                                            "r3":  {
+                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 48%, 원소 마스터리가 60pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
+                                                       "values":  [
+                                                                      "48%",
+                                                                      "60"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 64%, 원소 마스터리가 80pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 사라진다",
+                                                       "values":  [
+                                                                      "64%",
+                                                                      "80"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 40%, 원소 마스터리가 50pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
+                                                       "values":  [
+                                                                      "40%",
+                                                                      "50"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 56%, 원소 마스터리가 70pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
+                                                       "values":  [
+                                                                      "56%",
+                                                                      "70"
+                                                                  ]
+                                                   },
+                                            "substatText":  "치명타 확률",
+                                            "weaponText":  "법구",
+                                            "name":  "제사의 옥",
+                                            "effectTemplateRaw":  "대기 상태가 5초를 초과하면, HP 최대치가 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, 원소 마스터리가 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003ept 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 사라진다",
+                                            "r1":  {
+                                                       "description":  "대기 상태가 5초를 초과하면, HP 최대치가 32%, 원소 마스터리가 40pt 증가한다. 장착 캐릭터가 필드에 등장해 10초 동안 머물면, 해당 효과는 적용되지 않는다",
+                                                       "values":  [
+                                                                      "32%",
+                                                                      "40"
+                                                                  ]
+                                                   },
+                                            "effectName":  "흐르는 옥"
+                                        },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 12% 증가하고, 모든 원소 피해 보너스가 15% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 12% 증가하고, 최대 38.4%까지 증가한다. 지속 시간: 15초",
+                                                      "values":  [
+                                                                     "12%",
+                                                                     "15%",
+                                                                     "12%",
+                                                                     "38.4%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 16% 증가하고, 모든 원소 피해 보너스가 20% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 16% 증가하고, 최대 51.2%까지 증가한다. 지속 시간: 15초",
+                                                      "values":  [
+                                                                     "16%",
+                                                                     "20%",
+                                                                     "16%",
+                                                                     "51.2%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 10% 증가하고, 모든 원소 피해 보너스가 12.5% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 10% 증가하고, 최대 32%까지 증가한다. 지속 시간: 15초",
+                                                      "values":  [
+                                                                     "10%",
+                                                                     "12.5%",
+                                                                     "10%",
+                                                                     "32%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 14% 증가하고, 모든 원소 피해 보너스가 17.5% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 14% 증가하고, 최대 44.8%까지 증가한다. 지속 시간: 15초",
+                                                      "values":  [
+                                                                     "14%",
+                                                                     "17.5%",
+                                                                     "14%",
+                                                                     "44.8%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "방어력",
+                                           "weaponText":  "한손검",
+                                           "name":  "바위산을 맴도는 노래",
+                                           "effectTemplateRaw":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e 증가하고, 모든 원소 피해 보너스가 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e 증가하고, 최대 \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e까지 증가한다. 지속 시간: 15초",
+                                           "r1":  {
+                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 8% 증가하고, 모든 원소 피해 보너스가 10% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 8% 증가하고, 최대 25.6%까지 증가한다. 지속 시간: 15초",
+                                                      "values":  [
+                                                                     "8%",
+                                                                     "10%",
+                                                                     "8%",
+                                                                     "25.6%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "시들지 않는 생명"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -13145,58 +13352,23 @@
                                                             },
                                                      "effectName":  "드리아스의 야상곡"
                                                  },
-                    "peakpatrolsong":  {
-                                           "r3":  {
-                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 12% 증가하고, 모든 원소 피해 보너스가 15% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 12% 증가하고, 최대 38.4%까지 증가한다. 지속 시간: 15초",
-                                                      "values":  [
-                                                                     "12%",
-                                                                     "15%",
-                                                                     "12%",
-                                                                     "38.4%"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 16% 증가하고, 모든 원소 피해 보너스가 20% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 16% 증가하고, 최대 51.2%까지 증가한다. 지속 시간: 15초",
-                                                      "values":  [
-                                                                     "16%",
-                                                                     "20%",
-                                                                     "16%",
-                                                                     "51.2%"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 10% 증가하고, 모든 원소 피해 보너스가 12.5% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 10% 증가하고, 최대 32%까지 증가한다. 지속 시간: 15초",
-                                                      "values":  [
-                                                                     "10%",
-                                                                     "12.5%",
-                                                                     "10%",
-                                                                     "32%"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 14% 증가하고, 모든 원소 피해 보너스가 17.5% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 14% 증가하고, 최대 44.8%까지 증가한다. 지속 시간: 15초",
-                                                      "values":  [
-                                                                     "14%",
-                                                                     "17.5%",
-                                                                     "14%",
-                                                                     "44.8%"
-                                                                 ]
-                                                  },
-                                           "substatText":  "방어력",
-                                           "weaponText":  "한손검",
-                                           "name":  "바위산을 맴도는 노래",
-                                           "effectTemplateRaw":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e 증가하고, 모든 원소 피해 보너스가 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e 증가하고, 최대 \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e까지 증가한다. 지속 시간: 15초",
-                                           "r1":  {
-                                                      "description":  "일반 공격 또는 낙하 공격으로 적 명중 후, 「영광의 꽃노래」를 획득한다: 방어력이 8% 증가하고, 모든 원소 피해 보너스가 10% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 해당 효과는 0.1초마다 최대 1회 발동된다. 해당 효과 2스택 중첩 또는 2스택의 지속 시간 갱신 시, 장착 캐릭터의 방어력에 기반해 1000pt마다 파티 내 주변에 있는 모든 캐릭터의 모든 원소 피해 보너스가 8% 증가하고, 최대 25.6%까지 증가한다. 지속 시간: 15초",
-                                                      "values":  [
-                                                                     "8%",
-                                                                     "10%",
-                                                                     "8%",
-                                                                     "25.6%"
-                                                                 ]
-                                                  },
-                                           "effectName":  "시들지 않는 생명"
-                                       },
+                    "prizedisshinblade":  {
+                                              "r3":  null,
+                                              "r5":  null,
+                                              "r2":  null,
+                                              "r4":  null,
+                                              "substatText":  "공격력",
+                                              "weaponText":  "한손검",
+                                              "name":  "「잇신의 기술」 명검",
+                                              "effectTemplateRaw":  "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 원령을 발동해 공격력의 180%에 해당하는 범위 피해를 주고, 공격력의 100%에 해당하는 HP를 회복한다. 해당 효과는 8초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 주는 피해가 50% 감소한다",
+                                              "r1":  {
+                                                         "description":  "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 원령을 발동해 공격력의 180%에 해당하는 범위 피해를 주고, 공격력의 100%에 해당하는 HP를 회복한다. 해당 효과는 8초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 주는 피해가 50% 감소한다",
+                                                         "values":  [
+
+                                                                    ]
+                                                     },
+                                              "effectName":  "배회하는 칼날"
+                                          },
                     "ultimateoverlordsmegamagicsword":  {
                                                             "r3":  {
                                                                        "description":  "공격력이 18% 증가한다. 그뿐만이 아니다! 바다 거품 마을 멜뤼진의 응원에 힘입어, 도와줬던 멜뤼진의 수에 따라 공격력이 최대 18% 더 증가한다",
@@ -13239,6 +13411,48 @@
                                                                    },
                                                             "effectName":  "파이팅!"
                                                         },
+                    "wineandsong":  {
+                                        "r3":  {
+                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 18% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 30% 증가한다. 지속 시간: 5초",
+                                                   "values":  [
+                                                                  "18%",
+                                                                  "30%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 22% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 40% 증가한다. 지속 시간: 5초",
+                                                   "values":  [
+                                                                  "22%",
+                                                                  "40%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 16% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 25% 증가한다. 지속 시간: 5초",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "25%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 20% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 35% 증가한다. 지속 시간: 5초",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "35%"
+                                                              ]
+                                               },
+                                        "substatText":  "원소 충전 효율",
+                                        "weaponText":  "법구",
+                                        "name":  "뒷골목의 술과 시",
+                                        "effectTemplateRaw":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e 증가한다. 지속 시간: 5초",
+                                        "r1":  {
+                                                   "description":  "일반 공격으로 적을 명중 시킨 후, 대시나 대시를 대체할 수 있는 능력으로 소모되는 스태미나가 14% 감소한다. 지속 시간: 5초. 또한, 대시나 대시를 대체할 수 있는 능력을 사용한 후, 공격력이 20% 증가한다. 지속 시간: 5초",
+                                                   "values":  [
+                                                                  "14%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "effectName":  "변화무쌍"
+                                    },
                     "forestregalia":  {
                                           "r3":  {
                                                      "description":  "연소, 활성, 촉진, 발산, 개화, 만개 혹은 발화 발동 후, 캐릭터 주변에 최대 10초 동안 존재하는 「유식의 잎사귀」가 생성된다. 유식의 잎사귀를 습득한 캐릭터는 원소 마스터리가 90pt 증가한다. 지속 시간: 12초. 해당 방식으로 20초마다 유식의 잎사귀를 최대 1개 생성한다. 캐릭터가 대기 상태일 때도 발동된다. 유식의 잎사귀 효과는 중첩되지 않는다",
@@ -13671,6 +13885,48 @@
                                                 },
                                          "effectName":  "「설득력」"
                                      },
+                    "athousandblazingsuns":  {
+                                                 "r3":  {
+                                                            "description":  "원소전투 스킬 또는 원소폭발 발동 시, 「불빛」 효과를 획득한다: 치명타 피해가 30%, 공격력이 42% 증가한다. 지속 시간: 6초, 해당 효과는 10초마다 최대 1회 발동된다.\n지속 시간 동안 일반 공격 또는 강공격이 원소 피해를 준 후, 이번 「불빛」 효과의 지속 시간이 2초 연장된다. 해당 효과는 1초마다 최대 1회 발동하며, 해당 방식으로 지속 시간을 최대 6초 연장할 수 있다.\n밤혼 가호 상태에서는 「불빛」의 효과가 75% 증가하며, 「불빛」 효과는 장착 캐릭터가 대기 상태일 시 카운트를 진행하지 않는다",
+                                                            "values":  [
+                                                                           "30%",
+                                                                           "42%"
+                                                                       ]
+                                                        },
+                                                 "r5":  {
+                                                            "description":  "원소전투 스킬 또는 원소폭발 발동 시, 「불빛」 효과를 획득한다: 치명타 피해가 40%, 공격력이 56% 증가한다. 지속 시간: 6초, 해당 효과는 10초마다 최대 1회 발동된다.\n지속 시간 동안 일반 공격 또는 강공격이 원소 피해를 준 후, 이번 「불빛」 효과의 지속 시간이 2초 연장된다. 해당 효과는 1초마다 최대 1회 발동하며, 해당 방식으로 지속 시간을 최대 6초 연장할 수 있다.\n밤혼 가호 상태에서는 「불빛」의 효과가 75% 증가하며, 「불빛」 효과는 장착 캐릭터가 대기 상태일 시 카운트를 진행하지 않는다",
+                                                            "values":  [
+                                                                           "40%",
+                                                                           "56%"
+                                                                       ]
+                                                        },
+                                                 "r2":  {
+                                                            "description":  "원소전투 스킬 또는 원소폭발 발동 시, 「불빛」 효과를 획득한다: 치명타 피해가 25%, 공격력이 35% 증가한다. 지속 시간: 6초, 해당 효과는 10초마다 최대 1회 발동된다.\n지속 시간 동안 일반 공격 또는 강공격이 원소 피해를 준 후, 이번 「불빛」 효과의 지속 시간이 2초 연장된다. 해당 효과는 1초마다 최대 1회 발동하며, 해당 방식으로 지속 시간을 최대 6초 연장할 수 있다.\n밤혼 가호 상태에서는 「불빛」의 효과가 75% 증가하며, 「불빛」 효과는 장착 캐릭터가 대기 상태일 시 카운트를 진행하지 않는다",
+                                                            "values":  [
+                                                                           "25%",
+                                                                           "35%"
+                                                                       ]
+                                                        },
+                                                 "r4":  {
+                                                            "description":  "원소전투 스킬 또는 원소폭발 발동 시, 「불빛」 효과를 획득한다: 치명타 피해가 35%, 공격력이 49% 증가한다. 지속 시간: 6초, 해당 효과는 10초마다 최대 1회 발동된다.\n지속 시간 동안 일반 공격 또는 강공격이 원소 피해를 준 후, 이번 「불빛」 효과의 지속 시간이 2초 연장된다. 해당 효과는 1초마다 최대 1회 발동하며, 해당 방식으로 지속 시간을 최대 6초 연장할 수 있다.\n밤혼 가호 상태에서는 「불빛」의 효과가 75% 증가하며, 「불빛」 효과는 장착 캐릭터가 대기 상태일 시 카운트를 진행하지 않는다",
+                                                            "values":  [
+                                                                           "35%",
+                                                                           "49%"
+                                                                       ]
+                                                        },
+                                                 "substatText":  "치명타 확률",
+                                                 "weaponText":  "양손검",
+                                                 "name":  "타오르는 천 개의 태양",
+                                                 "effectTemplateRaw":  "원소전투 스킬 또는 원소폭발 발동 시, 「불빛」 효과를 획득한다: 치명타 피해가 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, 공격력이 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e 증가한다. 지속 시간: 6초, 해당 효과는 10초마다 최대 1회 발동된다.\n지속 시간 동안 일반 공격 또는 강공격이 원소 피해를 준 후, 이번 「불빛」 효과의 지속 시간이 2초 연장된다. 해당 효과는 1초마다 최대 1회 발동하며, 해당 방식으로 지속 시간을 최대 6초 연장할 수 있다.\n밤혼 가호 상태에서는 「불빛」의 효과가 75% 증가하며, 「불빛」 효과는 장착 캐릭터가 대기 상태일 시 카운트를 진행하지 않는다",
+                                                 "r1":  {
+                                                            "description":  "원소전투 스킬 또는 원소폭발 발동 시, 「불빛」 효과를 획득한다: 치명타 피해가 20%, 공격력이 28% 증가한다. 지속 시간: 6초, 해당 효과는 10초마다 최대 1회 발동된다.\n지속 시간 동안 일반 공격 또는 강공격이 원소 피해를 준 후, 이번 「불빛」 효과의 지속 시간이 2초 연장된다. 해당 효과는 1초마다 최대 1회 발동하며, 해당 방식으로 지속 시간을 최대 6초 연장할 수 있다.\n밤혼 가호 상태에서는 「불빛」의 효과가 75% 증가하며, 「불빛」 효과는 장착 캐릭터가 대기 상태일 시 카운트를 진행하지 않는다",
+                                                            "values":  [
+                                                                           "20%",
+                                                                           "28%"
+                                                                       ]
+                                                        },
+                                                 "effectName":  "다시 타오르는 여명"
+                                             },
                     "balladoftheboundlessblue":  {
                                                      "r3":  {
                                                                 "description":  "일반 공격 또는 강공격이 적에게 명중 후 6초 동안, 일반 공격으로 주는 피해가 12% 증가하고, 강공격으로 주는 피해가 9% 증가한다. 최대 중첩수: 3회. 0.3초마다 최대 1회 발동된다",
@@ -14556,6 +14812,10 @@
                                            "name":  "어린 숲룡",
                                            "specialname":  null
                                        },
+                    "lordoferodedprimalfire":  {
+                                                   "name":  "침식된 근원의 불꽃 주인",
+                                                   "specialname":  null
+                                               },
                     "largedendroslime":  {
                                              "name":  "거대 풀 슬라임",
                                              "specialname":  null
@@ -14980,6 +15240,10 @@
                                                     "name":  "「정기(正機)의 신」",
                                                     "specialname":  null
                                                 },
+                    "waywardhermeticspiritspeaker":  {
+                                                         "name":  "수수께끼 영력 수행자",
+                                                         "specialname":  null
+                                                     },
                     "wingedwarriorskymaster":  {
                                                    "name":  "날개 용사·하늘 지배자",
                                                    "specialname":  null

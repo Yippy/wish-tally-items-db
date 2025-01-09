@@ -638,6 +638,9 @@
                       "northlanderbowbillet":  {
                                                    "name":  "北陸弓原胚"
                                                },
+                      "tidalga":  {
+                                      "name":  "汐藻"
+                                  },
                       "bluedye":  {
                                       "name":  "藍色染料"
                                   },
@@ -770,9 +773,9 @@
                       "borderlandswordbillet":  {
                                                     "name":  "垠土單手劍原胚"
                                                 },
-                      "goldentalismanoftheforestdew":  {
-                                                           "name":  "謐林涓露的金符"
-                                                       },
+                      "nightwindsmysticaugury":  {
+                                                     "name":  "神合秘煙的徵兆"
+                                                 },
                       "dawncatcher":  {
                                           "name":  "擒霞客"
                                       },
@@ -1190,6 +1193,9 @@
                       "alkahest":  {
                                        "name":  "「溶媒」"
                                    },
+                      "erodedscalefeather":  {
+                                                 "name":  "蝕滅的鱗羽"
+                                             },
                       "almond":  {
                                      "name":  "杏仁"
                                  },
@@ -1331,6 +1337,9 @@
                       "keysigil":  {
                                        "name":  "鍵紋"
                                    },
+                      "talismanoftheenigmaticland":  {
+                                                         "name":  "謎土的護符"
+                                                     },
                       "masterlessstardust":  {
                                                  "name":  "無主的星塵"
                                              },
@@ -1583,6 +1592,9 @@
                       "mirrorofmushin":  {
                                              "name":  "無心的淵鏡"
                                          },
+                      "ultrahotburnerlamptestmodel":  {
+                                                          "name":  "試驗型超燃燈"
+                                                      },
                       "dreamofthedandeliongladiator":  {
                                                            "name":  "獅牙鬥士的理想"
                                                        },
@@ -1604,6 +1616,9 @@
                       "hurricaneseed":  {
                                             "name":  "颶風之種"
                                         },
+                      "scrollofthefieryfirmament":  {
+                                                        "name":  "「熾空的繪卷」"
+                                                    },
                       "dormantfungalnucleus":  {
                                                    "name":  "休眠菌核"
                                                },
@@ -1679,9 +1694,9 @@
                       "radish":  {
                                      "name":  "白蘿蔔"
                                  },
-                      "ultrahotburnerlamptestmodel":  {
-                                                          "name":  "試驗型超燃燈"
-                                                      },
+                      "tuskofmonoceroscaeli":  {
+                                                   "name":  "吞天之鯨·隻角"
+                                               },
                       "crab":  {
                                    "name":  "螃蟹"
                                },
@@ -1694,9 +1709,9 @@
                       "riftbornregalia":  {
                                               "name":  "獸境王器"
                                           },
-                      "tuskofmonoceroscaeli":  {
-                                                   "name":  "吞天之鯨·隻角"
-                                               },
+                      "goldentalismanoftheforestdew":  {
+                                                           "name":  "謐林涓露的金符"
+                                                       },
                       "crystalfish":  {
                                           "name":  "水晶宴"
                                       },
@@ -1709,9 +1724,9 @@
                       "maintenancemekwaterbodycleaner":  {
                                                              "name":  "維護機關·水域清理者"
                                                          },
-                      "nightwindsmysticaugury":  {
-                                                     "name":  "神合秘煙的徵兆"
-                                                 },
+                      "vajradaamethystgemstone":  {
+                                                      "name":  "最勝紫晶"
+                                                  },
                       "spiritlocketofboreas":  {
                                                    "name":  "北風的魂匣"
                                                },
@@ -2045,6 +2060,9 @@
                       "congealedpupawax":  {
                                                "name":  "凝恆的脂蠟"
                                            },
+                      "erodedsunfire":  {
+                                            "name":  "蝕滅的陽焰"
+                                        },
                       "bacon":  {
                                     "name":  "培根"
                                 },
@@ -2240,9 +2258,9 @@
                       "fruitpastebait":  {
                                              "name":  "果釀餌"
                                          },
-                      "tidalga":  {
-                                      "name":  "汐藻"
-                                  },
+                      "erodedhorn":  {
+                                         "name":  "蝕滅的靈犀"
+                                     },
                       "cultivationareaexpansionvi":  {
                                                          "name":  "培育區域擴充套件·其六"
                                                      },
@@ -2363,9 +2381,6 @@
                       "movementofanancientchord":  {
                                                        "name":  "悠古弦音的樂章"
                                                    },
-                      "vajradaamethystgemstone":  {
-                                                      "name":  "最勝紫晶"
-                                                  },
                       "philosophiesofgold":  {
                                                  "name":  "「黃金」的哲學"
                                              },
@@ -3229,6 +3244,47 @@
                                         "region":  "須彌",
                                         "gender":  "男"
                                     },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "全力以赴瑪拉妮！",
+                                                                         "descriptionRaw":  "進入夜魂加持狀態時，瑪拉妮獲得2層\u003ccolor=#FFD780FF\u003e踏鯊破浪\u003c/color\u003e的浪勢充能；瑪拉妮獲得豚豚球時，獲得1層浪勢充能。\n此外，瑪拉妮在一次夜魂加持期間獲得2個豚豚球的2秒內，額外恢復12點夜魂值。該效果需要解鎖固有天賦「耐熱型淡水豚豚」。",
+                                                                         "description":  "進入夜魂加持狀態時，瑪拉妮獲得2層踏鯊破浪的浪勢充能；瑪拉妮獲得豚豚球時，獲得1層浪勢充能。\n此外，瑪拉妮在一次夜魂加持期間獲得2個豚豚球的2秒內，額外恢復12點夜魂值。該效果需要解鎖固有天賦「耐熱型淡水豚豚」。"
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "鯊鯊主食是豚豚。",
+                                                                         "descriptionRaw":  "獲得豚豚球時，瑪拉妮恢復8點元素能量；該效果需要解鎖固有天賦「耐熱型淡水豚豚」。\n此外，\u003ccolor=#FFD780FF\u003e爆瀑飛彈\u003c/color\u003e造成的傷害提升75%。",
+                                                                         "description":  "獲得豚豚球時，瑪拉妮恢復8點元素能量；該效果需要解鎖固有天賦「耐熱型淡水豚豚」。\n此外，爆瀑飛彈造成的傷害提升75%。"
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "在歡樂海上衝浪",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e踏鯊破浪\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                         "description":  "踏鯊破浪的技能等級提高3級。\n至多提升至15級。"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "同款衝浪板有賣！",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e爆瀑飛彈\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                         "description":  "爆瀑飛彈的技能等級提高3級。\n至多提升至15級。"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "「流泉之眾」的精神",
+                                                                         "descriptionRaw":  "對命之座「悠閒的『梅茲特利』…」的傷害提升效果，移除原本每次夜魂加持只能觸發一次的限制。",
+                                                                         "description":  "對命之座「悠閒的『梅茲特利』…」的傷害提升效果，移除原本每次夜魂加持只能觸發一次的限制。"
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "悠閒的「梅茲特利」…",
+                                                                         "descriptionRaw":  "進入夜魂加持狀態後的第一次巨浪鯊鯊撕咬及其所觸發的鯊鯊飛彈造成的傷害提升，提升值相當於瑪拉妮生命值上限的66%。此次傷害提升遵循\u003ccolor=#FFD780FF\u003e踏鯊破浪\u003c/color\u003e的傷害衰減規則。\n此外，不處於戰鬥狀態下時，瑪拉妮的夜魂加持狀態消耗的夜魂值與燃素降低30%。",
+                                                                         "description":  "進入夜魂加持狀態後的第一次巨浪鯊鯊撕咬及其所觸發的鯊鯊飛彈造成的傷害提升，提升值相當於瑪拉妮生命值上限的66%。此次傷害提升遵循踏鯊破浪的傷害衰減規則。\n此外，不處於戰鬥狀態下時，瑪拉妮的夜魂加持狀態消耗的夜魂值與燃素降低30%。"
+                                                                     }
+                                                          },
+                                       "elementText":  "水",
+                                       "fullname":  null,
+                                       "weaponText":  "法器",
+                                       "name":  "瑪拉妮",
+                                       "substatText":  "暴擊率",
+                                       "region":  "納塔",
+                                       "gender":  "女"
+                                   },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3352,6 +3408,47 @@
                                          "region":  "璃月",
                                          "gender":  "女"
                                      },
+                       "mavuika":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "灰燼的代價",
+                                                                         "descriptionRaw":  "處於夜魂加持狀態下時，瑪薇卡的基礎攻擊力提升200點，並根據諸火武裝的形態，獲得對應效果：\n·焚曜之環：附近的敵人的防禦力降低20%。\n·馳輪車：瑪薇卡的普通攻擊、重擊、元素爆發\u003ccolor=#FFD780FF\u003e燔天之時\u003c/color\u003e中的墜日斬造成的傷害提升，提升值相當於瑪薇卡攻擊力的60%/90%/120%。",
+                                                                         "description":  "處於夜魂加持狀態下時，瑪薇卡的基礎攻擊力提升200點，並根據諸火武裝的形態，獲得對應效果：\n·焚曜之環：附近的敵人的防禦力降低20%。\n·馳輪車：瑪薇卡的普通攻擊、重擊、元素爆發燔天之時中的墜日斬造成的傷害提升，提升值相當於瑪薇卡攻擊力的60%/90%/120%。"
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "「領袖」的覺悟",
+                                                                         "descriptionRaw":  "固有天賦「基揚戈茲」的效果獲得提升：\n施放元素爆發\u003ccolor=#FFD780FF\u003e燔天之時\u003c/color\u003e後的傷害提升效果不再隨時間降低，並額外獲得10%傷害加成。\n需要解鎖固有天賦「基揚戈茲」。",
+                                                                         "description":  "固有天賦「基揚戈茲」的效果獲得提升：\n施放元素爆發燔天之時後的傷害提升效果不再隨時間降低，並額外獲得10%傷害加成。\n需要解鎖固有天賦「基揚戈茲」。"
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "燃燒的太陽",
+                                                                         "descriptionRaw":  "元素爆發\u003ccolor=#FFD780FF\u003e燔天之時\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                         "description":  "元素爆發燔天之時的技能等級提高3級。\n至多提升至15級。"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "真實的含義",
+                                                                         "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e稱名之刻\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                         "description":  "元素戰技稱名之刻的技能等級提高3級。\n至多提升至15級。"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "「人之名」解放",
+                                                                         "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e稱名之刻\u003c/color\u003e中的諸火武裝獲得完全強化：\n·焚曜之環：焚曜之環的攻擊命中敵人時，將會有一輛馳輪車撞向被命中的敵人，造成200%攻擊力的具有夜魂性質的\u003ccolor=#FF9999FF\u003e火元素範圍傷害\u003c/color\u003e。\n·馳輪車：瑪薇卡駕駛馳輪車時，還會召喚出持續跟隨瑪薇卡的「焚曜之環·灼象」，使附近的敵人的防禦力降低20%，並且每3秒對周圍的敵人造成一次500%攻擊力的具有夜魂性質的\u003ccolor=#FF9999FF\u003e火元素範圍傷害\u003c/color\u003e，且瑪薇卡通過各種地形的能力也會進一步提升。\n\n此外，瑪薇卡駕駛馳輪車且不處於戰鬥狀態下時，當瑪薇卡的夜魂值降低至5點時，將獲得80點夜魂值，該效果每15秒至多觸發一次。",
+                                                                         "description":  "元素戰技稱名之刻中的諸火武裝獲得完全強化：\n·焚曜之環：焚曜之環的攻擊命中敵人時，將會有一輛馳輪車撞向被命中的敵人，造成200%攻擊力的具有夜魂性質的火元素範圍傷害。\n·馳輪車：瑪薇卡駕駛馳輪車時，還會召喚出持續跟隨瑪薇卡的「焚曜之環·灼象」，使附近的敵人的防禦力降低20%，並且每3秒對周圍的敵人造成一次500%攻擊力的具有夜魂性質的火元素範圍傷害，且瑪薇卡通過各種地形的能力也會進一步提升。\n\n此外，瑪薇卡駕駛馳輪車且不處於戰鬥狀態下時，當瑪薇卡的夜魂值降低至5點時，將獲得80點夜魂值，該效果每15秒至多觸發一次。"
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "夜主的授記",
+                                                                         "descriptionRaw":  "瑪薇卡的夜魂值上限提升為120點，且獲得戰意的效率提升25%。\n此外，獲得戰意後，瑪薇卡的攻擊力提升40%，持續8秒。",
+                                                                         "description":  "瑪薇卡的夜魂值上限提升為120點，且獲得戰意的效率提升25%。\n此外，獲得戰意後，瑪薇卡的攻擊力提升40%，持續8秒。"
+                                                                     }
+                                                          },
+                                       "elementText":  "火",
+                                       "fullname":  null,
+                                       "weaponText":  "雙手劍",
+                                       "name":  "瑪薇卡",
+                                       "substatText":  "暴擊傷害",
+                                       "region":  "納塔",
+                                       "gender":  "女"
+                                   },
                        "xiao":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3557,6 +3654,47 @@
                                     "region":  "須彌",
                                     "gender":  "男"
                                 },
+                       "yaemiko":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "望月吼噦聲",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e殺生櫻\u003c/color\u003e創造時的初始位階提升至貳階，位階上限提升至肆階，攻擊範圍提升60%。",
+                                                                         "description":  "殺生櫻創造時的初始位階提升至貳階，位階上限提升至肆階，攻擊範圍提升60%。"
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "緋櫻引雷章",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e殺生櫻\u003c/color\u003e的落雷命中敵人後，隊伍中附近的所有角色獲得20%\u003ccolor=#FFACFFFF\u003e雷元素傷害加成\u003c/color\u003e，持續5秒。",
+                                                                         "description":  "殺生櫻的落雷命中敵人後，隊伍中附近的所有角色獲得20%雷元素傷害加成，持續5秒。"
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "七段妙變化",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e野干役咒·殺生櫻\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                         "description":  "野干役咒·殺生櫻的技能等級提高3級。\n至多提升至15級。"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "暴惡嗤笑面",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e大密法·天狐顯真\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                         "description":  "大密法·天狐顯真的技能等級提高3級。\n至多提升至15級。"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "大殺生咒禁",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e殺生櫻\u003c/color\u003e在攻擊時無視敵人60%的防禦力。",
+                                                                         "description":  "殺生櫻在攻擊時無視敵人60%的防禦力。"
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "野狐供真篇",
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e大密法·天狐顯真\u003c/color\u003e每引發一次天狐霆雷，都會為八重神子自己恢復8點元素能量。",
+                                                                         "description":  "大密法·天狐顯真每引發一次天狐霆雷，都會為八重神子自己恢復8點元素能量。"
+                                                                     }
+                                                          },
+                                       "elementText":  "雷",
+                                       "fullname":  null,
+                                       "weaponText":  "法器",
+                                       "name":  "八重神子",
+                                       "substatText":  "暴擊率",
+                                       "region":  "稻妻",
+                                       "gender":  "女"
+                                   },
                        "kinich":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -4288,47 +4426,47 @@
                                              "region":  "稻妻",
                                              "gender":  "女"
                                          },
-                       "yaemiko":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "望月吼噦聲",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e殺生櫻\u003c/color\u003e創造時的初始位階提升至貳階，位階上限提升至肆階，攻擊範圍提升60%。",
-                                                                         "description":  "殺生櫻創造時的初始位階提升至貳階，位階上限提升至肆階，攻擊範圍提升60%。"
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "緋櫻引雷章",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e殺生櫻\u003c/color\u003e的落雷命中敵人後，隊伍中附近的所有角色獲得20%\u003ccolor=#FFACFFFF\u003e雷元素傷害加成\u003c/color\u003e，持續5秒。",
-                                                                         "description":  "殺生櫻的落雷命中敵人後，隊伍中附近的所有角色獲得20%雷元素傷害加成，持續5秒。"
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "七段妙變化",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e野干役咒·殺生櫻\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                         "description":  "野干役咒·殺生櫻的技能等級提高3級。\n至多提升至15級。"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "暴惡嗤笑面",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e大密法·天狐顯真\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                         "description":  "大密法·天狐顯真的技能等級提高3級。\n至多提升至15級。"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "大殺生咒禁",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e殺生櫻\u003c/color\u003e在攻擊時無視敵人60%的防禦力。",
-                                                                         "description":  "殺生櫻在攻擊時無視敵人60%的防禦力。"
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "野狐供真篇",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e大密法·天狐顯真\u003c/color\u003e每引發一次天狐霆雷，都會為八重神子自己恢復8點元素能量。",
-                                                                         "description":  "大密法·天狐顯真每引發一次天狐霆雷，都會為八重神子自己恢復8點元素能量。"
-                                                                     }
-                                                          },
-                                       "elementText":  "雷",
-                                       "fullname":  null,
-                                       "weaponText":  "法器",
-                                       "name":  "八重神子",
-                                       "substatText":  "暴擊率",
-                                       "region":  "稻妻",
-                                       "gender":  "女"
-                                   },
+                       "sangonomiyakokomi":  {
+                                                 "constellations":  {
+                                                                        "c2":  {
+                                                                                   "name":  "波起雲海",
+                                                                                   "descriptionRaw":  "基於珊瑚宮心海的生命值上限，珊瑚宮心海對生命值低於或等於50%的角色，透過以下途徑進行治療的回復量獲得提升：\n·\u003ccolor=#FFD780FF\u003e海月之誓\u003c/color\u003e的化海月：生命值上限的4.5%\n·\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的普通攻擊與重擊：生命值上限的0.6%。",
+                                                                                   "description":  "基於珊瑚宮心海的生命值上限，珊瑚宮心海對生命值低於或等於50%的角色，透過以下途徑進行治療的回復量獲得提升：\n·海月之誓的化海月：生命值上限的4.5%\n·海人化羽的普通攻擊與重擊：生命值上限的0.6%。"
+                                                                               },
+                                                                        "c4":  {
+                                                                                   "name":  "月攝千川",
+                                                                                   "descriptionRaw":  "處於\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的攻擊速度提升10%，並會在普通攻擊命中敵人時，恢復0.8點元素能量。\n該效果每0.2秒至多觸發一次。",
+                                                                                   "description":  "處於海人化羽的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的攻擊速度提升10%，並會在普通攻擊命中敵人時，恢復0.8點元素能量。\n該效果每0.2秒至多觸發一次。"
+                                                                               },
+                                                                        "c3":  {
+                                                                                   "name":  "海渚月舟",
+                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                                   "description":  "海人化羽的技能等級提高3級。\n至多提升至15級。"
+                                                                               },
+                                                                        "c5":  {
+                                                                                   "name":  "百川集海",
+                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e海月之誓\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                                   "description":  "海月之誓的技能等級提高3級。\n至多提升至15級。"
+                                                                               },
+                                                                        "c6":  {
+                                                                                   "name":  "珊瑚一心",
+                                                                                   "descriptionRaw":  "處於\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的儀來羽衣狀態下時，珊瑚宮心海的普通攻擊和重擊對生命值高於或等於80%的角色進行治療時，將獲得40%\u003ccolor=#80C0FFFF\u003e水元素傷害加成\u003c/color\u003e，持續4秒。",
+                                                                                   "description":  "處於海人化羽的儀來羽衣狀態下時，珊瑚宮心海的普通攻擊和重擊對生命值高於或等於80%的角色進行治療時，將獲得40%水元素傷害加成，持續4秒。"
+                                                                               },
+                                                                        "c1":  {
+                                                                                   "name":  "決水於溪",
+                                                                                   "descriptionRaw":  "處於\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的最後一擊會額外釋放一隻游魚，造成相當於珊瑚宮心海生命值上限30%的\u003ccolor=#80C0FFFF\u003e水元素傷害\u003c/color\u003e。\n該傷害不被視為普通攻擊傷害。",
+                                                                                   "description":  "處於海人化羽的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的最後一擊會額外釋放一隻游魚，造成相當於珊瑚宮心海生命值上限30%的水元素傷害。\n該傷害不被視為普通攻擊傷害。"
+                                                                               }
+                                                                    },
+                                                 "elementText":  "水",
+                                                 "fullname":  null,
+                                                 "weaponText":  "法器",
+                                                 "name":  "珊瑚宮心海",
+                                                 "substatText":  "水元素傷害加成",
+                                                 "region":  "稻妻",
+                                                 "gender":  "女"
+                                             },
                        "xingqiu":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -4455,47 +4593,47 @@
                        "traveler":  {
                                         "name":  "旅行者"
                                     },
-                       "beidou":  {
-                                      "constellations":  {
-                                                             "c2":  {
-                                                                        "name":  "赫赫雷湧起",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e斫雷\u003c/color\u003e的閃雷能額外彈跳2個敵人。",
-                                                                        "description":  "斫雷的閃雷能額外彈跳2個敵人。"
-                                                                    },
-                                                             "c4":  {
-                                                                        "name":  "牽星覓鄉岸",
-                                                                        "descriptionRaw":  "受到攻擊後的10秒內，北斗的普通攻擊附帶20%額外\u003ccolor=#FFACFFFF\u003e雷元素傷害\u003c/color\u003e。",
-                                                                        "description":  "受到攻擊後的10秒內，北斗的普通攻擊附帶20%額外雷元素傷害。"
-                                                                    },
-                                                             "c3":  {
-                                                                        "name":  "潮奔驀引電",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e捉浪\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                        "description":  "捉浪的技能等級提高3級。\n至多提升至15級。"
-                                                                    },
-                                                             "c5":  {
-                                                                        "name":  "踏浪霞連階",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e斫雷\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                        "description":  "斫雷的技能等級提高3級。\n至多提升至15級。"
-                                                                    },
-                                                             "c6":  {
-                                                                        "name":  "北斗祓幽孽",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e斫雷\u003c/color\u003e持續期間，周圍敵人的\u003ccolor=#FFACFFFF\u003e雷元素抗性\u003c/color\u003e降低15%。",
-                                                                        "description":  "斫雷持續期間，周圍敵人的雷元素抗性降低15%。"
-                                                                    },
-                                                             "c1":  {
-                                                                        "name":  "魚龍沉四方",
-                                                                        "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e斫雷\u003c/color\u003e時：\n產生一個傷害吸收量等於生命值上限16%的護盾，持續15秒。\n該護盾對\u003ccolor=#FFACFFFF\u003e雷元素傷害\u003c/color\u003e有250%的吸收效果。",
-                                                                        "description":  "施放斫雷時：\n產生一個傷害吸收量等於生命值上限16%的護盾，持續15秒。\n該護盾對雷元素傷害有250%的吸收效果。"
-                                                                    }
-                                                         },
-                                      "elementText":  "雷",
-                                      "fullname":  null,
-                                      "weaponText":  "雙手劍",
-                                      "name":  "北斗",
-                                      "substatText":  "雷元素傷害加成",
-                                      "region":  "璃月",
-                                      "gender":  "女"
-                                  },
+                       "citlali":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "吞心者的巡行",
+                                                                         "descriptionRaw":  "茜特菈莉的元素精通提升125點，處於白曜護盾的庇護下或是伊茲帕帕跟隨的其他角色的元素精通提升250點。\n此外，施放元素戰技\u003ccolor=#FFD780FF\u003e霜晝黑星\u003c/color\u003e時，也會為附近的目前場上角色賦予白曜護盾。\n\n此外，固有天賦「五重天的寒雨」的效果獲得提升：\n伊茲帕帕存在期間，隊伍中附近的角色觸發凍結反應或融化反應後，受本次反應影響的敵人的\u003ccolor=#FF9999FF\u003e火元素\u003c/color\u003e與\u003ccolor=#80C0FFFF\u003e水元素\u003c/color\u003e抗性還會額外降低20%，持續12秒，該效果需要解鎖固有天賦「五重天的寒雨」。",
+                                                                         "description":  "茜特菈莉的元素精通提升125點，處於白曜護盾的庇護下或是伊茲帕帕跟隨的其他角色的元素精通提升250點。\n此外，施放元素戰技霜晝黑星時，也會為附近的目前場上角色賦予白曜護盾。\n\n此外，固有天賦「五重天的寒雨」的效果獲得提升：\n伊茲帕帕存在期間，隊伍中附近的角色觸發凍結反應或融化反應後，受本次反應影響的敵人的火元素與水元素抗性還會額外降低20%，持續12秒，該效果需要解鎖固有天賦「五重天的寒雨」。"
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "拒亡者的靈髑",
+                                                                         "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e霜晝黑星\u003c/color\u003e中，伊茲帕帕的霜隕風暴命中敵人時，會額外召喚一個\u003ccolor=#FFD780FF\u003e宿靈之髑·黑星\u003c/color\u003e，依此方式召喚的宿靈之髑發生爆炸時，會造成相當於茜特菈莉元素精通1800%的具有夜魂性質的\u003ccolor=#99FFFFFF\u003e冰元素範圍傷害\u003c/color\u003e，並為茜特菈莉恢復16點夜魂值和8點元素能量，該效果每8秒至多觸發一次。該傷害不被視為元素爆發傷害。",
+                                                                         "description":  "元素戰技霜晝黑星中，伊茲帕帕的霜隕風暴命中敵人時，會額外召喚一個宿靈之髑·黑星，依此方式召喚的宿靈之髑發生爆炸時，會造成相當於茜特菈莉元素精通1800%的具有夜魂性質的冰元素範圍傷害，並為茜特菈莉恢復16點夜魂值和8點元素能量，該效果每8秒至多觸發一次。該傷害不被視為元素爆發傷害。"
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "雲中蛇的羽冠",
+                                                                         "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e霜晝黑星\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                         "description":  "元素戰技霜晝黑星的技能等級提高3級。\n至多提升至15級。"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "五惡曜的咒縛",
+                                                                         "descriptionRaw":  "元素爆發\u003ccolor=#FFD780FF\u003e諸曜飭令\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                         "description":  "元素爆發諸曜飭令的技能等級提高3級。\n至多提升至15級。"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "原動天的密契",
+                                                                         "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e霜晝黑星\u003c/color\u003e中召喚的伊茲帕帕將始終為白燧狀態，夜魂值耗盡時，伊茲帕帕的白燧狀態也不會結束。\n此外，施放元素戰技\u003ccolor=#FFD780FF\u003e霜晝黑星\u003c/color\u003e時，伊茲帕帕將消耗所有夜魂值，並在存在期間內持續消耗夜魂值；每依上述方式消耗1點夜魂值，茜特菈莉就會獲得1點「秘律之數」。\n「秘律之數」上限為40點，基於茜特菈莉持有的「秘律之數」，每1點「秘律之數」會使附近的隊伍中所有角色獲得1.5%\u003ccolor=#FF9999FF\u003e火元素\u003c/color\u003e與\u003ccolor=#80C0FFFF\u003e水元素\u003c/color\u003e傷害加成，並使茜特菈莉造成的傷害提升2.5%。\n伊茲帕帕退場時，或再次施放元素戰技時，茜特菈莉持有的「秘律之數」將被移除。",
+                                                                         "description":  "元素戰技霜晝黑星中召喚的伊茲帕帕將始終為白燧狀態，夜魂值耗盡時，伊茲帕帕的白燧狀態也不會結束。\n此外，施放元素戰技霜晝黑星時，伊茲帕帕將消耗所有夜魂值，並在存在期間內持續消耗夜魂值；每依上述方式消耗1點夜魂值，茜特菈莉就會獲得1點「秘律之數」。\n「秘律之數」上限為40點，基於茜特菈莉持有的「秘律之數」，每1點「秘律之數」會使附近的隊伍中所有角色獲得1.5%火元素與水元素傷害加成，並使茜特菈莉造成的傷害提升2.5%。\n伊茲帕帕退場時，或再次施放元素戰技時，茜特菈莉持有的「秘律之數」將被移除。"
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "四百星的芒刃",
+                                                                         "descriptionRaw":  "施放元素戰技\u003ccolor=#FFD780FF\u003e霜晝黑星\u003c/color\u003e時，茜特菈莉將獲得「白星之裙」效果，持續至伊茲帕帕退場：持續期間，茜特菈莉獲得10層「星刃」，除茜特菈莉外的附近的目前場上角色的普通攻擊、重擊、下落攻擊、元素戰技或元素爆發造成傷害時，將消耗1層「星刃」，提升造成的傷害，提升值相當於茜特菈莉元素精通的200%。\n隊伍中附近的角色觸發凍結反應或融化反應後，茜特菈莉將額外獲得3層「星刃」，該效果每8秒至多觸發一次。\n\n施放元素戰技\u003ccolor=#FFD780FF\u003e霜晝黑星\u003c/color\u003e時，「星刃」的層數將會重置。\n此外，茜特菈莉進行騰躍，或是在空中進行瞄準或重擊時，消耗的燃素降低45%。",
+                                                                         "description":  "施放元素戰技霜晝黑星時，茜特菈莉將獲得「白星之裙」效果，持續至伊茲帕帕退場：持續期間，茜特菈莉獲得10層「星刃」，除茜特菈莉外的附近的目前場上角色的普通攻擊、重擊、下落攻擊、元素戰技或元素爆發造成傷害時，將消耗1層「星刃」，提升造成的傷害，提升值相當於茜特菈莉元素精通的200%。\n隊伍中附近的角色觸發凍結反應或融化反應後，茜特菈莉將額外獲得3層「星刃」，該效果每8秒至多觸發一次。\n\n施放元素戰技霜晝黑星時，「星刃」的層數將會重置。\n此外，茜特菈莉進行騰躍，或是在空中進行瞄準或重擊時，消耗的燃素降低45%。"
+                                                                     }
+                                                          },
+                                       "elementText":  "冰",
+                                       "fullname":  null,
+                                       "weaponText":  "法器",
+                                       "name":  "茜特菈莉",
+                                       "substatText":  "元素精通",
+                                       "region":  "納塔",
+                                       "gender":  "女"
+                                   },
                        "gorou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -4916,88 +5054,50 @@
                                      "region":  "蒙德",
                                      "gender":  "男"
                                  },
-                       "mona":  {
-                                    "constellations":  {
-                                                           "c2":  {
-                                                                      "name":  "星月的連珠",
-                                                                      "descriptionRaw":  "普通攻擊命中時，有20%的機率自動施放一次重擊。\n該效果每5秒只能觸發一次。",
-                                                                      "description":  "普通攻擊命中時，有20%的機率自動施放一次重擊。\n該效果每5秒只能觸發一次。"
-                                                                  },
-                                                           "c4":  {
-                                                                      "name":  "滅絕的預言",
-                                                                      "descriptionRaw":  "隊伍中所有角色攻擊處於星異狀態下的敵人時，暴擊率提升15%。",
-                                                                      "description":  "隊伍中所有角色攻擊處於星異狀態下的敵人時，暴擊率提升15%。"
-                                                                  },
-                                                           "c3":  {
-                                                                      "name":  "不休的天象",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e星命定軌\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                      "description":  "星命定軌的技能等級提高3級。\n至多提升至15級。"
-                                                                  },
-                                                           "c5":  {
-                                                                      "name":  "命運的嘲弄",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e水中幻願\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                      "description":  "水中幻願的技能等級提高3級。\n至多提升至15級。"
-                                                                  },
-                                                           "c6":  {
-                                                                      "name":  "厄運的修辭",
-                                                                      "descriptionRaw":  "進入\u003ccolor=#FFD780FF\u003e虛實流動\u003c/color\u003e狀態後，每移動1秒，莫娜的下一次重擊傷害就增加60%，\n透過這種方式至多可以獲得180%重擊傷害加成，該效果至多持續8秒。",
-                                                                      "description":  "進入虛實流動狀態後，每移動1秒，莫娜的下一次重擊傷害就增加60%，\n透過這種方式至多可以獲得180%重擊傷害加成，該效果至多持續8秒。"
-                                                                  },
-                                                           "c1":  {
-                                                                      "name":  "沉沒的預言",
-                                                                      "descriptionRaw":  "隊伍中自己的角色攻擊命中處於星異狀態下的敵人後的8秒內，\u003ccolor=#80C0FFFF\u003e水元素相關反應\u003c/color\u003e的效果提升：\n·感電反應造成的傷害提升15%，蒸發反應造成的傷害提升15%，水元素擴散反應造成的傷害提升15%；\n·凍結反應的持續時間延長15%。",
-                                                                      "description":  "隊伍中自己的角色攻擊命中處於星異狀態下的敵人後的8秒內，水元素相關反應的效果提升：\n·感電反應造成的傷害提升15%，蒸發反應造成的傷害提升15%，水元素擴散反應造成的傷害提升15%；\n·凍結反應的持續時間延長15%。"
-                                                                  }
-                                                       },
-                                    "elementText":  "水",
-                                    "fullname":  null,
-                                    "weaponText":  "法器",
-                                    "name":  "莫娜",
-                                    "substatText":  "元素充能效率",
-                                    "region":  "蒙德",
-                                    "gender":  "女"
-                                },
-                       "sangonomiyakokomi":  {
-                                                 "constellations":  {
-                                                                        "c2":  {
-                                                                                   "name":  "波起雲海",
-                                                                                   "descriptionRaw":  "基於珊瑚宮心海的生命值上限，珊瑚宮心海對生命值低於或等於50%的角色，透過以下途徑進行治療的回復量獲得提升：\n·\u003ccolor=#FFD780FF\u003e海月之誓\u003c/color\u003e的化海月：生命值上限的4.5%\n·\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的普通攻擊與重擊：生命值上限的0.6%。",
-                                                                                   "description":  "基於珊瑚宮心海的生命值上限，珊瑚宮心海對生命值低於或等於50%的角色，透過以下途徑進行治療的回復量獲得提升：\n·海月之誓的化海月：生命值上限的4.5%\n·海人化羽的普通攻擊與重擊：生命值上限的0.6%。"
-                                                                               },
-                                                                        "c4":  {
-                                                                                   "name":  "月攝千川",
-                                                                                   "descriptionRaw":  "處於\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的攻擊速度提升10%，並會在普通攻擊命中敵人時，恢復0.8點元素能量。\n該效果每0.2秒至多觸發一次。",
-                                                                                   "description":  "處於海人化羽的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的攻擊速度提升10%，並會在普通攻擊命中敵人時，恢復0.8點元素能量。\n該效果每0.2秒至多觸發一次。"
-                                                                               },
-                                                                        "c3":  {
-                                                                                   "name":  "海渚月舟",
-                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                                   "description":  "海人化羽的技能等級提高3級。\n至多提升至15級。"
-                                                                               },
-                                                                        "c5":  {
-                                                                                   "name":  "百川集海",
-                                                                                   "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e海月之誓\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                                   "description":  "海月之誓的技能等級提高3級。\n至多提升至15級。"
-                                                                               },
-                                                                        "c6":  {
-                                                                                   "name":  "珊瑚一心",
-                                                                                   "descriptionRaw":  "處於\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的儀來羽衣狀態下時，珊瑚宮心海的普通攻擊和重擊對生命值高於或等於80%的角色進行治療時，將獲得40%\u003ccolor=#80C0FFFF\u003e水元素傷害加成\u003c/color\u003e，持續4秒。",
-                                                                                   "description":  "處於海人化羽的儀來羽衣狀態下時，珊瑚宮心海的普通攻擊和重擊對生命值高於或等於80%的角色進行治療時，將獲得40%水元素傷害加成，持續4秒。"
-                                                                               },
-                                                                        "c1":  {
-                                                                                   "name":  "決水於溪",
-                                                                                   "descriptionRaw":  "處於\u003ccolor=#FFD780FF\u003e海人化羽\u003c/color\u003e的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的最後一擊會額外釋放一隻游魚，造成相當於珊瑚宮心海生命值上限30%的\u003ccolor=#80C0FFFF\u003e水元素傷害\u003c/color\u003e。\n該傷害不被視為普通攻擊傷害。",
-                                                                                   "description":  "處於海人化羽的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的最後一擊會額外釋放一隻游魚，造成相當於珊瑚宮心海生命值上限30%的水元素傷害。\n該傷害不被視為普通攻擊傷害。"
-                                                                               }
-                                                                    },
-                                                 "elementText":  "水",
-                                                 "fullname":  null,
-                                                 "weaponText":  "法器",
-                                                 "name":  "珊瑚宮心海",
-                                                 "substatText":  "水元素傷害加成",
-                                                 "region":  "稻妻",
-                                                 "gender":  "女"
-                                             },
+                       "travelerpyro":  {
+                                            "constellations":  {
+                                                                   "c2":  {
+                                                                              "name":  "長明的燭火",
+                                                                              "descriptionRaw":  "施放元素戰技\u003ccolor=#FFD780FF\u003e流火劍\u003c/color\u003e後的12秒內，隊伍中附近的角色對敵人觸發\u003ccolor=#FF9999FF\u003e火元素相關反應\u003c/color\u003e後，將為旅行者恢復14點夜魂值，每次施放元素戰技\u003ccolor=#FFD780FF\u003e流火劍\u003c/color\u003e至多依此方式恢復28點夜魂值。",
+                                                                              "description":  "施放元素戰技流火劍後的12秒內，隊伍中附近的角色對敵人觸發火元素相關反應後，將為旅行者恢復14點夜魂值，每次施放元素戰技流火劍至多依此方式恢復28點夜魂值。"
+                                                                          },
+                                                                   "c4":  {
+                                                                              "name":  "燎灼的烈火",
+                                                                              "descriptionRaw":  "施放元素爆發\u003ccolor=#FFD780FF\u003e灼火燎原\u003c/color\u003e後，旅行者獲得20%\u003ccolor=#FF9999FF\u003e火元素傷害加成\u003c/color\u003e，持續9秒。",
+                                                                              "description":  "施放元素爆發灼火燎原後，旅行者獲得20%火元素傷害加成，持續9秒。"
+                                                                          },
+                                                                   "c3":  {
+                                                                              "name":  "燧傳的烽火",
+                                                                              "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e流火劍\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                              "description":  "元素戰技流火劍的技能等級提高3級。\n至多提升至15級。"
+                                                                          },
+                                                                   "c5":  {
+                                                                              "name":  "不滅的薪火",
+                                                                              "descriptionRaw":  "元素爆發\u003ccolor=#FFD780FF\u003e灼火燎原\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                              "description":  "元素爆發灼火燎原的技能等級提高3級。\n至多提升至15級。"
+                                                                          },
+                                                                   "c6":  {
+                                                                              "name":  "永燃的聖火",
+                                                                              "descriptionRaw":  "處於夜魂加持狀態下時，旅行者的普通攻擊、重擊與下落攻擊將轉為具有夜魂性質且無法被附魔覆蓋的\u003ccolor=#FF9999FF\u003e火元素傷害\u003c/color\u003e，且這些攻擊的暴擊傷害提升40%。",
+                                                                              "description":  "處於夜魂加持狀態下時，旅行者的普通攻擊、重擊與下落攻擊將轉為具有夜魂性質且無法被附魔覆蓋的火元素傷害，且這些攻擊的暴擊傷害提升40%。"
+                                                                          },
+                                                                   "c1":  {
+                                                                              "name":  "流光的星火",
+                                                                              "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e焰烈之檻\u003c/color\u003e或\u003ccolor=#FFD780FF\u003e灼火之檻\u003c/color\u003e存在期間，目前場上角色造成的傷害提升6%；若目前場上角色處於夜魂加持狀態，造成的傷害還會提升9%。",
+                                                                              "description":  "焰烈之檻或灼火之檻存在期間，目前場上角色造成的傷害提升6%；若目前場上角色處於夜魂加持狀態，造成的傷害還會提升9%。"
+                                                                          }
+                                                               }
+                                        },
+                       "aether":  {
+                                      "constellations":  null,
+                                      "elementText":  "無",
+                                      "fullname":  null,
+                                      "weaponText":  "單手劍",
+                                      "name":  "空",
+                                      "substatText":  "攻擊力",
+                                      "region":  "",
+                                      "gender":  "男"
+                                  },
                        "travelerelectro":  {
                                                "constellations":  {
                                                                       "c2":  {
@@ -5599,16 +5699,88 @@
                                            "region":  "稻妻",
                                            "gender":  "男"
                                        },
-                       "aether":  {
-                                      "constellations":  null,
-                                      "elementText":  "無",
+                       "lanyan":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "「舞袂翩兮揚玉霓」",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e鳳縷護盾\u003c/color\u003e存在期間，隊伍中自己的目前場上角色的普通攻擊造成傷害時，會恢復40%鳳縷護盾的傷害吸收量，至多恢復至創造護盾時的傷害吸收量，該效果每2秒至多觸發一次。",
+                                                                        "description":  "鳳縷護盾存在期間，隊伍中自己的目前場上角色的普通攻擊造成傷害時，會恢復40%鳳縷護盾的傷害吸收量，至多恢復至創造護盾時的傷害吸收量，該效果每2秒至多觸發一次。"
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "「攬龍鷹兮結血珠」",
+                                                                        "descriptionRaw":  "施放元素爆發\u003ccolor=#FFD780FF\u003e鶤弦踏月出\u003c/color\u003e之後的12秒內，隊伍中附近所有角色的元素精通提升60點。",
+                                                                        "description":  "施放元素爆發鶤弦踏月出之後的12秒內，隊伍中附近所有角色的元素精通提升60點。"
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "「乘白鳳兮翦霧縠」",
+                                                                        "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e鳳縷隨翦舞\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                        "description":  "元素戰技鳳縷隨翦舞的技能等級提高3級。\n至多提升至15級。"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "「既見君兮予所歡」",
+                                                                        "descriptionRaw":  "元素爆發\u003ccolor=#FFD780FF\u003e鶤弦踏月出\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                        "description":  "元素爆發鶤弦踏月出的技能等級提高3級。\n至多提升至15級。"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "「願隨風兮鳴銀鸞」",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e鳳縷隨翦舞\u003c/color\u003e的可使用次數增加1次。",
+                                                                        "description":  "鳳縷隨翦舞的可使用次數增加1次。"
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "「若有人兮雲之際」",
+                                                                        "descriptionRaw":  "觸發固有天賦「四戈封刀靈卜」中的元素轉化後，藍硯在這次元素戰技\u003ccolor=#FFD780FF\u003e鳳縷隨翦舞\u003c/color\u003e中向敵人投擲翦月環時，將額外投擲一枚翦月環。\n需要解鎖固有天賦「四戈封刀靈卜」。",
+                                                                        "description":  "觸發固有天賦「四戈封刀靈卜」中的元素轉化後，藍硯在這次元素戰技鳳縷隨翦舞中向敵人投擲翦月環時，將額外投擲一枚翦月環。\n需要解鎖固有天賦「四戈封刀靈卜」。"
+                                                                    }
+                                                         },
+                                      "elementText":  "風",
                                       "fullname":  null,
-                                      "weaponText":  "單手劍",
-                                      "name":  "空",
+                                      "weaponText":  "法器",
+                                      "name":  "藍硯",
                                       "substatText":  "攻擊力",
-                                      "region":  "",
-                                      "gender":  "男"
+                                      "region":  "璃月",
+                                      "gender":  "女"
                                   },
+                       "mona":  {
+                                    "constellations":  {
+                                                           "c2":  {
+                                                                      "name":  "星月的連珠",
+                                                                      "descriptionRaw":  "普通攻擊命中時，有20%的機率自動施放一次重擊。\n該效果每5秒只能觸發一次。",
+                                                                      "description":  "普通攻擊命中時，有20%的機率自動施放一次重擊。\n該效果每5秒只能觸發一次。"
+                                                                  },
+                                                           "c4":  {
+                                                                      "name":  "滅絕的預言",
+                                                                      "descriptionRaw":  "隊伍中所有角色攻擊處於星異狀態下的敵人時，暴擊率提升15%。",
+                                                                      "description":  "隊伍中所有角色攻擊處於星異狀態下的敵人時，暴擊率提升15%。"
+                                                                  },
+                                                           "c3":  {
+                                                                      "name":  "不休的天象",
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e星命定軌\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                      "description":  "星命定軌的技能等級提高3級。\n至多提升至15級。"
+                                                                  },
+                                                           "c5":  {
+                                                                      "name":  "命運的嘲弄",
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e水中幻願\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                      "description":  "水中幻願的技能等級提高3級。\n至多提升至15級。"
+                                                                  },
+                                                           "c6":  {
+                                                                      "name":  "厄運的修辭",
+                                                                      "descriptionRaw":  "進入\u003ccolor=#FFD780FF\u003e虛實流動\u003c/color\u003e狀態後，每移動1秒，莫娜的下一次重擊傷害就增加60%，\n透過這種方式至多可以獲得180%重擊傷害加成，該效果至多持續8秒。",
+                                                                      "description":  "進入虛實流動狀態後，每移動1秒，莫娜的下一次重擊傷害就增加60%，\n透過這種方式至多可以獲得180%重擊傷害加成，該效果至多持續8秒。"
+                                                                  },
+                                                           "c1":  {
+                                                                      "name":  "沉沒的預言",
+                                                                      "descriptionRaw":  "隊伍中自己的角色攻擊命中處於星異狀態下的敵人後的8秒內，\u003ccolor=#80C0FFFF\u003e水元素相關反應\u003c/color\u003e的效果提升：\n·感電反應造成的傷害提升15%，蒸發反應造成的傷害提升15%，水元素擴散反應造成的傷害提升15%；\n·凍結反應的持續時間延長15%。",
+                                                                      "description":  "隊伍中自己的角色攻擊命中處於星異狀態下的敵人後的8秒內，水元素相關反應的效果提升：\n·感電反應造成的傷害提升15%，蒸發反應造成的傷害提升15%，水元素擴散反應造成的傷害提升15%；\n·凍結反應的持續時間延長15%。"
+                                                                  }
+                                                       },
+                                    "elementText":  "水",
+                                    "fullname":  null,
+                                    "weaponText":  "法器",
+                                    "name":  "莫娜",
+                                    "substatText":  "元素充能效率",
+                                    "region":  "蒙德",
+                                    "gender":  "女"
+                                },
                        "barbara":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -6012,47 +6184,47 @@
                                       "region":  "璃月",
                                       "gender":  "男"
                                   },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "全力以赴瑪拉妮！",
-                                                                         "descriptionRaw":  "進入夜魂加持狀態時，瑪拉妮獲得2層\u003ccolor=#FFD780FF\u003e踏鯊破浪\u003c/color\u003e的浪勢充能；瑪拉妮獲得豚豚球時，獲得1層浪勢充能。\n此外，瑪拉妮在一次夜魂加持期間獲得2個豚豚球的2秒內，額外恢復12點夜魂值。該效果需要解鎖固有天賦「耐熱型淡水豚豚」。",
-                                                                         "description":  "進入夜魂加持狀態時，瑪拉妮獲得2層踏鯊破浪的浪勢充能；瑪拉妮獲得豚豚球時，獲得1層浪勢充能。\n此外，瑪拉妮在一次夜魂加持期間獲得2個豚豚球的2秒內，額外恢復12點夜魂值。該效果需要解鎖固有天賦「耐熱型淡水豚豚」。"
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "鯊鯊主食是豚豚。",
-                                                                         "descriptionRaw":  "獲得豚豚球時，瑪拉妮恢復8點元素能量；該效果需要解鎖固有天賦「耐熱型淡水豚豚」。\n此外，\u003ccolor=#FFD780FF\u003e爆瀑飛彈\u003c/color\u003e造成的傷害提升75%。",
-                                                                         "description":  "獲得豚豚球時，瑪拉妮恢復8點元素能量；該效果需要解鎖固有天賦「耐熱型淡水豚豚」。\n此外，爆瀑飛彈造成的傷害提升75%。"
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "在歡樂海上衝浪",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e踏鯊破浪\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                         "description":  "踏鯊破浪的技能等級提高3級。\n至多提升至15級。"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "同款衝浪板有賣！",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e爆瀑飛彈\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
-                                                                         "description":  "爆瀑飛彈的技能等級提高3級。\n至多提升至15級。"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "「流泉之眾」的精神",
-                                                                         "descriptionRaw":  "對命之座「悠閒的『梅茲特利』…」的傷害提升效果，移除原本每次夜魂加持只能觸發一次的限制。",
-                                                                         "description":  "對命之座「悠閒的『梅茲特利』…」的傷害提升效果，移除原本每次夜魂加持只能觸發一次的限制。"
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "悠閒的「梅茲特利」…",
-                                                                         "descriptionRaw":  "進入夜魂加持狀態後的第一次巨浪鯊鯊撕咬及其所觸發的鯊鯊飛彈造成的傷害提升，提升值相當於瑪拉妮生命值上限的66%。此次傷害提升遵循\u003ccolor=#FFD780FF\u003e踏鯊破浪\u003c/color\u003e的傷害衰減規則。\n此外，不處於戰鬥狀態下時，瑪拉妮的夜魂加持狀態消耗的夜魂值與燃素降低30%。",
-                                                                         "description":  "進入夜魂加持狀態後的第一次巨浪鯊鯊撕咬及其所觸發的鯊鯊飛彈造成的傷害提升，提升值相當於瑪拉妮生命值上限的66%。此次傷害提升遵循踏鯊破浪的傷害衰減規則。\n此外，不處於戰鬥狀態下時，瑪拉妮的夜魂加持狀態消耗的夜魂值與燃素降低30%。"
-                                                                     }
-                                                          },
-                                       "elementText":  "水",
-                                       "fullname":  null,
-                                       "weaponText":  "法器",
-                                       "name":  "瑪拉妮",
-                                       "substatText":  "暴擊率",
-                                       "region":  "納塔",
-                                       "gender":  "女"
-                                   },
+                       "beidou":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "赫赫雷湧起",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e斫雷\u003c/color\u003e的閃雷能額外彈跳2個敵人。",
+                                                                        "description":  "斫雷的閃雷能額外彈跳2個敵人。"
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "牽星覓鄉岸",
+                                                                        "descriptionRaw":  "受到攻擊後的10秒內，北斗的普通攻擊附帶20%額外\u003ccolor=#FFACFFFF\u003e雷元素傷害\u003c/color\u003e。",
+                                                                        "description":  "受到攻擊後的10秒內，北斗的普通攻擊附帶20%額外雷元素傷害。"
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "潮奔驀引電",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e捉浪\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                        "description":  "捉浪的技能等級提高3級。\n至多提升至15級。"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "踏浪霞連階",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e斫雷\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                        "description":  "斫雷的技能等級提高3級。\n至多提升至15級。"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "北斗祓幽孽",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e斫雷\u003c/color\u003e持續期間，周圍敵人的\u003ccolor=#FFACFFFF\u003e雷元素抗性\u003c/color\u003e降低15%。",
+                                                                        "description":  "斫雷持續期間，周圍敵人的雷元素抗性降低15%。"
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "魚龍沉四方",
+                                                                        "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e斫雷\u003c/color\u003e時：\n產生一個傷害吸收量等於生命值上限16%的護盾，持續15秒。\n該護盾對\u003ccolor=#FFACFFFF\u003e雷元素傷害\u003c/color\u003e有250%的吸收效果。",
+                                                                        "description":  "施放斫雷時：\n產生一個傷害吸收量等於生命值上限16%的護盾，持續15秒。\n該護盾對雷元素傷害有250%的吸收效果。"
+                                                                    }
+                                                         },
+                                      "elementText":  "雷",
+                                      "fullname":  null,
+                                      "weaponText":  "雙手劍",
+                                      "name":  "北斗",
+                                      "substatText":  "雷元素傷害加成",
+                                      "region":  "璃月",
+                                      "gender":  "女"
+                                  },
                        "nilou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6553,65 +6725,85 @@
                                                  },
                                           "effectName":  "不屈"
                                       },
-                    "wineandsong":  {
-                                        "r3":  {
-                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低18%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升30%，持續5秒。",
-                                                   "values":  [
-                                                                  "18%",
-                                                                  "30%"
-                                                              ]
-                                               },
-                                        "r5":  {
-                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低22%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升40%，持續5秒。",
-                                                   "values":  [
-                                                                  "22%",
-                                                                  "40%"
-                                                              ]
-                                               },
-                                        "r2":  {
-                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低16%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升25%，持續5秒。",
-                                                   "values":  [
-                                                                  "16%",
-                                                                  "25%"
-                                                              ]
-                                               },
-                                        "r4":  {
-                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低20%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升35%，持續5秒。",
-                                                   "values":  [
-                                                                  "20%",
-                                                                  "35%"
-                                                              ]
-                                               },
-                                        "substatText":  "元素充能效率",
-                                        "weaponText":  "法器",
-                                        "name":  "暗巷的酒與詩",
-                                        "effectTemplateRaw":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，持續5秒。",
-                                        "r1":  {
-                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低14%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升20%，持續5秒。",
-                                                   "values":  [
-                                                                  "14%",
-                                                                  "20%"
-                                                              ]
-                                               },
-                                        "effectName":  "變化萬端"
-                                    },
-                    "prizedisshinblade":  {
-                                              "r3":  null,
-                                              "r5":  null,
-                                              "r2":  null,
-                                              "r4":  null,
-                                              "substatText":  "攻擊力",
-                                              "weaponText":  "單手劍",
-                                              "name":  "「一心傳」名刀",
-                                              "effectTemplateRaw":  "普通攻擊、重擊或下落攻擊命中敵人時，將釋放祟靈，造成180%攻擊力的範圍傷害，並且恢復等同於攻擊力100%的生命值。該效果每8秒至多觸發一次；裝備該武器的角色造成的傷害降低50%。",
-                                              "r1":  {
-                                                         "description":  "普通攻擊、重擊或下落攻擊命中敵人時，將釋放祟靈，造成180%攻擊力的範圍傷害，並且恢復等同於攻擊力100%的生命值。該效果每8秒至多觸發一次；裝備該武器的角色造成的傷害降低50%。",
-                                                         "values":  [
-
-                                                                    ]
-                                                     },
-                                              "effectName":  "徊徊切舍刀"
-                                          },
+                    "starcallerswatch":  {
+                                             "r3":  {
+                                                        "description":  "元素精通提升150點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升42%，每14秒至多獲得一次「照夜之鏡」效果。",
+                                                        "values":  [
+                                                                       "150",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "元素精通提升200點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升56%，每14秒至多獲得一次「照夜之鏡」效果。",
+                                                        "values":  [
+                                                                       "200",
+                                                                       "56%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "元素精通提升125點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升35%，每14秒至多獲得一次「照夜之鏡」效果。",
+                                                        "values":  [
+                                                                       "125",
+                                                                       "35%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "元素精通提升175點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升49%，每14秒至多獲得一次「照夜之鏡」效果。",
+                                                        "values":  [
+                                                                       "175",
+                                                                       "49%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "元素精通",
+                                             "weaponText":  "法器",
+                                             "name":  "祭星者之望",
+                                             "effectTemplateRaw":  "元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，每14秒至多獲得一次「照夜之鏡」效果。",
+                                             "r1":  {
+                                                        "description":  "元素精通提升100點。裝備者創造護盾後的15秒內，獲得「照夜之鏡」效果：隊伍中自己的目前場上角色對附近的敵人造成的傷害提升28%，每14秒至多獲得一次「照夜之鏡」效果。",
+                                                        "values":  [
+                                                                       "100",
+                                                                       "28%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "奉予風陽的禋祀"
+                                         },
+                    "recurvebow":  {
+                                       "r3":  {
+                                                  "description":  "擊敗敵人時，恢復12%生命值。",
+                                                  "values":  [
+                                                                 "12%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "擊敗敵人時，恢復16%生命值。",
+                                                  "values":  [
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "擊敗敵人時，恢復10%生命值。",
+                                                  "values":  [
+                                                                 "10%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "擊敗敵人時，恢復14%生命值。",
+                                                  "values":  [
+                                                                 "14%"
+                                                             ]
+                                              },
+                                       "substatText":  "生命值",
+                                       "weaponText":  "弓",
+                                       "name":  "反曲弓",
+                                       "effectTemplateRaw":  "擊敗敵人時，恢復\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e生命值。",
+                                       "r1":  {
+                                                  "description":  "擊敗敵人時，恢復8%生命值。",
+                                                  "values":  [
+                                                                 "8%"
+                                                             ]
+                                              },
+                                       "effectName":  "收割"
+                                   },
                     "eyeofperception":  {
                                             "r3":  {
                                                        "description":  "普通攻擊與重擊命中時，有50%機率發射一枚昭心法球，造成300%攻擊力傷害，至多在敵人之間彈射四次。該效果每10秒至多觸發一次。",
@@ -10155,48 +10347,48 @@
                                              },
                                       "effectName":  "止水融冰"
                                   },
-                    "sacrificialjade":  {
-                                            "r3":  {
-                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升48%，元素精通提升60點。裝備者登場並留在場上10秒後，該效果將失效。",
-                                                       "values":  [
-                                                                      "48%",
-                                                                      "60"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升64%，元素精通提升80點。裝備者登場並留在場上10秒後，該效果將失效。",
-                                                       "values":  [
-                                                                      "64%",
-                                                                      "80"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升40%，元素精通提升50點。裝備者登場並留在場上10秒後，該效果將失效。",
-                                                       "values":  [
-                                                                      "40%",
-                                                                      "50"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升56%，元素精通提升70點。裝備者登場並留在場上10秒後，該效果將失效。",
-                                                       "values":  [
-                                                                      "56%",
-                                                                      "70"
-                                                                  ]
-                                                   },
-                                            "substatText":  "暴擊率",
-                                            "weaponText":  "法器",
-                                            "name":  "遺祀玉瓏",
-                                            "effectTemplateRaw":  "處於隊伍後臺超過5秒後，生命值上限提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，元素精通提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e點。裝備者登場並留在場上10秒後，該效果將失效。",
-                                            "r1":  {
-                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升32%，元素精通提升40點。裝備者登場並留在場上10秒後，該效果將失效。",
-                                                       "values":  [
-                                                                      "32%",
-                                                                      "40"
-                                                                  ]
-                                                   },
-                                            "effectName":  "碧玉流轉"
-                                        },
+                    "harangeppakufutsu":  {
+                                              "r3":  {
+                                                         "description":  "獲得18%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升30%普通攻擊傷害，持續8秒。",
+                                                         "values":  [
+                                                                        "18%",
+                                                                        "30%"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "獲得24%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升40%普通攻擊傷害，持續8秒。",
+                                                         "values":  [
+                                                                        "24%",
+                                                                        "40%"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "獲得15%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升25%普通攻擊傷害，持續8秒。",
+                                                         "values":  [
+                                                                        "15%",
+                                                                        "25%"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "獲得21%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升35%普通攻擊傷害，持續8秒。",
+                                                         "values":  [
+                                                                        "21%",
+                                                                        "35%"
+                                                                    ]
+                                                     },
+                                              "substatText":  "暴擊率",
+                                              "weaponText":  "單手劍",
+                                              "name":  "波亂月白經津",
+                                              "effectTemplateRaw":  "獲得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e普通攻擊傷害，持續8秒。",
+                                              "r1":  {
+                                                         "description":  "獲得12%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升20%普通攻擊傷害，持續8秒。",
+                                                         "values":  [
+                                                                        "12%",
+                                                                        "20%"
+                                                                    ]
+                                                     },
+                                              "effectName":  "白刃流轉"
+                                          },
                     "favoniussword":  {
                                           "r3":  {
                                                      "description":  "攻擊造成暴擊時，有80%的機率產生少量元素微粒，能為角色恢復6點元素能量。該效果每9秒只能觸發一次。",
@@ -10276,43 +10468,6 @@
                                                          },
                                                   "effectName":  "綠松石之狩"
                                               },
-                    "recurvebow":  {
-                                       "r3":  {
-                                                  "description":  "擊敗敵人時，恢復12%生命值。",
-                                                  "values":  [
-                                                                 "12%"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "擊敗敵人時，恢復16%生命值。",
-                                                  "values":  [
-                                                                 "16%"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "擊敗敵人時，恢復10%生命值。",
-                                                  "values":  [
-                                                                 "10%"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "擊敗敵人時，恢復14%生命值。",
-                                                  "values":  [
-                                                                 "14%"
-                                                             ]
-                                              },
-                                       "substatText":  "生命值",
-                                       "weaponText":  "弓",
-                                       "name":  "反曲弓",
-                                       "effectTemplateRaw":  "擊敗敵人時，恢復\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e生命值。",
-                                       "r1":  {
-                                                  "description":  "擊敗敵人時，恢復8%生命值。",
-                                                  "values":  [
-                                                                 "8%"
-                                                             ]
-                                              },
-                                       "effectName":  "收割"
-                                   },
                     "crescentpike":  {
                                          "r3":  {
                                                     "description":  "獲得元素微粒或元素晶球後的5秒內，普通攻擊和重擊額外造成30%攻擊力傷害。",
@@ -11757,48 +11912,100 @@
                                                     },
                                              "effectName":  "乘勝追擊"
                                          },
-                    "harangeppakufutsu":  {
-                                              "r3":  {
-                                                         "description":  "獲得18%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升30%普通攻擊傷害，持續8秒。",
-                                                         "values":  [
-                                                                        "18%",
-                                                                        "30%"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "獲得24%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升40%普通攻擊傷害，持續8秒。",
-                                                         "values":  [
-                                                                        "24%",
-                                                                        "40%"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "獲得15%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升25%普通攻擊傷害，持續8秒。",
-                                                         "values":  [
-                                                                        "15%",
-                                                                        "25%"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "獲得21%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升35%普通攻擊傷害，持續8秒。",
-                                                         "values":  [
-                                                                        "21%",
-                                                                        "35%"
-                                                                    ]
-                                                     },
-                                              "substatText":  "暴擊率",
-                                              "weaponText":  "單手劍",
-                                              "name":  "波亂月白經津",
-                                              "effectTemplateRaw":  "獲得\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e普通攻擊傷害，持續8秒。",
-                                              "r1":  {
-                                                         "description":  "獲得12%所有元素傷害加成；隊伍中附近的其他角色在施放元素戰技時，會為裝備該武器的角色產生1層「波穗」效果，至多疊加2層，每0.3秒最多觸發1次。裝備該武器的角色施放元素戰技時，如果有累積的「波穗」效果，則將消耗已有的「波穗」，獲得「波亂」：根據消耗的層數，每層提升20%普通攻擊傷害，持續8秒。",
-                                                         "values":  [
-                                                                        "12%",
-                                                                        "20%"
-                                                                    ]
-                                                     },
-                                              "effectName":  "白刃流轉"
-                                          },
+                    "sacrificialjade":  {
+                                            "r3":  {
+                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升48%，元素精通提升60點。裝備者登場並留在場上10秒後，該效果將失效。",
+                                                       "values":  [
+                                                                      "48%",
+                                                                      "60"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升64%，元素精通提升80點。裝備者登場並留在場上10秒後，該效果將失效。",
+                                                       "values":  [
+                                                                      "64%",
+                                                                      "80"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升40%，元素精通提升50點。裝備者登場並留在場上10秒後，該效果將失效。",
+                                                       "values":  [
+                                                                      "40%",
+                                                                      "50"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升56%，元素精通提升70點。裝備者登場並留在場上10秒後，該效果將失效。",
+                                                       "values":  [
+                                                                      "56%",
+                                                                      "70"
+                                                                  ]
+                                                   },
+                                            "substatText":  "暴擊率",
+                                            "weaponText":  "法器",
+                                            "name":  "遺祀玉瓏",
+                                            "effectTemplateRaw":  "處於隊伍後臺超過5秒後，生命值上限提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，元素精通提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e點。裝備者登場並留在場上10秒後，該效果將失效。",
+                                            "r1":  {
+                                                       "description":  "處於隊伍後臺超過5秒後，生命值上限提升32%，元素精通提升40點。裝備者登場並留在場上10秒後，該效果將失效。",
+                                                       "values":  [
+                                                                      "32%",
+                                                                      "40"
+                                                                  ]
+                                                   },
+                                            "effectName":  "碧玉流轉"
+                                        },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高12%，並獲得15%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高12%，至多提高38.4%，持續15秒。",
+                                                      "values":  [
+                                                                     "12%",
+                                                                     "15%",
+                                                                     "12%",
+                                                                     "38.4%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高16%，並獲得20%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高16%，至多提高51.2%，持續15秒。",
+                                                      "values":  [
+                                                                     "16%",
+                                                                     "20%",
+                                                                     "16%",
+                                                                     "51.2%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高10%，並獲得12.5%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高10%，至多提高32%，持續15秒。",
+                                                      "values":  [
+                                                                     "10%",
+                                                                     "12.5%",
+                                                                     "10%",
+                                                                     "32%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高14%，並獲得17.5%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高14%，至多提高44.8%，持續15秒。",
+                                                      "values":  [
+                                                                     "14%",
+                                                                     "17.5%",
+                                                                     "14%",
+                                                                     "44.8%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "防禦力",
+                                           "weaponText":  "單手劍",
+                                           "name":  "岩峰巡歌",
+                                           "effectTemplateRaw":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，並獲得\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e，至多提高\u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e，持續15秒。",
+                                           "r1":  {
+                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高8%，並獲得10%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高8%，至多提高25.6%，持續15秒。",
+                                                      "values":  [
+                                                                     "8%",
+                                                                     "10%",
+                                                                     "8%",
+                                                                     "25.6%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "不凋的盛年"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -13145,58 +13352,23 @@
                                                             },
                                                      "effectName":  "德呂阿的夜曲"
                                                  },
-                    "peakpatrolsong":  {
-                                           "r3":  {
-                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高12%，並獲得15%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高12%，至多提高38.4%，持續15秒。",
-                                                      "values":  [
-                                                                     "12%",
-                                                                     "15%",
-                                                                     "12%",
-                                                                     "38.4%"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高16%，並獲得20%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高16%，至多提高51.2%，持續15秒。",
-                                                      "values":  [
-                                                                     "16%",
-                                                                     "20%",
-                                                                     "16%",
-                                                                     "51.2%"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高10%，並獲得12.5%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高10%，至多提高32%，持續15秒。",
-                                                      "values":  [
-                                                                     "10%",
-                                                                     "12.5%",
-                                                                     "10%",
-                                                                     "32%"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高14%，並獲得17.5%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高14%，至多提高44.8%，持續15秒。",
-                                                      "values":  [
-                                                                     "14%",
-                                                                     "17.5%",
-                                                                     "14%",
-                                                                     "44.8%"
-                                                                 ]
-                                                  },
-                                           "substatText":  "防禦力",
-                                           "weaponText":  "單手劍",
-                                           "name":  "岩峰巡歌",
-                                           "effectTemplateRaw":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，並獲得\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e，至多提高\u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e，持續15秒。",
-                                           "r1":  {
-                                                      "description":  "普通攻擊或下落攻擊命中敵人後，將獲得「榮花之歌」：防禦力提高8%，並獲得10%所有元素傷害加成，該效果持續6秒，至多疊加2層，每0.1秒至多觸發一次。該效果疊加至2層或2層的持續時間重置時，基於裝備者的防禦力，每1000點使隊伍中附近所有角色的所有元素傷害加成提高8%，至多提高25.6%，持續15秒。",
-                                                      "values":  [
-                                                                     "8%",
-                                                                     "10%",
-                                                                     "8%",
-                                                                     "25.6%"
-                                                                 ]
-                                                  },
-                                           "effectName":  "不凋的盛年"
-                                       },
+                    "prizedisshinblade":  {
+                                              "r3":  null,
+                                              "r5":  null,
+                                              "r2":  null,
+                                              "r4":  null,
+                                              "substatText":  "攻擊力",
+                                              "weaponText":  "單手劍",
+                                              "name":  "「一心傳」名刀",
+                                              "effectTemplateRaw":  "普通攻擊、重擊或下落攻擊命中敵人時，將釋放祟靈，造成180%攻擊力的範圍傷害，並且恢復等同於攻擊力100%的生命值。該效果每8秒至多觸發一次；裝備該武器的角色造成的傷害降低50%。",
+                                              "r1":  {
+                                                         "description":  "普通攻擊、重擊或下落攻擊命中敵人時，將釋放祟靈，造成180%攻擊力的範圍傷害，並且恢復等同於攻擊力100%的生命值。該效果每8秒至多觸發一次；裝備該武器的角色造成的傷害降低50%。",
+                                                         "values":  [
+
+                                                                    ]
+                                                     },
+                                              "effectName":  "徊徊切舍刀"
+                                          },
                     "ultimateoverlordsmegamagicsword":  {
                                                             "r3":  {
                                                                        "description":  "攻擊力提升18%。不僅如此！海沫村中曾蒙你幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升18%。",
@@ -13239,6 +13411,48 @@
                                                                    },
                                                             "effectName":  "加油！"
                                                         },
+                    "wineandsong":  {
+                                        "r3":  {
+                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低18%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升30%，持續5秒。",
+                                                   "values":  [
+                                                                  "18%",
+                                                                  "30%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低22%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升40%，持續5秒。",
+                                                   "values":  [
+                                                                  "22%",
+                                                                  "40%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低16%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升25%，持續5秒。",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "25%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低20%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升35%，持續5秒。",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "35%"
+                                                              ]
+                                               },
+                                        "substatText":  "元素充能效率",
+                                        "weaponText":  "法器",
+                                        "name":  "暗巷的酒與詩",
+                                        "effectTemplateRaw":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，持續5秒。",
+                                        "r1":  {
+                                                   "description":  "普通攻擊命中敵人後，衝刺或替代衝刺的能力消耗的體力降低14%，持續5秒。此外，使用衝刺或替代衝刺的能力後，攻擊力提升20%，持續5秒。",
+                                                   "values":  [
+                                                                  "14%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "effectName":  "變化萬端"
+                                    },
                     "forestregalia":  {
                                           "r3":  {
                                                      "description":  "觸發燃燒、原激化、超激化、蔓激化、綻放、超綻放或烈綻放後，將在角色周圍產生至多存在10秒的「種識之葉」。拾取種識之葉的角色元素精通提升90點，持續12秒。每20秒至多依此方式產生一枚種識之葉。角色處於隊伍後臺時也能觸發。種識之葉的效果無法累加。",
@@ -13671,6 +13885,48 @@
                                                 },
                                          "effectName":  "「伶牙俐齒」"
                                      },
+                    "athousandblazingsuns":  {
+                                                 "r3":  {
+                                                            "description":  "施放元素戰技或元素爆發時，獲得「焚光」效果：暴擊傷害提高30%，攻擊力提升42%，該效果持續6秒，每10秒至多觸發一次。\n持續期間內，普通攻擊或重擊造成元素傷害後，將使此次「焚光」效果的持續時間延長2秒，該效果每1秒至多觸發一次，至多依此方式使持續時間延長6秒。\n此外，處於夜魂加持狀態下時，「焚光」效果提高75%，且「焚光」效果在裝備者處於後臺時不進行計時。",
+                                                            "values":  [
+                                                                           "30%",
+                                                                           "42%"
+                                                                       ]
+                                                        },
+                                                 "r5":  {
+                                                            "description":  "施放元素戰技或元素爆發時，獲得「焚光」效果：暴擊傷害提高40%，攻擊力提升56%，該效果持續6秒，每10秒至多觸發一次。\n持續期間內，普通攻擊或重擊造成元素傷害後，將使此次「焚光」效果的持續時間延長2秒，該效果每1秒至多觸發一次，至多依此方式使持續時間延長6秒。\n此外，處於夜魂加持狀態下時，「焚光」效果提高75%，且「焚光」效果在裝備者處於後臺時不進行計時。",
+                                                            "values":  [
+                                                                           "40%",
+                                                                           "56%"
+                                                                       ]
+                                                        },
+                                                 "r2":  {
+                                                            "description":  "施放元素戰技或元素爆發時，獲得「焚光」效果：暴擊傷害提高25%，攻擊力提升35%，該效果持續6秒，每10秒至多觸發一次。\n持續期間內，普通攻擊或重擊造成元素傷害後，將使此次「焚光」效果的持續時間延長2秒，該效果每1秒至多觸發一次，至多依此方式使持續時間延長6秒。\n此外，處於夜魂加持狀態下時，「焚光」效果提高75%，且「焚光」效果在裝備者處於後臺時不進行計時。",
+                                                            "values":  [
+                                                                           "25%",
+                                                                           "35%"
+                                                                       ]
+                                                        },
+                                                 "r4":  {
+                                                            "description":  "施放元素戰技或元素爆發時，獲得「焚光」效果：暴擊傷害提高35%，攻擊力提升49%，該效果持續6秒，每10秒至多觸發一次。\n持續期間內，普通攻擊或重擊造成元素傷害後，將使此次「焚光」效果的持續時間延長2秒，該效果每1秒至多觸發一次，至多依此方式使持續時間延長6秒。\n此外，處於夜魂加持狀態下時，「焚光」效果提高75%，且「焚光」效果在裝備者處於後臺時不進行計時。",
+                                                            "values":  [
+                                                                           "35%",
+                                                                           "49%"
+                                                                       ]
+                                                        },
+                                                 "substatText":  "暴擊率",
+                                                 "weaponText":  "雙手劍",
+                                                 "name":  "焚曜千陽",
+                                                 "effectTemplateRaw":  "施放元素戰技或元素爆發時，獲得「焚光」效果：暴擊傷害提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，攻擊力提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e，該效果持續6秒，每10秒至多觸發一次。\n持續期間內，普通攻擊或重擊造成元素傷害後，將使此次「焚光」效果的持續時間延長2秒，該效果每1秒至多觸發一次，至多依此方式使持續時間延長6秒。\n此外，處於夜魂加持狀態下時，「焚光」效果提高75%，且「焚光」效果在裝備者處於後臺時不進行計時。",
+                                                 "r1":  {
+                                                            "description":  "施放元素戰技或元素爆發時，獲得「焚光」效果：暴擊傷害提高20%，攻擊力提升28%，該效果持續6秒，每10秒至多觸發一次。\n持續期間內，普通攻擊或重擊造成元素傷害後，將使此次「焚光」效果的持續時間延長2秒，該效果每1秒至多觸發一次，至多依此方式使持續時間延長6秒。\n此外，處於夜魂加持狀態下時，「焚光」效果提高75%，且「焚光」效果在裝備者處於後臺時不進行計時。",
+                                                            "values":  [
+                                                                           "20%",
+                                                                           "28%"
+                                                                       ]
+                                                        },
+                                                 "effectName":  "落日重燃的黎明"
+                                             },
                     "balladoftheboundlessblue":  {
                                                      "r3":  {
                                                                 "description":  "普通攻擊或重擊命中敵人後的6秒內，普通攻擊造成的傷害提升12%，重擊造成的傷害提升9%。該效果至多疊加3次，每0.3秒至多觸發一次。",
@@ -14556,6 +14812,10 @@
                                            "name":  "幼匿葉龍",
                                            "specialname":  null
                                        },
+                    "lordoferodedprimalfire":  {
+                                                   "name":  "蝕滅的源焰之主",
+                                                   "specialname":  null
+                                               },
                     "largedendroslime":  {
                                              "name":  "大型草史萊姆",
                                              "specialname":  null
@@ -14980,6 +15240,10 @@
                                                     "name":  "「正機之神」",
                                                     "specialname":  null
                                                 },
+                    "waywardhermeticspiritspeaker":  {
+                                                         "name":  "靈覺隱修的迷者",
+                                                         "specialname":  null
+                                                     },
                     "wingedwarriorskymaster":  {
                                                    "name":  "結羽勇士·馭空客",
                                                    "specialname":  null

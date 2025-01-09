@@ -638,6 +638,9 @@
                       "northlanderbowbillet":  {
                                                    "name":  "Prototipo de arco del Norte"
                                                },
+                      "tidalga":  {
+                                      "name":  "Marealga"
+                                  },
                       "bluedye":  {
                                       "name":  "Tinte azul"
                                   },
@@ -770,9 +773,9 @@
                       "borderlandswordbillet":  {
                                                     "name":  "Prototipo de espada de las Tierras Fronterizas"
                                                 },
-                      "goldentalismanoftheforestdew":  {
-                                                           "name":  "Talismán de oro del rocío"
-                                                       },
+                      "nightwindsmysticaugury":  {
+                                                     "name":  "Presagio espiritista vientonocturno"
+                                                 },
                       "dawncatcher":  {
                                           "name":  "Atrapaauroras"
                                       },
@@ -1190,6 +1193,9 @@
                       "alkahest":  {
                                        "name":  "Alkahest"
                                    },
+                      "erodedscalefeather":  {
+                                                 "name":  "Plumaescama corroída"
+                                             },
                       "almond":  {
                                      "name":  "Almendra"
                                  },
@@ -1331,6 +1337,9 @@
                       "keysigil":  {
                                        "name":  "Llave con patrón"
                                    },
+                      "talismanoftheenigmaticland":  {
+                                                         "name":  "Talismán de la tierra enigmática"
+                                                     },
                       "masterlessstardust":  {
                                                  "name":  "Polvo estelar sin dueño"
                                              },
@@ -1583,6 +1592,9 @@
                       "mirrorofmushin":  {
                                              "name":  "Espejo del mushin"
                                          },
+                      "ultrahotburnerlamptestmodel":  {
+                                                          "name":  "Lámpara de combustión experimental"
+                                                      },
                       "dreamofthedandeliongladiator":  {
                                                            "name":  "Ideales de Diente de León"
                                                        },
@@ -1604,6 +1616,9 @@
                       "hurricaneseed":  {
                                             "name":  "Semilla de huracán"
                                         },
+                      "scrollofthefieryfirmament":  {
+                                                        "name":  "Pergamino del cielo abrasador"
+                                                    },
                       "dormantfungalnucleus":  {
                                                    "name":  "Núcleo fúngico inactivo"
                                                },
@@ -1679,9 +1694,9 @@
                       "radish":  {
                                      "name":  "Rábano"
                                  },
-                      "ultrahotburnerlamptestmodel":  {
-                                                          "name":  "Lámpara de combustión experimental"
-                                                      },
+                      "tuskofmonoceroscaeli":  {
+                                                   "name":  "Cuerno de Monoceros Caeli"
+                                               },
                       "crab":  {
                                    "name":  "Cangrejo"
                                },
@@ -1694,9 +1709,9 @@
                       "riftbornregalia":  {
                                               "name":  "Cuerno del Rey Acechador"
                                           },
-                      "tuskofmonoceroscaeli":  {
-                                                   "name":  "Cuerno de Monoceros Caeli"
-                                               },
+                      "goldentalismanoftheforestdew":  {
+                                                           "name":  "Talismán de oro del rocío"
+                                                       },
                       "crystalfish":  {
                                           "name":  "Pez de cristal"
                                       },
@@ -1709,9 +1724,9 @@
                       "maintenancemekwaterbodycleaner":  {
                                                              "name":  "Mecarreparador purificaaguas"
                                                          },
-                      "nightwindsmysticaugury":  {
-                                                     "name":  "Presagio espiritista vientonocturno"
-                                                 },
+                      "vajradaamethystgemstone":  {
+                                                      "name":  "Amatista vajrada"
+                                                  },
                       "spiritlocketofboreas":  {
                                                    "name":  "Alma de Boreas"
                                                },
@@ -2045,6 +2060,9 @@
                       "congealedpupawax":  {
                                                "name":  "Grasa de pupa solidificada"
                                            },
+                      "erodedsunfire":  {
+                                            "name":  "Fuego solar corroído"
+                                        },
                       "bacon":  {
                                     "name":  "Tocino"
                                 },
@@ -2240,9 +2258,9 @@
                       "fruitpastebait":  {
                                              "name":  "Cebo afrutado"
                                          },
-                      "tidalga":  {
-                                      "name":  "Marealga"
-                                  },
+                      "erodedhorn":  {
+                                         "name":  "Cuerno corroído"
+                                     },
                       "cultivationareaexpansionvi":  {
                                                          "name":  "Macetero (VI)"
                                                      },
@@ -2363,9 +2381,6 @@
                       "movementofanancientchord":  {
                                                        "name":  "Movimiento de serenata arcaica"
                                                    },
-                      "vajradaamethystgemstone":  {
-                                                      "name":  "Amatista vajrada"
-                                                  },
                       "philosophiesofgold":  {
                                                  "name":  "Filosofía del oro"
                                              },
@@ -3229,6 +3244,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "Masculino"
                                     },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "¡Mualani dándolo todo!",
+                                                                         "descriptionRaw":  "#Al entrar en estado de bendición noctámbula, Mualani obtiene 2 cargas de energía mareal de \u003ccolor=#FFD780FF\u003eEscualosurf rompeolas\u003c/color\u003e, y al recoger un peciglobo, obtiene 1 carga.\nAdemás, cuando Mualani recoja 2 peciglobos durante una bendición noctámbula, recuperará 12{NON_BREAK_SPACE}pts. de noctambulismo en 2{NON_BREAK_SPACE}s. Para que se active este efecto, es necesario desbloquear el talento pasivo “Peciglobo antitérmico de agua dulce”.",
+                                                                         "description":  "Al entrar en estado de bendición noctámbula, Mualani obtiene 2 cargas de energía mareal de Escualosurf rompeolas, y al recoger un peciglobo, obtiene 1 carga.\nAdemás, cuando Mualani recoja 2 peciglobos durante una bendición noctámbula, recuperará 12 pts. de noctambulismo en 2 s. Para que se active este efecto, es necesario desbloquear el talento pasivo “Peciglobo antitérmico de agua dulce”."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Tiburón devorapeciglobos",
+                                                                         "descriptionRaw":  "#Al recoger un peciglobo, Mualani obtiene 8{NON_BREAK_SPACE}pts. de Energía Elemental. Para que se active este efecto, es necesario desbloquear el talento pasivo “Peciglobo antitérmico de agua dulce”.\nAdemás, aumenta en un 75% el daño infligido con \u003ccolor=#FFD780FF\u003eMisil acuaexplosivo\u003c/color\u003e.",
+                                                                         "description":  "Al recoger un peciglobo, Mualani obtiene 8 pts. de Energía Elemental. Para que se active este efecto, es necesario desbloquear el talento pasivo “Peciglobo antitérmico de agua dulce”.\nAdemás, aumenta en un 75% el daño infligido con Misil acuaexplosivo."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surfeando en el mar de la alegría",
+                                                                         "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eEscualosurf rompeolas\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                         "description":  "Aumenta el nivel de habilidad de Escualosurf rompeolas +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "¡Escualotablas de surf a la venta!",
+                                                                         "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eMisil acuaexplosivo\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                         "description":  "Aumenta el nivel de habilidad de Misil acuaexplosivo +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Espíritu del Pueblo de los Manantiales",
+                                                                         "descriptionRaw":  "Elimina la restricción por la que el aumento de daño otorgado por la constelación “Parsimonia de Meztli” solo se podía activar una vez durante el estado de bendición noctámbula.",
+                                                                         "description":  "Elimina la restricción por la que el aumento de daño otorgado por la constelación “Parsimonia de Meztli” solo se podía activar una vez durante el estado de bendición noctámbula."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Parsimonia de Meztli",
+                                                                         "descriptionRaw":  "El daño que inflige el primer escualomordisco tsunámico realizado tras entrar en estado de bendición noctámbula y sus escualoproyectiles aumenta en una cantidad equivalente al 66% de la Vida Máx. de Mualani. Este aumento de daño sigue las normas de disminución de daño de \u003ccolor=#FFD780FF\u003eEscualosurf rompeolas\u003c/color\u003e.\nAdemás, mientras Mualani no esté en combate, los pts. de noctambulismo y de flogisto que consume su estado de bendición noctámbula se reducen en un 30%.",
+                                                                         "description":  "El daño que inflige el primer escualomordisco tsunámico realizado tras entrar en estado de bendición noctámbula y sus escualoproyectiles aumenta en una cantidad equivalente al 66% de la Vida Máx. de Mualani. Este aumento de daño sigue las normas de disminución de daño de Escualosurf rompeolas.\nAdemás, mientras Mualani no esté en combate, los pts. de noctambulismo y de flogisto que consume su estado de bendición noctámbula se reducen en un 30%."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalizador",
+                                       "name":  "Mualani",
+                                       "substatText":  "Prob. CRIT",
+                                       "region":  "Natlan",
+                                       "gender":  "Femenino"
+                                   },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3352,6 +3408,47 @@
                                          "region":  "Liyue",
                                          "gender":  "Femenino"
                                      },
+                       "mavuika":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Precio de las cenizas",
+                                                                         "descriptionRaw":  "#Mientras está en estado de bendición noctámbula, el ATQ Base de Mavuika aumenta en 200{NON_BREAK_SPACE}pts. y obtiene uno de los siguientes efectos dependiendo de la forma que haya adquirido su arsenal flamígero:\n·Aro incinerador: la DEF de los enemigos cercanos se reduce en un 20%.\n·Pirociclo: aumenta el daño de los Ataques Normales, Ataques Cargados y del tajosolar descendente de la Habilidad Definitiva \u003ccolor=#FFD780FF\u003eInfierno celestial\u003c/color\u003e de Mavuika en una cantidad equivalente al 60/90/120% de su ATQ, respectivamente.",
+                                                                         "description":  "Mientras está en estado de bendición noctámbula, el ATQ Base de Mavuika aumenta en 200 pts. y obtiene uno de los siguientes efectos dependiendo de la forma que haya adquirido su arsenal flamígero:\n·Aro incinerador: la DEF de los enemigos cercanos se reduce en un 20%.\n·Pirociclo: aumenta el daño de los Ataques Normales, Ataques Cargados y del tajosolar descendente de la Habilidad Definitiva Infierno celestial de Mavuika en una cantidad equivalente al 60/90/120% de su ATQ, respectivamente."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Comprensión del liderazgo",
+                                                                         "descriptionRaw":  "Mejora el efecto del talento pasivo “Kiongozi”:\nEl aumento de daño de la Habilidad Definitiva, \u003ccolor=#FFD780FF\u003eInfierno celestial\u003c/color\u003e, ya no disminuye con el tiempo y obtiene un 10% de bono de daño adicional.\nEs necesario desbloquear el talento pasivo “Kiongozi”.",
+                                                                         "description":  "Mejora el efecto del talento pasivo “Kiongozi”:\nEl aumento de daño de la Habilidad Definitiva, Infierno celestial, ya no disminuye con el tiempo y obtiene un 10% de bono de daño adicional.\nEs necesario desbloquear el talento pasivo “Kiongozi”."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "El Sol Ardiente",
+                                                                         "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eInfierno celestial\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                         "description":  "Aumenta el nivel de habilidad de Infierno celestial +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Significado de la verdad",
+                                                                         "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eDenominación\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                         "description":  "Aumenta el nivel de habilidad de Denominación +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Liberación de nombre humano",
+                                                                         "descriptionRaw":  "#El arsenal flamígero de la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eDenominación\u003c/color\u003e, se fortalece de manera integral:\n·Aro incinerador: cuando el aro incinerador golpee a un enemigo, un pirociclo arremeterá contra él para infligir \u003ccolor=#FF9999FF\u003eDaño Pyro en el AdE\u003c/color\u003e de naturaleza noctámbula en una cantidad equivalente al 200% del ATQ.\n·Pirociclo: cuando Mavuika esté manejando el pirociclo, invocará un aro incinerador: imagen ardiente que la seguirá continuamente, reducirá en un 20% la DEF de los enemigos cercanos y, cada 3{NON_BREAK_SPACE}s, infligirá \u003ccolor=#FF9999FF\u003eDaño Pyro en el AdE\u003c/color\u003e de naturaleza noctámbula una vez a los enemigos cercanos en una cantidad equivalente al 500% del ATQ. Además, mejora aún más la capacidad de Mavuika para moverse por toda clase de terrenos.\n\nPor otro lado, cuando Mavuika esté conduciendo su pirociclo y no esté en combate, cuando sus pts. de noctambulismo lleguen a 5, obtendrá 80{NON_BREAK_SPACE}pts. Este efecto solo puede ocurrir una vez cada 15{NON_BREAK_SPACE}s.",
+                                                                         "description":  "El arsenal flamígero de la Habilidad Elemental, Denominación, se fortalece de manera integral:\n·Aro incinerador: cuando el aro incinerador golpee a un enemigo, un pirociclo arremeterá contra él para infligir Daño Pyro en el AdE de naturaleza noctámbula en una cantidad equivalente al 200% del ATQ.\n·Pirociclo: cuando Mavuika esté manejando el pirociclo, invocará un aro incinerador: imagen ardiente que la seguirá continuamente, reducirá en un 20% la DEF de los enemigos cercanos y, cada 3 s, infligirá Daño Pyro en el AdE de naturaleza noctámbula una vez a los enemigos cercanos en una cantidad equivalente al 500% del ATQ. Además, mejora aún más la capacidad de Mavuika para moverse por toda clase de terrenos.\n\nPor otro lado, cuando Mavuika esté conduciendo su pirociclo y no esté en combate, cuando sus pts. de noctambulismo lleguen a 5, obtendrá 80 pts. Este efecto solo puede ocurrir una vez cada 15 s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Enseñanzas de la Señora de la Noche",
+                                                                         "descriptionRaw":  "#El límite de pts. de noctambulismo de Mavuika aumenta a 120 e incrementa en un 25% la eficiencia con la que obtiene espíritu de lucha.\nAdemás, tras obtener espíritu de lucha, el ATQ de Mavuika aumenta en un 40% durante 8{NON_BREAK_SPACE}s.",
+                                                                         "description":  "El límite de pts. de noctambulismo de Mavuika aumenta a 120 e incrementa en un 25% la eficiencia con la que obtiene espíritu de lucha.\nAdemás, tras obtener espíritu de lucha, el ATQ de Mavuika aumenta en un 40% durante 8 s."
+                                                                     }
+                                                          },
+                                       "elementText":  "Pyro",
+                                       "fullname":  null,
+                                       "weaponText":  "Mandoble",
+                                       "name":  "Mavuika",
+                                       "substatText":  "Daño CRIT",
+                                       "region":  "Natlan",
+                                       "gender":  "Femenino"
+                                   },
                        "xiao":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3557,6 +3654,47 @@
                                     "region":  "Sumeru",
                                     "gender":  "Masculino"
                                 },
+                       "yaemiko":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Aullido lunar",
+                                                                         "descriptionRaw":  "Al ser creados, los \u003ccolor=#FFD780FF\u003ecerezos kitsune\u003c/color\u003e comienzan con nivel 2, pueden aumentarse hasta nivel 4 y su alcance de ataque aumenta en un 60%.",
+                                                                         "description":  "Al ser creados, los cerezos kitsune comienzan con nivel 2, pueden aumentarse hasta nivel 4 y su alcance de ataque aumenta en un 60%."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Cerezo de la tormenta",
+                                                                         "descriptionRaw":  "Cuando el rayo de un \u003ccolor=#FFD780FF\u003ecerezo kitsune\u003c/color\u003e golpea a un enemigo, todos los miembros del equipo cercanos obtienen un 20% de \u003ccolor=#FFACFFFF\u003eBono de Daño Electro\u003c/color\u003e durante 5 s.",
+                                                                         "description":  "Cuando el rayo de un cerezo kitsune golpea a un enemigo, todos los miembros del equipo cercanos obtienen un 20% de Bono de Daño Electro durante 5 s."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Heptatransformación",
+                                                                         "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eMaleficio yako: Cerezo kitsune aniquilador\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
+                                                                         "description":  "Aumenta el nivel de habilidad de Maleficio yako: Cerezo kitsune aniquilador +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Burla despiadada",
+                                                                         "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eTécnica secreta suprema: Encarnación de Kitsune Celestial\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
+                                                                         "description":  "Aumenta el nivel de habilidad de Técnica secreta suprema: Encarnación de Kitsune Celestial +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Técnica prohibida: Masacre",
+                                                                         "descriptionRaw":  "Los ataques de los \u003ccolor=#FFD780FF\u003ecerezos kitsune\u003c/color\u003e ignoran un 60% de la DEF del enemigo.",
+                                                                         "description":  "Los ataques de los cerezos kitsune ignoran un 60% de la DEF del enemigo."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Ofrenda de los yako",
+                                                                         "descriptionRaw":  "Yae Miko recupera 8 pts. de Energía Elemental por cada relámpago de Kitsune Celestial desencadenado con \u003ccolor=#FFD780FF\u003eTécnica secreta suprema: Encarnación de Kitsune Celestial\u003c/color\u003e.",
+                                                                         "description":  "Yae Miko recupera 8 pts. de Energía Elemental por cada relámpago de Kitsune Celestial desencadenado con Técnica secreta suprema: Encarnación de Kitsune Celestial."
+                                                                     }
+                                                          },
+                                       "elementText":  "Electro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalizador",
+                                       "name":  "Yae Miko",
+                                       "substatText":  "Prob. CRIT",
+                                       "region":  "Inazuma",
+                                       "gender":  "Femenino"
+                                   },
                        "kinich":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3948,8 +4086,8 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Eminente ordenanza",
-                                                                             "descriptionRaw":  "Cuando Neuvillette entra en el campo de batalla, obtiene 1 carga del efecto “gloria del legado draconiano” del talento pasivo “Legatario de toda agua” (es necesario desbloquear el talento pasivo Legatario de toda agua).\nAdemás, al ejecutar el Ataque Potenciado: Apercibimiento procesal y el Ataque Cargado: Sentencia ecuánime, su Res a interrupción aumenta.",
-                                                                             "description":  "Cuando Neuvillette entra en el campo de batalla, obtiene 1 carga del efecto “gloria del legado draconiano” del talento pasivo “Legatario de toda agua” (es necesario desbloquear el talento pasivo Legatario de toda agua).\nAdemás, al ejecutar el Ataque Potenciado: Apercibimiento procesal y el Ataque Cargado: Sentencia ecuánime, su Res a interrupción aumenta."
+                                                                             "descriptionRaw":  "Cuando Neuvillette entra en el campo de batalla, obtiene 1 carga del efecto “gloria del legado draconiano” del talento pasivo “Legatario de toda agua” (es necesario desbloquear el talento pasivo Legatario de toda agua).\nAdemás, al ejecutar el Ataque Potenciado: Apercibimiento procesal y el Ataque Cargado: Sentencia ecuánime, su RES a interrupción aumenta.",
+                                                                             "description":  "Cuando Neuvillette entra en el campo de batalla, obtiene 1 carga del efecto “gloria del legado draconiano” del talento pasivo “Legatario de toda agua” (es necesario desbloquear el talento pasivo Legatario de toda agua).\nAdemás, al ejecutar el Ataque Potenciado: Apercibimiento procesal y el Ataque Cargado: Sentencia ecuánime, su RES a interrupción aumenta."
                                                                          }
                                                               },
                                            "elementText":  "Hydro",
@@ -4288,47 +4426,47 @@
                                              "region":  "Inazuma",
                                              "gender":  "Femenino"
                                          },
-                       "yaemiko":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Aullido lunar",
-                                                                         "descriptionRaw":  "Al ser creados, los \u003ccolor=#FFD780FF\u003ecerezos kitsune\u003c/color\u003e comienzan con nivel 2, pueden aumentarse hasta nivel 4 y su alcance de ataque aumenta en un 60%.",
-                                                                         "description":  "Al ser creados, los cerezos kitsune comienzan con nivel 2, pueden aumentarse hasta nivel 4 y su alcance de ataque aumenta en un 60%."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Cerezo de la tormenta",
-                                                                         "descriptionRaw":  "Cuando el rayo de un \u003ccolor=#FFD780FF\u003ecerezo kitsune\u003c/color\u003e golpea a un enemigo, todos los miembros del equipo cercanos obtienen un 20% de \u003ccolor=#FFACFFFF\u003eBono de Daño Electro\u003c/color\u003e durante 5 s.",
-                                                                         "description":  "Cuando el rayo de un cerezo kitsune golpea a un enemigo, todos los miembros del equipo cercanos obtienen un 20% de Bono de Daño Electro durante 5 s."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Heptatransformación",
-                                                                         "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eMaleficio yako: Cerezo kitsune aniquilador\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
-                                                                         "description":  "Aumenta el nivel de habilidad de Maleficio yako: Cerezo kitsune aniquilador +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Burla despiadada",
-                                                                         "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eTécnica secreta suprema: Encarnación de Kitsune Celestial\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
-                                                                         "description":  "Aumenta el nivel de habilidad de Técnica secreta suprema: Encarnación de Kitsune Celestial +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Técnica prohibida: Masacre",
-                                                                         "descriptionRaw":  "Los ataques de los \u003ccolor=#FFD780FF\u003ecerezos kitsune\u003c/color\u003e ignoran un 60% de la DEF del enemigo.",
-                                                                         "description":  "Los ataques de los cerezos kitsune ignoran un 60% de la DEF del enemigo."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Ofrenda de los yako",
-                                                                         "descriptionRaw":  "Yae Miko recupera 8 pts. de Energía Elemental por cada relámpago de Kitsune Celestial desencadenado con \u003ccolor=#FFD780FF\u003eTécnica secreta suprema: Encarnación de Kitsune Celestial\u003c/color\u003e.",
-                                                                         "description":  "Yae Miko recupera 8 pts. de Energía Elemental por cada relámpago de Kitsune Celestial desencadenado con Técnica secreta suprema: Encarnación de Kitsune Celestial."
-                                                                     }
-                                                          },
-                                       "elementText":  "Electro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalizador",
-                                       "name":  "Yae Miko",
-                                       "substatText":  "Prob. CRIT",
-                                       "region":  "Inazuma",
-                                       "gender":  "Femenino"
-                                   },
+                       "sangonomiyakokomi":  {
+                                                 "constellations":  {
+                                                                        "c2":  {
+                                                                                   "name":  "Oleaje de nubes",
+                                                                                   "descriptionRaw":  "Sangonomiya Kokomi obtiene los siguientes aumentos de curación para los personajes con un 50% de Vida o menos a través de las siguientes formas:\n·Aumenta la curación de la medusa de \u003ccolor=#FFD780FF\u003eJuramento de la medusa\u003c/color\u003e en una cantidad adicional en proporción al 4.5% de la Vida Máx. de Kokomi.\n·Aumenta la curación de los Ataques Normales y Cargados realizados bajo los efectos de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e en una cantidad adicional en proporción al 0.6% de la Vida Máx. de Kokomi.",
+                                                                                   "description":  "Sangonomiya Kokomi obtiene los siguientes aumentos de curación para los personajes con un 50% de Vida o menos a través de las siguientes formas:\n·Aumenta la curación de la medusa de Juramento de la medusa en una cantidad adicional en proporción al 4.5% de la Vida Máx. de Kokomi.\n·Aumenta la curación de los Ataques Normales y Cargados realizados bajo los efectos de Encarnación de las nereidas en una cantidad adicional en proporción al 0.6% de la Vida Máx. de Kokomi."
+                                                                               },
+                                                                        "c4":  {
+                                                                                   "name":  "Observadora de las aguas",
+                                                                                   "descriptionRaw":  "Mientras está bajo los efectos del manto ceremonial de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e, la Vel. de Ataque Normal de Sangonomiya Kokomi aumenta en un 10% y recupera 0.8 pts. de Energía Elemental cada vez que golpea a un enemigo con un Ataque Normal.\nEste efecto solo puede ocurrir una vez cada 0.2 s.",
+                                                                                   "description":  "Mientras está bajo los efectos del manto ceremonial de Encarnación de las nereidas, la Vel. de Ataque Normal de Sangonomiya Kokomi aumenta en un 10% y recupera 0.8 pts. de Energía Elemental cada vez que golpea a un enemigo con un Ataque Normal.\nEste efecto solo puede ocurrir una vez cada 0.2 s."
+                                                                               },
+                                                                        "c3":  {
+                                                                                   "name":  "Luna del océano",
+                                                                                   "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
+                                                                                   "description":  "Aumenta el nivel de habilidad de Encarnación de las nereidas +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                               },
+                                                                        "c5":  {
+                                                                                   "name":  "Convergencia hacia los mares",
+                                                                                   "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eJuramento de la medusa\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
+                                                                                   "description":  "Aumenta el nivel de habilidad de Juramento de la medusa +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                               },
+                                                                        "c6":  {
+                                                                                   "name":  "Corazón del coral",
+                                                                                   "descriptionRaw":  "Mientras está bajo los efectos del manto ceremonial de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e, cuando Sangonomiya Kokomi realiza un Ataque Normal o Cargado que tiene efectos curativos con el fin de curar a un personaje con un 80% o más de Vida, obtiene un 40% de \u003ccolor=#80C0FFFF\u003eBono de Daño Hydro\u003c/color\u003e durante 4 s.",
+                                                                                   "description":  "Mientras está bajo los efectos del manto ceremonial de Encarnación de las nereidas, cuando Sangonomiya Kokomi realiza un Ataque Normal o Cargado que tiene efectos curativos con el fin de curar a un personaje con un 80% o más de Vida, obtiene un 40% de Bono de Daño Hydro durante 4 s."
+                                                                               },
+                                                                        "c1":  {
+                                                                                   "name":  "Los límites del agua",
+                                                                                   "descriptionRaw":  "Mientras está bajo los efectos del manto ceremonial de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e, el último golpe del Ataque Normal de Sangonomiya Kokomi liberará un pez nadador adicional que inflige una cantidad de \u003ccolor=#80C0FFFF\u003eDaño Hydro\u003c/color\u003e equivalente al 30% de la Vida Máx. de Kokomi.\nEste daño no se considera daño de Ataque Normal.",
+                                                                                   "description":  "Mientras está bajo los efectos del manto ceremonial de Encarnación de las nereidas, el último golpe del Ataque Normal de Sangonomiya Kokomi liberará un pez nadador adicional que inflige una cantidad de Daño Hydro equivalente al 30% de la Vida Máx. de Kokomi.\nEste daño no se considera daño de Ataque Normal."
+                                                                               }
+                                                                    },
+                                                 "elementText":  "Hydro",
+                                                 "fullname":  null,
+                                                 "weaponText":  "Catalizador",
+                                                 "name":  "Sangonomiya Kokomi",
+                                                 "substatText":  "Bono de Daño Hydro",
+                                                 "region":  "Inazuma",
+                                                 "gender":  "Femenino"
+                                             },
                        "xingqiu":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -4455,47 +4593,47 @@
                        "traveler":  {
                                         "name":  "Viajera"
                                     },
-                       "beidou":  {
-                                      "constellations":  {
-                                                             "c2":  {
-                                                                        "name":  "Tormenta sobre el mar turbulento",
-                                                                        "descriptionRaw":  "Los rayos de \u003ccolor=#FFD780FF\u003eQuebrantatormentas\u003c/color\u003e rebotan a 2 objetivos adicionales.",
-                                                                        "description":  "Los rayos de Quebrantatormentas rebotan a 2 objetivos adicionales."
-                                                                    },
-                                                             "c4":  {
-                                                                        "name":  "Venganza súbita",
-                                                                        "descriptionRaw":  "#Tras ser atacada, los Ataques Normales de Beidou obtienen un 20% de \u003ccolor=#FFACFFFF\u003eDaño Electro\u003c/color\u003e adicional durante 10{NON_BREAK_SPACE}s.",
-                                                                        "description":  "Tras ser atacada, los Ataques Normales de Beidou obtienen un 20% de Daño Electro adicional durante 10 s."
-                                                                    },
-                                                             "c3":  {
-                                                                        "name":  "Invocadora de la tormenta",
-                                                                        "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eInvocadora de mareas\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
-                                                                        "description":  "Aumenta el nivel de habilidad de Invocadora de mareas +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                    },
-                                                             "c5":  {
-                                                                        "name":  "Caminante de mareas carmesí",
-                                                                        "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eQuebrantatormentas\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
-                                                                        "description":  "Aumenta el nivel de habilidad de Quebrantatormentas +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                    },
-                                                             "c6":  {
-                                                                        "name":  "Flagelo del mal",
-                                                                        "descriptionRaw":  "Mientras esté activa la habilidad \u003ccolor=#FFD780FF\u003eQuebrantatormentas\u003c/color\u003e, la \u003ccolor=#FFACFFFF\u003eRES Electro\u003c/color\u003e de los enemigos cercanos se reduce en un 15%.",
-                                                                        "description":  "Mientras esté activa la habilidad Quebrantatormentas, la RES Electro de los enemigos cercanos se reduce en un 15%."
-                                                                    },
-                                                             "c1":  {
-                                                                        "name":  "Cazadora de ictiosaurios",
-                                                                        "descriptionRaw":  "#Al activar \u003ccolor=#FFD780FF\u003eQuebrantatormentas\u003c/color\u003e, crea un escudo que absorbe daño en una cantidad equivalente al 16% de la Vida Máx. de Beidou durante 15{NON_BREAK_SPACE}s.\nEl escudo tiene un 250% de eficiencia de absorción de \u003ccolor=#FFACFFFF\u003eDaño Electro\u003c/color\u003e.",
-                                                                        "description":  "Al activar Quebrantatormentas, crea un escudo que absorbe daño en una cantidad equivalente al 16% de la Vida Máx. de Beidou durante 15 s.\nEl escudo tiene un 250% de eficiencia de absorción de Daño Electro."
-                                                                    }
-                                                         },
-                                      "elementText":  "Electro",
-                                      "fullname":  null,
-                                      "weaponText":  "Mandoble",
-                                      "name":  "Beidou",
-                                      "substatText":  "Bono de Daño Electro",
-                                      "region":  "Liyue",
-                                      "gender":  "Femenino"
-                                  },
+                       "citlali":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Patrulla devoracorazones",
+                                                                         "descriptionRaw":  "#La Maestría Elemental de Citlalí aumenta en 125{NON_BREAK_SPACE}pts., y la de los demás personajes que estén bajo la protección del escudo de obsidiana blanca o que esté siguiendo Itzpapa aumenta en 250{NON_BREAK_SPACE}pts.\nAdemás, al usar la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEstrella negra albaescarcha\u003c/color\u003e, también otorga un escudo de obsidiana blanca a los personajes en uso cercanos.\n\nPor otro lado, mejora el efecto del talento pasivo “Lluvia helada de Mamaloaco”:\nMientras Itzpapa esté activa, después de que un personaje cercano del equipo cause una reacción de Congelado o Derretido, la RES \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e e \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e de los enemigos afectados por dichas reacciones se reduce en un 20% adicional. Este efecto dura 12{NON_BREAK_SPACE}s y, para poder activarlo, es necesario desbloquear el talento pasivo “Lluvia helada de Mamaloaco”.",
+                                                                         "description":  "La Maestría Elemental de Citlalí aumenta en 125 pts., y la de los demás personajes que estén bajo la protección del escudo de obsidiana blanca o que esté siguiendo Itzpapa aumenta en 250 pts.\nAdemás, al usar la Habilidad Elemental, Estrella negra albaescarcha, también otorga un escudo de obsidiana blanca a los personajes en uso cercanos.\n\nPor otro lado, mejora el efecto del talento pasivo “Lluvia helada de Mamaloaco”:\nMientras Itzpapa esté activa, después de que un personaje cercano del equipo cause una reacción de Congelado o Derretido, la RES Pyro e Hydro de los enemigos afectados por dichas reacciones se reduce en un 20% adicional. Este efecto dura 12 s y, para poder activarlo, es necesario desbloquear el talento pasivo “Lluvia helada de Mamaloaco”."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Féretro de los renegados",
+                                                                         "descriptionRaw":  "#Durante la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEstrella negra albaescarcha\u003c/color\u003e, al golpear a un enemigo con la tormenta de escarcha de Itzpapa, se invocará un \u003ccolor=#FFD780FF\u003ecráneo espiritista: estrella negra\u003c/color\u003e adicional. Cuando un cráneo espiritista invocado de esta forma explote, infligirá \u003ccolor=#99FFFFFF\u003eDaño Cryo en el AdE\u003c/color\u003e de naturaleza noctámbula en una cantidad equivalente al 1800% de la Maestría Elemental de Citlalí y le restaurará 16{NON_BREAK_SPACE}pts. de noctambulismo y 8{NON_BREAK_SPACE}pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 8{NON_BREAK_SPACE}s y este daño no se considera daño de Habilidad Definitiva.",
+                                                                         "description":  "Durante la Habilidad Elemental, Estrella negra albaescarcha, al golpear a un enemigo con la tormenta de escarcha de Itzpapa, se invocará un cráneo espiritista: estrella negra adicional. Cuando un cráneo espiritista invocado de esta forma explote, infligirá Daño Cryo en el AdE de naturaleza noctámbula en una cantidad equivalente al 1800% de la Maestría Elemental de Citlalí y le restaurará 16 pts. de noctambulismo y 8 pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 8 s y este daño no se considera daño de Habilidad Definitiva."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Cresta de la serpiente de las nubes",
+                                                                         "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eEstrella negra albaescarcha\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                         "description":  "Aumenta el nivel de habilidad de Estrella negra albaescarcha +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Maleficio de los nemontemi",
+                                                                         "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eEdicto multiastral\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                         "description":  "Aumenta el nivel de habilidad de Edicto multiastral +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Pacto secreto de Teoiztac",
+                                                                         "descriptionRaw":  "#Al invocar a Itzpapa con la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEstrella negra albaescarcha\u003c/color\u003e, permanecerá siempre en el estado de fuego opalescente. Dicho estado no terminará ni siquiera cuando se agoten los pts. de noctambulismo.\nAdemás, al usar la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEstrella negra albaescarcha\u003c/color\u003e, Itzpapa consumirá todos los pts. de noctambulismo y, mientras esté activa, consumirá pts. de noctambulismo de forma continua. Por cada punto de noctambulismo consumido de esta forma, Citlalí obtiene 1{NON_BREAK_SPACE}pt. de “numerología secreta”.\nSe pueden obtener hasta un máximo de 40{NON_BREAK_SPACE}pts. Por cada punto de numerología secreta que posea Citlalí, aumenta el daño que inflige en un 2.5% y todos los miembros del equipo cercanos obtienen un 1.5% de Bono de Daño \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e e \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e.\nCuando Itzpapa sea retirada del campo de batalla o tras usar de nuevo la Habilidad Elemental de Citlalí, todos los puntos de numerología secreta que posea serán eliminados.",
+                                                                         "description":  "Al invocar a Itzpapa con la Habilidad Elemental, Estrella negra albaescarcha, permanecerá siempre en el estado de fuego opalescente. Dicho estado no terminará ni siquiera cuando se agoten los pts. de noctambulismo.\nAdemás, al usar la Habilidad Elemental, Estrella negra albaescarcha, Itzpapa consumirá todos los pts. de noctambulismo y, mientras esté activa, consumirá pts. de noctambulismo de forma continua. Por cada punto de noctambulismo consumido de esta forma, Citlalí obtiene 1 pt. de “numerología secreta”.\nSe pueden obtener hasta un máximo de 40 pts. Por cada punto de numerología secreta que posea Citlalí, aumenta el daño que inflige en un 2.5% y todos los miembros del equipo cercanos obtienen un 1.5% de Bono de Daño Pyro e Hydro.\nCuando Itzpapa sea retirada del campo de batalla o tras usar de nuevo la Habilidad Elemental de Citlalí, todos los puntos de numerología secreta que posea serán eliminados."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Cuchillas radiantes de Centzon Mimixcoah",
+                                                                         "descriptionRaw":  "#Al usar la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEstrella negra albaescarcha\u003c/color\u003e, Citlalí obtiene el efecto de “toga alboestelar” hasta que Itzpapa sea retirada del campo de batalla. Durante este tiempo, obtendrá 10 cargas de “cuchillas estelares”, de manera que, cuando un personaje en uso cercano (a excepción de Citlalí) inflige daño con un Ataque Normal, Cargado o Descendente o con una Habilidad Elemental o Definitiva, se consume 1 carga para aumentar el daño infligido en una cantidad equivalente al 200% de la Maestría Elemental de Citlalí.\nCuando un personaje cercano del equipo cause una reacción de Congelado o Derretido, Citlalí obtendrá 3 cargas adicionales de cuchillas estelares. Este efecto solo puede ocurrir una vez cada 8{NON_BREAK_SPACE}s.\n\nAl usar la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEstrella negra albaescarcha\u003c/color\u003e, se restablecerán las cargas de cuchillas estelares.\nAdemás, cuando Citlalí salte o cuando apunte o use su Ataque Cargado en el aire, su consumo de flogisto disminuye en un 45%.",
+                                                                         "description":  "Al usar la Habilidad Elemental, Estrella negra albaescarcha, Citlalí obtiene el efecto de “toga alboestelar” hasta que Itzpapa sea retirada del campo de batalla. Durante este tiempo, obtendrá 10 cargas de “cuchillas estelares”, de manera que, cuando un personaje en uso cercano (a excepción de Citlalí) inflige daño con un Ataque Normal, Cargado o Descendente o con una Habilidad Elemental o Definitiva, se consume 1 carga para aumentar el daño infligido en una cantidad equivalente al 200% de la Maestría Elemental de Citlalí.\nCuando un personaje cercano del equipo cause una reacción de Congelado o Derretido, Citlalí obtendrá 3 cargas adicionales de cuchillas estelares. Este efecto solo puede ocurrir una vez cada 8 s.\n\nAl usar la Habilidad Elemental, Estrella negra albaescarcha, se restablecerán las cargas de cuchillas estelares.\nAdemás, cuando Citlalí salte o cuando apunte o use su Ataque Cargado en el aire, su consumo de flogisto disminuye en un 45%."
+                                                                     }
+                                                          },
+                                       "elementText":  "Cryo",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalizador",
+                                       "name":  "Citlalí",
+                                       "substatText":  "Maestría Elemental",
+                                       "region":  "Natlan",
+                                       "gender":  "Femenino"
+                                   },
                        "gorou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -4916,88 +5054,50 @@
                                      "region":  "Mondstadt",
                                      "gender":  "Masculino"
                                  },
-                       "mona":  {
-                                    "constellations":  {
-                                                           "c2":  {
-                                                                      "name":  "Cadena lunar",
-                                                                      "descriptionRaw":  "Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado.\nEste efecto solo puede ocurrir una vez cada 5 s.",
-                                                                      "description":  "Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado.\nEste efecto solo puede ocurrir una vez cada 5 s."
-                                                                  },
-                                                           "c4":  {
-                                                                      "name":  "Profecía del fin",
-                                                                      "descriptionRaw":  "Cuando cualquier miembro del equipo ataca a un enemigo afectado por un presagio, la Prob. CRIT de ese personaje aumenta en un 15%.",
-                                                                      "description":  "Cuando cualquier miembro del equipo ataca a un enemigo afectado por un presagio, la Prob. CRIT de ese personaje aumenta en un 15%."
-                                                                  },
-                                                           "c3":  {
-                                                                      "name":  "Revolución incesante",
-                                                                      "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eÓrbita divina\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
-                                                                      "description":  "Aumenta el nivel de habilidad de Órbita divina +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                  },
-                                                           "c5":  {
-                                                                      "name":  "Burla del destino",
-                                                                      "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eEspejismo del agua\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
-                                                                      "description":  "Aumenta el nivel de habilidad de Espejismo del agua +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                  },
-                                                           "c6":  {
-                                                                      "name":  "Retórica de la calamidad",
-                                                                      "descriptionRaw":  "Al entrar en \u003ccolor=#FFD780FF\u003eTorrente ilusorio\u003c/color\u003e, Mona obtiene un aumento del 60% de daño en su próximo Ataque Cargado por cada segundo que se mueve.\nEl máximo bono de daño que se puede alcanzar es del 180%. Este efecto solo puede durar un máximo de 8 s.",
-                                                                      "description":  "Al entrar en Torrente ilusorio, Mona obtiene un aumento del 60% de daño en su próximo Ataque Cargado por cada segundo que se mueve.\nEl máximo bono de daño que se puede alcanzar es del 180%. Este efecto solo puede durar un máximo de 8 s."
-                                                                  },
-                                                           "c1":  {
-                                                                      "name":  "Profecía de sumersión",
-                                                                      "descriptionRaw":  "Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las \u003ccolor=#80C0FFFF\u003eReacciones Elementales con Hydro\u003c/color\u003e se potencian durante 8 s:\n·Aumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro.\n·Aumenta en un 15% la duración de Congelado en enemigos.",
-                                                                      "description":  "Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las Reacciones Elementales con Hydro se potencian durante 8 s:\n·Aumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro.\n·Aumenta en un 15% la duración de Congelado en enemigos."
-                                                                  }
-                                                       },
-                                    "elementText":  "Hydro",
-                                    "fullname":  null,
-                                    "weaponText":  "Catalizador",
-                                    "name":  "Mona",
-                                    "substatText":  "Recarga de Energía",
-                                    "region":  "Mondstadt",
-                                    "gender":  "Femenino"
-                                },
-                       "sangonomiyakokomi":  {
-                                                 "constellations":  {
-                                                                        "c2":  {
-                                                                                   "name":  "Oleaje de nubes",
-                                                                                   "descriptionRaw":  "Sangonomiya Kokomi obtiene los siguientes aumentos de curación para los personajes con un 50% de Vida o menos a través de las siguientes formas:\n·Aumenta la curación de la medusa de \u003ccolor=#FFD780FF\u003eJuramento de la medusa\u003c/color\u003e en una cantidad adicional en proporción al 4.5% de la Vida Máx. de Kokomi.\n·Aumenta la curación de los Ataques Normales y Cargados realizados bajo los efectos de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e en una cantidad adicional en proporción al 0.6% de la Vida Máx. de Kokomi.",
-                                                                                   "description":  "Sangonomiya Kokomi obtiene los siguientes aumentos de curación para los personajes con un 50% de Vida o menos a través de las siguientes formas:\n·Aumenta la curación de la medusa de Juramento de la medusa en una cantidad adicional en proporción al 4.5% de la Vida Máx. de Kokomi.\n·Aumenta la curación de los Ataques Normales y Cargados realizados bajo los efectos de Encarnación de las nereidas en una cantidad adicional en proporción al 0.6% de la Vida Máx. de Kokomi."
-                                                                               },
-                                                                        "c4":  {
-                                                                                   "name":  "Observadora de las aguas",
-                                                                                   "descriptionRaw":  "Mientras está bajo los efectos del manto ceremonial de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e, la Vel. de Ataque Normal de Sangonomiya Kokomi aumenta en un 10% y recupera 0.8 pts. de Energía Elemental cada vez que golpea a un enemigo con un Ataque Normal.\nEste efecto solo puede ocurrir una vez cada 0.2 s.",
-                                                                                   "description":  "Mientras está bajo los efectos del manto ceremonial de Encarnación de las nereidas, la Vel. de Ataque Normal de Sangonomiya Kokomi aumenta en un 10% y recupera 0.8 pts. de Energía Elemental cada vez que golpea a un enemigo con un Ataque Normal.\nEste efecto solo puede ocurrir una vez cada 0.2 s."
-                                                                               },
-                                                                        "c3":  {
-                                                                                   "name":  "Luna del océano",
-                                                                                   "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
-                                                                                   "description":  "Aumenta el nivel de habilidad de Encarnación de las nereidas +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                               },
-                                                                        "c5":  {
-                                                                                   "name":  "Convergencia hacia los mares",
-                                                                                   "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eJuramento de la medusa\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
-                                                                                   "description":  "Aumenta el nivel de habilidad de Juramento de la medusa +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                               },
-                                                                        "c6":  {
-                                                                                   "name":  "Corazón del coral",
-                                                                                   "descriptionRaw":  "Mientras está bajo los efectos del manto ceremonial de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e, cuando Sangonomiya Kokomi realiza un Ataque Normal o Cargado que tiene efectos curativos con el fin de curar a un personaje con un 80% o más de Vida, obtiene un 40% de \u003ccolor=#80C0FFFF\u003eBono de Daño Hydro\u003c/color\u003e durante 4 s.",
-                                                                                   "description":  "Mientras está bajo los efectos del manto ceremonial de Encarnación de las nereidas, cuando Sangonomiya Kokomi realiza un Ataque Normal o Cargado que tiene efectos curativos con el fin de curar a un personaje con un 80% o más de Vida, obtiene un 40% de Bono de Daño Hydro durante 4 s."
-                                                                               },
-                                                                        "c1":  {
-                                                                                   "name":  "Los límites del agua",
-                                                                                   "descriptionRaw":  "Mientras está bajo los efectos del manto ceremonial de \u003ccolor=#FFD780FF\u003eEncarnación de las nereidas\u003c/color\u003e, el último golpe del Ataque Normal de Sangonomiya Kokomi liberará un pez nadador adicional que inflige una cantidad de \u003ccolor=#80C0FFFF\u003eDaño Hydro\u003c/color\u003e equivalente al 30% de la Vida Máx. de Kokomi.\nEste daño no se considera daño de Ataque Normal.",
-                                                                                   "description":  "Mientras está bajo los efectos del manto ceremonial de Encarnación de las nereidas, el último golpe del Ataque Normal de Sangonomiya Kokomi liberará un pez nadador adicional que inflige una cantidad de Daño Hydro equivalente al 30% de la Vida Máx. de Kokomi.\nEste daño no se considera daño de Ataque Normal."
-                                                                               }
-                                                                    },
-                                                 "elementText":  "Hydro",
-                                                 "fullname":  null,
-                                                 "weaponText":  "Catalizador",
-                                                 "name":  "Sangonomiya Kokomi",
-                                                 "substatText":  "Bono de Daño Hydro",
-                                                 "region":  "Inazuma",
-                                                 "gender":  "Femenino"
-                                             },
+                       "travelerpyro":  {
+                                            "constellations":  {
+                                                                   "c2":  {
+                                                                              "name":  "Vela perpetua",
+                                                                              "descriptionRaw":  "#Durante los 12{NON_BREAK_SPACE}s posteriores a usar la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEspada ignífera\u003c/color\u003e, cuando un personaje cercano del equipo causa una \u003ccolor=#FF9999FF\u003eReacción Elemental Pyro\u003c/color\u003e contra un enemigo, {F#la Viajera}{M#el Viajero} recupera 14{NON_BREAK_SPACE}pts. de noctambulismo. Solo se pueden recuperar un máximo de 28{NON_BREAK_SPACE}pts. de noctambulismo de esta manera por cada vez que se use la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEspada ignífera\u003c/color\u003e.",
+                                                                              "description":  "Durante los 12 s posteriores a usar la Habilidad Elemental, Espada ignífera, cuando un personaje cercano del equipo causa una Reacción Elemental Pyro contra un enemigo, el Viajero recupera 14 pts. de noctambulismo. Solo se pueden recuperar un máximo de 28 pts. de noctambulismo de esta manera por cada vez que se use la Habilidad Elemental, Espada ignífera."
+                                                                          },
+                                                                   "c4":  {
+                                                                              "name":  "Fuego abrasador",
+                                                                              "descriptionRaw":  "#Tras usar la Habilidad Definitiva, \u003ccolor=#FFD780FF\u003eAbrasallanuras\u003c/color\u003e, {F#la Viajera}{M#el Viajero} obtiene un 20% de \u003ccolor=#FF9999FF\u003eBono de Daño Pyro\u003c/color\u003e durante 9{NON_BREAK_SPACE}s.",
+                                                                              "description":  "Tras usar la Habilidad Definitiva, Abrasallanuras, el Viajero obtiene un 20% de Bono de Daño Pyro durante 9 s."
+                                                                          },
+                                                                   "c3":  {
+                                                                              "name":  "Relevo llameante",
+                                                                              "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eEspada ignífera\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                              "description":  "Aumenta el nivel de habilidad de Espada ignífera +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                          },
+                                                                   "c5":  {
+                                                                              "name":  "Antorcha inextinguible",
+                                                                              "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eAbrasallanuras\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                              "description":  "Aumenta el nivel de habilidad de Abrasallanuras +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                          },
+                                                                   "c6":  {
+                                                                              "name":  "Sacrofuego imperecedero",
+                                                                              "descriptionRaw":  "#Mientras está en estado de bendición noctámbula, el daño de los Ataques Normales, Cargados y Descendentes {F#de la Viajera}{M#del Viajero} se convierte en \u003ccolor=#FF9999FF\u003eDaño Pyro\u003c/color\u003e de naturaleza noctámbula, el cual no puede sustituirse imbuyéndose de otro elemento, y el Daño CRIT de estos ataques aumenta en un 40%.",
+                                                                              "description":  "Mientras está en estado de bendición noctámbula, el daño de los Ataques Normales, Cargados y Descendentes del Viajero se convierte en Daño Pyro de naturaleza noctámbula, el cual no puede sustituirse imbuyéndose de otro elemento, y el Daño CRIT de estos ataques aumenta en un 40%."
+                                                                          },
+                                                                   "c1":  {
+                                                                              "name":  "Estrella fulgente",
+                                                                              "descriptionRaw":  "Mientras el \u003ccolor=#FFD780FF\u003eumbral flagrante\u003c/color\u003e o el \u003ccolor=#FFD780FF\u003eumbral abrasador\u003c/color\u003e estén activos, el daño que inflige el personaje en uso aumentará en un 6%. Si dicho personaje está en estado de bendición noctámbula, el daño que inflige aumenta en un 9% adicional.",
+                                                                              "description":  "Mientras el umbral flagrante o el umbral abrasador estén activos, el daño que inflige el personaje en uso aumentará en un 6%. Si dicho personaje está en estado de bendición noctámbula, el daño que inflige aumenta en un 9% adicional."
+                                                                          }
+                                                               }
+                                        },
+                       "aether":  {
+                                      "constellations":  null,
+                                      "elementText":  "No disponible",
+                                      "fullname":  null,
+                                      "weaponText":  "Espada ligera",
+                                      "name":  "Éter",
+                                      "substatText":  "ATQ",
+                                      "region":  "",
+                                      "gender":  "Masculino"
+                                  },
                        "travelerelectro":  {
                                                "constellations":  {
                                                                       "c2":  {
@@ -5599,16 +5699,88 @@
                                            "region":  "Inazuma",
                                            "gender":  "Masculino"
                                        },
-                       "aether":  {
-                                      "constellations":  null,
-                                      "elementText":  "No disponible",
+                       "lanyan":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Vestiduras de danza jadeiridiscentes",
+                                                                        "descriptionRaw":  "#Cuando tu personaje en uso inflige daño con su Ataque Normal mientras el \u003ccolor=#FFD780FF\u003eescudo briznafénix\u003c/color\u003e está activo, se restaurará el 40% de la absorción de daño del escudo hasta llegar, como máximo, a su cantidad de absorción original. Este efecto solo puede ocurrir una vez cada 2{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Cuando tu personaje en uso inflige daño con su Ataque Normal mientras el escudo briznafénix está activo, se restaurará el 40% de la absorción de daño del escudo hasta llegar, como máximo, a su cantidad de absorción original. Este efecto solo puede ocurrir una vez cada 2 s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Perlas de sangre dragorrapaces",
+                                                                        "descriptionRaw":  "#Tras usar la Habilidad Definitiva, \u003ccolor=#FFD780FF\u003eAurora lunar\u003c/color\u003e, la Maestría Elemental de todos los personajes del equipo cercanos aumenta en 60{NON_BREAK_SPACE}pts. durante 12{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Tras usar la Habilidad Definitiva, Aurora lunar, la Maestría Elemental de todos los personajes del equipo cercanos aumenta en 60 pts. durante 12 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Fénix blanco perforanubes",
+                                                                        "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eDanza briznafénix\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                        "description":  "Aumenta el nivel de habilidad de Danza briznafénix +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "La felicidad de verte",
+                                                                        "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eAurora lunar\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                        "description":  "Aumenta el nivel de habilidad de Aurora lunar +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Volando cual fénix plateado",
+                                                                        "descriptionRaw":  "Aumenta en 1 las cargas de \u003ccolor=#FFD780FF\u003eDanza briznafénix\u003c/color\u003e.",
+                                                                        "description":  "Aumenta en 1 las cargas de Danza briznafénix."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Si alguien anduviera entre las nubes...",
+                                                                        "descriptionRaw":  "Tras activarse el cambio elemental del talento pasivo “Cuchillas selloraculares”, cuando Lan Yan lance a los enemigos sus anillos plumaluna al usar la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eDanza briznafénix\u003c/color\u003e, lanzará un anillo adicional.\nEs necesario desbloquear el talento pasivo “Cuchillas selloraculares”.",
+                                                                        "description":  "Tras activarse el cambio elemental del talento pasivo “Cuchillas selloraculares”, cuando Lan Yan lance a los enemigos sus anillos plumaluna al usar la Habilidad Elemental, Danza briznafénix, lanzará un anillo adicional.\nEs necesario desbloquear el talento pasivo “Cuchillas selloraculares”."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anemo",
                                       "fullname":  null,
-                                      "weaponText":  "Espada ligera",
-                                      "name":  "Éter",
+                                      "weaponText":  "Catalizador",
+                                      "name":  "Lan Yan",
                                       "substatText":  "ATQ",
-                                      "region":  "",
-                                      "gender":  "Masculino"
+                                      "region":  "Liyue",
+                                      "gender":  "Femenino"
                                   },
+                       "mona":  {
+                                    "constellations":  {
+                                                           "c2":  {
+                                                                      "name":  "Cadena lunar",
+                                                                      "descriptionRaw":  "Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado.\nEste efecto solo puede ocurrir una vez cada 5 s.",
+                                                                      "description":  "Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado.\nEste efecto solo puede ocurrir una vez cada 5 s."
+                                                                  },
+                                                           "c4":  {
+                                                                      "name":  "Profecía del fin",
+                                                                      "descriptionRaw":  "Cuando cualquier miembro del equipo ataca a un enemigo afectado por un presagio, la Prob. CRIT de ese personaje aumenta en un 15%.",
+                                                                      "description":  "Cuando cualquier miembro del equipo ataca a un enemigo afectado por un presagio, la Prob. CRIT de ese personaje aumenta en un 15%."
+                                                                  },
+                                                           "c3":  {
+                                                                      "name":  "Revolución incesante",
+                                                                      "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eÓrbita divina\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
+                                                                      "description":  "Aumenta el nivel de habilidad de Órbita divina +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                  },
+                                                           "c5":  {
+                                                                      "name":  "Burla del destino",
+                                                                      "descriptionRaw":  "Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eEspejismo del agua\u003c/color\u003e +3.\nPuede ser aumentado hasta Niv. 15.",
+                                                                      "description":  "Aumenta el nivel de habilidad de Espejismo del agua +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                  },
+                                                           "c6":  {
+                                                                      "name":  "Retórica de la calamidad",
+                                                                      "descriptionRaw":  "Al entrar en \u003ccolor=#FFD780FF\u003eTorrente ilusorio\u003c/color\u003e, Mona obtiene un aumento del 60% de daño en su próximo Ataque Cargado por cada segundo que se mueve.\nEl máximo bono de daño que se puede alcanzar es del 180%. Este efecto solo puede durar un máximo de 8 s.",
+                                                                      "description":  "Al entrar en Torrente ilusorio, Mona obtiene un aumento del 60% de daño en su próximo Ataque Cargado por cada segundo que se mueve.\nEl máximo bono de daño que se puede alcanzar es del 180%. Este efecto solo puede durar un máximo de 8 s."
+                                                                  },
+                                                           "c1":  {
+                                                                      "name":  "Profecía de sumersión",
+                                                                      "descriptionRaw":  "Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las \u003ccolor=#80C0FFFF\u003eReacciones Elementales con Hydro\u003c/color\u003e se potencian durante 8 s:\n·Aumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro.\n·Aumenta en un 15% la duración de Congelado en enemigos.",
+                                                                      "description":  "Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las Reacciones Elementales con Hydro se potencian durante 8 s:\n·Aumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro.\n·Aumenta en un 15% la duración de Congelado en enemigos."
+                                                                  }
+                                                       },
+                                    "elementText":  "Hydro",
+                                    "fullname":  null,
+                                    "weaponText":  "Catalizador",
+                                    "name":  "Mona",
+                                    "substatText":  "Recarga de Energía",
+                                    "region":  "Mondstadt",
+                                    "gender":  "Femenino"
+                                },
                        "barbara":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -5877,8 +6049,8 @@
                                                                      },
                                                               "c1":  {
                                                                          "name":  "Visión de aventura",
-                                                                         "descriptionRaw":  "El aumento de ATQ de \u003ccolor=#FFD780FF\u003eAventura maravillosa\u003c/color\u003e ya no se ve restringido por la cantidad de Vida, y aumenta en un 20% adicional en proporción al ATQ Básico de Bennett.",
-                                                                         "description":  "El aumento de ATQ de Aventura maravillosa ya no se ve restringido por la cantidad de Vida, y aumenta en un 20% adicional en proporción al ATQ Básico de Bennett."
+                                                                         "descriptionRaw":  "El aumento de ATQ de \u003ccolor=#FFD780FF\u003eAventura maravillosa\u003c/color\u003e ya no se ve restringido por la cantidad de Vida, y aumenta en un 20% adicional en proporción al ATQ Base de Bennett.",
+                                                                         "description":  "El aumento de ATQ de Aventura maravillosa ya no se ve restringido por la cantidad de Vida, y aumenta en un 20% adicional en proporción al ATQ Base de Bennett."
                                                                      }
                                                           },
                                        "elementText":  "Pyro",
@@ -6012,47 +6184,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Masculino"
                                   },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "¡Mualani dándolo todo!",
-                                                                         "descriptionRaw":  "#Al entrar en estado de bendición noctámbula, Mualani obtiene 2 cargas de energía mareal de \u003ccolor=#FFD780FF\u003eEscualosurf rompeolas\u003c/color\u003e, y al recoger un peciglobo, obtiene 1 carga.\nAdemás, cuando Mualani recoja 2 peciglobos durante una bendición noctámbula, recuperará 12{NON_BREAK_SPACE}pts. de noctambulismo en 2{NON_BREAK_SPACE}s. Para que se active este efecto, es necesario desbloquear el talento pasivo “Peciglobo antitérmico de agua dulce”.",
-                                                                         "description":  "Al entrar en estado de bendición noctámbula, Mualani obtiene 2 cargas de energía mareal de Escualosurf rompeolas, y al recoger un peciglobo, obtiene 1 carga.\nAdemás, cuando Mualani recoja 2 peciglobos durante una bendición noctámbula, recuperará 12 pts. de noctambulismo en 2 s. Para que se active este efecto, es necesario desbloquear el talento pasivo “Peciglobo antitérmico de agua dulce”."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Tiburón devorapeciglobos",
-                                                                         "descriptionRaw":  "#Al recoger un peciglobo, Mualani obtiene 8{NON_BREAK_SPACE}pts. de Energía Elemental. Para que se active este efecto, es necesario desbloquear el talento pasivo “Peciglobo antitérmico de agua dulce”.\nAdemás, aumenta en un 75% el daño infligido con \u003ccolor=#FFD780FF\u003eMisil acuaexplosivo\u003c/color\u003e.",
-                                                                         "description":  "Al recoger un peciglobo, Mualani obtiene 8 pts. de Energía Elemental. Para que se active este efecto, es necesario desbloquear el talento pasivo “Peciglobo antitérmico de agua dulce”.\nAdemás, aumenta en un 75% el daño infligido con Misil acuaexplosivo."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surfeando en el mar de la alegría",
-                                                                         "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eEscualosurf rompeolas\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
-                                                                         "description":  "Aumenta el nivel de habilidad de Escualosurf rompeolas +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "¡Escualotablas de surf a la venta!",
-                                                                         "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eMisil acuaexplosivo\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
-                                                                         "description":  "Aumenta el nivel de habilidad de Misil acuaexplosivo +3.\nPuede ser aumentado hasta Niv. 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Espíritu del Pueblo de los Manantiales",
-                                                                         "descriptionRaw":  "Elimina la restricción por la que el aumento de daño otorgado por la constelación “Parsimonia de Meztli” solo se podía activar una vez durante el estado de bendición noctámbula.",
-                                                                         "description":  "Elimina la restricción por la que el aumento de daño otorgado por la constelación “Parsimonia de Meztli” solo se podía activar una vez durante el estado de bendición noctámbula."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Parsimonia de Meztli",
-                                                                         "descriptionRaw":  "El daño que inflige el primer escualomordisco tsunámico realizado tras entrar en estado de bendición noctámbula y sus escualoproyectiles aumenta en una cantidad equivalente al 66% de la Vida Máx. de Mualani. Este aumento de daño sigue las normas de disminución de daño de \u003ccolor=#FFD780FF\u003eEscualosurf rompeolas\u003c/color\u003e.\nAdemás, mientras Mualani no esté en combate, los pts. de noctambulismo y de flogisto que consume su estado de bendición noctámbula se reducen en un 30%.",
-                                                                         "description":  "El daño que inflige el primer escualomordisco tsunámico realizado tras entrar en estado de bendición noctámbula y sus escualoproyectiles aumenta en una cantidad equivalente al 66% de la Vida Máx. de Mualani. Este aumento de daño sigue las normas de disminución de daño de Escualosurf rompeolas.\nAdemás, mientras Mualani no esté en combate, los pts. de noctambulismo y de flogisto que consume su estado de bendición noctámbula se reducen en un 30%."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalizador",
-                                       "name":  "Mualani",
-                                       "substatText":  "Prob. CRIT",
-                                       "region":  "Natlan",
-                                       "gender":  "Femenino"
-                                   },
+                       "beidou":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Tormenta sobre el mar turbulento",
+                                                                        "descriptionRaw":  "Los rayos de \u003ccolor=#FFD780FF\u003eQuebrantatormentas\u003c/color\u003e rebotan a 2 objetivos adicionales.",
+                                                                        "description":  "Los rayos de Quebrantatormentas rebotan a 2 objetivos adicionales."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Venganza súbita",
+                                                                        "descriptionRaw":  "#Tras ser atacada, los Ataques Normales de Beidou obtienen un 20% de \u003ccolor=#FFACFFFF\u003eDaño Electro\u003c/color\u003e adicional durante 10{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Tras ser atacada, los Ataques Normales de Beidou obtienen un 20% de Daño Electro adicional durante 10 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Invocadora de la tormenta",
+                                                                        "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eInvocadora de mareas\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                        "description":  "Aumenta el nivel de habilidad de Invocadora de mareas +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Caminante de mareas carmesí",
+                                                                        "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eQuebrantatormentas\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                        "description":  "Aumenta el nivel de habilidad de Quebrantatormentas +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Flagelo del mal",
+                                                                        "descriptionRaw":  "Mientras esté activa la habilidad \u003ccolor=#FFD780FF\u003eQuebrantatormentas\u003c/color\u003e, la \u003ccolor=#FFACFFFF\u003eRES Electro\u003c/color\u003e de los enemigos cercanos se reduce en un 15%.",
+                                                                        "description":  "Mientras esté activa la habilidad Quebrantatormentas, la RES Electro de los enemigos cercanos se reduce en un 15%."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Cazadora de ictiosaurios",
+                                                                        "descriptionRaw":  "#Al activar \u003ccolor=#FFD780FF\u003eQuebrantatormentas\u003c/color\u003e, crea un escudo que absorbe daño en una cantidad equivalente al 16% de la Vida Máx. de Beidou durante 15{NON_BREAK_SPACE}s.\nEl escudo tiene un 250% de eficiencia de absorción de \u003ccolor=#FFACFFFF\u003eDaño Electro\u003c/color\u003e.",
+                                                                        "description":  "Al activar Quebrantatormentas, crea un escudo que absorbe daño en una cantidad equivalente al 16% de la Vida Máx. de Beidou durante 15 s.\nEl escudo tiene un 250% de eficiencia de absorción de Daño Electro."
+                                                                    }
+                                                         },
+                                      "elementText":  "Electro",
+                                      "fullname":  null,
+                                      "weaponText":  "Mandoble",
+                                      "name":  "Beidou",
+                                      "substatText":  "Bono de Daño Electro",
+                                      "region":  "Liyue",
+                                      "gender":  "Femenino"
+                                  },
                        "nilou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6553,65 +6725,85 @@
                                                  },
                                           "effectName":  "Inquebrantable"
                                       },
-                    "wineandsong":  {
-                                        "r3":  {
-                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 18% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 30% durante 5 s.",
-                                                   "values":  [
-                                                                  "18%",
-                                                                  "30%"
-                                                              ]
-                                               },
-                                        "r5":  {
-                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 22% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 40% durante 5 s.",
-                                                   "values":  [
-                                                                  "22%",
-                                                                  "40%"
-                                                              ]
-                                               },
-                                        "r2":  {
-                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 16% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 25% durante 5 s.",
-                                                   "values":  [
-                                                                  "16%",
-                                                                  "25%"
-                                                              ]
-                                               },
-                                        "r4":  {
-                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 20% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 35% durante 5 s.",
-                                                   "values":  [
-                                                                  "20%",
-                                                                  "35%"
-                                                              ]
-                                               },
-                                        "substatText":  "Recarga de Energía",
-                                        "weaponText":  "Catalizador",
-                                        "name":  "Vino y Poesía",
-                                        "effectTemplateRaw":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e durante 5 s.",
-                                        "r1":  {
-                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 14% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 20% durante 5 s.",
-                                                   "values":  [
-                                                                  "14%",
-                                                                  "20%"
-                                                              ]
-                                               },
-                                        "effectName":  "Versatilidad"
-                                    },
-                    "prizedisshinblade":  {
-                                              "r3":  null,
-                                              "r5":  null,
-                                              "r2":  null,
-                                              "r4":  null,
-                                              "substatText":  "ATQ",
-                                              "weaponText":  "Espada ligera",
-                                              "name":  "Espada Egregia de Isshin",
-                                              "effectTemplateRaw":  "Al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, se libera un espíritu maldito que inflige un Daño en el AdE equivalente al 180% del ATQ y regenera una cantidad de Vida equivalente al 100% del ATQ. Este efecto solo se puede activar una vez cada 8 s. El daño que inflige el personaje que lleva esta arma equipada se reduce en un 50%.",
-                                              "r1":  {
-                                                         "description":  "Al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, se libera un espíritu maldito que inflige un Daño en el AdE equivalente al 180% del ATQ y regenera una cantidad de Vida equivalente al 100% del ATQ. Este efecto solo se puede activar una vez cada 8 s. El daño que inflige el personaje que lleva esta arma equipada se reduce en un 50%.",
-                                                         "values":  [
-
-                                                                    ]
-                                                     },
-                                              "effectName":  "Espadachín errante"
-                                          },
+                    "starcallerswatch":  {
+                                             "r3":  {
+                                                        "description":  "Aumenta la Maestría Elemental en 150 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 42% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+                                                        "values":  [
+                                                                       "150",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Aumenta la Maestría Elemental en 200 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 56% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+                                                        "values":  [
+                                                                       "200",
+                                                                       "56%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Aumenta la Maestría Elemental en 125 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 35% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+                                                        "values":  [
+                                                                       "125",
+                                                                       "35%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Aumenta la Maestría Elemental en 175 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 49% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+                                                        "values":  [
+                                                                       "175",
+                                                                       "49%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "Maestría Elemental",
+                                             "weaponText":  "Catalizador",
+                                             "name":  "Vigía de las Estrellas",
+                                             "effectTemplateRaw":  "#Aumenta la Maestría Elemental en \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pts. En los 15{NON_BREAK_SPACE}s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14{NON_BREAK_SPACE}s.",
+                                             "r1":  {
+                                                        "description":  "Aumenta la Maestría Elemental en 100 pts. En los 15 s siguientes tras crear un escudo, el portador de esta arma obtiene el efecto “espejo de la noche”, el cual aumenta en un 28% el daño que inflige el personaje en uso de tu equipo a los enemigos cercanos. Puedes obtener este efecto una vez cada 14 s.",
+                                                        "values":  [
+                                                                       "100",
+                                                                       "28%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Ofrenda para el viento y el sol"
+                                         },
+                    "recurvebow":  {
+                                       "r3":  {
+                                                  "description":  "Restaura un 12% de Vida tras derrotar a un enemigo.",
+                                                  "values":  [
+                                                                 "12%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Restaura un 16% de Vida tras derrotar a un enemigo.",
+                                                  "values":  [
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Restaura un 10% de Vida tras derrotar a un enemigo.",
+                                                  "values":  [
+                                                                 "10%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Restaura un 14% de Vida tras derrotar a un enemigo.",
+                                                  "values":  [
+                                                                 "14%"
+                                                             ]
+                                              },
+                                       "substatText":  "Vida",
+                                       "weaponText":  "Arco",
+                                       "name":  "Arco Recurvo",
+                                       "effectTemplateRaw":  "Restaura un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de Vida tras derrotar a un enemigo.",
+                                       "r1":  {
+                                                  "description":  "Restaura un 8% de Vida tras derrotar a un enemigo.",
+                                                  "values":  [
+                                                                 "8%"
+                                                             ]
+                                              },
+                                       "effectName":  "Cosecha"
+                                   },
                     "eyeofperception":  {
                                             "r3":  {
                                                        "description":  "Los Ataques Normales y Ataques Cargados tienen un 50% de probabilidad de lanzar un Ojo de la Perspicacia que inflige un 300% de ATQ como daño. El Ojo de la Perspicacia puede rebotar entre enemigos un máximo de 4 veces. Este efecto puede ocurrir una vez cada 10 s.",
@@ -10155,48 +10347,48 @@
                                              },
                                       "effectName":  "Perdición del agua y el hielo"
                                   },
-                    "sacrificialjade":  {
-                                            "r3":  {
-                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 48% y su Maestría Elemental aumenta en 60 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
-                                                       "values":  [
-                                                                      "48%",
-                                                                      "60"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 64% y su Maestría Elemental aumenta en 80 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
-                                                       "values":  [
-                                                                      "64%",
-                                                                      "80"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 40% y su Maestría Elemental aumenta en 50 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
-                                                       "values":  [
-                                                                      "40%",
-                                                                      "50"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 56% y su Maestría Elemental aumenta en 70 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
-                                                       "values":  [
-                                                                      "56%",
-                                                                      "70"
-                                                                  ]
-                                                   },
-                                            "substatText":  "Prob. CRIT",
-                                            "weaponText":  "Catalizador",
-                                            "name":  "Jade Sacrificial",
-                                            "effectTemplateRaw":  "#Cuando el personaje está en tu equipo pero no en uso durante más de 5{NON_BREAK_SPACE}s, su Vida Máx. aumenta en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e y su Maestría Elemental aumenta en \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10{NON_BREAK_SPACE}s.",
-                                            "r1":  {
-                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 32% y su Maestría Elemental aumenta en 40 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
-                                                       "values":  [
-                                                                      "32%",
-                                                                      "40"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Jade fluctuante"
-                                        },
+                    "harangeppakufutsu":  {
+                                              "r3":  {
+                                                         "description":  "Otorga un 18% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 30% durante 8 s por cada carga consumida.",
+                                                         "values":  [
+                                                                        "18%",
+                                                                        "30%"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Otorga un 24% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 40% durante 8 s por cada carga consumida.",
+                                                         "values":  [
+                                                                        "24%",
+                                                                        "40%"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Otorga un 15% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 25% durante 8 s por cada carga consumida.",
+                                                         "values":  [
+                                                                        "15%",
+                                                                        "25%"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Otorga un 21% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 35% durante 8 s por cada carga consumida.",
+                                                         "values":  [
+                                                                        "21%",
+                                                                        "35%"
+                                                                    ]
+                                                     },
+                                              "substatText":  "Prob. CRIT",
+                                              "weaponText":  "Espada ligera",
+                                              "name":  "Luna Ondulante de Futsu",
+                                              "effectTemplateRaw":  "Otorga un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e durante 8 s por cada carga consumida.",
+                                              "r1":  {
+                                                         "description":  "Otorga un 12% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 20% durante 8 s por cada carga consumida.",
+                                                         "values":  [
+                                                                        "12%",
+                                                                        "20%"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Influjo afilado"
+                                          },
                     "favoniussword":  {
                                           "r3":  {
                                                      "description":  "Los Golpes CRIT tienen un 80% de probabilidad de generar una pequeña cantidad de partículas elementales, las cuales regenerarán 6 pts. de Energía para el personaje. Solo puede ocurrir una vez cada 9 s.",
@@ -10276,43 +10468,6 @@
                                                          },
                                                   "effectName":  "Caza de la turquesa"
                                               },
-                    "recurvebow":  {
-                                       "r3":  {
-                                                  "description":  "Restaura un 12% de Vida tras derrotar a un enemigo.",
-                                                  "values":  [
-                                                                 "12%"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Restaura un 16% de Vida tras derrotar a un enemigo.",
-                                                  "values":  [
-                                                                 "16%"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Restaura un 10% de Vida tras derrotar a un enemigo.",
-                                                  "values":  [
-                                                                 "10%"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Restaura un 14% de Vida tras derrotar a un enemigo.",
-                                                  "values":  [
-                                                                 "14%"
-                                                             ]
-                                              },
-                                       "substatText":  "Vida",
-                                       "weaponText":  "Arco",
-                                       "name":  "Arco Recurvo",
-                                       "effectTemplateRaw":  "Restaura un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de Vida tras derrotar a un enemigo.",
-                                       "r1":  {
-                                                  "description":  "Restaura un 8% de Vida tras derrotar a un enemigo.",
-                                                  "values":  [
-                                                                 "8%"
-                                                             ]
-                                              },
-                                       "effectName":  "Cosecha"
-                                   },
                     "crescentpike":  {
                                          "r3":  {
                                                     "description":  "Después de obtener una partícula u orbe elemental, los Ataques Normales y Cargados infligen un 30% de daño de ATQ adicional durante 5 s.",
@@ -11757,48 +11912,100 @@
                                                     },
                                              "effectName":  "Victoria tras victoria"
                                          },
-                    "harangeppakufutsu":  {
-                                              "r3":  {
-                                                         "description":  "Otorga un 18% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 30% durante 8 s por cada carga consumida.",
-                                                         "values":  [
-                                                                        "18%",
-                                                                        "30%"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Otorga un 24% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 40% durante 8 s por cada carga consumida.",
-                                                         "values":  [
-                                                                        "24%",
-                                                                        "40%"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Otorga un 15% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 25% durante 8 s por cada carga consumida.",
-                                                         "values":  [
-                                                                        "15%",
-                                                                        "25%"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Otorga un 21% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 35% durante 8 s por cada carga consumida.",
-                                                         "values":  [
-                                                                        "21%",
-                                                                        "35%"
-                                                                    ]
-                                                     },
-                                              "substatText":  "Prob. CRIT",
-                                              "weaponText":  "Espada ligera",
-                                              "name":  "Luna Ondulante de Futsu",
-                                              "effectTemplateRaw":  "Otorga un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e durante 8 s por cada carga consumida.",
-                                              "r1":  {
-                                                         "description":  "Otorga un 12% a todos los Bonos de Daño Elemental. Cuando los demás personajes del equipo cercanos usan una Habilidad Elemental, otorgan 1 carga de “acuapúa” al portador de esta arma. Este efecto puede acumularse hasta 2 veces y activarse una vez cada 0.3 s. Cuando el personaje que lleva esta arma equipada usa su Habilidad Elemental, si tenía cargas de acuapúa, las consumirá todas y obtendrá el efecto de “ondulación”, el cual aumenta el daño de Ataque Normal en un 20% durante 8 s por cada carga consumida.",
-                                                         "values":  [
-                                                                        "12%",
-                                                                        "20%"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Influjo afilado"
-                                          },
+                    "sacrificialjade":  {
+                                            "r3":  {
+                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 48% y su Maestría Elemental aumenta en 60 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+                                                       "values":  [
+                                                                      "48%",
+                                                                      "60"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 64% y su Maestría Elemental aumenta en 80 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+                                                       "values":  [
+                                                                      "64%",
+                                                                      "80"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 40% y su Maestría Elemental aumenta en 50 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+                                                       "values":  [
+                                                                      "40%",
+                                                                      "50"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 56% y su Maestría Elemental aumenta en 70 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+                                                       "values":  [
+                                                                      "56%",
+                                                                      "70"
+                                                                  ]
+                                                   },
+                                            "substatText":  "Prob. CRIT",
+                                            "weaponText":  "Catalizador",
+                                            "name":  "Jade Sacrificial",
+                                            "effectTemplateRaw":  "#Cuando el personaje está en tu equipo pero no en uso durante más de 5{NON_BREAK_SPACE}s, su Vida Máx. aumenta en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e y su Maestría Elemental aumenta en \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10{NON_BREAK_SPACE}s.",
+                                            "r1":  {
+                                                       "description":  "Cuando el personaje está en tu equipo pero no en uso durante más de 5 s, su Vida Máx. aumenta en un 32% y su Maestría Elemental aumenta en 40 pts. Este efecto se anulará cuando el portador de esta arma entre en el campo de batalla y permanezca en él durante 10 s.",
+                                                       "values":  [
+                                                                      "32%",
+                                                                      "40"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Jade fluctuante"
+                                        },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 12% y otorga un 15% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 12%, hasta un máximo de un 38.4%.",
+                                                      "values":  [
+                                                                     "12%",
+                                                                     "15%",
+                                                                     "12%",
+                                                                     "38.4%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 16% y otorga un 20% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 16%, hasta un máximo de un 51.2%.",
+                                                      "values":  [
+                                                                     "16%",
+                                                                     "20%",
+                                                                     "16%",
+                                                                     "51.2%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 10% y otorga un 12.5% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 10%, hasta un máximo de un 32%.",
+                                                      "values":  [
+                                                                     "10%",
+                                                                     "12.5%",
+                                                                     "10%",
+                                                                     "32%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 14% y otorga un 17.5% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 14%, hasta un máximo de un 44.8%.",
+                                                      "values":  [
+                                                                     "14%",
+                                                                     "17.5%",
+                                                                     "14%",
+                                                                     "44.8%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "DEF",
+                                           "weaponText":  "Espada ligera",
+                                           "name":  "Himno de las Cumbres",
+                                           "effectTemplateRaw":  "#Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e y otorga un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e a todos los Bonos de Daño Elemental durante 6{NON_BREAK_SPACE}s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1{NON_BREAK_SPACE}s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000{NON_BREAK_SPACE}pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15{NON_BREAK_SPACE}s en un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e, hasta un máximo de un \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e.",
+                                           "r1":  {
+                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 8% y otorga un 10% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 8%, hasta un máximo de un 25.6%.",
+                                                      "values":  [
+                                                                     "8%",
+                                                                     "10%",
+                                                                     "8%",
+                                                                     "25.6%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Era dorada interminable"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -13145,58 +13352,23 @@
                                                             },
                                                      "effectName":  "Nocturno de Dryas"
                                                  },
-                    "peakpatrolsong":  {
-                                           "r3":  {
-                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 12% y otorga un 15% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 12%, hasta un máximo de un 38.4%.",
-                                                      "values":  [
-                                                                     "12%",
-                                                                     "15%",
-                                                                     "12%",
-                                                                     "38.4%"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 16% y otorga un 20% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 16%, hasta un máximo de un 51.2%.",
-                                                      "values":  [
-                                                                     "16%",
-                                                                     "20%",
-                                                                     "16%",
-                                                                     "51.2%"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 10% y otorga un 12.5% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 10%, hasta un máximo de un 32%.",
-                                                      "values":  [
-                                                                     "10%",
-                                                                     "12.5%",
-                                                                     "10%",
-                                                                     "32%"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 14% y otorga un 17.5% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 14%, hasta un máximo de un 44.8%.",
-                                                      "values":  [
-                                                                     "14%",
-                                                                     "17.5%",
-                                                                     "14%",
-                                                                     "44.8%"
-                                                                 ]
-                                                  },
-                                           "substatText":  "DEF",
-                                           "weaponText":  "Espada ligera",
-                                           "name":  "Himno de las Cumbres",
-                                           "effectTemplateRaw":  "#Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e y otorga un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e a todos los Bonos de Daño Elemental durante 6{NON_BREAK_SPACE}s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1{NON_BREAK_SPACE}s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000{NON_BREAK_SPACE}pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15{NON_BREAK_SPACE}s en un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e, hasta un máximo de un \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e.",
-                                           "r1":  {
-                                                      "description":  "Al golpear a un enemigo con un Ataque Normal o Descendente, se obtiene el efecto de “himno de las flores”, el cual aumenta la DEF en un 8% y otorga un 10% a todos los Bonos de Daño Elemental durante 6 s. Este efecto se puede acumular hasta 2 veces y solo se puede activar una vez cada 0.1 s. Al acumularse 2 veces o al reiniciarse la duración de las 2 acumulaciones, por cada 1000 pts. de DEF que tenga el portador de esta arma, todos los Bonos de Daño Elemental de todos los personajes cercanos del equipo aumentan durante 15 s en un 8%, hasta un máximo de un 25.6%.",
-                                                      "values":  [
-                                                                     "8%",
-                                                                     "10%",
-                                                                     "8%",
-                                                                     "25.6%"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Era dorada interminable"
-                                       },
+                    "prizedisshinblade":  {
+                                              "r3":  null,
+                                              "r5":  null,
+                                              "r2":  null,
+                                              "r4":  null,
+                                              "substatText":  "ATQ",
+                                              "weaponText":  "Espada ligera",
+                                              "name":  "Espada Egregia de Isshin",
+                                              "effectTemplateRaw":  "Al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, se libera un espíritu maldito que inflige un Daño en el AdE equivalente al 180% del ATQ y regenera una cantidad de Vida equivalente al 100% del ATQ. Este efecto solo se puede activar una vez cada 8 s. El daño que inflige el personaje que lleva esta arma equipada se reduce en un 50%.",
+                                              "r1":  {
+                                                         "description":  "Al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, se libera un espíritu maldito que inflige un Daño en el AdE equivalente al 180% del ATQ y regenera una cantidad de Vida equivalente al 100% del ATQ. Este efecto solo se puede activar una vez cada 8 s. El daño que inflige el personaje que lleva esta arma equipada se reduce en un 50%.",
+                                                         "values":  [
+
+                                                                    ]
+                                                     },
+                                              "effectName":  "Espadachín errante"
+                                          },
                     "ultimateoverlordsmegamagicsword":  {
                                                             "r3":  {
                                                                        "description":  "El ATQ aumenta en un 18%. ¡Pero aún hay más! Las melusinas de la Aldea Espumarina te ofrecen todo su apoyo, de manera que, en función de la cantidad de melusinas que hayas ayudado, el ATQ aumenta en un máximo de un 18% adicional.",
@@ -13239,6 +13411,48 @@
                                                                    },
                                                             "effectName":  "¡Tú puedes!"
                                                         },
+                    "wineandsong":  {
+                                        "r3":  {
+                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 18% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 30% durante 5 s.",
+                                                   "values":  [
+                                                                  "18%",
+                                                                  "30%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 22% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 40% durante 5 s.",
+                                                   "values":  [
+                                                                  "22%",
+                                                                  "40%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 16% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 25% durante 5 s.",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "25%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 20% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 35% durante 5 s.",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "35%"
+                                                              ]
+                                               },
+                                        "substatText":  "Recarga de Energía",
+                                        "weaponText":  "Catalizador",
+                                        "name":  "Vino y Poesía",
+                                        "effectTemplateRaw":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e durante 5 s.",
+                                        "r1":  {
+                                                   "description":  "Al atacar a un enemigo con un Ataque Normal, el Coste de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un 14% durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un 20% durante 5 s.",
+                                                   "values":  [
+                                                                  "14%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "effectName":  "Versatilidad"
+                                    },
                     "forestregalia":  {
                                           "r3":  {
                                                      "description":  "Al causar una reacción de Quemadura, Aceleración, Intensificación, Propagación, Florecimiento, Sobreflorecimiento o Crepitar, se crea cerca del personaje una hoja alayavijñana que existirá durante 10 s. La Maestría Elemental del personaje que la recoja aumentará en 90 pts. durante 12 s. Solo se puede crear una hoja alayavijñana cada 20 s de esta manera. Este efecto también se puede activar cuando el personaje está en tu equipo pero no en uso, y no se puede acumular.",
@@ -13666,6 +13880,48 @@
                                                 },
                                          "effectName":  "Elocuencia"
                                      },
+                    "athousandblazingsuns":  {
+                                                 "r3":  {
+                                                            "description":  "Al usar la Habilidad Elemental o Definitiva, se obtiene el efecto de “brillo abrasador”, de manera que el Daño CRIT aumenta en un 30% y el ATQ aumenta en un 42% durante 6 s. Este efecto puede activarse una vez cada 10 s.\nMientras este efecto esté activo, su duración aumenta en 2 s después de infligir Daño Elemental con un Ataque Normal o Cargado. Esto solo puede ocurrir una vez por segundo y, como máximo, su duración puede aumentar en 6 s.\nAdemás, al estar en el estado de bendición noctámbula, los efectos de brillo abrasador aumentan en un 75%, y la duración no se contará cuando el portador de esta arma esté en tu equipo pero no en uso.",
+                                                            "values":  [
+                                                                           "30%",
+                                                                           "42%"
+                                                                       ]
+                                                        },
+                                                 "r5":  {
+                                                            "description":  "Al usar la Habilidad Elemental o Definitiva, se obtiene el efecto de “brillo abrasador”, de manera que el Daño CRIT aumenta en un 40% y el ATQ aumenta en un 56% durante 6 s. Este efecto puede activarse una vez cada 10 s.\nMientras este efecto esté activo, su duración aumenta en 2 s después de infligir Daño Elemental con un Ataque Normal o Cargado. Esto solo puede ocurrir una vez por segundo y, como máximo, su duración puede aumentar en 6 s.\nAdemás, al estar en el estado de bendición noctámbula, los efectos de brillo abrasador aumentan en un 75%, y la duración no se contará cuando el portador de esta arma esté en tu equipo pero no en uso.",
+                                                            "values":  [
+                                                                           "40%",
+                                                                           "56%"
+                                                                       ]
+                                                        },
+                                                 "r2":  {
+                                                            "description":  "Al usar la Habilidad Elemental o Definitiva, se obtiene el efecto de “brillo abrasador”, de manera que el Daño CRIT aumenta en un 25% y el ATQ aumenta en un 35% durante 6 s. Este efecto puede activarse una vez cada 10 s.\nMientras este efecto esté activo, su duración aumenta en 2 s después de infligir Daño Elemental con un Ataque Normal o Cargado. Esto solo puede ocurrir una vez por segundo y, como máximo, su duración puede aumentar en 6 s.\nAdemás, al estar en el estado de bendición noctámbula, los efectos de brillo abrasador aumentan en un 75%, y la duración no se contará cuando el portador de esta arma esté en tu equipo pero no en uso.",
+                                                            "values":  [
+                                                                           "25%",
+                                                                           "35%"
+                                                                       ]
+                                                        },
+                                                 "r4":  {
+                                                            "description":  "Al usar la Habilidad Elemental o Definitiva, se obtiene el efecto de “brillo abrasador”, de manera que el Daño CRIT aumenta en un 35% y el ATQ aumenta en un 49% durante 6 s. Este efecto puede activarse una vez cada 10 s.\nMientras este efecto esté activo, su duración aumenta en 2 s después de infligir Daño Elemental con un Ataque Normal o Cargado. Esto solo puede ocurrir una vez por segundo y, como máximo, su duración puede aumentar en 6 s.\nAdemás, al estar en el estado de bendición noctámbula, los efectos de brillo abrasador aumentan en un 75%, y la duración no se contará cuando el portador de esta arma esté en tu equipo pero no en uso.",
+                                                            "values":  [
+                                                                           "35%",
+                                                                           "49%"
+                                                                       ]
+                                                        },
+                                                 "substatText":  "Prob. CRIT",
+                                                 "weaponText":  "Mandoble",
+                                                 "name":  "Mil Soles Abrasadores",
+                                                 "effectTemplateRaw":  "#Al usar la Habilidad Elemental o Definitiva, se obtiene el efecto de “brillo abrasador”, de manera que el Daño CRIT aumenta en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e y el ATQ aumenta en un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e durante 6{NON_BREAK_SPACE}s. Este efecto puede activarse una vez cada 10{NON_BREAK_SPACE}s.\nMientras este efecto esté activo, su duración aumenta en 2{NON_BREAK_SPACE}s después de infligir Daño Elemental con un Ataque Normal o Cargado. Esto solo puede ocurrir una vez por segundo y, como máximo, su duración puede aumentar en 6{NON_BREAK_SPACE}s.\nAdemás, al estar en el estado de bendición noctámbula, los efectos de brillo abrasador aumentan en un 75%, y la duración no se contará cuando el portador de esta arma esté en tu equipo pero no en uso.",
+                                                 "r1":  {
+                                                            "description":  "Al usar la Habilidad Elemental o Definitiva, se obtiene el efecto de “brillo abrasador”, de manera que el Daño CRIT aumenta en un 20% y el ATQ aumenta en un 28% durante 6 s. Este efecto puede activarse una vez cada 10 s.\nMientras este efecto esté activo, su duración aumenta en 2 s después de infligir Daño Elemental con un Ataque Normal o Cargado. Esto solo puede ocurrir una vez por segundo y, como máximo, su duración puede aumentar en 6 s.\nAdemás, al estar en el estado de bendición noctámbula, los efectos de brillo abrasador aumentan en un 75%, y la duración no se contará cuando el portador de esta arma esté en tu equipo pero no en uso.",
+                                                            "values":  [
+                                                                           "20%",
+                                                                           "28%"
+                                                                       ]
+                                                        },
+                                                 "effectName":  "Amanecer del crepúsculo"
+                                             },
                     "balladoftheboundlessblue":  {
                                                      "r3":  {
                                                                 "description":  "Al golpear a un enemigo con un Ataque Normal o Cargado, el daño de Ataque Normal aumenta en un 12% y el de Ataque Cargado, en un 9%. Este efecto dura 6 s, puede acumularse hasta 3 veces y solo se puede activar una vez cada 0.3 s.",
@@ -14546,6 +14802,10 @@
                                            "name":  "Cría de Yumkasaurio",
                                            "specialname":  null
                                        },
+                    "lordoferodedprimalfire":  {
+                                                   "name":  "Señor del Fuego Primigenio Corroído",
+                                                   "specialname":  null
+                                               },
                     "largedendroslime":  {
                                              "name":  "Slime Gigante Dendro",
                                              "specialname":  null
@@ -14970,6 +15230,10 @@
                                                     "name":  "Dios Mecánico, el Pródigo",
                                                     "specialname":  null
                                                 },
+                    "waywardhermeticspiritspeaker":  {
+                                                         "name":  "Asceta Espiritista",
+                                                         "specialname":  null
+                                                     },
                     "wingedwarriorskymaster":  {
                                                    "name":  "Guerrero Plumífero - Dominavientos",
                                                    "specialname":  null

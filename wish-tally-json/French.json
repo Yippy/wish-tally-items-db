@@ -638,6 +638,9 @@
                       "northlanderbowbillet":  {
                                                    "name":  "Base d\u0027arc du nord"
                                                },
+                      "tidalga":  {
+                                      "name":  "Maréalgue"
+                                  },
                       "bluedye":  {
                                       "name":  "Teinture bleue"
                                   },
@@ -770,9 +773,9 @@
                       "borderlandswordbillet":  {
                                                     "name":  "Base d\u0027épée de la frontière"
                                                 },
-                      "goldentalismanoftheforestdew":  {
-                                                           "name":  "Talisman en or de la rosée"
-                                                       },
+                      "nightwindsmysticaugury":  {
+                                                     "name":  "Augure mystique du vent nocturne"
+                                                 },
                       "dawncatcher":  {
                                           "name":  "Attrape-aube"
                                       },
@@ -1190,6 +1193,9 @@
                       "alkahest":  {
                                        "name":  "Alkahest"
                                    },
+                      "erodedscalefeather":  {
+                                                 "name":  "Plume érodée"
+                                             },
                       "almond":  {
                                      "name":  "Amande"
                                  },
@@ -1331,6 +1337,9 @@
                       "keysigil":  {
                                        "name":  "Sigil-clé"
                                    },
+                      "talismanoftheenigmaticland":  {
+                                                         "name":  "Talisman d\u0027une terre mystérieuse"
+                                                     },
                       "masterlessstardust":  {
                                                  "name":  "Astrion libre"
                                              },
@@ -1583,6 +1592,9 @@
                       "mirrorofmushin":  {
                                              "name":  "Miroir de mushin"
                                          },
+                      "ultrahotburnerlamptestmodel":  {
+                                                          "name":  "Modèle d\u0027essai de lampe à ultra-brûleur"
+                                                      },
                       "dreamofthedandeliongladiator":  {
                                                            "name":  "Idéaux du Chevalier du Croc de Lion"
                                                        },
@@ -1604,6 +1616,9 @@
                       "hurricaneseed":  {
                                             "name":  "Graine d\u0027ouragan"
                                         },
+                      "scrollofthefieryfirmament":  {
+                                                        "name":  "Parchemin du firmament enflammé"
+                                                    },
                       "dormantfungalnucleus":  {
                                                    "name":  "Noyau fongique dormant"
                                                },
@@ -1679,9 +1694,9 @@
                       "radish":  {
                                      "name":  "Radis"
                                  },
-                      "ultrahotburnerlamptestmodel":  {
-                                                          "name":  "Modèle d\u0027essai de lampe à ultra-brûleur"
-                                                      },
+                      "tuskofmonoceroscaeli":  {
+                                                   "name":  "Corne de Monoceros Caeli"
+                                               },
                       "crab":  {
                                    "name":  "Crabe"
                                },
@@ -1694,9 +1709,9 @@
                       "riftbornregalia":  {
                                               "name":  "Régalia de faille"
                                           },
-                      "tuskofmonoceroscaeli":  {
-                                                   "name":  "Corne de Monoceros Caeli"
-                                               },
+                      "goldentalismanoftheforestdew":  {
+                                                           "name":  "Talisman en or de la rosée"
+                                                       },
                       "crystalfish":  {
                                           "name":  "Poisson cristal"
                                       },
@@ -1709,9 +1724,9 @@
                       "maintenancemekwaterbodycleaner":  {
                                                              "name":  "Mek de maintenance : Nettoyeur aquatique"
                                                          },
-                      "nightwindsmysticaugury":  {
-                                                     "name":  "Augure mystique du vent nocturne"
-                                                 },
+                      "vajradaamethystgemstone":  {
+                                                      "name":  "Pierre d\u0027améthyste vajrada"
+                                                  },
                       "spiritlocketofboreas":  {
                                                    "name":  "Esprit de Borée"
                                                },
@@ -2045,6 +2060,9 @@
                       "congealedpupawax":  {
                                                "name":  "Cire de pupe congelée"
                                            },
+                      "erodedsunfire":  {
+                                            "name":  "Rayon érodé"
+                                        },
                       "bacon":  {
                                     "name":  "Bacon"
                                 },
@@ -2240,9 +2258,9 @@
                       "fruitpastebait":  {
                                              "name":  "Appât de pâte de fruit"
                                          },
-                      "tidalga":  {
-                                      "name":  "Maréalgue"
-                                  },
+                      "erodedhorn":  {
+                                         "name":  "Corne érodée"
+                                     },
                       "cultivationareaexpansionvi":  {
                                                          "name":  "Expansion de zone de culture VI"
                                                      },
@@ -2363,9 +2381,6 @@
                       "movementofanancientchord":  {
                                                        "name":  "Mouvement d\u0027un accord ancien"
                                                    },
-                      "vajradaamethystgemstone":  {
-                                                      "name":  "Pierre d\u0027améthyste vajrada"
-                                                  },
                       "philosophiesofgold":  {
                                                  "name":  "Philosophie de l\u0027Or"
                                              },
@@ -2864,8 +2879,8 @@
                                          "constellations":  {
                                                                 "c2":  {
                                                                            "name":  "« Le plus miséricordieux des esprits peut-il vaincre les ennemis ? »",
-                                                                           "descriptionRaw":  "Pendant la durée d\u0027\u003ccolor=#FFD780FF\u003eHydrothérapie rebondissante\u003c/color\u003e et d\u0027\u003ccolor=#FFD780FF\u003eInjection sur-saturée\u003c/color\u003e, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les \u003ccolor=#80C0FFFF\u003eDGT Hydro\u003c/color\u003e, ce bouclier durant jusqu\u0027à la fin de l\u0027utilisation des capacités correspondantes.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la \u003ccolor=#80C0FFFF\u003eRÉS Hydro\u003c/color\u003e de ce dernier diminue de 35 % pendant 8 s.",
-                                                                           "description":  "Pendant la durée d\u0027Hydrothérapie rebondissante et d\u0027Injection sur-saturée, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les DGT Hydro, ce bouclier durant jusqu\u0027à la fin de l\u0027utilisation des capacités correspondantes.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la RÉS Hydro de ce dernier diminue de 35 % pendant 8 s."
+                                                                           "descriptionRaw":  "En utilisant \u003ccolor=#FFD780FF\u003eHydrothérapie rebondissante\u003c/color\u003e et \u003ccolor=#FFD780FF\u003eInjection sur-saturée\u003c/color\u003e, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les \u003ccolor=#80C0FFFF\u003eDGT Hydro\u003c/color\u003e, ce bouclier durant jusqu\u0027à la fin de l\u0027utilisation des capacités correspondantes.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la \u003ccolor=#80C0FFFF\u003eRÉS Hydro\u003c/color\u003e de ce dernier diminue de 35 % pendant 8 s.",
+                                                                           "description":  "En utilisant Hydrothérapie rebondissante et Injection sur-saturée, Sigewinne génère un bouclier bulleux pouvant absorber des DGT équivalant à 30 % de ses PV max et efficace à 250 % contre les DGT Hydro, ce bouclier durant jusqu\u0027à la fin de l\u0027utilisation des capacités correspondantes.\nDe plus, lorsqu\u0027une bulle d\u0027eau curative d\u0027Hydrothérapie rebondissante ou Injection sur-saturée a touché un ennemi, la RÉS Hydro de ce dernier diminue de 35 % pendant 8 s."
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "« Le plus beau des esprits peut-il contrer la décrépitude ? »",
@@ -3229,6 +3244,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "Homme"
                                     },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani à fond !",
+                                                                         "descriptionRaw":  "#Mualani obtient 2 cumuls d\u0027élan houleux de \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e lorsqu\u0027elle active sa bénédiction noctâme et 1 cumul lorsqu\u0027elle collecte une globi-bouée.\nDe plus, lorsque Mualani collecte 2 globi-bouées pendant une seule bénédiction noctâme, elle récupère 12 pts de noctâme supplémentaires pendant 2 s. L\u0027aptitude passive «{NON_BREAK_SPACE}Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée pour cet effet.",
+                                                                         "description":  "Mualani obtient 2 cumuls d\u0027élan houleux de Squalisurf brise-vagues lorsqu\u0027elle active sa bénédiction noctâme et 1 cumul lorsqu\u0027elle collecte une globi-bouée.\nDe plus, lorsque Mualani collecte 2 globi-bouées pendant une seule bénédiction noctâme, elle récupère 12 pts de noctâme supplémentaires pendant 2 s. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée pour cet effet."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Requinou mange des bouées",
+                                                                         "descriptionRaw":  "#Mualani récupère 8 pts d\u0027énergie élémentaire lorsqu\u0027elle collecte une globi-bouée. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée.\nDe plus, les DGT infligés par \u003ccolor=#FFD780FF\u003eRequin-pact boum\u003c/color\u003e augmentent de 75{NON_BREAK_SPACE}%.",
+                                                                         "description":  "Mualani récupère 8 pts d\u0027énergie élémentaire lorsqu\u0027elle collecte une globi-bouée. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée.\nDe plus, les DGT infligés par Requin-pact boum augmentent de 75 %."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surf sur une mer joyeuse",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Squalisurf brise-vagues +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Planche identique en promo !",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eRequin-pact boum\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Requin-pact boum +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Esprit du Peuple des sources",
+                                                                         "descriptionRaw":  "L\u0027effet d\u0027augmentation de DGT de la constellation « Le Meztli oisif... » n\u0027est plus limité à un seul déclenchement par bénédiction noctâme.",
+                                                                         "description":  "L\u0027effet d\u0027augmentation de DGT de la constellation « Le Meztli oisif... » n\u0027est plus limité à un seul déclenchement par bénédiction noctâme."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Le Meztli oisif...",
+                                                                         "descriptionRaw":  "Les DGT infligés par la première morsure déferlante de Requinou après le début de la bénédiction noctâme et par les missiles de Requinou que cette morsure déclenche augmentent d\u0027une valeur équivalant à 66 % des PV max de Mualani. Ces DGT sont cependant sujets à la règle d\u0027atténuation des DGT de \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e.\nDe plus, la consommation de points de noctâme ou de phlogistique de l\u0027état Bénédiction noctâme de Mualani diminue de 30 % lorsqu\u0027elle n\u0027est pas en combat.",
+                                                                         "description":  "Les DGT infligés par la première morsure déferlante de Requinou après le début de la bénédiction noctâme et par les missiles de Requinou que cette morsure déclenche augmentent d\u0027une valeur équivalant à 66 % des PV max de Mualani. Ces DGT sont cependant sujets à la règle d\u0027atténuation des DGT de Squalisurf brise-vagues.\nDe plus, la consommation de points de noctâme ou de phlogistique de l\u0027état Bénédiction noctâme de Mualani diminue de 30 % lorsqu\u0027elle n\u0027est pas en combat."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalyseur",
+                                       "name":  "Mualani",
+                                       "substatText":  "Taux CRIT",
+                                       "region":  "Natlan",
+                                       "gender":  "Femme"
+                                   },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3352,6 +3408,47 @@
                                          "region":  "Liyue",
                                          "gender":  "Femme"
                                      },
+                       "mavuika":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Prix des braises cendrées",
+                                                                         "descriptionRaw":  "Lorsque Mavuika bénéficie d\u0027une bénédiction noctâme, son ATQ de base augmente de 200 pts et elle obtient les effets suivants selon la forme de ses armements tout-feu :\n· Anneau de rayonnement brûlant : la DÉF des ennemis proches diminue de 20 %.\n· Flambécane : les DGT infligés par ses attaques normales, ses attaques chargées et la coupe solaire de son déchaînement élémentaire \u003ccolor=#FFD780FF\u003eHeure des cieux brûlants\u003c/color\u003e augmentent respectivement d\u0027une valeur équivalant à 60 %, 90 % et 120 % de son ATQ.",
+                                                                         "description":  "Lorsque Mavuika bénéficie d\u0027une bénédiction noctâme, son ATQ de base augmente de 200 pts et elle obtient les effets suivants selon la forme de ses armements tout-feu :\n· Anneau de rayonnement brûlant : la DÉF des ennemis proches diminue de 20 %.\n· Flambécane : les DGT infligés par ses attaques normales, ses attaques chargées et la coupe solaire de son déchaînement élémentaire Heure des cieux brûlants augmentent respectivement d\u0027une valeur équivalant à 60 %, 90 % et 120 % de son ATQ."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Détermination de la meneuse",
+                                                                         "descriptionRaw":  "#L\u0027effet de l\u0027aptitude passive «{NON_BREAK_SPACE}Kiongozi » est amélioré :\nL\u0027augmentation de DGT obtenue après avoir utilisé le déchaînement élémentaire \u003ccolor=#FFD780FF\u003eHeure des cieux brûlants\u003c/color\u003e ne diminue plus avec le temps, et un bonus supplémentaire de DGT de 10 % est obtenu.\nL\u0027aptitude passive « Kiongozi » doit être déjà débloquée.",
+                                                                         "description":  "L\u0027effet de l\u0027aptitude passive « Kiongozi » est amélioré :\nL\u0027augmentation de DGT obtenue après avoir utilisé le déchaînement élémentaire Heure des cieux brûlants ne diminue plus avec le temps, et un bonus supplémentaire de DGT de 10 % est obtenu.\nL\u0027aptitude passive « Kiongozi » doit être déjà débloquée."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Soleil du feu brûlant",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eHeure des cieux brûlants\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Heure des cieux brûlants +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Signification de la vérité authentique",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eMoment nomenclateur\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Moment nomenclateur +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Délivrance du nom de l\u0027humanité",
+                                                                         "descriptionRaw":  "Les armements tout-feu de la compétence élémentaire \u003ccolor=#FFD780FF\u003eMoment nomenclateur\u003c/color\u003e sont renforcés :\n· Anneau de rayonnement brûlant : lorsqu\u0027un anneau touche un ennemi, une flambécane heurte ce dernier pour infliger des \u003ccolor=#FF9999FF\u003eDGT Pyro de zone\u003c/color\u003e infusés de noctâme d\u0027une valeur équivalant à 200 % de l\u0027ATQ.\n· Flambécane : lorsque Mavuika pilote sa flambécane, elle invoque un anneau enflammé de rayonnement brûlant qui la suit, ce dernier diminuant la DÉF des ennemis proches de 20 % et infligeant des \u003ccolor=#FF9999FF\u003eDGT Pyro de zone\u003c/color\u003e infusés de noctâme d\u0027une valeur équivalant à 500 % de l\u0027ATQ aux ennemis proches une fois toutes les 3 s, et la capacité de Mavuika à traverser divers types de terrain est améliorée davantage.\n\nDe plus, lorsque les points de noctâme de Mavuika tombent à 5, elle en récupère 80 si elle est sur sa flambécane et pas en combat, cet effet pouvant être déclenché une fois toutes les 15 s.",
+                                                                         "description":  "Les armements tout-feu de la compétence élémentaire Moment nomenclateur sont renforcés :\n· Anneau de rayonnement brûlant : lorsqu\u0027un anneau touche un ennemi, une flambécane heurte ce dernier pour infliger des DGT Pyro de zone infusés de noctâme d\u0027une valeur équivalant à 200 % de l\u0027ATQ.\n· Flambécane : lorsque Mavuika pilote sa flambécane, elle invoque un anneau enflammé de rayonnement brûlant qui la suit, ce dernier diminuant la DÉF des ennemis proches de 20 % et infligeant des DGT Pyro de zone infusés de noctâme d\u0027une valeur équivalant à 500 % de l\u0027ATQ aux ennemis proches une fois toutes les 3 s, et la capacité de Mavuika à traverser divers types de terrain est améliorée davantage.\n\nDe plus, lorsque les points de noctâme de Mavuika tombent à 5, elle en récupère 80 si elle est sur sa flambécane et pas en combat, cet effet pouvant être déclenché une fois toutes les 15 s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Confession du seigneur de la nuit",
+                                                                         "descriptionRaw":  "#Les points de noctâme maximum de Mavuika augmentent à 120 et son taux d\u0027obtention de ferveur guerrière augmentent de 25 %.\nDe plus, son ATQ augmente de 40{NON_BREAK_SPACE}% pendant 8 s après avoir obtenu de la ferveur guerrière.",
+                                                                         "description":  "Les points de noctâme maximum de Mavuika augmentent à 120 et son taux d\u0027obtention de ferveur guerrière augmentent de 25 %.\nDe plus, son ATQ augmente de 40 % pendant 8 s après avoir obtenu de la ferveur guerrière."
+                                                                     }
+                                                          },
+                                       "elementText":  "Pyro",
+                                       "fullname":  null,
+                                       "weaponText":  "Épée à deux mains",
+                                       "name":  "Mavuika",
+                                       "substatText":  "DGT CRIT",
+                                       "region":  "Natlan",
+                                       "gender":  "Femme"
+                                   },
                        "xiao":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3557,6 +3654,47 @@
                                     "region":  "Sumeru",
                                     "gender":  "Homme"
                                 },
+                       "yaemiko":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Glapissement sous la lune",
+                                                                         "descriptionRaw":  "Les \u003ccolor=#FFD780FF\u003esakura dévastateurs\u003c/color\u003e commencent au Niv.2 et peuvent monter jusqu\u0027au Niv.4, et leur portée d\u0027attaque augmente de 60 %.",
+                                                                         "description":  "Les sakura dévastateurs commencent au Niv.2 et peuvent monter jusqu\u0027au Niv.4, et leur portée d\u0027attaque augmente de 60 %."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Canalisation de sakura",
+                                                                         "descriptionRaw":  "Lorsque l\u0027éclair d\u0027un \u003ccolor=#FFD780FF\u003esakura dévastateur\u003c/color\u003e a touché un ennemi, tous les membres de l\u0027équipe à proximité obtiennent un \u003ccolor=#FFACFFFF\u003ebonus de DGT Électro\u003c/color\u003e de 20 % pendant 5 s.",
+                                                                         "description":  "Lorsque l\u0027éclair d\u0027un sakura dévastateur a touché un ennemi, tous les membres de l\u0027équipe à proximité obtiennent un bonus de DGT Électro de 20 % pendant 5 s."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Les sept glamours",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eÉvocation des yakan : Sakura dévastateur\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Évocation des yakan : Sakura dévastateur +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Moquerie implacable",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eTechnique secrète : Incarnation de tenko\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Technique secrète : Incarnation de tenko +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Art tabou : Daisesshou",
+                                                                         "descriptionRaw":  "Les attaques des \u003ccolor=#FFD780FF\u003esakura dévastateurs\u003c/color\u003e ignorent 60 % de la DÉF de l\u0027ennemi.",
+                                                                         "description":  "Les attaques des sakura dévastateurs ignorent 60 % de la DÉF de l\u0027ennemi."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Offrande des yakan",
+                                                                         "descriptionRaw":  "Lorsque \u003ccolor=#FFD780FF\u003eTechnique secrète : Incarnation de tenko\u003c/color\u003e déclenche un éclair de tenko, Yae Miko récupère 8 pts d\u0027énergie élémentaire.",
+                                                                         "description":  "Lorsque Technique secrète : Incarnation de tenko déclenche un éclair de tenko, Yae Miko récupère 8 pts d\u0027énergie élémentaire."
+                                                                     }
+                                                          },
+                                       "elementText":  "Électro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalyseur",
+                                       "name":  "Yae Miko",
+                                       "substatText":  "Taux CRIT",
+                                       "region":  "Inazuma",
+                                       "gender":  "Femme"
+                                   },
                        "kinich":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3571,8 +3709,8 @@
                                                                     },
                                                              "c3":  {
                                                                         "name":  "Griffe du protosuchien",
-                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eChasse canopéenne : Altitude\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                        "description":  "Niveau d\u0027aptitude Chasse canopéenne : Altitude +3.\nNiveau max : 15"
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eChasse canopéenne : En altitude\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Chasse canopéenne : En altitude +3.\nNiveau max : 15"
                                                                     },
                                                              "c5":  {
                                                                         "name":  "Queue d\u0027alouate",
@@ -4288,47 +4426,47 @@
                                              "region":  "Inazuma",
                                              "gender":  "Femme"
                                          },
-                       "yaemiko":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Glapissement sous la lune",
-                                                                         "descriptionRaw":  "Les \u003ccolor=#FFD780FF\u003esakura dévastateurs\u003c/color\u003e commencent au Niv.2 et peuvent monter jusqu\u0027au Niv.4, et leur portée d\u0027attaque augmente de 60 %.",
-                                                                         "description":  "Les sakura dévastateurs commencent au Niv.2 et peuvent monter jusqu\u0027au Niv.4, et leur portée d\u0027attaque augmente de 60 %."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Canalisation de sakura",
-                                                                         "descriptionRaw":  "Lorsque l\u0027éclair d\u0027un \u003ccolor=#FFD780FF\u003esakura dévastateur\u003c/color\u003e a touché un ennemi, tous les membres de l\u0027équipe à proximité obtiennent un \u003ccolor=#FFACFFFF\u003ebonus de DGT Électro\u003c/color\u003e de 20 % pendant 5 s.",
-                                                                         "description":  "Lorsque l\u0027éclair d\u0027un sakura dévastateur a touché un ennemi, tous les membres de l\u0027équipe à proximité obtiennent un bonus de DGT Électro de 20 % pendant 5 s."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Les sept glamours",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eÉvocation des yakan : Sakura dévastateur\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Évocation des yakan : Sakura dévastateur +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Moquerie implacable",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eTechnique secrète : Incarnation de tenko\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Technique secrète : Incarnation de tenko +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Art tabou : Daisesshou",
-                                                                         "descriptionRaw":  "Les attaques des \u003ccolor=#FFD780FF\u003esakura dévastateurs\u003c/color\u003e ignorent 60 % de la DÉF de l\u0027ennemi.",
-                                                                         "description":  "Les attaques des sakura dévastateurs ignorent 60 % de la DÉF de l\u0027ennemi."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Offrande des yakan",
-                                                                         "descriptionRaw":  "Lorsque \u003ccolor=#FFD780FF\u003eTechnique secrète : Incarnation de tenko\u003c/color\u003e déclenche un éclair de tenko, Yae Miko récupère 8 pts d\u0027énergie élémentaire.",
-                                                                         "description":  "Lorsque Technique secrète : Incarnation de tenko déclenche un éclair de tenko, Yae Miko récupère 8 pts d\u0027énergie élémentaire."
-                                                                     }
-                                                          },
-                                       "elementText":  "Électro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalyseur",
-                                       "name":  "Yae Miko",
-                                       "substatText":  "Taux CRIT",
-                                       "region":  "Inazuma",
-                                       "gender":  "Femme"
-                                   },
+                       "sangonomiyakokomi":  {
+                                                 "constellations":  {
+                                                                        "c2":  {
+                                                                                   "name":  "Nuages comme des vagues ondulantes",
+                                                                                   "descriptionRaw":  "Lorsque Kokomi soigne des personnages dont les PV sont inférieurs ou égaux à 50 %, elle bénéficie d\u0027un bonus de soin en fonction de la méthode utilisée :\n\n· Méduse fantôme de \u003ccolor=#FFD780FF\u003eSerment de Kurage\u003c/color\u003e : augmentation équivalant à 4,5 % des PV max de Kokomi.\n· Attaque normale ou chargée sous l\u0027effet d\u0027\u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e : augmentation équivalant à 0,6 % des PV max de Kokomi.",
+                                                                                   "description":  "Lorsque Kokomi soigne des personnages dont les PV sont inférieurs ou égaux à 50 %, elle bénéficie d\u0027un bonus de soin en fonction de la méthode utilisée :\n\n· Méduse fantôme de Serment de Kurage : augmentation équivalant à 4,5 % des PV max de Kokomi.\n· Attaque normale ou chargée sous l\u0027effet d\u0027Ascension de la néréide : augmentation équivalant à 0,6 % des PV max de Kokomi."
+                                                                               },
+                                                                        "c4":  {
+                                                                                   "name":  "La lune surplombe les eaux",
+                                                                                   "descriptionRaw":  "Lorsque Kokomi revêt la parure cérémoniale créée par \u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e, la VIT d\u0027attaque de ses attaques normales augmente de 10 %, et toute attaque normale touchant un ennemi lui permet de restaurer son énergie élémentaire de 0,8 pt.\nCet effet peut être déclenché une fois toutes les 0,2 s.",
+                                                                                   "description":  "Lorsque Kokomi revêt la parure cérémoniale créée par Ascension de la néréide, la VIT d\u0027attaque de ses attaques normales augmente de 10 %, et toute attaque normale touchant un ennemi lui permet de restaurer son énergie élémentaire de 0,8 pt.\nCet effet peut être déclenché une fois toutes les 0,2 s."
+                                                                               },
+                                                                        "c3":  {
+                                                                                   "name":  "La lune, navire des mers",
+                                                                                   "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                                   "description":  "Niveau d\u0027aptitude Ascension de la néréide +3.\nNiveau max : 15"
+                                                                               },
+                                                                        "c5":  {
+                                                                                   "name":  "Tous les ruisseaux coulent vers la mer",
+                                                                                   "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eSerment de Kurage\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                                   "description":  "Niveau d\u0027aptitude Serment de Kurage +3.\nNiveau max : 15"
+                                                                               },
+                                                                        "c6":  {
+                                                                                   "name":  "Sango Isshin",
+                                                                                   "descriptionRaw":  "Lorsque Kokomi revêt la parure cérémoniale créée par \u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e, elle bénéficie d\u0027un \u003ccolor=#80C0FFFF\u003ebonus de DGT Hydro\u003c/color\u003e de 40 % pendant 4 s après avoir effectué un soin sur un personnage dont les PV sont supérieurs ou égaux à 80 % grâce à son attaque normale ou chargée.",
+                                                                                   "description":  "Lorsque Kokomi revêt la parure cérémoniale créée par Ascension de la néréide, elle bénéficie d\u0027un bonus de DGT Hydro de 40 % pendant 4 s après avoir effectué un soin sur un personnage dont les PV sont supérieurs ou égaux à 80 % grâce à son attaque normale ou chargée."
+                                                                               },
+                                                                        "c1":  {
+                                                                                   "name":  "Au bord de l\u0027eau",
+                                                                                   "descriptionRaw":  "Lorsque Kokomi revêt la parure cérémoniale créée par \u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e, la dernière attaque normale de son combo libère un poisson qui inflige des \u003ccolor=#80C0FFFF\u003eDGT Hydro\u003c/color\u003e équivalant à 30 % de ses PV max.\nCes DGT ne sont pas considérés comme des DGT d\u0027attaque normale.",
+                                                                                   "description":  "Lorsque Kokomi revêt la parure cérémoniale créée par Ascension de la néréide, la dernière attaque normale de son combo libère un poisson qui inflige des DGT Hydro équivalant à 30 % de ses PV max.\nCes DGT ne sont pas considérés comme des DGT d\u0027attaque normale."
+                                                                               }
+                                                                    },
+                                                 "elementText":  "Hydro",
+                                                 "fullname":  null,
+                                                 "weaponText":  "Catalyseur",
+                                                 "name":  "Sangonomiya Kokomi",
+                                                 "substatText":  "Bonus de DGT Hydro",
+                                                 "region":  "Inazuma",
+                                                 "gender":  "Femme"
+                                             },
                        "xingqiu":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -4455,47 +4593,47 @@
                        "traveler":  {
                                         "name":  "Voyageuse"
                                     },
-                       "beidou":  {
-                                      "constellations":  {
-                                                             "c2":  {
-                                                                        "name":  "Sur la mer turbulente, le tonnerre gronde",
-                                                                        "descriptionRaw":  "Les décharges de \u003ccolor=#FFD780FF\u003eBrisure d\u0027orage\u003c/color\u003e se propagent à 2 ennemis supplémentaires.",
-                                                                        "description":  "Les décharges de Brisure d\u0027orage se propagent à 2 ennemis supplémentaires."
-                                                                    },
-                                                             "c4":  {
-                                                                        "name":  "Vengeance étonnante",
-                                                                        "descriptionRaw":  "Après avoir subi une attaque, les attaques normales de Beidou infligent 20 % de \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e supplémentaires pendant 10 s.",
-                                                                        "description":  "Après avoir subi une attaque, les attaques normales de Beidou infligent 20 % de DGT Électro supplémentaires pendant 10 s."
-                                                                    },
-                                                             "c3":  {
-                                                                        "name":  "Invocateur de tonnerre",
-                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eInvocation des marées\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                        "description":  "Niveau d\u0027aptitude Invocation des marées +3.\nNiveau max : 15"
-                                                                    },
-                                                             "c5":  {
-                                                                        "name":  "Marcheur de marée écarlate",
-                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eBrisure d\u0027orage\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                        "description":  "Niveau d\u0027aptitude Brisure d\u0027orage +3.\nNiveau max : 15"
-                                                                    },
-                                                             "c6":  {
-                                                                        "name":  "Chancre du mal",
-                                                                        "descriptionRaw":  "La \u003ccolor=#FFACFFFF\u003eRÉS Électro\u003c/color\u003e des ennemis proches diminue de 15 % tant que \u003ccolor=#FFD780FF\u003eBrisure d\u0027orage\u003c/color\u003e est actif.",
-                                                                        "description":  "La RÉS Électro des ennemis proches diminue de 15 % tant que Brisure d\u0027orage est actif."
-                                                                    },
-                                                             "c1":  {
-                                                                        "name":  "Fléau des monstres marins",
-                                                                        "descriptionRaw":  "L\u0027activation de \u003ccolor=#FFD780FF\u003eBrisure d\u0027orage\u003c/color\u003e confère les effets suivants :\nGénère un bouclier qui absorbe une quantité de DGT équivalant à 16 % des PV max et dure 15 s.\nLe bouclier est efficace à 250 % contre les \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e.",
-                                                                        "description":  "L\u0027activation de Brisure d\u0027orage confère les effets suivants :\nGénère un bouclier qui absorbe une quantité de DGT équivalant à 16 % des PV max et dure 15 s.\nLe bouclier est efficace à 250 % contre les DGT Électro."
-                                                                    }
-                                                         },
-                                      "elementText":  "Électro",
-                                      "fullname":  null,
-                                      "weaponText":  "Épée à deux mains",
-                                      "name":  "Beidou",
-                                      "substatText":  "Bonus de DGT Électro",
-                                      "region":  "Liyue",
-                                      "gender":  "Femme"
-                                  },
+                       "citlali":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Patrouille de dévoreur de cœurs",
+                                                                         "descriptionRaw":  "La maîtrise élémentaire de Citlali augmente de 125 pts et celle des autres personnages protégés par un bouclier d\u0027opale ou ayant Itzpapa les suivant de 250 pts.\nDe plus, utiliser la compétence élémentaire \u003ccolor=#FFD780FF\u003eÉtoile d\u0027aurore givrée\u003c/color\u003e accorde un bouclier d\u0027opale aux membres de l\u0027équipe déployé à proximité.\n\nL\u0027effet de l\u0027aptitude passive « Pluie frigide de Mamaloaco » est également amélioré :\nLorsqu\u0027un membre de l\u0027équipe à proximité a déclenché une réaction de Gel ou de Fonte pendant la durée d\u0027Itzpapa, les RÉS \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e et \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e des ennemis affectés par la réaction diminuent de 20 % supplémentaires pendant 12 s, l\u0027aptitude passive « Pluie frigide de Mamaloaco » devant être déjà débloquée.",
+                                                                         "description":  "La maîtrise élémentaire de Citlali augmente de 125 pts et celle des autres personnages protégés par un bouclier d\u0027opale ou ayant Itzpapa les suivant de 250 pts.\nDe plus, utiliser la compétence élémentaire Étoile d\u0027aurore givrée accorde un bouclier d\u0027opale aux membres de l\u0027équipe déployé à proximité.\n\nL\u0027effet de l\u0027aptitude passive « Pluie frigide de Mamaloaco » est également amélioré :\nLorsqu\u0027un membre de l\u0027équipe à proximité a déclenché une réaction de Gel ou de Fonte pendant la durée d\u0027Itzpapa, les RÉS Pyro et Hydro des ennemis affectés par la réaction diminuent de 20 % supplémentaires pendant 12 s, l\u0027aptitude passive « Pluie frigide de Mamaloaco » devant être déjà débloquée."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Crâne spirituel de non-mortel",
+                                                                         "descriptionRaw":  "Pendant la compétence élémentaire \u003ccolor=#FFD780FF\u003eÉtoile d\u0027aurore givrée\u003c/color\u003e, toucher un ennemi avec une tempête de givre d\u0027Itzpapa permet d\u0027invoquer en plus un \u003ccolor=#FFD780FF\u003ecrâne possédé d\u0027obsidienne\u003c/color\u003e. En explosant, un crâne invoqué de cette manière inflige des \u003ccolor=#99FFFFFF\u003eDGT Cryo de zone\u003c/color\u003e infusés de noctâme d\u0027une valeur équivalant à 1 200 % de la maîtrise élémentaire de Citlali et restaure à cette dernière 16 pts de noctâme et 8 pts d\u0027énergie élémentaire, cet effet pouvant être déclenché une fois toutes les 8 s et ces DGT n\u0027étant pas considérés comme des DGT de déchaînement élémentaire.",
+                                                                         "description":  "Pendant la compétence élémentaire Étoile d\u0027aurore givrée, toucher un ennemi avec une tempête de givre d\u0027Itzpapa permet d\u0027invoquer en plus un crâne possédé d\u0027obsidienne. En explosant, un crâne invoqué de cette manière inflige des DGT Cryo de zone infusés de noctâme d\u0027une valeur équivalant à 1 200 % de la maîtrise élémentaire de Citlali et restaure à cette dernière 16 pts de noctâme et 8 pts d\u0027énergie élémentaire, cet effet pouvant être déclenché une fois toutes les 8 s et ces DGT n\u0027étant pas considérés comme des DGT de déchaînement élémentaire."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Crête plumée de serpent des nuages",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eÉtoile d\u0027aurore givrée\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Étoile d\u0027aurore givrée +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Malédiction de Nemontemi",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eÉdit de splendeur liée\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Édit de splendeur liée +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Pacte secret de Teoiztac",
+                                                                         "descriptionRaw":  "Invoqué par la compétence élémentaire \u003ccolor=#FFD780FF\u003eÉtoile d\u0027aurore givrée\u003c/color\u003e, Itzpapa est constamment dans l\u0027état Feu d\u0027opale, l\u0027état ne prenant pas fin lorsque les points de noctâme sont épuisés.\nDe plus, Itzpapa consomme tous les points de noctâme lors de l\u0027utilisation de la compétence élémentaire \u003ccolor=#FFD780FF\u003eÉtoile d\u0027aurore givrée\u003c/color\u003e et consomme de façon continue des points de noctâme tant qu\u0027elle est sur le terrain, chaque point ainsi consommé accordant 1 pt de loi secrète à Citlali.\nCitlali peut cumuler un maximum de 40 pts de loi secrète, chaque point accordant à tous les personnages de l\u0027équipe à proximité des bonus de DGT \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e et \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e de 1,5 % et augmentant les DGT infligés par Citlali de 2,5 %.\nTous les points de loi secrète de Citlali sont annulés lorsqu\u0027Itzpapa quitte le terrain ou que la compétence élémentaire est à nouveau utilisée.",
+                                                                         "description":  "Invoqué par la compétence élémentaire Étoile d\u0027aurore givrée, Itzpapa est constamment dans l\u0027état Feu d\u0027opale, l\u0027état ne prenant pas fin lorsque les points de noctâme sont épuisés.\nDe plus, Itzpapa consomme tous les points de noctâme lors de l\u0027utilisation de la compétence élémentaire Étoile d\u0027aurore givrée et consomme de façon continue des points de noctâme tant qu\u0027elle est sur le terrain, chaque point ainsi consommé accordant 1 pt de loi secrète à Citlali.\nCitlali peut cumuler un maximum de 40 pts de loi secrète, chaque point accordant à tous les personnages de l\u0027équipe à proximité des bonus de DGT Pyro et Hydro de 1,5 % et augmentant les DGT infligés par Citlali de 2,5 %.\nTous les points de loi secrète de Citlali sont annulés lorsqu\u0027Itzpapa quitte le terrain ou que la compétence élémentaire est à nouveau utilisée."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Lame lumineuse de Centzon Mimixcoah",
+                                                                         "descriptionRaw":  "#Lorsque Citlali utilise la compétence élémentaire \u003ccolor=#FFD780FF\u003eÉtoile d\u0027aurore givrée\u003c/color\u003e, elle obtient l\u0027effet Tenue d\u0027opale jusqu\u0027à ce qu\u0027Itzpapa quitte le terrain : pendant cet effet, Citlali obtient 10 lames stellaires, une lame étant consommée lorsqu\u0027un membre de l\u0027équipe déployé à proximité autre que Citlali inflige des DGT avec une attaque normale, chargée ou plongeante ou une compétence ou un déchaînement élémentaires, et ce, afin d\u0027augmenter les DGT infligés d\u0027une valeur équivalant à 200 % de la maîtrise élémentaire de Citlali.\nLorsqu\u0027un membre de l\u0027équipe déployé à proximité a déclenché une réaction de Gel ou de Fonte, Citlali obtient 3 lames stellaires, cet effet pouvant être déclenché une fois toutes les 8 s.\n\nUtiliser la compétence élémentaire \u003ccolor=#FFD780FF\u003eÉtoile d\u0027aurore givrée\u003c/color\u003e réinitialise les cumuls de lames stellaires.\nDe plus, le phlogistique que Citlali consomme lorsqu\u0027elle saute ou effectue une visée ou une attaque chargée dans les airs diminue de 45{NON_BREAK_SPACE}%.",
+                                                                         "description":  "Lorsque Citlali utilise la compétence élémentaire Étoile d\u0027aurore givrée, elle obtient l\u0027effet Tenue d\u0027opale jusqu\u0027à ce qu\u0027Itzpapa quitte le terrain : pendant cet effet, Citlali obtient 10 lames stellaires, une lame étant consommée lorsqu\u0027un membre de l\u0027équipe déployé à proximité autre que Citlali inflige des DGT avec une attaque normale, chargée ou plongeante ou une compétence ou un déchaînement élémentaires, et ce, afin d\u0027augmenter les DGT infligés d\u0027une valeur équivalant à 200 % de la maîtrise élémentaire de Citlali.\nLorsqu\u0027un membre de l\u0027équipe déployé à proximité a déclenché une réaction de Gel ou de Fonte, Citlali obtient 3 lames stellaires, cet effet pouvant être déclenché une fois toutes les 8 s.\n\nUtiliser la compétence élémentaire Étoile d\u0027aurore givrée réinitialise les cumuls de lames stellaires.\nDe plus, le phlogistique que Citlali consomme lorsqu\u0027elle saute ou effectue une visée ou une attaque chargée dans les airs diminue de 45 %."
+                                                                     }
+                                                          },
+                                       "elementText":  "Cryo",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalyseur",
+                                       "name":  "Citlali",
+                                       "substatText":  "Maîtrise élémentaire",
+                                       "region":  "Natlan",
+                                       "gender":  "Femme"
+                                   },
                        "gorou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -4916,88 +5054,50 @@
                                      "region":  "Mondstadt",
                                      "gender":  "Homme"
                                  },
-                       "mona":  {
-                                    "constellations":  {
-                                                           "c2":  {
-                                                                      "name":  "Chaîne lunaire",
-                                                                      "descriptionRaw":  "Les attaques normales ont 20 % de chances d\u0027être suivies par une attaque chargée.\nCet effet peut être déclenché une fois toutes les 5 s.",
-                                                                      "description":  "Les attaques normales ont 20 % de chances d\u0027être suivies par une attaque chargée.\nCet effet peut être déclenché une fois toutes les 5 s."
-                                                                  },
-                                                           "c4":  {
-                                                                      "name":  "Prophétie de la fin",
-                                                                      "descriptionRaw":  "Augmente le taux CRIT de 15 % lorsque vos personnages dans l\u0027équipe attaquent un ennemi marqué par un présage.",
-                                                                      "description":  "Augmente le taux CRIT de 15 % lorsque vos personnages dans l\u0027équipe attaquent un ennemi marqué par un présage."
-                                                                  },
-                                                           "c3":  {
-                                                                      "name":  "Révolution éternelle",
-                                                                      "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eVoie divine\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                      "description":  "Niveau d\u0027aptitude Voie divine +3.\nNiveau max : 15"
-                                                                  },
-                                                           "c5":  {
-                                                                      "name":  "Un tour du destin",
-                                                                      "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eMirage aqueux\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                      "description":  "Niveau d\u0027aptitude Mirage aqueux +3.\nNiveau max : 15"
-                                                                  },
-                                                           "c6":  {
-                                                                      "name":  "Rhétorique de l\u0027adversité",
-                                                                      "descriptionRaw":  "Dans l\u0027état \u003ccolor=#FFD780FF\u003eVicissitude\u003c/color\u003e, Mona obtient un bonus de 60 % de DGT pour sa prochaine attaque chargée à chaque seconde passée à se déplacer.\nCet effet peut être cumulé 3 fois maximum (bonus de 180 %) et dure 8 s.",
-                                                                      "description":  "Dans l\u0027état Vicissitude, Mona obtient un bonus de 60 % de DGT pour sa prochaine attaque chargée à chaque seconde passée à se déplacer.\nCet effet peut être cumulé 3 fois maximum (bonus de 180 %) et dure 8 s."
-                                                                  },
-                                                           "c1":  {
-                                                                      "name":  "Prophétie immersive",
-                                                                      "descriptionRaw":  "Les effets des \u003ccolor=#80C0FFFF\u003eréactions liées à l\u0027élément Hydro\u003c/color\u003e sont renforcés pendant 8 s lorsqu\u0027une attaque de vos personnages dans l\u0027équipe touche un ennemi marqué par un présage :\n· Les DGT d\u0027Électrocution, d\u0027Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %.",
-                                                                      "description":  "Les effets des réactions liées à l\u0027élément Hydro sont renforcés pendant 8 s lorsqu\u0027une attaque de vos personnages dans l\u0027équipe touche un ennemi marqué par un présage :\n· Les DGT d\u0027Électrocution, d\u0027Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %."
-                                                                  }
-                                                       },
-                                    "elementText":  "Hydro",
-                                    "fullname":  null,
-                                    "weaponText":  "Catalyseur",
-                                    "name":  "Mona",
-                                    "substatText":  "Recharge d\u0027énergie",
-                                    "region":  "Mondstadt",
-                                    "gender":  "Femme"
-                                },
-                       "sangonomiyakokomi":  {
-                                                 "constellations":  {
-                                                                        "c2":  {
-                                                                                   "name":  "Nuages comme des vagues ondulantes",
-                                                                                   "descriptionRaw":  "Lorsque Kokomi soigne des personnages dont les PV sont inférieurs ou égaux à 50 %, elle bénéficie d\u0027un bonus de soin en fonction de la méthode utilisée :\n\n· Méduse fantôme de \u003ccolor=#FFD780FF\u003eSerment de Kurage\u003c/color\u003e : augmentation équivalant à 4,5 % des PV max de Kokomi.\n· Attaque normale ou chargée sous l\u0027effet d\u0027\u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e : augmentation équivalant à 0,6 % des PV max de Kokomi.",
-                                                                                   "description":  "Lorsque Kokomi soigne des personnages dont les PV sont inférieurs ou égaux à 50 %, elle bénéficie d\u0027un bonus de soin en fonction de la méthode utilisée :\n\n· Méduse fantôme de Serment de Kurage : augmentation équivalant à 4,5 % des PV max de Kokomi.\n· Attaque normale ou chargée sous l\u0027effet d\u0027Ascension de la néréide : augmentation équivalant à 0,6 % des PV max de Kokomi."
-                                                                               },
-                                                                        "c4":  {
-                                                                                   "name":  "La lune surplombe les eaux",
-                                                                                   "descriptionRaw":  "Lorsque Kokomi revêt la parure cérémoniale créée par \u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e, la VIT d\u0027attaque de ses attaques normales augmente de 10 %, et toute attaque normale touchant un ennemi lui permet de restaurer son énergie élémentaire de 0,8 pt.\nCet effet peut être déclenché une fois toutes les 0,2 s.",
-                                                                                   "description":  "Lorsque Kokomi revêt la parure cérémoniale créée par Ascension de la néréide, la VIT d\u0027attaque de ses attaques normales augmente de 10 %, et toute attaque normale touchant un ennemi lui permet de restaurer son énergie élémentaire de 0,8 pt.\nCet effet peut être déclenché une fois toutes les 0,2 s."
-                                                                               },
-                                                                        "c3":  {
-                                                                                   "name":  "La lune, navire des mers",
-                                                                                   "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                                   "description":  "Niveau d\u0027aptitude Ascension de la néréide +3.\nNiveau max : 15"
-                                                                               },
-                                                                        "c5":  {
-                                                                                   "name":  "Tous les ruisseaux coulent vers la mer",
-                                                                                   "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eSerment de Kurage\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                                   "description":  "Niveau d\u0027aptitude Serment de Kurage +3.\nNiveau max : 15"
-                                                                               },
-                                                                        "c6":  {
-                                                                                   "name":  "Sango Isshin",
-                                                                                   "descriptionRaw":  "Lorsque Kokomi revêt la parure cérémoniale créée par \u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e, elle bénéficie d\u0027un \u003ccolor=#80C0FFFF\u003ebonus de DGT Hydro\u003c/color\u003e de 40 % pendant 4 s après avoir effectué un soin sur un personnage dont les PV sont supérieurs ou égaux à 80 % grâce à son attaque normale ou chargée.",
-                                                                                   "description":  "Lorsque Kokomi revêt la parure cérémoniale créée par Ascension de la néréide, elle bénéficie d\u0027un bonus de DGT Hydro de 40 % pendant 4 s après avoir effectué un soin sur un personnage dont les PV sont supérieurs ou égaux à 80 % grâce à son attaque normale ou chargée."
-                                                                               },
-                                                                        "c1":  {
-                                                                                   "name":  "Au bord de l\u0027eau",
-                                                                                   "descriptionRaw":  "Lorsque Kokomi revêt la parure cérémoniale créée par \u003ccolor=#FFD780FF\u003eAscension de la néréide\u003c/color\u003e, la dernière attaque normale de son combo libère un poisson qui inflige des \u003ccolor=#80C0FFFF\u003eDGT Hydro\u003c/color\u003e équivalant à 30 % de ses PV max.\nCes DGT ne sont pas considérés comme des DGT d\u0027attaque normale.",
-                                                                                   "description":  "Lorsque Kokomi revêt la parure cérémoniale créée par Ascension de la néréide, la dernière attaque normale de son combo libère un poisson qui inflige des DGT Hydro équivalant à 30 % de ses PV max.\nCes DGT ne sont pas considérés comme des DGT d\u0027attaque normale."
-                                                                               }
-                                                                    },
-                                                 "elementText":  "Hydro",
-                                                 "fullname":  null,
-                                                 "weaponText":  "Catalyseur",
-                                                 "name":  "Sangonomiya Kokomi",
-                                                 "substatText":  "Bonus de DGT Hydro",
-                                                 "region":  "Inazuma",
-                                                 "gender":  "Femme"
-                                             },
+                       "travelerpyro":  {
+                                            "constellations":  {
+                                                                   "c2":  {
+                                                                              "name":  "Feu de chandelle pérenne",
+                                                                              "descriptionRaw":  "#Pendant 12 s après avoir utilisé la compétence élémentaire \u003ccolor=#FFD780FF\u003eFléau des flammes\u003c/color\u003e, {M#le voyageur}{F#la voyageuse} récupère 14 pts de noctâme lorsqu\u0027un membre de l\u0027équipe à proximité a déclenché une \u003ccolor=#FF9999FF\u003eréaction liée à l\u0027élément Pyro\u003c/color\u003e sur un ennemi. Chaque utilisation de \u003ccolor=#FFD780FF\u003eFléau des flammes\u003c/color\u003e peut restaurer un maximum 28 pts de noctâme de cette manière.",
+                                                                              "description":  "Pendant 12 s après avoir utilisé la compétence élémentaire Fléau des flammes, le voyageur récupère 14 pts de noctâme lorsqu\u0027un membre de l\u0027équipe à proximité a déclenché une réaction liée à l\u0027élément Pyro sur un ennemi. Chaque utilisation de Fléau des flammes peut restaurer un maximum 28 pts de noctâme de cette manière."
+                                                                          },
+                                                                   "c4":  {
+                                                                              "name":  "Feu de ravage flamboyant",
+                                                                              "descriptionRaw":  "#Après avoir utilisé le déchaînement élémentaire \u003ccolor=#FFD780FF\u003ePrairie d\u0027embrasement\u003c/color\u003e, {M#le voyageur}{F#la voyageuse} bénéficie d\u0027un \u003ccolor=#FF9999FF\u003ebonus de DGT Pyro\u003c/color\u003e de 20 % pendant 9 s.",
+                                                                              "description":  "Après avoir utilisé le déchaînement élémentaire Prairie d\u0027embrasement, le voyageur bénéficie d\u0027un bonus de DGT Pyro de 20 % pendant 9 s."
+                                                                          },
+                                                                   "c3":  {
+                                                                              "name":  "Feu de balise relayée",
+                                                                              "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eFléau des flammes\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                              "description":  "Niveau d\u0027aptitude Fléau des flammes +3.\nNiveau max : 15"
+                                                                          },
+                                                                   "c5":  {
+                                                                              "name":  "Feu d\u0027inextinguibilité nouvelle",
+                                                                              "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003ePrairie d\u0027embrasement\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                              "description":  "Niveau d\u0027aptitude Prairie d\u0027embrasement +3.\nNiveau max : 15"
+                                                                          },
+                                                                   "c6":  {
+                                                                              "name":  "Feu d\u0027impérissabilité sacrée",
+                                                                              "descriptionRaw":  "#Lorsque {M#le voyageur}{F#la voyageuse} bénéficie d\u0027une bénédiction noctâme, ses attaques normales, chargées et plongeantes sont converties pour infliger des \u003ccolor=#FF9999FF\u003eDGT Pyro\u003c/color\u003e infusés de noctâme ne pouvant pas être enchantés et les DGT CRIT de ces attaques augmentent de 40 %.",
+                                                                              "description":  "Lorsque le voyageur bénéficie d\u0027une bénédiction noctâme, ses attaques normales, chargées et plongeantes sont converties pour infliger des DGT Pyro infusés de noctâme ne pouvant pas être enchantés et les DGT CRIT de ces attaques augmentent de 40 %."
+                                                                          },
+                                                                   "c1":  {
+                                                                              "name":  "Feu de flux stellaire",
+                                                                              "descriptionRaw":  "Lorsqu\u0027un \u003ccolor=#FFD780FF\u003eseuil enflammé\u003c/color\u003e ou un \u003ccolor=#FFD780FF\u003eseuil brûlant\u003c/color\u003e est actif, les DGT infligés par le personnage déployé augmentent de 6 %, et de 9 % supplémentaires s\u0027il bénéficie d\u0027une bénédiction noctâme.",
+                                                                              "description":  "Lorsqu\u0027un seuil enflammé ou un seuil brûlant est actif, les DGT infligés par le personnage déployé augmentent de 6 %, et de 9 % supplémentaires s\u0027il bénéficie d\u0027une bénédiction noctâme."
+                                                                          }
+                                                               }
+                                        },
+                       "aether":  {
+                                      "constellations":  null,
+                                      "elementText":  "Aucun",
+                                      "fullname":  null,
+                                      "weaponText":  "Épée à une main",
+                                      "name":  "Aether",
+                                      "substatText":  "ATQ",
+                                      "region":  "",
+                                      "gender":  "Homme"
+                                  },
                        "travelerelectro":  {
                                                "constellations":  {
                                                                       "c2":  {
@@ -5599,16 +5699,88 @@
                                            "region":  "Inazuma",
                                            "gender":  "Homme"
                                        },
-                       "aether":  {
-                                      "constellations":  null,
-                                      "elementText":  "Aucun",
+                       "lanyan":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "« Tenue de danse ondulant comme du jade arc-en-ciel »",
+                                                                        "descriptionRaw":  "Pendant la durée du \u003ccolor=#FFD780FF\u003ebouclier d\u0027hirondelle-follet\u003c/color\u003e, le bouclier récupère 40 % d\u0027absorption de DGT lorsque l\u0027attaque normale de votre personnage déployé inflige des DGT. L\u0027absorption de DGT peut être restaurée jusqu\u0027à sa valeur d\u0027origine, cet effet pouvant être déclenché une fois toutes les 2 s.",
+                                                                        "description":  "Pendant la durée du bouclier d\u0027hirondelle-follet, le bouclier récupère 40 % d\u0027absorption de DGT lorsque l\u0027attaque normale de votre personnage déployé inflige des DGT. L\u0027absorption de DGT peut être restaurée jusqu\u0027à sa valeur d\u0027origine, cet effet pouvant être déclenché une fois toutes les 2 s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "« Des perles de sang de faucon-dragon en ornement »",
+                                                                        "descriptionRaw":  "La maîtrise élémentaire de tous les personnages de l\u0027équipe à proximité augmente de 60 pts pendant 12 s après l\u0027utilisation du déchaînement élémentaire \u003ccolor=#FFD780FF\u003eLever lustré de lune\u003c/color\u003e.",
+                                                                        "description":  "La maîtrise élémentaire de tous les personnages de l\u0027équipe à proximité augmente de 60 pts pendant 12 s après l\u0027utilisation du déchaînement élémentaire Lever lustré de lune."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "« Perçant nuage et brouillard sur des ailes blanches »",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eDanse plumée d\u0027hirondelle-follet\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Danse plumée d\u0027hirondelle-follet +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "« De vous rencontrer mon cœur est joie »",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eLever lustré de lune\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Lever lustré de lune +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "« Sur l\u0027aile slyphique sonnent les ornements argentés »",
+                                                                        "descriptionRaw":  "Confère une utilisation supplémentaire de \u003ccolor=#FFD780FF\u003eDanse plumée d\u0027hirondelle-follet\u003c/color\u003e.",
+                                                                        "description":  "Confère une utilisation supplémentaire de Danse plumée d\u0027hirondelle-follet."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "« Comme on peut marcher entre les nuages »",
+                                                                        "descriptionRaw":  "#Après avoir déclenché l\u0027absorption élémentaire de l\u0027aptitude passive «{NON_BREAK_SPACE}Quatre charmes divinatoires scellés », une utilisation de la compétence élémentaire \u003ccolor=#FFD780FF\u003eDanse plumée d\u0027hirondelle-follet\u003c/color\u003e permet à Lan Yan de lancer un anneau lunaire supplémentaire sur les ennemis le moment venu.\nL\u0027aptitude passive « Quatre charmes divinatoires scellés » doit être déjà débloquée.",
+                                                                        "description":  "Après avoir déclenché l\u0027absorption élémentaire de l\u0027aptitude passive « Quatre charmes divinatoires scellés », une utilisation de la compétence élémentaire Danse plumée d\u0027hirondelle-follet permet à Lan Yan de lancer un anneau lunaire supplémentaire sur les ennemis le moment venu.\nL\u0027aptitude passive « Quatre charmes divinatoires scellés » doit être déjà débloquée."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anémo",
                                       "fullname":  null,
-                                      "weaponText":  "Épée à une main",
-                                      "name":  "Aether",
+                                      "weaponText":  "Catalyseur",
+                                      "name":  "Lan Yan",
                                       "substatText":  "ATQ",
-                                      "region":  "",
-                                      "gender":  "Homme"
+                                      "region":  "Liyue",
+                                      "gender":  "Femme"
                                   },
+                       "mona":  {
+                                    "constellations":  {
+                                                           "c2":  {
+                                                                      "name":  "Chaîne lunaire",
+                                                                      "descriptionRaw":  "Les attaques normales ont 20 % de chances d\u0027être suivies par une attaque chargée.\nCet effet peut être déclenché une fois toutes les 5 s.",
+                                                                      "description":  "Les attaques normales ont 20 % de chances d\u0027être suivies par une attaque chargée.\nCet effet peut être déclenché une fois toutes les 5 s."
+                                                                  },
+                                                           "c4":  {
+                                                                      "name":  "Prophétie de la fin",
+                                                                      "descriptionRaw":  "Augmente le taux CRIT de 15 % lorsque vos personnages dans l\u0027équipe attaquent un ennemi marqué par un présage.",
+                                                                      "description":  "Augmente le taux CRIT de 15 % lorsque vos personnages dans l\u0027équipe attaquent un ennemi marqué par un présage."
+                                                                  },
+                                                           "c3":  {
+                                                                      "name":  "Révolution éternelle",
+                                                                      "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eVoie divine\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                      "description":  "Niveau d\u0027aptitude Voie divine +3.\nNiveau max : 15"
+                                                                  },
+                                                           "c5":  {
+                                                                      "name":  "Un tour du destin",
+                                                                      "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eMirage aqueux\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                      "description":  "Niveau d\u0027aptitude Mirage aqueux +3.\nNiveau max : 15"
+                                                                  },
+                                                           "c6":  {
+                                                                      "name":  "Rhétorique de l\u0027adversité",
+                                                                      "descriptionRaw":  "Dans l\u0027état \u003ccolor=#FFD780FF\u003eVicissitude\u003c/color\u003e, Mona obtient un bonus de 60 % de DGT pour sa prochaine attaque chargée à chaque seconde passée à se déplacer.\nCet effet peut être cumulé 3 fois maximum (bonus de 180 %) et dure 8 s.",
+                                                                      "description":  "Dans l\u0027état Vicissitude, Mona obtient un bonus de 60 % de DGT pour sa prochaine attaque chargée à chaque seconde passée à se déplacer.\nCet effet peut être cumulé 3 fois maximum (bonus de 180 %) et dure 8 s."
+                                                                  },
+                                                           "c1":  {
+                                                                      "name":  "Prophétie immersive",
+                                                                      "descriptionRaw":  "Les effets des \u003ccolor=#80C0FFFF\u003eréactions liées à l\u0027élément Hydro\u003c/color\u003e sont renforcés pendant 8 s lorsqu\u0027une attaque de vos personnages dans l\u0027équipe touche un ennemi marqué par un présage :\n· Les DGT d\u0027Électrocution, d\u0027Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %.",
+                                                                      "description":  "Les effets des réactions liées à l\u0027élément Hydro sont renforcés pendant 8 s lorsqu\u0027une attaque de vos personnages dans l\u0027équipe touche un ennemi marqué par un présage :\n· Les DGT d\u0027Électrocution, d\u0027Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %."
+                                                                  }
+                                                       },
+                                    "elementText":  "Hydro",
+                                    "fullname":  null,
+                                    "weaponText":  "Catalyseur",
+                                    "name":  "Mona",
+                                    "substatText":  "Recharge d\u0027énergie",
+                                    "region":  "Mondstadt",
+                                    "gender":  "Femme"
+                                },
                        "barbara":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -5918,8 +6090,8 @@
                                                                       },
                                                                "c1":  {
                                                                           "name":  "« Dès lors, je traverserai le voile de l\u0027ombre de la bougie »",
-                                                                          "descriptionRaw":  "Pendant la vigile nocturne de \u003ccolor=#FFD780FF\u003eRonde de la nuitée\u003c/color\u003e, toucher un ennemi avec des \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e infligés par une attaque normale de Clorinde invoque une ombre vigile à proximité de l\u0027ennemi afin d\u0027effectuer 2 attaques coordonnées, chacune infligeant des \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e d\u0027une valeur équivalant à 30 % de l\u0027ATQ de Clorinde.\nCet effet peut être déclenché une fois toutes 1,2 s et les DGT infligés de cette manière sont considérés comme des DGT d\u0027attaque normale.",
-                                                                          "description":  "Pendant la vigile nocturne de Ronde de la nuitée, toucher un ennemi avec des DGT Électro infligés par une attaque normale de Clorinde invoque une ombre vigile à proximité de l\u0027ennemi afin d\u0027effectuer 2 attaques coordonnées, chacune infligeant des DGT Électro d\u0027une valeur équivalant à 30 % de l\u0027ATQ de Clorinde.\nCet effet peut être déclenché une fois toutes 1,2 s et les DGT infligés de cette manière sont considérés comme des DGT d\u0027attaque normale."
+                                                                          "descriptionRaw":  "Pendant la vigile nocturne de \u003ccolor=#FFD780FF\u003eRonde de la nuitée\u003c/color\u003e, toucher un ennemi avec des \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e infligés par une attaque normale de Clorinde invoque une ombre vigile à proximité de l\u0027ennemi afin d\u0027effectuer 2 attaques coordonnées, chacune infligeant des \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e d\u0027une valeur équivalant à 30 % de l\u0027ATQ de Clorinde.\nCet effet peut être déclenché une fois toutes les 1,2 s et les DGT infligés de cette manière sont considérés comme des DGT d\u0027attaque normale.",
+                                                                          "description":  "Pendant la vigile nocturne de Ronde de la nuitée, toucher un ennemi avec des DGT Électro infligés par une attaque normale de Clorinde invoque une ombre vigile à proximité de l\u0027ennemi afin d\u0027effectuer 2 attaques coordonnées, chacune infligeant des DGT Électro d\u0027une valeur équivalant à 30 % de l\u0027ATQ de Clorinde.\nCet effet peut être déclenché une fois toutes les 1,2 s et les DGT infligés de cette manière sont considérés comme des DGT d\u0027attaque normale."
                                                                       }
                                                            },
                                         "elementText":  "Électro",
@@ -6012,47 +6184,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Homme"
                                   },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani à fond !",
-                                                                         "descriptionRaw":  "#Mualani obtient 2 cumuls d\u0027élan houleux de \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e lorsqu\u0027elle active sa bénédiction noctâme et 1 cumul lorsqu\u0027elle collecte une globi-bouée.\nDe plus, lorsque Mualani collecte 2 globi-bouées pendant une seule bénédiction noctâme, elle récupère 12 pts de noctâme supplémentaires pendant 2 s. L\u0027aptitude passive «{NON_BREAK_SPACE}Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée pour cet effet.",
-                                                                         "description":  "Mualani obtient 2 cumuls d\u0027élan houleux de Squalisurf brise-vagues lorsqu\u0027elle active sa bénédiction noctâme et 1 cumul lorsqu\u0027elle collecte une globi-bouée.\nDe plus, lorsque Mualani collecte 2 globi-bouées pendant une seule bénédiction noctâme, elle récupère 12 pts de noctâme supplémentaires pendant 2 s. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée pour cet effet."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Requinou mange des bouées",
-                                                                         "descriptionRaw":  "#Mualani récupère 8 pts d\u0027énergie élémentaire lorsqu\u0027elle collecte une globi-bouée. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée.\nDe plus, les DGT infligés par \u003ccolor=#FFD780FF\u003eRequin-pact boum\u003c/color\u003e augmentent de 75{NON_BREAK_SPACE}%.",
-                                                                         "description":  "Mualani récupère 8 pts d\u0027énergie élémentaire lorsqu\u0027elle collecte une globi-bouée. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée.\nDe plus, les DGT infligés par Requin-pact boum augmentent de 75 %."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surf sur une mer joyeuse",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Squalisurf brise-vagues +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Planche identique en promo !",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eRequin-pact boum\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Requin-pact boum +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Esprit du Peuple des sources",
-                                                                         "descriptionRaw":  "L\u0027effet d\u0027augmentation de DGT de la constellation « Le Meztli oisif... » n\u0027est plus limité à un seul déclenchement par bénédiction noctâme.",
-                                                                         "description":  "L\u0027effet d\u0027augmentation de DGT de la constellation « Le Meztli oisif... » n\u0027est plus limité à un seul déclenchement par bénédiction noctâme."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Le Meztli oisif...",
-                                                                         "descriptionRaw":  "Les DGT infligés par la première morsure déferlante de Requinou après le début de la bénédiction noctâme et par les missiles de Requinou que cette morsure déclenche augmentent d\u0027une valeur équivalant à 66 % des PV max de Mualani. Ces DGT sont cependant sujets à la règle d\u0027atténuation des DGT de \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e.\nDe plus, la consommation de points de noctâme ou de phlogistique de l\u0027état Bénédiction noctâme de Mualani diminue de 30 % lorsqu\u0027elle n\u0027est pas en combat.",
-                                                                         "description":  "Les DGT infligés par la première morsure déferlante de Requinou après le début de la bénédiction noctâme et par les missiles de Requinou que cette morsure déclenche augmentent d\u0027une valeur équivalant à 66 % des PV max de Mualani. Ces DGT sont cependant sujets à la règle d\u0027atténuation des DGT de Squalisurf brise-vagues.\nDe plus, la consommation de points de noctâme ou de phlogistique de l\u0027état Bénédiction noctâme de Mualani diminue de 30 % lorsqu\u0027elle n\u0027est pas en combat."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalyseur",
-                                       "name":  "Mualani",
-                                       "substatText":  "Taux CRIT",
-                                       "region":  "Natlan",
-                                       "gender":  "Femme"
-                                   },
+                       "beidou":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Sur la mer turbulente, le tonnerre gronde",
+                                                                        "descriptionRaw":  "Les décharges de \u003ccolor=#FFD780FF\u003eBrisure d\u0027orage\u003c/color\u003e se propagent à 2 ennemis supplémentaires.",
+                                                                        "description":  "Les décharges de Brisure d\u0027orage se propagent à 2 ennemis supplémentaires."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Vengeance étonnante",
+                                                                        "descriptionRaw":  "Après avoir subi une attaque, les attaques normales de Beidou infligent 20 % de \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e supplémentaires pendant 10 s.",
+                                                                        "description":  "Après avoir subi une attaque, les attaques normales de Beidou infligent 20 % de DGT Électro supplémentaires pendant 10 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Invocateur de tonnerre",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eInvocation des marées\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Invocation des marées +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Marcheur de marée écarlate",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eBrisure d\u0027orage\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Brisure d\u0027orage +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Chancre du mal",
+                                                                        "descriptionRaw":  "La \u003ccolor=#FFACFFFF\u003eRÉS Électro\u003c/color\u003e des ennemis proches diminue de 15 % tant que \u003ccolor=#FFD780FF\u003eBrisure d\u0027orage\u003c/color\u003e est actif.",
+                                                                        "description":  "La RÉS Électro des ennemis proches diminue de 15 % tant que Brisure d\u0027orage est actif."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Fléau des monstres marins",
+                                                                        "descriptionRaw":  "L\u0027activation de \u003ccolor=#FFD780FF\u003eBrisure d\u0027orage\u003c/color\u003e confère les effets suivants :\nGénère un bouclier qui absorbe une quantité de DGT équivalant à 16 % des PV max et dure 15 s.\nLe bouclier est efficace à 250 % contre les \u003ccolor=#FFACFFFF\u003eDGT Électro\u003c/color\u003e.",
+                                                                        "description":  "L\u0027activation de Brisure d\u0027orage confère les effets suivants :\nGénère un bouclier qui absorbe une quantité de DGT équivalant à 16 % des PV max et dure 15 s.\nLe bouclier est efficace à 250 % contre les DGT Électro."
+                                                                    }
+                                                         },
+                                      "elementText":  "Électro",
+                                      "fullname":  null,
+                                      "weaponText":  "Épée à deux mains",
+                                      "name":  "Beidou",
+                                      "substatText":  "Bonus de DGT Électro",
+                                      "region":  "Liyue",
+                                      "gender":  "Femme"
+                                  },
                        "nilou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6553,65 +6725,85 @@
                                                  },
                                           "effectName":  "Tenace"
                                       },
-                    "wineandsong":  {
-                                        "r3":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 18 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 30 % pendant 5 s.",
-                                                   "values":  [
-                                                                  "18 %",
-                                                                  "30 %"
-                                                              ]
-                                               },
-                                        "r5":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 22 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 40 % pendant 5 s.",
-                                                   "values":  [
-                                                                  "22 %",
-                                                                  "40 %"
-                                                              ]
-                                               },
-                                        "r2":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 16 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 25 % pendant 5 s.",
-                                                   "values":  [
-                                                                  "16 %",
-                                                                  "25 %"
-                                                              ]
-                                               },
-                                        "r4":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 20 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 35 % pendant 5 s.",
-                                                   "values":  [
-                                                                  "20 %",
-                                                                  "35 %"
-                                                              ]
-                                               },
-                                        "substatText":  "Recharge d\u0027énergie",
-                                        "weaponText":  "Catalyseur",
-                                        "name":  "Vins et chants",
-                                        "effectTemplateRaw":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pendant 5 s.",
-                                        "r1":  {
-                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 14 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 20 % pendant 5 s.",
-                                                   "values":  [
-                                                                  "14 %",
-                                                                  "20 %"
-                                                              ]
-                                               },
-                                        "effectName":  "Versatile"
-                                    },
-                    "prizedisshinblade":  {
-                                              "r3":  null,
-                                              "r5":  null,
-                                              "r2":  null,
-                                              "r4":  null,
-                                              "substatText":  "ATQ",
-                                              "weaponText":  "Épée à une main",
-                                              "name":  "Chef-d\u0027œuvre Isshin",
-                                              "effectTemplateRaw":  "Lorsqu\u0027une attaque normale, chargée ou plongeante touche un ennemi, elle libère un esprit maudit, infligeant des DGT de zone équivalant à 180 % de l\u0027ATQ et restaurant les PV d\u0027une valeur équivalant à 100 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 8 s. Les DGT infligés par le personnage équipé de l\u0027arme diminuent de 50 %.",
-                                              "r1":  {
-                                                         "description":  "Lorsqu\u0027une attaque normale, chargée ou plongeante touche un ennemi, elle libère un esprit maudit, infligeant des DGT de zone équivalant à 180 % de l\u0027ATQ et restaurant les PV d\u0027une valeur équivalant à 100 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 8 s. Les DGT infligés par le personnage équipé de l\u0027arme diminuent de 50 %.",
-                                                         "values":  [
-
-                                                                    ]
-                                                     },
-                                              "effectName":  "Épéiste errant"
-                                          },
+                    "starcallerswatch":  {
+                                             "r3":  {
+                                                        "description":  "La maîtrise élémentaire augmente de 150 pts et le personnage équipé de l\u0027arme obtient l\u0027effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 42 %. L\u0027effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+                                                        "values":  [
+                                                                       "150",
+                                                                       "42{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "La maîtrise élémentaire augmente de 200 pts et le personnage équipé de l\u0027arme obtient l\u0027effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 56 %. L\u0027effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+                                                        "values":  [
+                                                                       "200",
+                                                                       "56{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "La maîtrise élémentaire augmente de 125 pts et le personnage équipé de l\u0027arme obtient l\u0027effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 35 %. L\u0027effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+                                                        "values":  [
+                                                                       "125",
+                                                                       "35{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "La maîtrise élémentaire augmente de 175 pts et le personnage équipé de l\u0027arme obtient l\u0027effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 49 %. L\u0027effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+                                                        "values":  [
+                                                                       "175",
+                                                                       "49{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "Maîtrise élémentaire",
+                                             "weaponText":  "Catalyseur",
+                                             "name":  "Veillée d\u0027appel d\u0027étoiles",
+                                             "effectTemplateRaw":  "#La maîtrise élémentaire augmente de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pts et le personnage équipé de l\u0027arme obtient l\u0027effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. L\u0027effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+                                             "r1":  {
+                                                        "description":  "La maîtrise élémentaire augmente de 100 pts et le personnage équipé de l\u0027arme obtient l\u0027effet Miroir nocturne pendant 15 s après avoir créé un bouclier : les DGT infligés par votre personnage déployé aux ennemis proches augmentent de 28 %. L\u0027effet Miroir nocturne peut être déclenché une fois toutes les 14 s maximum.",
+                                                        "values":  [
+                                                                       "100",
+                                                                       "28{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Offrande au vent et au soleil"
+                                         },
+                    "recurvebow":  {
+                                       "r3":  {
+                                                  "description":  "Restaure 12 % des PV après la défaite d\u0027un ennemi.",
+                                                  "values":  [
+                                                                 "12 %"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Restaure 16 % des PV après la défaite d\u0027un ennemi.",
+                                                  "values":  [
+                                                                 "16 %"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Restaure 10 % des PV après la défaite d\u0027un ennemi.",
+                                                  "values":  [
+                                                                 "10 %"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Restaure 14 % des PV après la défaite d\u0027un ennemi.",
+                                                  "values":  [
+                                                                 "14 %"
+                                                             ]
+                                              },
+                                       "substatText":  "PV",
+                                       "weaponText":  "Arc",
+                                       "name":  "Arc courbé",
+                                       "effectTemplateRaw":  "Restaure \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e des PV après la défaite d\u0027un ennemi.",
+                                       "r1":  {
+                                                  "description":  "Restaure 8 % des PV après la défaite d\u0027un ennemi.",
+                                                  "values":  [
+                                                                 "8 %"
+                                                             ]
+                                              },
+                                       "effectName":  "Moissonneur"
+                                   },
                     "eyeofperception":  {
                                             "r3":  {
                                                        "description":  "Les attaques normales et chargées ont 50 % de chances lorsqu\u0027elles touchent de tirer une balle illuminatrice d\u0027esprit qui inflige des DGT équivalant à 300 % de l\u0027ATQ. La balle peut rebondir jusqu\u0027à 4 fois maximum. Cet effet peut être déclenché une fois toutes les 10 s.",
@@ -10155,48 +10347,48 @@
                                              },
                                       "effectName":  "Fléau d\u0027eau et de glace"
                                   },
-                    "sacrificialjade":  {
-                                            "r3":  {
-                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 48 % et la maîtrise élémentaire de 60 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
-                                                       "values":  [
-                                                                      "48 %",
-                                                                      "60"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 64 % et la maîtrise élémentaire de 80 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
-                                                       "values":  [
-                                                                      "64 %",
-                                                                      "80"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 40 % et la maîtrise élémentaire de 50 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
-                                                       "values":  [
-                                                                      "40 %",
-                                                                      "50"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 56 % et la maîtrise élémentaire de 70 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
-                                                       "values":  [
-                                                                      "56 %",
-                                                                      "70"
-                                                                  ]
-                                                   },
-                                            "substatText":  "Taux CRIT",
-                                            "weaponText":  "Catalyseur",
-                                            "name":  "Jade sacrificiel",
-                                            "effectTemplateRaw":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et la maîtrise élémentaire de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
-                                            "r1":  {
-                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 32 % et la maîtrise élémentaire de 40 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
-                                                       "values":  [
-                                                                      "32 %",
-                                                                      "40"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Circulation du jade"
-                                        },
+                    "harangeppakufutsu":  {
+                                              "r3":  {
+                                                         "description":  "Accorde un bonus de DGT élémentaires de 18 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 30 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
+                                                         "values":  [
+                                                                        "18 %",
+                                                                        "30 %"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Accorde un bonus de DGT élémentaires de 24 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 40 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
+                                                         "values":  [
+                                                                        "24{NON_BREAK_SPACE}%",
+                                                                        "40 %"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Accorde un bonus de DGT élémentaires de 15 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 25 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
+                                                         "values":  [
+                                                                        "15 %",
+                                                                        "25 %"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Accorde un bonus de DGT élémentaires de 21 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 35 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
+                                                         "values":  [
+                                                                        "21 %",
+                                                                        "35 %"
+                                                                    ]
+                                                     },
+                                              "substatText":  "Taux CRIT",
+                                              "weaponText":  "Épée à une main",
+                                              "name":  "Lune ondulante de Futsu",
+                                              "effectTemplateRaw":  "#Accorde un bonus de DGT élémentaires de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pour chaque cumul de pic de vague consommé, pendant 8 s.",
+                                              "r1":  {
+                                                         "description":  "Accorde un bonus de DGT élémentaires de 12 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 20 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
+                                                         "values":  [
+                                                                        "12 %",
+                                                                        "20 %"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Flux aiguisé"
+                                          },
                     "favoniussword":  {
                                           "r3":  {
                                                      "description":  "Les coups CRIT des attaques ont 80 % de chances de générer une faible quantité de particules élémentaire qui restaurent 6 pts d\u0027énergie. Cet effet peut être déclenché une fois toutes les 9 s.",
@@ -10276,43 +10468,6 @@
                                                          },
                                                   "effectName":  "Chasse de turquoise"
                                               },
-                    "recurvebow":  {
-                                       "r3":  {
-                                                  "description":  "Restaure 12 % des PV après la défaite d\u0027un ennemi.",
-                                                  "values":  [
-                                                                 "12 %"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Restaure 16 % des PV après la défaite d\u0027un ennemi.",
-                                                  "values":  [
-                                                                 "16 %"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Restaure 10 % des PV après la défaite d\u0027un ennemi.",
-                                                  "values":  [
-                                                                 "10 %"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Restaure 14 % des PV après la défaite d\u0027un ennemi.",
-                                                  "values":  [
-                                                                 "14 %"
-                                                             ]
-                                              },
-                                       "substatText":  "PV",
-                                       "weaponText":  "Arc",
-                                       "name":  "Arc courbé",
-                                       "effectTemplateRaw":  "Restaure \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e des PV après la défaite d\u0027un ennemi.",
-                                       "r1":  {
-                                                  "description":  "Restaure 8 % des PV après la défaite d\u0027un ennemi.",
-                                                  "values":  [
-                                                                 "8 %"
-                                                             ]
-                                              },
-                                       "effectName":  "Moissonneur"
-                                   },
                     "crescentpike":  {
                                          "r3":  {
                                                     "description":  "Chaque particule ou orbe élémentaires obtenus confèrent pendant 5 s un bonus de DGT équivalant à 30 % de l\u0027ATQ.",
@@ -11757,48 +11912,100 @@
                                                     },
                                              "effectName":  "De victoire en victoire"
                                          },
-                    "harangeppakufutsu":  {
-                                              "r3":  {
-                                                         "description":  "Accorde un bonus de DGT élémentaires de 18 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 30 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
-                                                         "values":  [
-                                                                        "18 %",
-                                                                        "30 %"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Accorde un bonus de DGT élémentaires de 24 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 40 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
-                                                         "values":  [
-                                                                        "24{NON_BREAK_SPACE}%",
-                                                                        "40 %"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Accorde un bonus de DGT élémentaires de 15 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 25 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
-                                                         "values":  [
-                                                                        "15 %",
-                                                                        "25 %"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Accorde un bonus de DGT élémentaires de 21 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 35 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
-                                                         "values":  [
-                                                                        "21 %",
-                                                                        "35 %"
-                                                                    ]
-                                                     },
-                                              "substatText":  "Taux CRIT",
-                                              "weaponText":  "Épée à une main",
-                                              "name":  "Lune ondulante de Futsu",
-                                              "effectTemplateRaw":  "#Accorde un bonus de DGT élémentaires de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pour chaque cumul de pic de vague consommé, pendant 8 s.",
-                                              "r1":  {
-                                                         "description":  "Accorde un bonus de DGT élémentaires de 12 %. Lorsqu\u0027un autre personnage de l\u0027équipe à proximité utilise une compétence élémentaire, le personnage équipé de cette arme obtient 1 cumul de pic de vague. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque le personnage équipé de l\u0027arme utilise une compétence élémentaire, tous les cumuls de pic de vague sont consommés pour accorder l\u0027effet Tumulte, augmentant les DGT d\u0027attaque normale de 20 % pour chaque cumul de pic de vague consommé, pendant 8 s.",
-                                                         "values":  [
-                                                                        "12 %",
-                                                                        "20 %"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Flux aiguisé"
-                                          },
+                    "sacrificialjade":  {
+                                            "r3":  {
+                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 48 % et la maîtrise élémentaire de 60 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
+                                                       "values":  [
+                                                                      "48 %",
+                                                                      "60"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 64 % et la maîtrise élémentaire de 80 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
+                                                       "values":  [
+                                                                      "64 %",
+                                                                      "80"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 40 % et la maîtrise élémentaire de 50 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
+                                                       "values":  [
+                                                                      "40 %",
+                                                                      "50"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 56 % et la maîtrise élémentaire de 70 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
+                                                       "values":  [
+                                                                      "56 %",
+                                                                      "70"
+                                                                  ]
+                                                   },
+                                            "substatText":  "Taux CRIT",
+                                            "weaponText":  "Catalyseur",
+                                            "name":  "Jade sacrificiel",
+                                            "effectTemplateRaw":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et la maîtrise élémentaire de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
+                                            "r1":  {
+                                                       "description":  "Après avoir fait partie de l\u0027équipe sans être déployé pendant plus de 5 s, les PV max augmentent de 32 % et la maîtrise élémentaire de 40 pts. L\u0027effet prend fin dès que le personnage équipé de l\u0027arme est déployé et passe 10 s sur le terrain.",
+                                                       "values":  [
+                                                                      "32 %",
+                                                                      "40"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Circulation du jade"
+                                        },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 12 % et accorde un bonus de DGT élémentaires de 15 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 12 % (jusqu\u0027à 38,4 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "12 %",
+                                                                     "15 %",
+                                                                     "12 %",
+                                                                     "38,4 %"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 16 % et accorde un bonus de DGT élémentaires de 20 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 16 % (jusqu\u0027à 51,2 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "16 %",
+                                                                     "20 %",
+                                                                     "16 %",
+                                                                     "51,2 %"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 10 % et accorde un bonus de DGT élémentaires de 12,5 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 10 % (jusqu\u0027à 32 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "10 %",
+                                                                     "12,5 %",
+                                                                     "10 %",
+                                                                     "32 %"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 14 % et accorde un bonus de DGT élémentaires de 17,5 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 14 % (jusqu\u0027à 44,8 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "14 %",
+                                                                     "17,5 %",
+                                                                     "14 %",
+                                                                     "44,8 %"
+                                                                 ]
+                                                  },
+                                           "substatText":  "DÉF",
+                                           "weaponText":  "Épée à une main",
+                                           "name":  "Chanson de patrouille de sommet",
+                                           "effectTemplateRaw":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et accorde un bonus de DGT élémentaires de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e (jusqu\u0027à \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e maximum) pendant 15 s.",
+                                           "r1":  {
+                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 8 % et accorde un bonus de DGT élémentaires de 10 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 8 % (jusqu\u0027à 25,6 % maximum) pendant 15 s.",
+                                                      "values":  [
+                                                                     "8 %",
+                                                                     "10 %",
+                                                                     "8 %",
+                                                                     "25,6 %"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Âge d\u0027or sans fin"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -13145,58 +13352,23 @@
                                                             },
                                                      "effectName":  "Nocturne de dryas"
                                                  },
-                    "peakpatrolsong":  {
-                                           "r3":  {
-                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 12 % et accorde un bonus de DGT élémentaires de 15 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 12 % (jusqu\u0027à 38,4 % maximum) pendant 15 s.",
-                                                      "values":  [
-                                                                     "12 %",
-                                                                     "15 %",
-                                                                     "12 %",
-                                                                     "38,4 %"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 16 % et accorde un bonus de DGT élémentaires de 20 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 16 % (jusqu\u0027à 51,2 % maximum) pendant 15 s.",
-                                                      "values":  [
-                                                                     "16 %",
-                                                                     "20 %",
-                                                                     "16 %",
-                                                                     "51,2 %"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 10 % et accorde un bonus de DGT élémentaires de 12,5 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 10 % (jusqu\u0027à 32 % maximum) pendant 15 s.",
-                                                      "values":  [
-                                                                     "10 %",
-                                                                     "12,5 %",
-                                                                     "10 %",
-                                                                     "32 %"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 14 % et accorde un bonus de DGT élémentaires de 17,5 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 14 % (jusqu\u0027à 44,8 % maximum) pendant 15 s.",
-                                                      "values":  [
-                                                                     "14 %",
-                                                                     "17,5 %",
-                                                                     "14 %",
-                                                                     "44,8 %"
-                                                                 ]
-                                                  },
-                                           "substatText":  "DÉF",
-                                           "weaponText":  "Épée à une main",
-                                           "name":  "Chanson de patrouille de sommet",
-                                           "effectTemplateRaw":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et accorde un bonus de DGT élémentaires de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e (jusqu\u0027à \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e maximum) pendant 15 s.",
-                                           "r1":  {
-                                                      "description":  "Toucher un ennemi avec une attaque normale ou plongeante accorde une ode aux fleurs : augmente la DÉF de 8 % et accorde un bonus de DGT élémentaires de 10 %, le tout pendant 6 s, cet effet pouvant être cumulé 2 fois maximum et déclenché une fois toutes les 0,1 s. Lorsque cet effet obtient 2 cumuls ou que la durée du 2e cumul est actualisée, chaque tranche de 1 000 pts de DÉF du personnage équipé de l\u0027arme augmente le bonus de DGT élémentaires de tous les personnages de l\u0027équipe à proximité de 8 % (jusqu\u0027à 25,6 % maximum) pendant 15 s.",
-                                                      "values":  [
-                                                                     "8 %",
-                                                                     "10 %",
-                                                                     "8 %",
-                                                                     "25,6 %"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Âge d\u0027or sans fin"
-                                       },
+                    "prizedisshinblade":  {
+                                              "r3":  null,
+                                              "r5":  null,
+                                              "r2":  null,
+                                              "r4":  null,
+                                              "substatText":  "ATQ",
+                                              "weaponText":  "Épée à une main",
+                                              "name":  "Chef-d\u0027œuvre Isshin",
+                                              "effectTemplateRaw":  "Lorsqu\u0027une attaque normale, chargée ou plongeante touche un ennemi, elle libère un esprit maudit, infligeant des DGT de zone équivalant à 180 % de l\u0027ATQ et restaurant les PV d\u0027une valeur équivalant à 100 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 8 s. Les DGT infligés par le personnage équipé de l\u0027arme diminuent de 50 %.",
+                                              "r1":  {
+                                                         "description":  "Lorsqu\u0027une attaque normale, chargée ou plongeante touche un ennemi, elle libère un esprit maudit, infligeant des DGT de zone équivalant à 180 % de l\u0027ATQ et restaurant les PV d\u0027une valeur équivalant à 100 % de l\u0027ATQ. Cet effet peut être déclenché une fois toutes les 8 s. Les DGT infligés par le personnage équipé de l\u0027arme diminuent de 50 %.",
+                                                         "values":  [
+
+                                                                    ]
+                                                     },
+                                              "effectName":  "Épéiste errant"
+                                          },
                     "ultimateoverlordsmegamagicsword":  {
                                                             "r3":  {
                                                                        "description":  "Augmente l\u0027ATQ de 18 %. Mais ce n\u0027est pas tout : le soutien des mélusines vous remplit de force ! Votre ATQ augmente donc d\u0027un maximum de 18 % supplémentaires selon la quantité de mélusines que vous avez aidées au Village Mérusea.",
@@ -13239,6 +13411,48 @@
                                                                    },
                                                             "effectName":  "Mélusaide !"
                                                         },
+                    "wineandsong":  {
+                                        "r3":  {
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 18 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 30 % pendant 5 s.",
+                                                   "values":  [
+                                                                  "18 %",
+                                                                  "30 %"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 22 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 40 % pendant 5 s.",
+                                                   "values":  [
+                                                                  "22 %",
+                                                                  "40 %"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 16 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 25 % pendant 5 s.",
+                                                   "values":  [
+                                                                  "16 %",
+                                                                  "25 %"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 20 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 35 % pendant 5 s.",
+                                                   "values":  [
+                                                                  "20 %",
+                                                                  "35 %"
+                                                              ]
+                                               },
+                                        "substatText":  "Recharge d\u0027énergie",
+                                        "weaponText":  "Catalyseur",
+                                        "name":  "Vins et chants",
+                                        "effectTemplateRaw":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pendant 5 s.",
+                                        "r1":  {
+                                                   "description":  "Lorsqu\u0027une attaque normale a touché un ennemi, la consommation d\u0027endurance du sprint ou du sprint alternatif diminue de 14 % pendant 5 s. De plus, après l\u0027utilisation du sprint ou de l\u0027aptitude qui le remplace, l\u0027ATQ augmente de 20 % pendant 5 s.",
+                                                   "values":  [
+                                                                  "14 %",
+                                                                  "20 %"
+                                                              ]
+                                               },
+                                        "effectName":  "Versatile"
+                                    },
                     "forestregalia":  {
                                           "r3":  {
                                                      "description":  "Après avoir déclenché une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d\u0027Exubérance ou de Bourgeonnement, une feuille de conscience est générée autour du personnage pendant un maximum de 10 s. Une fois collectée, la feuille augmente la maîtrise élémentaire du personnage de 90 pts pendant 12 s. Une feuille de conscience peut être créée de cette manière une fois toutes les 20 s. L\u0027effet peut être déclenché même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé. L\u0027effet de la feuille de conscience ne se cumule pas.",
@@ -13671,6 +13885,48 @@
                                                 },
                                          "effectName":  "« Don du bagou »"
                                      },
+                    "athousandblazingsuns":  {
+                                                 "r3":  {
+                                                            "description":  "Utiliser une compétence ou un déchaînement élémentaire accorde l\u0027effet Brillance braisée : augmente les DGT CRIT de 30 % et l\u0027ATQ de 42 % pendant 6 s, ceci pouvant être déclenché une fois toutes les 10 s.\nPendant la brillance braisée, toute attaque normale ou chargée infligeant des DGT élémentaires prolonge la durée de 2 s, cela pouvant être déclenché une fois toutes les secondes et la durée pouvant être prolongée d\u0027un maximum de 6 s de cette manière.\nDe plus, lorsque le personnage équipé de l\u0027arme bénéficie d\u0027une bénédiction noctâme, l\u0027effet Brillance braisée augmente de 75 % et sa durée ne diminue pas lorsque le personnage équipé de l\u0027arme n\u0027est pas déployé.",
+                                                            "values":  [
+                                                                           "30 %",
+                                                                           "42 %"
+                                                                       ]
+                                                        },
+                                                 "r5":  {
+                                                            "description":  "Utiliser une compétence ou un déchaînement élémentaire accorde l\u0027effet Brillance braisée : augmente les DGT CRIT de 40 % et l\u0027ATQ de 56 % pendant 6 s, ceci pouvant être déclenché une fois toutes les 10 s.\nPendant la brillance braisée, toute attaque normale ou chargée infligeant des DGT élémentaires prolonge la durée de 2 s, cela pouvant être déclenché une fois toutes les secondes et la durée pouvant être prolongée d\u0027un maximum de 6 s de cette manière.\nDe plus, lorsque le personnage équipé de l\u0027arme bénéficie d\u0027une bénédiction noctâme, l\u0027effet Brillance braisée augmente de 75 % et sa durée ne diminue pas lorsque le personnage équipé de l\u0027arme n\u0027est pas déployé.",
+                                                            "values":  [
+                                                                           "40 %",
+                                                                           "56 %"
+                                                                       ]
+                                                        },
+                                                 "r2":  {
+                                                            "description":  "Utiliser une compétence ou un déchaînement élémentaire accorde l\u0027effet Brillance braisée : augmente les DGT CRIT de 25 % et l\u0027ATQ de 35 % pendant 6 s, ceci pouvant être déclenché une fois toutes les 10 s.\nPendant la brillance braisée, toute attaque normale ou chargée infligeant des DGT élémentaires prolonge la durée de 2 s, cela pouvant être déclenché une fois toutes les secondes et la durée pouvant être prolongée d\u0027un maximum de 6 s de cette manière.\nDe plus, lorsque le personnage équipé de l\u0027arme bénéficie d\u0027une bénédiction noctâme, l\u0027effet Brillance braisée augmente de 75 % et sa durée ne diminue pas lorsque le personnage équipé de l\u0027arme n\u0027est pas déployé.",
+                                                            "values":  [
+                                                                           "25 %",
+                                                                           "35 %"
+                                                                       ]
+                                                        },
+                                                 "r4":  {
+                                                            "description":  "Utiliser une compétence ou un déchaînement élémentaire accorde l\u0027effet Brillance braisée : augmente les DGT CRIT de 35 % et l\u0027ATQ de 49 % pendant 6 s, ceci pouvant être déclenché une fois toutes les 10 s.\nPendant la brillance braisée, toute attaque normale ou chargée infligeant des DGT élémentaires prolonge la durée de 2 s, cela pouvant être déclenché une fois toutes les secondes et la durée pouvant être prolongée d\u0027un maximum de 6 s de cette manière.\nDe plus, lorsque le personnage équipé de l\u0027arme bénéficie d\u0027une bénédiction noctâme, l\u0027effet Brillance braisée augmente de 75 % et sa durée ne diminue pas lorsque le personnage équipé de l\u0027arme n\u0027est pas déployé.",
+                                                            "values":  [
+                                                                           "35 %",
+                                                                           "49 %"
+                                                                       ]
+                                                        },
+                                                 "substatText":  "Taux CRIT",
+                                                 "weaponText":  "Épée à deux mains",
+                                                 "name":  "Mille soleils brûlants",
+                                                 "effectTemplateRaw":  "#Utiliser une compétence ou un déchaînement élémentaire accorde l\u0027effet Brillance braisée : augmente les DGT CRIT de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pendant 6 s, ceci pouvant être déclenché une fois toutes les 10 s.\nPendant la brillance braisée, toute attaque normale ou chargée infligeant des DGT élémentaires prolonge la durée de 2 s, cela pouvant être déclenché une fois toutes les secondes et la durée pouvant être prolongée d\u0027un maximum de 6 s de cette manière.\nDe plus, lorsque le personnage équipé de l\u0027arme bénéficie d\u0027une bénédiction noctâme, l\u0027effet Brillance braisée augmente de 75{NON_BREAK_SPACE}% et sa durée ne diminue pas lorsque le personnage équipé de l\u0027arme n\u0027est pas déployé.",
+                                                 "r1":  {
+                                                            "description":  "Utiliser une compétence ou un déchaînement élémentaire accorde l\u0027effet Brillance braisée : augmente les DGT CRIT de 20 % et l\u0027ATQ de 28 % pendant 6 s, ceci pouvant être déclenché une fois toutes les 10 s.\nPendant la brillance braisée, toute attaque normale ou chargée infligeant des DGT élémentaires prolonge la durée de 2 s, cela pouvant être déclenché une fois toutes les secondes et la durée pouvant être prolongée d\u0027un maximum de 6 s de cette manière.\nDe plus, lorsque le personnage équipé de l\u0027arme bénéficie d\u0027une bénédiction noctâme, l\u0027effet Brillance braisée augmente de 75 % et sa durée ne diminue pas lorsque le personnage équipé de l\u0027arme n\u0027est pas déployé.",
+                                                            "values":  [
+                                                                           "20 %",
+                                                                           "28 %"
+                                                                       ]
+                                                        },
+                                                 "effectName":  "Soleil ravivant l\u0027aube"
+                                             },
                     "balladoftheboundlessblue":  {
                                                      "r3":  {
                                                                 "description":  "Toucher un ennemi avec une attaque normale ou chargée augmente les DGT infligés par les attaques normales de 12 % et ceux infligés par les attaques chargées de 9 %, pendant 6 s. Cet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 0,3 s.",
@@ -14556,6 +14812,10 @@
                                            "name":  "Jeune yumkasaure",
                                            "specialname":  null
                                        },
+                    "lordoferodedprimalfire":  {
+                                                   "name":  "Érodé seigneur du feu primordial",
+                                                   "specialname":  null
+                                               },
                     "largedendroslime":  {
                                              "name":  "Dendroblob géant",
                                              "specialname":  null
@@ -14980,6 +15240,10 @@
                                                     "name":  "Shouki no Kami, le prodige",
                                                     "specialname":  null
                                                 },
+                    "waywardhermeticspiritspeaker":  {
+                                                         "name":  "Spiritoratrice excentrique isolée",
+                                                         "specialname":  null
+                                                     },
                     "wingedwarriorskymaster":  {
                                                    "name":  "Guerrier ailé : Maître du ciel",
                                                    "specialname":  null

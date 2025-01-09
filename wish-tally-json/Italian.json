@@ -638,6 +638,9 @@
                       "northlanderbowbillet":  {
                                                    "name":  "Billetta dell\u0027Arco del Nord"
                                                },
+                      "tidalga":  {
+                                      "name":  "Algamarea"
+                                  },
                       "bluedye":  {
                                       "name":  "Tintura blu"
                                   },
@@ -770,9 +773,9 @@
                       "borderlandswordbillet":  {
                                                     "name":  "Billetta della Spada delle terre di confine"
                                                 },
-                      "goldentalismanoftheforestdew":  {
-                                                           "name":  "Talismano d\u0027oro della rugiada silvestre"
-                                                       },
+                      "nightwindsmysticaugury":  {
+                                                     "name":  "Auspicio mistico del Vento della Notte"
+                                                 },
                       "dawncatcher":  {
                                           "name":  "Pesce dell\u0027alba"
                                       },
@@ -1190,6 +1193,9 @@
                       "alkahest":  {
                                        "name":  "Alkahest"
                                    },
+                      "erodedscalefeather":  {
+                                                 "name":  "Squamopiuma erosa"
+                                             },
                       "almond":  {
                                      "name":  "Mandorla"
                                  },
@@ -1331,6 +1337,9 @@
                       "keysigil":  {
                                        "name":  "Chiave sigillo"
                                    },
+                      "talismanoftheenigmaticland":  {
+                                                         "name":  "Talismano della terra misteriosa"
+                                                     },
                       "masterlessstardust":  {
                                                  "name":  "Polvere stellare senza padrone"
                                              },
@@ -1583,6 +1592,9 @@
                       "mirrorofmushin":  {
                                              "name":  "Specchio di Mushin"
                                          },
+                      "ultrahotburnerlamptestmodel":  {
+                                                          "name":  "Lampada sperimentale iper rovente"
+                                                      },
                       "dreamofthedandeliongladiator":  {
                                                            "name":  "Aspirazione del Gladiatore dei denti di leone"
                                                        },
@@ -1604,6 +1616,9 @@
                       "hurricaneseed":  {
                                             "name":  "Seme d\u0027uragano"
                                         },
+                      "scrollofthefieryfirmament":  {
+                                                        "name":  "Rotolo del firmamento infuocato"
+                                                    },
                       "dormantfungalnucleus":  {
                                                    "name":  "Nucleo di Miconoide dormiente"
                                                },
@@ -1679,9 +1694,9 @@
                       "radish":  {
                                      "name":  "Ravanello"
                                  },
-                      "ultrahotburnerlamptestmodel":  {
-                                                          "name":  "Lampada sperimentale iper rovente"
-                                                      },
+                      "tuskofmonoceroscaeli":  {
+                                                   "name":  "Zanna del Monoceros Caeli"
+                                               },
                       "crab":  {
                                    "name":  "Granchio"
                                },
@@ -1694,9 +1709,9 @@
                       "riftbornregalia":  {
                                               "name":  "Corno del re dorato"
                                           },
-                      "tuskofmonoceroscaeli":  {
-                                                   "name":  "Zanna del Monoceros Caeli"
-                                               },
+                      "goldentalismanoftheforestdew":  {
+                                                           "name":  "Talismano d\u0027oro della rugiada silvestre"
+                                                       },
                       "crystalfish":  {
                                           "name":  "Pesce di cristallo"
                                       },
@@ -1709,9 +1724,9 @@
                       "maintenancemekwaterbodycleaner":  {
                                                              "name":  "Meka manutentore Depuratore idrico"
                                                          },
-                      "nightwindsmysticaugury":  {
-                                                     "name":  "Auspicio mistico del Vento della Notte"
-                                                 },
+                      "vajradaamethystgemstone":  {
+                                                      "name":  "Gemma d\u0027ametista Vajrada"
+                                                  },
                       "spiritlocketofboreas":  {
                                                    "name":  "Spirito di Boreas"
                                                },
@@ -2045,6 +2060,9 @@
                       "congealedpupawax":  {
                                                "name":  "Cera di crisalide solidificata"
                                            },
+                      "erodedsunfire":  {
+                                            "name":  "Fuoco solare eroso"
+                                        },
                       "bacon":  {
                                     "name":  "Pancetta"
                                 },
@@ -2240,9 +2258,9 @@
                       "fruitpastebait":  {
                                              "name":  "Esca di pasta di frutta"
                                          },
-                      "tidalga":  {
-                                      "name":  "Algamarea"
-                                  },
+                      "erodedhorn":  {
+                                         "name":  "Corno eroso"
+                                     },
                       "cultivationareaexpansionvi":  {
                                                          "name":  "Espansione area di coltivazione (VI)"
                                                      },
@@ -2363,9 +2381,6 @@
                       "movementofanancientchord":  {
                                                        "name":  "Movimento di un antico accordo"
                                                    },
-                      "vajradaamethystgemstone":  {
-                                                      "name":  "Gemma d\u0027ametista Vajrada"
-                                                  },
                       "philosophiesofgold":  {
                                                  "name":  "Filosofie dell\u0027oro"
                                              },
@@ -3229,6 +3244,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "maschio"
                                     },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani darà il meglio di sé!",
+                                                                         "descriptionRaw":  "#Mualani ottiene 2 accumuli di Slancio ondoso di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2{NON_BREAK_SPACE}s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.",
+                                                                         "description":  "Mualani ottiene 2 accumuli di Slancio ondoso di Squalo spaccaonde quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2 s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Gonfiotti per Sharky",
+                                                                         "descriptionRaw":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e aumentano di un 75%.",
+                                                                         "description":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da Squaloscoppio ondapazza aumentano di un 75%."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surfare su mari di gioia",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Squalo spaccaonde.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Tavole da surf in promozione!",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Squaloscoppio ondapazza.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Spirito del Popolo delle Sorgenti",
+                                                                         "descriptionRaw":  "L\u0027aumento di DAN derivante dalla costellazione \"La placida \u0027Meztli\u0027...\" non è più limitato a un\u0027unica attivazione durante lo stato di Grazia dell\u0027Anima della Notte.",
+                                                                         "description":  "L\u0027aumento di DAN derivante dalla costellazione \"La placida \u0027Meztli\u0027...\" non è più limitato a un\u0027unica attivazione durante lo stato di Grazia dell\u0027Anima della Notte."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "La placida \"Meztli\"...",
+                                                                         "descriptionRaw":  "Dopo aver attivato lo stato di Grazia dell\u0027Anima della Notte, i DAN inflitti dal primo Morso impetuoso di Sharky e dai relativi Missili squalosi aumentano di un 66% dei PS max di Mualani. Questa iterazione di DAN aumentati è soggetta alle medesime regole di riduzione di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e.\nInoltre, quando non è in combattimento, lo stato di Grazia dell\u0027Anima della Notte di Mualani consuma un 30% di Flogisto e di punti Anima della Notte in meno.",
+                                                                         "description":  "Dopo aver attivato lo stato di Grazia dell\u0027Anima della Notte, i DAN inflitti dal primo Morso impetuoso di Sharky e dai relativi Missili squalosi aumentano di un 66% dei PS max di Mualani. Questa iterazione di DAN aumentati è soggetta alle medesime regole di riduzione di Squalo spaccaonde.\nInoltre, quando non è in combattimento, lo stato di Grazia dell\u0027Anima della Notte di Mualani consuma un 30% di Flogisto e di punti Anima della Notte in meno."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalizzatore",
+                                       "name":  "Mualani",
+                                       "substatText":  "Tasso di CRIT",
+                                       "region":  "Natlan",
+                                       "gender":  "femmina"
+                                   },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3352,6 +3408,47 @@
                                          "region":  "Liyue",
                                          "gender":  "femmina"
                                      },
+                       "mavuika":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Prezzo delle ceneri",
+                                                                         "descriptionRaw":  "Quando Mavuika è nello stato di Grazia dell\u0027Anima della Notte, il suo ATT di base aumenta di 200, e ottiene i seguenti effetti in base alla forma degli Armamenti fiammeggianti.\n· Anello dell\u0027ardore fulgido: la DIF degli avversari vicini diminuisce di un 20%;\n· Pyromoto: gli attacchi normali e caricati di Mavuika e il Taglio del Sole cadente del Tripudio elementale \u003ccolor=#FFD780FF\u003eL\u0027ora dei cieli in fiamme\u003c/color\u003e infliggono DAN aumentati rispettivamente di un 60%, 90% e 120% dell\u0027ATT di Mavuika.",
+                                                                         "description":  "Quando Mavuika è nello stato di Grazia dell\u0027Anima della Notte, il suo ATT di base aumenta di 200, e ottiene i seguenti effetti in base alla forma degli Armamenti fiammeggianti.\n· Anello dell\u0027ardore fulgido: la DIF degli avversari vicini diminuisce di un 20%;\n· Pyromoto: gli attacchi normali e caricati di Mavuika e il Taglio del Sole cadente del Tripudio elementale L\u0027ora dei cieli in fiamme infliggono DAN aumentati rispettivamente di un 60%, 90% e 120% dell\u0027ATT di Mavuika."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Determinazione di una comandante",
+                                                                         "descriptionRaw":  "Aumenta gli effetti del talento passivo \"Kiongozi\":\nl\u0027incremento dei DAN ottenuto dopo aver usato il Tripudio elementale \u003ccolor=#FFD780FF\u003eL\u0027ora dei cieli in fiamme\u003c/color\u003e non diminuisce nel tempo, e si ottiene un 10% di bonus DAN aggiuntivo.\nRichiede il talento passivo \"Kiongozi\".",
+                                                                         "description":  "Aumenta gli effetti del talento passivo \"Kiongozi\":\nl\u0027incremento dei DAN ottenuto dopo aver usato il Tripudio elementale L\u0027ora dei cieli in fiamme non diminuisce nel tempo, e si ottiene un 10% di bonus DAN aggiuntivo.\nRichiede il talento passivo \"Kiongozi\"."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Sole rovente",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello de \u003ccolor=#FFD780FF\u003eL\u0027ora dei cieli in fiamme\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello de L\u0027ora dei cieli in fiamme.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Significato della verità",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eNomen omen\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Nomen omen.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Liberazione del Nome dell\u0027umanità",
+                                                                         "descriptionRaw":  "#Gli Armamenti fiammeggianti dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eNomen omen\u003c/color\u003e ricevono dei miglioramenti generali.\n· Anello dell\u0027ardore fulgido: quando l\u0027Anello attacca e colpisce gli avversari, una Pyromoto si schianta contro l\u0027avversario colpito, infliggendo \u003ccolor=#FF9999FF\u003eDAN da Pyro ad area\u003c/color\u003e con attributo Anima della Notte pari a un 200% dell\u0027ATT.\n· Pyromoto: quando Mavuika è a bordo della Pyromoto, evoca anche un Anello dell\u0027ardore fulgido incandescente che la segue, il quale riduce la DIF degli avversari vicini di un 20% e infligge \u003ccolor=#FF9999FF\u003eDAN da Pyro ad area\u003c/color\u003e con attributo Anima della Notte pari a un 500% dell\u0027ATT ogni 3{NON_BREAK_SPACE}s. Inoltre, le capacità di Mavuika di muoversi sui vari terreni migliorano ulteriormente.\n\nIn più, quando Mavuika è a bordo della Pyromoto e non è in un combattimento, se i suoi punti Anima della Notte scendono a 5, ne ottiene 80. Quest\u0027effetto può attivarsi una volta ogni 15{NON_BREAK_SPACE}s.",
+                                                                         "description":  "Gli Armamenti fiammeggianti dell\u0027abilità elementale Nomen omen ricevono dei miglioramenti generali.\n· Anello dell\u0027ardore fulgido: quando l\u0027Anello attacca e colpisce gli avversari, una Pyromoto si schianta contro l\u0027avversario colpito, infliggendo DAN da Pyro ad area con attributo Anima della Notte pari a un 200% dell\u0027ATT.\n· Pyromoto: quando Mavuika è a bordo della Pyromoto, evoca anche un Anello dell\u0027ardore fulgido incandescente che la segue, il quale riduce la DIF degli avversari vicini di un 20% e infligge DAN da Pyro ad area con attributo Anima della Notte pari a un 500% dell\u0027ATT ogni 3 s. Inoltre, le capacità di Mavuika di muoversi sui vari terreni migliorano ulteriormente.\n\nIn più, quando Mavuika è a bordo della Pyromoto e non è in un combattimento, se i suoi punti Anima della Notte scendono a 5, ne ottiene 80. Quest\u0027effetto può attivarsi una volta ogni 15 s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Spiegazione della Signora della Notte",
+                                                                         "descriptionRaw":  "#I punti Anima della Notte massimi di Mavuika passano a 120 e l\u0027efficienza con cui ottiene Spirito combattivo aumenta di un 25%.\nInoltre, dopo aver ottenuto Spirito combattivo, il suo ATT aumenta di un 40% per 8{NON_BREAK_SPACE}s.",
+                                                                         "description":  "I punti Anima della Notte massimi di Mavuika passano a 120 e l\u0027efficienza con cui ottiene Spirito combattivo aumenta di un 25%.\nInoltre, dopo aver ottenuto Spirito combattivo, il suo ATT aumenta di un 40% per 8 s."
+                                                                     }
+                                                          },
+                                       "elementText":  "Pyro",
+                                       "fullname":  null,
+                                       "weaponText":  "Claymore",
+                                       "name":  "Mavuika",
+                                       "substatText":  "DAN da CRIT",
+                                       "region":  "Natlan",
+                                       "gender":  "femmina"
+                                   },
                        "xiao":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -3557,6 +3654,47 @@
                                     "region":  "Sumeru",
                                     "gender":  "maschio"
                                 },
+                       "yaemiko":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Richiamo della luna",
+                                                                         "descriptionRaw":  "Quando vengono creati, il livello dei \u003ccolor=#FFD780FF\u003eSakura Sesshou\u003c/color\u003e equivale a 2, il loro livello massimo sale a 4 e il loro raggio d\u0027attacco aumenta di un 60%.",
+                                                                         "description":  "Quando vengono creati, il livello dei Sakura Sesshou equivale a 2, il loro livello massimo sale a 4 e il loro raggio d\u0027attacco aumenta di un 60%."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Canalizzazione del sakura",
+                                                                         "descriptionRaw":  "#Quando il fulmine di un \u003ccolor=#FFD780FF\u003eSakura Sesshou\u003c/color\u003e colpisce gli avversari, il \u003ccolor=#FFACFFFF\u003ebonus DAN da Electro\u003c/color\u003e di tutti i membri vicini del gruppo aumenta di un 20% per 5{NON_BREAK_SPACE}s.",
+                                                                         "description":  "Quando il fulmine di un Sakura Sesshou colpisce gli avversari, il bonus DAN da Electro di tutti i membri vicini del gruppo aumenta di un 20% per 5 s."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Le sette malie",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eEvocazione di Yakan: Sakura Sesshou\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Evocazione di Yakan: Sakura Sesshou.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Dispetto provocatore",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eGrande arte segreta: Tenko Kenshin\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Grande arte segreta: Tenko Kenshin.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Arte proibita: Daisesshou",
+                                                                         "descriptionRaw":  "Gli attacchi di un \u003ccolor=#FFD780FF\u003eSakura Sesshou\u003c/color\u003e ignorano un 60% della DIF degli avversari.",
+                                                                         "description":  "Gli attacchi di un Sakura Sesshou ignorano un 60% della DIF degli avversari."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Offerta di Yakan",
+                                                                         "descriptionRaw":  "Ogni volta che \u003ccolor=#FFD780FF\u003eGrande arte segreta: Tenko Kenshin\u003c/color\u003e attiva una Saetta Tenko, l\u0027energia di Yae Miko si ripristina di 8.",
+                                                                         "description":  "Ogni volta che Grande arte segreta: Tenko Kenshin attiva una Saetta Tenko, l\u0027energia di Yae Miko si ripristina di 8."
+                                                                     }
+                                                          },
+                                       "elementText":  "Electro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalizzatore",
+                                       "name":  "Yae Miko",
+                                       "substatText":  "Tasso di CRIT",
+                                       "region":  "Inazuma",
+                                       "gender":  "femmina"
+                                   },
                        "kinich":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -4288,47 +4426,47 @@
                                              "region":  "Inazuma",
                                              "gender":  "femmina"
                                          },
-                       "yaemiko":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Richiamo della luna",
-                                                                         "descriptionRaw":  "Quando vengono creati, il livello dei \u003ccolor=#FFD780FF\u003eSakura Sesshou\u003c/color\u003e equivale a 2, il loro livello massimo sale a 4 e il loro raggio d\u0027attacco aumenta di un 60%.",
-                                                                         "description":  "Quando vengono creati, il livello dei Sakura Sesshou equivale a 2, il loro livello massimo sale a 4 e il loro raggio d\u0027attacco aumenta di un 60%."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Canalizzazione del sakura",
-                                                                         "descriptionRaw":  "#Quando il fulmine di un \u003ccolor=#FFD780FF\u003eSakura Sesshou\u003c/color\u003e colpisce gli avversari, il \u003ccolor=#FFACFFFF\u003ebonus DAN da Electro\u003c/color\u003e di tutti i membri vicini del gruppo aumenta di un 20% per 5{NON_BREAK_SPACE}s.",
-                                                                         "description":  "Quando il fulmine di un Sakura Sesshou colpisce gli avversari, il bonus DAN da Electro di tutti i membri vicini del gruppo aumenta di un 20% per 5 s."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Le sette malie",
-                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eEvocazione di Yakan: Sakura Sesshou\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                         "description":  "Aumenta di 3 il livello di Evocazione di Yakan: Sakura Sesshou.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Dispetto provocatore",
-                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eGrande arte segreta: Tenko Kenshin\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                         "description":  "Aumenta di 3 il livello di Grande arte segreta: Tenko Kenshin.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Arte proibita: Daisesshou",
-                                                                         "descriptionRaw":  "Gli attacchi di un \u003ccolor=#FFD780FF\u003eSakura Sesshou\u003c/color\u003e ignorano un 60% della DIF degli avversari.",
-                                                                         "description":  "Gli attacchi di un Sakura Sesshou ignorano un 60% della DIF degli avversari."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Offerta di Yakan",
-                                                                         "descriptionRaw":  "Ogni volta che \u003ccolor=#FFD780FF\u003eGrande arte segreta: Tenko Kenshin\u003c/color\u003e attiva una Saetta Tenko, l\u0027energia di Yae Miko si ripristina di 8.",
-                                                                         "description":  "Ogni volta che Grande arte segreta: Tenko Kenshin attiva una Saetta Tenko, l\u0027energia di Yae Miko si ripristina di 8."
-                                                                     }
-                                                          },
-                                       "elementText":  "Electro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalizzatore",
-                                       "name":  "Yae Miko",
-                                       "substatText":  "Tasso di CRIT",
-                                       "region":  "Inazuma",
-                                       "gender":  "femmina"
-                                   },
+                       "sangonomiyakokomi":  {
+                                                 "constellations":  {
+                                                                        "c2":  {
+                                                                                   "name":  "Come le onde, le nuvole si increspano",
+                                                                                   "descriptionRaw":  "Sangonomiya Kokomi ottiene un bonus di guarigione per i personaggi i cui PS sono pari o inferiori a un 50% nei seguenti modi:\n· Bake-Kurage di \u003ccolor=#FFD780FF\u003eGiuramento di Kurage\u003c/color\u003e: 4,5% dei PS max di Kokomi;\n· attacchi normali e caricati di \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e: 0,6% dei PS max di Kokomi.",
+                                                                                   "description":  "Sangonomiya Kokomi ottiene un bonus di guarigione per i personaggi i cui PS sono pari o inferiori a un 50% nei seguenti modi:\n· Bake-Kurage di Giuramento di Kurage: 4,5% dei PS max di Kokomi;\n· attacchi normali e caricati di Ascensione della Nereide: 0,6% dei PS max di Kokomi."
+                                                                               },
+                                                                        "c4":  {
+                                                                                   "name":  "La luna, guardiana delle acque",
+                                                                                   "descriptionRaw":  "#Quando indossa l\u0027Abito cerimoniale creato da \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e, la VEL dell\u0027attacco normale di Sangonomiya Kokomi aumenta di un 10%, e gli attacchi normali che colpiscono gli avversari ripristinano la sua energia di 0,8.\nSi può verificare una sola volta ogni 0,2{NON_BREAK_SPACE}s.",
+                                                                                   "description":  "Quando indossa l\u0027Abito cerimoniale creato da Ascensione della Nereide, la VEL dell\u0027attacco normale di Sangonomiya Kokomi aumenta di un 10%, e gli attacchi normali che colpiscono gli avversari ripristinano la sua energia di 0,8.\nSi può verificare una sola volta ogni 0,2 s."
+                                                                               },
+                                                                        "c3":  {
+                                                                                   "name":  "La luna, una nave sui mari",
+                                                                                   "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                                   "description":  "Aumenta di 3 il livello di Ascensione della Nereide.\nIl livello di potenziamento massimo è 15."
+                                                                               },
+                                                                        "c5":  {
+                                                                                   "name":  "Tutti i ruscelli sfociano nel mare",
+                                                                                   "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eGiuramento di Kurage\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                                   "description":  "Aumenta di 3 il livello di Giuramento di Kurage.\nIl livello di potenziamento massimo è 15."
+                                                                               },
+                                                                        "c6":  {
+                                                                                   "name":  "Sango Isshin",
+                                                                                   "descriptionRaw":  "#Quando indossa l\u0027Abito cerimoniale creato da \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e, Sangonomiya Kokomi ottiene un \u003ccolor=#80C0FFFF\u003eBonus DAN da Hydro\u003c/color\u003e di un 40% per 4{NON_BREAK_SPACE}s quando i suoi attacchi normali e caricati guariscono, o guarirebbero, i membri del gruppo i cui PS sono pari o superiori a un 80%.",
+                                                                                   "description":  "Quando indossa l\u0027Abito cerimoniale creato da Ascensione della Nereide, Sangonomiya Kokomi ottiene un Bonus DAN da Hydro di un 40% per 4 s quando i suoi attacchi normali e caricati guariscono, o guarirebbero, i membri del gruppo i cui PS sono pari o superiori a un 80%."
+                                                                               },
+                                                                        "c1":  {
+                                                                                   "name":  "Sul bordo dell\u0027acqua",
+                                                                                   "descriptionRaw":  "Quando indossa l\u0027Abito cerimoniale creato da \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e, l\u0027attacco normale finale della combo di Sangonomiya Kokomi rilascerà un pesce che infligge \u003ccolor=#80C0FFFF\u003eDAN da Hydro\u003c/color\u003e pari a un 30% dei suoi PS max.\nQuesti DAN non saranno considerati come DAN da attacco normale.",
+                                                                                   "description":  "Quando indossa l\u0027Abito cerimoniale creato da Ascensione della Nereide, l\u0027attacco normale finale della combo di Sangonomiya Kokomi rilascerà un pesce che infligge DAN da Hydro pari a un 30% dei suoi PS max.\nQuesti DAN non saranno considerati come DAN da attacco normale."
+                                                                               }
+                                                                    },
+                                                 "elementText":  "Hydro",
+                                                 "fullname":  null,
+                                                 "weaponText":  "Catalizzatore",
+                                                 "name":  "Sangonomiya Kokomi",
+                                                 "substatText":  "Bonus DAN da Hydro",
+                                                 "region":  "Inazuma",
+                                                 "gender":  "femmina"
+                                             },
                        "xingqiu":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -4455,47 +4593,47 @@
                        "traveler":  {
                                         "name":  "#Viaggiat{M#ore}{F#rice}"
                                     },
-                       "beidou":  {
-                                      "constellations":  {
-                                                             "c2":  {
-                                                                        "name":  "Sui mari in tempesta, sorge il fulmine",
-                                                                        "descriptionRaw":  "L\u0027arco elettrico di \u003ccolor=#FFD780FF\u003eTempesta tagliente\u003c/color\u003e può rimbalzare su 2 bersagli aggiuntivi.",
-                                                                        "description":  "L\u0027arco elettrico di Tempesta tagliente può rimbalzare su 2 bersagli aggiuntivi."
-                                                                    },
-                                                             "c4":  {
-                                                                        "name":  "Vendetta perfetta",
-                                                                        "descriptionRaw":  "#Quando Beidou viene attaccata, i suoi attacchi normali infliggono un 20% di \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e extra per 10{NON_BREAK_SPACE}s.",
-                                                                        "description":  "Quando Beidou viene attaccata, i suoi attacchi normali infliggono un 20% di DAN da Electro extra per 10 s."
-                                                                    },
-                                                             "c3":  {
-                                                                        "name":  "Invocatore della tempesta",
-                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eGovernamaree\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                        "description":  "Aumenta di 3 il livello di Governamaree.\nIl livello di potenziamento massimo è 15."
-                                                                    },
-                                                             "c5":  {
-                                                                        "name":  "Sulle onde cremisi",
-                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eTempesta tagliente\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                        "description":  "Aumenta di 3 il livello di Tempesta tagliente.\nIl livello di potenziamento massimo è 15."
-                                                                    },
-                                                             "c6":  {
-                                                                        "name":  "Fine del male",
-                                                                        "descriptionRaw":  "Finché \u003ccolor=#FFD780FF\u003eTempesta tagliente\u003c/color\u003e è attiva, la \u003ccolor=#FFACFFFF\u003eRES a Electro\u003c/color\u003e degli avversari circostanti si riduce di un 15%.",
-                                                                        "description":  "Finché Tempesta tagliente è attiva, la RES a Electro degli avversari circostanti si riduce di un 15%."
-                                                                    },
-                                                             "c1":  {
-                                                                        "name":  "Flagello della Regina dei mari",
-                                                                        "descriptionRaw":  "#Quando si usa \u003ccolor=#FFD780FF\u003eTempesta tagliente\u003c/color\u003e:\n· genera uno scudo che assorbe fino a un 16% dei PS max di Beidou per 15{NON_BREAK_SPACE}s;\n· lo scudo assorbe \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e con un\u0027efficacia superiore di un 250%.",
-                                                                        "description":  "Quando si usa Tempesta tagliente:\n· genera uno scudo che assorbe fino a un 16% dei PS max di Beidou per 15 s;\n· lo scudo assorbe DAN da Electro con un\u0027efficacia superiore di un 250%."
-                                                                    }
-                                                         },
-                                      "elementText":  "Electro",
-                                      "fullname":  null,
-                                      "weaponText":  "Claymore",
-                                      "name":  "Beidou",
-                                      "substatText":  "Bonus DAN da Electro",
-                                      "region":  "Liyue",
-                                      "gender":  "femmina"
-                                  },
+                       "citlali":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Calvario del Divoracuori",
+                                                                         "descriptionRaw":  "#Citlali ottiene 125 punti di maestria elementale, mentre gli altri personaggi che sono protetti dal suo Scudo d\u0027opale o che vengono seguiti da Itzpapa ne ottengono 250.\nInoltre, quando Citlali usa la sua abilità elementale \u003ccolor=#FFD780FF\u003eStella nera Albagelo\u003c/color\u003e, anche i personaggi vicini ottengono uno Scudo d\u0027opale.\n\nIn più, gli effetti del talento passivo Pioggia gelida di Mamaloaco ricevono un miglioramento:\nmentre Itzpapa è in campo, dopo che i membri vicini del gruppo hanno innescato reazioni di Congelamento o di Fusione, le RES a \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e e \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e degli avversari colpiti diminuiscono di un ulteriore 20% per 12{NON_BREAK_SPACE}s. Richiede il talento passivo Pioggia gelida di Mamaloaco.",
+                                                                         "description":  "Citlali ottiene 125 punti di maestria elementale, mentre gli altri personaggi che sono protetti dal suo Scudo d\u0027opale o che vengono seguiti da Itzpapa ne ottengono 250.\nInoltre, quando Citlali usa la sua abilità elementale Stella nera Albagelo, anche i personaggi vicini ottengono uno Scudo d\u0027opale.\n\nIn più, gli effetti del talento passivo Pioggia gelida di Mamaloaco ricevono un miglioramento:\nmentre Itzpapa è in campo, dopo che i membri vicini del gruppo hanno innescato reazioni di Congelamento o di Fusione, le RES a Pyro e Hydro degli avversari colpiti diminuiscono di un ulteriore 20% per 12 s. Richiede il talento passivo Pioggia gelida di Mamaloaco."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Spiriteschio Affrontamorte",
+                                                                         "descriptionRaw":  "#Mentre l\u0027abilità elementale \u003ccolor=#FFD780FF\u003eStella nera Albagelo\u003c/color\u003e è attiva, quando il Tifone glaciale di Itzpapa colpisce gli avversari, viene evocato un \u003ccolor=#FFD780FF\u003eTeschio albergaspiriti d\u0027ossidiana\u003c/color\u003e aggiuntivo. Quando un Teschio albergaspiriti evocato in questo modo esplode, infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo ad area\u003c/color\u003e con attributo Anima della Notte pari a un 1800% della maestria elementale di Citlali, ripristinando al contempo 16 punti Anima della Notte e 8 di energia di quest\u0027ultima. Quest\u0027effetto può attivarsi una volta ogni 8{NON_BREAK_SPACE}s. Tali DAN non sono considerati DAN da Tripudio elementale.",
+                                                                         "description":  "Mentre l\u0027abilità elementale Stella nera Albagelo è attiva, quando il Tifone glaciale di Itzpapa colpisce gli avversari, viene evocato un Teschio albergaspiriti d\u0027ossidiana aggiuntivo. Quando un Teschio albergaspiriti evocato in questo modo esplode, infligge DAN da Cryo ad area con attributo Anima della Notte pari a un 1800% della maestria elementale di Citlali, ripristinando al contempo 16 punti Anima della Notte e 8 di energia di quest\u0027ultima. Quest\u0027effetto può attivarsi una volta ogni 8 s. Tali DAN non sono considerati DAN da Tripudio elementale."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Corona piumata del serpente delle nuvole",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eStella nera Albagelo\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Stella nera Albagelo.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Maleficio di Nemontemi",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eEditto dello splendore intrecciato\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Editto dello splendore intrecciato.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Patto segreto di Teoiztac",
+                                                                         "descriptionRaw":  "Dopo essere stata evocata con l\u0027abilità elementale \u003ccolor=#FFD780FF\u003eStella nera Albagelo\u003c/color\u003e, Itzpapa rimane sempre nello stato di Opale ardente, che non termina neanche se vengono consumati tutti i punti Anima della Notte.\nIn più, quando viene usata \u003ccolor=#FFD780FF\u003eStella nera Albagelo\u003c/color\u003e, Itzpapa consuma tutti i punti Anima della Notte e, mentre è in campo, continua a consumarli. Ogni punto Anima della Notte consumato in questo modo conferisce a Citlali 1 punto di Cifra della legge segreta.\nÈ possibile ottenere in questo modo fino a un massimo di 40 punti, e ciascun punto posseduto da Citlali conferisce a tutti i membri del gruppo vicini un bonus DAN da \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e e \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e pari a un 1,5%, oltre a un aumento dei DAN inflitti da Citlali di un 2,5%.\nQuando Itzpapa abbandona il campo, o dopo aver usato di nuovo l\u0027abilità elementale di Citlali, tutti i punti di Cifra della legge segreta spariscono.",
+                                                                         "description":  "Dopo essere stata evocata con l\u0027abilità elementale Stella nera Albagelo, Itzpapa rimane sempre nello stato di Opale ardente, che non termina neanche se vengono consumati tutti i punti Anima della Notte.\nIn più, quando viene usata Stella nera Albagelo, Itzpapa consuma tutti i punti Anima della Notte e, mentre è in campo, continua a consumarli. Ogni punto Anima della Notte consumato in questo modo conferisce a Citlali 1 punto di Cifra della legge segreta.\nÈ possibile ottenere in questo modo fino a un massimo di 40 punti, e ciascun punto posseduto da Citlali conferisce a tutti i membri del gruppo vicini un bonus DAN da Pyro e Hydro pari a un 1,5%, oltre a un aumento dei DAN inflitti da Citlali di un 2,5%.\nQuando Itzpapa abbandona il campo, o dopo aver usato di nuovo l\u0027abilità elementale di Citlali, tutti i punti di Cifra della legge segreta spariscono."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Lame lucenti di Centzon Mimixcoah",
+                                                                         "descriptionRaw":  "#Quando usa la sua abilità elementale \u003ccolor=#FFD780FF\u003eStella nera Albagelo\u003c/color\u003e, Citlali ottiene l\u0027effetto Paramenti Fulgistella finché Itzpapa non abbandona il campo. Durante questo periodo, ottiene 10 accumuli di Lama stellare. Quando un personaggio attivo vicino diverso da Citlali infligge DAN usando attacchi normali, caricati o in picchiata, o abilità e Tripudi elementali, viene consumata 1 accumulo di Lama stellare per aumentare i DAN inflitti di un 200% della maestria elementale di Citlali.\nQuando un personaggio vicino del gruppo innesca reazioni di Congelamento o Fusione, Citlali ottiene altri 3 accumuli di Lama stellare. Quest\u0027effetto può attivarsi una volta ogni 8{NON_BREAK_SPACE}s.\n\nUsare l\u0027abilità elementale \u003ccolor=#FFD780FF\u003eStella nera Albagelo\u003c/color\u003e ripristina il numero di Lame stellari.\nIn più, quando Citlali esegue il suo balzo, è in modalità di mira o usa il suo attacco caricato a mezz\u0027aria, il suo consumo di Flogisto diminuisce di un 45%.",
+                                                                         "description":  "Quando usa la sua abilità elementale Stella nera Albagelo, Citlali ottiene l\u0027effetto Paramenti Fulgistella finché Itzpapa non abbandona il campo. Durante questo periodo, ottiene 10 accumuli di Lama stellare. Quando un personaggio attivo vicino diverso da Citlali infligge DAN usando attacchi normali, caricati o in picchiata, o abilità e Tripudi elementali, viene consumata 1 accumulo di Lama stellare per aumentare i DAN inflitti di un 200% della maestria elementale di Citlali.\nQuando un personaggio vicino del gruppo innesca reazioni di Congelamento o Fusione, Citlali ottiene altri 3 accumuli di Lama stellare. Quest\u0027effetto può attivarsi una volta ogni 8 s.\n\nUsare l\u0027abilità elementale Stella nera Albagelo ripristina il numero di Lame stellari.\nIn più, quando Citlali esegue il suo balzo, è in modalità di mira o usa il suo attacco caricato a mezz\u0027aria, il suo consumo di Flogisto diminuisce di un 45%."
+                                                                     }
+                                                          },
+                                       "elementText":  "Cryo",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalizzatore",
+                                       "name":  "Citlali",
+                                       "substatText":  "Maestria elementale",
+                                       "region":  "Natlan",
+                                       "gender":  "femmina"
+                                   },
                        "gorou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -4916,88 +5054,50 @@
                                      "region":  "Mondstadt",
                                      "gender":  "maschio"
                                  },
-                       "mona":  {
-                                    "constellations":  {
-                                                           "c2":  {
-                                                                      "name":  "Catena lunare",
-                                                                      "descriptionRaw":  "#Dopo che un attacco normale va a segno, c\u0027è un 20% di probabilità che venga effettuato un attacco caricato.\nSi può verificare una sola volta ogni 5{NON_BREAK_SPACE}s.",
-                                                                      "description":  "Dopo che un attacco normale va a segno, c\u0027è un 20% di probabilità che venga effettuato un attacco caricato.\nSi può verificare una sola volta ogni 5 s."
-                                                                  },
-                                                           "c4":  {
-                                                                      "name":  "Profezia dell\u0027oblio",
-                                                                      "descriptionRaw":  "Quando un membro del gruppo attacca un avversario sotto l\u0027effetto di un Presagio, il suo tasso di CRIT aumenta di un 15%.",
-                                                                      "description":  "Quando un membro del gruppo attacca un avversario sotto l\u0027effetto di un Presagio, il suo tasso di CRIT aumenta di un 15%."
-                                                                  },
-                                                           "c3":  {
-                                                                      "name":  "Rotazione costante",
-                                                                      "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eFantasma stellaris\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                      "description":  "Aumenta di 3 il livello di Fantasma stellaris.\nIl livello di potenziamento massimo è 15."
-                                                                  },
-                                                           "c5":  {
-                                                                      "name":  "Beffa del destino",
-                                                                      "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eCondanna riflessa\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                      "description":  "Aumenta di 3 il livello di Condanna riflessa.\nIl livello di potenziamento massimo è 15."
-                                                                  },
-                                                           "c6":  {
-                                                                      "name":  "Retorica delle calamità",
-                                                                      "descriptionRaw":  "#Quando entra in \u003ccolor=#FFD780FF\u003eTorrente illusorio\u003c/color\u003e, Mona ottiene un 60% di aumento dei DAN del suo prossimo attacco caricato per ogni secondo in movimento.\nIn questo modo è possibile ottenere fino a un 180% di bonus DAN. Quest\u0027effetto non dura più di 8{NON_BREAK_SPACE}s.",
-                                                                      "description":  "Quando entra in Torrente illusorio, Mona ottiene un 60% di aumento dei DAN del suo prossimo attacco caricato per ogni secondo in movimento.\nIn questo modo è possibile ottenere fino a un 180% di bonus DAN. Quest\u0027effetto non dura più di 8 s."
-                                                                  },
-                                                           "c1":  {
-                                                                      "name":  "Profezia sommersa",
-                                                                      "descriptionRaw":  "#Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle \u003ccolor=#80C0FFFF\u003ereazioni elementali di Hydro\u003c/color\u003e sono potenziati per 8{NON_BREAK_SPACE}s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%.",
-                                                                      "description":  "Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle reazioni elementali di Hydro sono potenziati per 8 s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%."
-                                                                  }
-                                                       },
-                                    "elementText":  "Hydro",
-                                    "fullname":  null,
-                                    "weaponText":  "Catalizzatore",
-                                    "name":  "Mona",
-                                    "substatText":  "Ricarica di energia",
-                                    "region":  "Mondstadt",
-                                    "gender":  "femmina"
-                                },
-                       "sangonomiyakokomi":  {
-                                                 "constellations":  {
-                                                                        "c2":  {
-                                                                                   "name":  "Come le onde, le nuvole si increspano",
-                                                                                   "descriptionRaw":  "Sangonomiya Kokomi ottiene un bonus di guarigione per i personaggi i cui PS sono pari o inferiori a un 50% nei seguenti modi:\n· Bake-Kurage di \u003ccolor=#FFD780FF\u003eGiuramento di Kurage\u003c/color\u003e: 4,5% dei PS max di Kokomi;\n· attacchi normali e caricati di \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e: 0,6% dei PS max di Kokomi.",
-                                                                                   "description":  "Sangonomiya Kokomi ottiene un bonus di guarigione per i personaggi i cui PS sono pari o inferiori a un 50% nei seguenti modi:\n· Bake-Kurage di Giuramento di Kurage: 4,5% dei PS max di Kokomi;\n· attacchi normali e caricati di Ascensione della Nereide: 0,6% dei PS max di Kokomi."
-                                                                               },
-                                                                        "c4":  {
-                                                                                   "name":  "La luna, guardiana delle acque",
-                                                                                   "descriptionRaw":  "#Quando indossa l\u0027Abito cerimoniale creato da \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e, la VEL dell\u0027attacco normale di Sangonomiya Kokomi aumenta di un 10%, e gli attacchi normali che colpiscono gli avversari ripristinano la sua energia di 0,8.\nSi può verificare una sola volta ogni 0,2{NON_BREAK_SPACE}s.",
-                                                                                   "description":  "Quando indossa l\u0027Abito cerimoniale creato da Ascensione della Nereide, la VEL dell\u0027attacco normale di Sangonomiya Kokomi aumenta di un 10%, e gli attacchi normali che colpiscono gli avversari ripristinano la sua energia di 0,8.\nSi può verificare una sola volta ogni 0,2 s."
-                                                                               },
-                                                                        "c3":  {
-                                                                                   "name":  "La luna, una nave sui mari",
-                                                                                   "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                                   "description":  "Aumenta di 3 il livello di Ascensione della Nereide.\nIl livello di potenziamento massimo è 15."
-                                                                               },
-                                                                        "c5":  {
-                                                                                   "name":  "Tutti i ruscelli sfociano nel mare",
-                                                                                   "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eGiuramento di Kurage\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                                   "description":  "Aumenta di 3 il livello di Giuramento di Kurage.\nIl livello di potenziamento massimo è 15."
-                                                                               },
-                                                                        "c6":  {
-                                                                                   "name":  "Sango Isshin",
-                                                                                   "descriptionRaw":  "#Quando indossa l\u0027Abito cerimoniale creato da \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e, Sangonomiya Kokomi ottiene un \u003ccolor=#80C0FFFF\u003eBonus DAN da Hydro\u003c/color\u003e di un 40% per 4{NON_BREAK_SPACE}s quando i suoi attacchi normali e caricati guariscono, o guarirebbero, i membri del gruppo i cui PS sono pari o superiori a un 80%.",
-                                                                                   "description":  "Quando indossa l\u0027Abito cerimoniale creato da Ascensione della Nereide, Sangonomiya Kokomi ottiene un Bonus DAN da Hydro di un 40% per 4 s quando i suoi attacchi normali e caricati guariscono, o guarirebbero, i membri del gruppo i cui PS sono pari o superiori a un 80%."
-                                                                               },
-                                                                        "c1":  {
-                                                                                   "name":  "Sul bordo dell\u0027acqua",
-                                                                                   "descriptionRaw":  "Quando indossa l\u0027Abito cerimoniale creato da \u003ccolor=#FFD780FF\u003eAscensione della Nereide\u003c/color\u003e, l\u0027attacco normale finale della combo di Sangonomiya Kokomi rilascerà un pesce che infligge \u003ccolor=#80C0FFFF\u003eDAN da Hydro\u003c/color\u003e pari a un 30% dei suoi PS max.\nQuesti DAN non saranno considerati come DAN da attacco normale.",
-                                                                                   "description":  "Quando indossa l\u0027Abito cerimoniale creato da Ascensione della Nereide, l\u0027attacco normale finale della combo di Sangonomiya Kokomi rilascerà un pesce che infligge DAN da Hydro pari a un 30% dei suoi PS max.\nQuesti DAN non saranno considerati come DAN da attacco normale."
-                                                                               }
-                                                                    },
-                                                 "elementText":  "Hydro",
-                                                 "fullname":  null,
-                                                 "weaponText":  "Catalizzatore",
-                                                 "name":  "Sangonomiya Kokomi",
-                                                 "substatText":  "Bonus DAN da Hydro",
-                                                 "region":  "Inazuma",
-                                                 "gender":  "femmina"
-                                             },
+                       "travelerpyro":  {
+                                            "constellations":  {
+                                                                   "c2":  {
+                                                                              "name":  "Candela perpetua",
+                                                                              "descriptionRaw":  "#Per 12{NON_BREAK_SPACE}s dopo l\u0027uso dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eLama solcafiamme\u003c/color\u003e, dopo che i membri del gruppo hanno innescato una \u003ccolor=#FF9999FF\u003ereazione di Pyro\u003c/color\u003e su un avversario, {F#la viaggiatrice}{M#il viaggiatore} recupera 14 punti Anima della Notte. Ogni utilizzo di \u003ccolor=#FFD780FF\u003eLama solcafiamme\u003c/color\u003e può ripristinare in questo modo fino a un massimo di 28 punti Anima della Notte.",
+                                                                              "description":  "Per 12 s dopo l\u0027uso dell\u0027abilità elementale Lama solcafiamme, dopo che i membri del gruppo hanno innescato una reazione di Pyro su un avversario, il viaggiatore recupera 14 punti Anima della Notte. Ogni utilizzo di Lama solcafiamme può ripristinare in questo modo fino a un massimo di 28 punti Anima della Notte."
+                                                                          },
+                                                                   "c4":  {
+                                                                              "name":  "Fiamma devastante",
+                                                                              "descriptionRaw":  "#Dopo aver usato il Tripudio elementale \u003ccolor=#FFD780FF\u003eIncendio canicolare\u003c/color\u003e, {F#la viaggiatrice}{M#il viaggiatore} ottiene un 20% di \u003ccolor=#FF9999FF\u003ebonus DAN da Pyro\u003c/color\u003e per 9{NON_BREAK_SPACE}s.",
+                                                                              "description":  "Dopo aver usato il Tripudio elementale Incendio canicolare, il viaggiatore ottiene un 20% di bonus DAN da Pyro per 9 s."
+                                                                          },
+                                                                   "c3":  {
+                                                                              "name":  "Testimonianza nel fuoco",
+                                                                              "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eLama solcafiamme\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                              "description":  "Aumenta di 3 il livello di Lama solcafiamme.\nIl livello di potenziamento massimo è 15."
+                                                                          },
+                                                                   "c5":  {
+                                                                              "name":  "Fuoco inestinguibile",
+                                                                              "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eIncendio canicolare\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                              "description":  "Aumenta di 3 il livello di Incendio canicolare.\nIl livello di potenziamento massimo è 15."
+                                                                          },
+                                                                   "c6":  {
+                                                                              "name":  "Fiamma sacra eterna",
+                                                                              "descriptionRaw":  "#Mentre lo stato di Grazia dell\u0027Anima della Notte è attivo, gli attacchi normali, caricati e in picchiata {F#della viaggiatrice}{M#del viaggiatore} subiscono una conversione e infliggono \u003ccolor=#FF9999FF\u003eDAN da Pyro\u003c/color\u003e con attributo Anima della Notte non influenzabili da altre infusioni elementali. Inoltre, i DAN da CRIT di questi attacchi aumentano di un 40%.",
+                                                                              "description":  "Mentre lo stato di Grazia dell\u0027Anima della Notte è attivo, gli attacchi normali, caricati e in picchiata del viaggiatore subiscono una conversione e infliggono DAN da Pyro con attributo Anima della Notte non influenzabili da altre infusioni elementali. Inoltre, i DAN da CRIT di questi attacchi aumentano di un 40%."
+                                                                          },
+                                                                   "c1":  {
+                                                                              "name":  "Flusso della luce stellare",
+                                                                              "descriptionRaw":  "Quando la \u003ccolor=#FFD780FF\u003eSoglia fiammeggiante\u003c/color\u003e o la \u003ccolor=#FFD780FF\u003eSoglia infuocata\u003c/color\u003e è attiva, i DAN inflitti dal personaggio attivo aumentano di un 6%. Se il personaggio è nello stato di Grazia dell\u0027Anima della Notte, tali DAN aumentano di un ulteriore 9%.",
+                                                                              "description":  "Quando la Soglia fiammeggiante o la Soglia infuocata è attiva, i DAN inflitti dal personaggio attivo aumentano di un 6%. Se il personaggio è nello stato di Grazia dell\u0027Anima della Notte, tali DAN aumentano di un ulteriore 9%."
+                                                                          }
+                                                               }
+                                        },
+                       "aether":  {
+                                      "constellations":  null,
+                                      "elementText":  "Nessuna",
+                                      "fullname":  null,
+                                      "weaponText":  "Spada",
+                                      "name":  "Aether",
+                                      "substatText":  "ATT",
+                                      "region":  "",
+                                      "gender":  "maschio"
+                                  },
                        "travelerelectro":  {
                                                "constellations":  {
                                                                       "c2":  {
@@ -5599,16 +5699,88 @@
                                            "region":  "Inazuma",
                                            "gender":  "maschio"
                                        },
-                       "aether":  {
-                                      "constellations":  null,
-                                      "elementText":  "Nessuna",
+                       "lanyan":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "\"Come giada iridescente ondeggiano le vesti da danza\"",
+                                                                        "descriptionRaw":  "#Mentre lo \u003ccolor=#FFD780FF\u003eScudo rondine\u003c/color\u003e è attivo, quando gli attacchi normali del membro attivo del gruppo infliggono DAN, viene ripristinato un 40% dell\u0027assorbimento DAN dello scudo, fino al suo livello di assorbimento massimo originale. Quest\u0027effetto può attivarsi una volta ogni 2{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Mentre lo Scudo rondine è attivo, quando gli attacchi normali del membro attivo del gruppo infliggono DAN, viene ripristinato un 40% dell\u0027assorbimento DAN dello scudo, fino al suo livello di assorbimento massimo originale. Quest\u0027effetto può attivarsi una volta ogni 2 s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "\"Adornate di perle di sangue del dragofalco\"",
+                                                                        "descriptionRaw":  "#Dopo che Lan Yan ha usato il Tripudio elementale \u003ccolor=#FFD780FF\u003eAlba lunare splendente\u003c/color\u003e, la maestria elementale di tutti i membri vicini del gruppo aumenta di 60 punti per 12{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Dopo che Lan Yan ha usato il Tripudio elementale Alba lunare splendente, la maestria elementale di tutti i membri vicini del gruppo aumenta di 60 punti per 12 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "\"Le bianche ali trapassano nuvole e nebbia\"",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eRemiganti danzanti della rondine\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di Remiganti danzanti della rondine.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "\"La felicità dimora nel nostro incontro\"",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eAlba lunare splendente\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di Alba lunare splendente.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "\"Fuggiamo su ali leggiadre, per suonare gli argentei ornamenti\"",
+                                                                        "descriptionRaw":  "Aumenta di 1 le cariche di \u003ccolor=#FFD780FF\u003eRemiganti danzanti della rondine\u003c/color\u003e.",
+                                                                        "description":  "Aumenta di 1 le cariche di Remiganti danzanti della rondine."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "\"Mentre ella passeggia tra le nuvole\"",
+                                                                        "descriptionRaw":  "Dopo aver innescato l\u0027assorbimento elementale del talento passivo Quattro amuleti del sigillo divinatorio, l\u0027attuale iterazione dell\u0027abilità elementale di Lan Yan \u003ccolor=#FFD780FF\u003eRemiganti danzanti della rondine\u003c/color\u003e genera un ulteriore Anello Lunapiumata quando questi vengono lanciati contro gli avversari.\nRichiede il talento passivo Quattro amuleti del sigillo divinatorio.",
+                                                                        "description":  "Dopo aver innescato l\u0027assorbimento elementale del talento passivo Quattro amuleti del sigillo divinatorio, l\u0027attuale iterazione dell\u0027abilità elementale di Lan Yan Remiganti danzanti della rondine genera un ulteriore Anello Lunapiumata quando questi vengono lanciati contro gli avversari.\nRichiede il talento passivo Quattro amuleti del sigillo divinatorio."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anemo",
                                       "fullname":  null,
-                                      "weaponText":  "Spada",
-                                      "name":  "Aether",
+                                      "weaponText":  "Catalizzatore",
+                                      "name":  "Lan Yan",
                                       "substatText":  "ATT",
-                                      "region":  "",
-                                      "gender":  "maschio"
+                                      "region":  "Liyue",
+                                      "gender":  "femmina"
                                   },
+                       "mona":  {
+                                    "constellations":  {
+                                                           "c2":  {
+                                                                      "name":  "Catena lunare",
+                                                                      "descriptionRaw":  "#Dopo che un attacco normale va a segno, c\u0027è un 20% di probabilità che venga effettuato un attacco caricato.\nSi può verificare una sola volta ogni 5{NON_BREAK_SPACE}s.",
+                                                                      "description":  "Dopo che un attacco normale va a segno, c\u0027è un 20% di probabilità che venga effettuato un attacco caricato.\nSi può verificare una sola volta ogni 5 s."
+                                                                  },
+                                                           "c4":  {
+                                                                      "name":  "Profezia dell\u0027oblio",
+                                                                      "descriptionRaw":  "Quando un membro del gruppo attacca un avversario sotto l\u0027effetto di un Presagio, il suo tasso di CRIT aumenta di un 15%.",
+                                                                      "description":  "Quando un membro del gruppo attacca un avversario sotto l\u0027effetto di un Presagio, il suo tasso di CRIT aumenta di un 15%."
+                                                                  },
+                                                           "c3":  {
+                                                                      "name":  "Rotazione costante",
+                                                                      "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eFantasma stellaris\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                      "description":  "Aumenta di 3 il livello di Fantasma stellaris.\nIl livello di potenziamento massimo è 15."
+                                                                  },
+                                                           "c5":  {
+                                                                      "name":  "Beffa del destino",
+                                                                      "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eCondanna riflessa\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                      "description":  "Aumenta di 3 il livello di Condanna riflessa.\nIl livello di potenziamento massimo è 15."
+                                                                  },
+                                                           "c6":  {
+                                                                      "name":  "Retorica delle calamità",
+                                                                      "descriptionRaw":  "#Quando entra in \u003ccolor=#FFD780FF\u003eTorrente illusorio\u003c/color\u003e, Mona ottiene un 60% di aumento dei DAN del suo prossimo attacco caricato per ogni secondo in movimento.\nIn questo modo è possibile ottenere fino a un 180% di bonus DAN. Quest\u0027effetto non dura più di 8{NON_BREAK_SPACE}s.",
+                                                                      "description":  "Quando entra in Torrente illusorio, Mona ottiene un 60% di aumento dei DAN del suo prossimo attacco caricato per ogni secondo in movimento.\nIn questo modo è possibile ottenere fino a un 180% di bonus DAN. Quest\u0027effetto non dura più di 8 s."
+                                                                  },
+                                                           "c1":  {
+                                                                      "name":  "Profezia sommersa",
+                                                                      "descriptionRaw":  "#Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle \u003ccolor=#80C0FFFF\u003ereazioni elementali di Hydro\u003c/color\u003e sono potenziati per 8{NON_BREAK_SPACE}s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%.",
+                                                                      "description":  "Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle reazioni elementali di Hydro sono potenziati per 8 s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%."
+                                                                  }
+                                                       },
+                                    "elementText":  "Hydro",
+                                    "fullname":  null,
+                                    "weaponText":  "Catalizzatore",
+                                    "name":  "Mona",
+                                    "substatText":  "Ricarica di energia",
+                                    "region":  "Mondstadt",
+                                    "gender":  "femmina"
+                                },
                        "barbara":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -6012,47 +6184,47 @@
                                       "region":  "Liyue",
                                       "gender":  "maschio"
                                   },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani darà il meglio di sé!",
-                                                                         "descriptionRaw":  "#Mualani ottiene 2 accumuli di Slancio ondoso di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2{NON_BREAK_SPACE}s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.",
-                                                                         "description":  "Mualani ottiene 2 accumuli di Slancio ondoso di Squalo spaccaonde quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2 s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Gonfiotti per Sharky",
-                                                                         "descriptionRaw":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e aumentano di un 75%.",
-                                                                         "description":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da Squaloscoppio ondapazza aumentano di un 75%."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surfare su mari di gioia",
-                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                         "description":  "Aumenta di 3 il livello di Squalo spaccaonde.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Tavole da surf in promozione!",
-                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                         "description":  "Aumenta di 3 il livello di Squaloscoppio ondapazza.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Spirito del Popolo delle Sorgenti",
-                                                                         "descriptionRaw":  "L\u0027aumento di DAN derivante dalla costellazione \"La placida \u0027Meztli\u0027...\" non è più limitato a un\u0027unica attivazione durante lo stato di Grazia dell\u0027Anima della Notte.",
-                                                                         "description":  "L\u0027aumento di DAN derivante dalla costellazione \"La placida \u0027Meztli\u0027...\" non è più limitato a un\u0027unica attivazione durante lo stato di Grazia dell\u0027Anima della Notte."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "La placida \"Meztli\"...",
-                                                                         "descriptionRaw":  "Dopo aver attivato lo stato di Grazia dell\u0027Anima della Notte, i DAN inflitti dal primo Morso impetuoso di Sharky e dai relativi Missili squalosi aumentano di un 66% dei PS max di Mualani. Questa iterazione di DAN aumentati è soggetta alle medesime regole di riduzione di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e.\nInoltre, quando non è in combattimento, lo stato di Grazia dell\u0027Anima della Notte di Mualani consuma un 30% di Flogisto e di punti Anima della Notte in meno.",
-                                                                         "description":  "Dopo aver attivato lo stato di Grazia dell\u0027Anima della Notte, i DAN inflitti dal primo Morso impetuoso di Sharky e dai relativi Missili squalosi aumentano di un 66% dei PS max di Mualani. Questa iterazione di DAN aumentati è soggetta alle medesime regole di riduzione di Squalo spaccaonde.\nInoltre, quando non è in combattimento, lo stato di Grazia dell\u0027Anima della Notte di Mualani consuma un 30% di Flogisto e di punti Anima della Notte in meno."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalizzatore",
-                                       "name":  "Mualani",
-                                       "substatText":  "Tasso di CRIT",
-                                       "region":  "Natlan",
-                                       "gender":  "femmina"
-                                   },
+                       "beidou":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Sui mari in tempesta, sorge il fulmine",
+                                                                        "descriptionRaw":  "L\u0027arco elettrico di \u003ccolor=#FFD780FF\u003eTempesta tagliente\u003c/color\u003e può rimbalzare su 2 bersagli aggiuntivi.",
+                                                                        "description":  "L\u0027arco elettrico di Tempesta tagliente può rimbalzare su 2 bersagli aggiuntivi."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Vendetta perfetta",
+                                                                        "descriptionRaw":  "#Quando Beidou viene attaccata, i suoi attacchi normali infliggono un 20% di \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e extra per 10{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Quando Beidou viene attaccata, i suoi attacchi normali infliggono un 20% di DAN da Electro extra per 10 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Invocatore della tempesta",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eGovernamaree\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di Governamaree.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Sulle onde cremisi",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eTempesta tagliente\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di Tempesta tagliente.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Fine del male",
+                                                                        "descriptionRaw":  "Finché \u003ccolor=#FFD780FF\u003eTempesta tagliente\u003c/color\u003e è attiva, la \u003ccolor=#FFACFFFF\u003eRES a Electro\u003c/color\u003e degli avversari circostanti si riduce di un 15%.",
+                                                                        "description":  "Finché Tempesta tagliente è attiva, la RES a Electro degli avversari circostanti si riduce di un 15%."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Flagello della Regina dei mari",
+                                                                        "descriptionRaw":  "#Quando si usa \u003ccolor=#FFD780FF\u003eTempesta tagliente\u003c/color\u003e:\n· genera uno scudo che assorbe fino a un 16% dei PS max di Beidou per 15{NON_BREAK_SPACE}s;\n· lo scudo assorbe \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e con un\u0027efficacia superiore di un 250%.",
+                                                                        "description":  "Quando si usa Tempesta tagliente:\n· genera uno scudo che assorbe fino a un 16% dei PS max di Beidou per 15 s;\n· lo scudo assorbe DAN da Electro con un\u0027efficacia superiore di un 250%."
+                                                                    }
+                                                         },
+                                      "elementText":  "Electro",
+                                      "fullname":  null,
+                                      "weaponText":  "Claymore",
+                                      "name":  "Beidou",
+                                      "substatText":  "Bonus DAN da Electro",
+                                      "region":  "Liyue",
+                                      "gender":  "femmina"
+                                  },
                        "nilou":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6553,65 +6725,85 @@
                                                  },
                                           "effectName":  "Implacabilità"
                                       },
-                    "wineandsong":  {
-                                        "r3":  {
-                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 18% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 30% per 5 s.",
-                                                   "values":  [
-                                                                  "18%",
-                                                                  "30%"
-                                                              ]
-                                               },
-                                        "r5":  {
-                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 22% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 40% per 5 s.",
-                                                   "values":  [
-                                                                  "22%",
-                                                                  "40%"
-                                                              ]
-                                               },
-                                        "r2":  {
-                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 16% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 25% per 5 s.",
-                                                   "values":  [
-                                                                  "16%",
-                                                                  "25%"
-                                                              ]
-                                               },
-                                        "r4":  {
-                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 20% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 35% per 5 s.",
-                                                   "values":  [
-                                                                  "20%",
-                                                                  "35%"
-                                                              ]
-                                               },
-                                        "substatText":  "Ricarica di energia",
-                                        "weaponText":  "Catalizzatore",
-                                        "name":  "Vino e musica",
-                                        "effectTemplateRaw":  "#Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 5{NON_BREAK_SPACE}s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 5{NON_BREAK_SPACE}s.",
-                                        "r1":  {
-                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 14% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 20% per 5 s.",
-                                                   "values":  [
-                                                                  "14%",
-                                                                  "20%"
-                                                              ]
-                                               },
-                                        "effectName":  "Mutevolezza"
-                                    },
-                    "prizedisshinblade":  {
-                                              "r3":  null,
-                                              "r5":  null,
-                                              "r2":  null,
-                                              "r4":  null,
-                                              "substatText":  "ATT",
-                                              "weaponText":  "Spada",
-                                              "name":  "Pregiata lama Isshin",
-                                              "effectTemplateRaw":  "#Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT e rigenerando i PS di una quantità pari a un 100% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8{NON_BREAK_SPACE}s. I DAN inflitti da chi brandisce quest\u0027arma aumentano di un 50%.",
-                                              "r1":  {
-                                                         "description":  "Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT e rigenerando i PS di una quantità pari a un 100% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8 s. I DAN inflitti da chi brandisce quest\u0027arma aumentano di un 50%.",
-                                                         "values":  [
-
-                                                                    ]
-                                                     },
-                                              "effectName":  "Lama errante"
-                                          },
+                    "starcallerswatch":  {
+                                             "r3":  {
+                                                        "description":  "Aumenta la maestria elementale di 150. Quando il personaggio che equipaggia l\u0027arma crea uno scudo, ottiene l\u0027effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 42% di DAN aumentati agli avversari vicini. È possibile ottenere l\u0027effetto Specchio della Notte una volta ogni 14 s.",
+                                                        "values":  [
+                                                                       "150",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Aumenta la maestria elementale di 200. Quando il personaggio che equipaggia l\u0027arma crea uno scudo, ottiene l\u0027effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 56% di DAN aumentati agli avversari vicini. È possibile ottenere l\u0027effetto Specchio della Notte una volta ogni 14 s.",
+                                                        "values":  [
+                                                                       "200",
+                                                                       "56%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Aumenta la maestria elementale di 125. Quando il personaggio che equipaggia l\u0027arma crea uno scudo, ottiene l\u0027effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 35% di DAN aumentati agli avversari vicini. È possibile ottenere l\u0027effetto Specchio della Notte una volta ogni 14 s.",
+                                                        "values":  [
+                                                                       "125",
+                                                                       "35%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Aumenta la maestria elementale di 175. Quando il personaggio che equipaggia l\u0027arma crea uno scudo, ottiene l\u0027effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 49% di DAN aumentati agli avversari vicini. È possibile ottenere l\u0027effetto Specchio della Notte una volta ogni 14 s.",
+                                                        "values":  [
+                                                                       "175",
+                                                                       "49%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "Maestria elementale",
+                                             "weaponText":  "Catalizzatore",
+                                             "name":  "Veglia del Chiamastelle",
+                                             "effectTemplateRaw":  "#Aumenta la maestria elementale di \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Quando il personaggio che equipaggia l\u0027arma crea uno scudo, ottiene l\u0027effetto Specchio della Notte per 15{NON_BREAK_SPACE}s: il membro attivo del gruppo infligge un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e di DAN aumentati agli avversari vicini. È possibile ottenere l\u0027effetto Specchio della Notte una volta ogni 14{NON_BREAK_SPACE}s.",
+                                             "r1":  {
+                                                        "description":  "Aumenta la maestria elementale di 100. Quando il personaggio che equipaggia l\u0027arma crea uno scudo, ottiene l\u0027effetto Specchio della Notte per 15 s: il membro attivo del gruppo infligge un 28% di DAN aumentati agli avversari vicini. È possibile ottenere l\u0027effetto Specchio della Notte una volta ogni 14 s.",
+                                                        "values":  [
+                                                                       "100",
+                                                                       "28%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Offerte al vento e al sole"
+                                         },
+                    "recurvebow":  {
+                                       "r3":  {
+                                                  "description":  "Sconfiggere un avversario ripristina un 12% di PS.",
+                                                  "values":  [
+                                                                 "12%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Sconfiggere un avversario ripristina un 16% di PS.",
+                                                  "values":  [
+                                                                 "16%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Sconfiggere un avversario ripristina un 10% di PS.",
+                                                  "values":  [
+                                                                 "10%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Sconfiggere un avversario ripristina un 14% di PS.",
+                                                  "values":  [
+                                                                 "14%"
+                                                             ]
+                                              },
+                                       "substatText":  "PS",
+                                       "weaponText":  "Arco",
+                                       "name":  "Arco ricurvo",
+                                       "effectTemplateRaw":  "Sconfiggere un avversario ripristina un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di PS.",
+                                       "r1":  {
+                                                  "description":  "Sconfiggere un avversario ripristina un 8% di PS.",
+                                                  "values":  [
+                                                                 "8%"
+                                                             ]
+                                              },
+                                       "effectName":  "Mietitura"
+                                   },
                     "eyeofperception":  {
                                             "r3":  {
                                                        "description":  "Gli attacchi normali e caricati hanno un 50% di probabilità di scagliare un Dardo della percezione, infliggendo DAN pari a un 300% dell\u0027ATT. Questo dardo può rimbalzare da un avversario all\u0027altro fino a 4 volte. Si può verificare una volta ogni 10 s.",
@@ -10155,48 +10347,48 @@
                                              },
                                       "effectName":  "Flagello dell\u0027acqua e del ghiaccio"
                                   },
-                    "sacrificialjade":  {
-                                            "r3":  {
-                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 48% e di 60. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
-                                                       "values":  [
-                                                                      "48%",
-                                                                      "60"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 64% e di 80. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
-                                                       "values":  [
-                                                                      "64%",
-                                                                      "80"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 40% e di 50. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
-                                                       "values":  [
-                                                                      "40%",
-                                                                      "50"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 56% e di 70. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
-                                                       "values":  [
-                                                                      "56%",
-                                                                      "70"
-                                                                  ]
-                                                   },
-                                            "substatText":  "Tasso di CRIT",
-                                            "weaponText":  "Catalizzatore",
-                                            "name":  "Giada sacrificale",
-                                            "effectTemplateRaw":  "#Se il personaggio rimane fuori dal campo per più di 5{NON_BREAK_SPACE}s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e di \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Questi effetti si annullano quando il personaggio rimane in campo per più di 10{NON_BREAK_SPACE}s.",
-                                            "r1":  {
-                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 32% e di 40. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
-                                                       "values":  [
-                                                                      "32%",
-                                                                      "40"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Circolazione di giada"
-                                        },
+                    "harangeppakufutsu":  {
+                                              "r3":  {
+                                                         "description":  "Ottieni un 18% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 30% per 8 s.",
+                                                         "values":  [
+                                                                        "18%",
+                                                                        "30%"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Ottieni un 24% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 40% per 8 s.",
+                                                         "values":  [
+                                                                        "24%",
+                                                                        "40%"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Ottieni un 15% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 25% per 8 s.",
+                                                         "values":  [
+                                                                        "15%",
+                                                                        "25%"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Ottieni un 21% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 35% per 8 s.",
+                                                         "values":  [
+                                                                        "21%",
+                                                                        "35%"
+                                                                    ]
+                                                     },
+                                              "substatText":  "Tasso di CRIT",
+                                              "weaponText":  "Spada",
+                                              "name":  "Haran Geppaku Futsu",
+                                              "effectTemplateRaw":  "#Ottieni un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3{NON_BREAK_SPACE}s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 8{NON_BREAK_SPACE}s.",
+                                              "r1":  {
+                                                         "description":  "Ottieni un 12% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 20% per 8 s.",
+                                                         "values":  [
+                                                                        "12%",
+                                                                        "20%"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Flusso affilato"
+                                          },
                     "favoniussword":  {
                                           "r3":  {
                                                      "description":  "I colpi CRIT hanno un 80% di probabilità di generare una piccola quantità di particelle elementali, che rigenerano di 6 l\u0027energia del personaggio. Si può verificare una sola volta ogni 9 s.",
@@ -10276,43 +10468,6 @@
                                                          },
                                                   "effectName":  "Caccia al turchese"
                                               },
-                    "recurvebow":  {
-                                       "r3":  {
-                                                  "description":  "Sconfiggere un avversario ripristina un 12% di PS.",
-                                                  "values":  [
-                                                                 "12%"
-                                                             ]
-                                              },
-                                       "r5":  {
-                                                  "description":  "Sconfiggere un avversario ripristina un 16% di PS.",
-                                                  "values":  [
-                                                                 "16%"
-                                                             ]
-                                              },
-                                       "r2":  {
-                                                  "description":  "Sconfiggere un avversario ripristina un 10% di PS.",
-                                                  "values":  [
-                                                                 "10%"
-                                                             ]
-                                              },
-                                       "r4":  {
-                                                  "description":  "Sconfiggere un avversario ripristina un 14% di PS.",
-                                                  "values":  [
-                                                                 "14%"
-                                                             ]
-                                              },
-                                       "substatText":  "PS",
-                                       "weaponText":  "Arco",
-                                       "name":  "Arco ricurvo",
-                                       "effectTemplateRaw":  "Sconfiggere un avversario ripristina un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di PS.",
-                                       "r1":  {
-                                                  "description":  "Sconfiggere un avversario ripristina un 8% di PS.",
-                                                  "values":  [
-                                                                 "8%"
-                                                             ]
-                                              },
-                                       "effectName":  "Mietitura"
-                                   },
                     "crescentpike":  {
                                          "r3":  {
                                                     "description":  "Dopo aver raccolto una sfera o particella elementale, gli attacchi normali e caricati infliggono DAN extra pari a un 30% dell\u0027ATT per 5 s.",
@@ -10585,9 +10740,9 @@
                                                  "substatText":  "ATT",
                                                  "weaponText":  "Spada",
                                                  "name":  "Pregiata lama Isshin",
-                                                 "effectTemplateRaw":  "#Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT e rigenerando i PS di una quantità pari a un 100% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8{NON_BREAK_SPACE}s. I DAN inflitti da chi brandisce quest\u0027arma aumentano di un 50%.",
+                                                 "effectTemplateRaw":  "#Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT e rigenerando i PS di una quantità pari a un 100% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8{NON_BREAK_SPACE}s. I DAN inflitti da chi brandisce quest\u0027arma diminuiscono di un 50%.",
                                                  "r1":  {
-                                                            "description":  "Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT e rigenerando i PS di una quantità pari a un 100% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8 s. I DAN inflitti da chi brandisce quest\u0027arma aumentano di un 50%.",
+                                                            "description":  "Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT e rigenerando i PS di una quantità pari a un 100% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8 s. I DAN inflitti da chi brandisce quest\u0027arma diminuiscono di un 50%.",
                                                             "values":  [
 
                                                                        ]
@@ -11757,48 +11912,100 @@
                                                     },
                                              "effectName":  "Vittoria a oltranza"
                                          },
-                    "harangeppakufutsu":  {
-                                              "r3":  {
-                                                         "description":  "Ottieni un 18% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 30% per 8 s.",
-                                                         "values":  [
-                                                                        "18%",
-                                                                        "30%"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Ottieni un 24% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 40% per 8 s.",
-                                                         "values":  [
-                                                                        "24%",
-                                                                        "40%"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Ottieni un 15% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 25% per 8 s.",
-                                                         "values":  [
-                                                                        "15%",
-                                                                        "25%"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Ottieni un 21% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 35% per 8 s.",
-                                                         "values":  [
-                                                                        "21%",
-                                                                        "35%"
-                                                                    ]
-                                                     },
-                                              "substatText":  "Tasso di CRIT",
-                                              "weaponText":  "Spada",
-                                              "name":  "Haran Geppaku Futsu",
-                                              "effectTemplateRaw":  "#Ottieni un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3{NON_BREAK_SPACE}s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 8{NON_BREAK_SPACE}s.",
-                                              "r1":  {
-                                                         "description":  "Ottieni un 12% di bonus DAN per tutti gli elementi. Quando gli altri membri del gruppo nelle vicinanze usano abilità elementali, il personaggio che usa quest\u0027arma riceverà 1 accumulo di Ondacuminata. L\u0027effetto è cumulabile fino a 2 volte e può attivarsi una volta ogni 0,3 s. Quando il personaggio equipaggiato con quest\u0027arma usa un\u0027abilità elementale, tutti gli accumuli di Ondacuminata si esauriscono innescando Marasma: ciascun accumulo di Ondacuminata consumato aumenta i DAN da attacco normale di un 20% per 8 s.",
-                                                         "values":  [
-                                                                        "12%",
-                                                                        "20%"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Flusso affilato"
-                                          },
+                    "sacrificialjade":  {
+                                            "r3":  {
+                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 48% e di 60. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+                                                       "values":  [
+                                                                      "48%",
+                                                                      "60"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 64% e di 80. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+                                                       "values":  [
+                                                                      "64%",
+                                                                      "80"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 40% e di 50. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+                                                       "values":  [
+                                                                      "40%",
+                                                                      "50"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 56% e di 70. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+                                                       "values":  [
+                                                                      "56%",
+                                                                      "70"
+                                                                  ]
+                                                   },
+                                            "substatText":  "Tasso di CRIT",
+                                            "weaponText":  "Catalizzatore",
+                                            "name":  "Giada sacrificale",
+                                            "effectTemplateRaw":  "#Se il personaggio rimane fuori dal campo per più di 5{NON_BREAK_SPACE}s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e di \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Questi effetti si annullano quando il personaggio rimane in campo per più di 10{NON_BREAK_SPACE}s.",
+                                            "r1":  {
+                                                       "description":  "Se il personaggio rimane fuori dal campo per più di 5 s, i suoi PS max e la sua maestria elementale aumentano rispettivamente di un 32% e di 40. Questi effetti si annullano quando il personaggio rimane in campo per più di 10 s.",
+                                                       "values":  [
+                                                                      "32%",
+                                                                      "40"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Circolazione di giada"
+                                        },
+                    "peakpatrolsong":  {
+                                           "r3":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 12% e riceve un bonus DAN per tutti gli elementi di un 15% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 12% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 38,4% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "12%",
+                                                                     "15%",
+                                                                     "12%",
+                                                                     "38,4%"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 16% e riceve un bonus DAN per tutti gli elementi di un 20% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 16% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 51,2% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "16%",
+                                                                     "20%",
+                                                                     "16%",
+                                                                     "51,2%"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 10% e riceve un bonus DAN per tutti gli elementi di un 12,5% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 10% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 32% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "10%",
+                                                                     "12,5%",
+                                                                     "10%",
+                                                                     "32%"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 14% e riceve un bonus DAN per tutti gli elementi di un 17,5% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 14% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 44,8% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "14%",
+                                                                     "17,5%",
+                                                                     "14%",
+                                                                     "44,8%"
+                                                                 ]
+                                                  },
+                                           "substatText":  "DIF",
+                                           "weaponText":  "Spada",
+                                           "name":  "Canzone della Pattuglia delle Sommità",
+                                           "effectTemplateRaw":  "#Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e riceve un bonus DAN per tutti gli elementi di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 6{NON_BREAK_SPACE}s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1{NON_BREAK_SPACE}s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e massimo per 15{NON_BREAK_SPACE}s.",
+                                           "r1":  {
+                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 8% e riceve un bonus DAN per tutti gli elementi di un 10% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 8% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 25,6% massimo per 15 s.",
+                                                      "values":  [
+                                                                     "8%",
+                                                                     "10%",
+                                                                     "8%",
+                                                                     "25,6%"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Epoca d\u0027oro infinita"
+                                       },
                     "dullblade":  {
                                       "r3":  null,
                                       "r5":  null,
@@ -13145,58 +13352,23 @@
                                                             },
                                                      "effectName":  "Notturno di Dryas"
                                                  },
-                    "peakpatrolsong":  {
-                                           "r3":  {
-                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 12% e riceve un bonus DAN per tutti gli elementi di un 15% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 12% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 38,4% massimo per 15 s.",
-                                                      "values":  [
-                                                                     "12%",
-                                                                     "15%",
-                                                                     "12%",
-                                                                     "38,4%"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 16% e riceve un bonus DAN per tutti gli elementi di un 20% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 16% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 51,2% massimo per 15 s.",
-                                                      "values":  [
-                                                                     "16%",
-                                                                     "20%",
-                                                                     "16%",
-                                                                     "51,2%"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 10% e riceve un bonus DAN per tutti gli elementi di un 12,5% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 10% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 32% massimo per 15 s.",
-                                                      "values":  [
-                                                                     "10%",
-                                                                     "12,5%",
-                                                                     "10%",
-                                                                     "32%"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 14% e riceve un bonus DAN per tutti gli elementi di un 17,5% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 14% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 44,8% massimo per 15 s.",
-                                                      "values":  [
-                                                                     "14%",
-                                                                     "17,5%",
-                                                                     "14%",
-                                                                     "44,8%"
-                                                                 ]
-                                                  },
-                                           "substatText":  "DIF",
-                                           "weaponText":  "Spada",
-                                           "name":  "Canzone della Pattuglia delle Sommità",
-                                           "effectTemplateRaw":  "#Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e riceve un bonus DAN per tutti gli elementi di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 6{NON_BREAK_SPACE}s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1{NON_BREAK_SPACE}s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e massimo per 15{NON_BREAK_SPACE}s.",
-                                           "r1":  {
-                                                      "description":  "Quando il personaggio colpisce un avversario con attacchi normali o in picchiata, ottiene l\u0027effetto \"Ode ai fiori\": la sua DIF aumenta di un 8% e riceve un bonus DAN per tutti gli elementi di un 10% per 6 s. L\u0027effetto è cumulabile 2 volte e può attivarsi ogni 0,1 s. Quando l\u0027effetto raggiunge i 2 accumuli o la durata del secondo accumulo si ripristina, il bonus DAN per tutti gli elementi di tutti i membri del gruppo vicini aumenta di un 8% per ogni 1.000 di DIF del personaggio che equipaggia l\u0027arma, fino a un 25,6% massimo per 15 s.",
-                                                      "values":  [
-                                                                     "8%",
-                                                                     "10%",
-                                                                     "8%",
-                                                                     "25,6%"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Epoca d\u0027oro infinita"
-                                       },
+                    "prizedisshinblade":  {
+                                              "r3":  null,
+                                              "r5":  null,
+                                              "r2":  null,
+                                              "r4":  null,
+                                              "substatText":  "ATT",
+                                              "weaponText":  "Spada",
+                                              "name":  "Pregiata lama Isshin",
+                                              "effectTemplateRaw":  "#Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT e rigenerando i PS di una quantità pari a un 100% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8{NON_BREAK_SPACE}s. I DAN inflitti da chi brandisce quest\u0027arma diminuiscono di un 50%.",
+                                              "r1":  {
+                                                         "description":  "Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT e rigenerando i PS di una quantità pari a un 100% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8 s. I DAN inflitti da chi brandisce quest\u0027arma diminuiscono di un 50%.",
+                                                         "values":  [
+
+                                                                    ]
+                                                     },
+                                              "effectName":  "Lama errante"
+                                          },
                     "ultimateoverlordsmegamagicsword":  {
                                                             "r3":  {
                                                                        "description":  "L\u0027ATT aumenta di un 18%. E non finisce qui! Tutte le Melusine che hai aiutato al Villaggio di Merusea ti daranno la loro forza! In base al loro numero, l\u0027ATT riceve un bonus ulteriore, fino a un 18% massimo.",
@@ -13239,6 +13411,48 @@
                                                                    },
                                                             "effectName":  "Assistenza Melusina!"
                                                         },
+                    "wineandsong":  {
+                                        "r3":  {
+                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 18% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 30% per 5 s.",
+                                                   "values":  [
+                                                                  "18%",
+                                                                  "30%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 22% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 40% per 5 s.",
+                                                   "values":  [
+                                                                  "22%",
+                                                                  "40%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 16% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 25% per 5 s.",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "25%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 20% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 35% per 5 s.",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "35%"
+                                                              ]
+                                               },
+                                        "substatText":  "Ricarica di energia",
+                                        "weaponText":  "Catalizzatore",
+                                        "name":  "Vino e musica",
+                                        "effectTemplateRaw":  "#Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 5{NON_BREAK_SPACE}s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 5{NON_BREAK_SPACE}s.",
+                                        "r1":  {
+                                                   "description":  "Colpire un avversario con attacchi normali riduce il consumo di vigore dello Scatto normale o alternativo di un 14% per 5 s. Inoltre, usare uno Scatto normale o alternativo aumenta l\u0027ATT di un 20% per 5 s.",
+                                                   "values":  [
+                                                                  "14%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "effectName":  "Mutevolezza"
+                                    },
                     "forestregalia":  {
                                           "r3":  {
                                                      "description":  "Dopo aver innescato Ustione, Vivificazione, Accentuazione, Propagazione, Fioritura, Iperfioritura o Germinazione, verrà creata una Foglia di coscienza attorno al personaggio per un massimo di 10 s. Quando raccolta, la Foglia conferirà al personaggio 90 di maestria elementale per 12 s. È possibile generare una sola Foglia in questo modo ogni 20 s. Quest\u0027effetto può essere attivato anche se il personaggio non è sul campo. L\u0027effetto della Foglia di coscienza non è cumulabile.",
@@ -13666,6 +13880,48 @@
                                                 },
                                          "effectName":  "Lingua sciolta"
                                      },
+                    "athousandblazingsuns":  {
+                                                 "r3":  {
+                                                            "description":  "Usare un\u0027abilità elementale o un Tripudio elementale conferisce l\u0027effetto Fulgore ardente, che aumenta i DAN da CRIT e l\u0027ATT rispettivamente di un 30% e di un 42% per 6 s. Quest\u0027effetto può attivarsi una volta ogni 10 s.\nQuando un\u0027iterazione di Fulgore ardente è attiva, infliggere DAN elementali con gli attacchi normali o caricati ne aumenta la durata di 2 s. L\u0027effetto può attivarsi una volta ogni 1 s, per un\u0027estensione massima di 6 s.\nInoltre, quando il personaggio che equipaggia l\u0027arma è in stato di Grazia dell\u0027Anima della Notte, gli effetti di Fulgore ardente aumentano di un 75%, e la sua durata non diminuisce quando il personaggio non è in campo.",
+                                                            "values":  [
+                                                                           "30%",
+                                                                           "42%"
+                                                                       ]
+                                                        },
+                                                 "r5":  {
+                                                            "description":  "Usare un\u0027abilità elementale o un Tripudio elementale conferisce l\u0027effetto Fulgore ardente, che aumenta i DAN da CRIT e l\u0027ATT rispettivamente di un 40% e di un 56% per 6 s. Quest\u0027effetto può attivarsi una volta ogni 10 s.\nQuando un\u0027iterazione di Fulgore ardente è attiva, infliggere DAN elementali con gli attacchi normali o caricati ne aumenta la durata di 2 s. L\u0027effetto può attivarsi una volta ogni 1 s, per un\u0027estensione massima di 6 s.\nInoltre, quando il personaggio che equipaggia l\u0027arma è in stato di Grazia dell\u0027Anima della Notte, gli effetti di Fulgore ardente aumentano di un 75%, e la sua durata non diminuisce quando il personaggio non è in campo.",
+                                                            "values":  [
+                                                                           "40%",
+                                                                           "56%"
+                                                                       ]
+                                                        },
+                                                 "r2":  {
+                                                            "description":  "Usare un\u0027abilità elementale o un Tripudio elementale conferisce l\u0027effetto Fulgore ardente, che aumenta i DAN da CRIT e l\u0027ATT rispettivamente di un 25% e di un 35% per 6 s. Quest\u0027effetto può attivarsi una volta ogni 10 s.\nQuando un\u0027iterazione di Fulgore ardente è attiva, infliggere DAN elementali con gli attacchi normali o caricati ne aumenta la durata di 2 s. L\u0027effetto può attivarsi una volta ogni 1 s, per un\u0027estensione massima di 6 s.\nInoltre, quando il personaggio che equipaggia l\u0027arma è in stato di Grazia dell\u0027Anima della Notte, gli effetti di Fulgore ardente aumentano di un 75%, e la sua durata non diminuisce quando il personaggio non è in campo.",
+                                                            "values":  [
+                                                                           "25%",
+                                                                           "35%"
+                                                                       ]
+                                                        },
+                                                 "r4":  {
+                                                            "description":  "Usare un\u0027abilità elementale o un Tripudio elementale conferisce l\u0027effetto Fulgore ardente, che aumenta i DAN da CRIT e l\u0027ATT rispettivamente di un 35% e di un 49% per 6 s. Quest\u0027effetto può attivarsi una volta ogni 10 s.\nQuando un\u0027iterazione di Fulgore ardente è attiva, infliggere DAN elementali con gli attacchi normali o caricati ne aumenta la durata di 2 s. L\u0027effetto può attivarsi una volta ogni 1 s, per un\u0027estensione massima di 6 s.\nInoltre, quando il personaggio che equipaggia l\u0027arma è in stato di Grazia dell\u0027Anima della Notte, gli effetti di Fulgore ardente aumentano di un 75%, e la sua durata non diminuisce quando il personaggio non è in campo.",
+                                                            "values":  [
+                                                                           "35%",
+                                                                           "49%"
+                                                                       ]
+                                                        },
+                                                 "substatText":  "Tasso di CRIT",
+                                                 "weaponText":  "Claymore",
+                                                 "name":  "Mille soli ardenti",
+                                                 "effectTemplateRaw":  "#Usare un\u0027abilità elementale o un Tripudio elementale conferisce l\u0027effetto Fulgore ardente, che aumenta i DAN da CRIT e l\u0027ATT rispettivamente di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 6{NON_BREAK_SPACE}s. Quest\u0027effetto può attivarsi una volta ogni 10{NON_BREAK_SPACE}s.\nQuando un\u0027iterazione di Fulgore ardente è attiva, infliggere DAN elementali con gli attacchi normali o caricati ne aumenta la durata di 2{NON_BREAK_SPACE}s. L\u0027effetto può attivarsi una volta ogni 1{NON_BREAK_SPACE}s, per un\u0027estensione massima di 6{NON_BREAK_SPACE}s.\nInoltre, quando il personaggio che equipaggia l\u0027arma è in stato di Grazia dell\u0027Anima della Notte, gli effetti di Fulgore ardente aumentano di un 75%, e la sua durata non diminuisce quando il personaggio non è in campo.",
+                                                 "r1":  {
+                                                            "description":  "Usare un\u0027abilità elementale o un Tripudio elementale conferisce l\u0027effetto Fulgore ardente, che aumenta i DAN da CRIT e l\u0027ATT rispettivamente di un 20% e di un 28% per 6 s. Quest\u0027effetto può attivarsi una volta ogni 10 s.\nQuando un\u0027iterazione di Fulgore ardente è attiva, infliggere DAN elementali con gli attacchi normali o caricati ne aumenta la durata di 2 s. L\u0027effetto può attivarsi una volta ogni 1 s, per un\u0027estensione massima di 6 s.\nInoltre, quando il personaggio che equipaggia l\u0027arma è in stato di Grazia dell\u0027Anima della Notte, gli effetti di Fulgore ardente aumentano di un 75%, e la sua durata non diminuisce quando il personaggio non è in campo.",
+                                                            "values":  [
+                                                                           "20%",
+                                                                           "28%"
+                                                                       ]
+                                                        },
+                                                 "effectName":  "Il tramonto riaccende l\u0027alba"
+                                             },
                     "balladoftheboundlessblue":  {
                                                      "r3":  {
                                                                 "description":  "Entro 6 s dopo aver colpito un avversario con un attacco normale o caricato, i DAN da attacco normale e caricato aumentano rispettivamente di un 12% e di un 9%. Massimo 3 accumuli. Quest\u0027effetto può attivarsi una volta ogni 0,3 s.",
@@ -14047,9 +14303,9 @@
                                                  "substatText":  "ATT",
                                                  "weaponText":  "Spada",
                                                  "name":  "Pregiata lama Isshin",
-                                                 "effectTemplateRaw":  "#Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8{NON_BREAK_SPACE}s. I DAN inflitti da chi brandisce quest\u0027arma aumentano di un 50%.",
+                                                 "effectTemplateRaw":  "#Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8{NON_BREAK_SPACE}s. I DAN inflitti da chi brandisce quest\u0027arma diminuiscono di un 50%.",
                                                  "r1":  {
-                                                            "description":  "Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8 s. I DAN inflitti da chi brandisce quest\u0027arma aumentano di un 50%.",
+                                                            "description":  "Quando un attacco normale, caricato o in picchiata colpisce un avversario, rilascia uno Spirito maledetto, infliggendo DAN ad area pari a un 180% dell\u0027ATT. Quest\u0027effetto può attivarsi una volta ogni 8 s. I DAN inflitti da chi brandisce quest\u0027arma diminuiscono di un 50%.",
                                                             "values":  [
 
                                                                        ]
@@ -14546,6 +14802,10 @@
                                            "name":  "Cucciolo di Yumkasauro",
                                            "specialname":  null
                                        },
+                    "lordoferodedprimalfire":  {
+                                                   "name":  "Signore della Fiamma primordiale erosa",
+                                                   "specialname":  null
+                                               },
                     "largedendroslime":  {
                                              "name":  "Melmoso di Dendro gigante",
                                              "specialname":  null
@@ -14970,6 +15230,10 @@
                                                     "name":  "Il prodigo Shouki no Kami",
                                                     "specialname":  null
                                                 },
+                    "waywardhermeticspiritspeaker":  {
+                                                         "name":  "Eccentrica seclusa Cercaspiriti",
+                                                         "specialname":  null
+                                                     },
                     "wingedwarriorskymaster":  {
                                                    "name":  "Guerriero alato: Padrone dei cieli",
                                                    "specialname":  null
