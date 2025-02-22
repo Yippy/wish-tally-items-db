@@ -323,6 +323,9 @@
                       "transoceanicchunk":  {
                                                 "name":  "Transozeanischer Brocken"
                                             },
+                      "trishiraite":  {
+                                          "name":  "Trishirait"
+                                      },
                       "slimeconcentrate":  {
                                                "name":  "Schleimkonzentrat"
                                            },
@@ -443,9 +446,9 @@
                       "grainfruit":  {
                                          "name":  "Kornfrucht"
                                      },
-                      "trishiraite":  {
-                                          "name":  "Trishirait"
-                                      },
+                      "pyrosigil":  {
+                                        "name":  "Pyro-Siegel"
+                                    },
                       "leylinesprout":  {
                                             "name":  "Frische Triebe des Flusses der Elemente"
                                         },
@@ -1928,9 +1931,6 @@
                       "sweetflower":  {
                                           "name":  "Zuckerblume"
                                       },
-                      "pyrosigil":  {
-                                        "name":  "Pyro-Siegel"
-                                    },
                       "blessingofthewelkinmoonnewmoon":  {
                                                              "name":  "Mondsegen – Neumond"
                                                          },
@@ -1979,6 +1979,9 @@
                       "philosophiesofprosperity":  {
                                                        "name":  "Philosophie des „Wohlstands“"
                                                    },
+                      "smolderingphosphorescentflame":  {
+                                                            "name":  "Schwelende phosphoreszierende Flamme"
+                                                        },
                       "windwheelastersaroma":  {
                                                    "name":  "Duft der Windmühlenaster"
                                                },
@@ -3162,6 +3165,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Weiblich"
                                 },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Begegnung mit dir in meinen Träumen",
+                                                                                  "descriptionRaw":  "#Erhöht im Zustand Träumerisches Treiben den \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e-, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e-, \u003ccolor=#99FFFFFF\u003eKryo\u003c/color\u003e- und \u003ccolor=#FFACFFFF\u003eElektro\u003c/color\u003e-Schaden aller anderen Truppenmitglieder in der Nähe für jeden Punkt Elementarkunde von Yumemizuki Mizuki um 0,04{NON_BREAK_SPACE}%, hält bis zum Ende des Zustands Träumerisches Treiben.",
+                                                                                  "description":  "Erhöht im Zustand Träumerisches Treiben den Pyro-, Hydro-, Kryo- und Elektro-Schaden aller anderen Truppenmitglieder in der Nähe für jeden Punkt Elementarkunde von Yumemizuki Mizuki um 0,04 %, hält bis zum Ende des Zustands Träumerisches Treiben."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Im warmen Quellwasser treibende Blüten",
+                                                                                  "descriptionRaw":  "#Verursacht beim Aufsammeln von \u003ccolor=#FFD780FF\u003eSnacks nach Yumemi-Art\u003c/color\u003e der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eAnraku-Therapie in den geheimen Quellen\u003c/color\u003e Schaden und heilt gleichzeitig, stellt Yumemizuki Mizuki außerdem 5{NON_BREAK_SPACE}Punkte Elementarenergie wieder her, während einer Anwendung von \u003ccolor=#FFD780FF\u003eAnraku-Therapie in den geheimen Quellen\u003c/color\u003e aber höchstens 4-mal.",
+                                                                                  "description":  "Verursacht beim Aufsammeln von Snacks nach Yumemi-Art der Spezialfähigkeit Anraku-Therapie in den geheimen Quellen Schaden und heilt gleichzeitig, stellt Yumemizuki Mizuki außerdem 5 Punkte Elementarenergie wieder her, während einer Anwendung von Anraku-Therapie in den geheimen Quellen aber höchstens 4-mal."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Mondenschein am Ende der Nacht",
+                                                                                  "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eWallfahrt nach Aisa Utamakura\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                                  "description":  "Erhöht die Stufe der Elementarfähigkeit Wallfahrt nach Aisa Utamakura um 3.\nHöchststufe 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "Rückkehr des Mondes am Jahresende",
+                                                                                  "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eAnraku-Therapie in den geheimen Quellen\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                                  "description":  "Erhöht die Stufe der Spezialfähigkeit Anraku-Therapie in den geheimen Quellen um 3.\nHöchststufe 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "Sehnsucht tief in meinem Herzen",
+                                                                                  "descriptionRaw":  "#Wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben ist, können beim Verursachen der Reaktion Verwirbelung durch Truppenmitglieder in der Nähe Kritische Treffer des entsprechenden Schadens ausgelöst werden, wobei die KT auf 30{NON_BREAK_SPACE}% und der KSCH auf 100{NON_BREAK_SPACE}% festgelegt sind.",
+                                                                                  "description":  "Wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben ist, können beim Verursachen der Reaktion Verwirbelung durch Truppenmitglieder in der Nähe Kritische Treffer des entsprechenden Schadens ausgelöst werden, wobei die KT auf 30 % und der KSCH auf 100 % festgelegt sind."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Fernen Wassern gleicher Nebel in der Nacht",
+                                                                                  "descriptionRaw":  "#Yumemizuki Mizuki fügt im Zustand Träumerisches Treiben alle 3,5{NON_BREAK_SPACE}s Gegnern in der Nähe den 3{NON_BREAK_SPACE}s haltenden Effekt „Dreiundzwanzig Nächte des Wartens“ zu. Entfernt diesen Effekt von Gegnern, sobald diese von einer Reaktion Verwirbelung erfasst werden, die durch Anemo-Schaden entsteht, und erhöht den diesen Gegnern durch diese Reaktion zugefügten Schaden einmalig um 1.100{NON_BREAK_SPACE}% von Yumemizuki Mizukis Elementarkunde.",
+                                                                                  "description":  "Yumemizuki Mizuki fügt im Zustand Träumerisches Treiben alle 3,5 s Gegnern in der Nähe den 3 s haltenden Effekt „Dreiundzwanzig Nächte des Wartens“ zu. Entfernt diesen Effekt von Gegnern, sobald diese von einer Reaktion Verwirbelung erfasst werden, die durch Anemo-Schaden entsteht, und erhöht den diesen Gegnern durch diese Reaktion zugefügten Schaden einmalig um 1.100 % von Yumemizuki Mizukis Elementarkunde."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Katalysator",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Elementarkunde",
+                                                "region":  "Inazuma",
+                                                "gender":  "Weiblich"
+                                            },
                        "candace":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -9558,6 +9602,43 @@
                                                    },
                                             "effectName":  "Geflüster der Dschinn"
                                         },
+                    "tamayurateinoohanashi":  {
+                                                  "r3":  {
+                                                             "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 30 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+                                                             "values":  [
+                                                                            "30{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 40 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+                                                             "values":  [
+                                                                            "40{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 25 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+                                                             "values":  [
+                                                                            "25{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 35 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+                                                             "values":  [
+                                                                            "35{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Aufladerate",
+                                                  "weaponText":  "Stangenwaffe",
+                                                  "name":  "Tamayuratei no Ohanashi",
+                                                  "effectTemplateRaw":  "#Erhöht beim Auslösen der Elementarfähigkeit den ANG um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e und die Bewegungs-GSW um 10{NON_BREAK_SPACE}%, hält 10{NON_BREAK_SPACE}s.",
+                                                  "r1":  {
+                                                             "description":  "Erhöht beim Auslösen der Elementarfähigkeit den ANG um 20 % und die Bewegungs-GSW um 10 %, hält 10 s.",
+                                                             "values":  [
+                                                                            "20{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Grünes Licht für Vielbeschäftigte"
+                                              },
                     "slingshot":  {
                                       "r3":  {
                                                  "description":  "Erhöht den Schaden beim Treffen von Gegnern mit Pfeilen von Standardangriffen und heftigen Schlägen innerhalb von 0,3 s nach dem Abschießen eines Pfeils um 48 %, verringert den verursachten Schaden ansonsten jedoch um 10 %.",
@@ -12553,6 +12634,53 @@
                                                                       ]
                                                        },
                                                 "effectName":  "Reise"
+                                            },
+                    "sunnymorningsleepin":  {
+                                                "r3":  {
+                                                           "description":  "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um 180 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 144 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 48 Punkte.",
+                                                           "values":  [
+                                                                          "180",
+                                                                          "144",
+                                                                          "48"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um 240 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 192 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 64 Punkte.",
+                                                           "values":  [
+                                                                          "240",
+                                                                          "192",
+                                                                          "64"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um 150 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 120 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 40 Punkte.",
+                                                           "values":  [
+                                                                          "150",
+                                                                          "120",
+                                                                          "40"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um 210 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 168 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 56 Punkte.",
+                                                           "values":  [
+                                                                          "210",
+                                                                          "168",
+                                                                          "56"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Elementarkunde",
+                                                "weaponText":  "Katalysator",
+                                                "name":  "Frühjahrsschlaf",
+                                                "effectTemplateRaw":  "#Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e Punkte.",
+                                                "r1":  {
+                                                           "description":  "Erhöht die Elementarkunde nach Auslösen der Reaktion Verwirbelung 6 s lang um 120 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Elementarfähigkeiten 9 s lang um 96 Punkte. Erhöht die Elementarkunde nach Treffen von Gegnern mit Spezialfähigkeiten 30 s lang um 32 Punkte.",
+                                                           "values":  [
+                                                                          "120",
+                                                                          "96",
+                                                                          "32"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Badehäuser, Falken und Narukami"
                                             },
                     "prototypecrescent":  {
                                               "r3":  {

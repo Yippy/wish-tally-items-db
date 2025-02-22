@@ -323,6 +323,9 @@
                       "transoceanicchunk":  {
                                                 "name":  "Transoceanic Chunk"
                                             },
+                      "trishiraite":  {
+                                          "name":  "Trishiraite"
+                                      },
                       "slimeconcentrate":  {
                                                "name":  "Slime Concentrate"
                                            },
@@ -443,9 +446,9 @@
                       "grainfruit":  {
                                          "name":  "Grainfruit"
                                      },
-                      "trishiraite":  {
-                                          "name":  "Trishiraite"
-                                      },
+                      "pyrosigil":  {
+                                        "name":  "Pyro Sigil"
+                                    },
                       "leylinesprout":  {
                                             "name":  "Ley Lines Sprouts"
                                         },
@@ -1928,9 +1931,6 @@
                       "sweetflower":  {
                                           "name":  "Sweet Flower"
                                       },
-                      "pyrosigil":  {
-                                        "name":  "Pyro Sigil"
-                                    },
                       "blessingofthewelkinmoonnewmoon":  {
                                                              "name":  "Blessing of the Welkin Moon - New Moon"
                                                          },
@@ -1979,6 +1979,9 @@
                       "philosophiesofprosperity":  {
                                                        "name":  "Philosophies of Prosperity"
                                                    },
+                      "smolderingphosphorescentflame":  {
+                                                            "name":  "Smoldering Phosphorescent Flame"
+                                                        },
                       "windwheelastersaroma":  {
                                                    "name":  "Aroma Windwheel Aster"
                                                },
@@ -3162,6 +3165,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Perempuan"
                                 },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Your Echo I Meet in Dreams",
+                                                                                  "descriptionRaw":  "Saat memasuki status Dreamdrifter, setiap poin Elemental Mastery Yumemizuki Mizuki akan memberikan 0,04% \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, dan \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e DMG Bonus terhadap seluruh Karakter lain dalam party yang ada di sekitar dan berlangsung hingga status Dreamdrifter berakhir.",
+                                                                                  "description":  "Saat memasuki status Dreamdrifter, setiap poin Elemental Mastery Yumemizuki Mizuki akan memberikan 0,04% Pyro, Hydro, Cryo, dan Electro DMG Bonus terhadap seluruh Karakter lain dalam party yang ada di sekitar dan berlangsung hingga status Dreamdrifter berakhir."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Buds Warm Lucid Springs",
+                                                                                  "descriptionRaw":  "Saat mengambil \u003ccolor=#FFD780FF\u003eYumemi Style Special Snacks\u003c/color\u003e dari Elemental Burst \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e, Snack ini akan mengakibatkan DMG dan memulihkan HP di waktu yang bersamaan, juga memulihkan 5 poin Energy untuk Yumemizuki Mizuki. Dalam satu durasi\u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e, maksimum 4 kali pemulihan Energy yang bisa diperoleh dengan cara ini.",
+                                                                                  "description":  "Saat mengambil Yumemi Style Special Snacks dari Elemental Burst Anraku Secret Spring Therapy, Snack ini akan mengakibatkan DMG dan memulihkan HP di waktu yang bersamaan, juga memulihkan 5 poin Energy untuk Yumemizuki Mizuki. Dalam satu durasiAnraku Secret Spring Therapy, maksimum 4 kali pemulihan Energy yang bisa diperoleh dengan cara ini."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Till Dawn\u0027s Moon Ends Night",
+                                                                                  "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003eAisa Utamakura Pilgrimage\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                                  "description":  "Meningkatkan 3 level Elemental Skill Aisa Utamakura Pilgrimage.\nMaksimum: Lv. 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "As Setting Moon Brings Year\u0027s End",
+                                                                                  "descriptionRaw":  "Meningkatkan 3 level Elemental Burst \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                                  "description":  "Meningkatkan 3 level Elemental Burst Anraku Secret Spring Therapy.\nMaksimum: Lv. 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "The Heart Lingers Long",
+                                                                                  "descriptionRaw":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, DMG reaksi Swirl yang dipicu oleh anggota party di sekitar dapat mengakibatkan CRIT, dengan nilai CRIT Rate tetap sebesar 30% dan CRIT DMG tetap sebesar 100%.",
+                                                                                  "description":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, DMG reaksi Swirl yang dipicu oleh anggota party di sekitar dapat mengakibatkan CRIT, dengan nilai CRIT Rate tetap sebesar 30% dan CRIT DMG tetap sebesar 100%."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "In Mist-Like Waters",
+                                                                                  "descriptionRaw":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, ia akan memberikan efek \"Twenty-Three Nights\u0027 Awaiting\" pada musuh di sekitar setiap 3,5 detik dan bertahan selama 3 detik. Saat musuh yang berada dalam status \"Twenty-Three Nights\u0027 Awaiting\" terkena Anemo DMG dan memicu reaksi Swirl, maka efek ini terhapus dan membuat DMG reaksi Swirl pada musuh yang bersangkutan kali ini meningkat sebesar 1.100% dari Elemental Mastery Yumemizuki Mizuki.",
+                                                                                  "description":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, ia akan memberikan efek \"Twenty-Three Nights\u0027 Awaiting\" pada musuh di sekitar setiap 3,5 detik dan bertahan selama 3 detik. Saat musuh yang berada dalam status \"Twenty-Three Nights\u0027 Awaiting\" terkena Anemo DMG dan memicu reaksi Swirl, maka efek ini terhapus dan membuat DMG reaksi Swirl pada musuh yang bersangkutan kali ini meningkat sebesar 1.100% dari Elemental Mastery Yumemizuki Mizuki."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalyst",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Elemental Mastery",
+                                                "region":  "Inazuma",
+                                                "gender":  "Perempuan"
+                                            },
                        "candace":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -9558,6 +9602,43 @@
                                                    },
                                             "effectName":  "Jinni\u0027s Whisper"
                                         },
+                    "tamayurateinoohanashi":  {
+                                                  "r3":  {
+                                                             "description":  "Saat melancarkan Elemental Skill, meningkatkan 30% ATK dan 10% Movement SPD selama 10 detik.",
+                                                             "values":  [
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Saat melancarkan Elemental Skill, meningkatkan 40% ATK dan 10% Movement SPD selama 10 detik.",
+                                                             "values":  [
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Saat melancarkan Elemental Skill, meningkatkan 25% ATK dan 10% Movement SPD selama 10 detik.",
+                                                             "values":  [
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Saat melancarkan Elemental Skill, meningkatkan 35% ATK dan 10% Movement SPD selama 10 detik.",
+                                                             "values":  [
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Energy Recharge",
+                                                  "weaponText":  "Polearm",
+                                                  "name":  "Tamayuratei no Ohanashi",
+                                                  "effectTemplateRaw":  "Saat melancarkan Elemental Skill, meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ATK dan 10% Movement SPD selama 10 detik.",
+                                                  "r1":  {
+                                                             "description":  "Saat melancarkan Elemental Skill, meningkatkan 20% ATK dan 10% Movement SPD selama 10 detik.",
+                                                             "values":  [
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Busybody\u0027s Running Light"
+                                              },
                     "slingshot":  {
                                       "r3":  {
                                                  "description":  "Jika Normal atau Charged Attack mengenai target dalam waktu 0,3 detik setelah dilancarkan, DMG meningkat sebesar 48%. Sebaliknya jika tidak, maka DMG menurun sebesar 10%.",
@@ -12553,6 +12634,53 @@
                                                                       ]
                                                        },
                                                 "effectName":  "Journey"
+                                            },
+                    "sunnymorningsleepin":  {
+                                                "r3":  {
+                                                           "description":  "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat 180 poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 144 poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 48 poin.",
+                                                           "values":  [
+                                                                          "180",
+                                                                          "144",
+                                                                          "48"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat 240 poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 192 poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 64 poin.",
+                                                           "values":  [
+                                                                          "240",
+                                                                          "192",
+                                                                          "64"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat 150 poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 120 poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 40 poin.",
+                                                           "values":  [
+                                                                          "150",
+                                                                          "120",
+                                                                          "40"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat 210 poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 168 poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 56 poin.",
+                                                           "values":  [
+                                                                          "210",
+                                                                          "168",
+                                                                          "56"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Elemental Mastery",
+                                                "weaponText":  "Catalyst",
+                                                "name":  "Sunny Morning Sleep-In",
+                                                "effectTemplateRaw":  "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e poin.",
+                                                "r1":  {
+                                                           "description":  "Dalam 6 detik setelah memicu reaksi Swirl, Elemental Mastery meningkat 120 poin. Dalam 9 detik setelah Elemental Skill mengenai musuh, Elemental Mastery meningkat 96 poin. Dalam 30 detik setelah Elemental Burst mengenai musuh, Elemental Mastery meningkat 32 poin.",
+                                                           "values":  [
+                                                                          "120",
+                                                                          "96",
+                                                                          "32"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Bathhouses, Hawks, and Narukami"
                                             },
                     "prototypecrescent":  {
                                               "r3":  {

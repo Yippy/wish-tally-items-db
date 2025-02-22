@@ -323,6 +323,9 @@
                       "transoceanicchunk":  {
                                                 "name":  "異海之塊"
                                             },
+                      "trishiraite":  {
+                                          "name":  "萬相石"
+                                      },
                       "slimeconcentrate":  {
                                                "name":  "史萊姆原漿"
                                            },
@@ -443,9 +446,9 @@
                       "grainfruit":  {
                                          "name":  "顆粒果"
                                      },
-                      "trishiraite":  {
-                                          "name":  "萬相石"
-                                      },
+                      "pyrosigil":  {
+                                        "name":  "火之印"
+                                    },
                       "leylinesprout":  {
                                             "name":  "地脈的新芽"
                                         },
@@ -1928,9 +1931,6 @@
                       "sweetflower":  {
                                           "name":  "甜甜花"
                                       },
-                      "pyrosigil":  {
-                                        "name":  "火之印"
-                                    },
                       "blessingofthewelkinmoonnewmoon":  {
                                                              "name":  "空月祝福·新月"
                                                          },
@@ -1979,6 +1979,9 @@
                       "philosophiesofprosperity":  {
                                                        "name":  "「繁榮」的哲學"
                                                    },
+                      "smolderingphosphorescentflame":  {
+                                                            "name":  "灼幽的磷焰"
+                                                        },
                       "windwheelastersaroma":  {
                                                    "name":  "風車菊的氣息"
                                                },
@@ -3162,6 +3165,47 @@
                                     "region":  "蒙德",
                                     "gender":  "女"
                                 },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "纏憶君影夢相見",
+                                                                                  "descriptionRaw":  "進入夢浮狀態時，夢見月瑞希的每點元素精通，會為附近的隊伍中所有其他角色提供0.04%\u003ccolor=#FF9999FF\u003e火元素\u003c/color\u003e、\u003ccolor=#80C0FFFF\u003e水元素\u003c/color\u003e、\u003ccolor=#99FFFFFF\u003e冰元素\u003c/color\u003e與\u003ccolor=#FFACFFFF\u003e雷元素\u003c/color\u003e傷害加成，效果持續至夢浮狀態結束。",
+                                                                                  "description":  "進入夢浮狀態時，夢見月瑞希的每點元素精通，會為附近的隊伍中所有其他角色提供0.04%火元素、水元素、冰元素與雷元素傷害加成，效果持續至夢浮狀態結束。"
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "泉輕流花暖",
+                                                                                  "descriptionRaw":  "拾取元素爆發\u003ccolor=#FFD780FF\u003e安樂秘湯療法\u003c/color\u003e中的\u003ccolor=#FFD780FF\u003e夢見風名物點心\u003c/color\u003e時，將同時造成傷害與治療，並為夢見月瑞希恢復5點元素能量。一次\u003ccolor=#FFD780FF\u003e安樂秘湯療法\u003c/color\u003e持續期間，至多依此方式恢復4次元素能量。",
+                                                                                  "description":  "拾取元素爆發安樂秘湯療法中的夢見風名物點心時，將同時造成傷害與治療，並為夢見月瑞希恢復5點元素能量。一次安樂秘湯療法持續期間，至多依此方式恢復4次元素能量。"
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "曉月又經宵",
+                                                                                  "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e秋沙歌枕巡禮\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                                  "description":  "元素戰技秋沙歌枕巡禮的技能等級提高3級。\n至多提升至15級。"
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "歲雲暮矣待月歸",
+                                                                                  "descriptionRaw":  "元素爆發\u003ccolor=#FFD780FF\u003e安樂秘湯療法\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                                  "description":  "元素爆發安樂秘湯療法的技能等級提高3級。\n至多提升至15級。"
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "慕念縈心間",
+                                                                                  "descriptionRaw":  "夢見月瑞希處於夢浮狀態下時，隊伍中附近的角色觸發的擴散反應造成的傷害能夠造成暴擊，暴擊率固定為30%，暴擊傷害固定為100%。",
+                                                                                  "description":  "夢見月瑞希處於夢浮狀態下時，隊伍中附近的角色觸發的擴散反應造成的傷害能夠造成暴擊，暴擊率固定為30%，暴擊傷害固定為100%。"
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "宿霧若水遙",
+                                                                                  "descriptionRaw":  "夢見月瑞希處於夢浮狀態下時，每3.5秒將對附近的敵人施加持續3秒的「二十三夜待」效果。處於二十三夜待狀態下的敵人受到風元素傷害而觸發擴散反應時，將移除該效果，使此次擴散反應對該敵人造成的傷害提升，提升值相當於夢見月瑞希元素精通的1100%。",
+                                                                                  "description":  "夢見月瑞希處於夢浮狀態下時，每3.5秒將對附近的敵人施加持續3秒的「二十三夜待」效果。處於二十三夜待狀態下的敵人受到風元素傷害而觸發擴散反應時，將移除該效果，使此次擴散反應對該敵人造成的傷害提升，提升值相當於夢見月瑞希元素精通的1100%。"
+                                                                              }
+                                                                   },
+                                                "elementText":  "風",
+                                                "fullname":  null,
+                                                "weaponText":  "法器",
+                                                "name":  "夢見月瑞希",
+                                                "substatText":  "元素精通",
+                                                "region":  "稻妻",
+                                                "gender":  "女"
+                                            },
                        "candace":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -9558,6 +9602,43 @@
                                                    },
                                             "effectName":  "鎮靈的低語"
                                         },
+                    "tamayurateinoohanashi":  {
+                                                  "r3":  {
+                                                             "description":  "施放元素戰技時，提高30%攻擊力和10%移動速度，持續10秒。",
+                                                             "values":  [
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "施放元素戰技時，提高40%攻擊力和10%移動速度，持續10秒。",
+                                                             "values":  [
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "施放元素戰技時，提高25%攻擊力和10%移動速度，持續10秒。",
+                                                             "values":  [
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "施放元素戰技時，提高35%攻擊力和10%移動速度，持續10秒。",
+                                                             "values":  [
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "元素充能效率",
+                                                  "weaponText":  "長柄武器",
+                                                  "name":  "且住亭御咄",
+                                                  "effectTemplateRaw":  "施放元素戰技時，提高\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e攻擊力和10%移動速度，持續10秒。",
+                                                  "r1":  {
+                                                             "description":  "施放元素戰技時，提高20%攻擊力和10%移動速度，持續10秒。",
+                                                             "values":  [
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "好事者奔行燈"
+                                              },
                     "slingshot":  {
                                       "r3":  {
                                                  "description":  "普通攻擊與重擊的箭矢若在發射後的0.3秒內擊中敵人，則造成的傷害增加48%；否則，造成的傷害下降10%。",
@@ -12553,6 +12634,53 @@
                                                                       ]
                                                        },
                                                 "effectName":  "旅程"
+                                            },
+                    "sunnymorningsleepin":  {
+                                                "r3":  {
+                                                           "description":  "觸發擴散反應後的6秒內，元素精通提升180點；元素戰技命中敵人後的9秒內，元素精通提升144點；元素爆發命中敵人後的30秒內，元素精通提升48點。",
+                                                           "values":  [
+                                                                          "180",
+                                                                          "144",
+                                                                          "48"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "觸發擴散反應後的6秒內，元素精通提升240點；元素戰技命中敵人後的9秒內，元素精通提升192點；元素爆發命中敵人後的30秒內，元素精通提升64點。",
+                                                           "values":  [
+                                                                          "240",
+                                                                          "192",
+                                                                          "64"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "觸發擴散反應後的6秒內，元素精通提升150點；元素戰技命中敵人後的9秒內，元素精通提升120點；元素爆發命中敵人後的30秒內，元素精通提升40點。",
+                                                           "values":  [
+                                                                          "150",
+                                                                          "120",
+                                                                          "40"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "觸發擴散反應後的6秒內，元素精通提升210點；元素戰技命中敵人後的9秒內，元素精通提升168點；元素爆發命中敵人後的30秒內，元素精通提升56點。",
+                                                           "values":  [
+                                                                          "210",
+                                                                          "168",
+                                                                          "56"
+                                                                      ]
+                                                       },
+                                                "substatText":  "元素精通",
+                                                "weaponText":  "法器",
+                                                "name":  "寢正月初晴",
+                                                "effectTemplateRaw":  "觸發擴散反應後的6秒內，元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e點；元素戰技命中敵人後的9秒內，元素精通提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e點；元素爆發命中敵人後的30秒內，元素精通提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e點。",
+                                                "r1":  {
+                                                           "description":  "觸發擴散反應後的6秒內，元素精通提升120點；元素戰技命中敵人後的9秒內，元素精通提升96點；元素爆發命中敵人後的30秒內，元素精通提升32點。",
+                                                           "values":  [
+                                                                          "120",
+                                                                          "96",
+                                                                          "32"
+                                                                      ]
+                                                       },
+                                                "effectName":  "一湯二鷹三鳴神"
                                             },
                     "prototypecrescent":  {
                                               "r3":  {

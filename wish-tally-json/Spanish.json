@@ -323,6 +323,9 @@
                       "transoceanicchunk":  {
                                                 "name":  "Fragmento extramarino"
                                             },
+                      "trishiraite":  {
+                                          "name":  "Trishiraíta"
+                                      },
                       "slimeconcentrate":  {
                                                "name":  "Esencia de Slime"
                                            },
@@ -443,9 +446,9 @@
                       "grainfruit":  {
                                          "name":  "Mahís"
                                      },
-                      "trishiraite":  {
-                                          "name":  "Trishiraíta"
-                                      },
+                      "pyrosigil":  {
+                                        "name":  "Insignia Pyro"
+                                    },
                       "leylinesprout":  {
                                             "name":  "Brotes de líneas ley"
                                         },
@@ -1928,9 +1931,6 @@
                       "sweetflower":  {
                                           "name":  "Flor dulce"
                                       },
-                      "pyrosigil":  {
-                                        "name":  "Insignia Pyro"
-                                    },
                       "blessingofthewelkinmoonnewmoon":  {
                                                              "name":  "Bendición Lunar - Mes nuevo"
                                                          },
@@ -1979,6 +1979,9 @@
                       "philosophiesofprosperity":  {
                                                        "name":  "Filosofía de la prosperidad"
                                                    },
+                      "smolderingphosphorescentflame":  {
+                                                            "name":  "Llama siniestra"
+                                                        },
                       "windwheelastersaroma":  {
                                                    "name":  "Fragancia de margarita voladora"
                                                },
@@ -3162,6 +3165,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Femenino"
                                 },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Un eco onírico",
+                                                                                  "descriptionRaw":  "Al entrar en el estado de navegasueños, cada punto de Maestría Elemental que tenga Yumemizuki Mizuki aumenta en un 0.04% el Bono de Daño \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e y \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e de todos los demás miembros cercanos del equipo hasta que termine el estado de navegasueños.",
+                                                                                  "description":  "Al entrar en el estado de navegasueños, cada punto de Maestría Elemental que tenga Yumemizuki Mizuki aumenta en un 0.04% el Bono de Daño Pyro, Hydro, Cryo y Electro de todos los demás miembros cercanos del equipo hasta que termine el estado de navegasueños."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Calidez floral del manantial",
+                                                                                  "descriptionRaw":  "#Al recoger un \u003ccolor=#FFD780FF\u003edulce especial de Yumemizuki\u003c/color\u003e de la Habilidad Definitiva, \u003ccolor=#FFD780FF\u003eTerapia del manantial de Anraku\u003c/color\u003e, el personaje inflige daño, recibe curación y restaura 5{NON_BREAK_SPACE}pts. de Energía Elemental a Yumemizuki Mizuki. Solo se puede restaurar Energía Elemental de esta forma 4 veces mientras la habilidad \u003ccolor=#FFD780FF\u003eTerapia del manantial de Anraku\u003c/color\u003e esté activa.",
+                                                                                  "description":  "Al recoger un dulce especial de Yumemizuki de la Habilidad Definitiva, Terapia del manantial de Anraku, el personaje inflige daño, recibe curación y restaura 5 pts. de Energía Elemental a Yumemizuki Mizuki. Solo se puede restaurar Energía Elemental de esta forma 4 veces mientras la habilidad Terapia del manantial de Anraku esté activa."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Luna del alba",
+                                                                                  "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003ePeregrinaje de Aisa Utamakura\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                                  "description":  "Aumenta el nivel de habilidad de Peregrinaje de Aisa Utamakura +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "Nubes del regreso lunar",
+                                                                                  "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003eTerapia del manantial de Anraku\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                                  "description":  "Aumenta el nivel de habilidad de Terapia del manantial de Anraku +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "Anhelo persistente",
+                                                                                  "descriptionRaw":  "Mientras Yumemizuki Mizuki esté en el estado de navegasueños, el daño de Torbellino infligido por los personajes cercanos del equipo puede asestar golpes CRIT, con un índice fijo de Prob. CRIT del 30% y un Daño CRIT del 100%.",
+                                                                                  "description":  "Mientras Yumemizuki Mizuki esté en el estado de navegasueños, el daño de Torbellino infligido por los personajes cercanos del equipo puede asestar golpes CRIT, con un índice fijo de Prob. CRIT del 30% y un Daño CRIT del 100%."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Aguas brumosas",
+                                                                                  "descriptionRaw":  "#Cuando Yumemizuki Mizuki se encuentra en estado de navegasueños, aplicará continuamente el efecto de “veintitrés noches de espera” a los enemigos cercanos durante 3{NON_BREAK_SPACE}s cada 3.5{NON_BREAK_SPACE}s. Cuando un enemigo se vea afectado por una reacción de Torbellino causada con Daño Anemo, este efecto se cancelará y el daño de dicha reacción de Torbellino contra este enemigo aumentará en una cantidad equivalente al 1100% de la Maestría Elemental de Mizuki.",
+                                                                                  "description":  "Cuando Yumemizuki Mizuki se encuentra en estado de navegasueños, aplicará continuamente el efecto de “veintitrés noches de espera” a los enemigos cercanos durante 3 s cada 3.5 s. Cuando un enemigo se vea afectado por una reacción de Torbellino causada con Daño Anemo, este efecto se cancelará y el daño de dicha reacción de Torbellino contra este enemigo aumentará en una cantidad equivalente al 1100% de la Maestría Elemental de Mizuki."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalizador",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Maestría Elemental",
+                                                "region":  "Inazuma",
+                                                "gender":  "Femenino"
+                                            },
                        "candace":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -9558,6 +9602,43 @@
                                                    },
                                             "effectName":  "Susurro del genio"
                                         },
+                    "tamayurateinoohanashi":  {
+                                                  "r3":  {
+                                                             "description":  "Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 30% y en un 10% durante 10 s.",
+                                                             "values":  [
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 40% y en un 10% durante 10 s.",
+                                                             "values":  [
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 25% y en un 10% durante 10 s.",
+                                                             "values":  [
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 35% y en un 10% durante 10 s.",
+                                                             "values":  [
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Recarga de Energía",
+                                                  "weaponText":  "Lanza",
+                                                  "name":  "Charla en el Pabellón",
+                                                  "effectTemplateRaw":  "#Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e y en un 10% durante 10{NON_BREAK_SPACE}s.",
+                                                  "r1":  {
+                                                             "description":  "Al usar la Habilidad Elemental, el ATQ y la Vel. Movimiento aumentan, respectivamente, en un 20% y en un 10% durante 10 s.",
+                                                             "values":  [
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Luz verde del fisgón"
+                                              },
                     "slingshot":  {
                                       "r3":  {
                                                  "description":  "Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un 48%. Si se excede este tiempo, el daño disminuirá en un 10%.",
@@ -12553,6 +12634,53 @@
                                                                       ]
                                                        },
                                                 "effectName":  "Viaje"
+                                            },
+                    "sunnymorningsleepin":  {
+                                                "r3":  {
+                                                           "description":  "La Maestría Elemental aumenta en 180 pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en 144 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 48 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+                                                           "values":  [
+                                                                          "180",
+                                                                          "144",
+                                                                          "48"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "La Maestría Elemental aumenta en 240 pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en 192 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 64 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+                                                           "values":  [
+                                                                          "240",
+                                                                          "192",
+                                                                          "64"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "La Maestría Elemental aumenta en 150 pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en 120 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 40 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+                                                           "values":  [
+                                                                          "150",
+                                                                          "120",
+                                                                          "40"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "La Maestría Elemental aumenta en 210 pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en 168 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 56 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+                                                           "values":  [
+                                                                          "210",
+                                                                          "168",
+                                                                          "56"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Maestría Elemental",
+                                                "weaponText":  "Catalizador",
+                                                "name":  "Hibernación Matutina de Año Nuevo",
+                                                "effectTemplateRaw":  "#La Maestría Elemental aumenta en \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e{NON_BREAK_SPACE}pts. durante 6{NON_BREAK_SPACE}s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}pts. durante 9{NON_BREAK_SPACE}s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e{NON_BREAK_SPACE}pts. durante 30{NON_BREAK_SPACE}s tras golpear a un enemigo con la Habilidad Definitiva.",
+                                                "r1":  {
+                                                           "description":  "La Maestría Elemental aumenta en 120 pts. durante 6 s tras causar una reacción de Torbellino. La Maestría Elemental aumenta en 96 pts. durante 9 s tras golpear a un enemigo con la Habilidad Elemental, y aumenta en 32 pts. durante 30 s tras golpear a un enemigo con la Habilidad Definitiva.",
+                                                           "values":  [
+                                                                          "120",
+                                                                          "96",
+                                                                          "32"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Balneario, halcón, Narukami"
                                             },
                     "prototypecrescent":  {
                                               "r3":  {

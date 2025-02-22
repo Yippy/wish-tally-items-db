@@ -323,6 +323,9 @@
                       "transoceanicchunk":  {
                                                 "name":  "Morceau transocéanique"
                                             },
+                      "trishiraite":  {
+                                          "name":  "Trishiraite"
+                                      },
                       "slimeconcentrate":  {
                                                "name":  "Essence de Blob"
                                            },
@@ -443,9 +446,9 @@
                       "grainfruit":  {
                                          "name":  "Granifruit"
                                      },
-                      "trishiraite":  {
-                                          "name":  "Trishiraite"
-                                      },
+                      "pyrosigil":  {
+                                        "name":  "Sceau Pyro"
+                                    },
                       "leylinesprout":  {
                                             "name":  "Pousse des lignes énergétiques"
                                         },
@@ -1928,9 +1931,6 @@
                       "sweetflower":  {
                                           "name":  "Fleur sucrante"
                                       },
-                      "pyrosigil":  {
-                                        "name":  "Sceau Pyro"
-                                    },
                       "blessingofthewelkinmoonnewmoon":  {
                                                              "name":  "Faveur de l\u0027astre de la nuit - Nouvelle lune"
                                                          },
@@ -1979,6 +1979,9 @@
                       "philosophiesofprosperity":  {
                                                        "name":  "Philosophie de la Prospérité"
                                                    },
+                      "smolderingphosphorescentflame":  {
+                                                            "name":  "Flamme phosphorescente fumante"
+                                                        },
                       "windwheelastersaroma":  {
                                                    "name":  "Arôme de chrysanthème à aubes"
                                                },
@@ -3162,6 +3165,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Femme"
                                 },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Un écho rencontré en rêve",
+                                                                                  "descriptionRaw":  "En entrant dans l\u0027état Flotte-rêves, chaque point de maîtrise élémentaire de Yumemizuki Mizuki accorde à tous les autres personnages de l\u0027équipe à proximité des bonus de DGT \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e et \u003ccolor=#FFACFFFF\u003eÉlectro\u003c/color\u003e de 0,04 %, ces bonus durant jusqu\u0027à la fin de l\u0027état Flotte-rêves.",
+                                                                                  "description":  "En entrant dans l\u0027état Flotte-rêves, chaque point de maîtrise élémentaire de Yumemizuki Mizuki accorde à tous les autres personnages de l\u0027équipe à proximité des bonus de DGT Pyro, Hydro, Cryo et Électro de 0,04 %, ces bonus durant jusqu\u0027à la fin de l\u0027état Flotte-rêves."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Bourgeons réchauffant les sources lucides",
+                                                                                  "descriptionRaw":  "Collecter un \u003ccolor=#FFD780FF\u003esnack de style yumemi\u003c/color\u003e du déchaînement élémentaire \u003ccolor=#FFD780FF\u003eThérapie sourcière secrète d\u0027Anraku\u003c/color\u003e permet à la fois d\u0027infliger des DGT et de soigner et restaure 5 pts d\u0027énergie élémentaire à Yumemizuki Mizuki. L\u0027énergie élémentaire peut être restaurée 4 fois pendant la durée d\u0027une \u003ccolor=#FFD780FF\u003eThérapie sourcière secrète d\u0027Anraku\u003c/color\u003e de cette manière.",
+                                                                                  "description":  "Collecter un snack de style yumemi du déchaînement élémentaire Thérapie sourcière secrète d\u0027Anraku permet à la fois d\u0027infliger des DGT et de soigner et restaure 5 pts d\u0027énergie élémentaire à Yumemizuki Mizuki. L\u0027énergie élémentaire peut être restaurée 4 fois pendant la durée d\u0027une Thérapie sourcière secrète d\u0027Anraku de cette manière."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Jusqu\u0027à la lune de l\u0027aube terminant la nuit",
+                                                                                  "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003ePèlerinage d\u0027Aisa Utamakura\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                                  "description":  "Niveau d\u0027aptitude Pèlerinage d\u0027Aisa Utamakura +3.\nNiveau max : 15"
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "La lune couchante apportant la fin de l\u0027année",
+                                                                                  "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eThérapie sourcière secrète d\u0027Anraku\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                                  "description":  "Niveau d\u0027aptitude Thérapie sourcière secrète d\u0027Anraku +3.\nNiveau max : 15"
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "Le cœur s\u0027attardant longtemps",
+                                                                                  "descriptionRaw":  "Lorsque Yumemizuki Mizuki est dans l\u0027état Flotte-rêves, les DGT infligés par les réactions de Dispersion des personnages de l\u0027équipe à proximité peuvent déclencher des coups CRIT dont le taux CRIT est fixé à 30 % et les DGT CRIT à 100 %.",
+                                                                                  "description":  "Lorsque Yumemizuki Mizuki est dans l\u0027état Flotte-rêves, les DGT infligés par les réactions de Dispersion des personnages de l\u0027équipe à proximité peuvent déclencher des coups CRIT dont le taux CRIT est fixé à 30 % et les DGT CRIT à 100 %."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Dans des eaux de brume",
+                                                                                  "descriptionRaw":  "Pendant l\u0027état Flotte-rêves, Yumemizuki Mizuki applique l\u0027effet Attente de 23 nuits toutes les 3,5 s aux ennemis proches, cet effet durant 3 s. Lorsqu\u0027un ennemi affecté par cet effet subit des DGT Anémo et déclenche une réaction de Dispersion, l\u0027effet est annulé pour augmenter les DGT de ladite réaction d\u0027une valeur équivalant à 1 100 % de la maîtrise élémentaire de Yumemizuki Mizuki.",
+                                                                                  "description":  "Pendant l\u0027état Flotte-rêves, Yumemizuki Mizuki applique l\u0027effet Attente de 23 nuits toutes les 3,5 s aux ennemis proches, cet effet durant 3 s. Lorsqu\u0027un ennemi affecté par cet effet subit des DGT Anémo et déclenche une réaction de Dispersion, l\u0027effet est annulé pour augmenter les DGT de ladite réaction d\u0027une valeur équivalant à 1 100 % de la maîtrise élémentaire de Yumemizuki Mizuki."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anémo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalyseur",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Maîtrise élémentaire",
+                                                "region":  "Inazuma",
+                                                "gender":  "Femme"
+                                            },
                        "candace":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -9558,6 +9602,43 @@
                                                    },
                                             "effectName":  "Murmure du djinn"
                                         },
+                    "tamayurateinoohanashi":  {
+                                                  "r3":  {
+                                                             "description":  "Augmente l\u0027ATQ de 30 % et la VIT de déplacement de 10 % pendant 10 s après l\u0027utilisation d\u0027une compétence élémentaire.",
+                                                             "values":  [
+                                                                            "30{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Augmente l\u0027ATQ de 40 % et la VIT de déplacement de 10 % pendant 10 s après l\u0027utilisation d\u0027une compétence élémentaire.",
+                                                             "values":  [
+                                                                            "40{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Augmente l\u0027ATQ de 25 % et la VIT de déplacement de 10 % pendant 10 s après l\u0027utilisation d\u0027une compétence élémentaire.",
+                                                             "values":  [
+                                                                            "25{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Augmente l\u0027ATQ de 35 % et la VIT de déplacement de 10 % pendant 10 s après l\u0027utilisation d\u0027une compétence élémentaire.",
+                                                             "values":  [
+                                                                            "35{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Recharge d\u0027énergie",
+                                                  "weaponText":  "Arme d\u0027hast",
+                                                  "name":  "Tamayuratei no Ohanashi",
+                                                  "effectTemplateRaw":  "#Augmente l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et la VIT de déplacement de 10 % pendant 10{NON_BREAK_SPACE}s après l\u0027utilisation d\u0027une compétence élémentaire.",
+                                                  "r1":  {
+                                                             "description":  "Augmente l\u0027ATQ de 20 % et la VIT de déplacement de 10 % pendant 10 s après l\u0027utilisation d\u0027une compétence élémentaire.",
+                                                             "values":  [
+                                                                            "20{NON_BREAK_SPACE}%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Feu vert de fouinard"
+                                              },
                     "slingshot":  {
                                       "r3":  {
                                                  "description":  "Les DGT infligés par les flèches des attaques normales et chargées infligent 48 % de DGT supplémentaires lorsqu\u0027elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.",
@@ -12553,6 +12634,53 @@
                                                                       ]
                                                        },
                                                 "effectName":  "Voyage"
+                                            },
+                    "sunnymorningsleepin":  {
+                                                "r3":  {
+                                                           "description":  "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de 180 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 144 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 48 pts pendant 30 s.",
+                                                           "values":  [
+                                                                          "180",
+                                                                          "144",
+                                                                          "48"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de 240 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 192 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 64 pts pendant 30 s.",
+                                                           "values":  [
+                                                                          "240",
+                                                                          "192",
+                                                                          "64"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de 150 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 120 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 40 pts pendant 30 s.",
+                                                           "values":  [
+                                                                          "150",
+                                                                          "120",
+                                                                          "40"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de 210 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 168 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 56 pts pendant 30 s.",
+                                                           "values":  [
+                                                                          "210",
+                                                                          "168",
+                                                                          "56"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Maîtrise élémentaire",
+                                                "weaponText":  "Catalyseur",
+                                                "name":  "Matinée flânée sous le soleil",
+                                                "effectTemplateRaw":  "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e pts pendant 30 s.",
+                                                "r1":  {
+                                                           "description":  "Après avoir déclenché une réaction de Dispersion, la maîtrise élémentaire augmente de 120 pts pendant 6 s. Après avoir touché un ennemi avec une compétence élémentaire, la maîtrise élémentaire augmente de 96 pts pendant 9 s. Après avoir touché un ennemi avec un déchaînement élémentaire, la maîtrise élémentaire augmente de 32 pts pendant 30 s.",
+                                                           "values":  [
+                                                                          "120",
+                                                                          "96",
+                                                                          "32"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Bains, faucons et enfin Narukami"
                                             },
                     "prototypecrescent":  {
                                               "r3":  {

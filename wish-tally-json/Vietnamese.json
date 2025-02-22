@@ -323,6 +323,9 @@
                       "transoceanicchunk":  {
                                                 "name":  "Kết Tinh Đại Dương"
                                             },
+                      "trishiraite":  {
+                                          "name":  "Trishiraite"
+                                      },
                       "slimeconcentrate":  {
                                                "name":  "Bột Slime"
                                            },
@@ -443,9 +446,9 @@
                       "grainfruit":  {
                                          "name":  "Hạt Ngũ Cốc"
                                      },
-                      "trishiraite":  {
-                                          "name":  "Trishiraite"
-                                      },
+                      "pyrosigil":  {
+                                        "name":  "Ấn Hỏa"
+                                    },
                       "leylinesprout":  {
                                             "name":  "Chồi Non Địa Mạch"
                                         },
@@ -681,7 +684,7 @@
                                                "name":  "Hoa Romaritime"
                                            },
                       "maskoftheonehorned":  {
-                                                 "name":  "Sừng Của Gekiga"
+                                                 "name":  "Mặt Nạ Một Sừng"
                                              },
                       "thunderclapfruitcore":  {
                                                    "name":  "Hạt Tụ Sấm"
@@ -1668,7 +1671,7 @@
                                                "name":  "Lõi Lá Cuộn Biến Ảo"
                                            },
                       "maskofthekijin":  {
-                                             "name":  "Con Quỷ Của Gekiga"
+                                             "name":  "Mặt Nạ Kijin"
                                          },
                       "cryosigil":  {
                                         "name":  "Ấn Băng"
@@ -1830,7 +1833,7 @@
                                           "name":  "Cần Câu Gió Thoảng"
                                       },
                       "maskofthetigersbite":  {
-                                                  "name":  "Nanh Cọp Của Gekiga"
+                                                  "name":  "Mặt Nạ Cắn Hổ"
                                               },
                       "lightningprism":  {
                                              "name":  "Lăng Kính Sấm Sét"
@@ -1928,9 +1931,6 @@
                       "sweetflower":  {
                                           "name":  "Hoa Ngọt"
                                       },
-                      "pyrosigil":  {
-                                        "name":  "Ấn Hỏa"
-                                    },
                       "blessingofthewelkinmoonnewmoon":  {
                                                              "name":  "Không Nguyệt Chúc Phúc - Trăng Non"
                                                          },
@@ -1979,6 +1979,9 @@
                       "philosophiesofprosperity":  {
                                                        "name":  "Triết Học Của \"Phồn Vinh\""
                                                    },
+                      "smolderingphosphorescentflame":  {
+                                                            "name":  "Đốm Lửa Âm Ỉ"
+                                                        },
                       "windwheelastersaroma":  {
                                                    "name":  "Mùi Hương Của Cúc Cánh Quạt"
                                                },
@@ -2103,7 +2106,7 @@
                                         "name":  "Thuốc Nhuộm Vàng"
                                     },
                       "maskofthewickedlieutenant":  {
-                                                        "name":  "Tà Ác Của Gekiga"
+                                                        "name":  "Mặt Nạ Tà Ác"
                                                     },
                       "borealwolfscrackedtooth":  {
                                                       "name":  "Răng Vỡ Sói Bão"
@@ -3162,6 +3165,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "nữ"
                                 },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Như Từng Gặp Nhau Trong Giấc Mộng",
+                                                                                  "descriptionRaw":  "Khi vào trạng thái Mộng Trôi, mỗi điểm Tinh Thông Nguyên Tố của Yumemizuki Mizuki sẽ cung cấp 0.04% Buff Sát Thương Nguyên Tố \u003ccolor=#FF9999FF\u003eHỏa\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eThủy\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eBăng\u003c/color\u003e, \u003ccolor=#FFACFFFF\u003eLôi\u003c/color\u003e cho tất cả nhân vật khác trong đội gần đó. Hiệu quả này duy trì đến khi trạng thái Mộng Trôi kết thúc.",
+                                                                                  "description":  "Khi vào trạng thái Mộng Trôi, mỗi điểm Tinh Thông Nguyên Tố của Yumemizuki Mizuki sẽ cung cấp 0.04% Buff Sát Thương Nguyên Tố Hỏa, Thủy, Băng, Lôi cho tất cả nhân vật khác trong đội gần đó. Hiệu quả này duy trì đến khi trạng thái Mộng Trôi kết thúc."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Dòng Suối Ấm Áp Hương Hoa Nồng",
+                                                                                  "descriptionRaw":  "Khi nhặt \u003ccolor=#FFD780FF\u003eĐồ Ăn Vặt Yumemi\u003c/color\u003e sinh ra từ Kỹ Năng Nộ \u003ccolor=#FFD780FF\u003eLiệu Pháp Bí Truyền Anraku\u003c/color\u003e sẽ cùng lúc nhận được trị liệu và gây ra sát thương, đồng thời hồi phục cho Mizuki 5 điểm Năng Lượng Nguyên Tố. Trong thời gian duy trì một lần \u003ccolor=#FFD780FF\u003eLiệu Pháp Bí Truyền Anraku\u003c/color\u003e tối đa hồi phục 4 lần Năng Lượng Nguyên Tố thông qua cách thức này.",
+                                                                                  "description":  "Khi nhặt Đồ Ăn Vặt Yumemi sinh ra từ Kỹ Năng Nộ Liệu Pháp Bí Truyền Anraku sẽ cùng lúc nhận được trị liệu và gây ra sát thương, đồng thời hồi phục cho Mizuki 5 điểm Năng Lượng Nguyên Tố. Trong thời gian duy trì một lần Liệu Pháp Bí Truyền Anraku tối đa hồi phục 4 lần Năng Lượng Nguyên Tố thông qua cách thức này."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Bình Minh Ló Dạng Mặt Trăng Tan",
+                                                                                  "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eHành Trình Aisa Utamakura\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                                  "description":  "Cấp kỹ năng Hành Trình Aisa Utamakura +3.\nTăng tối đa đến cấp 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "Như Buổi Hoàng Hôn Chờ Trăng Về",
+                                                                                  "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eLiệu Pháp Bí Truyền Anraku\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                                  "description":  "Cấp kỹ năng Liệu Pháp Bí Truyền Anraku +3.\nTăng tối đa đến cấp 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "Nỗi Nhớ Quanh Quẩn Vướng Trong Tim",
+                                                                                  "descriptionRaw":  "Khi Yumemizuki Mizuki ở trong trạng thái Mộng Trôi, sát thương phản ứng Khuếch Tán kích hoạt từ nhân vật trong đội gần đó có thể Bạo Kích, với Tỷ Lệ Bạo Kích cố định là 30%, Sát Thương Bạo Kích cố định là 100%.",
+                                                                                  "description":  "Khi Yumemizuki Mizuki ở trong trạng thái Mộng Trôi, sát thương phản ứng Khuếch Tán kích hoạt từ nhân vật trong đội gần đó có thể Bạo Kích, với Tỷ Lệ Bạo Kích cố định là 30%, Sát Thương Bạo Kích cố định là 100%."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Sương Mù Mờ Ảo Như Nước Xa",
+                                                                                  "descriptionRaw":  "Yumemizuki Mizuki khi ở trong trạng thái Mộng Trôi, mỗi 3.5s sẽ gán hiệu ứng \"Chờ Đợi Hai Mươi Ba Đêm\" cho kẻ địch gần đó trong 3s. Kẻ địch bị ảnh hưởng bởi hiệu quả \"Chờ Đợi Hai Mươi Ba Đêm\" khi chịu Sát Thương Nguyên Tố Phong và kích hoạt phản ứng Khuếch Tán sẽ xóa bỏ hiệu quả này, khiến sát thương của lần Khuếch Tán đó lên kẻ địch gia tăng tương ứng với 1100% Tinh Thông Nguyên Tố của Mizuki.",
+                                                                                  "description":  "Yumemizuki Mizuki khi ở trong trạng thái Mộng Trôi, mỗi 3.5s sẽ gán hiệu ứng \"Chờ Đợi Hai Mươi Ba Đêm\" cho kẻ địch gần đó trong 3s. Kẻ địch bị ảnh hưởng bởi hiệu quả \"Chờ Đợi Hai Mươi Ba Đêm\" khi chịu Sát Thương Nguyên Tố Phong và kích hoạt phản ứng Khuếch Tán sẽ xóa bỏ hiệu quả này, khiến sát thương của lần Khuếch Tán đó lên kẻ địch gia tăng tương ứng với 1100% Tinh Thông Nguyên Tố của Mizuki."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Phong",
+                                                "fullname":  null,
+                                                "weaponText":  "Pháp Khí",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Tinh Thông Nguyên Tố",
+                                                "region":  "Inazuma",
+                                                "gender":  "nữ"
+                                            },
                        "candace":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -9558,6 +9602,43 @@
                                                    },
                                             "effectName":  "Lời Thì Thầm Trấn Linh"
                                         },
+                    "tamayurateinoohanashi":  {
+                                                  "r3":  {
+                                                             "description":  "Khi thi triển Kỹ Năng Nguyên Tố, tăng 30% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s.",
+                                                             "values":  [
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Khi thi triển Kỹ Năng Nguyên Tố, tăng 40% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s.",
+                                                             "values":  [
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Khi thi triển Kỹ Năng Nguyên Tố, tăng 25% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s.",
+                                                             "values":  [
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Khi thi triển Kỹ Năng Nguyên Tố, tăng 35% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s.",
+                                                             "values":  [
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Hiệu Quả Nạp Nguyên Tố",
+                                                  "weaponText":  "Vũ Khí Cán Dài",
+                                                  "name":  "Tamayuratei no Ohanashi",
+                                                  "effectTemplateRaw":  "Khi thi triển Kỹ Năng Nguyên Tố, tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e Tấn Công và 10% Tốc Độ Di Chuyển trong 10s.",
+                                                  "r1":  {
+                                                             "description":  "Khi thi triển Kỹ Năng Nguyên Tố, tăng 20% Tấn Công và 10% Tốc Độ Di Chuyển trong 10s.",
+                                                             "values":  [
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Ngọn Đèn Tinh Nghịch"
+                                              },
                     "slingshot":  {
                                       "r3":  {
                                                  "description":  "Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng 48%; Nếu không, sát thương tạo thành giảm 10%.",
@@ -12553,6 +12634,53 @@
                                                                       ]
                                                        },
                                                 "effectName":  "Hành Trình"
+                                            },
+                    "sunnymorningsleepin":  {
+                                                "r3":  {
+                                                           "description":  "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng 180 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 144 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 48 điểm.",
+                                                           "values":  [
+                                                                          "180",
+                                                                          "144",
+                                                                          "48"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng 240 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 192 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 64 điểm.",
+                                                           "values":  [
+                                                                          "240",
+                                                                          "192",
+                                                                          "64"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng 150 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 120 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 40 điểm.",
+                                                           "values":  [
+                                                                          "150",
+                                                                          "120",
+                                                                          "40"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng 210 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 168 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 56 điểm.",
+                                                           "values":  [
+                                                                          "210",
+                                                                          "168",
+                                                                          "56"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Tinh Thông Nguyên Tố",
+                                                "weaponText":  "Pháp Khí",
+                                                "name":  "Hòa Giấc Trong Nắng Mai",
+                                                "effectTemplateRaw":  "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e điểm.",
+                                                "r1":  {
+                                                           "description":  "Trong 6s sau khi kích hoạt phản ứng Khuếch Tán, Tinh Thông Nguyên Tố tăng 120 điểm. Trong 9s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 96 điểm. Trong 30s sau khi Kỹ Năng Nộ đánh trúng kẻ địch, Tinh Thông Nguyên Tố tăng 32 điểm.",
+                                                           "values":  [
+                                                                          "120",
+                                                                          "96",
+                                                                          "32"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Phòng Tắm Hơi, Chim Ưng, và Narukami"
                                             },
                     "prototypecrescent":  {
                                               "r3":  {

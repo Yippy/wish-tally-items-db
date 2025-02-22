@@ -354,6 +354,9 @@
                       "transoceanicchunk":  {
                                                 "name":  "Transoceanic Chunk"
                                             },
+                      "trishiraite":  {
+                                          "name":  "Trishiraite"
+                                      },
                       "slimeconcentrate":  {
                                                "name":  "Slime Concentrate"
                                            },
@@ -474,9 +477,9 @@
                       "grainfruit":  {
                                          "name":  "Grainfruit"
                                      },
-                      "trishiraite":  {
-                                          "name":  "Trishiraite"
-                                      },
+                      "pyrosigil":  {
+                                        "name":  "Pyro Sigil"
+                                    },
                       "leylinesprout":  {
                                             "name":  "Ley Line Sprout"
                                         },
@@ -1959,9 +1962,6 @@
                       "sweetflower":  {
                                           "name":  "Sweet Flower"
                                       },
-                      "pyrosigil":  {
-                                        "name":  "Pyro Sigil"
-                                    },
                       "blessingofthewelkinmoonnewmoon":  {
                                                              "name":  "Blessing of the Welkin Moon - New Moon"
                                                          },
@@ -2010,6 +2010,9 @@
                       "philosophiesofprosperity":  {
                                                        "name":  "Philosophies of Prosperity"
                                                    },
+                      "smolderingphosphorescentflame":  {
+                                                            "name":  "Smoldering Phosphorescent Flame"
+                                                        },
                       "windwheelastersaroma":  {
                                                    "name":  "Windwheel Aster\u0027s Aroma"
                                                },
@@ -2812,8 +2815,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Foul Legacy: Tide Withholder",
-                                                                           "descriptionRaw":  "Decreases the CD of \u003ccolor=#FFD780FF\u003eFoul Legacy: Raging Tide\u003c/color\u003e by 20%",
-                                                                           "description":  "Decreases the CD of Foul Legacy: Raging Tide by 20%"
+                                                                           "descriptionRaw":  "Decreases the CD of \u003ccolor=#FFD780FF\u003eFoul Legacy: Raging Tide\u003c/color\u003e by 20%.",
+                                                                           "description":  "Decreases the CD of Foul Legacy: Raging Tide by 20%."
                                                                        }
                                                             },
                                          "elementText":  "Hydro",
@@ -2951,8 +2954,8 @@
                                     "constellations":  {
                                                            "c2":  {
                                                                       "name":  "Frozen to the Bone",
-                                                                      "descriptionRaw":  "Qiqi\u0027s Normal and Charge Attack DMG against opponents affected by \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e is increased by 15%.",
-                                                                      "description":  "Qiqi\u0027s Normal and Charge Attack DMG against opponents affected by Cryo is increased by 15%."
+                                                                      "descriptionRaw":  "Qiqi\u0027s Normal and Charged Attack DMG against opponents affected by \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e is increased by 15%.",
+                                                                      "description":  "Qiqi\u0027s Normal and Charged Attack DMG against opponents affected by Cryo is increased by 15%."
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Divine Suppression",
@@ -3193,6 +3196,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Female"
                                 },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Your Echo I Meet in Dreams",
+                                                                                  "descriptionRaw":  "When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members\u0027 \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, and \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e DMG Bonuses by 0.04% until the Dreamdrifter state ends.",
+                                                                                  "description":  "When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members\u0027 Pyro, Hydro, Cryo, and Electro DMG Bonuses by 0.04% until the Dreamdrifter state ends."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Buds Warm Lucid Springs",
+                                                                                  "descriptionRaw":  "Picking up a \u003ccolor=#FFD780FF\u003eYumemi Style Special Snack\u003c/color\u003e from the Elemental Burst \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e duration.",
+                                                                                  "description":  "Picking up a Yumemi Style Special Snack from the Elemental Burst Anraku Secret Spring Therapy will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per Anraku Secret Spring Therapy duration."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Till Dawn\u0027s Moon Ends Night",
+                                                                                  "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eAisa Utamakura Pilgrimage\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                                  "description":  "Increases the Level of Aisa Utamakura Pilgrimage by 3.\nMaximum upgrade level is 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "As Setting Moon Brings Year\u0027s End",
+                                                                                  "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                                  "description":  "Increases the Level of Anraku Secret Spring Therapy by 3.\nMaximum upgrade level is 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "The Heart Lingers Long",
+                                                                                  "descriptionRaw":  "While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl DMG dealt by nearby party members can score CRIT Hits, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%.",
+                                                                                  "description":  "While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl DMG dealt by nearby party members can score CRIT Hits, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "In Mist-Like Waters",
+                                                                                  "descriptionRaw":  "When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the \"Twenty-Three Nights\u0027 Awaiting\" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 1,100% of Mizuki\u0027s Elemental Mastery.",
+                                                                                  "description":  "When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the \"Twenty-Three Nights\u0027 Awaiting\" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 1,100% of Mizuki\u0027s Elemental Mastery."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalyst",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Elemental Mastery",
+                                                "region":  "Inazuma",
+                                                "gender":  "Female"
+                                            },
                        "candace":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -4035,8 +4079,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Crow\u0027s Eye",
-                                                                           "descriptionRaw":  "When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of \u003ccolor=#FFD780FF\u003eTengu Stormcall\u003c/color\u003e is decreased by 1s.\nThis effect can be triggered once every 3s.",
-                                                                           "description":  "When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of Tengu Stormcall is decreased by 1s.\nThis effect can be triggered once every 3s."
+                                                                           "descriptionRaw":  "When Tengu Juurai grants characters ATK Bonuses or hits opponents, the CD of \u003ccolor=#FFD780FF\u003eTengu Stormcall\u003c/color\u003e is decreased by 1s.\nThis effect can be triggered once every 3s.",
+                                                                           "description":  "When Tengu Juurai grants characters ATK Bonuses or hits opponents, the CD of Tengu Stormcall is decreased by 1s.\nThis effect can be triggered once every 3s."
                                                                        }
                                                             },
                                          "elementText":  "Electro",
@@ -9589,6 +9633,43 @@
                                                    },
                                             "effectName":  "Jinni\u0027s Whisper"
                                         },
+                    "tamayurateinoohanashi":  {
+                                                  "r3":  {
+                                                             "description":  "Increase ATK by 30% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                                                             "values":  [
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Increase ATK by 40% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                                                             "values":  [
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Increase ATK by 25% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                                                             "values":  [
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Increase ATK by 35% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                                                             "values":  [
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Energy Recharge",
+                                                  "weaponText":  "Polearm",
+                                                  "name":  "Tamayuratei no Ohanashi",
+                                                  "effectTemplateRaw":  "Increase ATK by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                                                  "r1":  {
+                                                             "description":  "Increase ATK by 20% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                                                             "values":  [
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Busybody\u0027s Running Light"
+                                              },
                     "slingshot":  {
                                       "r3":  {
                                                  "description":  "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 48%. Otherwise, decreases DMG by 10%.",
@@ -12585,6 +12666,53 @@
                                                        },
                                                 "effectName":  "Journey"
                                             },
+                    "sunnymorningsleepin":  {
+                                                "r3":  {
+                                                           "description":  "Elemental Mastery increases by 180 for 6s after triggering Swirl. Elemental Mastery increases by 144 for 9s after the wielder\u0027s Elemental Skill hits an opponent. Elemental Mastery increases by 48 for 30s after the wielder\u0027s Elemental Burst hits an opponent.",
+                                                           "values":  [
+                                                                          "180",
+                                                                          "144",
+                                                                          "48"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Elemental Mastery increases by 240 for 6s after triggering Swirl. Elemental Mastery increases by 192 for 9s after the wielder\u0027s Elemental Skill hits an opponent. Elemental Mastery increases by 64 for 30s after the wielder\u0027s Elemental Burst hits an opponent.",
+                                                           "values":  [
+                                                                          "240",
+                                                                          "192",
+                                                                          "64"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Elemental Mastery increases by 150 for 6s after triggering Swirl. Elemental Mastery increases by 120 for 9s after the wielder\u0027s Elemental Skill hits an opponent. Elemental Mastery increases by 40 for 30s after the wielder\u0027s Elemental Burst hits an opponent.",
+                                                           "values":  [
+                                                                          "150",
+                                                                          "120",
+                                                                          "40"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Elemental Mastery increases by 210 for 6s after triggering Swirl. Elemental Mastery increases by 168 for 9s after the wielder\u0027s Elemental Skill hits an opponent. Elemental Mastery increases by 56 for 30s after the wielder\u0027s Elemental Burst hits an opponent.",
+                                                           "values":  [
+                                                                          "210",
+                                                                          "168",
+                                                                          "56"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Elemental Mastery",
+                                                "weaponText":  "Catalyst",
+                                                "name":  "Sunny Morning Sleep-In",
+                                                "effectTemplateRaw":  "Elemental Mastery increases by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 6s after triggering Swirl. Elemental Mastery increases by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e for 9s after the wielder\u0027s Elemental Skill hits an opponent. Elemental Mastery increases by \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e for 30s after the wielder\u0027s Elemental Burst hits an opponent.",
+                                                "r1":  {
+                                                           "description":  "Elemental Mastery increases by 120 for 6s after triggering Swirl. Elemental Mastery increases by 96 for 9s after the wielder\u0027s Elemental Skill hits an opponent. Elemental Mastery increases by 32 for 30s after the wielder\u0027s Elemental Burst hits an opponent.",
+                                                           "values":  [
+                                                                          "120",
+                                                                          "96",
+                                                                          "32"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Bathhouses, Hawks, and Narukami"
+                                            },
                     "prototypecrescent":  {
                                               "r3":  {
                                                          "description":  "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by 54% for 10s.",
@@ -14362,7 +14490,7 @@
                                                               ]
                                                },
                                         "r5":  {
-                                                   "description":  "On hit, has a 50% chance to deal 400% ATK DMG to a single target. Can only occur once every 11s.",
+                                                   "description":  "On hit, has a 50% chance to deal 400% ATK DMG to a single opponent. Can only occur once every 11s.",
                                                    "values":  [
                                                                   "400%",
                                                                   "11"
@@ -14385,7 +14513,7 @@
                                         "substatText":  "ATK",
                                         "weaponText":  "Sword",
                                         "name":  "Fillet Blade",
-                                        "effectTemplateRaw":  "On hit, has a 50% chance to deal \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ATK DMG to a single target. Can only occur once every \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es.",
+                                        "effectTemplateRaw":  "On hit, has a 50% chance to deal \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ATK DMG to a single opponent. Can only occur once every \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es.",
                                         "r1":  {
                                                    "description":  "On hit, has a 50% chance to deal 240% ATK DMG to a single opponent. Can only occur once every 15s.",
                                                    "values":  [

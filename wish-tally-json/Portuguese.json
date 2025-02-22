@@ -323,6 +323,9 @@
                       "transoceanicchunk":  {
                                                 "name":  "Pedaço Transoceânico"
                                             },
+                      "trishiraite":  {
+                                          "name":  "Trishiraita"
+                                      },
                       "slimeconcentrate":  {
                                                "name":  "Essência de Slime"
                                            },
@@ -443,9 +446,9 @@
                       "grainfruit":  {
                                          "name":  "Frutogrão"
                                      },
-                      "trishiraite":  {
-                                          "name":  "Trishiraita"
-                                      },
+                      "pyrosigil":  {
+                                        "name":  "Selo Pyro"
+                                    },
                       "leylinesprout":  {
                                             "name":  "Broto de Linha Ley"
                                         },
@@ -1928,9 +1931,6 @@
                       "sweetflower":  {
                                           "name":  "Flor Doce"
                                       },
-                      "pyrosigil":  {
-                                        "name":  "Selo Pyro"
-                                    },
                       "blessingofthewelkinmoonnewmoon":  {
                                                              "name":  "Bênção da Lua Nova - Lua Nova"
                                                          },
@@ -1979,6 +1979,9 @@
                       "philosophiesofprosperity":  {
                                                        "name":  "Filosofia de Prosperidade"
                                                    },
+                      "smolderingphosphorescentflame":  {
+                                                            "name":  "Chama Fosforescente Latente"
+                                                        },
                       "windwheelastersaroma":  {
                                                    "name":  "Aroma de Margaridas Voadoras"
                                                },
@@ -2879,8 +2882,8 @@
                                          "constellations":  {
                                                                 "c2":  {
                                                                            "name":  "\"Pode o Mais Misericordioso Espírito Derrotar seus Inimigos?\"",
-                                                                           "descriptionRaw":  "Ao usar \u003ccolor=#FFD780FF\u003eTerapia de Água Saltitante\u003c/color\u003ee \u003ccolor=#FFD780FF\u003eInjeção Super Saturada\u003c/color\u003e, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve \u003ccolor=#80C0FFFF\u003eDano Hydro\u003c/color\u003e com 250% de eficiência, que dura até a conclusão do uso.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a \u003ccolor=#80C0FFFF\u003eRES Hydro\u003c/color\u003e desse oponente será reduzida em 35% por 8s.",
-                                                                           "description":  "Ao usar Terapia de Água Saltitantee Injeção Super Saturada, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve Dano Hydro com 250% de eficiência, que dura até a conclusão do uso.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a RES Hydro desse oponente será reduzida em 35% por 8s."
+                                                                           "descriptionRaw":  "Ao usar \u003ccolor=#FFD780FF\u003eTerapia de Água Saltitante\u003c/color\u003e e \u003ccolor=#FFD780FF\u003eInjeção Super Saturada\u003c/color\u003e, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve \u003ccolor=#80C0FFFF\u003eDano Hydro\u003c/color\u003e com 250% de eficiência, que dura até a conclusão do uso.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a \u003ccolor=#80C0FFFF\u003eRES Hydro\u003c/color\u003e desse oponente será reduzida em 35% por 8s.",
+                                                                           "description":  "Ao usar Terapia de Água Saltitante e Injeção Super Saturada, Sigewinne pode criar um Escudo de Bolhas equivalente a 30% de sua Vida Máxima e que absorve Dano Hydro com 250% de eficiência, que dura até a conclusão do uso.\nAlém disso, após as Bolhas Revigorantes de Terapia de Água Saltitante ou de Injeção Super Saturada atingirem oponentes, a RES Hydro desse oponente será reduzida em 35% por 8s."
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "\"Pode o mais Adorável Espírito Conter a Queda?\"",
@@ -3162,6 +3165,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Feminino"
                                 },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Seu Eco que Conheci nos Sonhos",
+                                                                                  "descriptionRaw":  "Ao entrar no estado Devaneio Onírico, cada ponto de Proficiência Elemental de Yumemizuki Mizuki fornece 0.04% de Bônus de Dano \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e e \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e para os outros membros próximos da equipe. Esse efeito dura até o estado Devaneio Onírico acabar.",
+                                                                                  "description":  "Ao entrar no estado Devaneio Onírico, cada ponto de Proficiência Elemental de Yumemizuki Mizuki fornece 0.04% de Bônus de Dano Pyro, Hydro, Cryo e Electro para os outros membros próximos da equipe. Esse efeito dura até o estado Devaneio Onírico acabar."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Brotos Quentes na Nascente Transluzente",
+                                                                                  "descriptionRaw":  "Ao coletar o \u003ccolor=#FFD780FF\u003eLanche Yumemikaze\u003c/color\u003e do Supremo \u003ccolor=#FFD780FF\u003eTerapia da Nascente Secreta Anraku\u003c/color\u003e, ele simultaneamente causará Dano e curará, e regenerará 5 de Energia Elemental para Yumemizuki Mizuki. É possível regenerar Energia Elemental dessa forma até 4 vezes por cada duração de \u003ccolor=#FFD780FF\u003eTerapia da Nascente Secreta Anraku\u003c/color\u003e.",
+                                                                                  "description":  "Ao coletar o Lanche Yumemikaze do Supremo Terapia da Nascente Secreta Anraku, ele simultaneamente causará Dano e curará, e regenerará 5 de Energia Elemental para Yumemizuki Mizuki. É possível regenerar Energia Elemental dessa forma até 4 vezes por cada duração de Terapia da Nascente Secreta Anraku."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Até a Lua do Amanhecer Acabar a Noite",
+                                                                                  "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003ePeregrinação Aisa Utamakura\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
+                                                                                  "description":  "Aumenta o nível da Habilidade Elemental Peregrinação Aisa Utamakura em 3 níveis. \nO nível máximo de elevação é 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "Quando a Lua Poente Traz o Fim do Ano",
+                                                                                  "descriptionRaw":  "Aumenta o nível do Supremo \u003ccolor=#FFD780FF\u003eTerapia da Nascente Secreta Anraku\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                                  "description":  "Aumenta o nível do Supremo Terapia da Nascente Secreta Anraku em 3.\nO nível máximo de elevação é 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "O Coração Perdura Longamente",
+                                                                                  "descriptionRaw":  "Enquanto Yumemizuki Mizuki estiver no estado de Devaneio Onírico, o Dano de Redemoinho causado por membros próximos da equipe pode causar Acerto CRIT, com a Taxa CRIT fixa em 30% e o Dano CRIT fixo em 100%.",
+                                                                                  "description":  "Enquanto Yumemizuki Mizuki estiver no estado de Devaneio Onírico, o Dano de Redemoinho causado por membros próximos da equipe pode causar Acerto CRIT, com a Taxa CRIT fixa em 30% e o Dano CRIT fixo em 100%."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Águas Enevoadas",
+                                                                                  "descriptionRaw":  "Quando Yumemizuki Mizuki está no estado Devaneio Onírico, aplicará por 3s contra o inimigo o efeito \"Espera de 23 Noites\" a cada 3.5s. Inimigos afetados por Espera de 23 Noites ao sofrerem Dano Anemo ou ao desencadearem Redemoinho terão esse efeito removido, e essa reação de Redemoinho receberá um aumento de Dano. O aumento de Dano é de 1100% da Proficiência Elemental de Yumemizuki Mizuki.",
+                                                                                  "description":  "Quando Yumemizuki Mizuki está no estado Devaneio Onírico, aplicará por 3s contra o inimigo o efeito \"Espera de 23 Noites\" a cada 3.5s. Inimigos afetados por Espera de 23 Noites ao sofrerem Dano Anemo ou ao desencadearem Redemoinho terão esse efeito removido, e essa reação de Redemoinho receberá um aumento de Dano. O aumento de Dano é de 1100% da Proficiência Elemental de Yumemizuki Mizuki."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalisador",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Proficiência Elemental",
+                                                "region":  "Inazuma",
+                                                "gender":  "Feminino"
+                                            },
                        "candace":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -6065,7 +6109,7 @@
                                         "constellations":  {
                                                                "c2":  {
                                                                           "name":  "\"Até Aqui, Enquanto Enfrentamos os Perigos da Longa Noite\"",
-                                                                          "descriptionRaw":  "Aprimora o Talento Passivo \"Chama Dispersadora da Escuridão\": Após um membro próximo da equipe desencadear \u003ccolor=#FFACFFFF\u003ereações relacionadas a Electro\u003c/color\u003e contra um oponente, \u003ccolor=#FFACFFFF\u003eDano Electro\u003c/color\u003e causado por Ataques Normais e \u003ccolor=#FFACFFFF\u003eQueda da Luz\u003c/color\u003e serão aumentados em 30% do ATQ de Clorinde por 15s. Máximo de 3 acúmulos. Cada acúmulo tem sua duração contada independentemente. Quando você possui 3 acúmulos, a Resistência contra Interrupção de Clorinde será aumentada. O Dano Máximo alcançável desta forma para os ataques acima é de 2.700.\nÉ necessário primeiro desbloquear o Talento Passivo \"Chama Dispersadora da Escuridão\".",
+                                                                          "descriptionRaw":  "Aprimora o Talento Passivo \"Chama Dispersadora da Escuridão\": Após um membro próximo da equipe desencadear \u003ccolor=#FFACFFFF\u003ereações relacionadas a Electro\u003c/color\u003e contra um oponente, \u003ccolor=#FFACFFFF\u003eDano Electro\u003c/color\u003e causado por Ataques Normais e \u003ccolor=#FFD780FF\u003eQueda da Luz\u003c/color\u003e serão aumentados em 30% do ATQ de Clorinde por 15s. Máximo de 3 acúmulos. Cada acúmulo tem sua duração contada independentemente. Quando você possui 3 acúmulos, a Resistência contra Interrupção de Clorinde será aumentada. O Dano Máximo alcançável desta forma para os ataques acima é de 2.700.\nÉ necessário primeiro desbloquear o Talento Passivo \"Chama Dispersadora da Escuridão\".",
                                                                           "description":  "Aprimora o Talento Passivo \"Chama Dispersadora da Escuridão\": Após um membro próximo da equipe desencadear reações relacionadas a Electro contra um oponente, Dano Electro causado por Ataques Normais e Queda da Luz serão aumentados em 30% do ATQ de Clorinde por 15s. Máximo de 3 acúmulos. Cada acúmulo tem sua duração contada independentemente. Quando você possui 3 acúmulos, a Resistência contra Interrupção de Clorinde será aumentada. O Dano Máximo alcançável desta forma para os ataques acima é de 2.700.\nÉ necessário primeiro desbloquear o Talento Passivo \"Chama Dispersadora da Escuridão\"."
                                                                       },
                                                                "c4":  {
@@ -9558,6 +9602,43 @@
                                                    },
                                             "effectName":  "Sussurros do Jinni"
                                         },
+                    "tamayurateinoohanashi":  {
+                                                  "r3":  {
+                                                             "description":  "Aumenta o ATQ e a Veloc. Mov. em 30% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+                                                             "values":  [
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Aumenta o ATQ e a Veloc. Mov. em 40% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+                                                             "values":  [
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Aumenta o ATQ e a Veloc. Mov. em 25% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+                                                             "values":  [
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Aumenta o ATQ e a Veloc. Mov. em 35% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+                                                             "values":  [
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Recarga de Energia",
+                                                  "weaponText":  "Lança",
+                                                  "name":  "Fofocas Breves do Pavilhão",
+                                                  "effectTemplateRaw":  "Aumenta o ATQ e a Veloc. Mov. em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+                                                  "r1":  {
+                                                             "description":  "Aumenta o ATQ e a Veloc. Mov. em 20% e 10%, respectivamente, por 10s ao usar uma Habilidade Elemental.",
+                                                             "values":  [
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Luz de Corrida do Curioso"
+                                              },
                     "slingshot":  {
                                       "r3":  {
                                                  "description":  "Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em 48%. Caso contrário, o Dano é diminuído em 10%.",
@@ -12553,6 +12634,53 @@
                                                                       ]
                                                        },
                                                 "effectName":  "Jornada"
+                                            },
+                    "sunnymorningsleepin":  {
+                                                "r3":  {
+                                                           "description":  "Aumenta a Proficiência Elemental em 180 por 6s após desencadear um Redemoinho. A Proficiência Elemental aumenta em 144 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 48 por 30s após o Supremo do portador atingir um oponente.",
+                                                           "values":  [
+                                                                          "180",
+                                                                          "144",
+                                                                          "48"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Aumenta a Proficiência Elemental em 240 por 6s após desencadear um Redemoinho. A Proficiência Elemental aumenta em 192 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 64 por 30s após o Supremo do portador atingir um oponente.",
+                                                           "values":  [
+                                                                          "240",
+                                                                          "192",
+                                                                          "64"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Aumenta a Proficiência Elemental em 150 por 6s após desencadear um Redemoinho. A Proficiência Elemental aumenta em 120 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 40 por 30s após o Supremo do portador atingir um oponente.",
+                                                           "values":  [
+                                                                          "150",
+                                                                          "120",
+                                                                          "40"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Aumenta a Proficiência Elemental em 210 por 6s após desencadear um Redemoinho. A Proficiência Elemental aumenta em 168 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 56 por 30s após o Supremo do portador atingir um oponente.",
+                                                           "values":  [
+                                                                          "210",
+                                                                          "168",
+                                                                          "56"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Proficiência Elemental",
+                                                "weaponText":  "Catalisador",
+                                                "name":  "Hibernação Matinal do Ano Novo",
+                                                "effectTemplateRaw":  "Aumenta a Proficiência Elemental em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 6s após desencadear um Redemoinho. A Proficiência Elemental aumenta em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e por 30s após o Supremo do portador atingir um oponente.",
+                                                "r1":  {
+                                                           "description":  "Aumenta a Proficiência Elemental em 120 por 6s após desencadear um Redemoinho. A Proficiência Elemental aumenta em 96 por 9s após a Habilidade Elemental atingir um oponente. A Proficiência Elemental aumenta em 32 por 30s após o Supremo do portador atingir um oponente.",
+                                                           "values":  [
+                                                                          "120",
+                                                                          "96",
+                                                                          "32"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Narukami Um, Dois, Três"
                                             },
                     "prototypecrescent":  {
                                               "r3":  {
