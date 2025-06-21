@@ -1334,6 +1334,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Sagesse de Narukami"
                                           },
+                      "dustofenlightenment":  {
+                                                  "name":  "Poussière d\u0027illumination"
+                                              },
                       "perpetualcaliber":  {
                                                "name":  "Calibre perpétuel"
                                            },
@@ -3128,6 +3131,47 @@
                                          "region":  "Sumeru",
                                          "gender":  "Homme"
                                      },
+                       "dahlia":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Révélation de miséricorde",
+                                                                        "descriptionRaw":  "Lorsque Dahlia a consommé un cumul de sacrement du déchaînement élémentaire \u003ccolor=#FFD780FF\u003ePsautier radieux\u003c/color\u003e pour invoquer un bouclier de faveur sacrée, la force du bouclier augmente de 25 % pendant 12 s pour le personnage protégé par le bouclier en question.",
+                                                                        "description":  "Lorsque Dahlia a consommé un cumul de sacrement du déchaînement élémentaire Psautier radieux pour invoquer un bouclier de faveur sacrée, la force du bouclier augmente de 25 % pendant 12 s pour le personnage protégé par le bouclier en question."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Collecte de l\u0027assemblée",
+                                                                        "descriptionRaw":  "La durée de l\u0027effet Faveur favonienne du déchaînement élémentaire \u003ccolor=#FFD780FF\u003ePsautier radieux\u003c/color\u003e augmente de 3 s.",
+                                                                        "description":  "La durée de l\u0027effet Faveur favonienne du déchaînement élémentaire Psautier radieux augmente de 3 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Offertoire des alizées",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003ePsautier radieux\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Psautier radieux +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Qu\u0027il en soit subtilement ainsi",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eOrdonnance immersive\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude Ordonnance immersive +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Que la joie suive",
+                                                                        "descriptionRaw":  "La VIT d\u0027attaque du personnage déployé augmente de 10 % lorsqu\u0027il est affecté par l\u0027effet Faveur favonienne du déchaînement élémentaire \u003ccolor=#FFD780FF\u003ePsautier radieux\u003c/color\u003e.\nDe plus, lorsqu\u0027un personnage déployé affecté par une faveur favonienne est vaincu :\n· Dahlia le réanime immédiatement.\n· Les PV de ce personnage sont restaurés à 100 %.\nCet effet peut être déclenché une fois toutes les 15 min.",
+                                                                        "description":  "La VIT d\u0027attaque du personnage déployé augmente de 10 % lorsqu\u0027il est affecté par l\u0027effet Faveur favonienne du déchaînement élémentaire Psautier radieux.\nDe plus, lorsqu\u0027un personnage déployé affecté par une faveur favonienne est vaincu :\n· Dahlia le réanime immédiatement.\n· Les PV de ce personnage sont restaurés à 100 %.\nCet effet peut être déclenché une fois toutes les 15 min."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Procession infaillible",
+                                                                        "descriptionRaw":  "Chaque fois que Dahlia obtient 1 cumul de sacrement de son déchaînement élémentaire \u003ccolor=#FFD780FF\u003ePsautier radieux\u003c/color\u003e, il récupère 2,5 pts d\u0027énergie élémentaire.",
+                                                                        "description":  "Chaque fois que Dahlia obtient 1 cumul de sacrement de son déchaînement élémentaire Psautier radieux, il récupère 2,5 pts d\u0027énergie élémentaire."
+                                                                    }
+                                                         },
+                                      "elementText":  "Hydro",
+                                      "fullname":  null,
+                                      "weaponText":  "Épée à une main",
+                                      "name":  "Dahlia",
+                                      "substatText":  "PV",
+                                      "region":  "Mondstadt",
+                                      "gender":  "Homme"
+                                  },
                        "yoimiya":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3210,47 +3254,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Femme"
                                 },
-                       "yumemizukimizuki":  {
-                                                "constellations":  {
-                                                                       "c2":  {
-                                                                                  "name":  "Un écho rencontré en rêve",
-                                                                                  "descriptionRaw":  "En entrant dans l\u0027état Flotte-rêves, chaque point de maîtrise élémentaire de Yumemizuki Mizuki accorde à tous les autres personnages de l\u0027équipe à proximité des bonus de DGT \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e et \u003ccolor=#FFACFFFF\u003eÉlectro\u003c/color\u003e de 0,04 %, ces bonus durant jusqu\u0027à la fin de l\u0027état Flotte-rêves.",
-                                                                                  "description":  "En entrant dans l\u0027état Flotte-rêves, chaque point de maîtrise élémentaire de Yumemizuki Mizuki accorde à tous les autres personnages de l\u0027équipe à proximité des bonus de DGT Pyro, Hydro, Cryo et Électro de 0,04 %, ces bonus durant jusqu\u0027à la fin de l\u0027état Flotte-rêves."
-                                                                              },
-                                                                       "c4":  {
-                                                                                  "name":  "Bourgeons réchauffant les sources lucides",
-                                                                                  "descriptionRaw":  "Collecter un \u003ccolor=#FFD780FF\u003esnack de style yumemi\u003c/color\u003e du déchaînement élémentaire \u003ccolor=#FFD780FF\u003eThérapie sourcière secrète d\u0027Anraku\u003c/color\u003e permet à la fois d\u0027infliger des DGT et de soigner et restaure 5 pts d\u0027énergie élémentaire à Yumemizuki Mizuki. L\u0027énergie élémentaire peut être restaurée 4 fois pendant la durée d\u0027une \u003ccolor=#FFD780FF\u003eThérapie sourcière secrète d\u0027Anraku\u003c/color\u003e de cette manière.",
-                                                                                  "description":  "Collecter un snack de style yumemi du déchaînement élémentaire Thérapie sourcière secrète d\u0027Anraku permet à la fois d\u0027infliger des DGT et de soigner et restaure 5 pts d\u0027énergie élémentaire à Yumemizuki Mizuki. L\u0027énergie élémentaire peut être restaurée 4 fois pendant la durée d\u0027une Thérapie sourcière secrète d\u0027Anraku de cette manière."
-                                                                              },
-                                                                       "c3":  {
-                                                                                  "name":  "Jusqu\u0027à la lune de l\u0027aube terminant la nuit",
-                                                                                  "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003ePèlerinage d\u0027Aisa Utamakura\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                                  "description":  "Niveau d\u0027aptitude Pèlerinage d\u0027Aisa Utamakura +3.\nNiveau max : 15"
-                                                                              },
-                                                                       "c5":  {
-                                                                                  "name":  "La lune couchante apportant la fin de l\u0027année",
-                                                                                  "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eThérapie sourcière secrète d\u0027Anraku\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                                  "description":  "Niveau d\u0027aptitude Thérapie sourcière secrète d\u0027Anraku +3.\nNiveau max : 15"
-                                                                              },
-                                                                       "c6":  {
-                                                                                  "name":  "Le cœur s\u0027attardant longtemps",
-                                                                                  "descriptionRaw":  "Lorsque Yumemizuki Mizuki est dans l\u0027état Flotte-rêves, les DGT infligés par les réactions de Dispersion des personnages de l\u0027équipe à proximité peuvent déclencher des coups CRIT dont le taux CRIT est fixé à 30 % et les DGT CRIT à 100 %.",
-                                                                                  "description":  "Lorsque Yumemizuki Mizuki est dans l\u0027état Flotte-rêves, les DGT infligés par les réactions de Dispersion des personnages de l\u0027équipe à proximité peuvent déclencher des coups CRIT dont le taux CRIT est fixé à 30 % et les DGT CRIT à 100 %."
-                                                                              },
-                                                                       "c1":  {
-                                                                                  "name":  "Dans des eaux de brume",
-                                                                                  "descriptionRaw":  "Pendant l\u0027état Flotte-rêves, Yumemizuki Mizuki applique l\u0027effet Attente de 23 nuits toutes les 3,5 s aux ennemis proches, cet effet durant 3 s. Lorsqu\u0027un ennemi affecté par cet effet subit des DGT Anémo et déclenche une réaction de Dispersion, l\u0027effet est annulé pour augmenter les DGT de ladite réaction d\u0027une valeur équivalant à 1 100 % de la maîtrise élémentaire de Yumemizuki Mizuki.",
-                                                                                  "description":  "Pendant l\u0027état Flotte-rêves, Yumemizuki Mizuki applique l\u0027effet Attente de 23 nuits toutes les 3,5 s aux ennemis proches, cet effet durant 3 s. Lorsqu\u0027un ennemi affecté par cet effet subit des DGT Anémo et déclenche une réaction de Dispersion, l\u0027effet est annulé pour augmenter les DGT de ladite réaction d\u0027une valeur équivalant à 1 100 % de la maîtrise élémentaire de Yumemizuki Mizuki."
-                                                                              }
+                       "skirk":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Abîme profond",
+                                                                       "descriptionRaw":  "Après avoir utilisé sa compétence élémentaire \u003ccolor=#FFD780FF\u003eRavage : Distorsion\u003c/color\u003e, Skirk obtient 10 pts de {LINK#N11130005}\u003ccolor=#FFD780FF\u003efinesse serpentine\u003c/color\u003e{/LINK} supplémentaires.\nEn utilisant le déchaînement élémentaire \u003ccolor=#FFD780FF\u003eRavage : Ruine\u003c/color\u003e, les DGT augmentent en prenant en compte 10 pts de finesse serpentine supplémentaires.\nDe plus, lorsque Skirk a utilisé son déchaînement élémentaire spécial \u003ccolor=#FFD780FF\u003eRavage : Extinction\u003c/color\u003e pendant son mode {LINK#N11130006}\u003ccolor=#FFD780FF\u003eFlash à sept phases\u003c/color\u003e{/LINK}, son ATQ augmente de 70 % pendant 12,5 s, cet effet prenant fin lorsqu\u0027elle quitte le mode Flash à sept phases.",
+                                                                       "description":  "Après avoir utilisé sa compétence élémentaire Ravage : Distorsion, Skirk obtient 10 pts de **finesse serpentine** supplémentaires.\nEn utilisant le déchaînement élémentaire Ravage : Ruine, les DGT augmentent en prenant en compte 10 pts de finesse serpentine supplémentaires.\nDe plus, lorsque Skirk a utilisé son déchaînement élémentaire spécial Ravage : Extinction pendant son mode **Flash à sept phases**, son ATQ augmente de 70 % pendant 12,5 s, cet effet prenant fin lorsqu\u0027elle quitte le mode Flash à sept phases."
                                                                    },
-                                                "elementText":  "Anémo",
-                                                "fullname":  null,
-                                                "weaponText":  "Catalyseur",
-                                                "name":  "Yumemizuki Mizuki",
-                                                "substatText":  "Maîtrise élémentaire",
-                                                "region":  "Inazuma",
-                                                "gender":  "Femme"
-                                            },
+                                                            "c4":  {
+                                                                       "name":  "Flux scindé",
+                                                                       "descriptionRaw":  "L\u0027aptitude passive « {LINK#N11130008}\u003ccolor=#FFD780FF\u003eRetour à la désolation\u003c/color\u003e{/LINK} » est renforcée : chaque cumul de traversée de la mort augmente également l\u0027ATQ de Skirk de 10 %/20 %/40 %.\nL\u0027aptitude passive « Retour à la désolation » doit être déjà débloquée.",
+                                                                       "description":  "L\u0027aptitude passive « **Retour à la désolation** » est renforcée : chaque cumul de traversée de la mort augmente également l\u0027ATQ de Skirk de 10 %/20 %/40 %.\nL\u0027aptitude passive « Retour à la désolation » doit être déjà débloquée."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Vice fortuit",
+                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eRavage : Ruine\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                       "description":  "Niveau d\u0027aptitude Ravage : Ruine +3.\nNiveau max : 15"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Fin des souhaits",
+                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eRavage : Distorsion\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                       "description":  "Niveau d\u0027aptitude Ravage : Distorsion +3.\nNiveau max : 15"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Source revenue",
+                                                                       "descriptionRaw":  "#Skirk obtient un cumul de «{NON_BREAK_SPACE}Ravage{NON_BREAK_SPACE}: Section » pendant 15 s chaque fois qu\u0027elle absorbe une faille du néant grâce à l\u0027aptitude passive «{NON_BREAK_SPACE}{LINK#N11130007}\u003ccolor=#FFD780FF\u003eRaisonnement outre-raison\u003c/color\u003e{/LINK} ». Skirk peut consommer ces cumuls pour déclencher une attaque coordonnée et diminuer les DGT qu\u0027elle subit en mode {LINK#N11130006}\u003ccolor=#FFD780FF\u003eFlash à sept phases\u003c/color\u003e{/LINK}. Cet effet peut être cumulé 3 fois maximum, la durée de chaque cumul étant calculée de façon indépendante.\nL\u0027aptitude passive « Raisonnement outre-raison » doit être déjà débloquée.\n\n\u003ccolor=#FFD780FF\u003eRavage : Section\u003c/color\u003e\n· Lorsqu\u0027elle utilise son déchaînement élémentaire \u003ccolor=#FFD780FF\u003eRavage : Ruine\u003c/color\u003e, Skirk consomme tous les cumuls de \u003ccolor=#FFD780FF\u003eRavage : Section\u003c/color\u003e pour déclencher une attaque coordonnée{NON_BREAK_SPACE}: chaque cumul\u003ccolor=#FFD780FF\u003e\u003c/color\u003e inflige des \u003ccolor=#99FFFFFF\u003eDGT Cryo\u003c/color\u003e d\u0027une valeur équivalant à 750 % de l\u0027ATQ de Skirk, ces dégâts étant considérés comme des DGT de déchaînement élémentaire.\n· Lorsqu\u0027elle est en mode Flash à sept phases et que le 3e ou 5e coup de son attaque normale touche un ennemi, Skirk consomme un cumul de \u003ccolor=#FFD780FF\u003eRavage : Section\u003c/color\u003e pour déclencher 3 attaques coordonnées{NON_BREAK_SPACE}: chaque attaque coordonnée inflige des \u003ccolor=#99FFFFFF\u003eDGT Cryo\u003c/color\u003e d\u0027une valeur équivalant à 180 % de l\u0027ATQ de Skirk, ces dégâts étant considérés comme des DGT d\u0027attaque normale.\n· Lorsqu\u0027elle subit des DGT pendant son mode Flash à sept phases, Skirk consomme un cumul de \u003ccolor=#FFD780FF\u003eRavage : Section\u003c/color\u003e pour diminuer ces derniers de 80 % et déclencher 3 attaques coordonnées sur les ennemis proches : chaque attaque coordonnée inflige des \u003ccolor=#99FFFFFF\u003eDGT Cryo\u003c/color\u003e d\u0027une valeur équivalant à 180 % de l\u0027ATQ de Skirk, ces dégâts étant considérés comme des DGT d\u0027attaque chargée.",
+                                                                       "description":  "Skirk obtient un cumul de « Ravage : Section » pendant 15 s chaque fois qu\u0027elle absorbe une faille du néant grâce à l\u0027aptitude passive « **Raisonnement outre-raison** ». Skirk peut consommer ces cumuls pour déclencher une attaque coordonnée et diminuer les DGT qu\u0027elle subit en mode **Flash à sept phases**. Cet effet peut être cumulé 3 fois maximum, la durée de chaque cumul étant calculée de façon indépendante.\nL\u0027aptitude passive « Raisonnement outre-raison » doit être déjà débloquée.\n\nRavage : Section\n· Lorsqu\u0027elle utilise son déchaînement élémentaire Ravage : Ruine, Skirk consomme tous les cumuls de Ravage : Section pour déclencher une attaque coordonnée : chaque cumul inflige des DGT Cryo d\u0027une valeur équivalant à 750 % de l\u0027ATQ de Skirk, ces dégâts étant considérés comme des DGT de déchaînement élémentaire.\n· Lorsqu\u0027elle est en mode Flash à sept phases et que le 3e ou 5e coup de son attaque normale touche un ennemi, Skirk consomme un cumul de Ravage : Section pour déclencher 3 attaques coordonnées : chaque attaque coordonnée inflige des DGT Cryo d\u0027une valeur équivalant à 180 % de l\u0027ATQ de Skirk, ces dégâts étant considérés comme des DGT d\u0027attaque normale.\n· Lorsqu\u0027elle subit des DGT pendant son mode Flash à sept phases, Skirk consomme un cumul de Ravage : Section pour diminuer ces derniers de 80 % et déclencher 3 attaques coordonnées sur les ennemis proches : chaque attaque coordonnée inflige des DGT Cryo d\u0027une valeur équivalant à 180 % de l\u0027ATQ de Skirk, ces dégâts étant considérés comme des DGT d\u0027attaque chargée."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Chute longue",
+                                                                       "descriptionRaw":  "L\u0027aptitude passive « {LINK#N11130007}\u003ccolor=#FFD780FF\u003eRaisonnement outre-raison\u003c/color\u003e{/LINK} » est renforcée : absorber une faille du néant invoque une lame cristalline qui attaque les ennemis proches, infligeant des \u003ccolor=#99FFFFFF\u003eDGT Cryo\u003c/color\u003e d\u0027une valeur équivalant à 500 % de l\u0027ATQ de Skirk. Ces DGT sont considérés comme des DGT d\u0027attaque chargée.\nL\u0027aptitude passive « Raisonnement outre-raison » doit être déjà débloquée.",
+                                                                       "description":  "L\u0027aptitude passive « **Raisonnement outre-raison** » est renforcée : absorber une faille du néant invoque une lame cristalline qui attaque les ennemis proches, infligeant des DGT Cryo d\u0027une valeur équivalant à 500 % de l\u0027ATQ de Skirk. Ces DGT sont considérés comme des DGT d\u0027attaque chargée.\nL\u0027aptitude passive « Raisonnement outre-raison » doit être déjà débloquée."
+                                                                   }
+                                                        },
+                                     "elementText":  "Cryo",
+                                     "fullname":  null,
+                                     "weaponText":  "Épée à une main",
+                                     "name":  "Skirk",
+                                     "substatText":  "DGT CRIT",
+                                     "region":  null,
+                                     "gender":  "Femme"
+                                 },
                        "iansan":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3538,6 +3582,47 @@
                                          "region":  "Liyue",
                                          "gender":  "Femme"
                                      },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Un écho rencontré en rêve",
+                                                                                  "descriptionRaw":  "En entrant dans l\u0027état Flotte-rêves, chaque point de maîtrise élémentaire de Yumemizuki Mizuki accorde à tous les autres personnages de l\u0027équipe à proximité des bonus de DGT \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e et \u003ccolor=#FFACFFFF\u003eÉlectro\u003c/color\u003e de 0,04 %, ces bonus durant jusqu\u0027à la fin de l\u0027état Flotte-rêves.",
+                                                                                  "description":  "En entrant dans l\u0027état Flotte-rêves, chaque point de maîtrise élémentaire de Yumemizuki Mizuki accorde à tous les autres personnages de l\u0027équipe à proximité des bonus de DGT Pyro, Hydro, Cryo et Électro de 0,04 %, ces bonus durant jusqu\u0027à la fin de l\u0027état Flotte-rêves."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Bourgeons réchauffant les sources lucides",
+                                                                                  "descriptionRaw":  "Collecter un \u003ccolor=#FFD780FF\u003esnack de style yumemi\u003c/color\u003e du déchaînement élémentaire \u003ccolor=#FFD780FF\u003eThérapie sourcière secrète d\u0027Anraku\u003c/color\u003e permet à la fois d\u0027infliger des DGT et de soigner et restaure 5 pts d\u0027énergie élémentaire à Yumemizuki Mizuki. L\u0027énergie élémentaire peut être restaurée 4 fois pendant la durée d\u0027une \u003ccolor=#FFD780FF\u003eThérapie sourcière secrète d\u0027Anraku\u003c/color\u003e de cette manière.",
+                                                                                  "description":  "Collecter un snack de style yumemi du déchaînement élémentaire Thérapie sourcière secrète d\u0027Anraku permet à la fois d\u0027infliger des DGT et de soigner et restaure 5 pts d\u0027énergie élémentaire à Yumemizuki Mizuki. L\u0027énergie élémentaire peut être restaurée 4 fois pendant la durée d\u0027une Thérapie sourcière secrète d\u0027Anraku de cette manière."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Jusqu\u0027à la lune de l\u0027aube terminant la nuit",
+                                                                                  "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003ePèlerinage d\u0027Aisa Utamakura\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                                  "description":  "Niveau d\u0027aptitude Pèlerinage d\u0027Aisa Utamakura +3.\nNiveau max : 15"
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "La lune couchante apportant la fin de l\u0027année",
+                                                                                  "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eThérapie sourcière secrète d\u0027Anraku\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                                  "description":  "Niveau d\u0027aptitude Thérapie sourcière secrète d\u0027Anraku +3.\nNiveau max : 15"
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "Le cœur s\u0027attardant longtemps",
+                                                                                  "descriptionRaw":  "Lorsque Yumemizuki Mizuki est dans l\u0027état Flotte-rêves, les DGT infligés par les réactions de Dispersion des personnages de l\u0027équipe à proximité peuvent déclencher des coups CRIT dont le taux CRIT est fixé à 30 % et les DGT CRIT à 100 %.",
+                                                                                  "description":  "Lorsque Yumemizuki Mizuki est dans l\u0027état Flotte-rêves, les DGT infligés par les réactions de Dispersion des personnages de l\u0027équipe à proximité peuvent déclencher des coups CRIT dont le taux CRIT est fixé à 30 % et les DGT CRIT à 100 %."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Dans des eaux de brume",
+                                                                                  "descriptionRaw":  "Pendant l\u0027état Flotte-rêves, Yumemizuki Mizuki applique l\u0027effet Attente de 23 nuits toutes les 3,5 s aux ennemis proches, cet effet durant 3 s. Lorsqu\u0027un ennemi affecté par cet effet subit des DGT Anémo et déclenche une réaction de Dispersion, l\u0027effet est annulé pour augmenter les DGT de ladite réaction d\u0027une valeur équivalant à 1 100 % de la maîtrise élémentaire de Yumemizuki Mizuki.",
+                                                                                  "description":  "Pendant l\u0027état Flotte-rêves, Yumemizuki Mizuki applique l\u0027effet Attente de 23 nuits toutes les 3,5 s aux ennemis proches, cet effet durant 3 s. Lorsqu\u0027un ennemi affecté par cet effet subit des DGT Anémo et déclenche une réaction de Dispersion, l\u0027effet est annulé pour augmenter les DGT de ladite réaction d\u0027une valeur équivalant à 1 100 % de la maîtrise élémentaire de Yumemizuki Mizuki."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anémo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalyseur",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Maîtrise élémentaire",
+                                                "region":  "Inazuma",
+                                                "gender":  "Femme"
+                                            },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7837,6 +7922,53 @@
                                                },
                                         "effectName":  "Ombre lunaire en forêt"
                                     },
+                    "azurelight":  {
+                                       "r3":  {
+                                                  "description":  "L\u0027ATQ augmente de 36 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l\u0027arme n\u0027a plus d\u0027énergie élémentaire pendant cette période, son ATQ augmente de 36 % supplémentaires et ses DGT CRIT de 60 %.",
+                                                  "values":  [
+                                                                 "36 %",
+                                                                 "36 %",
+                                                                 "60 %"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "L\u0027ATQ augmente de 48 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l\u0027arme n\u0027a plus d\u0027énergie élémentaire pendant cette période, son ATQ augmente de 48 % supplémentaires et ses DGT CRIT de 80 %.",
+                                                  "values":  [
+                                                                 "48 %",
+                                                                 "48 %",
+                                                                 "80 %"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "L\u0027ATQ augmente de 30 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l\u0027arme n\u0027a plus d\u0027énergie élémentaire pendant cette période, son ATQ augmente de 30 % supplémentaires et ses DGT CRIT de 50 %.",
+                                                  "values":  [
+                                                                 "30 %",
+                                                                 "30 %",
+                                                                 "50 %"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "L\u0027ATQ augmente de 42 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l\u0027arme n\u0027a plus d\u0027énergie élémentaire pendant cette période, son ATQ augmente de 42 % supplémentaires et ses DGT CRIT de 70 %.",
+                                                  "values":  [
+                                                                 "42 %",
+                                                                 "42 %",
+                                                                 "70 %"
+                                                             ]
+                                              },
+                                       "substatText":  "Taux CRIT",
+                                       "weaponText":  "Épée à une main",
+                                       "name":  "Éclazur",
+                                       "effectTemplateRaw":  "L\u0027ATQ augmente de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l\u0027arme n\u0027a plus d\u0027énergie élémentaire pendant cette période, son ATQ augmente de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e supplémentaires et ses DGT CRIT de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                       "r1":  {
+                                                  "description":  "L\u0027ATQ augmente de 24 % pendant 12 s après avoir déclenché une compétence élémentaire. Si le personnage équipé de l\u0027arme n\u0027a plus d\u0027énergie élémentaire pendant cette période, son ATQ augmente de 24 % supplémentaires et ses DGT CRIT de 40 %.",
+                                                  "values":  [
+                                                                 "24 %",
+                                                                 "24 %",
+                                                                 "40 %"
+                                                             ]
+                                              },
+                                       "effectName":  "Munificence de la colline blanche"
+                                   },
                     "compoundbow":  {
                                         "r3":  {
                                                    "description":  "Les attaques normales et chargées confèrent un bonus d\u0027ATQ de 6 % ainsi qu\u0027un bonus de VIT d\u0027attaque normale de 1,8 % pendant 6 s lorsqu\u0027elles touchent. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,3 s.",
@@ -9977,9 +10109,9 @@
                                               "substatText":  "ATQ",
                                               "weaponText":  "Épée à une main",
                                               "name":  "Épée de la descente",
-                                              "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eUniquement pour les joueurs sur :\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e« PlayStation Network »\u003c/color\u003e\nLes attaques normales et chargées ont \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chances, lorsqu\u0027elles touchent, d\u0027infliger des DGT équivalant à \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e de l\u0027ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 10 s. De plus, l\u0027ATQ {M#du voyageur}{F#de la voyageuse} augmente de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e pts lorsque l\u0027Épée de la descente est équipée.",
+                                              "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eUniquement pour les joueurs sur :\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e« PlayStation™Network »\u003c/color\u003e\nLes attaques normales et chargées ont \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chances, lorsqu\u0027elles touchent, d\u0027infliger des DGT équivalant à \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e de l\u0027ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 10 s. De plus, l\u0027ATQ {M#du voyageur}{F#de la voyageuse} augmente de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e pts lorsque l\u0027Épée de la descente est équipée.",
                                               "r1":  {
-                                                         "description":  "Uniquement pour les joueurs sur :\n« PlayStation Network »\nLes attaques normales et chargées ont 50 % de chances, lorsqu\u0027elles touchent, d\u0027infliger des DGT équivalant à 200 % de l\u0027ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 10 s. De plus, l\u0027ATQ du voyageur augmente de 66 pts lorsque l\u0027Épée de la descente est équipée.",
+                                                         "description":  "Uniquement pour les joueurs sur :\n« PlayStation™Network »\nLes attaques normales et chargées ont 50 % de chances, lorsqu\u0027elles touchent, d\u0027infliger des DGT équivalant à 200 % de l\u0027ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 10 s. De plus, l\u0027ATQ du voyageur augmente de 66 pts lorsque l\u0027Épée de la descente est équipée.",
                                                          "values":  [
                                                                         "50 %",
                                                                         "200 %",
@@ -14882,9 +15014,9 @@
                                      "substatText":  "ATQ",
                                      "weaponText":  "Arc",
                                      "name":  "Predator",
-                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eUniquement pour les joueurs sur :\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e« PlayStation Network »\u003c/color\u003e\nAprès avoir infligé des DGT Cryo aux ennemis, les DGT infligés par les attaques normales et chargées augmentent de 10 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum. De plus, lorsque Aloy équipe le Predator, son ATQ augmente de 66 pts.",
+                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eUniquement pour les joueurs sur :\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e« PlayStation™Network »\u003c/color\u003e\nAprès avoir infligé des DGT Cryo aux ennemis, les DGT infligés par les attaques normales et chargées augmentent de 10 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum. De plus, lorsque Aloy équipe le Predator, son ATQ augmente de 66 pts.",
                                      "r1":  {
-                                                "description":  "Uniquement pour les joueurs sur :\n« PlayStation Network »\nAprès avoir infligé des DGT Cryo aux ennemis, les DGT infligés par les attaques normales et chargées augmentent de 10 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum. De plus, lorsque Aloy équipe le Predator, son ATQ augmente de 66 pts.",
+                                                "description":  "Uniquement pour les joueurs sur :\n« PlayStation™Network »\nAprès avoir infligé des DGT Cryo aux ennemis, les DGT infligés par les attaques normales et chargées augmentent de 10 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum. De plus, lorsque Aloy équipe le Predator, son ATQ augmente de 66 pts.",
                                                 "values":  [
 
                                                            ]

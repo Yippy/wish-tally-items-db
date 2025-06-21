@@ -1334,6 +1334,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Narukamis Weisheit"
                                           },
+                      "dustofenlightenment":  {
+                                                  "name":  "Staub der Erleuchtung"
+                                              },
                       "perpetualcaliber":  {
                                                "name":  "Ewiges Uhrwerk"
                                            },
@@ -2818,14 +2821,14 @@
                                                                            "description":  "Erhöht die Stufe der Fähigkeit Dämonengewand – Stürmische Gezeiten um 3.\nHöchststufe 15."
                                                                        },
                                                                 "c5":  {
-                                                                           "name":  "Spezialangriff – Regenschlächter",
-                                                                           "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eSpezialangriff – Totale Vernichtung\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                           "description":  "Erhöht die Stufe der Fähigkeit Spezialangriff – Totale Vernichtung um 3.\nHöchststufe 15."
+                                                                           "name":  "Verdorbene Kunst – Regenschlächter",
+                                                                           "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Totale Vernichtung\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                           "description":  "Erhöht die Stufe der Fähigkeit Verdorbene Kunst – Totale Vernichtung um 3.\nHöchststufe 15."
                                                                        },
                                                                 "c6":  {
-                                                                           "name":  "Spezialangriff – Komplette Auslöschung",
-                                                                           "descriptionRaw":  "Überspringt die Abklingzeit von \u003ccolor=#FFD780FF\u003eDämonengewand – Stürmische Gezeiten\u003c/color\u003e bei Anwendung von \u003ccolor=#FFD780FF\u003eSpezialangriff – Totale Vernichtung\u003c/color\u003e im Nahkampf.\nDieser Effekt wird nach dem Wechsel in den Fernkampf aktiv.",
-                                                                           "description":  "Überspringt die Abklingzeit von Dämonengewand – Stürmische Gezeiten bei Anwendung von Spezialangriff – Totale Vernichtung im Nahkampf.\nDieser Effekt wird nach dem Wechsel in den Fernkampf aktiv."
+                                                                           "name":  "Verdorbene Kunst – Komplette Auslöschung",
+                                                                           "descriptionRaw":  "Überspringt die Abklingzeit von \u003ccolor=#FFD780FF\u003eDämonengewand – Stürmische Gezeiten\u003c/color\u003e bei Anwendung von \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Totale Vernichtung\u003c/color\u003e im Nahkampf.\nDieser Effekt wird nach dem Wechsel in den Fernkampf aktiv.",
+                                                                           "description":  "Überspringt die Abklingzeit von Dämonengewand – Stürmische Gezeiten bei Anwendung von Verdorbene Kunst – Totale Vernichtung im Nahkampf.\nDieser Effekt wird nach dem Wechsel in den Fernkampf aktiv."
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Dämonengewand – Wellenbrecher",
@@ -3128,6 +3131,47 @@
                                          "region":  "Sumeru",
                                          "gender":  "Männlich"
                                      },
+                       "dahlia":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Offenbarung der Barmherzigkeit",
+                                                                        "descriptionRaw":  "#Erhöht die Schildeffizienz der Figuren im Schutz vom Schild der heiligen Gunst für 12{NON_BREAK_SPACE}s um 25{NON_BREAK_SPACE}%, nachdem Dahlia den Effekt „Segen“ der Spezialfähigkeit \u003ccolor=#FFD780FF\u003e„Glänzend reines Gebet“\u003c/color\u003e verbraucht und dadurch den Schild der heiligen Gunst erschaffen hat.",
+                                                                        "description":  "Erhöht die Schildeffizienz der Figuren im Schutz vom Schild der heiligen Gunst für 12 s um 25 %, nachdem Dahlia den Effekt „Segen“ der Spezialfähigkeit „Glänzend reines Gebet“ verbraucht und dadurch den Schild der heiligen Gunst erschaffen hat."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Oration aller Wünsche",
+                                                                        "descriptionRaw":  "#Verlängert die Dauer des Effekts „Favonius-Gunst“ der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eGlänzend reines Gebet\u003c/color\u003e um 3{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Verlängert die Dauer des Effekts „Favonius-Gunst“ der Spezialfähigkeit Glänzend reines Gebet um 3 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Windblumenopfer",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eGlänzend reines Gebet\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Spezialfähigkeit Glänzend reines Gebet um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Wachsende Intrigen",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSakrament der Immersion\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Elementarfähigkeit Sakrament der Immersion um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Möge dich die Freude begleiten",
+                                                                        "descriptionRaw":  "#Erhöht die Angriffs-GSW der vom Effekt „Favonius-Gunst“ der Spezialfähigkeit \u003ccolor=#FFD780FF\u003e„Glänzend reines Gebet“\u003c/color\u003e betroffenen aktiven Figuren um 10{NON_BREAK_SPACE}%.\nAußerdem, wenn die vom Effekt „Favonius-Gunst“ betroffenen aktiven Figuren besiegt werden:\n· Belebt diese Figur wieder.\n· Stellt dieser Figur 100{NON_BREAK_SPACE}% LP wieder her.\n15{NON_BREAK_SPACE}min Abklingzeit.",
+                                                                        "description":  "Erhöht die Angriffs-GSW der vom Effekt „Favonius-Gunst“ der Spezialfähigkeit „Glänzend reines Gebet“ betroffenen aktiven Figuren um 10 %.\nAußerdem, wenn die vom Effekt „Favonius-Gunst“ betroffenen aktiven Figuren besiegt werden:\n· Belebt diese Figur wieder.\n· Stellt dieser Figur 100 % LP wieder her.\n15 min Abklingzeit."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Makellose Führung",
+                                                                        "descriptionRaw":  "Stellt Dahlia für jede erhaltene Stapelung des Effekts „Segen“ der Spezialfähigkeit \u003ccolor=#FFD780FF\u003e„Glänzend reines Gebet“\u003c/color\u003e 2,5 Punkte Elementarenergie wieder her.",
+                                                                        "description":  "Stellt Dahlia für jede erhaltene Stapelung des Effekts „Segen“ der Spezialfähigkeit „Glänzend reines Gebet“ 2,5 Punkte Elementarenergie wieder her."
+                                                                    }
+                                                         },
+                                      "elementText":  "Hydro",
+                                      "fullname":  null,
+                                      "weaponText":  "Einhänder",
+                                      "name":  "Dahlia",
+                                      "substatText":  "LP",
+                                      "region":  "Mondstadt",
+                                      "gender":  "Männlich"
+                                  },
                        "yoimiya":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3210,47 +3254,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Weiblich"
                                 },
-                       "yumemizukimizuki":  {
-                                                "constellations":  {
-                                                                       "c2":  {
-                                                                                  "name":  "Begegnung mit dir in meinen Träumen",
-                                                                                  "descriptionRaw":  "#Erhöht im Zustand Träumerisches Treiben den \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e-, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e-, \u003ccolor=#99FFFFFF\u003eKryo\u003c/color\u003e- und \u003ccolor=#FFACFFFF\u003eElektro\u003c/color\u003e-Schaden aller anderen Truppenmitglieder in der Nähe für jeden Punkt Elementarkunde von Yumemizuki Mizuki um 0,04{NON_BREAK_SPACE}%, hält bis zum Ende des Zustands Träumerisches Treiben.",
-                                                                                  "description":  "Erhöht im Zustand Träumerisches Treiben den Pyro-, Hydro-, Kryo- und Elektro-Schaden aller anderen Truppenmitglieder in der Nähe für jeden Punkt Elementarkunde von Yumemizuki Mizuki um 0,04 %, hält bis zum Ende des Zustands Träumerisches Treiben."
-                                                                              },
-                                                                       "c4":  {
-                                                                                  "name":  "Im warmen Quellwasser treibende Blüten",
-                                                                                  "descriptionRaw":  "#Verursacht beim Aufsammeln von \u003ccolor=#FFD780FF\u003eSnacks nach Yumemi-Art\u003c/color\u003e der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eAnraku-Therapie in den geheimen Quellen\u003c/color\u003e Schaden und heilt gleichzeitig. Stellt Yumemizuki Mizuki dabei 5{NON_BREAK_SPACE}Punkte Elementarenergie wieder her, während einer Anwendung von \u003ccolor=#FFD780FF\u003eAnraku-Therapie in den geheimen Quellen\u003c/color\u003e aber höchstens 4-mal.",
-                                                                                  "description":  "Verursacht beim Aufsammeln von Snacks nach Yumemi-Art der Spezialfähigkeit Anraku-Therapie in den geheimen Quellen Schaden und heilt gleichzeitig. Stellt Yumemizuki Mizuki dabei 5 Punkte Elementarenergie wieder her, während einer Anwendung von Anraku-Therapie in den geheimen Quellen aber höchstens 4-mal."
-                                                                              },
-                                                                       "c3":  {
-                                                                                  "name":  "Mondenschein am Ende der Nacht",
-                                                                                  "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eWallfahrt nach Aisa Utamakura\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                                  "description":  "Erhöht die Stufe der Elementarfähigkeit Wallfahrt nach Aisa Utamakura um 3.\nHöchststufe 15."
-                                                                              },
-                                                                       "c5":  {
-                                                                                  "name":  "Rückkehr des Mondes am Jahresende",
-                                                                                  "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eAnraku-Therapie in den geheimen Quellen\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                                  "description":  "Erhöht die Stufe der Spezialfähigkeit Anraku-Therapie in den geheimen Quellen um 3.\nHöchststufe 15."
-                                                                              },
-                                                                       "c6":  {
-                                                                                  "name":  "Sehnsucht tief in meinem Herzen",
-                                                                                  "descriptionRaw":  "#Wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben ist, können beim Verursachen der Reaktion Verwirbelung durch Truppenmitglieder in der Nähe Kritische Treffer des entsprechenden Schadens ausgelöst werden, wobei die KT auf 30{NON_BREAK_SPACE}% und der KSCH auf 100{NON_BREAK_SPACE}% festgelegt sind.",
-                                                                                  "description":  "Wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben ist, können beim Verursachen der Reaktion Verwirbelung durch Truppenmitglieder in der Nähe Kritische Treffer des entsprechenden Schadens ausgelöst werden, wobei die KT auf 30 % und der KSCH auf 100 % festgelegt sind."
-                                                                              },
-                                                                       "c1":  {
-                                                                                  "name":  "Fernen Wassern gleicher Nebel in der Nacht",
-                                                                                  "descriptionRaw":  "#Yumemizuki Mizuki fügt im Zustand Träumerisches Treiben alle 3,5{NON_BREAK_SPACE}s Gegnern in der Nähe den 3{NON_BREAK_SPACE}s haltenden Effekt „Dreiundzwanzig Nächte des Wartens“ zu. Entfernt diesen Effekt von Gegnern, sobald diese von einer Reaktion Verwirbelung erfasst werden, die durch Anemo-Schaden entsteht, und erhöht den diesen Gegnern durch diese Reaktion zugefügten Schaden einmalig um 1.100{NON_BREAK_SPACE}% von Yumemizuki Mizukis Elementarkunde.",
-                                                                                  "description":  "Yumemizuki Mizuki fügt im Zustand Träumerisches Treiben alle 3,5 s Gegnern in der Nähe den 3 s haltenden Effekt „Dreiundzwanzig Nächte des Wartens“ zu. Entfernt diesen Effekt von Gegnern, sobald diese von einer Reaktion Verwirbelung erfasst werden, die durch Anemo-Schaden entsteht, und erhöht den diesen Gegnern durch diese Reaktion zugefügten Schaden einmalig um 1.100 % von Yumemizuki Mizukis Elementarkunde."
-                                                                              }
+                       "skirk":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "In den Abgrund",
+                                                                       "descriptionRaw":  "#Verleiht Skirk nach dem Anwenden ihrer Elementarfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Verzerrung\u003c/color\u003e zusätzlich 10{NON_BREAK_SPACE}Pkt. {LINK#N11130005}\u003ccolor=#FFD780FF\u003e„List der Schlange“\u003c/color\u003e{/LINK}.\nVerstärkt beim Auslösen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Zerstörung\u003c/color\u003e deren verursachten Schaden, indem bis zu 10 zusätzliche Punkte von „List der Schlange“ mit hinzugezählt werden.\nAußerdem erhöht sich Skirks ANG für 12,5{NON_BREAK_SPACE}s um 70{NON_BREAK_SPACE}%, nachdem sie im Modus {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSieben-Phasen-Blitz\u003c/color\u003e{/LINK} ihre besondere Spezialfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Vernichtung\u003c/color\u003e ausgelöst hat. Dieser Effekt wird aufgehoben, wenn Skirk den Sieben-Phasen-Blitzmodus beendet.",
+                                                                       "description":  "Verleiht Skirk nach dem Anwenden ihrer Elementarfähigkeit Verdorbene Kunst – Verzerrung zusätzlich 10 Pkt. **„List der Schlange“**.\nVerstärkt beim Auslösen der Spezialfähigkeit Verdorbene Kunst – Zerstörung deren verursachten Schaden, indem bis zu 10 zusätzliche Punkte von „List der Schlange“ mit hinzugezählt werden.\nAußerdem erhöht sich Skirks ANG für 12,5 s um 70 %, nachdem sie im Modus **Sieben-Phasen-Blitz** ihre besondere Spezialfähigkeit Verdorbene Kunst – Vernichtung ausgelöst hat. Dieser Effekt wird aufgehoben, wenn Skirk den Sieben-Phasen-Blitzmodus beendet."
                                                                    },
-                                                "elementText":  "Anemo",
-                                                "fullname":  null,
-                                                "weaponText":  "Katalysator",
-                                                "name":  "Yumemizuki Mizuki",
-                                                "substatText":  "Elementarkunde",
-                                                "region":  "Inazuma",
-                                                "gender":  "Weiblich"
-                                            },
+                                                            "c4":  {
+                                                                       "name":  "Unterbrochener Fluss",
+                                                                       "descriptionRaw":  "#Verstärkt den Effekt des passiven Talents {LINK#N11130008}\u003ccolor=#FFD780FF\u003eRückkehr ins Vergessen\u003c/color\u003e{/LINK}: Erhöht für jede Stapelung „Kreuzung des Todes“ den ANG von Skirk zusätzlich um 10/20/40{NON_BREAK_SPACE}%.\nDas passive Talent „Rückkehr ins Vergessen“ muss zuerst freigeschaltet werden.",
+                                                                       "description":  "Verstärkt den Effekt des passiven Talents **Rückkehr ins Vergessen**: Erhöht für jede Stapelung „Kreuzung des Todes“ den ANG von Skirk zusätzlich um 10/20/40 %.\nDas passive Talent „Rückkehr ins Vergessen“ muss zuerst freigeschaltet werden."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Schicksalhafte Verderbnis",
+                                                                       "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Zerstörung\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                       "description":  "Erhöht die Stufe der Spezialfähigkeit Verdorbene Kunst – Zerstörung um 3.\nHöchststufe 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Letzter Wunsch",
+                                                                       "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Verzerrung\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                       "description":  "Erhöht die Stufe der Elementarfähigkeit Verdorbene Kunst – Verzerrung um 3.\nHöchststufe 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Zur Quelle",
+                                                                       "descriptionRaw":  "#Verleiht Skirk für jeden „Leere-Riss“, den sie durch das passive Talent {LINK#N11130007}\u003ccolor=#FFD780FF\u003e„Vernunft jenseits der Vernunft“\u003c/color\u003e{/LINK} absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSieben-Phasen-Blitz\u003c/color\u003e{/LINK} erleidet, verringert. Die Stapelung des Effekts hält 15{NON_BREAK_SPACE}s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\n\u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e\n· Führt beim Auslösen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Zerstörung\u003c/color\u003e einen abgestimmten Angriff aus, der sämtliche Stapelungen von \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e verbraucht und für jede verbrauchte Stapelung \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 750{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e, um den diesmaligen erlittenen Schaden um 80{NON_BREAK_SPACE}% zu verringern und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.",
+                                                                       "description":  "Verleiht Skirk für jeden „Leere-Riss“, den sie durch das passive Talent **„Vernunft jenseits der Vernunft“** absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus **Sieben-Phasen-Blitz** erleidet, verringert. Die Stapelung des Effekts hält 15 s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\nVerdorbene Kunst – Enthauptung\n· Führt beim Auslösen der Spezialfähigkeit Verdorbene Kunst – Zerstörung einen abgestimmten Angriff aus, der sämtliche Stapelungen von Verdorbene Kunst – Enthauptung verbraucht und für jede verbrauchte Stapelung Kryo-Schaden in Höhe von 750 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts Verdorbene Kunst – Enthauptung und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung Verdorbene Kunst – Enthauptung, um den diesmaligen erlittenen Schaden um 80 % zu verringern und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Tiefer Fall",
+                                                                       "descriptionRaw":  "#Verstärkt den Effekt des passiven Talents {LINK#N11130007}\u003ccolor=#FFD780FF\u003eVernunft jenseits der Vernunft\u003c/color\u003e{/LINK}: Für jeden absorbierten Leere-Riss wird eine Kristallklinge beschworen, die Gegner in der Nähe angreift und \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 500{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.",
+                                                                       "description":  "Verstärkt den Effekt des passiven Talents **Vernunft jenseits der Vernunft**: Für jeden absorbierten Leere-Riss wird eine Kristallklinge beschworen, die Gegner in der Nähe angreift und Kryo-Schaden in Höhe von 500 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden."
+                                                                   }
+                                                        },
+                                     "elementText":  "Kryo",
+                                     "fullname":  null,
+                                     "weaponText":  "Einhänder",
+                                     "name":  "Skirk",
+                                     "substatText":  "KSCH",
+                                     "region":  null,
+                                     "gender":  "Weiblich"
+                                 },
                        "iansan":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3538,6 +3582,47 @@
                                          "region":  "Liyue",
                                          "gender":  "Weiblich"
                                      },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Begegnung mit dir in meinen Träumen",
+                                                                                  "descriptionRaw":  "#Erhöht im Zustand Träumerisches Treiben den \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e-, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e-, \u003ccolor=#99FFFFFF\u003eKryo\u003c/color\u003e- und \u003ccolor=#FFACFFFF\u003eElektro\u003c/color\u003e-Schaden aller anderen Truppenmitglieder in der Nähe für jeden Punkt Elementarkunde von Yumemizuki Mizuki um 0,04{NON_BREAK_SPACE}%, hält bis zum Ende des Zustands Träumerisches Treiben.",
+                                                                                  "description":  "Erhöht im Zustand Träumerisches Treiben den Pyro-, Hydro-, Kryo- und Elektro-Schaden aller anderen Truppenmitglieder in der Nähe für jeden Punkt Elementarkunde von Yumemizuki Mizuki um 0,04 %, hält bis zum Ende des Zustands Träumerisches Treiben."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Im warmen Quellwasser treibende Blüten",
+                                                                                  "descriptionRaw":  "#Verursacht beim Aufsammeln von \u003ccolor=#FFD780FF\u003eSnacks nach Yumemi-Art\u003c/color\u003e der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eAnraku-Therapie in den geheimen Quellen\u003c/color\u003e Schaden und heilt gleichzeitig. Stellt Yumemizuki Mizuki dabei 5{NON_BREAK_SPACE}Punkte Elementarenergie wieder her, während einer Anwendung von \u003ccolor=#FFD780FF\u003eAnraku-Therapie in den geheimen Quellen\u003c/color\u003e aber höchstens 4-mal.",
+                                                                                  "description":  "Verursacht beim Aufsammeln von Snacks nach Yumemi-Art der Spezialfähigkeit Anraku-Therapie in den geheimen Quellen Schaden und heilt gleichzeitig. Stellt Yumemizuki Mizuki dabei 5 Punkte Elementarenergie wieder her, während einer Anwendung von Anraku-Therapie in den geheimen Quellen aber höchstens 4-mal."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Mondenschein am Ende der Nacht",
+                                                                                  "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eWallfahrt nach Aisa Utamakura\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                                  "description":  "Erhöht die Stufe der Elementarfähigkeit Wallfahrt nach Aisa Utamakura um 3.\nHöchststufe 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "Rückkehr des Mondes am Jahresende",
+                                                                                  "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eAnraku-Therapie in den geheimen Quellen\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                                  "description":  "Erhöht die Stufe der Spezialfähigkeit Anraku-Therapie in den geheimen Quellen um 3.\nHöchststufe 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "Sehnsucht tief in meinem Herzen",
+                                                                                  "descriptionRaw":  "#Wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben ist, können beim Verursachen der Reaktion Verwirbelung durch Truppenmitglieder in der Nähe Kritische Treffer des entsprechenden Schadens ausgelöst werden, wobei die KT auf 30{NON_BREAK_SPACE}% und der KSCH auf 100{NON_BREAK_SPACE}% festgelegt sind.",
+                                                                                  "description":  "Wenn Yumemizuki Mizuki im Zustand Träumerisches Treiben ist, können beim Verursachen der Reaktion Verwirbelung durch Truppenmitglieder in der Nähe Kritische Treffer des entsprechenden Schadens ausgelöst werden, wobei die KT auf 30 % und der KSCH auf 100 % festgelegt sind."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Fernen Wassern gleicher Nebel in der Nacht",
+                                                                                  "descriptionRaw":  "#Yumemizuki Mizuki fügt im Zustand Träumerisches Treiben alle 3,5{NON_BREAK_SPACE}s Gegnern in der Nähe den 3{NON_BREAK_SPACE}s haltenden Effekt „Dreiundzwanzig Nächte des Wartens“ zu. Entfernt diesen Effekt von Gegnern, sobald diese von einer Reaktion Verwirbelung erfasst werden, die durch Anemo-Schaden entsteht, und erhöht den diesen Gegnern durch diese Reaktion zugefügten Schaden einmalig um 1.100{NON_BREAK_SPACE}% von Yumemizuki Mizukis Elementarkunde.",
+                                                                                  "description":  "Yumemizuki Mizuki fügt im Zustand Träumerisches Treiben alle 3,5 s Gegnern in der Nähe den 3 s haltenden Effekt „Dreiundzwanzig Nächte des Wartens“ zu. Entfernt diesen Effekt von Gegnern, sobald diese von einer Reaktion Verwirbelung erfasst werden, die durch Anemo-Schaden entsteht, und erhöht den diesen Gegnern durch diese Reaktion zugefügten Schaden einmalig um 1.100 % von Yumemizuki Mizukis Elementarkunde."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Katalysator",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Elementarkunde",
+                                                "region":  "Inazuma",
+                                                "gender":  "Weiblich"
+                                            },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7837,6 +7922,53 @@
                                                },
                                         "effectName":  "Geräuschloser Wald im Mondschein"
                                     },
+                    "azurelight":  {
+                                       "r3":  {
+                                                  "description":  "Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 36 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 36 % erhöht und der KSCH wird um 60 % erhöht.",
+                                                  "values":  [
+                                                                 "36{NON_BREAK_SPACE}%",
+                                                                 "36{NON_BREAK_SPACE}%",
+                                                                 "60{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 48 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 48 % erhöht und der KSCH wird um 80 % erhöht.",
+                                                  "values":  [
+                                                                 "48{NON_BREAK_SPACE}%",
+                                                                 "48{NON_BREAK_SPACE}%",
+                                                                 "80{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 30 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 30 % erhöht und der KSCH wird um 50 % erhöht.",
+                                                  "values":  [
+                                                                 "30{NON_BREAK_SPACE}%",
+                                                                 "30{NON_BREAK_SPACE}%",
+                                                                 "50{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 42 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 42 % erhöht und der KSCH wird um 70 % erhöht.",
+                                                  "values":  [
+                                                                 "42{NON_BREAK_SPACE}%",
+                                                                 "42{NON_BREAK_SPACE}%",
+                                                                 "70{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "substatText":  "KT",
+                                       "weaponText":  "Einhänder",
+                                       "name":  "Azurglanz",
+                                       "effectTemplateRaw":  "#Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e erhöht und der KSCH wird um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e erhöht.",
+                                       "r1":  {
+                                                  "description":  "Erhöht nach dem Anwenden von Elementarfähigkeiten den ANG 12 s lang um 24 %. Wenn die Elementarenergie des Trägers während der Wirkungsdauer 0 Punkte beträgt, werden der ANG nochmal um 24 % erhöht und der KSCH wird um 40 % erhöht.",
+                                                  "values":  [
+                                                                 "24{NON_BREAK_SPACE}%",
+                                                                 "24{NON_BREAK_SPACE}%",
+                                                                 "40{NON_BREAK_SPACE}%"
+                                                             ]
+                                              },
+                                       "effectName":  "Belohnung des weißen Berges"
+                                   },
                     "compoundbow":  {
                                         "r3":  {
                                                    "description":  "Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um 6 % und die Standardangriffs-GSW um 1,8 %. 4-fach stapelbar, 0,3 s Abklingzeit.",
@@ -9977,9 +10109,9 @@
                                               "substatText":  "ANG",
                                               "weaponText":  "Einhänder",
                                               "name":  "Schwert der Niederkunft",
-                                              "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eNur für Spieler auf folgender Plattform wirksam:\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e„PlayStation Network“\u003c/color\u003e\nVerursacht beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e Schaden in Höhe von \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ANG mit geringer Reichweite. 10 s Abklingzeit. Erhöht den ANG zusätzlich um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e Punkte, wenn {F#die}{M#der} Reisende mit dem Schwert der Niederkunft ausgerüstet ist.",
+                                              "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eNur für Spieler auf folgender Plattform wirksam:\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e„PlayStation™Network“\u003c/color\u003e\nVerursacht beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e Schaden in Höhe von \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ANG mit geringer Reichweite. 10 s Abklingzeit. Erhöht den ANG zusätzlich um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e Punkte, wenn {F#die}{M#der} Reisende mit dem Schwert der Niederkunft ausgerüstet ist.",
                                               "r1":  {
-                                                         "description":  "Nur für Spieler auf folgender Plattform wirksam:\n„PlayStation Network“\nVerursacht beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % Schaden in Höhe von 200 % ANG mit geringer Reichweite. 10 s Abklingzeit. Erhöht den ANG zusätzlich um 66 Punkte, wenn der Reisende mit dem Schwert der Niederkunft ausgerüstet ist.",
+                                                         "description":  "Nur für Spieler auf folgender Plattform wirksam:\n„PlayStation™Network“\nVerursacht beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % Schaden in Höhe von 200 % ANG mit geringer Reichweite. 10 s Abklingzeit. Erhöht den ANG zusätzlich um 66 Punkte, wenn der Reisende mit dem Schwert der Niederkunft ausgerüstet ist.",
                                                          "values":  [
                                                                         "50 %",
                                                                         "200 %",
@@ -14882,9 +15014,9 @@
                                      "substatText":  "ANG",
                                      "weaponText":  "Bogen",
                                      "name":  "Raubtier",
-                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eNur für Spieler auf folgender Plattform wirksam:\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e„PlayStation Network“\u003c/color\u003e\nErhöht nach dem Treffen von Gegnern mit Kryo-Schaden den mit Standardangriffen und heftigen Schlägen verursachten Schaden 6 s lang um 10 %, 2-fach stapelbar. Erhöht Aloys ANG beim Anlegen von Raubtier zusätzlich um 66 Punkte.",
+                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eNur für Spieler auf folgender Plattform wirksam:\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e„PlayStation™Network“\u003c/color\u003e\nErhöht nach dem Treffen von Gegnern mit Kryo-Schaden den mit Standardangriffen und heftigen Schlägen verursachten Schaden 6 s lang um 10 %, 2-fach stapelbar. Erhöht Aloys ANG beim Anlegen von Raubtier zusätzlich um 66 Punkte.",
                                      "r1":  {
-                                                "description":  "Nur für Spieler auf folgender Plattform wirksam:\n„PlayStation Network“\nErhöht nach dem Treffen von Gegnern mit Kryo-Schaden den mit Standardangriffen und heftigen Schlägen verursachten Schaden 6 s lang um 10 %, 2-fach stapelbar. Erhöht Aloys ANG beim Anlegen von Raubtier zusätzlich um 66 Punkte.",
+                                                "description":  "Nur für Spieler auf folgender Plattform wirksam:\n„PlayStation™Network“\nErhöht nach dem Treffen von Gegnern mit Kryo-Schaden den mit Standardangriffen und heftigen Schlägen verursachten Schaden 6 s lang um 10 %, 2-fach stapelbar. Erhöht Aloys ANG beim Anlegen von Raubtier zusätzlich um 66 Punkte.",
                                                 "values":  [
 
                                                            ]

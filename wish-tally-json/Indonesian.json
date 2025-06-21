@@ -1334,6 +1334,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027s Wisdom"
                                           },
+                      "dustofenlightenment":  {
+                                                  "name":  "Dust of Enlightenment"
+                                              },
                       "perpetualcaliber":  {
                                                "name":  "Perpetual Caliber"
                                            },
@@ -3128,6 +3131,47 @@
                                          "region":  "Sumeru",
                                          "gender":  "Pria"
                                      },
+                       "dahlia":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Revelation of Mercy",
+                                                                        "descriptionRaw":  "Setelah Dahlia mengonsumsi efek Benison dari Elemental Burst \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e untuk memanggil Shield of Sacred Favor, Karakter yang dilindungi oleh Shield of Sacred Favor akan mendapatkan 25% peningkatan Kekuatan Perisai selama 12 detik.",
+                                                                        "description":  "Setelah Dahlia mengonsumsi efek Benison dari Elemental Burst Radiant Psalter untuk memanggil Shield of Sacred Favor, Karakter yang dilindungi oleh Shield of Sacred Favor akan mendapatkan 25% peningkatan Kekuatan Perisai selama 12 detik."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Collect of the Assembly",
+                                                                        "descriptionRaw":  "Durasi efek Favonian Favor dari Elemental Burst \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e diperpanjang 3 detik.",
+                                                                        "description":  "Durasi efek Favonian Favor dari Elemental Burst Radiant Psalter diperpanjang 3 detik."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Windblume Offertory",
+                                                                        "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                        "description":  "Meningkatkan 3 level Radiant Psalter.\nMaksimum: Lv. 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Let It Be Subtly So",
+                                                                        "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eImmersive Ordinance\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                        "description":  "Meningkatkan 3 level Immersive Ordinance.\nMaksimum: Lv. 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "You Shall Go Out With Joy",
+                                                                        "descriptionRaw":  "ATK SPD Karakter aktif yang berada dalam pengaruh Favonian Favor dari Elemental Burst \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e akan meningkat 10%.\nSelain itu, saat Karakter aktif yang berada dalam pengaruh Favonian Favor gugur, maka akan langsung:\n·Dihidupkan kembali.\n·HP-nya dipulihkan hingga 100%.\nEfek ini dapat terpicu sekali setiap 15 menit.",
+                                                                        "description":  "ATK SPD Karakter aktif yang berada dalam pengaruh Favonian Favor dari Elemental Burst Radiant Psalter akan meningkat 10%.\nSelain itu, saat Karakter aktif yang berada dalam pengaruh Favonian Favor gugur, maka akan langsung:\n·Dihidupkan kembali.\n·HP-nya dipulihkan hingga 100%.\nEfek ini dapat terpicu sekali setiap 15 menit."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Infallible Procession",
+                                                                        "descriptionRaw":  "Setiap kali Dahlia mendapatkan satu lapis efek Benison dari Elemental Burst \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e, ia akan memulihkan 2,5 poin Energy.",
+                                                                        "description":  "Setiap kali Dahlia mendapatkan satu lapis efek Benison dari Elemental Burst Radiant Psalter, ia akan memulihkan 2,5 poin Energy."
+                                                                    }
+                                                         },
+                                      "elementText":  "Hydro",
+                                      "fullname":  null,
+                                      "weaponText":  "Sword",
+                                      "name":  "Dahlia",
+                                      "substatText":  "HP",
+                                      "region":  "Mondstadt",
+                                      "gender":  "Pria"
+                                  },
                        "yoimiya":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3210,47 +3254,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Perempuan"
                                 },
-                       "yumemizukimizuki":  {
-                                                "constellations":  {
-                                                                       "c2":  {
-                                                                                  "name":  "Your Echo I Meet in Dreams",
-                                                                                  "descriptionRaw":  "Saat memasuki status Dreamdrifter, setiap poin Elemental Mastery Yumemizuki Mizuki akan memberikan 0,04% \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, dan \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e DMG Bonus terhadap seluruh Karakter lain dalam party yang ada di sekitar dan berlangsung hingga status Dreamdrifter berakhir.",
-                                                                                  "description":  "Saat memasuki status Dreamdrifter, setiap poin Elemental Mastery Yumemizuki Mizuki akan memberikan 0,04% Pyro, Hydro, Cryo, dan Electro DMG Bonus terhadap seluruh Karakter lain dalam party yang ada di sekitar dan berlangsung hingga status Dreamdrifter berakhir."
-                                                                              },
-                                                                       "c4":  {
-                                                                                  "name":  "Buds Warm Lucid Springs",
-                                                                                  "descriptionRaw":  "Saat mengambil \u003ccolor=#FFD780FF\u003eYumemi Style Special Snacks\u003c/color\u003e dari Elemental Burst \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e, Snack ini akan mengakibatkan DMG dan memulihkan HP di waktu yang bersamaan, juga memulihkan 5 poin Energy untuk Yumemizuki Mizuki. Dalam satu durasi\u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e, maksimum 4 kali pemulihan Energy yang bisa diperoleh dengan cara ini.",
-                                                                                  "description":  "Saat mengambil Yumemi Style Special Snacks dari Elemental Burst Anraku Secret Spring Therapy, Snack ini akan mengakibatkan DMG dan memulihkan HP di waktu yang bersamaan, juga memulihkan 5 poin Energy untuk Yumemizuki Mizuki. Dalam satu durasiAnraku Secret Spring Therapy, maksimum 4 kali pemulihan Energy yang bisa diperoleh dengan cara ini."
-                                                                              },
-                                                                       "c3":  {
-                                                                                  "name":  "Till Dawn\u0027s Moon Ends Night",
-                                                                                  "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003eAisa Utamakura Pilgrimage\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                                  "description":  "Meningkatkan 3 level Elemental Skill Aisa Utamakura Pilgrimage.\nMaksimum: Lv. 15."
-                                                                              },
-                                                                       "c5":  {
-                                                                                  "name":  "As Setting Moon Brings Year\u0027s End",
-                                                                                  "descriptionRaw":  "Meningkatkan 3 level Elemental Burst \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                                  "description":  "Meningkatkan 3 level Elemental Burst Anraku Secret Spring Therapy.\nMaksimum: Lv. 15."
-                                                                              },
-                                                                       "c6":  {
-                                                                                  "name":  "The Heart Lingers Long",
-                                                                                  "descriptionRaw":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, DMG reaksi Swirl yang dipicu oleh anggota party di sekitar dapat mengakibatkan CRIT, dengan nilai CRIT Rate tetap sebesar 30% dan CRIT DMG tetap sebesar 100%.",
-                                                                                  "description":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, DMG reaksi Swirl yang dipicu oleh anggota party di sekitar dapat mengakibatkan CRIT, dengan nilai CRIT Rate tetap sebesar 30% dan CRIT DMG tetap sebesar 100%."
-                                                                              },
-                                                                       "c1":  {
-                                                                                  "name":  "In Mist-Like Waters",
-                                                                                  "descriptionRaw":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, ia akan memberikan efek \"Twenty-Three Nights\u0027 Awaiting\" pada musuh di sekitar setiap 3,5 detik dan bertahan selama 3 detik. Saat musuh yang berada dalam status \"Twenty-Three Nights\u0027 Awaiting\" terkena Anemo DMG dan memicu reaksi Swirl, maka efek ini terhapus dan membuat DMG reaksi Swirl pada musuh yang bersangkutan kali ini meningkat sebesar 1.100% dari Elemental Mastery Yumemizuki Mizuki.",
-                                                                                  "description":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, ia akan memberikan efek \"Twenty-Three Nights\u0027 Awaiting\" pada musuh di sekitar setiap 3,5 detik dan bertahan selama 3 detik. Saat musuh yang berada dalam status \"Twenty-Three Nights\u0027 Awaiting\" terkena Anemo DMG dan memicu reaksi Swirl, maka efek ini terhapus dan membuat DMG reaksi Swirl pada musuh yang bersangkutan kali ini meningkat sebesar 1.100% dari Elemental Mastery Yumemizuki Mizuki."
-                                                                              }
+                       "skirk":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Into the Abyss",
+                                                                       "descriptionRaw":  "Setelah melancarkan Elemental Skill \u003ccolor=#FFD780FF\u003eHavoc: Warp\u003c/color\u003e, Skirk akan mendapatkan 10 poin {LINK#N11130005}\u003ccolor=#FFD780FF\u003eSerpent\u0027s Subtlety\u003c/color\u003e{/LINK} tambahan.\nSaat melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e, efek peningkatan DMG berdasarkan jumlah Serpent\u0027s Subtlety untuk Elemental Burst kali ini dapat menghitung hingga 10 poin Serpent\u0027s Subtlety tambahan.\nSelain itu, dalam 12,5 detik setelah Skirk melancarkan Elemental Burst spesial \u003ccolor=#FFD780FF\u003eHavoc: Extinction\u003c/color\u003e dalam mode {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSeven-Phase Flash\u003c/color\u003e{/LINK}, ATK-nya akan meningkat 70%. Efek ini akan hilang saat Skirk meninggalkan mode Seven-Phase Flash.",
+                                                                       "description":  "Setelah melancarkan Elemental Skill Havoc: Warp, Skirk akan mendapatkan 10 poin **Serpent\u0027s Subtlety** tambahan.\nSaat melancarkan Elemental Burst Havoc: Ruin, efek peningkatan DMG berdasarkan jumlah Serpent\u0027s Subtlety untuk Elemental Burst kali ini dapat menghitung hingga 10 poin Serpent\u0027s Subtlety tambahan.\nSelain itu, dalam 12,5 detik setelah Skirk melancarkan Elemental Burst spesial Havoc: Extinction dalam mode **Seven-Phase Flash**, ATK-nya akan meningkat 70%. Efek ini akan hilang saat Skirk meninggalkan mode Seven-Phase Flash."
                                                                    },
-                                                "elementText":  "Anemo",
-                                                "fullname":  null,
-                                                "weaponText":  "Catalyst",
-                                                "name":  "Yumemizuki Mizuki",
-                                                "substatText":  "Elemental Mastery",
-                                                "region":  "Inazuma",
-                                                "gender":  "Perempuan"
-                                            },
+                                                            "c4":  {
+                                                                       "name":  "Fractured Flow",
+                                                                       "descriptionRaw":  "Efek Talenta Pasif {LINK#N11130008}\u003ccolor=#FFD780FF\u003eReturn to Oblivion\u003c/color\u003e{/LINK} mendapatkan peningkatan: Setiap lapis efek Death\u0027s Crossing juga akan meningkatkan 10%/20%/40% ATK Skirk.\nHarus membuka Talenta Pasif \"Return to Oblivion\" terlebih dahulu.",
+                                                                       "description":  "Efek Talenta Pasif **Return to Oblivion** mendapatkan peningkatan: Setiap lapis efek Death\u0027s Crossing juga akan meningkatkan 10%/20%/40% ATK Skirk.\nHarus membuka Talenta Pasif \"Return to Oblivion\" terlebih dahulu."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Serendipitous Sin",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Havoc: Ruin.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "End of Wishes",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eHavoc: Warp\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Havoc: Warp.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "To the Source",
+                                                                       "descriptionRaw":  "Skirk akan mendapatkan satu lapis efek \"Havoc: Sever\" setiap kali ia menyerap satu Void Rift yang tercipta dari efek Talenta Pasif {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK}. Skirk dapat mengonsumsi efek ini untuk melancarkan serangan terkoordinasi dan mengurangi DMG yang diterima saat sedang berada dalam mode {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSeven-Phase Flash\u003c/color\u003e{/LINK}. Efek ini berlangsung 15 detik dan dapat ditumpuk hingga 3 lapis, durasi setiap lapisnya dihitung terpisah.\nHarus membuka Talenta Pasif Reason Beyond Reason terlebih dahulu.\n\n\u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e\n·Saat Skirk melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e, semua lapisan \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan dikonsumsi untuk melancarkan serangan terkoordinasi. Setiap lapisan \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 750% ATK Skirk. DMG ini dianggap sebagai DMG Elemental Burst.\n·Saat sedang berada dalam Mode Seven-Phase Flash dan melancarkan Normal Attack, satu lapisan \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan terkonsumsi saat serangan Normal Attack tahap ke-3 atau ke-5 mengenai musuh, untuk melancarkan serangan terkoordinasi sebanyak 3 kali. Setiap serangan terkoordinasi ini akan mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Normal Attack.\n·Saat Skirk terkena DMG saat berada dalam mode Seven-Phase Flash, satu lapis \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan terkonsumsi untuk mengurangi 80% DMG yang diterima kali ini, kemudian melancarkan 3 serangan terhadap musuh di sekitar. Setiap serangannya akan mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack.",
+                                                                       "description":  "Skirk akan mendapatkan satu lapis efek \"Havoc: Sever\" setiap kali ia menyerap satu Void Rift yang tercipta dari efek Talenta Pasif **Reason Beyond Reason**. Skirk dapat mengonsumsi efek ini untuk melancarkan serangan terkoordinasi dan mengurangi DMG yang diterima saat sedang berada dalam mode **Seven-Phase Flash**. Efek ini berlangsung 15 detik dan dapat ditumpuk hingga 3 lapis, durasi setiap lapisnya dihitung terpisah.\nHarus membuka Talenta Pasif Reason Beyond Reason terlebih dahulu.\n\nHavoc: Sever\n·Saat Skirk melancarkan Elemental Burst Havoc: Ruin, semua lapisan Havoc: Sever akan dikonsumsi untuk melancarkan serangan terkoordinasi. Setiap lapisan Havoc: Sever akan mengakibatkan Cryo DMG sebesar 750% ATK Skirk. DMG ini dianggap sebagai DMG Elemental Burst.\n·Saat sedang berada dalam Mode Seven-Phase Flash dan melancarkan Normal Attack, satu lapisan Havoc: Sever akan terkonsumsi saat serangan Normal Attack tahap ke-3 atau ke-5 mengenai musuh, untuk melancarkan serangan terkoordinasi sebanyak 3 kali. Setiap serangan terkoordinasi ini akan mengakibatkan Cryo DMG sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Normal Attack.\n·Saat Skirk terkena DMG saat berada dalam mode Seven-Phase Flash, satu lapis Havoc: Sever akan terkonsumsi untuk mengurangi 80% DMG yang diterima kali ini, kemudian melancarkan 3 serangan terhadap musuh di sekitar. Setiap serangannya akan mengakibatkan Cryo DMG sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Far to Fall",
+                                                                       "descriptionRaw":  "Efek Talenta Pasif {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK} diperkuat: Untuk setiap Void Rift yang diserap, Skirk akan memanggil pedang kristal untuk menyerang musuh di sekitarnya, mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 500% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Pasif \"Reason Beyond Reason\" terlebih dahulu.",
+                                                                       "description":  "Efek Talenta Pasif **Reason Beyond Reason** diperkuat: Untuk setiap Void Rift yang diserap, Skirk akan memanggil pedang kristal untuk menyerang musuh di sekitarnya, mengakibatkan Cryo DMG sebesar 500% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Pasif \"Reason Beyond Reason\" terlebih dahulu."
+                                                                   }
+                                                        },
+                                     "elementText":  "Cryo",
+                                     "fullname":  null,
+                                     "weaponText":  "Sword",
+                                     "name":  "Skirk",
+                                     "substatText":  "CRIT DMG",
+                                     "region":  null,
+                                     "gender":  "Perempuan"
+                                 },
                        "iansan":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3465,8 +3509,8 @@
                                                                  },
                                                           "c4":  {
                                                                      "name":  "Decayed Vessel\u0027s Permutation",
-                                                                     "descriptionRaw":  "Durasi pusaran angin pengikat yang dihasilkan Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11135}Compound Sedation Field{/LINK}\u003c/color\u003e diperpanjang 3 detik.\nSelain itu, setelah melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eCompound Sedation Field\u003c/color\u003e, Elemental Mastery Ifa meningkat 100 poin selama 15 detik.",
-                                                                     "description":  "Durasi pusaran angin pengikat yang dihasilkan Elemental Burst **Compound Sedation Field** diperpanjang 3 detik.\nSelain itu, setelah melancarkan Elemental Burst Compound Sedation Field, Elemental Mastery Ifa meningkat 100 poin selama 15 detik."
+                                                                     "descriptionRaw":  "Durasi pusaran angin pengikat yang dihasilkan Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11135}Compound Sedation Field{/LINK}\u003c/color\u003e diperpanjang menjadi 3 detik.\nSelain itu, setelah melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eCompound Sedation Field\u003c/color\u003e, Elemental Mastery Ifa meningkat 100 poin selama 15 detik.",
+                                                                     "description":  "Durasi pusaran angin pengikat yang dihasilkan Elemental Burst **Compound Sedation Field** diperpanjang menjadi 3 detik.\nSelain itu, setelah melancarkan Elemental Burst Compound Sedation Field, Elemental Mastery Ifa meningkat 100 poin selama 15 detik."
                                                                  },
                                                           "c3":  {
                                                                      "name":  "Rebuttal in Negotiations With the Night",
@@ -3538,6 +3582,47 @@
                                          "region":  "Liyue",
                                          "gender":  "Perempuan"
                                      },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Your Echo I Meet in Dreams",
+                                                                                  "descriptionRaw":  "Saat memasuki status Dreamdrifter, setiap poin Elemental Mastery Yumemizuki Mizuki akan memberikan 0,04% \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, dan \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e DMG Bonus terhadap seluruh Karakter lain dalam party yang ada di sekitar dan berlangsung hingga status Dreamdrifter berakhir.",
+                                                                                  "description":  "Saat memasuki status Dreamdrifter, setiap poin Elemental Mastery Yumemizuki Mizuki akan memberikan 0,04% Pyro, Hydro, Cryo, dan Electro DMG Bonus terhadap seluruh Karakter lain dalam party yang ada di sekitar dan berlangsung hingga status Dreamdrifter berakhir."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Buds Warm Lucid Springs",
+                                                                                  "descriptionRaw":  "Saat mengambil \u003ccolor=#FFD780FF\u003eYumemi Style Special Snacks\u003c/color\u003e dari Elemental Burst \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e, Snack ini akan mengakibatkan DMG dan memulihkan HP di waktu yang bersamaan, juga memulihkan 5 poin Energy untuk Yumemizuki Mizuki. Dalam satu durasi\u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e, maksimum 4 kali pemulihan Energy yang bisa diperoleh dengan cara ini.",
+                                                                                  "description":  "Saat mengambil Yumemi Style Special Snacks dari Elemental Burst Anraku Secret Spring Therapy, Snack ini akan mengakibatkan DMG dan memulihkan HP di waktu yang bersamaan, juga memulihkan 5 poin Energy untuk Yumemizuki Mizuki. Dalam satu durasiAnraku Secret Spring Therapy, maksimum 4 kali pemulihan Energy yang bisa diperoleh dengan cara ini."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Till Dawn\u0027s Moon Ends Night",
+                                                                                  "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003eAisa Utamakura Pilgrimage\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                                  "description":  "Meningkatkan 3 level Elemental Skill Aisa Utamakura Pilgrimage.\nMaksimum: Lv. 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "As Setting Moon Brings Year\u0027s End",
+                                                                                  "descriptionRaw":  "Meningkatkan 3 level Elemental Burst \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                                  "description":  "Meningkatkan 3 level Elemental Burst Anraku Secret Spring Therapy.\nMaksimum: Lv. 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "The Heart Lingers Long",
+                                                                                  "descriptionRaw":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, DMG reaksi Swirl yang dipicu oleh anggota party di sekitar dapat mengakibatkan CRIT, dengan nilai CRIT Rate tetap sebesar 30% dan CRIT DMG tetap sebesar 100%.",
+                                                                                  "description":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, DMG reaksi Swirl yang dipicu oleh anggota party di sekitar dapat mengakibatkan CRIT, dengan nilai CRIT Rate tetap sebesar 30% dan CRIT DMG tetap sebesar 100%."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "In Mist-Like Waters",
+                                                                                  "descriptionRaw":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, ia akan memberikan efek \"Twenty-Three Nights\u0027 Awaiting\" pada musuh di sekitar setiap 3,5 detik dan bertahan selama 3 detik. Saat musuh yang berada dalam status \"Twenty-Three Nights\u0027 Awaiting\" terkena Anemo DMG dan memicu reaksi Swirl, maka efek ini terhapus dan membuat DMG reaksi Swirl pada musuh yang bersangkutan kali ini meningkat sebesar 1.100% dari Elemental Mastery Yumemizuki Mizuki.",
+                                                                                  "description":  "Saat Yumemizuki Mizuki berada dalam status Dreamdrifter, ia akan memberikan efek \"Twenty-Three Nights\u0027 Awaiting\" pada musuh di sekitar setiap 3,5 detik dan bertahan selama 3 detik. Saat musuh yang berada dalam status \"Twenty-Three Nights\u0027 Awaiting\" terkena Anemo DMG dan memicu reaksi Swirl, maka efek ini terhapus dan membuat DMG reaksi Swirl pada musuh yang bersangkutan kali ini meningkat sebesar 1.100% dari Elemental Mastery Yumemizuki Mizuki."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalyst",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Elemental Mastery",
+                                                "region":  "Inazuma",
+                                                "gender":  "Perempuan"
+                                            },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7296,7 +7381,7 @@
                                       },
                     "symphonistofscents":  {
                                                "r3":  {
-                                                          "description":  "ATK meningkat 18%. Saat Karakter yang mengenakan berada dalam party, namun tidak sedang bertarung, maka ATK-nya akan meningkat lagi sebesar 18%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 48% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "description":  "ATK meningkat 18%. Saat ada di dalam party namun sedang tidak berada di medan pertempuran, maka ATK-nya akan meningkat lagi sebesar 18%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 48% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
                                                           "values":  [
                                                                          "18%",
                                                                          "18%",
@@ -7304,7 +7389,7 @@
                                                                      ]
                                                       },
                                                "r5":  {
-                                                          "description":  "ATK meningkat 24%. Saat Karakter yang mengenakan berada dalam party, namun tidak sedang bertarung, maka ATK-nya akan meningkat lagi sebesar 24%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 64% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "description":  "ATK meningkat 24%. Saat ada di dalam party namun sedang tidak berada di medan pertempuran, maka ATK-nya akan meningkat lagi sebesar 24%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 64% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
                                                           "values":  [
                                                                          "24%",
                                                                          "24%",
@@ -7312,7 +7397,7 @@
                                                                      ]
                                                       },
                                                "r2":  {
-                                                          "description":  "ATK meningkat 15%. Saat Karakter yang mengenakan berada dalam party, namun tidak sedang bertarung, maka ATK-nya akan meningkat lagi sebesar 15%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 40% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "description":  "ATK meningkat 15%. Saat ada di dalam party namun sedang tidak berada di medan pertempuran, maka ATK-nya akan meningkat lagi sebesar 15%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 40% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
                                                           "values":  [
                                                                          "15%",
                                                                          "15%",
@@ -7320,7 +7405,7 @@
                                                                      ]
                                                       },
                                                "r4":  {
-                                                          "description":  "ATK meningkat 21%. Saat Karakter yang mengenakan berada dalam party, namun tidak sedang bertarung, maka ATK-nya akan meningkat lagi sebesar 21%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 56% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "description":  "ATK meningkat 21%. Saat ada di dalam party namun sedang tidak berada di medan pertempuran, maka ATK-nya akan meningkat lagi sebesar 21%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 56% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
                                                           "values":  [
                                                                          "21%",
                                                                          "21%",
@@ -7330,9 +7415,9 @@
                                                "substatText":  "CRIT DMG",
                                                "weaponText":  "Polearm",
                                                "name":  "Symphonist of Scents",
-                                               "effectTemplateRaw":  "ATK meningkat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Saat Karakter yang mengenakan berada dalam party, namun tidak sedang bertarung, maka ATK-nya akan meningkat lagi sebesar \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                               "effectTemplateRaw":  "ATK meningkat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Saat ada di dalam party namun sedang tidak berada di medan pertempuran, maka ATK-nya akan meningkat lagi sebesar \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
                                                "r1":  {
-                                                          "description":  "ATK meningkat 12%. Saat Karakter yang mengenakan berada dalam party, namun tidak sedang bertarung, maka ATK-nya akan meningkat lagi sebesar 12%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 32% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "description":  "ATK meningkat 12%. Saat ada di dalam party namun sedang tidak berada di medan pertempuran, maka ATK-nya akan meningkat lagi sebesar 12%. Setelah melakukan pemulihan HP, maka Karakter yang memakai senjata ini dan Karakter yang menerima pemulihan HP akan mendapatkan efek \"Sweet Echoes\", meningkatkan ATK sebesar 32% selama 3 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
                                                           "values":  [
                                                                          "12%",
                                                                          "12%",
@@ -7837,6 +7922,53 @@
                                                },
                                         "effectName":  "Stillwood Moonshadow"
                                     },
+                    "azurelight":  {
+                                       "r3":  {
+                                                  "description":  "Setelah melancarkan Elemental Skill, ATK meningkat 36% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 36% dan CRIT DMG meningkat 60%.",
+                                                  "values":  [
+                                                                 "36%",
+                                                                 "36%",
+                                                                 "60%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Setelah melancarkan Elemental Skill, ATK meningkat 48% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 48% dan CRIT DMG meningkat 80%.",
+                                                  "values":  [
+                                                                 "48%",
+                                                                 "48%",
+                                                                 "80%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Setelah melancarkan Elemental Skill, ATK meningkat 30% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 30% dan CRIT DMG meningkat 50%.",
+                                                  "values":  [
+                                                                 "30%",
+                                                                 "30%",
+                                                                 "50%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Setelah melancarkan Elemental Skill, ATK meningkat 42% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 42% dan CRIT DMG meningkat 70%.",
+                                                  "values":  [
+                                                                 "42%",
+                                                                 "42%",
+                                                                 "70%"
+                                                             ]
+                                              },
+                                       "substatText":  "CRIT Rate",
+                                       "weaponText":  "Sword",
+                                       "name":  "Azurelight",
+                                       "effectTemplateRaw":  "Setelah melancarkan Elemental Skill, ATK meningkat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e dan CRIT DMG meningkat \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                       "r1":  {
+                                                  "description":  "Setelah melancarkan Elemental Skill, ATK meningkat 24% selama 12 detik. Selama durasi ini, saat Energy Karakter yang mengenakan adalah 0, maka ATK meningkat lagi sebesar 24% dan CRIT DMG meningkat 40%.",
+                                                  "values":  [
+                                                                 "24%",
+                                                                 "24%",
+                                                                 "40%"
+                                                             ]
+                                              },
+                                       "effectName":  "Whitehill\u0027s Bestowal"
+                                   },
                     "compoundbow":  {
                                         "r3":  {
                                                    "description":  "Saat Normal Attack dan Charged Attack mengenai musuh maka akan meningkatkan ATK sebesar 6% dan Normal ATK SPD sebesar 1,8% selama 6 detik. Maks. 4 lapis. Dapat terpicu setiap 0,3 detik.",
@@ -9977,9 +10109,9 @@
                                               "substatText":  "ATK",
                                               "weaponText":  "Sword",
                                               "name":  "Sword of Descension",
-                                              "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eHanya efektif untuk pemain pada: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\nMemukul musuh dengan Normal dan Charged Attack akan mendapatkan kesempatan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e untuk menghasilkan \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ATK sebagai DMG pada area kecil. Efek terpicu setiap 10 detik. Lalu, jika Pengembara menggunakan Sword of Descension, maka ATK akan meningkat sebanyak \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                              "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eHanya efektif untuk pemain pada: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\"\u003c/color\u003e\nMemukul musuh dengan Normal dan Charged Attack akan mendapatkan kesempatan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e untuk menghasilkan \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ATK sebagai DMG pada area kecil. Efek terpicu setiap 10 detik. Lalu, jika Pengembara menggunakan Sword of Descension, maka ATK akan meningkat sebanyak \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
                                               "r1":  {
-                                                         "description":  "Hanya efektif untuk pemain pada: \n\"PlayStation Network\"\nMemukul musuh dengan Normal dan Charged Attack akan mendapatkan kesempatan 50% untuk menghasilkan 200% ATK sebagai DMG pada area kecil. Efek terpicu setiap 10 detik. Lalu, jika Pengembara menggunakan Sword of Descension, maka ATK akan meningkat sebanyak 66.",
+                                                         "description":  "Hanya efektif untuk pemain pada: \n\"PlayStation™Network\"\nMemukul musuh dengan Normal dan Charged Attack akan mendapatkan kesempatan 50% untuk menghasilkan 200% ATK sebagai DMG pada area kecil. Efek terpicu setiap 10 detik. Lalu, jika Pengembara menggunakan Sword of Descension, maka ATK akan meningkat sebanyak 66.",
                                                          "values":  [
                                                                         "50%",
                                                                         "200%",
@@ -14877,9 +15009,9 @@
                                      "substatText":  "ATK",
                                      "weaponText":  "Bow",
                                      "name":  "Predator",
-                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eBerlaku khusus untuk pemain di: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\nSaat mengakibatkan Cryo DMG pada musuh, maka DMG Normal dan Charged Attack dari Karakter tersebut akan meningkat 10% selama 6 detik, dapat ditumpuk sampai 2 lapis. Selain itu, jika Aloy yang mengenakan Predator, ATK-nya akan meningkat sebesar 66.",
+                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eBerlaku khusus untuk pemain di: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\"\u003c/color\u003e\nSaat mengakibatkan Cryo DMG pada musuh, maka DMG Normal dan Charged Attack dari Karakter tersebut akan meningkat 10% selama 6 detik, dapat ditumpuk sampai 2 lapis. Selain itu, jika Aloy yang mengenakan Predator, ATK-nya akan meningkat sebesar 66.",
                                      "r1":  {
-                                                "description":  "Berlaku khusus untuk pemain di: \n\"PlayStation Network\"\nSaat mengakibatkan Cryo DMG pada musuh, maka DMG Normal dan Charged Attack dari Karakter tersebut akan meningkat 10% selama 6 detik, dapat ditumpuk sampai 2 lapis. Selain itu, jika Aloy yang mengenakan Predator, ATK-nya akan meningkat sebesar 66.",
+                                                "description":  "Berlaku khusus untuk pemain di: \n\"PlayStation™Network\"\nSaat mengakibatkan Cryo DMG pada musuh, maka DMG Normal dan Charged Attack dari Karakter tersebut akan meningkat 10% selama 6 detik, dapat ditumpuk sampai 2 lapis. Selain itu, jika Aloy yang mengenakan Predator, ATK-nya akan meningkat sebesar 66.",
                                                 "values":  [
 
                                                            ]

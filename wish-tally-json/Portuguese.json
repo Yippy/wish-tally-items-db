@@ -1334,6 +1334,9 @@
                       "narukamiswisdom":  {
                                               "name":  "A Sabedoria de Narukami"
                                           },
+                      "dustofenlightenment":  {
+                                                  "name":  "Pó da Iluminação"
+                                              },
                       "perpetualcaliber":  {
                                                "name":  "Calibre Perpétuo"
                                            },
@@ -3128,6 +3131,47 @@
                                          "region":  "Sumeru",
                                          "gender":  "Masculino"
                                      },
+                       "dahlia":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Revelação da Misericórdia",
+                                                                        "descriptionRaw":  "Após Dahlia consumir o(s) acúmulo(s) de Bons Desejos do seu Supremo \u003ccolor=#FFD780FF\u003ePregação Radiante\u003c/color\u003e para invocar o Escudo da Graça, o personagem protegido por esse Escudo terá a Força do Escudo aumentada em 25% por 12s.",
+                                                                        "description":  "Após Dahlia consumir o(s) acúmulo(s) de Bons Desejos do seu Supremo Pregação Radiante para invocar o Escudo da Graça, o personagem protegido por esse Escudo terá a Força do Escudo aumentada em 25% por 12s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Coleta da Assembleia",
+                                                                        "descriptionRaw":  "A Graça de Favonius do Supremo de Dahlia, \u003ccolor=#FFD780FF\u003ePregação Radiante\u003c/color\u003e, dura 3 segundos a mais.",
+                                                                        "description":  "A Graça de Favonius do Supremo de Dahlia, Pregação Radiante, dura 3 segundos a mais."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Oferenda da Brisa Florescente",
+                                                                        "descriptionRaw":  "Aumenta o nível do Supremo \u003ccolor=#FFD780FF\u003ePregação Radiante\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível do Supremo Pregação Radiante em 3.\nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Que Assim Seja, Sutilmente",
+                                                                        "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003eOrdenança Imersiva\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível da Habilidade Elemental Ordenança Imersiva em 3 níveis. \nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Saíreis com Alegria",
+                                                                        "descriptionRaw":  "O personagem ativo atual afetado pela Graça de Favonius do Supremo \u003ccolor=#FFD780FF\u003ePregação Radiante\u003c/color\u003e tem sua Vel. de ATQ aumentada em 10%.\nAlém disso, quando um personagem ativo afetado pela Graça de Favonius for derrotado, será imediatamente:\n· Revivido.\n· Terá sua Vida restaurada em 100%.\nEsse efeito pode ser ativado uma vez a cada 15 minutos.",
+                                                                        "description":  "O personagem ativo atual afetado pela Graça de Favonius do Supremo Pregação Radiante tem sua Vel. de ATQ aumentada em 10%.\nAlém disso, quando um personagem ativo afetado pela Graça de Favonius for derrotado, será imediatamente:\n· Revivido.\n· Terá sua Vida restaurada em 100%.\nEsse efeito pode ser ativado uma vez a cada 15 minutos."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Procissão Infalível",
+                                                                        "descriptionRaw":  "Cada vez que Dahlia obtiver 1 acúmulo de Bons Desejos do seu Supremo \u003ccolor=#FFD780FF\u003ePregação Radiante\u003c/color\u003e, ele recuperará 2.5 de Energia Elemental.",
+                                                                        "description":  "Cada vez que Dahlia obtiver 1 acúmulo de Bons Desejos do seu Supremo Pregação Radiante, ele recuperará 2.5 de Energia Elemental."
+                                                                    }
+                                                         },
+                                      "elementText":  "Hydro",
+                                      "fullname":  null,
+                                      "weaponText":  "Espada",
+                                      "name":  "Dahlia",
+                                      "substatText":  "Vida",
+                                      "region":  "Mondstadt",
+                                      "gender":  "Masculino"
+                                  },
                        "yoimiya":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3210,47 +3254,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Feminino"
                                 },
-                       "yumemizukimizuki":  {
-                                                "constellations":  {
-                                                                       "c2":  {
-                                                                                  "name":  "Seu Eco que Conheci nos Sonhos",
-                                                                                  "descriptionRaw":  "Ao entrar no estado Devaneio Onírico, cada ponto de Proficiência Elemental de Yumemizuki Mizuki fornece 0.04% de Bônus de Dano \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e e \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e para os outros membros próximos da equipe. Esse efeito dura até o estado Devaneio Onírico acabar.",
-                                                                                  "description":  "Ao entrar no estado Devaneio Onírico, cada ponto de Proficiência Elemental de Yumemizuki Mizuki fornece 0.04% de Bônus de Dano Pyro, Hydro, Cryo e Electro para os outros membros próximos da equipe. Esse efeito dura até o estado Devaneio Onírico acabar."
-                                                                              },
-                                                                       "c4":  {
-                                                                                  "name":  "Brotos Quentes na Nascente Transluzente",
-                                                                                  "descriptionRaw":  "Ao coletar o \u003ccolor=#FFD780FF\u003eLanche Yumemikaze\u003c/color\u003e do Supremo \u003ccolor=#FFD780FF\u003eTerapia da Nascente Secreta Anraku\u003c/color\u003e, ele simultaneamente causará Dano e curará, e regenerará 5 de Energia Elemental para Yumemizuki Mizuki. É possível regenerar Energia Elemental dessa forma até 4 vezes por cada duração de \u003ccolor=#FFD780FF\u003eTerapia da Nascente Secreta Anraku\u003c/color\u003e.",
-                                                                                  "description":  "Ao coletar o Lanche Yumemikaze do Supremo Terapia da Nascente Secreta Anraku, ele simultaneamente causará Dano e curará, e regenerará 5 de Energia Elemental para Yumemizuki Mizuki. É possível regenerar Energia Elemental dessa forma até 4 vezes por cada duração de Terapia da Nascente Secreta Anraku."
-                                                                              },
-                                                                       "c3":  {
-                                                                                  "name":  "Até a Lua do Amanhecer Acabar a Noite",
-                                                                                  "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003ePeregrinação Aisa Utamakura\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
-                                                                                  "description":  "Aumenta o nível da Habilidade Elemental Peregrinação Aisa Utamakura em 3 níveis. \nO nível máximo de elevação é 15."
-                                                                              },
-                                                                       "c5":  {
-                                                                                  "name":  "Quando a Lua Poente Traz o Fim do Ano",
-                                                                                  "descriptionRaw":  "Aumenta o nível do Supremo \u003ccolor=#FFD780FF\u003eTerapia da Nascente Secreta Anraku\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
-                                                                                  "description":  "Aumenta o nível do Supremo Terapia da Nascente Secreta Anraku em 3.\nO nível máximo de elevação é 15."
-                                                                              },
-                                                                       "c6":  {
-                                                                                  "name":  "O Coração Perdura Longamente",
-                                                                                  "descriptionRaw":  "Enquanto Yumemizuki Mizuki estiver no estado de Devaneio Onírico, o Dano de Redemoinho causado por membros próximos da equipe pode causar Acerto CRIT, com a Taxa CRIT fixa em 30% e o Dano CRIT fixo em 100%.",
-                                                                                  "description":  "Enquanto Yumemizuki Mizuki estiver no estado de Devaneio Onírico, o Dano de Redemoinho causado por membros próximos da equipe pode causar Acerto CRIT, com a Taxa CRIT fixa em 30% e o Dano CRIT fixo em 100%."
-                                                                              },
-                                                                       "c1":  {
-                                                                                  "name":  "Águas Enevoadas",
-                                                                                  "descriptionRaw":  "Quando Yumemizuki Mizuki está no estado Devaneio Onírico, aplicará por 3s contra o inimigo o efeito \"Espera de 23 Noites\" a cada 3.5s. Inimigos afetados por Espera de 23 Noites ao sofrerem Dano Anemo ou ao desencadearem Redemoinho terão esse efeito removido, e essa reação de Redemoinho receberá um aumento de Dano. O aumento de Dano é de 1100% da Proficiência Elemental de Yumemizuki Mizuki.",
-                                                                                  "description":  "Quando Yumemizuki Mizuki está no estado Devaneio Onírico, aplicará por 3s contra o inimigo o efeito \"Espera de 23 Noites\" a cada 3.5s. Inimigos afetados por Espera de 23 Noites ao sofrerem Dano Anemo ou ao desencadearem Redemoinho terão esse efeito removido, e essa reação de Redemoinho receberá um aumento de Dano. O aumento de Dano é de 1100% da Proficiência Elemental de Yumemizuki Mizuki."
-                                                                              }
+                       "skirk":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Ao Abismo",
+                                                                       "descriptionRaw":  "Após desencadear sua Habilidade Elemental \u003ccolor=#FFD780FF\u003eDevastação: Lampejo\u003c/color\u003e, Skirk obterá 10 pontos adicionais de {LINK#N11130005}\u003ccolor=#FFD780FF\u003eSutileza da Serpente\u003c/color\u003e{/LINK}.\nAo usar seu Supremo \u003ccolor=#FFD780FF\u003eArte Apodrecida: Obliteração\u003c/color\u003e, o Dano dessa instância do Supremo será aumentado ao considerar até 10 pontos adicionais de Sutileza da Serpente.\nAlém disso, dentro de 12.5s após Skirk desencadear o Supremo especial \u003ccolor=#FFD780FF\u003eDevastação: Obliteração\u003c/color\u003e enquanto estiver em seu modo {LINK#N11130006}\u003ccolor=#FFD780FF\u003eLampejo de Sete Fases\u003c/color\u003e{/LINK}, seu ATQ é aumentado em 70%. Este efeito será cancelado ao sair do modo Lampejo de Sete Fases.",
+                                                                       "description":  "Após desencadear sua Habilidade Elemental Devastação: Lampejo, Skirk obterá 10 pontos adicionais de **Sutileza da Serpente**.\nAo usar seu Supremo Arte Apodrecida: Obliteração, o Dano dessa instância do Supremo será aumentado ao considerar até 10 pontos adicionais de Sutileza da Serpente.\nAlém disso, dentro de 12.5s após Skirk desencadear o Supremo especial Devastação: Obliteração enquanto estiver em seu modo **Lampejo de Sete Fases**, seu ATQ é aumentado em 70%. Este efeito será cancelado ao sair do modo Lampejo de Sete Fases."
                                                                    },
-                                                "elementText":  "Anemo",
-                                                "fullname":  null,
-                                                "weaponText":  "Catalisador",
-                                                "name":  "Yumemizuki Mizuki",
-                                                "substatText":  "Proficiência Elemental",
-                                                "region":  "Inazuma",
-                                                "gender":  "Feminino"
-                                            },
+                                                            "c4":  {
+                                                                       "name":  "Fluxo Fraturado",
+                                                                       "descriptionRaw":  "Aprimora os efeitos do Talento Passivo {LINK#N11130008}\u003ccolor=#FFD780FF\u003eRetorno à Desolação\u003c/color\u003e{/LINK}: Cada acúmulo de Encruzilhada da Morte também aumenta o ATQ da Skirk em 10%/20%/40%.\nÉ necessário desbloquear o Talento Passivo \u003ccolor=#FFD780FF\u003eRetorno à Desolação\u003c/color\u003e primeiro.",
+                                                                       "description":  "Aprimora os efeitos do Talento Passivo **Retorno à Desolação**: Cada acúmulo de Encruzilhada da Morte também aumenta o ATQ da Skirk em 10%/20%/40%.\nÉ necessário desbloquear o Talento Passivo Retorno à Desolação primeiro."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Pecado Fortuito",
+                                                                       "descriptionRaw":  "Aumenta o nível do Supremo \u003ccolor=#FFD780FF\u003eArte Apodrecida: Obliteração\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                       "description":  "Aumenta o nível do Supremo Arte Apodrecida: Obliteração em 3.\nO nível máximo de elevação é 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Portadora de Desejos",
+                                                                       "descriptionRaw":  "Aumenta o Nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003eDevastação: Lampejo\u003c/color\u003e em 3.\nO nível máximo de aprimoramento é 15.",
+                                                                       "description":  "Aumenta o Nível da Habilidade Elemental Devastação: Lampejo em 3.\nO nível máximo de aprimoramento é 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Para a Fonte",
+                                                                       "descriptionRaw":  "Cada Fenda do Vazio absorvida por Skirk através dos efeitos do Talento Passivo {LINK#N11130007}\u003ccolor=#FFD780FF\u003eRazão Além da Razão\u003c/color\u003e{/LINK} concederá a ela 1 acúmulo de Devastação: Corte. Ela pode consumir esses acúmulos para iniciar ataques coordenados e reduzir o Dano recebido enquanto estiver no modo {LINK#N11130006}\u003ccolor=#FFD780FF\u003eLampejo de Sete Fases\u003c/color\u003e{/LINK}. Esse efeito dura 15s, pode acumular até 3 vezes, e a duração de cada acúmulo é contada separadamente.\nÉ necessário desbloquear o Talento Passivo \"Razão Além da Razão\" primeiro.\n\n\u003ccolor=#FFD780FF\u003eDevastação: Corte\u003c/color\u003e\n· Quando Skirk usa o Supremo \u003ccolor=#FFD780FF\u003eArte Apodrecida: Obliteração\u003c/color\u003e, ela consumirá todos os acúmulos de \u003ccolor=#FFD780FF\u003eDevastação: Corte\u003c/color\u003e para iniciar um ataque coordenado, em que cada acúmulo causará 750% do ATQ de Skirk como \u003ccolor=#99FFFFFF\u003eDano Cryo\u003c/color\u003e. Esse Dano é considerado Dano de Supremo.\n· Quando usa Ataques Normais enquanto estiver no modo Lampejo de Sete Fases, 1 acúmulo de \u003ccolor=#FFD780FF\u003eDevastação: Corte\u003c/color\u003e será consumido quando o terceiro ou quinto golpe sequencial atingir um inimigo, lançando 3 ataques coordenados. Cada ataque coordenado causa 180% do ATQ de Skirk como \u003ccolor=#99FFFFFF\u003eDano Cryo\u003c/color\u003e. Esse Dano é considerado Dano de Ataque Normal.\n· Quando Skirk recebe Dano enquanto está no modo Lampejo de Sete Fases, 1 acúmulo de \u003ccolor=#FFD780FF\u003eDevastação: Corte\u003c/color\u003e será consumido para reduzir essa instância de Dano em 80% e atacar inimigos próximos 3 vezes. Cada ataque causa 180% do ATQ de Skirk como \u003ccolor=#99FFFFFF\u003eDano Cryo\u003c/color\u003e. Esse Dano é considerado Dano de Ataque Carregado.",
+                                                                       "description":  "Cada Fenda do Vazio absorvida por Skirk através dos efeitos do Talento Passivo **Razão Além da Razão** concederá a ela 1 acúmulo de Devastação: Corte. Ela pode consumir esses acúmulos para iniciar ataques coordenados e reduzir o Dano recebido enquanto estiver no modo **Lampejo de Sete Fases**. Esse efeito dura 15s, pode acumular até 3 vezes, e a duração de cada acúmulo é contada separadamente.\nÉ necessário desbloquear o Talento Passivo \"Razão Além da Razão\" primeiro.\n\nDevastação: Corte\n· Quando Skirk usa o Supremo Arte Apodrecida: Obliteração, ela consumirá todos os acúmulos de Devastação: Corte para iniciar um ataque coordenado, em que cada acúmulo causará 750% do ATQ de Skirk como Dano Cryo. Esse Dano é considerado Dano de Supremo.\n· Quando usa Ataques Normais enquanto estiver no modo Lampejo de Sete Fases, 1 acúmulo de Devastação: Corte será consumido quando o terceiro ou quinto golpe sequencial atingir um inimigo, lançando 3 ataques coordenados. Cada ataque coordenado causa 180% do ATQ de Skirk como Dano Cryo. Esse Dano é considerado Dano de Ataque Normal.\n· Quando Skirk recebe Dano enquanto está no modo Lampejo de Sete Fases, 1 acúmulo de Devastação: Corte será consumido para reduzir essa instância de Dano em 80% e atacar inimigos próximos 3 vezes. Cada ataque causa 180% do ATQ de Skirk como Dano Cryo. Esse Dano é considerado Dano de Ataque Carregado."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Queda Longínqua",
+                                                                       "descriptionRaw":  "Aprimora os efeitos do Talento Passivo {LINK#N11130007}\u003ccolor=#FFD780FF\u003eRazão Além da Razão\u003c/color\u003e{/LINK}: Skirk invocará uma lâmina de cristal por cada Fenda do Vazio absorvida para atacar inimigos próximos, causando 500% de seu ATQ como \u003ccolor=#99FFFFFF\u003eDano Cryo\u003c/color\u003e. Esse Dano é considerado como Dano de Ataque Carregado.\nÉ necessário primeiro desbloquear o Talento Passivo \u003ccolor=#FFD780FF\u003eRazão Além da Razão\u003c/color\u003e.",
+                                                                       "description":  "Aprimora os efeitos do Talento Passivo **Razão Além da Razão**: Skirk invocará uma lâmina de cristal por cada Fenda do Vazio absorvida para atacar inimigos próximos, causando 500% de seu ATQ como Dano Cryo. Esse Dano é considerado como Dano de Ataque Carregado.\nÉ necessário primeiro desbloquear o Talento Passivo Razão Além da Razão."
+                                                                   }
+                                                        },
+                                     "elementText":  "Cryo",
+                                     "fullname":  null,
+                                     "weaponText":  "Espada",
+                                     "name":  "Skirk",
+                                     "substatText":  "Dano Crítico",
+                                     "region":  null,
+                                     "gender":  "Feminino"
+                                 },
                        "iansan":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3538,6 +3582,47 @@
                                          "region":  "Liyue",
                                          "gender":  "Feminino"
                                      },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Seu Eco que Conheci nos Sonhos",
+                                                                                  "descriptionRaw":  "Ao entrar no estado Devaneio Onírico, cada ponto de Proficiência Elemental de Yumemizuki Mizuki fornece 0.04% de Bônus de Dano \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e e \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e para os outros membros próximos da equipe. Esse efeito dura até o estado Devaneio Onírico acabar.",
+                                                                                  "description":  "Ao entrar no estado Devaneio Onírico, cada ponto de Proficiência Elemental de Yumemizuki Mizuki fornece 0.04% de Bônus de Dano Pyro, Hydro, Cryo e Electro para os outros membros próximos da equipe. Esse efeito dura até o estado Devaneio Onírico acabar."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Brotos Quentes na Nascente Transluzente",
+                                                                                  "descriptionRaw":  "Ao coletar o \u003ccolor=#FFD780FF\u003eLanche Yumemikaze\u003c/color\u003e do Supremo \u003ccolor=#FFD780FF\u003eTerapia da Nascente Secreta Anraku\u003c/color\u003e, ele simultaneamente causará Dano e curará, e regenerará 5 de Energia Elemental para Yumemizuki Mizuki. É possível regenerar Energia Elemental dessa forma até 4 vezes por cada duração de \u003ccolor=#FFD780FF\u003eTerapia da Nascente Secreta Anraku\u003c/color\u003e.",
+                                                                                  "description":  "Ao coletar o Lanche Yumemikaze do Supremo Terapia da Nascente Secreta Anraku, ele simultaneamente causará Dano e curará, e regenerará 5 de Energia Elemental para Yumemizuki Mizuki. É possível regenerar Energia Elemental dessa forma até 4 vezes por cada duração de Terapia da Nascente Secreta Anraku."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Até a Lua do Amanhecer Acabar a Noite",
+                                                                                  "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003ePeregrinação Aisa Utamakura\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
+                                                                                  "description":  "Aumenta o nível da Habilidade Elemental Peregrinação Aisa Utamakura em 3 níveis. \nO nível máximo de elevação é 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "Quando a Lua Poente Traz o Fim do Ano",
+                                                                                  "descriptionRaw":  "Aumenta o nível do Supremo \u003ccolor=#FFD780FF\u003eTerapia da Nascente Secreta Anraku\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                                  "description":  "Aumenta o nível do Supremo Terapia da Nascente Secreta Anraku em 3.\nO nível máximo de elevação é 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "O Coração Perdura Longamente",
+                                                                                  "descriptionRaw":  "Enquanto Yumemizuki Mizuki estiver no estado de Devaneio Onírico, o Dano de Redemoinho causado por membros próximos da equipe pode causar Acerto CRIT, com a Taxa CRIT fixa em 30% e o Dano CRIT fixo em 100%.",
+                                                                                  "description":  "Enquanto Yumemizuki Mizuki estiver no estado de Devaneio Onírico, o Dano de Redemoinho causado por membros próximos da equipe pode causar Acerto CRIT, com a Taxa CRIT fixa em 30% e o Dano CRIT fixo em 100%."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Águas Enevoadas",
+                                                                                  "descriptionRaw":  "Quando Yumemizuki Mizuki está no estado Devaneio Onírico, aplicará por 3s contra o inimigo o efeito \"Espera de 23 Noites\" a cada 3.5s. Inimigos afetados por Espera de 23 Noites ao sofrerem Dano Anemo ou ao desencadearem Redemoinho terão esse efeito removido, e essa reação de Redemoinho receberá um aumento de Dano. O aumento de Dano é de 1100% da Proficiência Elemental de Yumemizuki Mizuki.",
+                                                                                  "description":  "Quando Yumemizuki Mizuki está no estado Devaneio Onírico, aplicará por 3s contra o inimigo o efeito \"Espera de 23 Noites\" a cada 3.5s. Inimigos afetados por Espera de 23 Noites ao sofrerem Dano Anemo ou ao desencadearem Redemoinho terão esse efeito removido, e essa reação de Redemoinho receberá um aumento de Dano. O aumento de Dano é de 1100% da Proficiência Elemental de Yumemizuki Mizuki."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalisador",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Proficiência Elemental",
+                                                "region":  "Inazuma",
+                                                "gender":  "Feminino"
+                                            },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7837,6 +7922,53 @@
                                                },
                                         "effectName":  "Sombra da Lua na Floresta"
                                     },
+                    "azurelight":  {
+                                       "r3":  {
+                                                  "description":  "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 36%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 36%, e o Dano CRIT será aumentado em 60%.",
+                                                  "values":  [
+                                                                 "36%",
+                                                                 "36%",
+                                                                 "60%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 48%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 48%, e o Dano CRIT será aumentado em 80%.",
+                                                  "values":  [
+                                                                 "48%",
+                                                                 "48%",
+                                                                 "80%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 30%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 30%, e o Dano CRIT será aumentado em 50%.",
+                                                  "values":  [
+                                                                 "30%",
+                                                                 "30%",
+                                                                 "50%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 42%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 42%, e o Dano CRIT será aumentado em 70%.",
+                                                  "values":  [
+                                                                 "42%",
+                                                                 "42%",
+                                                                 "70%"
+                                                             ]
+                                              },
+                                       "substatText":  "Taxa Crítica",
+                                       "weaponText":  "Espada",
+                                       "name":  "Azul Brilhante",
+                                       "effectTemplateRaw":  "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, e o Dano CRIT será aumentado em \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                       "r1":  {
+                                                  "description":  "Dentro de 12s após uma Habilidade Elemental ser usada, o ATQ é aumentado em 24%. Durante esse tempo, quando o personagem que está com essa arma equipada possui 0 de Energia, o ATQ será aumentado em mais 24%, e o Dano CRIT será aumentado em 40%.",
+                                                  "values":  [
+                                                                 "24%",
+                                                                 "24%",
+                                                                 "40%"
+                                                             ]
+                                              },
+                                       "effectName":  "Dádiva da Montanha Branca"
+                                   },
                     "compoundbow":  {
                                         "r3":  {
                                                    "description":  "Ao acertar o Ataque Normal e o Ataque Carregado, aumenta o ATQ em 6% e a VEL do Ataque Normal em 1.8% por 6s, podendo acumular até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.3s.",
@@ -9977,9 +10109,9 @@
                                               "substatText":  "ATQ",
                                               "weaponText":  "Espada",
                                               "name":  "Espada do Advento",
-                                              "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eEfetivo apenas para jogadores da seguinte plataforma:\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\nAcertar oponentes com um Ataque Normal ou Carregado concede \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chance de causar \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e do ATQ como Dano em uma pequena AdE. Este efeito pode ocorrer apenas uma vez a cada 10s. Adicionalmente, se {M#o}{F#a} Viajante equipar a Espada do Advento, seu ATQ é aumentado em \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                              "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eEfetivo apenas para jogadores da seguinte plataforma:\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\"\u003c/color\u003e\nAcertar oponentes com um Ataque Normal ou Carregado concede \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chance de causar \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e do ATQ como Dano em uma pequena AdE. Este efeito pode ocorrer apenas uma vez a cada 10s. Adicionalmente, se {M#o}{F#a} Viajante equipar a Espada do Advento, seu ATQ é aumentado em \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
                                               "r1":  {
-                                                         "description":  "Efetivo apenas para jogadores da seguinte plataforma:\n\"PlayStation Network\"\nAcertar oponentes com um Ataque Normal ou Carregado concede 50% de chance de causar 200% do ATQ como Dano em uma pequena AdE. Este efeito pode ocorrer apenas uma vez a cada 10s. Adicionalmente, se o Viajante equipar a Espada do Advento, seu ATQ é aumentado em 66.",
+                                                         "description":  "Efetivo apenas para jogadores da seguinte plataforma:\n\"PlayStation™Network\"\nAcertar oponentes com um Ataque Normal ou Carregado concede 50% de chance de causar 200% do ATQ como Dano em uma pequena AdE. Este efeito pode ocorrer apenas uma vez a cada 10s. Adicionalmente, se o Viajante equipar a Espada do Advento, seu ATQ é aumentado em 66.",
                                                          "values":  [
                                                                         "50%",
                                                                         "200%",
@@ -14882,9 +15014,9 @@
                                      "substatText":  "ATQ",
                                      "weaponText":  "Arco",
                                      "name":  "Predador",
-                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eEfetivo apenas para jogadores da seguinte plataforma:\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\nCausar Dano cryo aos oponentes aumenta o Dano do Ataque Normal e Carregado do personagem em 10% por 6s. Este efeito pode ter no máximo 2 acúmulos. Adicionalmente, quando Aloy equipa o Predador, o ATQ é aumentado em 66.",
+                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eEfetivo apenas para jogadores da seguinte plataforma:\u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\"\u003c/color\u003e\nCausar Dano cryo aos oponentes aumenta o Dano do Ataque Normal e Carregado do personagem em 10% por 6s. Este efeito pode ter no máximo 2 acúmulos. Adicionalmente, quando Aloy equipa o Predador, o ATQ é aumentado em 66.",
                                      "r1":  {
-                                                "description":  "Efetivo apenas para jogadores da seguinte plataforma:\n\"PlayStation Network\"\nCausar Dano cryo aos oponentes aumenta o Dano do Ataque Normal e Carregado do personagem em 10% por 6s. Este efeito pode ter no máximo 2 acúmulos. Adicionalmente, quando Aloy equipa o Predador, o ATQ é aumentado em 66.",
+                                                "description":  "Efetivo apenas para jogadores da seguinte plataforma:\n\"PlayStation™Network\"\nCausar Dano cryo aos oponentes aumenta o Dano do Ataque Normal e Carregado do personagem em 10% por 6s. Este efeito pode ter no máximo 2 acúmulos. Adicionalmente, quando Aloy equipa o Predador, o ATQ é aumentado em 66.",
                                                 "values":  [
 
                                                            ]

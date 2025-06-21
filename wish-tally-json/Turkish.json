@@ -1334,6 +1334,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027nin Bilgeliği"
                                           },
+                      "dustofenlightenment":  {
+                                                  "name":  "Aydınlanma Tozu"
+                                              },
                       "perpetualcaliber":  {
                                                "name":  "Sonsuz Kalibre"
                                            },
@@ -3128,6 +3131,47 @@
                                          "region":  "Sumeru",
                                          "gender":  "erkek"
                                      },
+                       "dahlia":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Merhamet Buyruğu",
+                                                                        "descriptionRaw":  "Dahlia, \u003ccolor=#FFD780FF\u003eIşıltılı İlahi\u003c/color\u003e Element Patlamasının Takdis kademelerini tüketerek bir Kutsal Lütuf Kalkanı çağırdığında bu Kalkanla korunan karakterin 12 saniyeliğine Kalkan Gücü %25 artar.",
+                                                                        "description":  "Dahlia, Işıltılı İlahi Element Patlamasının Takdis kademelerini tüketerek bir Kutsal Lütuf Kalkanı çağırdığında bu Kalkanla korunan karakterin 12 saniyeliğine Kalkan Gücü %25 artar."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Meclis Toplantısı",
+                                                                        "descriptionRaw":  "Dahlia\u0027nın \u003ccolor=#FFD780FF\u003eIşıltılı İlahi\u003c/color\u003e Element Patlaması ile oluşturulan Favonius Lütfu 3 saniye daha uzun sürer.",
+                                                                        "description":  "Dahlia\u0027nın Işıltılı İlahi Element Patlaması ile oluşturulan Favonius Lütfu 3 saniye daha uzun sürer."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Rüzgarçiçeği Adağı",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eIşıltılı İlahi\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                        "description":  "Işıltılı İlahi Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Böyle Buyruldu",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKutsal Emir\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                        "description":  "Kutsal Emir Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Neşeyle Çık Yola",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eIşıltılı İlahi\u003c/color\u003e Element Patlaması etkisindeki mevcut aktif karakterin Saldırı Hızı %10 artar.\nAyrıca Favonius Lütfu etkisindeki aktif karakter saf dışı kaldığında şu etkiler anında tetiklenir:\n·Karakter dirilir.\n·Canı %100 yenilenir.\nBu etki 15 dakikada bir tetiklenebilir.",
+                                                                        "description":  "Işıltılı İlahi Element Patlaması etkisindeki mevcut aktif karakterin Saldırı Hızı %10 artar.\nAyrıca Favonius Lütfu etkisindeki aktif karakter saf dışı kaldığında şu etkiler anında tetiklenir:\n·Karakter dirilir.\n·Canı %100 yenilenir.\nBu etki 15 dakikada bir tetiklenebilir."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Kusursuz Tören",
+                                                                        "descriptionRaw":  "Dahlia, \u003ccolor=#FFD780FF\u003eIşıltılı İlahi\u003c/color\u003e Element Patlamasını kullanarak 1 Takdis kademesi elde ettiği her seferde 2,5 Element Enerjisi yeniler.",
+                                                                        "description":  "Dahlia, Işıltılı İlahi Element Patlamasını kullanarak 1 Takdis kademesi elde ettiği her seferde 2,5 Element Enerjisi yeniler."
+                                                                    }
+                                                         },
+                                      "elementText":  "Su",
+                                      "fullname":  null,
+                                      "weaponText":  "Kılıç",
+                                      "name":  "Dahlia",
+                                      "substatText":  "Can",
+                                      "region":  "Mondstadt",
+                                      "gender":  "erkek"
+                                  },
                        "yoimiya":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3210,47 +3254,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "kadın"
                                 },
-                       "yumemizukimizuki":  {
-                                                "constellations":  {
-                                                                       "c2":  {
-                                                                                  "name":  "Düşlerde Buluşalım",
-                                                                                  "descriptionRaw":  "Yumemizuki Mizuki Düşgezen durumuna girdiğinde sahip olduğu Element Ustalığı puanları yakındaki tüm grup üyelerinin \u003ccolor=#FF9999FF\u003eAteş\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eSu\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eBuz\u003c/color\u003e ve \u003ccolor=#FFACFFFF\u003eElektrik\u003c/color\u003e Hasarı Bonusunu %0,04 artırır. Bu etki, Düşgezen durumu sona erdiğinde kaybolur.",
-                                                                                  "description":  "Yumemizuki Mizuki Düşgezen durumuna girdiğinde sahip olduğu Element Ustalığı puanları yakındaki tüm grup üyelerinin Ateş, Su, Buz ve Elektrik Hasarı Bonusunu %0,04 artırır. Bu etki, Düşgezen durumu sona erdiğinde kaybolur."
-                                                                              },
-                                                                       "c4":  {
-                                                                                  "name":  "Pınarlar Akar",
-                                                                                  "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAnraku Gizli Kaplıca Terapisi\u003c/color\u003e Element Patlamasından gelen bir \u003ccolor=#FFD780FF\u003eYumemi Tarzı Özel Atıştırmalık\u003c/color\u003e almak hem Hasar verir hem iyileştirme sağlar ve Yumemizuki Mizuki için 5 Enerji yeniler. Her \u003ccolor=#FFD780FF\u003eAnraku Gizli Kaplıca Terapisi\u003c/color\u003e için bu şekilde Enerji 4 defa yenilenebilir.",
-                                                                                  "description":  "Anraku Gizli Kaplıca Terapisi Element Patlamasından gelen bir Yumemi Tarzı Özel Atıştırmalık almak hem Hasar verir hem iyileştirme sağlar ve Yumemizuki Mizuki için 5 Enerji yeniler. Her Anraku Gizli Kaplıca Terapisi için bu şekilde Enerji 4 defa yenilenebilir."
-                                                                              },
-                                                                       "c3":  {
-                                                                                  "name":  "Mehtap Altında",
-                                                                                  "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAisa Utamakura Kutsal Yolculuğu\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
-                                                                                  "description":  "Aisa Utamakura Kutsal Yolculuğu Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
-                                                                              },
-                                                                       "c5":  {
-                                                                                  "name":  "Ay Seneyi Bitirir",
-                                                                                  "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAnraku Gizli Kaplıca Terapisi\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
-                                                                                  "description":  "Anraku Gizli Kaplıca Terapisi Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
-                                                                              },
-                                                                       "c6":  {
-                                                                                  "name":  "Kalp Özlem Dolar",
-                                                                                  "descriptionRaw":  "Yumemizuki Mizuki Düşgezen durumundayken yakındaki grup üyelerinin verdiği Girdap Hasarı Kritik Vuruş yapabilir. Kritik Oranı %30, Kritik Hasarı ise %100 olarak sabittir.",
-                                                                                  "description":  "Yumemizuki Mizuki Düşgezen durumundayken yakındaki grup üyelerinin verdiği Girdap Hasarı Kritik Vuruş yapabilir. Kritik Oranı %30, Kritik Hasarı ise %100 olarak sabittir."
-                                                                              },
-                                                                       "c1":  {
-                                                                                  "name":  "Sisli Sularda",
-                                                                                  "descriptionRaw":  "Yumemizuki Mizuki, Düşgezen durumundayken sürekli olarak yakındaki düşmanlara 3,5 saniyede bir \"Yirmi Üç Gecenin Beklentisi\" etkisini uygular ve 3sn sürer. Bu etki aktifken, bir düşman Rüzgar Hasarıyla tetiklenen Girdap tepkimelerinden etkilenirse etki kaldırılır ve Girdabın verdiği Hasar, Mizuki\u0027nin Element Ustalığının %1.100\u0027ü kadar artar.",
-                                                                                  "description":  "Yumemizuki Mizuki, Düşgezen durumundayken sürekli olarak yakındaki düşmanlara 3,5 saniyede bir \"Yirmi Üç Gecenin Beklentisi\" etkisini uygular ve 3sn sürer. Bu etki aktifken, bir düşman Rüzgar Hasarıyla tetiklenen Girdap tepkimelerinden etkilenirse etki kaldırılır ve Girdabın verdiği Hasar, Mizuki\u0027nin Element Ustalığının %1.100\u0027ü kadar artar."
-                                                                              }
+                       "skirk":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Hiçliğe Doğru",
+                                                                       "descriptionRaw":  "Skirk, \u003ccolor=#FFD780FF\u003eYıkım: Bükme\u003c/color\u003e Element Becerisini kullandıktan sonra fazladan 10 {LINK#N11130005}\u003ccolor=#FFD780FF\u003eYılan Kurnazlığı\u003c/color\u003e{/LINK} puanı kazanır.\n\u003ccolor=#FFD780FF\u003eYıkım: Harap Etme\u003c/color\u003e Element Patlamasını kullandığında bu Element Patlamasının Hasarı, en fazla 10 Yılan Kurnazlığı daha hesaba katılarak artar.\nAyrıca Skirk {LINK#N11130006}\u003ccolor=#FFD780FF\u003eYedi Aşamalı Parıltı\u003c/color\u003e{/LINK} modundayken özel \u003ccolor=#FFD780FF\u003eYıkım: Tükeniş\u003c/color\u003e Element Patlamasını kullandıktan sonra 12,5 saniyeliğine Saldırısı %70 artar. Bu etki Skirk Yedi Aşamalı Parıltı modundan çıktığında iptal olur.",
+                                                                       "description":  "Skirk, Yıkım: Bükme Element Becerisini kullandıktan sonra fazladan 10 **Yılan Kurnazlığı** puanı kazanır.\nYıkım: Harap Etme Element Patlamasını kullandığında bu Element Patlamasının Hasarı, en fazla 10 Yılan Kurnazlığı daha hesaba katılarak artar.\nAyrıca Skirk **Yedi Aşamalı Parıltı** modundayken özel Yıkım: Tükeniş Element Patlamasını kullandıktan sonra 12,5 saniyeliğine Saldırısı %70 artar. Bu etki Skirk Yedi Aşamalı Parıltı modundan çıktığında iptal olur."
                                                                    },
-                                                "elementText":  "Rüzgar",
-                                                "fullname":  null,
-                                                "weaponText":  "Katalizör",
-                                                "name":  "Yumemizuki Mizuki",
-                                                "substatText":  "Element Ustalığı",
-                                                "region":  "Inazuma",
-                                                "gender":  "kadın"
-                                            },
+                                                            "c4":  {
+                                                                       "name":  "Bölünen Akış",
+                                                                       "descriptionRaw":  "{LINK#N11130008}\u003ccolor=#FFD780FF\u003eUnutulmaya Dönüş\u003c/color\u003e{/LINK} Pasif Yeteneğinin etkilerini geliştirir. Her Ölümün Kıyısı kademesi Skirk\u0027ün Saldırısını %10/%20/%40 artırır.\nUnutulmaya Dönüş Pasif Yeteneğinin açılmış olması gerekir.",
+                                                                       "description":  "**Unutulmaya Dönüş** Pasif Yeteneğinin etkilerini geliştirir. Her Ölümün Kıyısı kademesi Skirk\u0027ün Saldırısını %10/%20/%40 artırır.\nUnutulmaya Dönüş Pasif Yeteneğinin açılmış olması gerekir."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Kaderdeki Günah",
+                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eYıkım: Harap Etme\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                       "description":  "Yıkım: Harap Etme Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Dileklerin Sonu",
+                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eYıkım: Bükme\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                       "description":  "Yıkım: Bükme Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Kaynağa Dönüş",
+                                                                       "descriptionRaw":  "Skirk, {LINK#N11130007}\u003ccolor=#FFD780FF\u003eAkıl Almaz Mantık\u003c/color\u003e{/LINK} Pasif Yeteneği ile soğurduğu her Boşluk Yarığı için 15sn boyunca 1 Yıkım: Koparma kademesi kazanır. Skirk bu kademeleri tüketerek ortak saldırılar yapabilir ve {LINK#N11130006}\u003ccolor=#FFD780FF\u003eYedi Aşamalı Parıltı\u003c/color\u003e{/LINK} modundayken daha az Hasar alır. Bu kademeler 15sn sürer ve her kademenin süresi birbirinden bağımsızdır. (3 kademeye kadar birikebilir)\n\"Akıl Almaz Mantık\" Pasif Yeteneğinin açılmış olması gerekir.\n\n\u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e\n·Skirk, \u003ccolor=#FFD780FF\u003eYıkım: Harap Etme\u003c/color\u003e Element Patlamasını kullandığında tüm \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademelerini tüketerek bir ortak saldırı yapar. Her \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademesi, Skirk\u0027ün Saldırısının %750\u0027si kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e verir. Bu Hasar, Element Patlaması Hasarı sayılır.\n·Skirk, Yedi Aşamalı Parıltı modundayken Normal Saldırı yaptığı zaman 3. veya 5. seri saldırısı düşmana isabet ettiğinde 1 \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademesi tüketerek 3 ortak saldırı yapar. Her ortak saldırı, Skirk\u0027ün Saldırısının %180\u0027i kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e verir. Bu Hasar, Normal Saldırı Hasarı sayılır.\n·Skirk Yedi Aşamalı Parıltı modundayken Hasar aldığında 1 \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademesi tüketerek bu saldırıdan alınan Hasarı %80 azaltır ve yakındaki düşmanlara 3 saldırı yapar, her biri Skirk\u0027ün Saldırısının %180\u0027i kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır.",
+                                                                       "description":  "Skirk, **Akıl Almaz Mantık** Pasif Yeteneği ile soğurduğu her Boşluk Yarığı için 15sn boyunca 1 Yıkım: Koparma kademesi kazanır. Skirk bu kademeleri tüketerek ortak saldırılar yapabilir ve **Yedi Aşamalı Parıltı** modundayken daha az Hasar alır. Bu kademeler 15sn sürer ve her kademenin süresi birbirinden bağımsızdır. (3 kademeye kadar birikebilir)\n\"Akıl Almaz Mantık\" Pasif Yeteneğinin açılmış olması gerekir.\n\nYıkım: Koparma\n·Skirk, Yıkım: Harap Etme Element Patlamasını kullandığında tüm Yıkım: Koparma kademelerini tüketerek bir ortak saldırı yapar. Her Yıkım: Koparma kademesi, Skirk\u0027ün Saldırısının %750\u0027si kadar Buz Hasarı verir. Bu Hasar, Element Patlaması Hasarı sayılır.\n·Skirk, Yedi Aşamalı Parıltı modundayken Normal Saldırı yaptığı zaman 3. veya 5. seri saldırısı düşmana isabet ettiğinde 1 Yıkım: Koparma kademesi tüketerek 3 ortak saldırı yapar. Her ortak saldırı, Skirk\u0027ün Saldırısının %180\u0027i kadar Buz Hasarı verir. Bu Hasar, Normal Saldırı Hasarı sayılır.\n·Skirk Yedi Aşamalı Parıltı modundayken Hasar aldığında 1 Yıkım: Koparma kademesi tüketerek bu saldırıdan alınan Hasarı %80 azaltır ve yakındaki düşmanlara 3 saldırı yapar, her biri Skirk\u0027ün Saldırısının %180\u0027i kadar Buz Hasarı verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Derinlere Düşüş",
+                                                                       "descriptionRaw":  "{LINK#N11130007}\u003ccolor=#FFD780FF\u003eAkıl Almaz Mantık\u003c/color\u003e{/LINK} Pasif Yeteneğinin etkilerini geliştirir: Skirk\u0027ün soğurduğu her Boşluk Yarığı, yakındaki düşmanlara saldıran ve Skirk\u0027ün Saldırısının %500\u0027ü kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e veren kristal bir kılıç çağırır. Bu Hasar, Yüklü Saldırı Hasarı sayılır.\nAkıl Almaz Mantık Pasif Yeteneğinin açılmış olması gerekir.",
+                                                                       "description":  "**Akıl Almaz Mantık** Pasif Yeteneğinin etkilerini geliştirir: Skirk\u0027ün soğurduğu her Boşluk Yarığı, yakındaki düşmanlara saldıran ve Skirk\u0027ün Saldırısının %500\u0027ü kadar Buz Hasarı veren kristal bir kılıç çağırır. Bu Hasar, Yüklü Saldırı Hasarı sayılır.\nAkıl Almaz Mantık Pasif Yeteneğinin açılmış olması gerekir."
+                                                                   }
+                                                        },
+                                     "elementText":  "Buz",
+                                     "fullname":  null,
+                                     "weaponText":  "Kılıç",
+                                     "name":  "Skirk",
+                                     "substatText":  "Kritik Hasar",
+                                     "region":  null,
+                                     "gender":  "kadın"
+                                 },
                        "iansan":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3538,6 +3582,47 @@
                                          "region":  "Liyue",
                                          "gender":  "kadın"
                                      },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Düşlerde Buluşalım",
+                                                                                  "descriptionRaw":  "Yumemizuki Mizuki Düşgezen durumuna girdiğinde sahip olduğu Element Ustalığı puanları yakındaki tüm grup üyelerinin \u003ccolor=#FF9999FF\u003eAteş\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eSu\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eBuz\u003c/color\u003e ve \u003ccolor=#FFACFFFF\u003eElektrik\u003c/color\u003e Hasarı Bonusunu %0,04 artırır. Bu etki, Düşgezen durumu sona erdiğinde kaybolur.",
+                                                                                  "description":  "Yumemizuki Mizuki Düşgezen durumuna girdiğinde sahip olduğu Element Ustalığı puanları yakındaki tüm grup üyelerinin Ateş, Su, Buz ve Elektrik Hasarı Bonusunu %0,04 artırır. Bu etki, Düşgezen durumu sona erdiğinde kaybolur."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Pınarlar Akar",
+                                                                                  "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAnraku Gizli Kaplıca Terapisi\u003c/color\u003e Element Patlamasından gelen bir \u003ccolor=#FFD780FF\u003eYumemi Tarzı Özel Atıştırmalık\u003c/color\u003e almak hem Hasar verir hem iyileştirme sağlar ve Yumemizuki Mizuki için 5 Enerji yeniler. Her \u003ccolor=#FFD780FF\u003eAnraku Gizli Kaplıca Terapisi\u003c/color\u003e için bu şekilde Enerji 4 defa yenilenebilir.",
+                                                                                  "description":  "Anraku Gizli Kaplıca Terapisi Element Patlamasından gelen bir Yumemi Tarzı Özel Atıştırmalık almak hem Hasar verir hem iyileştirme sağlar ve Yumemizuki Mizuki için 5 Enerji yeniler. Her Anraku Gizli Kaplıca Terapisi için bu şekilde Enerji 4 defa yenilenebilir."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Mehtap Altında",
+                                                                                  "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAisa Utamakura Kutsal Yolculuğu\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                                  "description":  "Aisa Utamakura Kutsal Yolculuğu Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "Ay Seneyi Bitirir",
+                                                                                  "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAnraku Gizli Kaplıca Terapisi\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                                  "description":  "Anraku Gizli Kaplıca Terapisi Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "Kalp Özlem Dolar",
+                                                                                  "descriptionRaw":  "Yumemizuki Mizuki Düşgezen durumundayken yakındaki grup üyelerinin verdiği Girdap Hasarı Kritik Vuruş yapabilir. Kritik Oranı %30, Kritik Hasarı ise %100 olarak sabittir.",
+                                                                                  "description":  "Yumemizuki Mizuki Düşgezen durumundayken yakındaki grup üyelerinin verdiği Girdap Hasarı Kritik Vuruş yapabilir. Kritik Oranı %30, Kritik Hasarı ise %100 olarak sabittir."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Sisli Sularda",
+                                                                                  "descriptionRaw":  "Yumemizuki Mizuki, Düşgezen durumundayken sürekli olarak yakındaki düşmanlara 3,5 saniyede bir \"Yirmi Üç Gecenin Beklentisi\" etkisini uygular ve 3sn sürer. Bu etki aktifken, bir düşman Rüzgar Hasarıyla tetiklenen Girdap tepkimelerinden etkilenirse etki kaldırılır ve Girdabın verdiği Hasar, Mizuki\u0027nin Element Ustalığının %1.100\u0027ü kadar artar.",
+                                                                                  "description":  "Yumemizuki Mizuki, Düşgezen durumundayken sürekli olarak yakındaki düşmanlara 3,5 saniyede bir \"Yirmi Üç Gecenin Beklentisi\" etkisini uygular ve 3sn sürer. Bu etki aktifken, bir düşman Rüzgar Hasarıyla tetiklenen Girdap tepkimelerinden etkilenirse etki kaldırılır ve Girdabın verdiği Hasar, Mizuki\u0027nin Element Ustalığının %1.100\u0027ü kadar artar."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Rüzgar",
+                                                "fullname":  null,
+                                                "weaponText":  "Katalizör",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Element Ustalığı",
+                                                "region":  "Inazuma",
+                                                "gender":  "kadın"
+                                            },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7837,6 +7922,53 @@
                                                },
                                         "effectName":  "Orman Üzerindeki Ayın Gölgesi"
                                     },
+                    "azurelight":  {
+                                       "r3":  {
+                                                  "description":  "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %36 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %36, Kritik Hasar %60 artar.",
+                                                  "values":  [
+                                                                 "%36",
+                                                                 "%36",
+                                                                 "%60"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %48 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %48, Kritik Hasar %80 artar.",
+                                                  "values":  [
+                                                                 "%48",
+                                                                 "%48",
+                                                                 "%80"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %30 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %30, Kritik Hasar %50 artar.",
+                                                  "values":  [
+                                                                 "%30",
+                                                                 "%30",
+                                                                 "%50"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %42 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %42, Kritik Hasar %70 artar.",
+                                                  "values":  [
+                                                                 "%42",
+                                                                 "%42",
+                                                                 "%70"
+                                                             ]
+                                              },
+                                       "substatText":  "Kritik Oranı",
+                                       "weaponText":  "Kılıç",
+                                       "name":  "Turkuaz Işık",
+                                       "effectTemplateRaw":  "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, Kritik Hasar \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e artar.",
+                                       "r1":  {
+                                                  "description":  "Bir Element Becerisi kullandıktan sonraki 12sn boyunca Saldırı %24 artar. Bu süre boyunca kuşanan karakterin Enerjisi 0 olduğunda ek olarak Saldırı %24, Kritik Hasar %40 artar.",
+                                                  "values":  [
+                                                                 "%24",
+                                                                 "%24",
+                                                                 "%40"
+                                                             ]
+                                              },
+                                       "effectName":  "Ak Tepenin Bereketi"
+                                   },
                     "compoundbow":  {
                                         "r3":  {
                                                    "description":  "Normal Saldırı ve Yüklü Saldırı vuruşları 6 saniyeliğine Saldırıyı %6, Normal Saldırı Hızını %1,8 artırır. 4 kademeye kadar birikir. 0,3 saniyede bir uygulanabilir.",
@@ -9977,9 +10109,9 @@
                                               "substatText":  "Saldırı",
                                               "weaponText":  "Kılıç",
                                               "name":  "Zuhur Kılıcı",
-                                              "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eSadece aşağıdaki platformda geçerlidir: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\nDüşmanlara Normal veya Yüklü Saldırılarla vurmak, \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ihtimalle küçük bir alanda etkili olacak \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Saldırı kadar ek Hasara yol açar. Bu etki 10 saniyede bir uygulanabilir. Buna ek olarak, Gezgin Zuhur Kılıcını kuşandığında, Saldırısı \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e artar.",
+                                              "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eSadece aşağıdaki platformda geçerlidir: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\"\u003c/color\u003e\nDüşmanlara Normal veya Yüklü Saldırılarla vurmak, \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ihtimalle küçük bir alanda etkili olacak \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Saldırı kadar ek Hasara yol açar. Bu etki 10 saniyede bir uygulanabilir. Buna ek olarak, Gezgin Zuhur Kılıcını kuşandığında, Saldırısı \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e artar.",
                                               "r1":  {
-                                                         "description":  "Sadece aşağıdaki platformda geçerlidir: \n\"PlayStation Network\"\nDüşmanlara Normal veya Yüklü Saldırılarla vurmak, %50 ihtimalle küçük bir alanda etkili olacak %200 Saldırı kadar ek Hasara yol açar. Bu etki 10 saniyede bir uygulanabilir. Buna ek olarak, Gezgin Zuhur Kılıcını kuşandığında, Saldırısı 66 artar.",
+                                                         "description":  "Sadece aşağıdaki platformda geçerlidir: \n\"PlayStation™Network\"\nDüşmanlara Normal veya Yüklü Saldırılarla vurmak, %50 ihtimalle küçük bir alanda etkili olacak %200 Saldırı kadar ek Hasara yol açar. Bu etki 10 saniyede bir uygulanabilir. Buna ek olarak, Gezgin Zuhur Kılıcını kuşandığında, Saldırısı 66 artar.",
                                                          "values":  [
                                                                         "%50",
                                                                         "%200",
@@ -14877,9 +15009,9 @@
                                      "substatText":  "Saldırı",
                                      "weaponText":  "Yay",
                                      "name":  "Yırtıcı",
-                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eSadece aşağıdaki platformda geçerlidir: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\nDüşmanlara Buz Hasarı vermek 6 saniyeliğine bu karakterin Normal ve Yüklü Saldırısını %10 artırır. Bu etki 2 kademeye kadar birikir. Ayrıca Aloy, Yırtıcıyı kuşandığında Saldırısı 66 artar.",
+                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eSadece aşağıdaki platformda geçerlidir: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\"\u003c/color\u003e\nDüşmanlara Buz Hasarı vermek 6 saniyeliğine bu karakterin Normal ve Yüklü Saldırısını %10 artırır. Bu etki 2 kademeye kadar birikir. Ayrıca Aloy, Yırtıcıyı kuşandığında Saldırısı 66 artar.",
                                      "r1":  {
-                                                "description":  "Sadece aşağıdaki platformda geçerlidir: \n\"PlayStation Network\"\nDüşmanlara Buz Hasarı vermek 6 saniyeliğine bu karakterin Normal ve Yüklü Saldırısını %10 artırır. Bu etki 2 kademeye kadar birikir. Ayrıca Aloy, Yırtıcıyı kuşandığında Saldırısı 66 artar.",
+                                                "description":  "Sadece aşağıdaki platformda geçerlidir: \n\"PlayStation™Network\"\nDüşmanlara Buz Hasarı vermek 6 saniyeliğine bu karakterin Normal ve Yüklü Saldırısını %10 artırır. Bu etki 2 kademeye kadar birikir. Ayrıca Aloy, Yırtıcıyı kuşandığında Saldırısı 66 artar.",
                                                 "values":  [
 
                                                            ]

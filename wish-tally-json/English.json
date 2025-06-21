@@ -1365,6 +1365,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027s Wisdom"
                                           },
+                      "dustofenlightenment":  {
+                                                  "name":  "Dust of Enlightenment"
+                                              },
                       "perpetualcaliber":  {
                                                "name":  "Perpetual Caliber"
                                            },
@@ -3159,6 +3162,47 @@
                                          "region":  "Sumeru",
                                          "gender":  "Male"
                                      },
+                       "dahlia":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Revelation of Mercy",
+                                                                        "descriptionRaw":  "After Dahlia consumes his Elemental Burst \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e\u0027s Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain 25% increased Shield Strength for 12s.",
+                                                                        "description":  "After Dahlia consumes his Elemental Burst Radiant Psalter\u0027s Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain 25% increased Shield Strength for 12s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Collect of the Assembly",
+                                                                        "descriptionRaw":  "The Favonian Favor from Dahlia\u0027s Elemental Burst \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e lasts 3 more seconds.",
+                                                                        "description":  "The Favonian Favor from Dahlia\u0027s Elemental Burst Radiant Psalter lasts 3 more seconds."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Windblume Offertory",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of Radiant Psalter by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Let It Be Subtly So",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eImmersive Ordinance\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of Immersive Ordinance by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "You Shall Go Out With Joy",
+                                                                        "descriptionRaw":  "The current active character affected by the Elemental Burst \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e\u0027s Favonian Favor has their ATK SPD increased by 10%.\nAdditionally, when an active character affected by Favonian Favor falls, immediately:\n· Revive them.\n· Restore their HP to 100%.\nThis effect can trigger once every 15 minutes.",
+                                                                        "description":  "The current active character affected by the Elemental Burst Radiant Psalter\u0027s Favonian Favor has their ATK SPD increased by 10%.\nAdditionally, when an active character affected by Favonian Favor falls, immediately:\n· Revive them.\n· Restore their HP to 100%.\nThis effect can trigger once every 15 minutes."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Infallible Procession",
+                                                                        "descriptionRaw":  "Each time Dahlia gains 1 of his Elemental Burst \u003ccolor=#FFD780FF\u003eRadiant Psalter\u003c/color\u003e\u0027s Benison stacks, he will regain 2.5 Elemental Energy.",
+                                                                        "description":  "Each time Dahlia gains 1 of his Elemental Burst Radiant Psalter\u0027s Benison stacks, he will regain 2.5 Elemental Energy."
+                                                                    }
+                                                         },
+                                      "elementText":  "Hydro",
+                                      "fullname":  null,
+                                      "weaponText":  "Sword",
+                                      "name":  "Dahlia",
+                                      "substatText":  "HP",
+                                      "region":  "Mondstadt",
+                                      "gender":  "Male"
+                                  },
                        "yoimiya":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3241,47 +3285,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "Female"
                                 },
-                       "yumemizukimizuki":  {
-                                                "constellations":  {
-                                                                       "c2":  {
-                                                                                  "name":  "Your Echo I Meet in Dreams",
-                                                                                  "descriptionRaw":  "When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members\u0027 \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, and \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e DMG Bonuses by 0.04% until the Dreamdrifter state ends.",
-                                                                                  "description":  "When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members\u0027 Pyro, Hydro, Cryo, and Electro DMG Bonuses by 0.04% until the Dreamdrifter state ends."
-                                                                              },
-                                                                       "c4":  {
-                                                                                  "name":  "Buds Warm Lucid Springs",
-                                                                                  "descriptionRaw":  "Picking up a \u003ccolor=#FFD780FF\u003eYumemi Style Special Snack\u003c/color\u003e from the Elemental Burst \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e duration.",
-                                                                                  "description":  "Picking up a Yumemi Style Special Snack from the Elemental Burst Anraku Secret Spring Therapy will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per Anraku Secret Spring Therapy duration."
-                                                                              },
-                                                                       "c3":  {
-                                                                                  "name":  "Till Dawn\u0027s Moon Ends Night",
-                                                                                  "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eAisa Utamakura Pilgrimage\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                                  "description":  "Increases the Level of Aisa Utamakura Pilgrimage by 3.\nMaximum upgrade level is 15."
-                                                                              },
-                                                                       "c5":  {
-                                                                                  "name":  "As Setting Moon Brings Year\u0027s End",
-                                                                                  "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                                  "description":  "Increases the Level of Anraku Secret Spring Therapy by 3.\nMaximum upgrade level is 15."
-                                                                              },
-                                                                       "c6":  {
-                                                                                  "name":  "The Heart Lingers Long",
-                                                                                  "descriptionRaw":  "While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl DMG dealt by nearby party members can score CRIT Hits, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%.",
-                                                                                  "description":  "While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl DMG dealt by nearby party members can score CRIT Hits, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%."
-                                                                              },
-                                                                       "c1":  {
-                                                                                  "name":  "In Mist-Like Waters",
-                                                                                  "descriptionRaw":  "When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the \"Twenty-Three Nights\u0027 Awaiting\" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 1,100% of Mizuki\u0027s Elemental Mastery.",
-                                                                                  "description":  "When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the \"Twenty-Three Nights\u0027 Awaiting\" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 1,100% of Mizuki\u0027s Elemental Mastery."
-                                                                              }
+                       "skirk":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Into the Abyss",
+                                                                       "descriptionRaw":  "After unleashing her Elemental Skill \u003ccolor=#FFD780FF\u003eHavoc: Warp\u003c/color\u003e, Skirk will gain 10 additional {LINK#N11130005}\u003ccolor=#FFD780FF\u003eSerpent\u0027s Subtlety\u003c/color\u003e{/LINK} points.\nWhen using her Elemental Burst \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e, the DMG of this Elemental Burst instance will be increased by taking up to 10 more Serpent\u0027s Subtlety points into account.\nAdditionally, within 12.5s after Skirk unleashes the special Elemental Burst \u003ccolor=#FFD780FF\u003eHavoc: Extinction\u003c/color\u003e while in her {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSeven-Phase Flash\u003c/color\u003e{/LINK} mode, her ATK is increased by 70%. This effect will be canceled when she leaves the Seven-Phase Flash mode.",
+                                                                       "description":  "After unleashing her Elemental Skill Havoc: Warp, Skirk will gain 10 additional **Serpent\u0027s Subtlety** points.\nWhen using her Elemental Burst Havoc: Ruin, the DMG of this Elemental Burst instance will be increased by taking up to 10 more Serpent\u0027s Subtlety points into account.\nAdditionally, within 12.5s after Skirk unleashes the special Elemental Burst Havoc: Extinction while in her **Seven-Phase Flash** mode, her ATK is increased by 70%. This effect will be canceled when she leaves the Seven-Phase Flash mode."
                                                                    },
-                                                "elementText":  "Anemo",
-                                                "fullname":  null,
-                                                "weaponText":  "Catalyst",
-                                                "name":  "Yumemizuki Mizuki",
-                                                "substatText":  "Elemental Mastery",
-                                                "region":  "Inazuma",
-                                                "gender":  "Female"
-                                            },
+                                                            "c4":  {
+                                                                       "name":  "Fractured Flow",
+                                                                       "descriptionRaw":  "Enhances the effects of the Passive Talent {LINK#N11130008}\u003ccolor=#FFD780FF\u003eReturn to Oblivion\u003c/color\u003e{/LINK}: Each Death\u0027s Crossing stack also increases Skirk\u0027s ATK by 10%/20%/40%.\nYou must first unlock the Passive Talent Return to Oblivion.",
+                                                                       "description":  "Enhances the effects of the Passive Talent **Return to Oblivion**: Each Death\u0027s Crossing stack also increases Skirk\u0027s ATK by 10%/20%/40%.\nYou must first unlock the Passive Talent Return to Oblivion."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Serendipitous Sin",
+                                                                       "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                       "description":  "Increases the Level of Havoc: Ruin by 3.\nMaximum upgrade level is 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "End of Wishes",
+                                                                       "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eHavoc: Warp\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                       "description":  "Increases the Level of Havoc: Warp by 3.\nMaximum upgrade level is 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "To the Source",
+                                                                       "descriptionRaw":  "Each Void Rift Skirk absorbs via the effects of the Passive Talent {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK} will grant her 1 Havoc: Sever stack. She can consume such stacks to initiate coordinated attacks and decrease the DMG she takes while in {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSeven-Phase Flash\u003c/color\u003e{/LINK} mode. These stacks last for 15s, and each stack\u0027s duration is counted independently (max 3 stacks).\nYou must first unlock the Passive Talent \"Reason Beyond Reason.\"\n\n\u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e\n· When Skirk uses the Elemental Burst \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e, she will consume all \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e stacks to initiate a coordinated attack in which each \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e stack will deal 750% of Skirk\u0027s ATK as \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e. This DMG is considered Elemental Burst DMG.\n· When she uses Normal Attacks while in Seven-Phase Flash mode, 1 \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e stack will be consumed when her third or fifth sequenced attacks hit an opponent to launch 3 coordinated attacks. Each coordinated attack deals 180% of Skirk\u0027s ATK as \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e. This damage is considered Normal Attack DMG.\n· When Skirk takes DMG while in Seven-Phase Flash mode, 1 \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e stack will be consumed to decrease this DMG instance by 80% and attack nearby opponents 3 times, with each attack dealing 180% of Skirk\u0027s ATK as \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e. This DMG is considered Charged Attack DMG.",
+                                                                       "description":  "Each Void Rift Skirk absorbs via the effects of the Passive Talent **Reason Beyond Reason** will grant her 1 Havoc: Sever stack. She can consume such stacks to initiate coordinated attacks and decrease the DMG she takes while in **Seven-Phase Flash** mode. These stacks last for 15s, and each stack\u0027s duration is counted independently (max 3 stacks).\nYou must first unlock the Passive Talent \"Reason Beyond Reason.\"\n\nHavoc: Sever\n· When Skirk uses the Elemental Burst Havoc: Ruin, she will consume all Havoc: Sever stacks to initiate a coordinated attack in which each Havoc: Sever stack will deal 750% of Skirk\u0027s ATK as Cryo DMG. This DMG is considered Elemental Burst DMG.\n· When she uses Normal Attacks while in Seven-Phase Flash mode, 1 Havoc: Sever stack will be consumed when her third or fifth sequenced attacks hit an opponent to launch 3 coordinated attacks. Each coordinated attack deals 180% of Skirk\u0027s ATK as Cryo DMG. This damage is considered Normal Attack DMG.\n· When Skirk takes DMG while in Seven-Phase Flash mode, 1 Havoc: Sever stack will be consumed to decrease this DMG instance by 80% and attack nearby opponents 3 times, with each attack dealing 180% of Skirk\u0027s ATK as Cryo DMG. This DMG is considered Charged Attack DMG."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Far to Fall",
+                                                                       "descriptionRaw":  "Enhances the effects of the Passive Talent {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK}: Every Void Rift absorbed will summon a crystal blade to attack nearby opponents, dealing 500% of Skirk\u0027s ATK as \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e. This DMG is considered Charged Attack DMG.\nYou must first unlock the Passive Talent Reason Beyond Reason.",
+                                                                       "description":  "Enhances the effects of the Passive Talent **Reason Beyond Reason**: Every Void Rift absorbed will summon a crystal blade to attack nearby opponents, dealing 500% of Skirk\u0027s ATK as Cryo DMG. This DMG is considered Charged Attack DMG.\nYou must first unlock the Passive Talent Reason Beyond Reason."
+                                                                   }
+                                                        },
+                                     "elementText":  "Cryo",
+                                     "fullname":  null,
+                                     "weaponText":  "Sword",
+                                     "name":  "Skirk",
+                                     "substatText":  "CRIT DMG",
+                                     "region":  null,
+                                     "gender":  "Female"
+                                 },
                        "iansan":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3569,6 +3613,47 @@
                                          "region":  "Liyue",
                                          "gender":  "Female"
                                      },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Your Echo I Meet in Dreams",
+                                                                                  "descriptionRaw":  "When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members\u0027 \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, and \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e DMG Bonuses by 0.04% until the Dreamdrifter state ends.",
+                                                                                  "description":  "When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members\u0027 Pyro, Hydro, Cryo, and Electro DMG Bonuses by 0.04% until the Dreamdrifter state ends."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Buds Warm Lucid Springs",
+                                                                                  "descriptionRaw":  "Picking up a \u003ccolor=#FFD780FF\u003eYumemi Style Special Snack\u003c/color\u003e from the Elemental Burst \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e duration.",
+                                                                                  "description":  "Picking up a Yumemi Style Special Snack from the Elemental Burst Anraku Secret Spring Therapy will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per Anraku Secret Spring Therapy duration."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Till Dawn\u0027s Moon Ends Night",
+                                                                                  "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eAisa Utamakura Pilgrimage\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                                  "description":  "Increases the Level of Aisa Utamakura Pilgrimage by 3.\nMaximum upgrade level is 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "As Setting Moon Brings Year\u0027s End",
+                                                                                  "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eAnraku Secret Spring Therapy\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                                  "description":  "Increases the Level of Anraku Secret Spring Therapy by 3.\nMaximum upgrade level is 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "The Heart Lingers Long",
+                                                                                  "descriptionRaw":  "While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl DMG dealt by nearby party members can score CRIT Hits, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%.",
+                                                                                  "description":  "While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl DMG dealt by nearby party members can score CRIT Hits, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "In Mist-Like Waters",
+                                                                                  "descriptionRaw":  "When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the \"Twenty-Three Nights\u0027 Awaiting\" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 1,100% of Mizuki\u0027s Elemental Mastery.",
+                                                                                  "description":  "When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the \"Twenty-Three Nights\u0027 Awaiting\" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 1,100% of Mizuki\u0027s Elemental Mastery."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalyst",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Elemental Mastery",
+                                                "region":  "Inazuma",
+                                                "gender":  "Female"
+                                            },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7868,6 +7953,53 @@
                                                },
                                         "effectName":  "Stillwood Moonshadow"
                                     },
+                    "azurelight":  {
+                                       "r3":  {
+                                                  "description":  "Within 12s after an Elemental Skill is used, ATK is increased by 36%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 36%, and CRIT DMG will be increased by 60%.",
+                                                  "values":  [
+                                                                 "36%",
+                                                                 "36%",
+                                                                 "60%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Within 12s after an Elemental Skill is used, ATK is increased by 48%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 48%, and CRIT DMG will be increased by 80%.",
+                                                  "values":  [
+                                                                 "48%",
+                                                                 "48%",
+                                                                 "80%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Within 12s after an Elemental Skill is used, ATK is increased by 30%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 30%, and CRIT DMG will be increased by 50%.",
+                                                  "values":  [
+                                                                 "30%",
+                                                                 "30%",
+                                                                 "50%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Within 12s after an Elemental Skill is used, ATK is increased by 42%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 42%, and CRIT DMG will be increased by 70%.",
+                                                  "values":  [
+                                                                 "42%",
+                                                                 "42%",
+                                                                 "70%"
+                                                             ]
+                                              },
+                                       "substatText":  "CRIT Rate",
+                                       "weaponText":  "Sword",
+                                       "name":  "Azurelight",
+                                       "effectTemplateRaw":  "Within 12s after an Elemental Skill is used, ATK is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. During this time, when the equipping character has 0 Energy, ATK will be further increased by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, and CRIT DMG will be increased by \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                       "r1":  {
+                                                  "description":  "Within 12s after an Elemental Skill is used, ATK is increased by 24%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 24%, and CRIT DMG will be increased by 40%.",
+                                                  "values":  [
+                                                                 "24%",
+                                                                 "24%",
+                                                                 "40%"
+                                                             ]
+                                              },
+                                       "effectName":  "Whitehill\u0027s Bestowal"
+                                   },
                     "compoundbow":  {
                                         "r3":  {
                                                    "description":  "Normal Attack and Charged Attack hits increase ATK by 6% and Normal ATK SPD by 1.8% for 6s. Max 4 stacks. Can only occur once every 0.3s.",
@@ -10008,9 +10140,9 @@
                                               "substatText":  "ATK",
                                               "weaponText":  "Sword",
                                               "name":  "Sword of Descension",
-                                              "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eEffective only on the following platform: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\nHitting opponents with Normal and Charged Attacks grants a \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e chance to deal \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                              "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eEffective only on the following platform: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\"\u003c/color\u003e\nHitting opponents with Normal and Charged Attacks grants a \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e chance to deal \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
                                               "r1":  {
-                                                         "description":  "Effective only on the following platform: \n\"PlayStation Network\"\nHitting opponents with Normal and Charged Attacks grants a 50% chance to deal 200% ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by 66.",
+                                                         "description":  "Effective only on the following platform: \n\"PlayStation™Network\"\nHitting opponents with Normal and Charged Attacks grants a 50% chance to deal 200% ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by 66.",
                                                          "values":  [
                                                                         "50%",
                                                                         "200%",
@@ -14913,9 +15045,9 @@
                                      "substatText":  "ATK",
                                      "weaponText":  "Bow",
                                      "name":  "Predator",
-                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eEffective only on the following platform: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\nDealing Cryo DMG to opponents increases this character\u0027s Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66.",
+                                     "effectTemplateRaw":  "\u003ccolor=#99FFFFFF\u003eEffective only on the following platform: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\"\u003c/color\u003e\nDealing Cryo DMG to opponents increases this character\u0027s Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66.",
                                      "r1":  {
-                                                "description":  "Effective only on the following platform: \n\"PlayStation Network\"\nDealing Cryo DMG to opponents increases this character\u0027s Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66.",
+                                                "description":  "Effective only on the following platform: \n\"PlayStation™Network\"\nDealing Cryo DMG to opponents increases this character\u0027s Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66.",
                                                 "values":  [
 
                                                            ]

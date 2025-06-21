@@ -1334,6 +1334,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Saggezza di Narukami"
                                           },
+                      "dustofenlightenment":  {
+                                                  "name":  "Polvere dell\u0027illuminazione"
+                                              },
                       "perpetualcaliber":  {
                                                "name":  "Calibro perpetuo"
                                            },
@@ -1434,10 +1437,10 @@
                                                 "name":  "Insegnamenti della pragmatica"
                                             },
                       "lightrealmcore":  {
-                                             "name":  "Nucleo del Regno della luce"
+                                             "name":  "Nucleo del Regno della Luce"
                                          },
                       "lightrealmsigil":  {
-                                              "name":  "Sigillo del Regno della luce"
+                                              "name":  "Sigillo del Regno della Luce"
                                           },
                       "secretsourcescoutsweeper":  {
                                                        "name":  "Ricognitore della Fonte segreta"
@@ -3128,6 +3131,47 @@
                                          "region":  "Sumeru",
                                          "gender":  "maschio"
                                      },
+                       "dahlia":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Rivelazione della misericordia",
+                                                                        "descriptionRaw":  "#Dopo che Dahlia ha consumato gli accumuli di Benedizione del suo Tripudio elementale \u003ccolor=#FFD780FF\u003eSalterio radioso\u003c/color\u003e per evocare uno Scudo di Grazia sacra, il personaggio protetto dallo Scudo sopracitato ottiene un 25% di aumento dell\u0027efficacia dello scudo per 12{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Dopo che Dahlia ha consumato gli accumuli di Benedizione del suo Tripudio elementale Salterio radioso per evocare uno Scudo di Grazia sacra, il personaggio protetto dallo Scudo sopracitato ottiene un 25% di aumento dell\u0027efficacia dello scudo per 12 s."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Colletta dell\u0027assemblea",
+                                                                        "descriptionRaw":  "#La Grazia di Favonius ottenuta dal Tripudio elementale di Dahlia, \u003ccolor=#FFD780FF\u003eSalterio radioso\u003c/color\u003e, dura 3{NON_BREAK_SPACE}s in più.",
+                                                                        "description":  "La Grazia di Favonius ottenuta dal Tripudio elementale di Dahlia, Salterio radioso, dura 3 s in più."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Offertorio del Florvento",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSalterio radioso\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di Salterio radioso.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Che sobriamente sia così",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eOrdinazione immersiva\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di Ordinazione immersiva.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Partirete con gioia",
+                                                                        "descriptionRaw":  "La VEL d\u0027ATT del personaggio attivo sotto l\u0027effetto di Grazia di Favonius del Tripudio elementale \u003ccolor=#FFD780FF\u003eSalterio radioso\u003c/color\u003e aumenta di un 10%.\nInoltre, quando il personaggio sotto l\u0027effetto di Grazia di Favonius finisce fuori combattimento:\n· viene rianimato immediatamente;\n· tutti i suoi PS vengono ripristinati.\nQuest\u0027effetto può attivarsi una volta ogni 15 minuti.",
+                                                                        "description":  "La VEL d\u0027ATT del personaggio attivo sotto l\u0027effetto di Grazia di Favonius del Tripudio elementale Salterio radioso aumenta di un 10%.\nInoltre, quando il personaggio sotto l\u0027effetto di Grazia di Favonius finisce fuori combattimento:\n· viene rianimato immediatamente;\n· tutti i suoi PS vengono ripristinati.\nQuest\u0027effetto può attivarsi una volta ogni 15 minuti."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Processione infallibile",
+                                                                        "descriptionRaw":  "Ogni volta che Dahlia ottiene 1 accumulo di Benedizione del suo Tripudio elementale \u003ccolor=#FFD780FF\u003eSalterio radioso\u003c/color\u003e, recupera 2,5 di energia elementale.",
+                                                                        "description":  "Ogni volta che Dahlia ottiene 1 accumulo di Benedizione del suo Tripudio elementale Salterio radioso, recupera 2,5 di energia elementale."
+                                                                    }
+                                                         },
+                                      "elementText":  "Hydro",
+                                      "fullname":  null,
+                                      "weaponText":  "Spada",
+                                      "name":  "Dahlia",
+                                      "substatText":  "PS",
+                                      "region":  "Mondstadt",
+                                      "gender":  "maschio"
+                                  },
                        "yoimiya":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3210,47 +3254,47 @@
                                     "region":  "Mondstadt",
                                     "gender":  "femmina"
                                 },
-                       "yumemizukimizuki":  {
-                                                "constellations":  {
-                                                                       "c2":  {
-                                                                                  "name":  "Nei sogni incontro il tuo eco",
-                                                                                  "descriptionRaw":  "Quando entra nello stato di Girasogni, ogni punto di maestria elementale di Yumemizuki Mizuki aumenta di uno 0,04% i bonus DAN da \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e ed \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e dei membri vicini del gruppo fino al termine del suddetto stato.",
-                                                                                  "description":  "Quando entra nello stato di Girasogni, ogni punto di maestria elementale di Yumemizuki Mizuki aumenta di uno 0,04% i bonus DAN da Pyro, Hydro, Cryo ed Electro dei membri vicini del gruppo fino al termine del suddetto stato."
-                                                                              },
-                                                                       "c4":  {
-                                                                                  "name":  "Caldi boccioli della sorgente limpida",
-                                                                                  "descriptionRaw":  "Raccogliere uno \u003ccolor=#FFD780FF\u003eSpuntino speciale in stile Yumemi\u003c/color\u003e del Tripudio elementale \u003ccolor=#FFD780FF\u003eTerapia della sorgente segreta di Anraku\u003c/color\u003e infligge DAN e apporta effetti di guarigione in tutti i casi, ripristinando al contempo l\u0027energia di Yumemizuki Mizuki di 5. L\u0027energia può essere ripristinata in questo modo per un massimo di 4 volte per tutta la durata di \u003ccolor=#FFD780FF\u003eTerapia della sorgente segreta di Anraku\u003c/color\u003e.",
-                                                                                  "description":  "Raccogliere uno Spuntino speciale in stile Yumemi del Tripudio elementale Terapia della sorgente segreta di Anraku infligge DAN e apporta effetti di guarigione in tutti i casi, ripristinando al contempo l\u0027energia di Yumemizuki Mizuki di 5. L\u0027energia può essere ripristinata in questo modo per un massimo di 4 volte per tutta la durata di Terapia della sorgente segreta di Anraku."
-                                                                              },
-                                                                       "c3":  {
-                                                                                  "name":  "Luna dell\u0027alba",
-                                                                                  "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003ePellegrinaggio di Aisa Utamakura\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                                  "description":  "Aumenta di 3 il livello di Pellegrinaggio di Aisa Utamakura.\nIl livello di potenziamento massimo è 15."
-                                                                              },
-                                                                       "c5":  {
-                                                                                  "name":  "Il tramonto lunare conduce alla fine dell\u0027anno",
-                                                                                  "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eTerapia della sorgente segreta di Anraku\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                                  "description":  "Aumenta di 3 il livello di Terapia della sorgente segreta di Anraku.\nIl livello di potenziamento massimo è 15."
-                                                                              },
-                                                                       "c6":  {
-                                                                                  "name":  "Il cuore indugia a lungo",
-                                                                                  "descriptionRaw":  "Quando Yumemizuki Mizuki è nello stato di Girasogni, i DAN da Turbinio inflitti dai membri vicini del gruppo possono causare colpi CRIT, con tasso di CRIT e DAN da CRIT fissati rispettivamente a un 30% e a un 100%.",
-                                                                                  "description":  "Quando Yumemizuki Mizuki è nello stato di Girasogni, i DAN da Turbinio inflitti dai membri vicini del gruppo possono causare colpi CRIT, con tasso di CRIT e DAN da CRIT fissati rispettivamente a un 30% e a un 100%."
-                                                                              },
-                                                                       "c1":  {
-                                                                                  "name":  "Acque nebbiose",
-                                                                                  "descriptionRaw":  "#Quando Yumemizuki Mizuki è nello stato di Girasogni, applica costantemente l\u0027effetto \"Ventitré notti di attesa\" agli avversari vicini per 3{NON_BREAK_SPACE}s ogni 3,5{NON_BREAK_SPACE}s. Quando l\u0027avversario viene colpito da reazioni di Turbinio innescate da DAN da Anemo mentre l\u0027effetto sopracitato è attivo, l\u0027effetto viene rimosso e i DAN inflitti dall\u0027attuale iterazione di Turbinio aumentano di un 1.100% della maestria elementale di Mizuki.",
-                                                                                  "description":  "Quando Yumemizuki Mizuki è nello stato di Girasogni, applica costantemente l\u0027effetto \"Ventitré notti di attesa\" agli avversari vicini per 3 s ogni 3,5 s. Quando l\u0027avversario viene colpito da reazioni di Turbinio innescate da DAN da Anemo mentre l\u0027effetto sopracitato è attivo, l\u0027effetto viene rimosso e i DAN inflitti dall\u0027attuale iterazione di Turbinio aumentano di un 1.100% della maestria elementale di Mizuki."
-                                                                              }
+                       "skirk":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Discesa nell\u0027Abisso",
+                                                                       "descriptionRaw":  "#Dopo aver scatenato la sua abilità elementale \u003ccolor=#FFD780FF\u003eCaos: Distorsione\u003c/color\u003e, Skirk ottiene 10 punti {LINK#N11130005}\u003ccolor=#FFD780FF\u003eAstuzia del serpente\u003c/color\u003e{/LINK} aggiuntivi.\nQuando il Tripudio elementale \u003ccolor=#FFD780FF\u003eCaos: Rovina\u003c/color\u003e viene scatenato, i DAN inflitti da una singola iterazione di quest\u0027ultimo aumentano considerando fino a 10 punti Astuzia del serpente in più.\nInoltre, per i 12,5{NON_BREAK_SPACE}s successivi all\u0027utilizzo del Tripudio elementale speciale di Skirk, \u003ccolor=#FFD780FF\u003eCaos: Estinzione\u003c/color\u003e, mentre è nella modalità {LINK#N11130006}\u003ccolor=#FFD780FF\u003eLampo eptafasico\u003c/color\u003e{/LINK}, il suo ATT aumenta di un 70%. L\u0027effetto si annulla quando la modalità Lampo eptafasico termina.",
+                                                                       "description":  "Dopo aver scatenato la sua abilità elementale Caos: Distorsione, Skirk ottiene 10 punti **Astuzia del serpente** aggiuntivi.\nQuando il Tripudio elementale Caos: Rovina viene scatenato, i DAN inflitti da una singola iterazione di quest\u0027ultimo aumentano considerando fino a 10 punti Astuzia del serpente in più.\nInoltre, per i 12,5 s successivi all\u0027utilizzo del Tripudio elementale speciale di Skirk, Caos: Estinzione, mentre è nella modalità **Lampo eptafasico**, il suo ATT aumenta di un 70%. L\u0027effetto si annulla quando la modalità Lampo eptafasico termina."
                                                                    },
-                                                "elementText":  "Anemo",
-                                                "fullname":  null,
-                                                "weaponText":  "Catalizzatore",
-                                                "name":  "Yumemizuki Mizuki",
-                                                "substatText":  "Maestria elementale",
-                                                "region":  "Inazuma",
-                                                "gender":  "femmina"
-                                            },
+                                                            "c4":  {
+                                                                       "name":  "Flusso frammentato",
+                                                                       "descriptionRaw":  "Aumenta gli effetti del talento passivo {LINK#N11130008}\u003ccolor=#FFD780FF\u003eRitorno all\u0027oblio\u003c/color\u003e{/LINK}. Ogni accumulo di Traversata della Morte aumenta anche l\u0027ATT di Skirk di un 10%/20%/40%.\nRichiede il talento passivo Ritorno all\u0027oblio.",
+                                                                       "description":  "Aumenta gli effetti del talento passivo **Ritorno all\u0027oblio**. Ogni accumulo di Traversata della Morte aumenta anche l\u0027ATT di Skirk di un 10%/20%/40%.\nRichiede il talento passivo Ritorno all\u0027oblio."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Peccato fortuito",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eCaos: Rovina\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello di Caos: Rovina.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Fine dei desideri",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eCaos: Distorsione\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello di Caos: Distorsione.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Verso l\u0027origine",
+                                                                       "descriptionRaw":  "#Ogni Varco nel Vuoto che Skirk assorbe tramite gli effetti del suo talento passivo {LINK#N11130007}\u003ccolor=#FFD780FF\u003eOltre ogni logica\u003c/color\u003e{/LINK} le conferisce 1 accumulo di Caos: Troncamento, per un massimo di 3. Skirk può consumare questi accumuli per sferrare degli attacchi coordinati e diminuire i DAN subiti quando è nella modalità {LINK#N11130006}\u003ccolor=#FFD780FF\u003eLampo eptafasico\u003c/color\u003e{/LINK}. La durata di ogni accumulo è di 15{NON_BREAK_SPACE}s, e ciascuna viene calcolata in modo indipendente.\nRichiede il talento passivo Oltre ogni logica.\n\n\u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e\n· Quando Skirk usa il suo Tripudio elementale \u003ccolor=#FFD780FF\u003eCaos: Rovina\u003c/color\u003e, Skirk consuma tutti gli accumuli di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e per sferrare un attacco coordinato in cui ogni accumulo di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 750% del suo ATT. Questi DAN sono considerati DAN da Tripudio elementale.\n· Quando usa gli attacchi normali mentre è in modalità Lampo eptafasico, Skirk consuma 1 accumulo di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e per effettuare 3 attacchi coordinati quando colpisce un avversario con il terzo o il quinto colpo della sua sequenza di attacco. Ciascun attacco coordinato infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 180% del suo ATT. Questi DAN sono considerati DAN da attacco normale.\n· Quando Skirk subisce DAN mentre è in modalità Lampo eptafasico, consuma 1 accumulo di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e per ridurre di un 80% i DAN suddetti e sferrare 3 attacchi agli avversari vicini. Ciascun attacco infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 180% del suo ATT. Tali DAN sono considerati DAN da attacco caricato.",
+                                                                       "description":  "Ogni Varco nel Vuoto che Skirk assorbe tramite gli effetti del suo talento passivo **Oltre ogni logica** le conferisce 1 accumulo di Caos: Troncamento, per un massimo di 3. Skirk può consumare questi accumuli per sferrare degli attacchi coordinati e diminuire i DAN subiti quando è nella modalità **Lampo eptafasico**. La durata di ogni accumulo è di 15 s, e ciascuna viene calcolata in modo indipendente.\nRichiede il talento passivo Oltre ogni logica.\n\nCaos: Troncamento\n· Quando Skirk usa il suo Tripudio elementale Caos: Rovina, Skirk consuma tutti gli accumuli di Caos: Troncamento per sferrare un attacco coordinato in cui ogni accumulo di Caos: Troncamento infligge DAN da Cryo pari a un 750% del suo ATT. Questi DAN sono considerati DAN da Tripudio elementale.\n· Quando usa gli attacchi normali mentre è in modalità Lampo eptafasico, Skirk consuma 1 accumulo di Caos: Troncamento per effettuare 3 attacchi coordinati quando colpisce un avversario con il terzo o il quinto colpo della sua sequenza di attacco. Ciascun attacco coordinato infligge DAN da Cryo pari a un 180% del suo ATT. Questi DAN sono considerati DAN da attacco normale.\n· Quando Skirk subisce DAN mentre è in modalità Lampo eptafasico, consuma 1 accumulo di Caos: Troncamento per ridurre di un 80% i DAN suddetti e sferrare 3 attacchi agli avversari vicini. Ciascun attacco infligge DAN da Cryo pari a un 180% del suo ATT. Tali DAN sono considerati DAN da attacco caricato."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Caduta senza fine",
+                                                                       "descriptionRaw":  "Aumenta gli effetti del talento passivo {LINK#N11130007}\u003ccolor=#FFD780FF\u003eOltre ogni logica\u003c/color\u003e{/LINK}. Ogni Varco nel Vuoto assorbito evoca una lama di cristallo che attacca gli avversari vicini, infliggendo \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 500% dell\u0027ATT di Skirk. Tali DAN sono considerati DAN da attacco caricato.\nRichiede il talento passivo Oltre ogni logica.",
+                                                                       "description":  "Aumenta gli effetti del talento passivo **Oltre ogni logica**. Ogni Varco nel Vuoto assorbito evoca una lama di cristallo che attacca gli avversari vicini, infliggendo DAN da Cryo pari a un 500% dell\u0027ATT di Skirk. Tali DAN sono considerati DAN da attacco caricato.\nRichiede il talento passivo Oltre ogni logica."
+                                                                   }
+                                                        },
+                                     "elementText":  "Cryo",
+                                     "fullname":  null,
+                                     "weaponText":  "Spada",
+                                     "name":  "Skirk",
+                                     "substatText":  "DAN da CRIT",
+                                     "region":  null,
+                                     "gender":  "femmina"
+                                 },
                        "iansan":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3538,6 +3582,47 @@
                                          "region":  "Liyue",
                                          "gender":  "femmina"
                                      },
+                       "yumemizukimizuki":  {
+                                                "constellations":  {
+                                                                       "c2":  {
+                                                                                  "name":  "Nei sogni incontro il tuo eco",
+                                                                                  "descriptionRaw":  "Quando entra nello stato di Girasogni, ogni punto di maestria elementale di Yumemizuki Mizuki aumenta di uno 0,04% i bonus DAN da \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e, \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e ed \u003ccolor=#FFACFFFF\u003eElectro\u003c/color\u003e dei membri vicini del gruppo fino al termine del suddetto stato.",
+                                                                                  "description":  "Quando entra nello stato di Girasogni, ogni punto di maestria elementale di Yumemizuki Mizuki aumenta di uno 0,04% i bonus DAN da Pyro, Hydro, Cryo ed Electro dei membri vicini del gruppo fino al termine del suddetto stato."
+                                                                              },
+                                                                       "c4":  {
+                                                                                  "name":  "Caldi boccioli della sorgente limpida",
+                                                                                  "descriptionRaw":  "Raccogliere uno \u003ccolor=#FFD780FF\u003eSpuntino speciale in stile Yumemi\u003c/color\u003e del Tripudio elementale \u003ccolor=#FFD780FF\u003eTerapia della sorgente segreta di Anraku\u003c/color\u003e infligge DAN e apporta effetti di guarigione in tutti i casi, ripristinando al contempo l\u0027energia di Yumemizuki Mizuki di 5. L\u0027energia può essere ripristinata in questo modo per un massimo di 4 volte per tutta la durata di \u003ccolor=#FFD780FF\u003eTerapia della sorgente segreta di Anraku\u003c/color\u003e.",
+                                                                                  "description":  "Raccogliere uno Spuntino speciale in stile Yumemi del Tripudio elementale Terapia della sorgente segreta di Anraku infligge DAN e apporta effetti di guarigione in tutti i casi, ripristinando al contempo l\u0027energia di Yumemizuki Mizuki di 5. L\u0027energia può essere ripristinata in questo modo per un massimo di 4 volte per tutta la durata di Terapia della sorgente segreta di Anraku."
+                                                                              },
+                                                                       "c3":  {
+                                                                                  "name":  "Luna dell\u0027alba",
+                                                                                  "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003ePellegrinaggio di Aisa Utamakura\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                                  "description":  "Aumenta di 3 il livello di Pellegrinaggio di Aisa Utamakura.\nIl livello di potenziamento massimo è 15."
+                                                                              },
+                                                                       "c5":  {
+                                                                                  "name":  "Il tramonto lunare conduce alla fine dell\u0027anno",
+                                                                                  "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eTerapia della sorgente segreta di Anraku\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                                  "description":  "Aumenta di 3 il livello di Terapia della sorgente segreta di Anraku.\nIl livello di potenziamento massimo è 15."
+                                                                              },
+                                                                       "c6":  {
+                                                                                  "name":  "Il cuore indugia a lungo",
+                                                                                  "descriptionRaw":  "Quando Yumemizuki Mizuki è nello stato di Girasogni, i DAN da Turbinio inflitti dai membri vicini del gruppo possono causare colpi CRIT, con tasso di CRIT e DAN da CRIT fissati rispettivamente a un 30% e a un 100%.",
+                                                                                  "description":  "Quando Yumemizuki Mizuki è nello stato di Girasogni, i DAN da Turbinio inflitti dai membri vicini del gruppo possono causare colpi CRIT, con tasso di CRIT e DAN da CRIT fissati rispettivamente a un 30% e a un 100%."
+                                                                              },
+                                                                       "c1":  {
+                                                                                  "name":  "Acque nebbiose",
+                                                                                  "descriptionRaw":  "#Quando Yumemizuki Mizuki è nello stato di Girasogni, applica costantemente l\u0027effetto \"Ventitré notti di attesa\" agli avversari vicini per 3{NON_BREAK_SPACE}s ogni 3,5{NON_BREAK_SPACE}s. Quando l\u0027avversario viene colpito da reazioni di Turbinio innescate da DAN da Anemo mentre l\u0027effetto sopracitato è attivo, l\u0027effetto viene rimosso e i DAN inflitti dall\u0027attuale iterazione di Turbinio aumentano di un 1.100% della maestria elementale di Mizuki.",
+                                                                                  "description":  "Quando Yumemizuki Mizuki è nello stato di Girasogni, applica costantemente l\u0027effetto \"Ventitré notti di attesa\" agli avversari vicini per 3 s ogni 3,5 s. Quando l\u0027avversario viene colpito da reazioni di Turbinio innescate da DAN da Anemo mentre l\u0027effetto sopracitato è attivo, l\u0027effetto viene rimosso e i DAN inflitti dall\u0027attuale iterazione di Turbinio aumentano di un 1.100% della maestria elementale di Mizuki."
+                                                                              }
+                                                                   },
+                                                "elementText":  "Anemo",
+                                                "fullname":  null,
+                                                "weaponText":  "Catalizzatore",
+                                                "name":  "Yumemizuki Mizuki",
+                                                "substatText":  "Maestria elementale",
+                                                "region":  "Inazuma",
+                                                "gender":  "femmina"
+                                            },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7837,6 +7922,53 @@
                                                },
                                         "effectName":  "Legno Ombradiluna"
                                     },
+                    "azurelight":  {
+                                       "r3":  {
+                                                  "description":  "Per 12 s dall\u0027utilizzo di un\u0027abilità elementale, l\u0027ATT aumenta di un 36%. In questo lasso di tempo, quando il personaggio che equipaggia l\u0027arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 36% e i suoi DAN da CRIT di un 60%.",
+                                                  "values":  [
+                                                                 "36%",
+                                                                 "36%",
+                                                                 "60%"
+                                                             ]
+                                              },
+                                       "r5":  {
+                                                  "description":  "Per 12 s dall\u0027utilizzo di un\u0027abilità elementale, l\u0027ATT aumenta di un 48%. In questo lasso di tempo, quando il personaggio che equipaggia l\u0027arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 48% e i suoi DAN da CRIT di un 80%.",
+                                                  "values":  [
+                                                                 "48%",
+                                                                 "48%",
+                                                                 "80%"
+                                                             ]
+                                              },
+                                       "r2":  {
+                                                  "description":  "Per 12 s dall\u0027utilizzo di un\u0027abilità elementale, l\u0027ATT aumenta di un 30%. In questo lasso di tempo, quando il personaggio che equipaggia l\u0027arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 30% e i suoi DAN da CRIT di un 50%.",
+                                                  "values":  [
+                                                                 "30%",
+                                                                 "30%",
+                                                                 "50%"
+                                                             ]
+                                              },
+                                       "r4":  {
+                                                  "description":  "Per 12 s dall\u0027utilizzo di un\u0027abilità elementale, l\u0027ATT aumenta di un 42%. In questo lasso di tempo, quando il personaggio che equipaggia l\u0027arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 42% e i suoi DAN da CRIT di un 70%.",
+                                                  "values":  [
+                                                                 "42%",
+                                                                 "42%",
+                                                                 "70%"
+                                                             ]
+                                              },
+                                       "substatText":  "Tasso di CRIT",
+                                       "weaponText":  "Spada",
+                                       "name":  "Luce azzurra",
+                                       "effectTemplateRaw":  "#Per 12{NON_BREAK_SPACE}s dall\u0027utilizzo di un\u0027abilità elementale, l\u0027ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. In questo lasso di tempo, quando il personaggio che equipaggia l\u0027arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e e i suoi DAN da CRIT di un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                       "r1":  {
+                                                  "description":  "Per 12 s dall\u0027utilizzo di un\u0027abilità elementale, l\u0027ATT aumenta di un 24%. In questo lasso di tempo, quando il personaggio che equipaggia l\u0027arma ha 0 punti di energia, il suo ATT aumenta di un ulteriore 24% e i suoi DAN da CRIT di un 40%.",
+                                                  "values":  [
+                                                                 "24%",
+                                                                 "24%",
+                                                                 "40%"
+                                                             ]
+                                              },
+                                       "effectName":  "Concessione del Biancocolle"
+                                   },
                     "compoundbow":  {
                                         "r3":  {
                                                    "description":  "I colpi da attacco normale e caricato aumentano l\u0027ATT di un 6% e la VEL d\u0027ATT normale di un 1,8% per 6 s. Cumulabile fino a 4 volte. Si può verificare una sola volta ogni 0,3 s.",
@@ -9977,9 +10109,9 @@
                                               "substatText":  "ATT",
                                               "weaponText":  "Spada",
                                               "name":  "Spada della discensione",
-                                              "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eEffetto efficace solo sulla seguente piattaforma: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\".\u003c/color\u003e\nColpire gli avversari con attacchi normali o caricati garantisce un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di probabilità d\u0027infliggere DAN per un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e dell\u0027ATT in una piccola area d\u0027effetto. Si può verificare una sola volta ogni 10{NON_BREAK_SPACE}s. Inoltre, se {F#la}{M#il} viaggiat{F#rice}{M#ore} è equipaggiat{F#a}{M#o} con la Spada della discensione, il suo ATT aumenta di \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
+                                              "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eEffetto efficace solo sulla seguente piattaforma: \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\".\u003c/color\u003e\nColpire gli avversari con attacchi normali o caricati garantisce un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di probabilità d\u0027infliggere DAN per un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e dell\u0027ATT in una piccola area d\u0027effetto. Si può verificare una sola volta ogni 10{NON_BREAK_SPACE}s. Inoltre, se {F#la}{M#il} viaggiat{F#rice}{M#ore} è equipaggiat{F#a}{M#o} con la Spada della discensione, il suo ATT aumenta di \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.",
                                               "r1":  {
-                                                         "description":  "Effetto efficace solo sulla seguente piattaforma: \n\"PlayStation Network\".\nColpire gli avversari con attacchi normali o caricati garantisce un 50% di probabilità d\u0027infliggere DAN per un 200% dell\u0027ATT in una piccola area d\u0027effetto. Si può verificare una sola volta ogni 10 s. Inoltre, se il viaggiatore è equipaggiato con la Spada della discensione, il suo ATT aumenta di 66.",
+                                                         "description":  "Effetto efficace solo sulla seguente piattaforma: \n\"PlayStation™Network\".\nColpire gli avversari con attacchi normali o caricati garantisce un 50% di probabilità d\u0027infliggere DAN per un 200% dell\u0027ATT in una piccola area d\u0027effetto. Si può verificare una sola volta ogni 10 s. Inoltre, se il viaggiatore è equipaggiato con la Spada della discensione, il suo ATT aumenta di 66.",
                                                          "values":  [
                                                                         "50%",
                                                                         "200%",
@@ -14872,9 +15004,9 @@
                                      "substatText":  "ATT",
                                      "weaponText":  "Arco",
                                      "name":  "Predatore",
-                                     "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eEfficace solo sulla piattaforma \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation Network\"\u003c/color\u003e\nInfliggere DAN da Cryo ai nemici aumenta i DAN da attacco normale e caricato di questo personaggio di un 10% per 6{NON_BREAK_SPACE}s. Cumulabile fino a 2 volte. Inoltre, quando Aloy equipaggia il Predatore, l\u0027ATT aumenta di 66.",
+                                     "effectTemplateRaw":  "#\u003ccolor=#99FFFFFF\u003eEfficace solo sulla piattaforma \u003c/color\u003e\n\u003ccolor=#99FFFFFF\u003e\"PlayStation™Network\"\u003c/color\u003e\nInfliggere DAN da Cryo ai nemici aumenta i DAN da attacco normale e caricato di questo personaggio di un 10% per 6{NON_BREAK_SPACE}s. Cumulabile fino a 2 volte. Inoltre, quando Aloy equipaggia il Predatore, l\u0027ATT aumenta di 66.",
                                      "r1":  {
-                                                "description":  "Efficace solo sulla piattaforma \n\"PlayStation Network\"\nInfliggere DAN da Cryo ai nemici aumenta i DAN da attacco normale e caricato di questo personaggio di un 10% per 6 s. Cumulabile fino a 2 volte. Inoltre, quando Aloy equipaggia il Predatore, l\u0027ATT aumenta di 66.",
+                                                "description":  "Efficace solo sulla piattaforma \n\"PlayStation™Network\"\nInfliggere DAN da Cryo ai nemici aumenta i DAN da attacco normale e caricato di questo personaggio di un 10% per 6 s. Cumulabile fino a 2 volte. Inoltre, quando Aloy equipaggia il Predatore, l\u0027ATT aumenta di 66.",
                                                 "values":  [
 
                                                            ]
