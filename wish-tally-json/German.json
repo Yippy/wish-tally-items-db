@@ -1586,6 +1586,9 @@
                       "concealedclaw":  {
                                             "name":  "Kralle der versteckten Monster"
                                         },
+                      "drifterscrystalmarrow":  {
+                                                    "name":  "Kristallkern eines Wanderers"
+                                                },
                       "vajradaamethystfragment":  {
                                                       "name":  "Vajrada-Amethyst-Bruchstück"
                                                   },
@@ -2378,6 +2381,9 @@
                       "energynectar":  {
                                            "name":  "Elementarnektar"
                                        },
+                      "mysteriousbolt":  {
+                                             "name":  "Mysteriöse Schraube"
+                                         },
                       "deadleylineleaves":  {
                                                 "name":  "Verdorrte Blätter des Flusses der Elemente"
                                             },
@@ -3278,8 +3284,8 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "Zur Quelle",
-                                                                       "descriptionRaw":  "#Verleiht Skirk für jeden „Leere-Riss“, den sie durch das passive Talent {LINK#N11130007}\u003ccolor=#FFD780FF\u003e„Vernunft jenseits der Vernunft“\u003c/color\u003e{/LINK} absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSieben-Phasen-Blitz\u003c/color\u003e{/LINK} erleidet, verringert. Die Stapelung des Effekts hält 15{NON_BREAK_SPACE}s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\n\u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e\n· Führt beim Auslösen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Zerstörung\u003c/color\u003e einen abgestimmten Angriff aus, der sämtliche Stapelungen von \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e verbraucht und für jede verbrauchte Stapelung \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 750{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e, um den diesmaligen erlittenen Schaden um 80{NON_BREAK_SPACE}% zu verringern und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.",
-                                                                       "description":  "Verleiht Skirk für jeden „Leere-Riss“, den sie durch das passive Talent **„Vernunft jenseits der Vernunft“** absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus **Sieben-Phasen-Blitz** erleidet, verringert. Die Stapelung des Effekts hält 15 s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\nVerdorbene Kunst – Enthauptung\n· Führt beim Auslösen der Spezialfähigkeit Verdorbene Kunst – Zerstörung einen abgestimmten Angriff aus, der sämtliche Stapelungen von Verdorbene Kunst – Enthauptung verbraucht und für jede verbrauchte Stapelung Kryo-Schaden in Höhe von 750 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts Verdorbene Kunst – Enthauptung und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung Verdorbene Kunst – Enthauptung, um den diesmaligen erlittenen Schaden um 80 % zu verringern und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags."
+                                                                       "descriptionRaw":  "#Verleiht Skirk für jeden „Leere-Riss“, den sie durch das passive Talent {LINK#N11130007}\u003ccolor=#FFD780FF\u003e„Vernunft jenseits der Vernunft“\u003c/color\u003e{/LINK} absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSieben-Phasen-Blitz\u003c/color\u003e{/LINK} erleidet, verringert. Die Stapelung des Effekts hält 15{NON_BREAK_SPACE}s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\n\u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e\n· Führt beim Auslösen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Zerstörung\u003c/color\u003e einen abgestimmten Angriff aus, der sämtliche Stapelungen von \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e verbraucht und für jede verbrauchte Stapelung \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 750{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e, um den diesmaligen erlittenen Schaden um 80{NON_BREAK_SPACE}% zu verringern, und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.",
+                                                                       "description":  "Verleiht Skirk für jeden „Leere-Riss“, den sie durch das passive Talent **„Vernunft jenseits der Vernunft“** absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus **Sieben-Phasen-Blitz** erleidet, verringert. Die Stapelung des Effekts hält 15 s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\nVerdorbene Kunst – Enthauptung\n· Führt beim Auslösen der Spezialfähigkeit Verdorbene Kunst – Zerstörung einen abgestimmten Angriff aus, der sämtliche Stapelungen von Verdorbene Kunst – Enthauptung verbraucht und für jede verbrauchte Stapelung Kryo-Schaden in Höhe von 750 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts Verdorbene Kunst – Enthauptung und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung Verdorbene Kunst – Enthauptung, um den diesmaligen erlittenen Schaden um 80 % zu verringern, und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags."
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Tiefer Fall",
@@ -3377,47 +3383,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "Männlich"
                                     },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani gibt alles!",
-                                                                         "descriptionRaw":  "#Verleiht Mualani 2 Stapelungen Wellenschwung von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2{NON_BREAK_SPACE}s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden.",
-                                                                         "description":  "Verleiht Mualani 2 Stapelungen Wellenschwung von Haifischreitende Wellenspalterin, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2 s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Haifisch frisst Kugelfische",
-                                                                         "descriptionRaw":  "#Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e verursachten Schaden um 75{NON_BREAK_SPACE}%.",
-                                                                         "description":  "Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch Haibitzen-Geschoss verursachten Schaden um 75 %."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surfen auf fröhlichen Meeren",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Haifischreitende Wellenspalterin um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Surfbrett im gleichen Stil im Angebot!",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Haibitzen-Geschoss um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Der Geist der Menschen der Quellen",
-                                                                         "descriptionRaw":  "Entfernt die Beschränkung, dass der Schadenbonus durch das Sternbild „Die gemütlichen ‚Meztli‘ ...“ nur einmal pro Nachtseelensegen ausgelöst werden kann.",
-                                                                         "description":  "Entfernt die Beschränkung, dass der Schadenbonus durch das Sternbild „Die gemütlichen ‚Meztli‘ ...“ nur einmal pro Nachtseelensegen ausgelöst werden kann."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Die gemütlichen „Meztli“ ...",
-                                                                         "descriptionRaw":  "#Erhöht den SCH durch den ersten Wogenden Haibiss und die davon ausgelösten Haifischgeschosse, nachdem Mualani in den Zustand Nachtseelensegen eingetreten hat, um 66{NON_BREAK_SPACE}% von Mualanis max. LP. Dieser SCH-Bonuseffekt unterliegt den SCH-Reduktionsregeln von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e.\nVerringert außerdem Mualanis Verbrauch von Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30{NON_BREAK_SPACE}%, wenn sie sich nicht im Kampf befindet.",
-                                                                         "description":  "Erhöht den SCH durch den ersten Wogenden Haibiss und die davon ausgelösten Haifischgeschosse, nachdem Mualani in den Zustand Nachtseelensegen eingetreten hat, um 66 % von Mualanis max. LP. Dieser SCH-Bonuseffekt unterliegt den SCH-Reduktionsregeln von Haifischreitende Wellenspalterin.\nVerringert außerdem Mualanis Verbrauch von Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30 %, wenn sie sich nicht im Kampf befindet."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Katalysator",
-                                       "name":  "Mualani",
-                                       "substatText":  "KT",
-                                       "region":  "Natlan",
-                                       "gender":  "Weiblich"
-                                   },
+                       "ineffa":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Unterstützendes Reinigungsmodul",
+                                                                        "descriptionRaw":  "#Verleiht, nachdem Gegner von der Spezialfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11165}Höchstes Gesetz – Vollständige Beseitigung{/LINK}\u003c/color\u003e getroffen worden sind, einem von ihnen den Effekt „Strafanordnung“: Fügt nach kurzer Verzögerung oder beim Besiegen des Gegners den Gegnern in seiner Nähe \u003ccolor=#FFACFFFF\u003eElektro-Flächenschaden\u003c/color\u003e in Höhe von 300{NON_BREAK_SPACE}% von Ineffas ANG zu. Hierdurch verursachter Schaden gilt als Schaden durch die Reaktion „Mond unter Strom“.\nVerleiht beim Auslösen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eHöchstes Gesetz – Vollständige Beseitigung\u003c/color\u003e den aktuellen Truppenmitgliedern in der Nähe den Lichtstrom-Barriereschild.",
+                                                                        "description":  "Verleiht, nachdem Gegner von der Spezialfähigkeit **Höchstes Gesetz – Vollständige Beseitigung** getroffen worden sind, einem von ihnen den Effekt „Strafanordnung“: Fügt nach kurzer Verzögerung oder beim Besiegen des Gegners den Gegnern in seiner Nähe Elektro-Flächenschaden in Höhe von 300 % von Ineffas ANG zu. Hierdurch verursachter Schaden gilt als Schaden durch die Reaktion „Mond unter Strom“.\nVerleiht beim Auslösen der Spezialfähigkeit Höchstes Gesetz – Vollständige Beseitigung den aktuellen Truppenmitgliedern in der Nähe den Lichtstrom-Barriereschild."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Ein Weg ohne Befehle",
+                                                                        "descriptionRaw":  "#Stellt der eigenen Figur in der Truppe beim Auslösen der Reaktion „Mond unter Strom“ 5{NON_BREAK_SPACE}Punkte Elementarenergie wieder her, 4{NON_BREAK_SPACE}s Abklingzeit.",
+                                                                        "description":  "Stellt der eigenen Figur in der Truppe beim Auslösen der Reaktion „Mond unter Strom“ 5 Punkte Elementarenergie wieder her, 4 s Abklingzeit."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Fortgeschrittenes Emotionsmodul",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11162}Reinigungsmodus – Stabile Rate{/LINK}\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Elementarfähigkeit **Reinigungsmodus – Stabile Rate** um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Ein Traum jenseits des Spiegels",
+                                                                        "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11165}Höchstes Gesetz – Vollständige Beseitigung{/LINK}\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                        "description":  "Erhöht die Stufe der Spezialfähigkeit **Höchstes Gesetz – Vollständige Beseitigung** um 3.\nHöchststufe 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Ein Morgen für dich",
+                                                                        "descriptionRaw":  "#Fügt, wenn Ineffa unter dem Effekt „Stromführende Resonanz“ steht und die Blitze der Gewitterwolke in der Nähe Gegner getroffen haben, den Gegnern um die eigene aktive Figur herum \u003ccolor=#FFACFFFF\u003eElektro-Flächenschaden\u003c/color\u003e in Höhe von 135{NON_BREAK_SPACE}% von Ineffas ANG zu. Hierdurch verursachter Schaden gilt als Schaden durch die Reaktion „Mond unter Strom“, 3,5{NON_BREAK_SPACE}s Abklingzeit.",
+                                                                        "description":  "Fügt, wenn Ineffa unter dem Effekt „Stromführende Resonanz“ steht und die Blitze der Gewitterwolke in der Nähe Gegner getroffen haben, den Gegnern um die eigene aktive Figur herum Elektro-Flächenschaden in Höhe von 135 % von Ineffas ANG zu. Hierdurch verursachter Schaden gilt als Schaden durch die Reaktion „Mond unter Strom“, 3,5 s Abklingzeit."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Motor mit Gleichrichter",
+                                                                        "descriptionRaw":  "#Verleiht, wenn Ineffa ihren Lichtstrom-Barriereschild aktiviert, allen Truppenmitgliedern in der Nähe 20{NON_BREAK_SPACE}s lang den Effekt „Stromführende Resonanz“, der den durch die Reaktion „Mond unter Strom“ verursachten Schaden um einen Wert erhöht, der auf Ineffas ANG basiert: Pro 100 Punkte ANG wird der Schaden um 2,5{NON_BREAK_SPACE}% erhöht. Auf diese Weise kann der Schaden um bis zu 50{NON_BREAK_SPACE}% erhöht werden.",
+                                                                        "description":  "Verleiht, wenn Ineffa ihren Lichtstrom-Barriereschild aktiviert, allen Truppenmitgliedern in der Nähe 20 s lang den Effekt „Stromführende Resonanz“, der den durch die Reaktion „Mond unter Strom“ verursachten Schaden um einen Wert erhöht, der auf Ineffas ANG basiert: Pro 100 Punkte ANG wird der Schaden um 2,5 % erhöht. Auf diese Weise kann der Schaden um bis zu 50 % erhöht werden."
+                                                                    }
+                                                         },
+                                      "elementText":  "Elektro",
+                                      "fullname":  null,
+                                      "weaponText":  "Stangenwaffe",
+                                      "name":  "Ineffa",
+                                      "substatText":  "KT",
+                                      "region":  null,
+                                      "gender":  "Weiblich"
+                                  },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3746,47 +3752,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Weiblich"
                                   },
-                       "thoma":  {
-                                     "constellations":  {
-                                                            "c2":  {
-                                                                       "name":  "Beflissener Assistent",
-                                                                       "descriptionRaw":  "Verlängert die Dauer von \u003ccolor=#FFD780FF\u003eRote Ooyoroi\u003c/color\u003e um 3 s.",
-                                                                       "description":  "Verlängert die Dauer von Rote Ooyoroi um 3 s."
-                                                                   },
-                                                            "c4":  {
-                                                                       "name":  "Längerfristige Planung",
-                                                                       "descriptionRaw":  "Stellt Thoma nach Anwendung von \u003ccolor=#FFD780FF\u003eRote Ooyoroi\u003c/color\u003e 15 Punkte Elementarenergie wieder her.",
-                                                                       "description":  "Stellt Thoma nach Anwendung von Rote Ooyoroi 15 Punkte Elementarenergie wieder her."
-                                                                   },
-                                                            "c3":  {
-                                                                       "name":  "Bestimmtheit vor dem Feind",
-                                                                       "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eLodernder Segen\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                       "description":  "Erhöht die Stufe der Fähigkeit Lodernder Segen um 3.\nHöchststufe 15."
-                                                                   },
-                                                            "c5":  {
-                                                                       "name":  "Weitreichende Flammen",
-                                                                       "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eRote Ooyoroi\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                       "description":  "Erhöht die Stufe der Fähigkeit Rote Ooyoroi um 3.\nHöchststufe 15."
-                                                                   },
-                                                            "c6":  {
-                                                                       "name":  "Brennendes Herz",
-                                                                       "descriptionRaw":  "Erhöht beim Erhalten oder Aktualisieren von \u003ccolor=#FFD780FF\u003eSchild des lodernden Segens\u003c/color\u003e den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall aller Truppenmitglieder verursachten Schaden 6 s lang um 15 %.",
-                                                                       "description":  "Erhöht beim Erhalten oder Aktualisieren von Schild des lodernden Segens den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall aller Truppenmitglieder verursachten Schaden 6 s lang um 15 %."
-                                                                   },
-                                                            "c1":  {
-                                                                       "name":  "Kameradschaftliche Pflichten",
-                                                                       "descriptionRaw":  "Verkürzt beim Schützen vor Angriffen durch \u003ccolor=#FFD780FF\u003eSchild des lodernden Segens\u003c/color\u003e für Figuren außer Thoma die Abklingzeit von Thomas eigenem \u003ccolor=#FFD780FF\u003eLodernder Segen\u003c/color\u003e um 3 s und die Abklingzeit von \u003ccolor=#FFD780FF\u003eRote Ooyoroi\u003c/color\u003e um 3 s.\n20 s Abklingzeit.",
-                                                                       "description":  "Verkürzt beim Schützen vor Angriffen durch Schild des lodernden Segens für Figuren außer Thoma die Abklingzeit von Thomas eigenem Lodernder Segen um 3 s und die Abklingzeit von Rote Ooyoroi um 3 s.\n20 s Abklingzeit."
-                                                                   }
-                                                        },
-                                     "elementText":  "Pyro",
-                                     "fullname":  null,
-                                     "weaponText":  "Stangenwaffe",
-                                     "name":  "Thoma",
-                                     "substatText":  "ANG",
-                                     "region":  "Inazuma",
-                                     "gender":  "Männlich"
-                                 },
+                       "lynette":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Endlose Mysterien",
+                                                                         "descriptionRaw":  "Die durch \u003ccolor=#FFD780FF\u003eZaubertrick – Erstaunlicher Wechsel\u003c/color\u003e beschworene Überraschungskatzenkiste verschießt beim Abfeuern des Farbgeschosses ein weiteres Geschoss.",
+                                                                         "description":  "Die durch Zaubertrick – Erstaunlicher Wechsel beschworene Überraschungskatzenkiste verschießt beim Abfeuern des Farbgeschosses ein weiteres Geschoss."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Stillschweigende Koordination",
+                                                                         "descriptionRaw":  "Ermöglicht 1 weitere Anwendung von \u003ccolor=#FFD780FF\u003eRätselhafte Schattenverhüllung\u003c/color\u003e.",
+                                                                         "description":  "Ermöglicht 1 weitere Anwendung von Rätselhafte Schattenverhüllung."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Kognitionsumkehrende Blickrichtung",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eZaubertrick – Erstaunlicher Wechsel\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Zaubertrick – Erstaunlicher Wechsel um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Raffiniertes Ablenkungsmanöver",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eRätselhafte Schattenverhüllung\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Rätselhafte Schattenverhüllung um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Enthüllende Einsicht",
+                                                                         "descriptionRaw":  "Verleiht Lynette bei der Anwendung des Enigma-Stoßes von \u003ccolor=#FFD780FF\u003eRätselhafte Schattenverhüllung\u003c/color\u003e 6 s lang die \u003ccolor=#80FFD7FF\u003eAnemo-Kraft\u003c/color\u003e und erhöht ihren \u003ccolor=#80FFD7FF\u003eAnemo-SCH-Bonus\u003c/color\u003e um 20 %.",
+                                                                         "description":  "Verleiht Lynette bei der Anwendung des Enigma-Stoßes von Rätselhafte Schattenverhüllung 6 s lang die Anemo-Kraft und erhöht ihren Anemo-SCH-Bonus um 20 %."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Schattenhafte kalte Klinge",
+                                                                         "descriptionRaw":  "Erschafft an der Position des Gegners, der das Schattenzeichen trägt, einen Wirbel, der Gegner in der Nähe anzieht, wenn dieser vom Enigma-Stoß der \u003ccolor=#FFD780FF\u003eRätselhafte Schattenverhüllung\u003c/color\u003e getroffen wird.",
+                                                                         "description":  "Erschafft an der Position des Gegners, der das Schattenzeichen trägt, einen Wirbel, der Gegner in der Nähe anzieht, wenn dieser vom Enigma-Stoß der Rätselhafte Schattenverhüllung getroffen wird."
+                                                                     }
+                                                          },
+                                       "elementText":  "Anemo",
+                                       "fullname":  null,
+                                       "weaponText":  "Einhänder",
+                                       "name":  "Lynette",
+                                       "substatText":  "Anemo-SCH-Bonus",
+                                       "region":  "Fontaine",
+                                       "gender":  "Weiblich"
+                                   },
                        "yanfei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3837,8 +3843,8 @@
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Austeritätsritus – Beschützender Verbotswächter",
-                                                                      "descriptionRaw":  "Befindet sich Cyno im Modus „Paktverschworener Pfadklärer“ der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eHeiliger Ritus – Schnelligkeit des Wolfs\u003c/color\u003e, stellt er nach Auslösen der Reaktionen wie „Unter Strom“, „Supraleiter“, „Überladen“, „Urwuchs“, „Suprawuchs“, „Supraspross“ oder „Elektro-Verwirbelung“ allen Truppenmitgliedern in der Nähe (außer Cyno) 3 Punkte Elementarenergie wieder her.\n5-mal während der Wirkungsdauer der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eHeiliger Ritus – Schnelligkeit des Wolfs\u003c/color\u003e auslösbar.",
-                                                                      "description":  "Befindet sich Cyno im Modus „Paktverschworener Pfadklärer“ der Spezialfähigkeit Heiliger Ritus – Schnelligkeit des Wolfs, stellt er nach Auslösen der Reaktionen wie „Unter Strom“, „Supraleiter“, „Überladen“, „Urwuchs“, „Suprawuchs“, „Supraspross“ oder „Elektro-Verwirbelung“ allen Truppenmitgliedern in der Nähe (außer Cyno) 3 Punkte Elementarenergie wieder her.\n5-mal während der Wirkungsdauer der Spezialfähigkeit Heiliger Ritus – Schnelligkeit des Wolfs auslösbar."
+                                                                      "descriptionRaw":  "Befindet sich Cyno im Modus „Paktverschworener Pfadklärer“ der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eHeiliger Ritus – Schnelligkeit des Wolfs\u003c/color\u003e, stellt er nach Auslösen der Reaktionen wie „Unter Strom“, „Mond unter Strom“, „Supraleiter“, „Überladen“, „Urwuchs“, „Suprawuchs“, „Supraspross“ oder „Elektro-Verwirbelung“ allen Truppenmitgliedern in der Nähe (außer Cyno) 3 Punkte Elementarenergie wieder her.\n5-mal während der Wirkungsdauer der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eHeiliger Ritus – Schnelligkeit des Wolfs\u003c/color\u003e auslösbar.",
+                                                                      "description":  "Befindet sich Cyno im Modus „Paktverschworener Pfadklärer“ der Spezialfähigkeit Heiliger Ritus – Schnelligkeit des Wolfs, stellt er nach Auslösen der Reaktionen wie „Unter Strom“, „Mond unter Strom“, „Supraleiter“, „Überladen“, „Urwuchs“, „Suprawuchs“, „Supraspross“ oder „Elektro-Verwirbelung“ allen Truppenmitgliedern in der Nähe (außer Cyno) 3 Punkte Elementarenergie wieder her.\n5-mal während der Wirkungsdauer der Spezialfähigkeit Heiliger Ritus – Schnelligkeit des Wolfs auslösbar."
                                                                   },
                                                            "c3":  {
                                                                       "name":  "Gebotsritus – Gesetzestreuer Vollstrecker",
@@ -4115,47 +4121,40 @@
                                      "region":  "Sumeru",
                                      "gender":  "Weiblich"
                                  },
-                       "lynette":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Endlose Mysterien",
-                                                                         "descriptionRaw":  "Die durch \u003ccolor=#FFD780FF\u003eZaubertrick – Erstaunlicher Wechsel\u003c/color\u003e beschworene Überraschungskatzenkiste verschießt beim Abfeuern des Farbgeschosses ein weiteres Geschoss.",
-                                                                         "description":  "Die durch Zaubertrick – Erstaunlicher Wechsel beschworene Überraschungskatzenkiste verschießt beim Abfeuern des Farbgeschosses ein weiteres Geschoss."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Stillschweigende Koordination",
-                                                                         "descriptionRaw":  "Ermöglicht 1 weitere Anwendung von \u003ccolor=#FFD780FF\u003eRätselhafte Schattenverhüllung\u003c/color\u003e.",
-                                                                         "description":  "Ermöglicht 1 weitere Anwendung von Rätselhafte Schattenverhüllung."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Kognitionsumkehrende Blickrichtung",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eZaubertrick – Erstaunlicher Wechsel\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Zaubertrick – Erstaunlicher Wechsel um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Raffiniertes Ablenkungsmanöver",
-                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eRätselhafte Schattenverhüllung\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                         "description":  "Erhöht die Stufe der Fähigkeit Rätselhafte Schattenverhüllung um 3.\nHöchststufe 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Enthüllende Einsicht",
-                                                                         "descriptionRaw":  "Verleiht Lynette bei der Anwendung des Enigma-Stoßes von \u003ccolor=#FFD780FF\u003eRätselhafte Schattenverhüllung\u003c/color\u003e 6 s lang die \u003ccolor=#80FFD7FF\u003eAnemo-Kraft\u003c/color\u003e und erhöht ihren \u003ccolor=#80FFD7FF\u003eAnemo-SCH-Bonus\u003c/color\u003e um 20 %.",
-                                                                         "description":  "Verleiht Lynette bei der Anwendung des Enigma-Stoßes von Rätselhafte Schattenverhüllung 6 s lang die Anemo-Kraft und erhöht ihren Anemo-SCH-Bonus um 20 %."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Schattenhafte kalte Klinge",
-                                                                         "descriptionRaw":  "Erschafft an der Position des Gegners, der das Schattenzeichen trägt, einen Wirbel, der Gegner in der Nähe anzieht, wenn dieser vom Enigma-Stoß der \u003ccolor=#FFD780FF\u003eRätselhafte Schattenverhüllung\u003c/color\u003e getroffen wird.",
-                                                                         "description":  "Erschafft an der Position des Gegners, der das Schattenzeichen trägt, einen Wirbel, der Gegner in der Nähe anzieht, wenn dieser vom Enigma-Stoß der Rätselhafte Schattenverhüllung getroffen wird."
-                                                                     }
-                                                          },
-                                       "elementText":  "Anemo",
-                                       "fullname":  null,
-                                       "weaponText":  "Einhänder",
-                                       "name":  "Lynette",
-                                       "substatText":  "Anemo-SCH-Bonus",
-                                       "region":  "Fontaine",
-                                       "gender":  "Weiblich"
-                                   },
+                       "travelerhydro":  {
+                                             "constellations":  {
+                                                                    "c2":  {
+                                                                               "name":  "Rieselndes Wasser",
+                                                                               "descriptionRaw":  "#Die Geschwindigkeit, mit der sich die \u003ccolor=#FFD780FF\u003eGezeitenblase\u003c/color\u003e bewegt, reduziert sich um 30{NON_BREAK_SPACE}%, während sich ihre Dauer um 3{NON_BREAK_SPACE}s erhöht.",
+                                                                               "description":  "Die Geschwindigkeit, mit der sich die Gezeitenblase bewegt, reduziert sich um 30 %, während sich ihre Dauer um 3 s erhöht."
+                                                                           },
+                                                                    "c4":  {
+                                                                               "name":  "Strömender Wasserfall",
+                                                                               "descriptionRaw":  "#Erzeugt beim Auslösen vom \u003ccolor=#FFD780FF\u003eWasserschützen\u003c/color\u003e einen Hydro-Schild. Dieser hält Schaden in Höhe von 10{NON_BREAK_SPACE}% der max. LP und bei \u003ccolor=#80C0FFFF\u003eHydro-Schaden\u003c/color\u003e 250{NON_BREAK_SPACE}% ab. Hält bis zum Ende vom Wasserschützen.\nSollte sich {F#die Reisende}{M#der Reisende} im Schutz des Hydro-Schilds befinden, wird einmal alle 2{NON_BREAK_SPACE}s, nachdem Gegner von Tautropfen getroffen wurden, die Schildstärke wieder auf 10{NON_BREAK_SPACE}% der max. LP {F#der Reisenden}{M#des Reisenden} ergänzt. Sollte kein Hydro-Schild vorhanden sein, so wird dieser in diesem Fall neu erzeugt.",
+                                                                               "description":  "Erzeugt beim Auslösen vom Wasserschützen einen Hydro-Schild. Dieser hält Schaden in Höhe von 10 % der max. LP und bei Hydro-Schaden 250 % ab. Hält bis zum Ende vom Wasserschützen.\nSollte sich der Reisende im Schutz des Hydro-Schilds befinden, wird einmal alle 2 s, nachdem Gegner von Tautropfen getroffen wurden, die Schildstärke wieder auf 10 % der max. LP des Reisenden ergänzt. Sollte kein Hydro-Schild vorhanden sein, so wird dieser in diesem Fall neu erzeugt."
+                                                                           },
+                                                                    "c3":  {
+                                                                               "name":  "Wogende Wellen",
+                                                                               "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eWasserschütze\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                               "description":  "Erhöht die Stufe der Fähigkeit Wasserschütze um 3.\nHöchststufe 15."
+                                                                           },
+                                                                    "c5":  {
+                                                                               "name":  "Wirbelnder Strudel",
+                                                                               "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eGezeitenblase\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                               "description":  "Erhöht die Stufe der Fähigkeit Gezeitenblase um 3.\nHöchststufe 15."
+                                                                           },
+                                                                    "c6":  {
+                                                                               "name":  "Gezeiten der Gerechtigkeit",
+                                                                               "descriptionRaw":  "#Stellt bei dem Truppenmitglied mit den niedrigsten LP in der Nähe 6 % von dessen max. LP wieder her, wenn {F#die Reisende}{M#der Reisende} einen Quellwassertropfen einsammelt.",
+                                                                               "description":  "Stellt bei dem Truppenmitglied mit den niedrigsten LP in der Nähe 6 % von dessen max. LP wieder her, wenn der Reisende einen Quellwassertropfen einsammelt."
+                                                                           },
+                                                                    "c1":  {
+                                                                               "name":  "Plätscherndes Seewasser",
+                                                                               "descriptionRaw":  "#Stellt {F#der Reisenden}{M#dem Reisenden} nach Einsammeln von Quellwassertropfen 2 Punkte Elementarenergie wieder her.\nDas passive Talent „Ungetrübtes Wasser“ muss zuerst freigeschaltet werden.",
+                                                                               "description":  "Stellt dem Reisenden nach Einsammeln von Quellwassertropfen 2 Punkte Elementarenergie wieder her.\nDas passive Talent „Ungetrübtes Wasser“ muss zuerst freigeschaltet werden."
+                                                                           }
+                                                                }
+                                         },
                        "kujousara":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -4361,6 +4360,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Männlich"
                                   },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani gibt alles!",
+                                                                         "descriptionRaw":  "#Verleiht Mualani 2 Stapelungen Wellenschwung von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2{NON_BREAK_SPACE}s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden.",
+                                                                         "description":  "Verleiht Mualani 2 Stapelungen Wellenschwung von Haifischreitende Wellenspalterin, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2 s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Haifisch frisst Kugelfische",
+                                                                         "descriptionRaw":  "#Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e verursachten Schaden um 75{NON_BREAK_SPACE}%.",
+                                                                         "description":  "Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch Haibitzen-Geschoss verursachten Schaden um 75 %."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surfen auf fröhlichen Meeren",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Haifischreitende Wellenspalterin um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Surfbrett im gleichen Stil im Angebot!",
+                                                                         "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                         "description":  "Erhöht die Stufe der Fähigkeit Haibitzen-Geschoss um 3.\nHöchststufe 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Der Geist der Menschen der Quellen",
+                                                                         "descriptionRaw":  "Entfernt die Beschränkung, dass der Schadenbonus durch das Sternbild „Die gemütlichen ‚Meztli‘ ...“ nur einmal pro Nachtseelensegen ausgelöst werden kann.",
+                                                                         "description":  "Entfernt die Beschränkung, dass der Schadenbonus durch das Sternbild „Die gemütlichen ‚Meztli‘ ...“ nur einmal pro Nachtseelensegen ausgelöst werden kann."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Die gemütlichen „Meztli“ ...",
+                                                                         "descriptionRaw":  "#Erhöht den SCH durch den ersten Wogenden Haibiss und die davon ausgelösten Haifischgeschosse, nachdem Mualani in den Zustand Nachtseelensegen eingetreten hat, um 66{NON_BREAK_SPACE}% von Mualanis max. LP. Dieser SCH-Bonuseffekt unterliegt den SCH-Reduktionsregeln von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e.\nVerringert außerdem Mualanis Verbrauch von Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30{NON_BREAK_SPACE}%, wenn sie sich nicht im Kampf befindet.",
+                                                                         "description":  "Erhöht den SCH durch den ersten Wogenden Haibiss und die davon ausgelösten Haifischgeschosse, nachdem Mualani in den Zustand Nachtseelensegen eingetreten hat, um 66 % von Mualanis max. LP. Dieser SCH-Bonuseffekt unterliegt den SCH-Reduktionsregeln von Haifischreitende Wellenspalterin.\nVerringert außerdem Mualanis Verbrauch von Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30 %, wenn sie sich nicht im Kampf befindet."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Katalysator",
+                                       "name":  "Mualani",
+                                       "substatText":  "KT",
+                                       "region":  "Natlan",
+                                       "gender":  "Weiblich"
+                                   },
                        "collei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5549,40 +5589,6 @@
                                       "region":  "Fontaine",
                                       "gender":  "Weiblich"
                                   },
-                       "travelerhydro":  {
-                                             "constellations":  {
-                                                                    "c2":  {
-                                                                               "name":  "Rieselndes Wasser",
-                                                                               "descriptionRaw":  "#Die Geschwindigkeit, mit der sich die \u003ccolor=#FFD780FF\u003eGezeitenblase\u003c/color\u003e bewegt, reduziert sich um 30{NON_BREAK_SPACE}%, während sich ihre Dauer um 3{NON_BREAK_SPACE}s erhöht.",
-                                                                               "description":  "Die Geschwindigkeit, mit der sich die Gezeitenblase bewegt, reduziert sich um 30 %, während sich ihre Dauer um 3 s erhöht."
-                                                                           },
-                                                                    "c4":  {
-                                                                               "name":  "Strömender Wasserfall",
-                                                                               "descriptionRaw":  "#Erzeugt beim Auslösen vom \u003ccolor=#FFD780FF\u003eWasserschützen\u003c/color\u003e einen Hydro-Schild. Dieser hält Schaden in Höhe von 10{NON_BREAK_SPACE}% der max. LP und bei \u003ccolor=#80C0FFFF\u003eHydro-Schaden\u003c/color\u003e 250{NON_BREAK_SPACE}% ab. Hält bis zum Ende vom Wasserschützen.\nSollte sich {F#die Reisende}{M#der Reisende} im Schutz des Hydro-Schilds befinden, wird einmal alle 2{NON_BREAK_SPACE}s, nachdem Gegner von Tautropfen getroffen wurden, die Schildstärke wieder auf 10{NON_BREAK_SPACE}% der max. LP {F#der Reisenden}{M#des Reisenden} ergänzt. Sollte kein Hydro-Schild vorhanden sein, so wird dieser in diesem Fall neu erzeugt.",
-                                                                               "description":  "Erzeugt beim Auslösen vom Wasserschützen einen Hydro-Schild. Dieser hält Schaden in Höhe von 10 % der max. LP und bei Hydro-Schaden 250 % ab. Hält bis zum Ende vom Wasserschützen.\nSollte sich der Reisende im Schutz des Hydro-Schilds befinden, wird einmal alle 2 s, nachdem Gegner von Tautropfen getroffen wurden, die Schildstärke wieder auf 10 % der max. LP des Reisenden ergänzt. Sollte kein Hydro-Schild vorhanden sein, so wird dieser in diesem Fall neu erzeugt."
-                                                                           },
-                                                                    "c3":  {
-                                                                               "name":  "Wogende Wellen",
-                                                                               "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eWasserschütze\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                               "description":  "Erhöht die Stufe der Fähigkeit Wasserschütze um 3.\nHöchststufe 15."
-                                                                           },
-                                                                    "c5":  {
-                                                                               "name":  "Wirbelnder Strudel",
-                                                                               "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eGezeitenblase\u003c/color\u003e um 3.\nHöchststufe 15.",
-                                                                               "description":  "Erhöht die Stufe der Fähigkeit Gezeitenblase um 3.\nHöchststufe 15."
-                                                                           },
-                                                                    "c6":  {
-                                                                               "name":  "Gezeiten der Gerechtigkeit",
-                                                                               "descriptionRaw":  "#Stellt bei dem Truppenmitglied mit den niedrigsten LP in der Nähe 6 % von dessen max. LP wieder her, wenn {F#die Reisende}{M#der Reisende} einen Quellwassertropfen einsammelt.",
-                                                                               "description":  "Stellt bei dem Truppenmitglied mit den niedrigsten LP in der Nähe 6 % von dessen max. LP wieder her, wenn der Reisende einen Quellwassertropfen einsammelt."
-                                                                           },
-                                                                    "c1":  {
-                                                                               "name":  "Plätscherndes Seewasser",
-                                                                               "descriptionRaw":  "#Stellt {F#der Reisenden}{M#dem Reisenden} nach Einsammeln von Quellwassertropfen 2 Punkte Elementarenergie wieder her.\nDas passive Talent „Ungetrübtes Wasser“ muss zuerst freigeschaltet werden.",
-                                                                               "description":  "Stellt dem Reisenden nach Einsammeln von Quellwassertropfen 2 Punkte Elementarenergie wieder her.\nDas passive Talent „Ungetrübtes Wasser“ muss zuerst freigeschaltet werden."
-                                                                           }
-                                                                }
-                                         },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6276,6 +6282,47 @@
                                     "region":  "Liyue",
                                     "gender":  "Männlich"
                                 },
+                       "thoma":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Beflissener Assistent",
+                                                                       "descriptionRaw":  "Verlängert die Dauer von \u003ccolor=#FFD780FF\u003eRote Ooyoroi\u003c/color\u003e um 3 s.",
+                                                                       "description":  "Verlängert die Dauer von Rote Ooyoroi um 3 s."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Längerfristige Planung",
+                                                                       "descriptionRaw":  "Stellt Thoma nach Anwendung von \u003ccolor=#FFD780FF\u003eRote Ooyoroi\u003c/color\u003e 15 Punkte Elementarenergie wieder her.",
+                                                                       "description":  "Stellt Thoma nach Anwendung von Rote Ooyoroi 15 Punkte Elementarenergie wieder her."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Bestimmtheit vor dem Feind",
+                                                                       "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eLodernder Segen\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                       "description":  "Erhöht die Stufe der Fähigkeit Lodernder Segen um 3.\nHöchststufe 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Weitreichende Flammen",
+                                                                       "descriptionRaw":  "Erhöht die Stufe der Fähigkeit \u003ccolor=#FFD780FF\u003eRote Ooyoroi\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                       "description":  "Erhöht die Stufe der Fähigkeit Rote Ooyoroi um 3.\nHöchststufe 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Brennendes Herz",
+                                                                       "descriptionRaw":  "Erhöht beim Erhalten oder Aktualisieren von \u003ccolor=#FFD780FF\u003eSchild des lodernden Segens\u003c/color\u003e den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall aller Truppenmitglieder verursachten Schaden 6 s lang um 15 %.",
+                                                                       "description":  "Erhöht beim Erhalten oder Aktualisieren von Schild des lodernden Segens den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall aller Truppenmitglieder verursachten Schaden 6 s lang um 15 %."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Kameradschaftliche Pflichten",
+                                                                       "descriptionRaw":  "Verkürzt beim Schützen vor Angriffen durch \u003ccolor=#FFD780FF\u003eSchild des lodernden Segens\u003c/color\u003e für Figuren außer Thoma die Abklingzeit von Thomas eigenem \u003ccolor=#FFD780FF\u003eLodernder Segen\u003c/color\u003e um 3 s und die Abklingzeit von \u003ccolor=#FFD780FF\u003eRote Ooyoroi\u003c/color\u003e um 3 s.\n20 s Abklingzeit.",
+                                                                       "description":  "Verkürzt beim Schützen vor Angriffen durch Schild des lodernden Segens für Figuren außer Thoma die Abklingzeit von Thomas eigenem Lodernder Segen um 3 s und die Abklingzeit von Rote Ooyoroi um 3 s.\n20 s Abklingzeit."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Stangenwaffe",
+                                     "name":  "Thoma",
+                                     "substatText":  "ANG",
+                                     "region":  "Inazuma",
+                                     "gender":  "Männlich"
+                                 },
                        "venti":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6756,8 +6803,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Prophezeiung des Untergangs",
-                                                                      "descriptionRaw":  "Verstärkt den Effekt von \u003ccolor=#80C0FFFF\u003eHydro-Elementarreaktionen\u003c/color\u003e, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang:\n· Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von Gefroren um 15 %.",
-                                                                      "description":  "Verstärkt den Effekt von Hydro-Elementarreaktionen, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang:\n· Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von Gefroren um 15 %."
+                                                                      "descriptionRaw":  "#Verstärkt den Effekt von \u003ccolor=#80C0FFFF\u003eHydro-Reaktionen\u003c/color\u003e, nachdem eine eigene Figur in der Truppe Gegner im Zustand Omen getroffen hat, 8{NON_BREAK_SPACE}s lang:\n· Erhöht den mit der Reaktion „Unter Strom“ verursachten Schaden um 15{NON_BREAK_SPACE}%, den mit der Reaktion „Mond unter Strom“ verursachten Schaden um 15{NON_BREAK_SPACE}%, den mit der Reaktion „Verdampfen“ verursachten Schaden um 15{NON_BREAK_SPACE}% und den mit der Reaktion „Hydro-Verwirbelung“ verursachten Schaden um 15{NON_BREAK_SPACE}%.\n· Verlängert die Wirkungsdauer von „Gefroren“ um 15{NON_BREAK_SPACE}%.",
+                                                                      "description":  "Verstärkt den Effekt von Hydro-Reaktionen, nachdem eine eigene Figur in der Truppe Gegner im Zustand Omen getroffen hat, 8 s lang:\n· Erhöht den mit der Reaktion „Unter Strom“ verursachten Schaden um 15 %, den mit der Reaktion „Mond unter Strom“ verursachten Schaden um 15 %, den mit der Reaktion „Verdampfen“ verursachten Schaden um 15 % und den mit der Reaktion „Hydro-Verwirbelung“ verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von „Gefroren“ um 15 %."
                                                                   }
                                                        },
                                     "elementText":  "Hydro",
@@ -7344,37 +7391,37 @@
                                             },
                     "darkironsword":  {
                                           "r3":  {
-                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“ und „Elektro-Verwirbelung“ 12 s lang um 30 %.",
+                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ und „Elektro-Verwirbelung“ 12 s lang um 30 %.",
                                                      "values":  [
-                                                                    "30 %"
+                                                                    "30{NON_BREAK_SPACE}%"
                                                                 ]
                                                  },
                                           "r5":  {
-                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“ und „Elektro-Verwirbelung“ 12 s lang um 40 %.",
+                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ und „Elektro-Verwirbelung“ 12 s lang um 40 %.",
                                                      "values":  [
-                                                                    "40 %"
+                                                                    "40{NON_BREAK_SPACE}%"
                                                                 ]
                                                  },
                                           "r2":  {
-                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“ und „Elektro-Verwirbelung“ 12 s lang um 25 %.",
+                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ und „Elektro-Verwirbelung“ 12 s lang um 25 %.",
                                                      "values":  [
-                                                                    "25 %"
+                                                                    "25{NON_BREAK_SPACE}%"
                                                                 ]
                                                  },
                                           "r4":  {
-                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“ und „Elektro-Verwirbelung“ 12 s lang um 35 %.",
+                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ und „Elektro-Verwirbelung“ 12 s lang um 35 %.",
                                                      "values":  [
-                                                                    "35 %"
+                                                                    "35{NON_BREAK_SPACE}%"
                                                                 ]
                                                  },
                                           "substatText":  "Elementarkunde",
                                           "weaponText":  "Einhänder",
                                           "name":  "Dunkles Eisenschwert",
-                                          "effectTemplateRaw":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“ und „Elektro-Verwirbelung“ 12 s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
+                                          "effectTemplateRaw":  "#Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ und „Elektro-Verwirbelung“ 12{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
                                           "r1":  {
-                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“ und „Elektro-Verwirbelung“ 12 s lang um 20 %.",
+                                                     "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Supraleiter“, „Unter Strom“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Mond unter Strom“ und „Elektro-Verwirbelung“ 12 s lang um 20 %.",
                                                      "values":  [
-                                                                    "20 %"
+                                                                    "20{NON_BREAK_SPACE}%"
                                                                 ]
                                                  },
                                           "effectName":  "Hochspannung"
@@ -8176,37 +8223,37 @@
                                      },
                     "emeraldorb":  {
                                        "r3":  {
-                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um 30 %.",
+                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“ und „Hydro-Verwirbelung“ 12 s lang um 30 %.",
                                                   "values":  [
-                                                                 "30 %"
+                                                                 "30{NON_BREAK_SPACE}%"
                                                              ]
                                               },
                                        "r5":  {
-                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um 40 %.",
+                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“ und „Hydro-Verwirbelung“ 12 s lang um 40 %.",
                                                   "values":  [
-                                                                 "40 %"
+                                                                 "40{NON_BREAK_SPACE}%"
                                                              ]
                                               },
                                        "r2":  {
-                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um 25 %.",
+                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“ und „Hydro-Verwirbelung“ 12 s lang um 25 %.",
                                                   "values":  [
-                                                                 "25 %"
+                                                                 "25{NON_BREAK_SPACE}%"
                                                              ]
                                               },
                                        "r4":  {
-                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um 35 %.",
+                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“ und „Hydro-Verwirbelung“ 12 s lang um 35 %.",
                                                   "values":  [
-                                                                 "35 %"
+                                                                 "35{NON_BREAK_SPACE}%"
                                                              ]
                                               },
                                        "substatText":  "Elementarkunde",
                                        "weaponText":  "Katalysator",
                                        "name":  "Jadekugel",
-                                       "effectTemplateRaw":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
+                                       "effectTemplateRaw":  "#Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“ und „Hydro-Verwirbelung“ 12{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
                                        "r1":  {
-                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um 20 %.",
+                                                  "description":  "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“, „Mond unter Strom“ und „Hydro-Verwirbelung“ 12 s lang um 20 %.",
                                                   "values":  [
-                                                                 "20 %"
+                                                                 "20{NON_BREAK_SPACE}%"
                                                              ]
                                               },
                                        "effectName":  "Stromschnelle"
@@ -8295,6 +8342,48 @@
                                                },
                                         "effectName":  "Axiom der Millelithen – Einigkeit"
                                     },
+                    "wavebreakersfin":  {
+                                            "r3":  {
+                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,18 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 60 %.",
+                                                       "values":  [
+                                                                      "0,18 %",
+                                                                      "60 %"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,24 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 80 %.",
+                                                       "values":  [
+                                                                      "0,24 %",
+                                                                      "80 %"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,15 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 50 %.",
+                                                       "values":  [
+                                                                      "0,15 %",
+                                                                      "50 %"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,21 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 70 %.",
+                                                       "values":  [
+                                                                      "0,21 %",
+                                                                      "70 %"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ANG",
+                                            "weaponText":  "Stangenwaffe",
+                                            "name":  "Wellenbrecherflosse",
+                                            "effectTemplateRaw":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                            "r1":  {
+                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,12 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 40 %.",
+                                                       "values":  [
+                                                                      "0,12 %",
+                                                                      "40 %"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Wellenbändiger von Watatsumi"
+                                        },
                     "aquasimulacra":  {
                                           "r3":  {
                                                      "description":  "Erhöht die LP um 24 %. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um 30 %, ganz gleich, ob sie aktiv oder inaktiv ist.",
@@ -9225,48 +9314,48 @@
                                                          },
                                                   "effectName":  "Verhalten eines Samurais"
                                               },
-                    "sacrificialbow":  {
-                                           "r3":  {
-                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 60 %, 22 s Abklingzeit.",
-                                                      "values":  [
-                                                                     "60 %",
-                                                                     "22"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 80 %, 16 s Abklingzeit.",
-                                                      "values":  [
-                                                                     "80 %",
-                                                                     "16"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 50 %, 26 s Abklingzeit.",
-                                                      "values":  [
-                                                                     "50 %",
-                                                                     "26"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 70 %, 19 s Abklingzeit.",
-                                                      "values":  [
-                                                                     "70 %",
-                                                                     "19"
-                                                                 ]
-                                                  },
-                                           "substatText":  "Aufladerate",
-                                           "weaponText":  "Bogen",
-                                           "name":  "Opferbogen",
-                                           "effectTemplateRaw":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s Abklingzeit.",
-                                           "r1":  {
-                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 40 %, 30 s Abklingzeit.",
-                                                      "values":  [
-                                                                     "40 %",
-                                                                     "30"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Göttliche Fügung"
-                                       },
+                    "cranesechoingcall":  {
+                                              "r3":  {
+                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 54 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 3 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
+                                                         "values":  [
+                                                                        "54{NON_BREAK_SPACE}%",
+                                                                        "3"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 80 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 3,5 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
+                                                         "values":  [
+                                                                        "80{NON_BREAK_SPACE}%",
+                                                                        "3,5"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 41 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 2,75 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
+                                                         "values":  [
+                                                                        "41{NON_BREAK_SPACE}%",
+                                                                        "2,75"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 67 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 3,25 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
+                                                         "values":  [
+                                                                        "67{NON_BREAK_SPACE}%",
+                                                                        "3,25"
+                                                                    ]
+                                                     },
+                                              "substatText":  "ANG",
+                                              "weaponText":  "Katalysator",
+                                              "name":  "Widerhallender Ruf des Kranichs",
+                                              "effectTemplateRaw":  "#Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7{NON_BREAK_SPACE}s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
+                                              "r1":  {
+                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 28 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 2,5 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
+                                                         "values":  [
+                                                                        "28{NON_BREAK_SPACE}%",
+                                                                        "2,5"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Wolkensturz-Axiom"
+                                          },
                     "rainslasher":  {
                                         "r3":  {
                                                    "description":  "Erhöht den von Hydro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 28 %.",
@@ -9558,6 +9647,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "fracturedhalo":  {
+                                          "r3":  {
+                                                     "description":  "Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 36 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 60 %.",
+                                                     "values":  [
+                                                                    "36{NON_BREAK_SPACE}%",
+                                                                    "60{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 48 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 80 %.",
+                                                     "values":  [
+                                                                    "48{NON_BREAK_SPACE}%",
+                                                                    "80{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 30 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 50 %.",
+                                                     "values":  [
+                                                                    "30{NON_BREAK_SPACE}%",
+                                                                    "50{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 42 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 70 %.",
+                                                     "values":  [
+                                                                    "42{NON_BREAK_SPACE}%",
+                                                                    "70{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "substatText":  "KSCH",
+                                          "weaponText":  "Stangenwaffe",
+                                          "name":  "Zerstreutes Licht",
+                                          "effectTemplateRaw":  "#Erhöht den ANG innerhalb von 20{NON_BREAK_SPACE}s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20{NON_BREAK_SPACE}s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                          "r1":  {
+                                                     "description":  "Erhöht den ANG innerhalb von 20 s nach dem Auslösen der Elementarfähigkeit oder Spezialfähigkeit um 24 %. Verleiht während der Dauer des Effekts, wenn der Träger einen Schild erschaffen hat, 20 s lang den Effekt „Heiliges Elektro-Edikt“: Erhöht den mit der Reaktion „Mond unter Strom“ verursachten Schaden aller Truppenmitglieder in der Nähe um 40 %.",
+                                                     "values":  [
+                                                                    "24{NON_BREAK_SPACE}%",
+                                                                    "40{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Krone der Läuterung"
+                                      },
                     "sapwoodblade":  {
                                          "r3":  {
                                                     "description":  "Erzeugt nach dem Auslösen der Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“ oder „Flammenspross“ in der Umgebung der Figur ein Vijnana-Blatt, das höchstens 10 s lang bestehen bleibt. Erhöht 12 s lang die Elementarkunde der Figur, die das Blatt sammelt, um 90 Punkte. Auf diese Weise kann alle 20 s nur ein Vijnana-Blatt erzeugt werden. Dieser Effekt tritt auch in Kraft, wenn sich die Figur inaktiv in der Truppe befindet. Der Effekt von Vijnana-Blatt ist nicht stapelbar.",
@@ -11381,48 +11512,48 @@
                                                   },
                                            "effectName":  "Glanz der Tiefe"
                                        },
-                    "wavebreakersfin":  {
-                                            "r3":  {
-                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,18 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 60 %.",
-                                                       "values":  [
-                                                                      "0,18 %",
-                                                                      "60 %"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,24 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 80 %.",
-                                                       "values":  [
-                                                                      "0,24 %",
-                                                                      "80 %"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,15 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 50 %.",
-                                                       "values":  [
-                                                                      "0,15 %",
-                                                                      "50 %"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,21 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 70 %.",
-                                                       "values":  [
-                                                                      "0,21 %",
-                                                                      "70 %"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ANG",
-                                            "weaponText":  "Stangenwaffe",
-                                            "name":  "Wellenbrecherflosse",
-                                            "effectTemplateRaw":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
-                                            "r1":  {
-                                                       "description":  "Erhöht den mit Spezialfähigkeiten der mit dieser Waffe ausgerüsteten Figur verursachten Schaden für jeden Punkt aus der Summe der max. Elementarenergie aller Truppenmitglieder zusammengerechnet um 0,12 %. Erhöht den mit Spezialfähigkeit verursachten Schaden auf diese Weise um bis zu 40 %.",
-                                                       "values":  [
-                                                                      "0,12 %",
-                                                                      "40 %"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Wellenbändiger von Watatsumi"
-                                        },
+                    "flameforgedinsight":  {
+                                               "r3":  {
+                                                          "description":  "Stellt nach Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“ oder „Sprießen“ 18 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 90 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+                                                          "values":  [
+                                                                         "18",
+                                                                         "90"
+                                                                     ]
+                                                      },
+                                               "r5":  {
+                                                          "description":  "Stellt nach Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“ oder „Sprießen“ 24 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 120 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+                                                          "values":  [
+                                                                         "24",
+                                                                         "120"
+                                                                     ]
+                                                      },
+                                               "r2":  {
+                                                          "description":  "Stellt nach Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“ oder „Sprießen“ 15 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 75 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+                                                          "values":  [
+                                                                         "15",
+                                                                         "75"
+                                                                     ]
+                                                      },
+                                               "r4":  {
+                                                          "description":  "Stellt nach Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“ oder „Sprießen“ 21 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 105 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+                                                          "values":  [
+                                                                         "21",
+                                                                         "105"
+                                                                     ]
+                                                      },
+                                               "substatText":  "Elementarkunde",
+                                               "weaponText":  "Zweihänder",
+                                               "name":  "Geschmiedete Weisheit",
+                                               "effectTemplateRaw":  "#Stellt nach Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“ oder „Sprießen“ \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+                                               "r1":  {
+                                                          "description":  "Stellt nach Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“ oder „Sprießen“ 12 Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15 s lang um 60 Punkte, 15 s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.",
+                                                          "values":  [
+                                                                         "12",
+                                                                         "60"
+                                                                     ]
+                                                      },
+                                               "effectName":  "Blühende Gedanken"
+                                           },
                     "theunforged":  {
                                         "r3":  {
                                                    "description":  "Erhöht die Schildeffizienz um 30 %. Erhöht den ANG nach Treffern 8 s lang um 6 %. 5-fach stapelbar, 0,3 s Abklingzeit. Erhöht die Wirksamkeit der Erhöhung des ANG außerdem im Schutz von Schilden um 100 %.",
@@ -14090,48 +14221,6 @@
                                                  },
                                           "effectName":  "Segen des Waldes"
                                       },
-                    "cranesechoingcall":  {
-                                              "r3":  {
-                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 54 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 3 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
-                                                         "values":  [
-                                                                        "54{NON_BREAK_SPACE}%",
-                                                                        "3"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 80 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 3,5 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
-                                                         "values":  [
-                                                                        "80{NON_BREAK_SPACE}%",
-                                                                        "3,5"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 41 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 2,75 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
-                                                         "values":  [
-                                                                        "41{NON_BREAK_SPACE}%",
-                                                                        "2,75"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 67 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 3,25 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
-                                                         "values":  [
-                                                                        "67{NON_BREAK_SPACE}%",
-                                                                        "3,25"
-                                                                    ]
-                                                     },
-                                              "substatText":  "ANG",
-                                              "weaponText":  "Katalysator",
-                                              "name":  "Widerhallender Ruf des Kranichs",
-                                              "effectTemplateRaw":  "#Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7{NON_BREAK_SPACE}s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
-                                              "r1":  {
-                                                         "description":  "Erhöht den Schaden des Angriffs aus dem Fall aller Truppenmitglieder in der Nähe 20 s lang um 28 %, nachdem der Träger Gegner mit dem Angriff aus dem Fall getroffen hat. Stellt dem Träger 2,5 Punkte Elementarenergie wieder her, wenn die Angriffe aus dem Fall der Truppenmitglieder in der Nähe Gegner treffen, 0,7 s Abklingzeit. Die Elementarenergie kann auch wiederhergestellt werden, wenn der Träger inaktiv in der Truppe ist.",
-                                                         "values":  [
-                                                                        "28{NON_BREAK_SPACE}%",
-                                                                        "2,5"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Wolkensturz-Axiom"
-                                          },
                     "rangegauge":  {
                                        "r3":  {
                                                   "description":  "Verleiht der Figur bei erhaltener Heilung, oder wenn sie jemanden heilt, ein Zeichen des Zusammenhalts, hält 30 s. Es können max. bis zu 3 Zeichen des Zusammenhalts vorhanden sein. Verbraucht beim Auslösen der Elementarfähigkeit oder der Spezialfähigkeit alle Zeichen des Zusammenhalts und löst den Effekt „Auflehnung“ aus, der 10 s hält: Jedes verbrauchte Zeichen des Zusammenhalts erhöht den ANG um 5 % und den Elementar-SCH-Bonus aller Elemente um 10 %. 15 s Abklingzeit für den Effekt „Auflehnung“. Zeichen des Zusammenhalts können auch erhalten werden, wenn die Figur inaktiv in der Truppe ist.",
@@ -15077,6 +15166,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "sacrificialbow":  {
+                                           "r3":  {
+                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 60 %, 22 s Abklingzeit.",
+                                                      "values":  [
+                                                                     "60 %",
+                                                                     "22"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 80 %, 16 s Abklingzeit.",
+                                                      "values":  [
+                                                                     "80 %",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 50 %, 26 s Abklingzeit.",
+                                                      "values":  [
+                                                                     "50 %",
+                                                                     "26"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 70 %, 19 s Abklingzeit.",
+                                                      "values":  [
+                                                                     "70 %",
+                                                                     "19"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Aufladerate",
+                                           "weaponText":  "Bogen",
+                                           "name":  "Opferbogen",
+                                           "effectTemplateRaw":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s Abklingzeit.",
+                                           "r1":  {
+                                                      "description":  "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von 40 %, 30 s Abklingzeit.",
+                                                      "values":  [
+                                                                     "40 %",
+                                                                     "30"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Göttliche Fügung"
+                                       },
                     "dragonsbane":  {
                                         "r3":  {
                                                    "description":  "Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um 28 %.",

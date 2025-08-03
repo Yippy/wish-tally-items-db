@@ -1617,6 +1617,9 @@
                       "concealedclaw":  {
                                             "name":  "Concealed Claw"
                                         },
+                      "drifterscrystalmarrow":  {
+                                                    "name":  "Drifter\u0027s Crystal Marrow"
+                                                },
                       "vajradaamethystfragment":  {
                                                       "name":  "Vajrada Amethyst Fragment"
                                                   },
@@ -2409,6 +2412,9 @@
                       "energynectar":  {
                                            "name":  "Energy Nectar"
                                        },
+                      "mysteriousbolt":  {
+                                             "name":  "Mysterious Bolt"
+                                         },
                       "deadleylineleaves":  {
                                                 "name":  "Dead Ley Line Leaves"
                                             },
@@ -3408,47 +3414,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "Male"
                                     },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani, Going All Out!",
-                                                                         "descriptionRaw":  "Mualani gains 2 of \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e\u0027s Wave Momentum stacks when she enters Nightsoul\u0027s Blessing state. She will gain 1 stack when obtaining a Puffer.\nIn addition, whenever Mualani obtains 2 Puffers within a single instance of the Nightsoul\u0027s Blessing state, she will recover an additional 12 Nightsoul points over 2s. This effect requires the Passive Talent \"Heat-Resistant Freshwater Floater\" to be unlocked first.",
-                                                                         "description":  "Mualani gains 2 of Surfshark Wavebreaker\u0027s Wave Momentum stacks when she enters Nightsoul\u0027s Blessing state. She will gain 1 stack when obtaining a Puffer.\nIn addition, whenever Mualani obtains 2 Puffers within a single instance of the Nightsoul\u0027s Blessing state, she will recover an additional 12 Nightsoul points over 2s. This effect requires the Passive Talent \"Heat-Resistant Freshwater Floater\" to be unlocked first."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Sharky Eats Puffies",
-                                                                         "descriptionRaw":  "Mualani regenerates 8 Energy when obtaining a Puffer. Must first unlock the Passive Talent \"Heat-Resistant Freshwater Floater.\"\nAdditionally, \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e deals 75% increased DMG.",
-                                                                         "description":  "Mualani regenerates 8 Energy when obtaining a Puffer. Must first unlock the Passive Talent \"Heat-Resistant Freshwater Floater.\"\nAdditionally, Boomsharka-laka deals 75% increased DMG."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surfing Atop Joyous Seas",
-                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                         "description":  "Increases the Level of Surfshark Wavebreaker by 3.\nMaximum upgrade level is 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Same Style of Surfboard on Sale!",
-                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                         "description":  "Increases the Level of Boomsharka-laka by 3.\nMaximum upgrade level is 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Spirit of the Springs\u0027 People",
-                                                                         "descriptionRaw":  "The DMG increase from the Constellation \"The Leisurely \u0027Meztli\u0027...\" is no longer limited to being triggered once every Nightsoul\u0027s Blessing.",
-                                                                         "description":  "The DMG increase from the Constellation \"The Leisurely \u0027Meztli\u0027...\" is no longer limited to being triggered once every Nightsoul\u0027s Blessing."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "The Leisurely \"Meztli\"...",
-                                                                         "descriptionRaw":  "The DMG dealt by the first Sharky\u0027s Surging Bite after Mualani enters Nightsoul\u0027s Blessing and the Shark Missiles it triggers is increased by 66% of Mualani\u0027s Max HP. This instance of increased DMG is subject to the diminishing DMG rules of \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e.\nIn addition, while out of combat, Mualani\u0027s Nightsoul\u0027s Blessing state consumes 30% less Phlogiston and Nightsoul points.",
-                                                                         "description":  "The DMG dealt by the first Sharky\u0027s Surging Bite after Mualani enters Nightsoul\u0027s Blessing and the Shark Missiles it triggers is increased by 66% of Mualani\u0027s Max HP. This instance of increased DMG is subject to the diminishing DMG rules of Surfshark Wavebreaker.\nIn addition, while out of combat, Mualani\u0027s Nightsoul\u0027s Blessing state consumes 30% less Phlogiston and Nightsoul points."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalyst",
-                                       "name":  "Mualani",
-                                       "substatText":  "CRIT Rate",
-                                       "region":  "Natlan",
-                                       "gender":  "Female"
-                                   },
+                       "ineffa":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Support Cleaning Module",
+                                                                        "descriptionRaw":  "After the Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11165}Supreme Instruction: Cyclonic Exterminator{/LINK}\u003c/color\u003e hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is defeated, nearby opponents will take \u003ccolor=#FFACFFFF\u003eAoE Electro DMG\u003c/color\u003e equal to 300% of Ineffa\u0027s ATK. This DMG is considered Lunar-Charged DMG.\nAdditionally, when the Elemental Burst \u003ccolor=#FFD780FF\u003eSupreme Instruction: Cyclonic Exterminator\u003c/color\u003e is unleashed, nearby party members will gain Optical Flow Shield Barriers.",
+                                                                        "description":  "After the Elemental Burst **Supreme Instruction: Cyclonic Exterminator** hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is defeated, nearby opponents will take AoE Electro DMG equal to 300% of Ineffa\u0027s ATK. This DMG is considered Lunar-Charged DMG.\nAdditionally, when the Elemental Burst Supreme Instruction: Cyclonic Exterminator is unleashed, nearby party members will gain Optical Flow Shield Barriers."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "The Edictless Path",
+                                                                        "descriptionRaw":  "When your own party members trigger Lunar-Charged reactions, recover 5 Elemental Energy. This effect can occur once every 4s.",
+                                                                        "description":  "When your own party members trigger Lunar-Charged reactions, recover 5 Elemental Energy. This effect can occur once every 4s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Enhanced Emotion Emulator",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003e{LINK#S11162}Cleaning Mode: Carrier Frequency{/LINK}\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of **Cleaning Mode: Carrier Frequency** by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Mirror\u0027s Dream Transcension",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003e{LINK#S11165}Supreme Instruction: Cyclonic Exterminator{/LINK}\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of **Supreme Instruction: Cyclonic Exterminator** by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "A Dawning Morn for You",
+                                                                        "descriptionRaw":  "When Ineffa is affected by the Carrier Flow Composite effect, she will deal \u003ccolor=#FFACFFFF\u003eAoE Electro DMG\u003c/color\u003e equal to 135% of her ATK to opponents in the current active character\u0027s vicinity after nearby thunderclouds release bursts of lightning at opponents. This DMG is considered Lunar-Charged DMG. The aforementioned effect can trigger once every 3.5s.",
+                                                                        "description":  "When Ineffa is affected by the Carrier Flow Composite effect, she will deal AoE Electro DMG equal to 135% of her ATK to opponents in the current active character\u0027s vicinity after nearby thunderclouds release bursts of lightning at opponents. This DMG is considered Lunar-Charged DMG. The aforementioned effect can trigger once every 3.5s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Rectifying Processor",
+                                                                        "descriptionRaw":  "When Ineffa activates her Optical Flow Shield Barrier, all nearby party members will gain the Carrier Flow Composite effect for 20s: Increases Lunar-Charged DMG by 2.5% for every 100 ATK that Ineffa has, up to a maximum of 50%.",
+                                                                        "description":  "When Ineffa activates her Optical Flow Shield Barrier, all nearby party members will gain the Carrier Flow Composite effect for 20s: Increases Lunar-Charged DMG by 2.5% for every 100 ATK that Ineffa has, up to a maximum of 50%."
+                                                                    }
+                                                         },
+                                      "elementText":  "Electro",
+                                      "fullname":  null,
+                                      "weaponText":  "Polearm",
+                                      "name":  "Ineffa",
+                                      "substatText":  "CRIT Rate",
+                                      "region":  null,
+                                      "gender":  "Female"
+                                  },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3777,47 +3783,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Female"
                                   },
-                       "thoma":  {
-                                     "constellations":  {
-                                                            "c2":  {
-                                                                       "name":  "A Subordinate\u0027s Skills",
-                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e\u0027s duration is increased by 3s.",
-                                                                       "description":  "Crimson Ooyoroi\u0027s duration is increased by 3s."
-                                                                   },
-                                                            "c4":  {
-                                                                       "name":  "Long-Term Planning",
-                                                                       "descriptionRaw":  "After using \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e, 15 Energy will be restored to Thoma.",
-                                                                       "description":  "After using Crimson Ooyoroi, 15 Energy will be restored to Thoma."
-                                                                   },
-                                                            "c3":  {
-                                                                       "name":  "Fortified Resolve",
-                                                                       "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eBlazing Blessing\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                       "description":  "Increases the Level of Blazing Blessing by 3.\nMaximum upgrade level is 15."
-                                                                   },
-                                                            "c5":  {
-                                                                       "name":  "Raging Wildfire",
-                                                                       "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                       "description":  "Increases the Level of Crimson Ooyoroi by 3.\nMaximum upgrade level is 15."
-                                                                   },
-                                                            "c6":  {
-                                                                       "name":  "Burning Heart",
-                                                                       "descriptionRaw":  "When a \u003ccolor=#FFD780FF\u003eBlazing Barrier\u003c/color\u003e is obtained or refreshed, the DMG dealt by all party members\u0027 Normal, Charged, and Plunging Attacks is increased by 15% for 6s.",
-                                                                       "description":  "When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party members\u0027 Normal, Charged, and Plunging Attacks is increased by 15% for 6s."
-                                                                   },
-                                                            "c1":  {
-                                                                       "name":  "A Comrade\u0027s Duty",
-                                                                       "descriptionRaw":  "When a character protected by Thoma\u0027s own \u003ccolor=#FFD780FF\u003eBlazing Barrier\u003c/color\u003e (Thoma excluded) is attacked, Thoma\u0027s own \u003ccolor=#FFD780FF\u003eBlazing Blessing\u003c/color\u003e CD is decreased by 3s, while his own \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e\u0027s CD is decreased by 3s.\nThis effect can be triggered once every 20s.",
-                                                                       "description":  "When a character protected by Thoma\u0027s own Blazing Barrier (Thoma excluded) is attacked, Thoma\u0027s own Blazing Blessing CD is decreased by 3s, while his own Crimson Ooyoroi\u0027s CD is decreased by 3s.\nThis effect can be triggered once every 20s."
-                                                                   }
-                                                        },
-                                     "elementText":  "Pyro",
-                                     "fullname":  null,
-                                     "weaponText":  "Polearm",
-                                     "name":  "Thoma",
-                                     "substatText":  "ATK",
-                                     "region":  "Inazuma",
-                                     "gender":  "Male"
-                                 },
+                       "lynette":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Endless Mysteries",
+                                                                         "descriptionRaw":  "Whenever the Bogglecat Box summoned by \u003ccolor=#FFD780FF\u003eMagic Trick: Astonishing Shift\u003c/color\u003e fires a Vivid Shot, it will fire an extra Vivid Shot.",
+                                                                         "description":  "Whenever the Bogglecat Box summoned by Magic Trick: Astonishing Shift fires a Vivid Shot, it will fire an extra Vivid Shot."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Tacit Coordination",
+                                                                         "descriptionRaw":  "Increases \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e\u0027s charges by 1.",
+                                                                         "description":  "Increases Enigmatic Feint\u0027s charges by 1."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Cognition-Inverting Gaze",
+                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eMagic Trick: Astonishing Shift\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                         "description":  "Increases the Level of Magic Trick: Astonishing Shift by 3.\nMaximum upgrade level is 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Obscuring Ambiguity",
+                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                         "description":  "Increases the Level of Enigmatic Feint by 3.\nMaximum upgrade level is 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Watchful Eye",
+                                                                         "descriptionRaw":  "When Lynette uses \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e\u0027s Enigma Thrust, she will gain an \u003ccolor=#80FFD7FF\u003eAnemo Infusion\u003c/color\u003e and 20% \u003ccolor=#80FFD7FF\u003eAnemo DMG Bonus\u003c/color\u003e for 6s.",
+                                                                         "description":  "When Lynette uses Enigmatic Feint\u0027s Enigma Thrust, she will gain an Anemo Infusion and 20% Anemo DMG Bonus for 6s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "A Cold Blade Like a Shadow",
+                                                                         "descriptionRaw":  "When \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e\u0027s Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent\u0027s position that will pull nearby opponents in.",
+                                                                         "description":  "When Enigmatic Feint\u0027s Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent\u0027s position that will pull nearby opponents in."
+                                                                     }
+                                                          },
+                                       "elementText":  "Anemo",
+                                       "fullname":  null,
+                                       "weaponText":  "Sword",
+                                       "name":  "Lynette",
+                                       "substatText":  "Anemo DMG Bonus",
+                                       "region":  "Fontaine",
+                                       "gender":  "Female"
+                                   },
                        "yanfei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3868,8 +3874,8 @@
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Austerity: Forbidding Guard",
-                                                                      "descriptionRaw":  "When Cyno is in the Pactsworn Pathclearer state triggered by \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e, after he triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)\nThis effect can occur 5 times within one use of \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e.",
-                                                                      "description":  "When Cyno is in the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf\u0027s Swiftness, after he triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)\nThis effect can occur 5 times within one use of Sacred Rite: Wolf\u0027s Swiftness."
+                                                                      "descriptionRaw":  "When Cyno is in the Pactsworn Pathclearer state triggered by \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e, after he triggers an Electro-Charged, Lunar-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)\nThis effect can occur 5 times within one use of \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e.",
+                                                                      "description":  "When Cyno is in the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf\u0027s Swiftness, after he triggers an Electro-Charged, Lunar-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)\nThis effect can occur 5 times within one use of Sacred Rite: Wolf\u0027s Swiftness."
                                                                   },
                                                            "c3":  {
                                                                       "name":  "Precept: Lawful Enforcer",
@@ -4146,47 +4152,40 @@
                                      "region":  "Sumeru",
                                      "gender":  "Female"
                                  },
-                       "lynette":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Endless Mysteries",
-                                                                         "descriptionRaw":  "Whenever the Bogglecat Box summoned by \u003ccolor=#FFD780FF\u003eMagic Trick: Astonishing Shift\u003c/color\u003e fires a Vivid Shot, it will fire an extra Vivid Shot.",
-                                                                         "description":  "Whenever the Bogglecat Box summoned by Magic Trick: Astonishing Shift fires a Vivid Shot, it will fire an extra Vivid Shot."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Tacit Coordination",
-                                                                         "descriptionRaw":  "Increases \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e\u0027s charges by 1.",
-                                                                         "description":  "Increases Enigmatic Feint\u0027s charges by 1."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Cognition-Inverting Gaze",
-                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eMagic Trick: Astonishing Shift\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                         "description":  "Increases the Level of Magic Trick: Astonishing Shift by 3.\nMaximum upgrade level is 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Obscuring Ambiguity",
-                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                         "description":  "Increases the Level of Enigmatic Feint by 3.\nMaximum upgrade level is 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Watchful Eye",
-                                                                         "descriptionRaw":  "When Lynette uses \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e\u0027s Enigma Thrust, she will gain an \u003ccolor=#80FFD7FF\u003eAnemo Infusion\u003c/color\u003e and 20% \u003ccolor=#80FFD7FF\u003eAnemo DMG Bonus\u003c/color\u003e for 6s.",
-                                                                         "description":  "When Lynette uses Enigmatic Feint\u0027s Enigma Thrust, she will gain an Anemo Infusion and 20% Anemo DMG Bonus for 6s."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "A Cold Blade Like a Shadow",
-                                                                         "descriptionRaw":  "When \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e\u0027s Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent\u0027s position that will pull nearby opponents in.",
-                                                                         "description":  "When Enigmatic Feint\u0027s Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent\u0027s position that will pull nearby opponents in."
-                                                                     }
-                                                          },
-                                       "elementText":  "Anemo",
-                                       "fullname":  null,
-                                       "weaponText":  "Sword",
-                                       "name":  "Lynette",
-                                       "substatText":  "Anemo DMG Bonus",
-                                       "region":  "Fontaine",
-                                       "gender":  "Female"
-                                   },
+                       "travelerhydro":  {
+                                             "constellations":  {
+                                                                    "c2":  {
+                                                                               "name":  "Trickling Purity",
+                                                                               "descriptionRaw":  "The Movement SPD of \u003ccolor=#FFD780FF\u003eRising Waters\u003c/color\u003e\u0027 bubble will be decreased by 30%, and its duration increased by 3s.",
+                                                                               "description":  "The Movement SPD of Rising Waters\u0027 bubble will be decreased by 30%, and its duration increased by 3s."
+                                                                           },
+                                                                    "c4":  {
+                                                                               "name":  "Pouring Descent",
+                                                                               "descriptionRaw":  "When using \u003ccolor=#FFD780FF\u003eAquacrest Saber\u003c/color\u003e, an Aquacrest Aegis that can absorb 10% of the Traveler\u0027s Max HP in DMG will be created and will absorb \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e with 250% effectiveness. It will persist until the Traveler finishes using the skill.\nOnce every 2s, after a Dewdrop hits an opponent, if the Traveler is being protected by Aquacrest Aegis, the DMG Absorption of the Aegis will be restored to 10% of the Traveler\u0027s Max HP. If the Traveler is not presently being protected by an Aegis, one will be redeployed.",
+                                                                               "description":  "When using Aquacrest Saber, an Aquacrest Aegis that can absorb 10% of the Traveler\u0027s Max HP in DMG will be created and will absorb Hydro DMG with 250% effectiveness. It will persist until the Traveler finishes using the skill.\nOnce every 2s, after a Dewdrop hits an opponent, if the Traveler is being protected by Aquacrest Aegis, the DMG Absorption of the Aegis will be restored to 10% of the Traveler\u0027s Max HP. If the Traveler is not presently being protected by an Aegis, one will be redeployed."
+                                                                           },
+                                                                    "c3":  {
+                                                                               "name":  "Turbulent Ripples",
+                                                                               "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eAquacrest Saber\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                               "description":  "Increases the Level of Aquacrest Saber by 3.\nMaximum upgrade level is 15."
+                                                                           },
+                                                                    "c5":  {
+                                                                               "name":  "Churning Whirlpool",
+                                                                               "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eRising Waters\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                               "description":  "Increases the Level of Rising Waters by 3.\nMaximum upgrade level is 15."
+                                                                           },
+                                                                    "c6":  {
+                                                                               "name":  "Tides of Justice",
+                                                                               "descriptionRaw":  "When the Traveler picks up a Sourcewater Droplet, they will restore HP to a nearby party member with the lowest remaining HP percentage based on 6% of said member\u0027s Max HP.",
+                                                                               "description":  "When the Traveler picks up a Sourcewater Droplet, they will restore HP to a nearby party member with the lowest remaining HP percentage based on 6% of said member\u0027s Max HP."
+                                                                           },
+                                                                    "c1":  {
+                                                                               "name":  "Swelling Lake",
+                                                                               "descriptionRaw":  "Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler.\nRequires the Passive Talent \"Spotless Waters.\"",
+                                                                               "description":  "Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler.\nRequires the Passive Talent \"Spotless Waters.\""
+                                                                           }
+                                                                }
+                                         },
                        "kujousara":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -4392,6 +4391,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Male"
                                   },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani, Going All Out!",
+                                                                         "descriptionRaw":  "Mualani gains 2 of \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e\u0027s Wave Momentum stacks when she enters Nightsoul\u0027s Blessing state. She will gain 1 stack when obtaining a Puffer.\nIn addition, whenever Mualani obtains 2 Puffers within a single instance of the Nightsoul\u0027s Blessing state, she will recover an additional 12 Nightsoul points over 2s. This effect requires the Passive Talent \"Heat-Resistant Freshwater Floater\" to be unlocked first.",
+                                                                         "description":  "Mualani gains 2 of Surfshark Wavebreaker\u0027s Wave Momentum stacks when she enters Nightsoul\u0027s Blessing state. She will gain 1 stack when obtaining a Puffer.\nIn addition, whenever Mualani obtains 2 Puffers within a single instance of the Nightsoul\u0027s Blessing state, she will recover an additional 12 Nightsoul points over 2s. This effect requires the Passive Talent \"Heat-Resistant Freshwater Floater\" to be unlocked first."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Sharky Eats Puffies",
+                                                                         "descriptionRaw":  "Mualani regenerates 8 Energy when obtaining a Puffer. Must first unlock the Passive Talent \"Heat-Resistant Freshwater Floater.\"\nAdditionally, \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e deals 75% increased DMG.",
+                                                                         "description":  "Mualani regenerates 8 Energy when obtaining a Puffer. Must first unlock the Passive Talent \"Heat-Resistant Freshwater Floater.\"\nAdditionally, Boomsharka-laka deals 75% increased DMG."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surfing Atop Joyous Seas",
+                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                         "description":  "Increases the Level of Surfshark Wavebreaker by 3.\nMaximum upgrade level is 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Same Style of Surfboard on Sale!",
+                                                                         "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                         "description":  "Increases the Level of Boomsharka-laka by 3.\nMaximum upgrade level is 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Spirit of the Springs\u0027 People",
+                                                                         "descriptionRaw":  "The DMG increase from the Constellation \"The Leisurely \u0027Meztli\u0027...\" is no longer limited to being triggered once every Nightsoul\u0027s Blessing.",
+                                                                         "description":  "The DMG increase from the Constellation \"The Leisurely \u0027Meztli\u0027...\" is no longer limited to being triggered once every Nightsoul\u0027s Blessing."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "The Leisurely \"Meztli\"...",
+                                                                         "descriptionRaw":  "The DMG dealt by the first Sharky\u0027s Surging Bite after Mualani enters Nightsoul\u0027s Blessing and the Shark Missiles it triggers is increased by 66% of Mualani\u0027s Max HP. This instance of increased DMG is subject to the diminishing DMG rules of \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e.\nIn addition, while out of combat, Mualani\u0027s Nightsoul\u0027s Blessing state consumes 30% less Phlogiston and Nightsoul points.",
+                                                                         "description":  "The DMG dealt by the first Sharky\u0027s Surging Bite after Mualani enters Nightsoul\u0027s Blessing and the Shark Missiles it triggers is increased by 66% of Mualani\u0027s Max HP. This instance of increased DMG is subject to the diminishing DMG rules of Surfshark Wavebreaker.\nIn addition, while out of combat, Mualani\u0027s Nightsoul\u0027s Blessing state consumes 30% less Phlogiston and Nightsoul points."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalyst",
+                                       "name":  "Mualani",
+                                       "substatText":  "CRIT Rate",
+                                       "region":  "Natlan",
+                                       "gender":  "Female"
+                                   },
                        "collei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5580,40 +5620,6 @@
                                       "region":  "Fontaine",
                                       "gender":  "Female"
                                   },
-                       "travelerhydro":  {
-                                             "constellations":  {
-                                                                    "c2":  {
-                                                                               "name":  "Trickling Purity",
-                                                                               "descriptionRaw":  "The Movement SPD of \u003ccolor=#FFD780FF\u003eRising Waters\u003c/color\u003e\u0027 bubble will be decreased by 30%, and its duration increased by 3s.",
-                                                                               "description":  "The Movement SPD of Rising Waters\u0027 bubble will be decreased by 30%, and its duration increased by 3s."
-                                                                           },
-                                                                    "c4":  {
-                                                                               "name":  "Pouring Descent",
-                                                                               "descriptionRaw":  "When using \u003ccolor=#FFD780FF\u003eAquacrest Saber\u003c/color\u003e, an Aquacrest Aegis that can absorb 10% of the Traveler\u0027s Max HP in DMG will be created and will absorb \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e with 250% effectiveness. It will persist until the Traveler finishes using the skill.\nOnce every 2s, after a Dewdrop hits an opponent, if the Traveler is being protected by Aquacrest Aegis, the DMG Absorption of the Aegis will be restored to 10% of the Traveler\u0027s Max HP. If the Traveler is not presently being protected by an Aegis, one will be redeployed.",
-                                                                               "description":  "When using Aquacrest Saber, an Aquacrest Aegis that can absorb 10% of the Traveler\u0027s Max HP in DMG will be created and will absorb Hydro DMG with 250% effectiveness. It will persist until the Traveler finishes using the skill.\nOnce every 2s, after a Dewdrop hits an opponent, if the Traveler is being protected by Aquacrest Aegis, the DMG Absorption of the Aegis will be restored to 10% of the Traveler\u0027s Max HP. If the Traveler is not presently being protected by an Aegis, one will be redeployed."
-                                                                           },
-                                                                    "c3":  {
-                                                                               "name":  "Turbulent Ripples",
-                                                                               "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eAquacrest Saber\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                               "description":  "Increases the Level of Aquacrest Saber by 3.\nMaximum upgrade level is 15."
-                                                                           },
-                                                                    "c5":  {
-                                                                               "name":  "Churning Whirlpool",
-                                                                               "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eRising Waters\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
-                                                                               "description":  "Increases the Level of Rising Waters by 3.\nMaximum upgrade level is 15."
-                                                                           },
-                                                                    "c6":  {
-                                                                               "name":  "Tides of Justice",
-                                                                               "descriptionRaw":  "When the Traveler picks up a Sourcewater Droplet, they will restore HP to a nearby party member with the lowest remaining HP percentage based on 6% of said member\u0027s Max HP.",
-                                                                               "description":  "When the Traveler picks up a Sourcewater Droplet, they will restore HP to a nearby party member with the lowest remaining HP percentage based on 6% of said member\u0027s Max HP."
-                                                                           },
-                                                                    "c1":  {
-                                                                               "name":  "Swelling Lake",
-                                                                               "descriptionRaw":  "Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler.\nRequires the Passive Talent \"Spotless Waters.\"",
-                                                                               "description":  "Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler.\nRequires the Passive Talent \"Spotless Waters.\""
-                                                                           }
-                                                                }
-                                         },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6307,6 +6313,47 @@
                                     "region":  "Liyue",
                                     "gender":  "Male"
                                 },
+                       "thoma":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "A Subordinate\u0027s Skills",
+                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e\u0027s duration is increased by 3s.",
+                                                                       "description":  "Crimson Ooyoroi\u0027s duration is increased by 3s."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Long-Term Planning",
+                                                                       "descriptionRaw":  "After using \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e, 15 Energy will be restored to Thoma.",
+                                                                       "description":  "After using Crimson Ooyoroi, 15 Energy will be restored to Thoma."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Fortified Resolve",
+                                                                       "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eBlazing Blessing\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                       "description":  "Increases the Level of Blazing Blessing by 3.\nMaximum upgrade level is 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Raging Wildfire",
+                                                                       "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                       "description":  "Increases the Level of Crimson Ooyoroi by 3.\nMaximum upgrade level is 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Burning Heart",
+                                                                       "descriptionRaw":  "When a \u003ccolor=#FFD780FF\u003eBlazing Barrier\u003c/color\u003e is obtained or refreshed, the DMG dealt by all party members\u0027 Normal, Charged, and Plunging Attacks is increased by 15% for 6s.",
+                                                                       "description":  "When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party members\u0027 Normal, Charged, and Plunging Attacks is increased by 15% for 6s."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "A Comrade\u0027s Duty",
+                                                                       "descriptionRaw":  "When a character protected by Thoma\u0027s own \u003ccolor=#FFD780FF\u003eBlazing Barrier\u003c/color\u003e (Thoma excluded) is attacked, Thoma\u0027s own \u003ccolor=#FFD780FF\u003eBlazing Blessing\u003c/color\u003e CD is decreased by 3s, while his own \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e\u0027s CD is decreased by 3s.\nThis effect can be triggered once every 20s.",
+                                                                       "description":  "When a character protected by Thoma\u0027s own Blazing Barrier (Thoma excluded) is attacked, Thoma\u0027s own Blazing Blessing CD is decreased by 3s, while his own Crimson Ooyoroi\u0027s CD is decreased by 3s.\nThis effect can be triggered once every 20s."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Polearm",
+                                     "name":  "Thoma",
+                                     "substatText":  "ATK",
+                                     "region":  "Inazuma",
+                                     "gender":  "Male"
+                                 },
                        "venti":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6787,8 +6834,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Prophecy of Submersion",
-                                                                      "descriptionRaw":  "When any of your own party members hits an opponent affected by an Omen, the effects of \u003ccolor=#80C0FFFF\u003eHydro-related Elemental Reactions\u003c/color\u003e are enhanced for 8s:\n·Electro-Charged DMG increases by 15%.\n·Vaporize DMG increases by 15%.\n·Hydro Swirl DMG increases by 15%.\n·Frozen duration is extended by 15%.",
-                                                                      "description":  "When any of your own party members hits an opponent affected by an Omen, the effects of Hydro-related Elemental Reactions are enhanced for 8s:\n·Electro-Charged DMG increases by 15%.\n·Vaporize DMG increases by 15%.\n·Hydro Swirl DMG increases by 15%.\n·Frozen duration is extended by 15%."
+                                                                      "descriptionRaw":  "When any of your own party members hits an opponent affected by an Omen, the effects of \u003ccolor=#80C0FFFF\u003eHydro-related Elemental Reactions\u003c/color\u003e are enhanced for 8s:\n· Electro-Charged DMG increases by 15%.\n· Lunar-Charged DMG increases by 15%.\n· Vaporize DMG increases by 15%.\n· Hydro Swirl DMG increases by 15%.\n· Frozen duration is extended by 15%.",
+                                                                      "description":  "When any of your own party members hits an opponent affected by an Omen, the effects of Hydro-related Elemental Reactions are enhanced for 8s:\n· Electro-Charged DMG increases by 15%.\n· Lunar-Charged DMG increases by 15%.\n· Vaporize DMG increases by 15%.\n· Hydro Swirl DMG increases by 15%.\n· Frozen duration is extended by 15%."
                                                                   }
                                                        },
                                     "elementText":  "Hydro",
@@ -7375,25 +7422,25 @@
                                             },
                     "darkironsword":  {
                                           "r3":  {
-                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 30% for 12s.",
+                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 30% for 12s.",
                                                      "values":  [
                                                                     "30%"
                                                                 ]
                                                  },
                                           "r5":  {
-                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 40% for 12s.",
+                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 40% for 12s.",
                                                      "values":  [
                                                                     "40%"
                                                                 ]
                                                  },
                                           "r2":  {
-                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 25% for 12s.",
+                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 25% for 12s.",
                                                      "values":  [
                                                                     "25%"
                                                                 ]
                                                  },
                                           "r4":  {
-                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 35% for 12s.",
+                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 35% for 12s.",
                                                      "values":  [
                                                                     "35%"
                                                                 ]
@@ -7401,9 +7448,9 @@
                                           "substatText":  "Elemental Mastery",
                                           "weaponText":  "Sword",
                                           "name":  "Dark Iron Sword",
-                                          "effectTemplateRaw":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 12s.",
+                                          "effectTemplateRaw":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 12s.",
                                           "r1":  {
-                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 20% for 12s.",
+                                                     "description":  "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by 20% for 12s.",
                                                      "values":  [
                                                                     "20%"
                                                                 ]
@@ -8207,25 +8254,25 @@
                                      },
                     "emeraldorb":  {
                                        "r3":  {
-                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 30% for 12s.",
+                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by 30% for 12s.",
                                                   "values":  [
                                                                  "30%"
                                                              ]
                                               },
                                        "r5":  {
-                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 40% for 12s.",
+                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by 40% for 12s.",
                                                   "values":  [
                                                                  "40%"
                                                              ]
                                               },
                                        "r2":  {
-                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 25% for 12s.",
+                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by 25% for 12s.",
                                                   "values":  [
                                                                  "25%"
                                                              ]
                                               },
                                        "r4":  {
-                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 35% for 12s.",
+                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by 35% for 12s.",
                                                   "values":  [
                                                                  "35%"
                                                              ]
@@ -8233,9 +8280,9 @@
                                        "substatText":  "Elemental Mastery",
                                        "weaponText":  "Catalyst",
                                        "name":  "Emerald Orb",
-                                       "effectTemplateRaw":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 12s.",
+                                       "effectTemplateRaw":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 12s.",
                                        "r1":  {
-                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 20% for 12s.",
+                                                  "description":  "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by 20% for 12s.",
                                                   "values":  [
                                                                  "20%"
                                                              ]
@@ -8326,6 +8373,48 @@
                                                },
                                         "effectName":  "Lithic Axiom: Unity"
                                     },
+                    "wavebreakersfin":  {
+                                            "r3":  {
+                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.18%. A maximum of 60% increased Elemental Burst DMG can be achieved this way.",
+                                                       "values":  [
+                                                                      "0.18%",
+                                                                      "60%"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.24%. A maximum of 80% increased Elemental Burst DMG can be achieved this way.",
+                                                       "values":  [
+                                                                      "0.24%",
+                                                                      "80%"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.15%. A maximum of 50% increased Elemental Burst DMG can be achieved this way.",
+                                                       "values":  [
+                                                                      "0.15%",
+                                                                      "50%"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.21%. A maximum of 70% increased Elemental Burst DMG can be achieved this way.",
+                                                       "values":  [
+                                                                      "0.21%",
+                                                                      "70%"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ATK",
+                                            "weaponText":  "Polearm",
+                                            "name":  "Wavebreaker\u0027s Fin",
+                                            "effectTemplateRaw":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. A maximum of \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e increased Elemental Burst DMG can be achieved this way.",
+                                            "r1":  {
+                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way.",
+                                                       "values":  [
+                                                                      "0.12%",
+                                                                      "40%"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Watatsumi Wavewalker"
+                                        },
                     "aquasimulacra":  {
                                           "r3":  {
                                                      "description":  "HP is increased by 24%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 30%. This will take effect whether the character is on-field or not.",
@@ -9256,48 +9345,48 @@
                                                          },
                                                   "effectName":  "Samurai Conduct"
                                               },
-                    "sacrificialbow":  {
-                                           "r3":  {
-                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s.",
-                                                      "values":  [
-                                                                     "60%",
-                                                                     "22s"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 80% chance to end its own CD. Can only occur once every 16s.",
-                                                      "values":  [
-                                                                     "80%",
-                                                                     "16s"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 50% chance to end its own CD. Can only occur once every 26s.",
-                                                      "values":  [
-                                                                     "50%",
-                                                                     "26"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 70% chance to end its own CD. Can only occur once every 19s.",
-                                                      "values":  [
-                                                                     "70%",
-                                                                     "19"
-                                                                 ]
-                                                  },
-                                           "substatText":  "Energy Recharge",
-                                           "weaponText":  "Bow",
-                                           "name":  "Sacrificial Bow",
-                                           "effectTemplateRaw":  "After damaging an opponent with an Elemental Skill, the skill has a \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e chance to end its own CD. Can only occur once every \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
-                                           "r1":  {
-                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s.",
-                                                      "values":  [
-                                                                     "40%",
-                                                                     "30"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Composed"
-                                       },
+                    "cranesechoingcall":  {
+                                              "r3":  {
+                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 54% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                                                         "values":  [
+                                                                        "54%",
+                                                                        "3"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 80% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3.5 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                                                         "values":  [
+                                                                        "80%",
+                                                                        "3.5"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 41% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.75 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                                                         "values":  [
+                                                                        "41%",
+                                                                        "2.75"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 67% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3.25 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                                                         "values":  [
+                                                                        "67%",
+                                                                        "3.25"
+                                                                    ]
+                                                     },
+                                              "substatText":  "ATK",
+                                              "weaponText":  "Catalyst",
+                                              "name":  "Crane\u0027s Echoing Call",
+                                              "effectTemplateRaw":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                                              "r1":  {
+                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 28% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.5 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                                                         "values":  [
+                                                                        "28%",
+                                                                        "2.5"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Cloudfall Axiom"
+                                          },
                     "rainslasher":  {
                                         "r3":  {
                                                    "description":  "Increases DMG against opponents affected by Hydro or Electro by 28%.",
@@ -9589,6 +9678,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "fracturedhalo":  {
+                                          "r3":  {
+                                                     "description":  "After an Elemental Skill or Elemental Burst is used, ATK is increased by 36% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 60% more Lunar-Charged DMG.",
+                                                     "values":  [
+                                                                    "36%",
+                                                                    "60%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "After an Elemental Skill or Elemental Burst is used, ATK is increased by 48% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 80% more Lunar-Charged DMG.",
+                                                     "values":  [
+                                                                    "48%",
+                                                                    "80%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "After an Elemental Skill or Elemental Burst is used, ATK is increased by 30% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 50% more Lunar-Charged DMG.",
+                                                     "values":  [
+                                                                    "30%",
+                                                                    "50%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "After an Elemental Skill or Elemental Burst is used, ATK is increased by 42% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 70% more Lunar-Charged DMG.",
+                                                     "values":  [
+                                                                    "42%",
+                                                                    "70%"
+                                                                ]
+                                                 },
+                                          "substatText":  "CRIT DMG",
+                                          "weaponText":  "Polearm",
+                                          "name":  "Fractured Halo",
+                                          "effectTemplateRaw":  "After an Elemental Skill or Elemental Burst is used, ATK is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e more Lunar-Charged DMG.",
+                                          "r1":  {
+                                                     "description":  "After an Elemental Skill or Elemental Burst is used, ATK is increased by 24% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 40% more Lunar-Charged DMG.",
+                                                     "values":  [
+                                                                    "24%",
+                                                                    "40%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Purifying Crown"
+                                      },
                     "sapwoodblade":  {
                                          "r3":  {
                                                     "description":  "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 90 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness\u0027 effect cannot stack.",
@@ -11412,48 +11543,48 @@
                                                   },
                                            "effectName":  "Radiance of the Deeps"
                                        },
-                    "wavebreakersfin":  {
-                                            "r3":  {
-                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.18%. A maximum of 60% increased Elemental Burst DMG can be achieved this way.",
-                                                       "values":  [
-                                                                      "0.18%",
-                                                                      "60%"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.24%. A maximum of 80% increased Elemental Burst DMG can be achieved this way.",
-                                                       "values":  [
-                                                                      "0.24%",
-                                                                      "80%"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.15%. A maximum of 50% increased Elemental Burst DMG can be achieved this way.",
-                                                       "values":  [
-                                                                      "0.15%",
-                                                                      "50%"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.21%. A maximum of 70% increased Elemental Burst DMG can be achieved this way.",
-                                                       "values":  [
-                                                                      "0.21%",
-                                                                      "70%"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ATK",
-                                            "weaponText":  "Polearm",
-                                            "name":  "Wavebreaker\u0027s Fin",
-                                            "effectTemplateRaw":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. A maximum of \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e increased Elemental Burst DMG can be achieved this way.",
-                                            "r1":  {
-                                                       "description":  "For every point of the entire party\u0027s combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way.",
-                                                       "values":  [
-                                                                      "0.12%",
-                                                                      "40%"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Watatsumi Wavewalker"
-                                        },
+                    "flameforgedinsight":  {
+                                               "r3":  {
+                                                          "description":  "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore 18 Elemental Energy and increase Elemental Mastery by 90 for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+                                                          "values":  [
+                                                                         "18",
+                                                                         "90"
+                                                                     ]
+                                                      },
+                                               "r5":  {
+                                                          "description":  "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore 24 Elemental Energy and increase Elemental Mastery by 120 for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+                                                          "values":  [
+                                                                         "24",
+                                                                         "120"
+                                                                     ]
+                                                      },
+                                               "r2":  {
+                                                          "description":  "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore 15 Elemental Energy and increase Elemental Mastery by 75 for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+                                                          "values":  [
+                                                                         "15",
+                                                                         "75"
+                                                                     ]
+                                                      },
+                                               "r4":  {
+                                                          "description":  "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore 21 Elemental Energy and increase Elemental Mastery by 105 for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+                                                          "values":  [
+                                                                         "21",
+                                                                         "105"
+                                                                     ]
+                                                      },
+                                               "substatText":  "Elemental Mastery",
+                                               "weaponText":  "Claymore",
+                                               "name":  "Flame-Forged Insight",
+                                               "effectTemplateRaw":  "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e Elemental Energy and increase Elemental Mastery by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+                                               "r1":  {
+                                                          "description":  "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore 12 Elemental Energy and increase Elemental Mastery by 60 for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+                                                          "values":  [
+                                                                         "12",
+                                                                         "60"
+                                                                     ]
+                                                      },
+                                               "effectName":  "Mind in Bloom"
+                                           },
                     "theunforged":  {
                                         "r3":  {
                                                    "description":  "Increases Shield Strength by 30%. Scoring hits on opponents increases ATK by 6% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
@@ -14121,48 +14252,6 @@
                                                  },
                                           "effectName":  "Forest Sanctuary"
                                       },
-                    "cranesechoingcall":  {
-                                              "r3":  {
-                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 54% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
-                                                         "values":  [
-                                                                        "54%",
-                                                                        "3"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 80% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3.5 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
-                                                         "values":  [
-                                                                        "80%",
-                                                                        "3.5"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 41% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.75 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
-                                                         "values":  [
-                                                                        "41%",
-                                                                        "2.75"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 67% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3.25 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
-                                                         "values":  [
-                                                                        "67%",
-                                                                        "3.25"
-                                                                    ]
-                                                     },
-                                              "substatText":  "ATK",
-                                              "weaponText":  "Catalyst",
-                                              "name":  "Crane\u0027s Echoing Call",
-                                              "effectTemplateRaw":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
-                                              "r1":  {
-                                                         "description":  "After the equipping character hits an opponent with a Plunging Attack, all nearby party members\u0027 Plunging Attacks will deal 28% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.5 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
-                                                         "values":  [
-                                                                        "28%",
-                                                                        "2.5"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Cloudfall Axiom"
-                                          },
                     "rangegauge":  {
                                        "r3":  {
                                                   "description":  "When the wielder is healed or heals others, they will gain a Unity\u0027s Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Struggle effect will be granted for 10s. For each Symbol consumed, gain 5% ATK and 10% All Elemental DMG Bonus. The Struggle effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
@@ -15108,6 +15197,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "sacrificialbow":  {
+                                           "r3":  {
+                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s.",
+                                                      "values":  [
+                                                                     "60%",
+                                                                     "22s"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 80% chance to end its own CD. Can only occur once every 16s.",
+                                                      "values":  [
+                                                                     "80%",
+                                                                     "16s"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 50% chance to end its own CD. Can only occur once every 26s.",
+                                                      "values":  [
+                                                                     "50%",
+                                                                     "26"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 70% chance to end its own CD. Can only occur once every 19s.",
+                                                      "values":  [
+                                                                     "70%",
+                                                                     "19"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Energy Recharge",
+                                           "weaponText":  "Bow",
+                                           "name":  "Sacrificial Bow",
+                                           "effectTemplateRaw":  "After damaging an opponent with an Elemental Skill, the skill has a \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e chance to end its own CD. Can only occur once every \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                           "r1":  {
+                                                      "description":  "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s.",
+                                                      "values":  [
+                                                                     "40%",
+                                                                     "30"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Composed"
+                                       },
                     "dragonsbane":  {
                                         "r3":  {
                                                    "description":  "Increases DMG against opponents affected by Hydro or Pyro by 28%.",

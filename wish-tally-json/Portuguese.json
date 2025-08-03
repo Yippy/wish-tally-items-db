@@ -1586,6 +1586,9 @@
                       "concealedclaw":  {
                                             "name":  "Garra Escondida"
                                         },
+                      "drifterscrystalmarrow":  {
+                                                    "name":  "Medula de Cristal do Andarilho"
+                                                },
                       "vajradaamethystfragment":  {
                                                       "name":  "Fragmento de Ametista Vajrada"
                                                   },
@@ -2378,6 +2381,9 @@
                       "energynectar":  {
                                            "name":  "Néctar Elemental"
                                        },
+                      "mysteriousbolt":  {
+                                             "name":  "Parafuso Misterioso"
+                                         },
                       "deadleylineleaves":  {
                                                 "name":  "Folha Morta de Linha Ley"
                                             },
@@ -3377,47 +3383,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "Masculino"
                                     },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani, Força Total!",
-                                                                         "descriptionRaw":  "Ao entrar em Bênção do Espírito da Noite, Mualani obtém 2 acúmulos de Impulso da Onda de \u003ccolor=#FFD780FF\u003eTubarão Surfista das Ondas\u003c/color\u003e. Quando Mualani obtém um Flutuador, obtém 1 acúmulo de Impulso da Onda.\nAlém disso, quando Mualani obter 2 Flutuadores em uma instância de Bênção do Espírito da Noite, regenerará 12 pontos de Espírito da Noite em 2s. Esse efeito requer que o Talento Passivo \"Flutuador de Água Doce Antitérmico\" esteja desbloqueado.",
-                                                                         "description":  "Ao entrar em Bênção do Espírito da Noite, Mualani obtém 2 acúmulos de Impulso da Onda de Tubarão Surfista das Ondas. Quando Mualani obtém um Flutuador, obtém 1 acúmulo de Impulso da Onda.\nAlém disso, quando Mualani obter 2 Flutuadores em uma instância de Bênção do Espírito da Noite, regenerará 12 pontos de Espírito da Noite em 2s. Esse efeito requer que o Talento Passivo \"Flutuador de Água Doce Antitérmico\" esteja desbloqueado."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Tubarãozinho Come Flutuadorzinho",
-                                                                         "descriptionRaw":  "Mualani regenera 8 de Energia Elemental ao obter um Flutuador. Primeiro é necessário desbloquear o Talento Passivo \"Flutuador de Água Doce Antitérmico\".\nAlém disso, \u003ccolor=#FFD780FF\u003eDisparo da Tempestade Explosiva\u003c/color\u003e causa 75% a mais de Dano.",
-                                                                         "description":  "Mualani regenera 8 de Energia Elemental ao obter um Flutuador. Primeiro é necessário desbloquear o Talento Passivo \"Flutuador de Água Doce Antitérmico\".\nAlém disso, Disparo da Tempestade Explosiva causa 75% a mais de Dano."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surfando nos Mares Alegres",
-                                                                         "descriptionRaw":  "Aumenta o nível da \u003ccolor=#FFD780FF\u003eTubarão Surfista das Ondas\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
-                                                                         "description":  "Aumenta o nível da Tubarão Surfista das Ondas em 3.\nO nível máximo de elevação é 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Mesmo Modelo de Prancha com Desconto!",
-                                                                         "descriptionRaw":  "Aumenta o nível da \u003ccolor=#FFD780FF\u003eDisparo da Tempestade Explosiva\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
-                                                                         "description":  "Aumenta o nível da Disparo da Tempestade Explosiva em 3.\nO nível máximo de elevação é 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Espírito do Povo das Termas",
-                                                                         "descriptionRaw":  "Remove o limite original do efeito de aumento de Dano da Constelação \"O \u0027Meztli\u0027 Relaxado...\" só podia ser desencadeado uma vez por estado de Bênção do Espírito da Noite.",
-                                                                         "description":  "Remove o limite original do efeito de aumento de Dano da Constelação \"O \u0027Meztli\u0027 Relaxado...\" só podia ser desencadeado uma vez por estado de Bênção do Espírito da Noite."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "O \"Meztli\" Relaxado...",
-                                                                         "descriptionRaw":  "Depois de entrar na Bênção do Espírito da Noite, aumenta o Dano causado pela primeira vez que fizer Mordida do Tubarão Gigante e desencadear Míssil Tubarão. O valor do aumento de Dano é baseado em 66% da Vida Máxima de Mualani. Esse aumento de Dano está sujeito às regras de redução de Dano de \u003ccolor=#FFD780FF\u003eTubarão Surfista das Ondas\u003c/color\u003e.\nAlém disso, quando não estiver em combate, reduz o consumo de pontos de Espírito da Noite e Flogisto do estado Bênção do Espírito da Noite em 30%.",
-                                                                         "description":  "Depois de entrar na Bênção do Espírito da Noite, aumenta o Dano causado pela primeira vez que fizer Mordida do Tubarão Gigante e desencadear Míssil Tubarão. O valor do aumento de Dano é baseado em 66% da Vida Máxima de Mualani. Esse aumento de Dano está sujeito às regras de redução de Dano de Tubarão Surfista das Ondas.\nAlém disso, quando não estiver em combate, reduz o consumo de pontos de Espírito da Noite e Flogisto do estado Bênção do Espírito da Noite em 30%."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalisador",
-                                       "name":  "Mualani",
-                                       "substatText":  "Taxa Crítica",
-                                       "region":  "Natlan",
-                                       "gender":  "Feminino"
-                                   },
+                       "ineffa":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Módulo Auxiliar de Limpeza",
+                                                                        "descriptionRaw":  "Quando o Supremo \u003ccolor=#FFD780FF\u003e{LINK#S11165}Ordem Suprema: Exterminador Ciclônico{/LINK}\u003c/color\u003e atinge um inimigo, aplica nele o estado Édito Punitivo: depois de um certo tempo, ou quando esse inimigo for derrotado, causa 300% do ATQ de Ineffa como \u003ccolor=#FFACFFFF\u003eDano Electro em AdE\u003c/color\u003e contra os inimigos próximos. Esse Dano é considerado Dano de Carga Lunar.\nAlém disso, ao lançar o Supremo \u003ccolor=#FFD780FF\u003eOrdem Suprema: Exterminador Ciclônico\u003c/color\u003e, também concede um Escudo do Fluxo Óptico para o personagem ativo próximo da equipe.",
+                                                                        "description":  "Quando o Supremo **Ordem Suprema: Exterminador Ciclônico** atinge um inimigo, aplica nele o estado Édito Punitivo: depois de um certo tempo, ou quando esse inimigo for derrotado, causa 300% do ATQ de Ineffa como Dano Electro em AdE contra os inimigos próximos. Esse Dano é considerado Dano de Carga Lunar.\nAlém disso, ao lançar o Supremo Ordem Suprema: Exterminador Ciclônico, também concede um Escudo do Fluxo Óptico para o personagem ativo próximo da equipe."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Caminho Sem Éditos",
+                                                                        "descriptionRaw":  "Quando um membro da equipe desencadeia Carga Lunar, regenera 5 de Energia Elemental. Esse efeito pode ser ativado uma vez a cada 4s.",
+                                                                        "description":  "Quando um membro da equipe desencadeia Carga Lunar, regenera 5 de Energia Elemental. Esse efeito pode ser ativado uma vez a cada 4s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Emulador Melhorado de Emoções",
+                                                                        "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11162}Modo de Limpeza: Frequência Estável{/LINK}\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível da Habilidade Elemental **Modo de Limpeza: Frequência Estável** em 3 níveis. \nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Sonho do Espelho Transcendental",
+                                                                        "descriptionRaw":  "Aumenta o nível do Supremo \u003ccolor=#FFD780FF\u003e{LINK#S11165}{/LINK}Ordem Suprema: Exterminador Ciclônico\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível do Supremo ****Ordem Suprema: Exterminador Ciclônico em 3.\nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Uma Manhã Abençoada para Você",
+                                                                        "descriptionRaw":  "Quando Ineffa está sob o efeito Composto de Fluxo Carregador e a Nuvem Trovejante próxima realizar um ataque elétrico contra um inimigo, Ineffa causará 135% de seu ATQ como \u003ccolor=#FFACFFFF\u003eDano Electro em AdE\u003c/color\u003e contra os inimigos próximos ao redor do personagem ativo. Esse Dano é considerado Dano de Carga Lunar, e esse efeito pode ser desencadeado uma vez a cada 3.5s.",
+                                                                        "description":  "Quando Ineffa está sob o efeito Composto de Fluxo Carregador e a Nuvem Trovejante próxima realizar um ataque elétrico contra um inimigo, Ineffa causará 135% de seu ATQ como Dano Electro em AdE contra os inimigos próximos ao redor do personagem ativo. Esse Dano é considerado Dano de Carga Lunar, e esse efeito pode ser desencadeado uma vez a cada 3.5s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Processador Retificador",
+                                                                        "descriptionRaw":  "Quando Ineffa ativa seu Escudo do Fluxo Óptico, concede para todos os membros próximos da equipe o efeito \"Composto de Fluxo Carregador\" por 20s, aumentando o Dano causado por Carga Lunar com base no ATQ de Ineffa: cada 100 de ATQ aumentam o Dano em 2.5%. É possível aumentar o Dano até 50% dessa forma.",
+                                                                        "description":  "Quando Ineffa ativa seu Escudo do Fluxo Óptico, concede para todos os membros próximos da equipe o efeito \"Composto de Fluxo Carregador\" por 20s, aumentando o Dano causado por Carga Lunar com base no ATQ de Ineffa: cada 100 de ATQ aumentam o Dano em 2.5%. É possível aumentar o Dano até 50% dessa forma."
+                                                                    }
+                                                         },
+                                      "elementText":  "Electro",
+                                      "fullname":  null,
+                                      "weaponText":  "Lança",
+                                      "name":  "Ineffa",
+                                      "substatText":  "Taxa Crítica",
+                                      "region":  null,
+                                      "gender":  "Feminino"
+                                  },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3746,47 +3752,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Feminino"
                                   },
-                       "thoma":  {
-                                     "constellations":  {
-                                                            "c2":  {
-                                                                       "name":  "Servente Hábil",
-                                                                       "descriptionRaw":  "Aumenta a duração da \u003ccolor=#FFD780FF\u003eGrande Armadura Flamejante\u003c/color\u003e em 3s.",
-                                                                       "description":  "Aumenta a duração da Grande Armadura Flamejante em 3s."
-                                                                   },
-                                                            "c4":  {
-                                                                       "name":  "Plano a Longo Prazo",
-                                                                       "descriptionRaw":  "Após lançar \u003ccolor=#FFD780FF\u003eGrande Armadura Flamejante\u003c/color\u003e, Thoma regenerará 15 pontos de Energia Elemental.",
-                                                                       "description":  "Após lançar Grande Armadura Flamejante, Thoma regenerará 15 pontos de Energia Elemental."
-                                                                   },
-                                                            "c3":  {
-                                                                       "name":  "Vontade Resoluta",
-                                                                       "descriptionRaw":  "Aumenta o Nível da \u003ccolor=#FFD780FF\u003eProteção das Chamas do Destino\u003c/color\u003e em 3.\nO Nível máximo de elevação é 15.",
-                                                                       "description":  "Aumenta o Nível da Proteção das Chamas do Destino em 3.\nO Nível máximo de elevação é 15."
-                                                                   },
-                                                            "c5":  {
-                                                                       "name":  "Fogo Incontrolável",
-                                                                       "descriptionRaw":  "Aumenta o nível da \u003ccolor=#FFD780FF\u003eGrande Armadura Flamejante\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
-                                                                       "description":  "Aumenta o nível da Grande Armadura Flamejante em 3.\nO nível máximo de elevação é 15."
-                                                                   },
-                                                            "c6":  {
-                                                                       "name":  "Coração Fervoroso",
-                                                                       "descriptionRaw":  "Quando uma \u003ccolor=#FFD780FF\u003eBarreira Flamejante\u003c/color\u003e é obtida ou redefinida, o Dano causado por Ataques Normais, Carregados e Imersivos de todos os membros da equipe é aumentado em 15% por 6s.",
-                                                                       "description":  "Quando uma Barreira Flamejante é obtida ou redefinida, o Dano causado por Ataques Normais, Carregados e Imersivos de todos os membros da equipe é aumentado em 15% por 6s."
-                                                                   },
-                                                            "c1":  {
-                                                                       "name":  "O Dever de Um Amigo",
-                                                                       "descriptionRaw":  "Quando uma \u003ccolor=#FFD780FF\u003eBarreira Flamejante\u003c/color\u003e proteger contra Dano qualquer personagem que não seja Thoma, então a própria \u003ccolor=#FFD780FF\u003eProteção das Chamas do Destino\u003c/color\u003e dele irá diminuir seu Tempo de Recarga em 3s, enquanto sua própria \u003ccolor=#FFD780FF\u003eGrande Armadura Flamejante\u003c/color\u003e tem seu Tempo de Recarga reduzido em 3s.\nEste efeito pode ser desencadeado uma vez a cada 20s.",
-                                                                       "description":  "Quando uma Barreira Flamejante proteger contra Dano qualquer personagem que não seja Thoma, então a própria Proteção das Chamas do Destino dele irá diminuir seu Tempo de Recarga em 3s, enquanto sua própria Grande Armadura Flamejante tem seu Tempo de Recarga reduzido em 3s.\nEste efeito pode ser desencadeado uma vez a cada 20s."
-                                                                   }
-                                                        },
-                                     "elementText":  "Pyro",
-                                     "fullname":  null,
-                                     "weaponText":  "Lança",
-                                     "name":  "Thoma",
-                                     "substatText":  "ATQ",
-                                     "region":  "Inazuma",
-                                     "gender":  "Masculino"
-                                 },
+                       "lynette":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mistérios Infinitos",
+                                                                         "descriptionRaw":  "Quando a Caixa Surpresa Miau Miau de \u003ccolor=#FFD780FF\u003eMagia: Transformação Surpreendente\u003c/color\u003e dispara seu Feixe Colorido, disparará um Feixe Colorido adicional.",
+                                                                         "description":  "Quando a Caixa Surpresa Miau Miau de Magia: Transformação Surpreendente dispara seu Feixe Colorido, disparará um Feixe Colorido adicional."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Coordenação Tácita",
+                                                                         "descriptionRaw":  "Aumenta o número de usos de \u003ccolor=#FFD780FF\u003eBarreira das Sombras\u003c/color\u003e em 1.",
+                                                                         "description":  "Aumenta o número de usos de Barreira das Sombras em 1."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Fitar da Inversão Cognitiva",
+                                                                         "descriptionRaw":  "Aumenta o nível de \u003ccolor=#FFD780FF\u003eMagia: Transformação Surpreendente\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                         "description":  "Aumenta o nível de Magia: Transformação Surpreendente em 3.\nO nível máximo de elevação é 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Ambiguidade Obscura",
+                                                                         "descriptionRaw":  "Aumenta o nível de habilidade da \u003ccolor=#FFD780FF\u003eBarreira das Sombras\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
+                                                                         "description":  "Aumenta o nível de habilidade da Barreira das Sombras em 3 níveis. \nO nível máximo de elevação é 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Olho da Verdade",
+                                                                         "descriptionRaw":  "Quando Lynette lançar o Golpe das Sombras de \u003ccolor=#FFD780FF\u003eBarreira das Sombras\u003c/color\u003e, obterá um \u003ccolor=#80FFD7FF\u003eEncantamento Anemo\u003c/color\u003e e \u003ccolor=#80FFD7FF\u003eBônus de Dano Anemo\u003c/color\u003e de 20% por 6s.",
+                                                                         "description":  "Quando Lynette lançar o Golpe das Sombras de Barreira das Sombras, obterá um Encantamento Anemo e Bônus de Dano Anemo de 20% por 6s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Uma Lâmina Fria como a Água",
+                                                                         "descriptionRaw":  "Quando um Golpe das Sombras de \u003ccolor=#FFD780FF\u003eBarreira das Sombras\u003c/color\u003e atingir um inimigo com Marca da Sombra, gerará um redemoinho de vento na posição desse inimigo, atraindo continuamente os inimigos próximos.",
+                                                                         "description":  "Quando um Golpe das Sombras de Barreira das Sombras atingir um inimigo com Marca da Sombra, gerará um redemoinho de vento na posição desse inimigo, atraindo continuamente os inimigos próximos."
+                                                                     }
+                                                          },
+                                       "elementText":  "Anemo",
+                                       "fullname":  null,
+                                       "weaponText":  "Espada",
+                                       "name":  "Lynette",
+                                       "substatText":  "Bônus de Dano Anemo",
+                                       "region":  "Fontaine",
+                                       "gender":  "Feminino"
+                                   },
                        "yanfei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3837,8 +3843,8 @@
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Austeridade: Defesa Intimidante",
-                                                                      "descriptionRaw":  "Quando Cyno está no estado Juramento Desbravador de \u003ccolor=#FFD780FF\u003eRitual Sagrado: Agilidade Lupina\u003c/color\u003e, ao desencadear as reações Eletricamente Carregado, Supercondutor, Sobrecarga, Aceleração, Intensificação, Superflorescimento e Redemoinho Electro, regenerará 3 de Energia Elemental para todos os membros próximos da equipe (com exceção do próprio Cyno).\nEsse efeito pode ser desencadeado até 5 vezes por uso de \u003ccolor=#FFD780FF\u003eRitual Sagrado: Agilidade Lupina\u003c/color\u003e.",
-                                                                      "description":  "Quando Cyno está no estado Juramento Desbravador de Ritual Sagrado: Agilidade Lupina, ao desencadear as reações Eletricamente Carregado, Supercondutor, Sobrecarga, Aceleração, Intensificação, Superflorescimento e Redemoinho Electro, regenerará 3 de Energia Elemental para todos os membros próximos da equipe (com exceção do próprio Cyno).\nEsse efeito pode ser desencadeado até 5 vezes por uso de Ritual Sagrado: Agilidade Lupina."
+                                                                      "descriptionRaw":  "Quando Cyno está no estado Juramento Desbravador de \u003ccolor=#FFD780FF\u003eRitual Sagrado: Agilidade Lupina\u003c/color\u003e, ao desencadear as reações Eletricamente Carregado, Carga Lunar, Supercondutor, Sobrecarga, Aceleração, Intensificação, Superflorescimento e Redemoinho Electro, regenerará 3 de Energia Elemental para todos os membros próximos da equipe (com exceção do próprio Cyno).\nEsse efeito pode ser desencadeado até 5 vezes por uso de \u003ccolor=#FFD780FF\u003eRitual Sagrado: Agilidade Lupina\u003c/color\u003e.",
+                                                                      "description":  "Quando Cyno está no estado Juramento Desbravador de Ritual Sagrado: Agilidade Lupina, ao desencadear as reações Eletricamente Carregado, Carga Lunar, Supercondutor, Sobrecarga, Aceleração, Intensificação, Superflorescimento e Redemoinho Electro, regenerará 3 de Energia Elemental para todos os membros próximos da equipe (com exceção do próprio Cyno).\nEsse efeito pode ser desencadeado até 5 vezes por uso de Ritual Sagrado: Agilidade Lupina."
                                                                   },
                                                            "c3":  {
                                                                       "name":  "Édito: Punição da Lei",
@@ -4115,47 +4121,40 @@
                                      "region":  "Sumeru",
                                      "gender":  "Feminino"
                                  },
-                       "lynette":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mistérios Infinitos",
-                                                                         "descriptionRaw":  "Quando a Caixa Surpresa Miau Miau de \u003ccolor=#FFD780FF\u003eMagia: Transformação Surpreendente\u003c/color\u003e dispara seu Feixe Colorido, disparará um Feixe Colorido adicional.",
-                                                                         "description":  "Quando a Caixa Surpresa Miau Miau de Magia: Transformação Surpreendente dispara seu Feixe Colorido, disparará um Feixe Colorido adicional."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Coordenação Tácita",
-                                                                         "descriptionRaw":  "Aumenta o número de usos de \u003ccolor=#FFD780FF\u003eBarreira das Sombras\u003c/color\u003e em 1.",
-                                                                         "description":  "Aumenta o número de usos de Barreira das Sombras em 1."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Fitar da Inversão Cognitiva",
-                                                                         "descriptionRaw":  "Aumenta o nível de \u003ccolor=#FFD780FF\u003eMagia: Transformação Surpreendente\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
-                                                                         "description":  "Aumenta o nível de Magia: Transformação Surpreendente em 3.\nO nível máximo de elevação é 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Ambiguidade Obscura",
-                                                                         "descriptionRaw":  "Aumenta o nível de habilidade da \u003ccolor=#FFD780FF\u003eBarreira das Sombras\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
-                                                                         "description":  "Aumenta o nível de habilidade da Barreira das Sombras em 3 níveis. \nO nível máximo de elevação é 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Olho da Verdade",
-                                                                         "descriptionRaw":  "Quando Lynette lançar o Golpe das Sombras de \u003ccolor=#FFD780FF\u003eBarreira das Sombras\u003c/color\u003e, obterá um \u003ccolor=#80FFD7FF\u003eEncantamento Anemo\u003c/color\u003e e \u003ccolor=#80FFD7FF\u003eBônus de Dano Anemo\u003c/color\u003e de 20% por 6s.",
-                                                                         "description":  "Quando Lynette lançar o Golpe das Sombras de Barreira das Sombras, obterá um Encantamento Anemo e Bônus de Dano Anemo de 20% por 6s."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Uma Lâmina Fria como a Água",
-                                                                         "descriptionRaw":  "Quando um Golpe das Sombras de \u003ccolor=#FFD780FF\u003eBarreira das Sombras\u003c/color\u003e atingir um inimigo com Marca da Sombra, gerará um redemoinho de vento na posição desse inimigo, atraindo continuamente os inimigos próximos.",
-                                                                         "description":  "Quando um Golpe das Sombras de Barreira das Sombras atingir um inimigo com Marca da Sombra, gerará um redemoinho de vento na posição desse inimigo, atraindo continuamente os inimigos próximos."
-                                                                     }
-                                                          },
-                                       "elementText":  "Anemo",
-                                       "fullname":  null,
-                                       "weaponText":  "Espada",
-                                       "name":  "Lynette",
-                                       "substatText":  "Bônus de Dano Anemo",
-                                       "region":  "Fontaine",
-                                       "gender":  "Feminino"
-                                   },
+                       "travelerhydro":  {
+                                             "constellations":  {
+                                                                    "c2":  {
+                                                                               "name":  "Pureza Fluente",
+                                                                               "descriptionRaw":  "Reduz a velocidade da Bolha Aquática de \u003ccolor=#FFD780FF\u003eMaré Ascendente\u003c/color\u003e em 30% e prolonga sua duração por 3s.",
+                                                                               "description":  "Reduz a velocidade da Bolha Aquática de Maré Ascendente em 30% e prolonga sua duração por 3s."
+                                                                           },
+                                                                    "c4":  {
+                                                                               "name":  "Descida Jorrante",
+                                                                               "descriptionRaw":  "#Ao lançar \u003ccolor=#FFD780FF\u003eSabre da Insígnia Aquática\u003c/color\u003e, gerará um Escudo da Insígnia Aquática que absorverá o equivalente a 10% da Vida Máxima, e possui eficácia de 250% contra \u003ccolor=#80C0FFFF\u003eDano Hydro\u003c/color\u003e, ele persistirá até terminar de lançar a habilidade.\nA cada 2s, depois que a Gota de Orvalho atingir um inimigo, se {F#a}{M#o} Viajante estiver sob a proteção de um Escudo da Insígnia Aquática, recuperará o poder de absorção de Dano do escudo em até 10% da Vida Máxima d{F#a}{M#o} Viajante. Se não estiver sob a proteção do Escudo da Insígnia Aquática, gerará um novo escudo.",
+                                                                               "description":  "Ao lançar Sabre da Insígnia Aquática, gerará um Escudo da Insígnia Aquática que absorverá o equivalente a 10% da Vida Máxima, e possui eficácia de 250% contra Dano Hydro, ele persistirá até terminar de lançar a habilidade.\nA cada 2s, depois que a Gota de Orvalho atingir um inimigo, se o Viajante estiver sob a proteção de um Escudo da Insígnia Aquática, recuperará o poder de absorção de Dano do escudo em até 10% da Vida Máxima do Viajante. Se não estiver sob a proteção do Escudo da Insígnia Aquática, gerará um novo escudo."
+                                                                           },
+                                                                    "c3":  {
+                                                                               "name":  "Ondas Furiosas",
+                                                                               "descriptionRaw":  "Aumenta o nível de \u003ccolor=#FFD780FF\u003eSabre da Insígnia Aquática\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                               "description":  "Aumenta o nível de Sabre da Insígnia Aquática em 3.\nO nível máximo de elevação é 15."
+                                                                           },
+                                                                    "c5":  {
+                                                                               "name":  "Redemoinho Aquático",
+                                                                               "descriptionRaw":  "Aumenta o nível de \u003ccolor=#FFD780FF\u003eMaré Ascendente\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                               "description":  "Aumenta o nível de Maré Ascendente em 3.\nO nível máximo de elevação é 15."
+                                                                           },
+                                                                    "c6":  {
+                                                                               "name":  "Água da Justiça",
+                                                                               "descriptionRaw":  "#Quando {F#a}{M#o} Viajante pega uma Gota d\u0027Água Primordial, regenerará 6% da Vida Máxima para o personagem da equipe próximo com menor porcentagem de Vida restante.",
+                                                                               "description":  "Quando o Viajante pega uma Gota d\u0027Água Primordial, regenerará 6% da Vida Máxima para o personagem da equipe próximo com menor porcentagem de Vida restante."
+                                                                           },
+                                                                    "c1":  {
+                                                                               "name":  "Lago Emergente",
+                                                                               "descriptionRaw":  "#Depois de pegar uma Gota d\u0027Água Primordial, {F#a}{M#o} Viajante recuperará 2 de Energia Elemental.\nÉ necessário ter desbloqueado o talento passivo \"Águas Puras\".",
+                                                                               "description":  "Depois de pegar uma Gota d\u0027Água Primordial, o Viajante recuperará 2 de Energia Elemental.\nÉ necessário ter desbloqueado o talento passivo \"Águas Puras\"."
+                                                                           }
+                                                                }
+                                         },
                        "kujousara":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -4361,6 +4360,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Masculino"
                                   },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani, Força Total!",
+                                                                         "descriptionRaw":  "Ao entrar em Bênção do Espírito da Noite, Mualani obtém 2 acúmulos de Impulso da Onda de \u003ccolor=#FFD780FF\u003eTubarão Surfista das Ondas\u003c/color\u003e. Quando Mualani obtém um Flutuador, obtém 1 acúmulo de Impulso da Onda.\nAlém disso, quando Mualani obter 2 Flutuadores em uma instância de Bênção do Espírito da Noite, regenerará 12 pontos de Espírito da Noite em 2s. Esse efeito requer que o Talento Passivo \"Flutuador de Água Doce Antitérmico\" esteja desbloqueado.",
+                                                                         "description":  "Ao entrar em Bênção do Espírito da Noite, Mualani obtém 2 acúmulos de Impulso da Onda de Tubarão Surfista das Ondas. Quando Mualani obtém um Flutuador, obtém 1 acúmulo de Impulso da Onda.\nAlém disso, quando Mualani obter 2 Flutuadores em uma instância de Bênção do Espírito da Noite, regenerará 12 pontos de Espírito da Noite em 2s. Esse efeito requer que o Talento Passivo \"Flutuador de Água Doce Antitérmico\" esteja desbloqueado."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Tubarãozinho Come Flutuadorzinho",
+                                                                         "descriptionRaw":  "Mualani regenera 8 de Energia Elemental ao obter um Flutuador. Primeiro é necessário desbloquear o Talento Passivo \"Flutuador de Água Doce Antitérmico\".\nAlém disso, \u003ccolor=#FFD780FF\u003eDisparo da Tempestade Explosiva\u003c/color\u003e causa 75% a mais de Dano.",
+                                                                         "description":  "Mualani regenera 8 de Energia Elemental ao obter um Flutuador. Primeiro é necessário desbloquear o Talento Passivo \"Flutuador de Água Doce Antitérmico\".\nAlém disso, Disparo da Tempestade Explosiva causa 75% a mais de Dano."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surfando nos Mares Alegres",
+                                                                         "descriptionRaw":  "Aumenta o nível da \u003ccolor=#FFD780FF\u003eTubarão Surfista das Ondas\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                         "description":  "Aumenta o nível da Tubarão Surfista das Ondas em 3.\nO nível máximo de elevação é 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Mesmo Modelo de Prancha com Desconto!",
+                                                                         "descriptionRaw":  "Aumenta o nível da \u003ccolor=#FFD780FF\u003eDisparo da Tempestade Explosiva\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                         "description":  "Aumenta o nível da Disparo da Tempestade Explosiva em 3.\nO nível máximo de elevação é 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Espírito do Povo das Termas",
+                                                                         "descriptionRaw":  "Remove o limite original do efeito de aumento de Dano da Constelação \"O \u0027Meztli\u0027 Relaxado...\" só podia ser desencadeado uma vez por estado de Bênção do Espírito da Noite.",
+                                                                         "description":  "Remove o limite original do efeito de aumento de Dano da Constelação \"O \u0027Meztli\u0027 Relaxado...\" só podia ser desencadeado uma vez por estado de Bênção do Espírito da Noite."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "O \"Meztli\" Relaxado...",
+                                                                         "descriptionRaw":  "Depois de entrar na Bênção do Espírito da Noite, aumenta o Dano causado pela primeira vez que fizer Mordida do Tubarão Gigante e desencadear Míssil Tubarão. O valor do aumento de Dano é baseado em 66% da Vida Máxima de Mualani. Esse aumento de Dano está sujeito às regras de redução de Dano de \u003ccolor=#FFD780FF\u003eTubarão Surfista das Ondas\u003c/color\u003e.\nAlém disso, quando não estiver em combate, reduz o consumo de pontos de Espírito da Noite e Flogisto do estado Bênção do Espírito da Noite em 30%.",
+                                                                         "description":  "Depois de entrar na Bênção do Espírito da Noite, aumenta o Dano causado pela primeira vez que fizer Mordida do Tubarão Gigante e desencadear Míssil Tubarão. O valor do aumento de Dano é baseado em 66% da Vida Máxima de Mualani. Esse aumento de Dano está sujeito às regras de redução de Dano de Tubarão Surfista das Ondas.\nAlém disso, quando não estiver em combate, reduz o consumo de pontos de Espírito da Noite e Flogisto do estado Bênção do Espírito da Noite em 30%."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalisador",
+                                       "name":  "Mualani",
+                                       "substatText":  "Taxa Crítica",
+                                       "region":  "Natlan",
+                                       "gender":  "Feminino"
+                                   },
                        "collei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5549,40 +5589,6 @@
                                       "region":  "Fontaine",
                                       "gender":  "Feminino"
                                   },
-                       "travelerhydro":  {
-                                             "constellations":  {
-                                                                    "c2":  {
-                                                                               "name":  "Pureza Fluente",
-                                                                               "descriptionRaw":  "Reduz a velocidade da Bolha Aquática de \u003ccolor=#FFD780FF\u003eMaré Ascendente\u003c/color\u003e em 30% e prolonga sua duração por 3s.",
-                                                                               "description":  "Reduz a velocidade da Bolha Aquática de Maré Ascendente em 30% e prolonga sua duração por 3s."
-                                                                           },
-                                                                    "c4":  {
-                                                                               "name":  "Descida Jorrante",
-                                                                               "descriptionRaw":  "#Ao lançar \u003ccolor=#FFD780FF\u003eSabre da Insígnia Aquática\u003c/color\u003e, gerará um Escudo da Insígnia Aquática que absorverá o equivalente a 10% da Vida Máxima, e possui eficácia de 250% contra \u003ccolor=#80C0FFFF\u003eDano Hydro\u003c/color\u003e, ele persistirá até terminar de lançar a habilidade.\nA cada 2s, depois que a Gota de Orvalho atingir um inimigo, se {F#a}{M#o} Viajante estiver sob a proteção de um Escudo da Insígnia Aquática, recuperará o poder de absorção de Dano do escudo em até 10% da Vida Máxima d{F#a}{M#o} Viajante. Se não estiver sob a proteção do Escudo da Insígnia Aquática, gerará um novo escudo.",
-                                                                               "description":  "Ao lançar Sabre da Insígnia Aquática, gerará um Escudo da Insígnia Aquática que absorverá o equivalente a 10% da Vida Máxima, e possui eficácia de 250% contra Dano Hydro, ele persistirá até terminar de lançar a habilidade.\nA cada 2s, depois que a Gota de Orvalho atingir um inimigo, se o Viajante estiver sob a proteção de um Escudo da Insígnia Aquática, recuperará o poder de absorção de Dano do escudo em até 10% da Vida Máxima do Viajante. Se não estiver sob a proteção do Escudo da Insígnia Aquática, gerará um novo escudo."
-                                                                           },
-                                                                    "c3":  {
-                                                                               "name":  "Ondas Furiosas",
-                                                                               "descriptionRaw":  "Aumenta o nível de \u003ccolor=#FFD780FF\u003eSabre da Insígnia Aquática\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
-                                                                               "description":  "Aumenta o nível de Sabre da Insígnia Aquática em 3.\nO nível máximo de elevação é 15."
-                                                                           },
-                                                                    "c5":  {
-                                                                               "name":  "Redemoinho Aquático",
-                                                                               "descriptionRaw":  "Aumenta o nível de \u003ccolor=#FFD780FF\u003eMaré Ascendente\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
-                                                                               "description":  "Aumenta o nível de Maré Ascendente em 3.\nO nível máximo de elevação é 15."
-                                                                           },
-                                                                    "c6":  {
-                                                                               "name":  "Água da Justiça",
-                                                                               "descriptionRaw":  "#Quando {F#a}{M#o} Viajante pega uma Gota d\u0027Água Primordial, regenerará 6% da Vida Máxima para o personagem da equipe próximo com menor porcentagem de Vida restante.",
-                                                                               "description":  "Quando o Viajante pega uma Gota d\u0027Água Primordial, regenerará 6% da Vida Máxima para o personagem da equipe próximo com menor porcentagem de Vida restante."
-                                                                           },
-                                                                    "c1":  {
-                                                                               "name":  "Lago Emergente",
-                                                                               "descriptionRaw":  "#Depois de pegar uma Gota d\u0027Água Primordial, {F#a}{M#o} Viajante recuperará 2 de Energia Elemental.\nÉ necessário ter desbloqueado o talento passivo \"Águas Puras\".",
-                                                                               "description":  "Depois de pegar uma Gota d\u0027Água Primordial, o Viajante recuperará 2 de Energia Elemental.\nÉ necessário ter desbloqueado o talento passivo \"Águas Puras\"."
-                                                                           }
-                                                                }
-                                         },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6276,6 +6282,47 @@
                                     "region":  "Liyue",
                                     "gender":  "Masculino"
                                 },
+                       "thoma":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Servente Hábil",
+                                                                       "descriptionRaw":  "Aumenta a duração da \u003ccolor=#FFD780FF\u003eGrande Armadura Flamejante\u003c/color\u003e em 3s.",
+                                                                       "description":  "Aumenta a duração da Grande Armadura Flamejante em 3s."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Plano a Longo Prazo",
+                                                                       "descriptionRaw":  "Após lançar \u003ccolor=#FFD780FF\u003eGrande Armadura Flamejante\u003c/color\u003e, Thoma regenerará 15 pontos de Energia Elemental.",
+                                                                       "description":  "Após lançar Grande Armadura Flamejante, Thoma regenerará 15 pontos de Energia Elemental."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Vontade Resoluta",
+                                                                       "descriptionRaw":  "Aumenta o Nível da \u003ccolor=#FFD780FF\u003eProteção das Chamas do Destino\u003c/color\u003e em 3.\nO Nível máximo de elevação é 15.",
+                                                                       "description":  "Aumenta o Nível da Proteção das Chamas do Destino em 3.\nO Nível máximo de elevação é 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Fogo Incontrolável",
+                                                                       "descriptionRaw":  "Aumenta o nível da \u003ccolor=#FFD780FF\u003eGrande Armadura Flamejante\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                       "description":  "Aumenta o nível da Grande Armadura Flamejante em 3.\nO nível máximo de elevação é 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Coração Fervoroso",
+                                                                       "descriptionRaw":  "Quando uma \u003ccolor=#FFD780FF\u003eBarreira Flamejante\u003c/color\u003e é obtida ou redefinida, o Dano causado por Ataques Normais, Carregados e Imersivos de todos os membros da equipe é aumentado em 15% por 6s.",
+                                                                       "description":  "Quando uma Barreira Flamejante é obtida ou redefinida, o Dano causado por Ataques Normais, Carregados e Imersivos de todos os membros da equipe é aumentado em 15% por 6s."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "O Dever de Um Amigo",
+                                                                       "descriptionRaw":  "Quando uma \u003ccolor=#FFD780FF\u003eBarreira Flamejante\u003c/color\u003e proteger contra Dano qualquer personagem que não seja Thoma, então a própria \u003ccolor=#FFD780FF\u003eProteção das Chamas do Destino\u003c/color\u003e dele irá diminuir seu Tempo de Recarga em 3s, enquanto sua própria \u003ccolor=#FFD780FF\u003eGrande Armadura Flamejante\u003c/color\u003e tem seu Tempo de Recarga reduzido em 3s.\nEste efeito pode ser desencadeado uma vez a cada 20s.",
+                                                                       "description":  "Quando uma Barreira Flamejante proteger contra Dano qualquer personagem que não seja Thoma, então a própria Proteção das Chamas do Destino dele irá diminuir seu Tempo de Recarga em 3s, enquanto sua própria Grande Armadura Flamejante tem seu Tempo de Recarga reduzido em 3s.\nEste efeito pode ser desencadeado uma vez a cada 20s."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Lança",
+                                     "name":  "Thoma",
+                                     "substatText":  "ATQ",
+                                     "region":  "Inazuma",
+                                     "gender":  "Masculino"
+                                 },
                        "venti":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6756,8 +6803,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Profecia da Submersão",
-                                                                      "descriptionRaw":  "Os efeitos de \u003ccolor=#80C0FFFF\u003eReações Elementais relacionadas a Hydro\u003c/color\u003e agora são aprimorados por 8 segundos depois que o seu próprio personagem de equipe atingir um inimigo afetado por um Presságio:\n Dano Eletricamente Carregado é aumentado em 15%.\n Dano de Vaporizar é aumentado em 15%.\n Dano de Redemoinho é aumentado em 15%.\nA duração em que os inimigos ficam Congelados é aumentada em 15%.",
-                                                                      "description":  "Os efeitos de Reações Elementais relacionadas a Hydro agora são aprimorados por 8 segundos depois que o seu próprio personagem de equipe atingir um inimigo afetado por um Presságio:\n Dano Eletricamente Carregado é aumentado em 15%.\n Dano de Vaporizar é aumentado em 15%.\n Dano de Redemoinho é aumentado em 15%.\nA duração em que os inimigos ficam Congelados é aumentada em 15%."
+                                                                      "descriptionRaw":  "Nos 8s após o personagem da equipe atingir um inimigo afetado por Presságio, aumenta os efeitos \u003ccolor=#80C0FFFF\u003erelacionados ao Hydro\u003c/color\u003e:\n· Dano Eletricamente Carregado é aumentado em 15%. Dano Carga Lunar é aumentado em 15%. Dano de Vaporizar é aumentado em 15%. Dano de Redemoinho é aumentado em 15%.\n· A duração em que os inimigos ficam Congelados é aumentada em 15%.",
+                                                                      "description":  "Nos 8s após o personagem da equipe atingir um inimigo afetado por Presságio, aumenta os efeitos relacionados ao Hydro:\n· Dano Eletricamente Carregado é aumentado em 15%. Dano Carga Lunar é aumentado em 15%. Dano de Vaporizar é aumentado em 15%. Dano de Redemoinho é aumentado em 15%.\n· A duração em que os inimigos ficam Congelados é aumentada em 15%."
                                                                   }
                                                        },
                                     "elementText":  "Hydro",
@@ -7344,25 +7391,25 @@
                                             },
                     "darkironsword":  {
                                           "r3":  {
-                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho de Electro, o ATQ é aumentado em 30% por 12s.",
+                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 30% por 12s.",
                                                      "values":  [
                                                                     "30%"
                                                                 ]
                                                  },
                                           "r5":  {
-                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho com Electro, o ATQ é aumentado em 40% por 12s.",
+                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 40% por 12s.",
                                                      "values":  [
                                                                     "40%"
                                                                 ]
                                                  },
                                           "r2":  {
-                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho de Electro, o ATQ é aumentado em 25% por 12s.",
+                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 25% por 12s.",
                                                      "values":  [
                                                                     "25%"
                                                                 ]
                                                  },
                                           "r4":  {
-                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho de Electro, o ATQ é aumentado em 35% por 12s.",
+                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 35% por 12s.",
                                                      "values":  [
                                                                     "35%"
                                                                 ]
@@ -7370,9 +7417,9 @@
                                           "substatText":  "Proficiência Elemental",
                                           "weaponText":  "Espada",
                                           "name":  "Espada de Ferro Negro",
-                                          "effectTemplateRaw":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho com Electro, o ATQ é aumentado em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 12s.",
+                                          "effectTemplateRaw":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 12s.",
                                           "r1":  {
-                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho de Electro, o ATQ é aumentado em 20% por 12s.",
+                                                     "description":  "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento, Carga Lunar ou Redemoinho de Electro, o ATQ é aumentado em 20% por 12s.",
                                                      "values":  [
                                                                     "20%"
                                                                 ]
@@ -8176,25 +8223,25 @@
                                      },
                     "emeraldorb":  {
                                        "r3":  {
-                                                  "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em 30% por 12s.",
+                                                  "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 30% por 12s.",
                                                   "values":  [
                                                                  "30%"
                                                              ]
                                               },
                                        "r5":  {
-                                                  "description":  "Após causar uma reação elemental de Vaporizar, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho com Hydro, o ATQ é aumentado em 40% por 12s.",
+                                                  "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 40% por 12s.",
                                                   "values":  [
                                                                  "40%"
                                                              ]
                                               },
                                        "r2":  {
-                                                  "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em 25% por 12s.",
+                                                  "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 25% por 12s.",
                                                   "values":  [
                                                                  "25%"
                                                              ]
                                               },
                                        "r4":  {
-                                                  "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em 35% por 12s.",
+                                                  "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 35% por 12s.",
                                                   "values":  [
                                                                  "35%"
                                                              ]
@@ -8202,9 +8249,9 @@
                                        "substatText":  "Proficiência Elemental",
                                        "weaponText":  "Catalisador",
                                        "name":  "Orbe de Esmeralda",
-                                       "effectTemplateRaw":  "Após causar uma reação elemental de Vaporizar, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho com Hydro, o ATQ é aumentado em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 12s.",
+                                       "effectTemplateRaw":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar ou Redemoinho de Hydro, o ATQ é aumentado em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 12s.",
                                        "r1":  {
-                                                  "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em 20% por 12s.",
+                                                  "description":  "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento, Carga Lunar ou Redemoinho de Hydro, o ATQ é aumentado em 20% por 12s.",
                                                   "values":  [
                                                                  "20%"
                                                              ]
@@ -8295,6 +8342,48 @@
                                                },
                                         "effectName":  "Axioma de Millelith: Unidade"
                                     },
+                    "wavebreakersfin":  {
+                                            "r3":  {
+                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.18% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 60%.",
+                                                       "values":  [
+                                                                      "0.18%",
+                                                                      "60%"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.24% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 80%.",
+                                                       "values":  [
+                                                                      "0.24%",
+                                                                      "80%"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.15% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 50%.",
+                                                       "values":  [
+                                                                      "0.15%",
+                                                                      "50%"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.21% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 70%.",
+                                                       "values":  [
+                                                                      "0.21%",
+                                                                      "70%"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ATQ",
+                                            "weaponText":  "Lança",
+                                            "name":  "Barbatana do Quebra Ondas",
+                                            "effectTemplateRaw":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                            "r1":  {
+                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.12% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 40%.",
+                                                       "values":  [
+                                                                      "0.12%",
+                                                                      "40%"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Dominadora de Ondas Watatsumi"
+                                        },
                     "aquasimulacra":  {
                                           "r3":  {
                                                      "description":  "Aumenta a Vida em 24%. Se existirem inimigos próximos, o personagem que tem esta arma equipada terá um aumento de Dano de 30%, independentemente do personagem estar ativo no campo de batalha ou não.",
@@ -9225,48 +9314,48 @@
                                                          },
                                                   "effectName":  "Conduta do Samurai"
                                               },
-                    "sacrificialbow":  {
-                                           "r3":  {
-                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 60% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 22 segundos.",
-                                                      "values":  [
-                                                                     "60%",
-                                                                     "22"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 80% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 16 segundos.",
-                                                      "values":  [
-                                                                     "80%",
-                                                                     "16"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 50% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 26 segundos.",
-                                                      "values":  [
-                                                                     "50%",
-                                                                     "26"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 70% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 19 segundos.",
-                                                      "values":  [
-                                                                     "70%",
-                                                                     "19"
-                                                                 ]
-                                                  },
-                                           "substatText":  "Recarga de Energia",
-                                           "weaponText":  "Arco",
-                                           "name":  "Arco do Sacrifício",
-                                           "effectTemplateRaw":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e segundos.",
-                                           "r1":  {
-                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 40% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 30 segundos.",
-                                                      "values":  [
-                                                                     "40%",
-                                                                     "30"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Composto"
-                                       },
+                    "cranesechoingcall":  {
+                                              "r3":  {
+                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 54% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 3 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
+                                                         "values":  [
+                                                                        "54%",
+                                                                        "3"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 80% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 3.5 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
+                                                         "values":  [
+                                                                        "80%",
+                                                                        "3.5"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 41% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 2.75 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
+                                                         "values":  [
+                                                                        "41%",
+                                                                        "2.75"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 67% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 3.25 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
+                                                         "values":  [
+                                                                        "67%",
+                                                                        "3.25"
+                                                                    ]
+                                                     },
+                                              "substatText":  "ATQ",
+                                              "weaponText":  "Catalisador",
+                                              "name":  "Chamado Ecoante da Garça",
+                                              "effectTemplateRaw":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
+                                              "r1":  {
+                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 28% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 2.5 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
+                                                         "values":  [
+                                                                        "28%",
+                                                                        "2.5"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Axioma da Queda da Nuvem"
+                                          },
                     "rainslasher":  {
                                         "r3":  {
                                                    "description":  "Aumenta o Dano contra inimigos afetados por Hydro ou Electro em 28%.",
@@ -9558,6 +9647,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "fracturedhalo":  {
+                                          "r3":  {
+                                                     "description":  "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 36%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe 60%.",
+                                                     "values":  [
+                                                                    "36%",
+                                                                    "60%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 48%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe 80%.",
+                                                     "values":  [
+                                                                    "48%",
+                                                                    "80%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 30%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe 50%.",
+                                                     "values":  [
+                                                                    "30%",
+                                                                    "50%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 42%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe 70%.",
+                                                     "values":  [
+                                                                    "42%",
+                                                                    "70%"
+                                                                ]
+                                                 },
+                                          "substatText":  "Dano Crítico",
+                                          "weaponText":  "Lança",
+                                          "name":  "Resplendor Fragmentado",
+                                          "effectTemplateRaw":  "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                          "r1":  {
+                                                     "description":  "Nos 20s depois de lançar a Habilidade Elemental ou o Supremo, aumenta o ATQ em 24%. Nesse período, se o personagem que está com essa arma equipada criar um escudo, obterá o efeito Corrente das Ordens Sagradas nos 20s seguintes: aumenta o Dano de Carga Lunar de todos os membros próximos da equipe 40%.",
+                                                     "values":  [
+                                                                    "24%",
+                                                                    "40%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Coroa de Jade Gelado"
+                                      },
                     "sapwoodblade":  {
                                          "r3":  {
                                                     "description":  "Após desencadear Queimaduras, Aceleração, Intensificação, Propagação, Florescimento, Superflorescimento ou Germinação, uma Folha da Consciência será criada em volta do personagem por no máximo 10s. Quando coletada, a Folha da Consciência aumentará a Proficiência Elemental do personagem em 90 por 12s. Apenas 1 Folha pode ser criada dessa forma a cada 20s. Esse efeito ainda pode ser desencadeado mesmo se o personagem não estiver em campo. O efeito da Folha da Consciência não pode ser acumulado.",
@@ -11381,48 +11512,48 @@
                                                   },
                                            "effectName":  "Brilho Abismal"
                                        },
-                    "wavebreakersfin":  {
-                                            "r3":  {
-                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.18% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 60%.",
-                                                       "values":  [
-                                                                      "0.18%",
-                                                                      "60%"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.24% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 80%.",
-                                                       "values":  [
-                                                                      "0.24%",
-                                                                      "80%"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.15% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 50%.",
-                                                       "values":  [
-                                                                      "0.15%",
-                                                                      "50%"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.21% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 70%.",
-                                                       "values":  [
-                                                                      "0.21%",
-                                                                      "70%"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ATQ",
-                                            "weaponText":  "Lança",
-                                            "name":  "Barbatana do Quebra Ondas",
-                                            "effectTemplateRaw":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
-                                            "r1":  {
-                                                       "description":  "O Personagem que usar esta arma terá um aumento do Dano do Supremo de 0.12% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de 40%.",
-                                                       "values":  [
-                                                                      "0.12%",
-                                                                      "40%"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Dominadora de Ondas Watatsumi"
-                                        },
+                    "flameforgedinsight":  {
+                                               "r3":  {
+                                                          "description":  "Ao desencadear Eletricamente Carregado, Carga Lunar ou Florescimento, regenera 18 de Energia Elemental, e aumenta a Proficiência Elemental em 90 pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha.",
+                                                          "values":  [
+                                                                         "18",
+                                                                         "90"
+                                                                     ]
+                                                      },
+                                               "r5":  {
+                                                          "description":  "Ao desencadear Eletricamente Carregado, Carga Lunar ou Florescimento, regenera 24 de Energia Elemental, e aumenta a Proficiência Elemental em 120 pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha.",
+                                                          "values":  [
+                                                                         "24",
+                                                                         "120"
+                                                                     ]
+                                                      },
+                                               "r2":  {
+                                                          "description":  "Ao desencadear Eletricamente Carregado, Carga Lunar ou Florescimento, regenera 15 de Energia Elemental, e aumenta a Proficiência Elemental em 75 pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha.",
+                                                          "values":  [
+                                                                         "15",
+                                                                         "75"
+                                                                     ]
+                                                      },
+                                               "r4":  {
+                                                          "description":  "Ao desencadear Eletricamente Carregado, Carga Lunar ou Florescimento, regenera 21 de Energia Elemental, e aumenta a Proficiência Elemental em 105 pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha.",
+                                                          "values":  [
+                                                                         "21",
+                                                                         "105"
+                                                                     ]
+                                                      },
+                                               "substatText":  "Proficiência Elemental",
+                                               "weaponText":  "Espadão",
+                                               "name":  "Forja da Sabedoria",
+                                               "effectTemplateRaw":  "Ao desencadear Eletricamente Carregado, Carga Lunar ou Florescimento, regenera \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de Energia Elemental, e aumenta a Proficiência Elemental em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha.",
+                                               "r1":  {
+                                                          "description":  "Ao desencadear Eletricamente Carregado, Carga Lunar ou Florescimento, regenera 12 de Energia Elemental, e aumenta a Proficiência Elemental em 60 pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha.",
+                                                          "values":  [
+                                                                         "12",
+                                                                         "60"
+                                                                     ]
+                                                      },
+                                               "effectName":  "Pensamentos de Florescimento"
+                                           },
                     "theunforged":  {
                                         "r3":  {
                                                    "description":  "Aumenta a força do Escudo em 30%. Acertar ataques em inimigos aumenta o ataque em 6% por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%.",
@@ -14090,48 +14221,6 @@
                                                  },
                                           "effectName":  "Bênção da Floresta"
                                       },
-                    "cranesechoingcall":  {
-                                              "r3":  {
-                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 54% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 3 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
-                                                         "values":  [
-                                                                        "54%",
-                                                                        "3"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 80% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 3.5 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
-                                                         "values":  [
-                                                                        "80%",
-                                                                        "3.5"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 41% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 2.75 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
-                                                         "values":  [
-                                                                        "41%",
-                                                                        "2.75"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 67% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 3.25 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
-                                                         "values":  [
-                                                                        "67%",
-                                                                        "3.25"
-                                                                    ]
-                                                     },
-                                              "substatText":  "ATQ",
-                                              "weaponText":  "Catalisador",
-                                              "name":  "Chamado Ecoante da Garça",
-                                              "effectTemplateRaw":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
-                                              "r1":  {
-                                                         "description":  "Após o personagem que está com essa arma equipada atingir um inimigo com um Ataque Imersivo, aumenta o Dano do Ataque Imersivo de todos os membros próximos da equipe em 28% por 20s. Quando o Ataque Imersivo dos personagens próximos atinge um inimigo, regenera 2.5 de Energia Elemental para o personagem que está com essa arma equipada. É possível regenerar Energia Elemental uma vez a cada 0.7s dessa forma. O personagem que está com essa arma equipada pode regenerar Energia Elemental mesmo não estando ativo no campo de batalha.",
-                                                         "values":  [
-                                                                        "28%",
-                                                                        "2.5"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Axioma da Queda da Nuvem"
-                                          },
                     "rangegauge":  {
                                        "r3":  {
                                                   "description":  "Quando é curado ou cura, concede o Sinal da União por 30s, é possível acumular 3 Sinais da União. Ao lançar uma Habilidade Elemental ou Supremo, consome todos os Sinais da União e gera por 10s o efeito \"Resistência\": para cada Sinal da União consumido, aumenta o ATQ em 5% e o Bônus de Dano Elemental em 10%. É possível desencadear o efeito \"Resistência\" uma vez a cada 15s. Também é possível obter o Sinal da União quando o personagem não está ativo no campo de batalha.",
@@ -15077,6 +15166,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "sacrificialbow":  {
+                                           "r3":  {
+                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 60% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 22 segundos.",
+                                                      "values":  [
+                                                                     "60%",
+                                                                     "22"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 80% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 16 segundos.",
+                                                      "values":  [
+                                                                     "80%",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 50% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 26 segundos.",
+                                                      "values":  [
+                                                                     "50%",
+                                                                     "26"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 70% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 19 segundos.",
+                                                      "values":  [
+                                                                     "70%",
+                                                                     "19"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Recarga de Energia",
+                                           "weaponText":  "Arco",
+                                           "name":  "Arco do Sacrifício",
+                                           "effectTemplateRaw":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e segundos.",
+                                           "r1":  {
+                                                      "description":  "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui 40% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 30 segundos.",
+                                                      "values":  [
+                                                                     "40%",
+                                                                     "30"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Composto"
+                                       },
                     "dragonsbane":  {
                                         "r3":  {
                                                    "description":  "Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em 28%.",

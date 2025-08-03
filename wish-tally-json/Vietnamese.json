@@ -1586,6 +1586,9 @@
                       "concealedclaw":  {
                                             "name":  "Móng Vuốt Ma Thú"
                                         },
+                      "drifterscrystalmarrow":  {
+                                                    "name":  "Tủy Tinh Thể Của Lữ Khách"
+                                                },
                       "vajradaamethystfragment":  {
                                                       "name":  "Mảnh Tử Tinh Thắng Lợi"
                                                   },
@@ -2378,6 +2381,9 @@
                       "energynectar":  {
                                            "name":  "Mật Hoa Nguyên Tố"
                                        },
+                      "mysteriousbolt":  {
+                                             "name":  "Ốc Vít Kỳ Lạ"
+                                         },
                       "deadleylineleaves":  {
                                                 "name":  "Lá Khô Địa Mạch"
                                             },
@@ -3377,47 +3383,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "nam"
                                     },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani, Dốc Toàn Lực!",
-                                                                         "descriptionRaw":  "Khi tiến vào trạng thái Dạ Hồn Chúc Phúc, Mualani nhận 2 tầng Động Lượng Sóng của \u003ccolor=#FFD780FF\u003eCá Mập Xuyên Sóng\u003c/color\u003e; Khi Mualani nhận Bóng Nổi, sẽ nhận được 1 tầng Động Lượng Sóng.\nNgoài ra, trong thời gian của một lần Dạ Hồn Chúc Phúc, khi Mualani nhận 2 Bóng Nổi sẽ hồi phục thêm 12 điểm Dạ Hồn trong vòng 2s. Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\".",
-                                                                         "description":  "Khi tiến vào trạng thái Dạ Hồn Chúc Phúc, Mualani nhận 2 tầng Động Lượng Sóng của Cá Mập Xuyên Sóng; Khi Mualani nhận Bóng Nổi, sẽ nhận được 1 tầng Động Lượng Sóng.\nNgoài ra, trong thời gian của một lần Dạ Hồn Chúc Phúc, khi Mualani nhận 2 Bóng Nổi sẽ hồi phục thêm 12 điểm Dạ Hồn trong vòng 2s. Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\"."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Cá Mập Ăn Bóng Nước",
-                                                                         "descriptionRaw":  "Khi nhận được Bóng Nổi, Mualani hồi phục 8 điểm Năng Lượng Nguyên Tố; Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\".\nNgoài ra, sát thương gây ra từ \u003ccolor=#FFD780FF\u003eCá Mập Nổ Dồn Dập\u003c/color\u003e tăng 75%.",
-                                                                         "description":  "Khi nhận được Bóng Nổi, Mualani hồi phục 8 điểm Năng Lượng Nguyên Tố; Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\".\nNgoài ra, sát thương gây ra từ Cá Mập Nổ Dồn Dập tăng 75%."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Lướt Sóng Trên Biển Hân Hoan",
-                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eCá Mập Xuyên Sóng\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                         "description":  "Cấp kỹ năng Cá Mập Xuyên Sóng +3.\nTăng tối đa đến cấp 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Ván Lướt Sóng Cùng Mẫu Đang Bán",
-                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eCá Mập Nổ Dồn Dập\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                         "description":  "Cấp kỹ năng Cá Mập Nổ Dồn Dập +3.\nTăng tối đa đến cấp 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Tinh Thần Cư Dân Suối Nước",
-                                                                         "descriptionRaw":  "Hiệu quả tăng sát thương từ Cung Mệnh \"\u0027Meztli\u0027 Nhàn Nhã\" sẽ loại bỏ hạn chế mỗi lần Dạ Hồn Chúc Phúc chỉ được kích hoạt một lần.",
-                                                                         "description":  "Hiệu quả tăng sát thương từ Cung Mệnh \"\u0027Meztli\u0027 Nhàn Nhã\" sẽ loại bỏ hạn chế mỗi lần Dạ Hồn Chúc Phúc chỉ được kích hoạt một lần."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "\"Meztli\" Nhàn Nhã...",
-                                                                         "descriptionRaw":  "Sau khi tiến vào trạng thái Dạ Hồn Chúc Phúc, tăng sát thương gây ra bởi đòn Sóng Cá Mập Cắn Xé lần đầu và Tên Lửa Cá Mập mà nó kích hoạt, lượng tăng thêm tương đương với 66% Giới Hạn HP của Mualani. Lần tăng sát thương này tuân thủ theo quy tắc giảm sát thương của \u003ccolor=#FFD780FF\u003eCá Mập Xuyên Sóng\u003c/color\u003e.\nNgoài ra, khi không trong trạng thái chiến đấu, trạng thái Dạ Hồn Chúc Phúc của Mualani sẽ giảm 30% lượng Phlogiston và điểm Dạ Hồn cần tiêu hao.",
-                                                                         "description":  "Sau khi tiến vào trạng thái Dạ Hồn Chúc Phúc, tăng sát thương gây ra bởi đòn Sóng Cá Mập Cắn Xé lần đầu và Tên Lửa Cá Mập mà nó kích hoạt, lượng tăng thêm tương đương với 66% Giới Hạn HP của Mualani. Lần tăng sát thương này tuân thủ theo quy tắc giảm sát thương của Cá Mập Xuyên Sóng.\nNgoài ra, khi không trong trạng thái chiến đấu, trạng thái Dạ Hồn Chúc Phúc của Mualani sẽ giảm 30% lượng Phlogiston và điểm Dạ Hồn cần tiêu hao."
-                                                                     }
-                                                          },
-                                       "elementText":  "Thủy",
-                                       "fullname":  null,
-                                       "weaponText":  "Pháp Khí",
-                                       "name":  "Mualani",
-                                       "substatText":  "Tỷ Lệ Bạo Kích",
-                                       "region":  "Natlan",
-                                       "gender":  "nữ"
-                                   },
+                       "ineffa":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Mô Đun Hỗ Trợ Dọn Dẹp",
+                                                                        "descriptionRaw":  "Sau khi Kỹ Năng Nộ \u003ccolor=#FFD780FF\u003e{LINK#S11165}Chỉ Thị Tối Cao - Quét Sạch Toàn Bộ{/LINK}\u003c/color\u003e trúng kẻ địch, sẽ gán trạng thái \"Sắc Lệnh Trừng Phạt\" cho một kẻ địch trong đó: Sau một thời gian ngắn hoặc khi kẻ địch này bị đánh bại, sẽ gây \u003ccolor=#FFACFFFF\u003eSát Thương Phạm Vi Nguyên Tố Lôi\u003c/color\u003e tương đương 300% Tấn Công của Ineffa lên kẻ địch xung quanh mục tiêu đó, sát thương này được tính là sát thương phản ứng Nguyệt-Điện Cảm.\nNgoài ra, khi thi triển Kỹ Năng Nộ \u003ccolor=#FFD780FF\u003eChỉ Thị Tối Cao - Quét Sạch Toàn Bộ\u003c/color\u003e cũng sẽ tạo Khiên Dòng Chảy Quang Học cho nhân vật trong trận gần đó.",
+                                                                        "description":  "Sau khi Kỹ Năng Nộ **Chỉ Thị Tối Cao - Quét Sạch Toàn Bộ** trúng kẻ địch, sẽ gán trạng thái \"Sắc Lệnh Trừng Phạt\" cho một kẻ địch trong đó: Sau một thời gian ngắn hoặc khi kẻ địch này bị đánh bại, sẽ gây Sát Thương Phạm Vi Nguyên Tố Lôi tương đương 300% Tấn Công của Ineffa lên kẻ địch xung quanh mục tiêu đó, sát thương này được tính là sát thương phản ứng Nguyệt-Điện Cảm.\nNgoài ra, khi thi triển Kỹ Năng Nộ Chỉ Thị Tối Cao - Quét Sạch Toàn Bộ cũng sẽ tạo Khiên Dòng Chảy Quang Học cho nhân vật trong trận gần đó."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Con Đường Không Sắc Lệnh",
+                                                                        "descriptionRaw":  "Nhân vật trong đội của bản thân khi kích hoạt phản ứng Nguyệt-Điện Cảm, sẽ hồi 5 điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 4s tối đa kích hoạt một lần.",
+                                                                        "description":  "Nhân vật trong đội của bản thân khi kích hoạt phản ứng Nguyệt-Điện Cảm, sẽ hồi 5 điểm Năng Lượng Nguyên Tố, hiệu quả này mỗi 4s tối đa kích hoạt một lần."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Trình Giả Lập Cảm Xúc",
+                                                                        "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003e{LINK#S11162}Chế Độ Dọn Dẹp - Tần Số Ổn Định{/LINK}\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                        "description":  "Cấp kỹ năng **Chế Độ Dọn Dẹp - Tần Số Ổn Định** +3.\nTăng tối đa đến cấp 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Vượt Qua Giấc Mơ Gương",
+                                                                        "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003e{LINK#S11165}Chỉ Thị Tối Cao - Quét Sạch Toàn Bộ{/LINK}\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                        "description":  "Cấp kỹ năng **Chỉ Thị Tối Cao - Quét Sạch Toàn Bộ** +3.\nTăng tối đa đến cấp 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Buổi Bình Minh Ban Tặng",
+                                                                        "descriptionRaw":  "Khi Ineffa đang có hiệu quả Tổ Hợp Dẫn Dòng, sau khi Mây Sấm Sét giáng sét vào kẻ địch thì Ineffa sẽ gây \u003ccolor=#FFACFFFF\u003eSát Thương Phạm Vi Nguyên Tố Lôi\u003c/color\u003e tương đương 135% Tấn Công của Ineffa lên kẻ địch xung quanh nhân vật trong trận hiện tại, sát thương này được tính là sát thương phản ứng Nguyệt-Điện Cảm. Hiệu quả trên mỗi 3.5s tối đa kích hoạt một lần.",
+                                                                        "description":  "Khi Ineffa đang có hiệu quả Tổ Hợp Dẫn Dòng, sau khi Mây Sấm Sét giáng sét vào kẻ địch thì Ineffa sẽ gây Sát Thương Phạm Vi Nguyên Tố Lôi tương đương 135% Tấn Công của Ineffa lên kẻ địch xung quanh nhân vật trong trận hiện tại, sát thương này được tính là sát thương phản ứng Nguyệt-Điện Cảm. Hiệu quả trên mỗi 3.5s tối đa kích hoạt một lần."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Bộ Xử Lý Hiệu Chỉnh",
+                                                                        "descriptionRaw":  "Khi Ineffa triển khai Khiên Dòng Chảy Quang Học, sẽ cung cấp hiệu quả \"Tổ Hợp Dẫn Dòng\" cho tất cả nhân vật trong đội gần đó trong 20s, tăng sát thương gây ra từ phản ứng Nguyệt-Điện Cảm dựa trên Tấn Công của Ineffa: Mỗi 100 điểm Tấn Công sẽ tăng 2.5% sát thương, tối đa có thể tăng 50% sát thương thông qua cách này.",
+                                                                        "description":  "Khi Ineffa triển khai Khiên Dòng Chảy Quang Học, sẽ cung cấp hiệu quả \"Tổ Hợp Dẫn Dòng\" cho tất cả nhân vật trong đội gần đó trong 20s, tăng sát thương gây ra từ phản ứng Nguyệt-Điện Cảm dựa trên Tấn Công của Ineffa: Mỗi 100 điểm Tấn Công sẽ tăng 2.5% sát thương, tối đa có thể tăng 50% sát thương thông qua cách này."
+                                                                    }
+                                                         },
+                                      "elementText":  "Lôi",
+                                      "fullname":  null,
+                                      "weaponText":  "Vũ Khí Cán Dài",
+                                      "name":  "Ineffa",
+                                      "substatText":  "Tỷ Lệ Bạo Kích",
+                                      "region":  null,
+                                      "gender":  "nữ"
+                                  },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3746,47 +3752,47 @@
                                       "region":  "Liyue",
                                       "gender":  "nữ"
                                   },
-                       "thoma":  {
-                                     "constellations":  {
-                                                            "c2":  {
-                                                                       "name":  "Tài Cán Của Trợ Thủ",
-                                                                       "descriptionRaw":  "Thời gian duy trì \u003ccolor=#FFD780FF\u003eChiến Giáp Rực Cháy\u003c/color\u003e kéo dài thêm 3 giây.",
-                                                                       "description":  "Thời gian duy trì Chiến Giáp Rực Cháy kéo dài thêm 3 giây."
-                                                                   },
-                                                            "c4":  {
-                                                                       "name":  "Mưu Kế Của Gia Thần",
-                                                                       "descriptionRaw":  "Sau khi thi triển \u003ccolor=#FFD780FF\u003eChiến Giáp Rực Cháy\u003c/color\u003e sẽ hồi 15 điểm Năng Lượng Nguyên Tố cho Thoma.",
-                                                                       "description":  "Sau khi thi triển Chiến Giáp Rực Cháy sẽ hồi 15 điểm Năng Lượng Nguyên Tố cho Thoma."
-                                                                   },
-                                                            "c3":  {
-                                                                       "name":  "Định Luật Của Chiến Đấu",
-                                                                       "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eLiệt Hỏa Hộ Mệnh\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                       "description":  "Cấp kỹ năng Liệt Hỏa Hộ Mệnh +3.\nTăng tối đa đến cấp 15."
-                                                                   },
-                                                            "c5":  {
-                                                                       "name":  "Sức Nóng Của Lửa Đỏ",
-                                                                       "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eChiến Giáp Rực Cháy\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                       "description":  "Cấp kỹ năng Chiến Giáp Rực Cháy +3.\nTăng tối đa đến cấp 15."
-                                                                   },
-                                                            "c6":  {
-                                                                       "name":  "Trái Tim Của Nhiệt Huyết",
-                                                                       "descriptionRaw":  "Khi nhận hoặc làm mới \u003ccolor=#FFD780FF\u003eKhiên Lửa Hộ Mệnh\u003c/color\u003e, sát thương gây ra bởi tấn công thường, trọng kích, tấn công khi đáp của tất cả nhân vật trong đội tăng 15%, duy trì 6 giây.",
-                                                                       "description":  "Khi nhận hoặc làm mới Khiên Lửa Hộ Mệnh, sát thương gây ra bởi tấn công thường, trọng kích, tấn công khi đáp của tất cả nhân vật trong đội tăng 15%, duy trì 6 giây."
-                                                                   },
-                                                            "c1":  {
-                                                                       "name":  "Nghĩa Vụ Của Đồng Bào",
-                                                                       "descriptionRaw":  "Khi nhân vật (Ngoại trừ bản thân Thoma) được bảo vệ bởi \u003ccolor=#FFD780FF\u003eKhiên Lửa Hộ Mệnh\u003c/color\u003e của Thoma bị tấn công, sẽ giảm 3 giây CD \u003ccolor=#FFD780FF\u003eLiệt Hỏa Hộ Mệnh\u003c/color\u003e, giảm 3 giây CD \u003ccolor=#FFD780FF\u003eChiến Giáp Rực Cháy\u003c/color\u003e của Thoma.\nHiệu quả này mỗi 20 giây tối đa kích hoạt 1 lần.",
-                                                                       "description":  "Khi nhân vật (Ngoại trừ bản thân Thoma) được bảo vệ bởi Khiên Lửa Hộ Mệnh của Thoma bị tấn công, sẽ giảm 3 giây CD Liệt Hỏa Hộ Mệnh, giảm 3 giây CD Chiến Giáp Rực Cháy của Thoma.\nHiệu quả này mỗi 20 giây tối đa kích hoạt 1 lần."
-                                                                   }
-                                                        },
-                                     "elementText":  "Hỏa",
-                                     "fullname":  null,
-                                     "weaponText":  "Vũ Khí Cán Dài",
-                                     "name":  "Thoma",
-                                     "substatText":  "Tấn Công",
-                                     "region":  "Inazuma",
-                                     "gender":  "nam"
-                                 },
+                       "lynette":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Bí Ẩn Trùng Trùng",
+                                                                         "descriptionRaw":  "Hộp Mèo Kỳ Quái được triệu hồi từ \u003ccolor=#FFD780FF\u003eẢo Thuật - Biến Đổi Bất Ngờ\u003c/color\u003e khi tung Bom Rực Rỡ, sẽ tung ra thêm một Bom Rực Rỡ.",
+                                                                         "description":  "Hộp Mèo Kỳ Quái được triệu hồi từ Ảo Thuật - Biến Đổi Bất Ngờ khi tung Bom Rực Rỡ, sẽ tung ra thêm một Bom Rực Rỡ."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Phối Hợp Ăn Ý",
+                                                                         "descriptionRaw":  "Số lần sử dụng \u003ccolor=#FFD780FF\u003eThủ Thuật Che Mắt\u003c/color\u003e tăng 1 lần.",
+                                                                         "description":  "Số lần sử dụng Thủ Thuật Che Mắt tăng 1 lần."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Tầm Nhìn Điên Đảo",
+                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eẢo Thuật - Biến Đổi Bất Ngờ\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                         "description":  "Cấp kỹ năng Ảo Thuật - Biến Đổi Bất Ngờ +3.\nTăng tối đa đến cấp 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Che Mắt Mờ Ảo",
+                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eThủ Thuật Che Mắt\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                         "description":  "Cấp kỹ năng Thủ Thuật Che Mắt +3.\nTăng tối đa đến cấp 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Ánh Nhìn Nhận Biết",
+                                                                         "descriptionRaw":  "Lynette khi thi triển Đột Kích Ảo Ảnh của kỹ năng \u003ccolor=#FFD780FF\u003eThủ Thuật Che Mắt\u003c/color\u003e, sẽ nhận được \u003ccolor=#80FFD7FF\u003eđính kèm nguyên tố Phong\u003c/color\u003e, \u003ccolor=#80FFD7FF\u003eBuff Sát Thương Nguyên Tố Phong\u003c/color\u003e tăng 20% trong 6s.",
+                                                                         "description":  "Lynette khi thi triển Đột Kích Ảo Ảnh của kỹ năng Thủ Thuật Che Mắt, sẽ nhận được đính kèm nguyên tố Phong, Buff Sát Thương Nguyên Tố Phong tăng 20% trong 6s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Lưỡi Kiếm Ảo Ảnh",
+                                                                         "descriptionRaw":  "Đột Kích Ảo Ảnh của kỹ năng \u003ccolor=#FFD780FF\u003eThủ Thuật Che Mắt\u003c/color\u003e khi trúng kẻ địch mang Dấu Ấn Ảo Ảnh, sẽ sản sinh Lốc Xoáy tại vị trí kẻ địch, lôi kéo kẻ địch gần đó.",
+                                                                         "description":  "Đột Kích Ảo Ảnh của kỹ năng Thủ Thuật Che Mắt khi trúng kẻ địch mang Dấu Ấn Ảo Ảnh, sẽ sản sinh Lốc Xoáy tại vị trí kẻ địch, lôi kéo kẻ địch gần đó."
+                                                                     }
+                                                          },
+                                       "elementText":  "Phong",
+                                       "fullname":  null,
+                                       "weaponText":  "Kiếm Đơn",
+                                       "name":  "Lynette",
+                                       "substatText":  "Tăng ST Nguyên Tố Phong",
+                                       "region":  "Fontaine",
+                                       "gender":  "nữ"
+                                   },
                        "yanfei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3837,8 +3843,8 @@
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Tuần Nghi - Siển Hộ Cấm Võng",
-                                                                      "descriptionRaw":  "Khi Cyno trong trạng thái Sứ Giả Dẫn Lối của \u003ccolor=#FFD780FF\u003eNghi Thức Thần Thánh - Nhanh Như Sói\u003c/color\u003e, sau khi kích hoạt phản ứng Điện Cảm, Siêu Dẫn, Quá Tải, Sinh Trưởng, Tăng Cường, Nở Rộ, Khuếch Tán Nguyên Tố Lôi, sẽ khiến tất cả nhân vật trong đội gần đó (trừ bản thân Cyno) hồi phục 3 điểm Năng Lượng Nguyên Tố.\nHiệu quả này trong một lần \u003ccolor=#FFD780FF\u003eNghi Thức Thần Thánh - Nhanh Như Sói\u003c/color\u003e tối đa kích hoạt 5 lần.",
-                                                                      "description":  "Khi Cyno trong trạng thái Sứ Giả Dẫn Lối của Nghi Thức Thần Thánh - Nhanh Như Sói, sau khi kích hoạt phản ứng Điện Cảm, Siêu Dẫn, Quá Tải, Sinh Trưởng, Tăng Cường, Nở Rộ, Khuếch Tán Nguyên Tố Lôi, sẽ khiến tất cả nhân vật trong đội gần đó (trừ bản thân Cyno) hồi phục 3 điểm Năng Lượng Nguyên Tố.\nHiệu quả này trong một lần Nghi Thức Thần Thánh - Nhanh Như Sói tối đa kích hoạt 5 lần."
+                                                                      "descriptionRaw":  "Khi Cyno trong trạng thái Sứ Giả Dẫn Lối của \u003ccolor=#FFD780FF\u003eNghi Thức Thần Thánh - Nhanh Như Sói\u003c/color\u003e, sau khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Siêu Dẫn, Quá Tải, Sinh Trưởng, Tăng Cường, Nở Rộ, Khuếch Tán Nguyên Tố Lôi, sẽ khiến tất cả nhân vật trong đội gần đó (trừ bản thân Cyno) hồi phục 3 điểm Năng Lượng Nguyên Tố.\nHiệu quả này trong một lần \u003ccolor=#FFD780FF\u003eNghi Thức Thần Thánh - Nhanh Như Sói\u003c/color\u003e tối đa kích hoạt 5 lần.",
+                                                                      "description":  "Khi Cyno trong trạng thái Sứ Giả Dẫn Lối của Nghi Thức Thần Thánh - Nhanh Như Sói, sau khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Siêu Dẫn, Quá Tải, Sinh Trưởng, Tăng Cường, Nở Rộ, Khuếch Tán Nguyên Tố Lôi, sẽ khiến tất cả nhân vật trong đội gần đó (trừ bản thân Cyno) hồi phục 3 điểm Năng Lượng Nguyên Tố.\nHiệu quả này trong một lần Nghi Thức Thần Thánh - Nhanh Như Sói tối đa kích hoạt 5 lần."
                                                                   },
                                                            "c3":  {
                                                                       "name":  "Luật Nghi - Hành Độ Thệ Trừng",
@@ -4115,47 +4121,40 @@
                                      "region":  "Sumeru",
                                      "gender":  "nữ"
                                  },
-                       "lynette":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Bí Ẩn Trùng Trùng",
-                                                                         "descriptionRaw":  "Hộp Mèo Kỳ Quái được triệu hồi từ \u003ccolor=#FFD780FF\u003eẢo Thuật - Biến Đổi Bất Ngờ\u003c/color\u003e khi tung Bom Rực Rỡ, sẽ tung ra thêm một Bom Rực Rỡ.",
-                                                                         "description":  "Hộp Mèo Kỳ Quái được triệu hồi từ Ảo Thuật - Biến Đổi Bất Ngờ khi tung Bom Rực Rỡ, sẽ tung ra thêm một Bom Rực Rỡ."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Phối Hợp Ăn Ý",
-                                                                         "descriptionRaw":  "Số lần sử dụng \u003ccolor=#FFD780FF\u003eThủ Thuật Che Mắt\u003c/color\u003e tăng 1 lần.",
-                                                                         "description":  "Số lần sử dụng Thủ Thuật Che Mắt tăng 1 lần."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Tầm Nhìn Điên Đảo",
-                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eẢo Thuật - Biến Đổi Bất Ngờ\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                         "description":  "Cấp kỹ năng Ảo Thuật - Biến Đổi Bất Ngờ +3.\nTăng tối đa đến cấp 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Che Mắt Mờ Ảo",
-                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eThủ Thuật Che Mắt\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                         "description":  "Cấp kỹ năng Thủ Thuật Che Mắt +3.\nTăng tối đa đến cấp 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Ánh Nhìn Nhận Biết",
-                                                                         "descriptionRaw":  "Lynette khi thi triển Đột Kích Ảo Ảnh của kỹ năng \u003ccolor=#FFD780FF\u003eThủ Thuật Che Mắt\u003c/color\u003e, sẽ nhận được \u003ccolor=#80FFD7FF\u003eđính kèm nguyên tố Phong\u003c/color\u003e, \u003ccolor=#80FFD7FF\u003eBuff Sát Thương Nguyên Tố Phong\u003c/color\u003e tăng 20% trong 6s.",
-                                                                         "description":  "Lynette khi thi triển Đột Kích Ảo Ảnh của kỹ năng Thủ Thuật Che Mắt, sẽ nhận được đính kèm nguyên tố Phong, Buff Sát Thương Nguyên Tố Phong tăng 20% trong 6s."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Lưỡi Kiếm Ảo Ảnh",
-                                                                         "descriptionRaw":  "Đột Kích Ảo Ảnh của kỹ năng \u003ccolor=#FFD780FF\u003eThủ Thuật Che Mắt\u003c/color\u003e khi trúng kẻ địch mang Dấu Ấn Ảo Ảnh, sẽ sản sinh Lốc Xoáy tại vị trí kẻ địch, lôi kéo kẻ địch gần đó.",
-                                                                         "description":  "Đột Kích Ảo Ảnh của kỹ năng Thủ Thuật Che Mắt khi trúng kẻ địch mang Dấu Ấn Ảo Ảnh, sẽ sản sinh Lốc Xoáy tại vị trí kẻ địch, lôi kéo kẻ địch gần đó."
-                                                                     }
-                                                          },
-                                       "elementText":  "Phong",
-                                       "fullname":  null,
-                                       "weaponText":  "Kiếm Đơn",
-                                       "name":  "Lynette",
-                                       "substatText":  "Tăng ST Nguyên Tố Phong",
-                                       "region":  "Fontaine",
-                                       "gender":  "nữ"
-                                   },
+                       "travelerhydro":  {
+                                             "constellations":  {
+                                                                    "c2":  {
+                                                                               "name":  "Nước Biếc Rì Rào",
+                                                                               "descriptionRaw":  "Tốc độ di chuyển của Bong Bóng Bay Bổng từ kỹ năng \u003ccolor=#FFD780FF\u003eDòng Chảy Cuồn Cuộn\u003c/color\u003e giảm 30%, thời gian duy trì kéo dài 3s.",
+                                                                               "description":  "Tốc độ di chuyển của Bong Bóng Bay Bổng từ kỹ năng Dòng Chảy Cuồn Cuộn giảm 30%, thời gian duy trì kéo dài 3s."
+                                                                           },
+                                                                    "c4":  {
+                                                                               "name":  "Dòng Chảy Xối Xả",
+                                                                               "descriptionRaw":  "Khi thi triển \u003ccolor=#FFD780FF\u003eThủy Văn Kiếm\u003c/color\u003e, tạo ra Khiên Thủy Văn hấp thụ sát thương tương ứng 10% Giới Hạn HP của Nhà Lữ Hành, có 250% hiệu quả hấp thụ đối với \u003ccolor=#80C0FFFF\u003eSát Thương Nguyên Tố Thủy\u003c/color\u003e, duy trì đến khi kết thúc thi triển kỹ năng.\nMỗi 2s một lần, khi Sương Mai đánh trúng kẻ địch, nếu Nhà Lữ Hành được Khiên Thủy Văn bảo vệ, mức độ hấp thụ sát thương của Khiên Thủy Văn được nạp lại bằng 10% giới hạn HP của Nhà Lữ Hành; Nếu không được Khiên Thủy Văn bảo vệ sẽ sản sinh Khiên Thủy Văn.",
+                                                                               "description":  "Khi thi triển Thủy Văn Kiếm, tạo ra Khiên Thủy Văn hấp thụ sát thương tương ứng 10% Giới Hạn HP của Nhà Lữ Hành, có 250% hiệu quả hấp thụ đối với Sát Thương Nguyên Tố Thủy, duy trì đến khi kết thúc thi triển kỹ năng.\nMỗi 2s một lần, khi Sương Mai đánh trúng kẻ địch, nếu Nhà Lữ Hành được Khiên Thủy Văn bảo vệ, mức độ hấp thụ sát thương của Khiên Thủy Văn được nạp lại bằng 10% giới hạn HP của Nhà Lữ Hành; Nếu không được Khiên Thủy Văn bảo vệ sẽ sản sinh Khiên Thủy Văn."
+                                                                           },
+                                                                    "c3":  {
+                                                                               "name":  "Sóng Nước Huyên Náo",
+                                                                               "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eThủy Văn Kiếm\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                               "description":  "Cấp kỹ năng Thủy Văn Kiếm +3.\nTăng tối đa đến cấp 15."
+                                                                           },
+                                                                    "c5":  {
+                                                                               "name":  "Xoáy Nước Luân Chuyển",
+                                                                               "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eDòng Chảy Cuồn Cuộn\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                               "description":  "Cấp kỹ năng Dòng Chảy Cuồn Cuộn +3.\nTăng tối đa đến cấp 15."
+                                                                           },
+                                                                    "c6":  {
+                                                                               "name":  "Thủy Triều Công Lý",
+                                                                               "descriptionRaw":  "Nhà Lữ Hành khi nhặt Nguồn Nước Trong sẽ hồi phục 6% HP cho nhân vật có phần trăm HP thấp nhất trong đội gần đó.",
+                                                                               "description":  "Nhà Lữ Hành khi nhặt Nguồn Nước Trong sẽ hồi phục 6% HP cho nhân vật có phần trăm HP thấp nhất trong đội gần đó."
+                                                                           },
+                                                                    "c1":  {
+                                                                               "name":  "Nước Hồ Lăn Tăn",
+                                                                               "descriptionRaw":  "Sau khi nhặt Nguồn Nước Trong, Nhà Lữ Hành sẽ hồi phục 2 điểm Năng Lượng Nguyên Tố.\nCần mở khóa thiên phú \"Dòng Chảy Trong Veo\".",
+                                                                               "description":  "Sau khi nhặt Nguồn Nước Trong, Nhà Lữ Hành sẽ hồi phục 2 điểm Năng Lượng Nguyên Tố.\nCần mở khóa thiên phú \"Dòng Chảy Trong Veo\"."
+                                                                           }
+                                                                }
+                                         },
                        "kujousara":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -4361,6 +4360,47 @@
                                       "region":  "Natlan",
                                       "gender":  "nam"
                                   },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani, Dốc Toàn Lực!",
+                                                                         "descriptionRaw":  "Khi tiến vào trạng thái Dạ Hồn Chúc Phúc, Mualani nhận 2 tầng Động Lượng Sóng của \u003ccolor=#FFD780FF\u003eCá Mập Xuyên Sóng\u003c/color\u003e; Khi Mualani nhận Bóng Nổi, sẽ nhận được 1 tầng Động Lượng Sóng.\nNgoài ra, trong thời gian của một lần Dạ Hồn Chúc Phúc, khi Mualani nhận 2 Bóng Nổi sẽ hồi phục thêm 12 điểm Dạ Hồn trong vòng 2s. Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\".",
+                                                                         "description":  "Khi tiến vào trạng thái Dạ Hồn Chúc Phúc, Mualani nhận 2 tầng Động Lượng Sóng của Cá Mập Xuyên Sóng; Khi Mualani nhận Bóng Nổi, sẽ nhận được 1 tầng Động Lượng Sóng.\nNgoài ra, trong thời gian của một lần Dạ Hồn Chúc Phúc, khi Mualani nhận 2 Bóng Nổi sẽ hồi phục thêm 12 điểm Dạ Hồn trong vòng 2s. Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\"."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Cá Mập Ăn Bóng Nước",
+                                                                         "descriptionRaw":  "Khi nhận được Bóng Nổi, Mualani hồi phục 8 điểm Năng Lượng Nguyên Tố; Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\".\nNgoài ra, sát thương gây ra từ \u003ccolor=#FFD780FF\u003eCá Mập Nổ Dồn Dập\u003c/color\u003e tăng 75%.",
+                                                                         "description":  "Khi nhận được Bóng Nổi, Mualani hồi phục 8 điểm Năng Lượng Nguyên Tố; Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\".\nNgoài ra, sát thương gây ra từ Cá Mập Nổ Dồn Dập tăng 75%."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Lướt Sóng Trên Biển Hân Hoan",
+                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eCá Mập Xuyên Sóng\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                         "description":  "Cấp kỹ năng Cá Mập Xuyên Sóng +3.\nTăng tối đa đến cấp 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Ván Lướt Sóng Cùng Mẫu Đang Bán",
+                                                                         "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eCá Mập Nổ Dồn Dập\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                         "description":  "Cấp kỹ năng Cá Mập Nổ Dồn Dập +3.\nTăng tối đa đến cấp 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Tinh Thần Cư Dân Suối Nước",
+                                                                         "descriptionRaw":  "Hiệu quả tăng sát thương từ Cung Mệnh \"\u0027Meztli\u0027 Nhàn Nhã\" sẽ loại bỏ hạn chế mỗi lần Dạ Hồn Chúc Phúc chỉ được kích hoạt một lần.",
+                                                                         "description":  "Hiệu quả tăng sát thương từ Cung Mệnh \"\u0027Meztli\u0027 Nhàn Nhã\" sẽ loại bỏ hạn chế mỗi lần Dạ Hồn Chúc Phúc chỉ được kích hoạt một lần."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "\"Meztli\" Nhàn Nhã...",
+                                                                         "descriptionRaw":  "Sau khi tiến vào trạng thái Dạ Hồn Chúc Phúc, tăng sát thương gây ra bởi đòn Sóng Cá Mập Cắn Xé lần đầu và Tên Lửa Cá Mập mà nó kích hoạt, lượng tăng thêm tương đương với 66% Giới Hạn HP của Mualani. Lần tăng sát thương này tuân thủ theo quy tắc giảm sát thương của \u003ccolor=#FFD780FF\u003eCá Mập Xuyên Sóng\u003c/color\u003e.\nNgoài ra, khi không trong trạng thái chiến đấu, trạng thái Dạ Hồn Chúc Phúc của Mualani sẽ giảm 30% lượng Phlogiston và điểm Dạ Hồn cần tiêu hao.",
+                                                                         "description":  "Sau khi tiến vào trạng thái Dạ Hồn Chúc Phúc, tăng sát thương gây ra bởi đòn Sóng Cá Mập Cắn Xé lần đầu và Tên Lửa Cá Mập mà nó kích hoạt, lượng tăng thêm tương đương với 66% Giới Hạn HP của Mualani. Lần tăng sát thương này tuân thủ theo quy tắc giảm sát thương của Cá Mập Xuyên Sóng.\nNgoài ra, khi không trong trạng thái chiến đấu, trạng thái Dạ Hồn Chúc Phúc của Mualani sẽ giảm 30% lượng Phlogiston và điểm Dạ Hồn cần tiêu hao."
+                                                                     }
+                                                          },
+                                       "elementText":  "Thủy",
+                                       "fullname":  null,
+                                       "weaponText":  "Pháp Khí",
+                                       "name":  "Mualani",
+                                       "substatText":  "Tỷ Lệ Bạo Kích",
+                                       "region":  "Natlan",
+                                       "gender":  "nữ"
+                                   },
                        "collei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5549,40 +5589,6 @@
                                       "region":  "Fontaine",
                                       "gender":  "nữ"
                                   },
-                       "travelerhydro":  {
-                                             "constellations":  {
-                                                                    "c2":  {
-                                                                               "name":  "Nước Biếc Rì Rào",
-                                                                               "descriptionRaw":  "Tốc độ di chuyển của Bong Bóng Bay Bổng từ kỹ năng \u003ccolor=#FFD780FF\u003eDòng Chảy Cuồn Cuộn\u003c/color\u003e giảm 30%, thời gian duy trì kéo dài 3s.",
-                                                                               "description":  "Tốc độ di chuyển của Bong Bóng Bay Bổng từ kỹ năng Dòng Chảy Cuồn Cuộn giảm 30%, thời gian duy trì kéo dài 3s."
-                                                                           },
-                                                                    "c4":  {
-                                                                               "name":  "Dòng Chảy Xối Xả",
-                                                                               "descriptionRaw":  "Khi thi triển \u003ccolor=#FFD780FF\u003eThủy Văn Kiếm\u003c/color\u003e, tạo ra Khiên Thủy Văn hấp thụ sát thương tương ứng 10% Giới Hạn HP của Nhà Lữ Hành, có 250% hiệu quả hấp thụ đối với \u003ccolor=#80C0FFFF\u003eSát Thương Nguyên Tố Thủy\u003c/color\u003e, duy trì đến khi kết thúc thi triển kỹ năng.\nMỗi 2s một lần, khi Sương Mai đánh trúng kẻ địch, nếu Nhà Lữ Hành được Khiên Thủy Văn bảo vệ, mức độ hấp thụ sát thương của Khiên Thủy Văn được nạp lại bằng 10% giới hạn HP của Nhà Lữ Hành; Nếu không được Khiên Thủy Văn bảo vệ sẽ sản sinh Khiên Thủy Văn.",
-                                                                               "description":  "Khi thi triển Thủy Văn Kiếm, tạo ra Khiên Thủy Văn hấp thụ sát thương tương ứng 10% Giới Hạn HP của Nhà Lữ Hành, có 250% hiệu quả hấp thụ đối với Sát Thương Nguyên Tố Thủy, duy trì đến khi kết thúc thi triển kỹ năng.\nMỗi 2s một lần, khi Sương Mai đánh trúng kẻ địch, nếu Nhà Lữ Hành được Khiên Thủy Văn bảo vệ, mức độ hấp thụ sát thương của Khiên Thủy Văn được nạp lại bằng 10% giới hạn HP của Nhà Lữ Hành; Nếu không được Khiên Thủy Văn bảo vệ sẽ sản sinh Khiên Thủy Văn."
-                                                                           },
-                                                                    "c3":  {
-                                                                               "name":  "Sóng Nước Huyên Náo",
-                                                                               "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eThủy Văn Kiếm\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                               "description":  "Cấp kỹ năng Thủy Văn Kiếm +3.\nTăng tối đa đến cấp 15."
-                                                                           },
-                                                                    "c5":  {
-                                                                               "name":  "Xoáy Nước Luân Chuyển",
-                                                                               "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eDòng Chảy Cuồn Cuộn\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
-                                                                               "description":  "Cấp kỹ năng Dòng Chảy Cuồn Cuộn +3.\nTăng tối đa đến cấp 15."
-                                                                           },
-                                                                    "c6":  {
-                                                                               "name":  "Thủy Triều Công Lý",
-                                                                               "descriptionRaw":  "Nhà Lữ Hành khi nhặt Nguồn Nước Trong sẽ hồi phục 6% HP cho nhân vật có phần trăm HP thấp nhất trong đội gần đó.",
-                                                                               "description":  "Nhà Lữ Hành khi nhặt Nguồn Nước Trong sẽ hồi phục 6% HP cho nhân vật có phần trăm HP thấp nhất trong đội gần đó."
-                                                                           },
-                                                                    "c1":  {
-                                                                               "name":  "Nước Hồ Lăn Tăn",
-                                                                               "descriptionRaw":  "Sau khi nhặt Nguồn Nước Trong, Nhà Lữ Hành sẽ hồi phục 2 điểm Năng Lượng Nguyên Tố.\nCần mở khóa thiên phú \"Dòng Chảy Trong Veo\".",
-                                                                               "description":  "Sau khi nhặt Nguồn Nước Trong, Nhà Lữ Hành sẽ hồi phục 2 điểm Năng Lượng Nguyên Tố.\nCần mở khóa thiên phú \"Dòng Chảy Trong Veo\"."
-                                                                           }
-                                                                }
-                                         },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6276,6 +6282,47 @@
                                     "region":  "Liyue",
                                     "gender":  "nam"
                                 },
+                       "thoma":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Tài Cán Của Trợ Thủ",
+                                                                       "descriptionRaw":  "Thời gian duy trì \u003ccolor=#FFD780FF\u003eChiến Giáp Rực Cháy\u003c/color\u003e kéo dài thêm 3 giây.",
+                                                                       "description":  "Thời gian duy trì Chiến Giáp Rực Cháy kéo dài thêm 3 giây."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Mưu Kế Của Gia Thần",
+                                                                       "descriptionRaw":  "Sau khi thi triển \u003ccolor=#FFD780FF\u003eChiến Giáp Rực Cháy\u003c/color\u003e sẽ hồi 15 điểm Năng Lượng Nguyên Tố cho Thoma.",
+                                                                       "description":  "Sau khi thi triển Chiến Giáp Rực Cháy sẽ hồi 15 điểm Năng Lượng Nguyên Tố cho Thoma."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Định Luật Của Chiến Đấu",
+                                                                       "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eLiệt Hỏa Hộ Mệnh\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                       "description":  "Cấp kỹ năng Liệt Hỏa Hộ Mệnh +3.\nTăng tối đa đến cấp 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Sức Nóng Của Lửa Đỏ",
+                                                                       "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003eChiến Giáp Rực Cháy\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                       "description":  "Cấp kỹ năng Chiến Giáp Rực Cháy +3.\nTăng tối đa đến cấp 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Trái Tim Của Nhiệt Huyết",
+                                                                       "descriptionRaw":  "Khi nhận hoặc làm mới \u003ccolor=#FFD780FF\u003eKhiên Lửa Hộ Mệnh\u003c/color\u003e, sát thương gây ra bởi tấn công thường, trọng kích, tấn công khi đáp của tất cả nhân vật trong đội tăng 15%, duy trì 6 giây.",
+                                                                       "description":  "Khi nhận hoặc làm mới Khiên Lửa Hộ Mệnh, sát thương gây ra bởi tấn công thường, trọng kích, tấn công khi đáp của tất cả nhân vật trong đội tăng 15%, duy trì 6 giây."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Nghĩa Vụ Của Đồng Bào",
+                                                                       "descriptionRaw":  "Khi nhân vật (Ngoại trừ bản thân Thoma) được bảo vệ bởi \u003ccolor=#FFD780FF\u003eKhiên Lửa Hộ Mệnh\u003c/color\u003e của Thoma bị tấn công, sẽ giảm 3 giây CD \u003ccolor=#FFD780FF\u003eLiệt Hỏa Hộ Mệnh\u003c/color\u003e, giảm 3 giây CD \u003ccolor=#FFD780FF\u003eChiến Giáp Rực Cháy\u003c/color\u003e của Thoma.\nHiệu quả này mỗi 20 giây tối đa kích hoạt 1 lần.",
+                                                                       "description":  "Khi nhân vật (Ngoại trừ bản thân Thoma) được bảo vệ bởi Khiên Lửa Hộ Mệnh của Thoma bị tấn công, sẽ giảm 3 giây CD Liệt Hỏa Hộ Mệnh, giảm 3 giây CD Chiến Giáp Rực Cháy của Thoma.\nHiệu quả này mỗi 20 giây tối đa kích hoạt 1 lần."
+                                                                   }
+                                                        },
+                                     "elementText":  "Hỏa",
+                                     "fullname":  null,
+                                     "weaponText":  "Vũ Khí Cán Dài",
+                                     "name":  "Thoma",
+                                     "substatText":  "Tấn Công",
+                                     "region":  "Inazuma",
+                                     "gender":  "nam"
+                                 },
                        "venti":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6756,8 +6803,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Tiên Tri Chìm Đắm",
-                                                                      "descriptionRaw":  "Trong vòng 8s sau khi nhân vật của bản thân trong đội tấn công địch ở trạng thái Tinh Dị, sẽ tăng hiệu quả \u003ccolor=#80C0FFFF\u003ephản ứng với Nguyên Tố Thủy\u003c/color\u003e:\n·Tăng 15% sát thương phản ứng Điện Cảm gây ra, tăng 15% sát thương phản ứng Bốc Hơi gây ra, tăng 15% sát thương phản ứng khuếch tán Nguyên Tố Thủy gây ra.\n·Thời gian duy trì phản ứng đóng băng kéo dài 15%.",
-                                                                      "description":  "Trong vòng 8s sau khi nhân vật của bản thân trong đội tấn công địch ở trạng thái Tinh Dị, sẽ tăng hiệu quả phản ứng với Nguyên Tố Thủy:\n·Tăng 15% sát thương phản ứng Điện Cảm gây ra, tăng 15% sát thương phản ứng Bốc Hơi gây ra, tăng 15% sát thương phản ứng khuếch tán Nguyên Tố Thủy gây ra.\n·Thời gian duy trì phản ứng đóng băng kéo dài 15%."
+                                                                      "descriptionRaw":  "Trong vòng 8s sau khi nhân vật của bản thân trong đội tấn công địch ở trạng thái Tinh Dị, sẽ tăng hiệu quả \u003ccolor=#80C0FFFF\u003ephản ứng với Nguyên Tố Thủy\u003c/color\u003e:\n·Tăng 15% sát thương phản ứng Điện Cảm gây ra, tăng 15% sát thương phản ứng Nguyệt-Điện Cảm gây ra, tăng 15% sát thương phản ứng Bốc Hơi gây ra, tăng 15% sát thương phản ứng Khuếch Tán Nguyên Tố Thủy gây ra.\n·Thời gian duy trì phản ứng Đóng Băng kéo dài 15%.",
+                                                                      "description":  "Trong vòng 8s sau khi nhân vật của bản thân trong đội tấn công địch ở trạng thái Tinh Dị, sẽ tăng hiệu quả phản ứng với Nguyên Tố Thủy:\n·Tăng 15% sát thương phản ứng Điện Cảm gây ra, tăng 15% sát thương phản ứng Nguyệt-Điện Cảm gây ra, tăng 15% sát thương phản ứng Bốc Hơi gây ra, tăng 15% sát thương phản ứng Khuếch Tán Nguyên Tố Thủy gây ra.\n·Thời gian duy trì phản ứng Đóng Băng kéo dài 15%."
                                                                   }
                                                        },
                                     "elementText":  "Thủy",
@@ -7344,25 +7391,25 @@
                                             },
                     "darkironsword":  {
                                           "r3":  {
-                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng 30%.",
+                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Lôi, Tấn Công tăng 30%.",
                                                      "values":  [
                                                                     "30%"
                                                                 ]
                                                  },
                                           "r5":  {
-                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng 40%.",
+                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Lôi, Tấn Công tăng 40%.",
                                                      "values":  [
                                                                     "40%"
                                                                 ]
                                                  },
                                           "r2":  {
-                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng 25%.",
+                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Lôi, Tấn Công tăng 25%.",
                                                      "values":  [
                                                                     "25%"
                                                                 ]
                                                  },
                                           "r4":  {
-                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng 35%.",
+                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Lôi, Tấn Công tăng 35%.",
                                                      "values":  [
                                                                     "35%"
                                                                 ]
@@ -7370,9 +7417,9 @@
                                           "substatText":  "Tinh Thông Nguyên Tố",
                                           "weaponText":  "Kiếm Đơn",
                                           "name":  "Kiếm Sắt Đen",
-                                          "effectTemplateRaw":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
+                                          "effectTemplateRaw":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Lôi, Tấn Công tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
                                           "r1":  {
-                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng 20%.",
+                                                     "description":  "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Lôi, Tấn Công tăng 20%.",
                                                      "values":  [
                                                                     "20%"
                                                                 ]
@@ -8176,25 +8223,25 @@
                                      },
                     "emeraldorb":  {
                                        "r3":  {
-                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng 30%.",
+                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Thủy, Tấn Công tăng 30%.",
                                                   "values":  [
                                                                  "30%"
                                                              ]
                                               },
                                        "r5":  {
-                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng 40%.",
+                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Thủy, Tấn Công tăng 40%.",
                                                   "values":  [
                                                                  "40%"
                                                              ]
                                               },
                                        "r2":  {
-                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng 25%.",
+                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Thủy, Tấn Công tăng 25%.",
                                                   "values":  [
                                                                  "25%"
                                                              ]
                                               },
                                        "r4":  {
-                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng 35%.",
+                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Thủy, Tấn Công tăng 35%.",
                                                   "values":  [
                                                                  "35%"
                                                              ]
@@ -8202,9 +8249,9 @@
                                        "substatText":  "Tinh Thông Nguyên Tố",
                                        "weaponText":  "Pháp Khí",
                                        "name":  "Quả Cầu Ngọc",
-                                       "effectTemplateRaw":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
+                                       "effectTemplateRaw":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Thủy, Tấn Công tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
                                        "r1":  {
-                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng 20%.",
+                                                  "description":  "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Thủy, Tấn Công tăng 20%.",
                                                   "values":  [
                                                                  "20%"
                                                              ]
@@ -8295,6 +8342,48 @@
                                                },
                                         "effectName":  "Thiên Nham Quyết - Đồng Tâm"
                                     },
+                    "wavebreakersfin":  {
+                                            "r3":  {
+                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.18% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 60%.",
+                                                       "values":  [
+                                                                      "0.18%",
+                                                                      "60%"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.24% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 80%.",
+                                                       "values":  [
+                                                                      "0.24%",
+                                                                      "80%"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.15% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 50%.",
+                                                       "values":  [
+                                                                      "0.15%",
+                                                                      "50%"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.21% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 70%.",
+                                                       "values":  [
+                                                                      "0.21%",
+                                                                      "70%"
+                                                                  ]
+                                                   },
+                                            "substatText":  "Tấn Công",
+                                            "weaponText":  "Vũ Khí Cán Dài",
+                                            "name":  "Vây Cá Chẻ Sóng",
+                                            "effectTemplateRaw":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                            "r1":  {
+                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.12% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này gây ra. Thông qua cách này, sát thương Kỹ Năng Nộ tăng tối đa 40%.",
+                                                       "values":  [
+                                                                      "0.12%",
+                                                                      "40%"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Kẻ Cưỡi Sóng Watatsumi"
+                                        },
                     "aquasimulacra":  {
                                           "r3":  {
                                                      "description":  "HP tăng 24%. Khi xung quanh có kẻ địch, sát thương gây ra của nhân vật trang bị vũ khí này tăng 30%, bất kể nhân vật này có trong trận hay không.",
@@ -9225,48 +9314,48 @@
                                                          },
                                                   "effectName":  "Vũ Điệu Samurai"
                                               },
-                    "sacrificialbow":  {
-                                           "r3":  {
-                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 60% làm mới thời gian CD kỹ năng đó, mỗi 22s mới thi triển 1 lần.",
-                                                      "values":  [
-                                                                     "60%",
-                                                                     "22"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 80% làm mới thời gian CD kỹ năng đó, mỗi 16s mới thi triển 1 lần.",
-                                                      "values":  [
-                                                                     "80%",
-                                                                     "16"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 50% làm mới thời gian CD kỹ năng đó, mỗi 26s mới thi triển 1 lần.",
-                                                      "values":  [
-                                                                     "50%",
-                                                                     "26"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 70% làm mới thời gian CD kỹ năng đó, mỗi 19s mới thi triển 1 lần.",
-                                                      "values":  [
-                                                                     "70%",
-                                                                     "19"
-                                                                 ]
-                                                  },
-                                           "substatText":  "Hiệu Quả Nạp Nguyên Tố",
-                                           "weaponText":  "Cung",
-                                           "name":  "Cung Tế Lễ",
-                                           "effectTemplateRaw":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e làm mới thời gian CD kỹ năng đó, mỗi \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es mới thi triển 1 lần.",
-                                           "r1":  {
-                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 40% làm mới thời gian CD kỹ năng đó, mỗi 30s mới thi triển 1 lần.",
-                                                      "values":  [
-                                                                     "40%",
-                                                                     "30"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Khí Định Thần"
-                                       },
+                    "cranesechoingcall":  {
+                                              "r3":  {
+                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 54% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
+                                                         "values":  [
+                                                                        "54%",
+                                                                        "3"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 80% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 3.5 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
+                                                         "values":  [
+                                                                        "80%",
+                                                                        "3.5"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 41% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 2.75 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
+                                                         "values":  [
+                                                                        "41%",
+                                                                        "2.75"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 67% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 3.25 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
+                                                         "values":  [
+                                                                        "67%",
+                                                                        "3.25"
+                                                                    ]
+                                                     },
+                                              "substatText":  "Tấn Công",
+                                              "weaponText":  "Pháp Khí",
+                                              "name":  "Dư Âm Tiếng Hạc",
+                                              "effectTemplateRaw":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
+                                              "r1":  {
+                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 28% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 2.5 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
+                                                         "values":  [
+                                                                        "28%",
+                                                                        "2.5"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Vân Cấp Hàng Chân Yếu Quyết"
+                                          },
                     "rainslasher":  {
                                         "r3":  {
                                                    "description":  "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Lôi tăng 28%.",
@@ -9558,6 +9647,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "fracturedhalo":  {
+                                          "r3":  {
+                                                     "description":  "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 36% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 60% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần.",
+                                                     "values":  [
+                                                                    "36%",
+                                                                    "60%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 48% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 80% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần.",
+                                                     "values":  [
+                                                                    "48%",
+                                                                    "80%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 30% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 50% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần.",
+                                                     "values":  [
+                                                                    "30%",
+                                                                    "50%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 42% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 70% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần.",
+                                                     "values":  [
+                                                                    "42%",
+                                                                    "70%"
+                                                                ]
+                                                 },
+                                          "substatText":  "ST Bạo Kích",
+                                          "weaponText":  "Vũ Khí Cán Dài",
+                                          "name":  "Hào Quang Tách Rời",
+                                          "effectTemplateRaw":  "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần.",
+                                          "r1":  {
+                                                     "description":  "Sau khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, Tấn Công tăng 24% trong vòng 20s. Trong thời gian duy trì, nếu người trang bị tạo ra khiên thì trong 20s tiếp theo sẽ nhận hiệu ứng \"Sắc Lệnh Tia Chớp\": Tăng 40% sát thương phản ứng Nguyệt-Điện Cảm của tất cả nhân vật trong đội ở gần.",
+                                                     "values":  [
+                                                                    "24%",
+                                                                    "40%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Vương Miện Sương Trong"
+                                      },
                     "sapwoodblade":  {
                                          "r3":  {
                                                     "description":  "Sau khi kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Tăng Cường, Lan Tràn, Sum Suê, Nở Rộ hoặc Bung Tỏa sẽ sản sinh \"Lá Tri Thức\" tồn tại tối đa 10s ở xung quanh nhân vật. Nhân vật khi nhặt \"Lá Tri Thức\" sẽ tăng 90 điểm Tinh Thông Nguyên Tố, duy trì 12s. Mỗi 20s tối đa sản sinh một \"Lá Tri Thức\" bằng cách này. Nhân vật khi không ra trận cũng sẽ kích hoạt. Hiệu ứng Lá Tri Thức không thể cộng dồn.",
@@ -11381,48 +11512,48 @@
                                                   },
                                            "effectName":  "Vực Sâu Rạng Rỡ"
                                        },
-                    "wavebreakersfin":  {
-                                            "r3":  {
-                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.18% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 60%.",
-                                                       "values":  [
-                                                                      "0.18%",
-                                                                      "60%"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.24% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 80%.",
-                                                       "values":  [
-                                                                      "0.24%",
-                                                                      "80%"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.15% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 50%.",
-                                                       "values":  [
-                                                                      "0.15%",
-                                                                      "50%"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.21% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa 70%.",
-                                                       "values":  [
-                                                                      "0.21%",
-                                                                      "70%"
-                                                                  ]
-                                                   },
-                                            "substatText":  "Tấn Công",
-                                            "weaponText":  "Vũ Khí Cán Dài",
-                                            "name":  "Vây Cá Chẻ Sóng",
-                                            "effectTemplateRaw":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này. Thông qua cách này, sát thương Kỹ Năng Nộ có thể tăng tối đa \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
-                                            "r1":  {
-                                                       "description":  "Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng 0.12% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này gây ra. Thông qua cách này, sát thương Kỹ Năng Nộ tăng tối đa 40%.",
-                                                       "values":  [
-                                                                      "0.12%",
-                                                                      "40%"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Kẻ Cưỡi Sóng Watatsumi"
-                                        },
+                    "flameforgedinsight":  {
+                                               "r3":  {
+                                                          "description":  "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm hoặc Sum Suê, sẽ hồi phục 18 điểm Năng Lượng Nguyên Tố, đồng thời tăng 90 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+                                                          "values":  [
+                                                                         "18",
+                                                                         "90"
+                                                                     ]
+                                                      },
+                                               "r5":  {
+                                                          "description":  "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm hoặc Sum Suê, sẽ hồi phục 24 điểm Năng Lượng Nguyên Tố, đồng thời tăng 120 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+                                                          "values":  [
+                                                                         "24",
+                                                                         "120"
+                                                                     ]
+                                                      },
+                                               "r2":  {
+                                                          "description":  "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm hoặc Sum Suê, sẽ hồi phục 15 điểm Năng Lượng Nguyên Tố, đồng thời tăng 75 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+                                                          "values":  [
+                                                                         "15",
+                                                                         "75"
+                                                                     ]
+                                                      },
+                                               "r4":  {
+                                                          "description":  "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm hoặc Sum Suê, sẽ hồi phục 21 điểm Năng Lượng Nguyên Tố, đồng thời tăng 105 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+                                                          "values":  [
+                                                                         "21",
+                                                                         "105"
+                                                                     ]
+                                                      },
+                                               "substatText":  "Tinh Thông Nguyên Tố",
+                                               "weaponText":  "Trọng Kiếm",
+                                               "name":  "Trí Tuệ Dung Luyện",
+                                               "effectTemplateRaw":  "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm hoặc Sum Suê, sẽ hồi phục \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e điểm Năng Lượng Nguyên Tố, đồng thời tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+                                               "r1":  {
+                                                          "description":  "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm hoặc Sum Suê, sẽ hồi phục 12 điểm Năng Lượng Nguyên Tố, đồng thời tăng 60 điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên.",
+                                                          "values":  [
+                                                                         "12",
+                                                                         "60"
+                                                                     ]
+                                                      },
+                                               "effectName":  "Tâm Tư Nở Rộ"
+                                           },
                     "theunforged":  {
                                         "r3":  {
                                                    "description":  "Hiệu quả khiên tăng 30%. Trong vòng 8s sau khi đánh trúng, tấn công tăng 6%. Cộng dồn 5 tầng, mỗi 0.3s chỉ được thi triển 1 lần. Ngoài ra, khi được khiên bảo vệ, hiệu quả tăng tấn công sẽ tăng 100%.",
@@ -14090,48 +14221,6 @@
                                                  },
                                           "effectName":  "Chúc Phúc Của Rừng"
                                       },
-                    "cranesechoingcall":  {
-                                              "r3":  {
-                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 54% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
-                                                         "values":  [
-                                                                        "54%",
-                                                                        "3"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 80% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 3.5 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
-                                                         "values":  [
-                                                                        "80%",
-                                                                        "3.5"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 41% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 2.75 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
-                                                         "values":  [
-                                                                        "41%",
-                                                                        "2.75"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 67% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 3.25 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
-                                                         "values":  [
-                                                                        "67%",
-                                                                        "3.25"
-                                                                    ]
-                                                     },
-                                              "substatText":  "Tấn Công",
-                                              "weaponText":  "Pháp Khí",
-                                              "name":  "Dư Âm Tiếng Hạc",
-                                              "effectTemplateRaw":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
-                                              "r1":  {
-                                                         "description":  "Người trang bị sau khi Tấn Công Khi Đáp trúng kẻ địch, thì sát thương gây ra từ Tấn Công Khi Đáp của tất cả nhân vật trong đội gần đó tăng 28% trong 20s. Các nhân vật trong đội gần đó khi Tấn Công Khi Đáp trúng kẻ địch, sẽ hồi phục 2.5 điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 0.7s tối đa hồi phục một lần Năng Lượng Nguyên Tố bằng cách này. Người trang bị khi không ra trận vẫn có thể hồi phục Năng Lượng Nguyên Tố bằng cách này.",
-                                                         "values":  [
-                                                                        "28%",
-                                                                        "2.5"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Vân Cấp Hàng Chân Yếu Quyết"
-                                          },
                     "rangegauge":  {
                                        "r3":  {
                                                   "description":  "Khi trị liệu hoặc nhận trị liệu sẽ nhận một Ký Hiệu Đoàn Kết, duy trì 30s, tối đa có được 3 Ký Hiệu. Khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ sẽ tiêu hao tất cả Ký Hiệu để sản sinh hiệu quả Chống Đối trong 10s：Mỗi Ký Hiệu tiêu hao sẽ tăng 5% tấn công và 10% buff sát thương tất cả nguyên tố. Mỗi 15s tối đa kích hoạt một lần hiệu quả Chống Đối; Nhân vật không ra trận cũng có thể nhận được Ký Hiệu Đoàn Kết.",
@@ -15077,6 +15166,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "sacrificialbow":  {
+                                           "r3":  {
+                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 60% làm mới thời gian CD kỹ năng đó, mỗi 22s mới thi triển 1 lần.",
+                                                      "values":  [
+                                                                     "60%",
+                                                                     "22"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 80% làm mới thời gian CD kỹ năng đó, mỗi 16s mới thi triển 1 lần.",
+                                                      "values":  [
+                                                                     "80%",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 50% làm mới thời gian CD kỹ năng đó, mỗi 26s mới thi triển 1 lần.",
+                                                      "values":  [
+                                                                     "50%",
+                                                                     "26"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 70% làm mới thời gian CD kỹ năng đó, mỗi 19s mới thi triển 1 lần.",
+                                                      "values":  [
+                                                                     "70%",
+                                                                     "19"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Hiệu Quả Nạp Nguyên Tố",
+                                           "weaponText":  "Cung",
+                                           "name":  "Cung Tế Lễ",
+                                           "effectTemplateRaw":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e làm mới thời gian CD kỹ năng đó, mỗi \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es mới thi triển 1 lần.",
+                                           "r1":  {
+                                                      "description":  "Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ 40% làm mới thời gian CD kỹ năng đó, mỗi 30s mới thi triển 1 lần.",
+                                                      "values":  [
+                                                                     "40%",
+                                                                     "30"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Khí Định Thần"
+                                       },
                     "dragonsbane":  {
                                         "r3":  {
                                                    "description":  "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Hỏa tăng 28%.",

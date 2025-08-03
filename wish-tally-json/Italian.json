@@ -1586,6 +1586,9 @@
                       "concealedclaw":  {
                                             "name":  "Artiglio nascosto"
                                         },
+                      "drifterscrystalmarrow":  {
+                                                    "name":  "Midollo cristallino dell\u0027errante"
+                                                },
                       "vajradaamethystfragment":  {
                                                       "name":  "Frammento d\u0027ametista Vajrada"
                                                   },
@@ -2283,7 +2286,7 @@
                                          "name":  "Dendrobium"
                                      },
                       "ascendedsampleknight":  {
-                                                   "name":  "Campione asceso: Cavaliere"
+                                                   "name":  "Campione asceso: Cavallo"
                                                },
                       "guidetoingenuity":  {
                                                "name":  "Guida all\u0027ingegno"
@@ -2378,6 +2381,9 @@
                       "energynectar":  {
                                            "name":  "Nettare energetico"
                                        },
+                      "mysteriousbolt":  {
+                                             "name":  "Bullone misterioso"
+                                         },
                       "deadleylineleaves":  {
                                                 "name":  "Foglie geomantiche secche"
                                             },
@@ -3377,47 +3383,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "maschio"
                                     },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani darà il meglio di sé!",
-                                                                         "descriptionRaw":  "#Mualani ottiene 2 accumuli di Slancio ondoso di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2{NON_BREAK_SPACE}s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.",
-                                                                         "description":  "Mualani ottiene 2 accumuli di Slancio ondoso di Squalo spaccaonde quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2 s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Gonfiotti per Sharky",
-                                                                         "descriptionRaw":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e aumentano di un 75%.",
-                                                                         "description":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da Squaloscoppio ondapazza aumentano di un 75%."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surfare su mari di gioia",
-                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                         "description":  "Aumenta di 3 il livello di Squalo spaccaonde.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Tavole da surf in promozione!",
-                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                         "description":  "Aumenta di 3 il livello di Squaloscoppio ondapazza.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Spirito del Popolo delle Sorgenti",
-                                                                         "descriptionRaw":  "L\u0027aumento di DAN derivante dalla costellazione \"La placida \u0027Meztli\u0027...\" non è più limitato a un\u0027unica attivazione durante lo stato di Grazia dell\u0027Anima della Notte.",
-                                                                         "description":  "L\u0027aumento di DAN derivante dalla costellazione \"La placida \u0027Meztli\u0027...\" non è più limitato a un\u0027unica attivazione durante lo stato di Grazia dell\u0027Anima della Notte."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "La placida \"Meztli\"...",
-                                                                         "descriptionRaw":  "Dopo aver attivato lo stato di Grazia dell\u0027Anima della Notte, i DAN inflitti dal primo Morso impetuoso di Sharky e dai relativi Missili squalosi aumentano di un 66% dei PS max di Mualani. Questa iterazione di DAN aumentati è soggetta alle medesime regole di riduzione di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e.\nInoltre, quando non è in combattimento, lo stato di Grazia dell\u0027Anima della Notte di Mualani consuma un 30% di Flogisto e di punti Anima della Notte in meno.",
-                                                                         "description":  "Dopo aver attivato lo stato di Grazia dell\u0027Anima della Notte, i DAN inflitti dal primo Morso impetuoso di Sharky e dai relativi Missili squalosi aumentano di un 66% dei PS max di Mualani. Questa iterazione di DAN aumentati è soggetta alle medesime regole di riduzione di Squalo spaccaonde.\nInoltre, quando non è in combattimento, lo stato di Grazia dell\u0027Anima della Notte di Mualani consuma un 30% di Flogisto e di punti Anima della Notte in meno."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalizzatore",
-                                       "name":  "Mualani",
-                                       "substatText":  "Tasso di CRIT",
-                                       "region":  "Natlan",
-                                       "gender":  "femmina"
-                                   },
+                       "ineffa":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Modulo di pulizia ausiliario",
+                                                                        "descriptionRaw":  "Dopo che il Tripudio elementale \u003ccolor=#FFD780FF\u003e{LINK#S11165}Ordine supremo: Disinfestazione ciclonica{/LINK}\u003c/color\u003e ha colpito gli avversari, uno di loro subisce lo stato Editto punitivo: dopo un breve periodo di tempo, o quando il suddetto avversario viene sconfitto, gli avversari vicini subiscono \u003ccolor=#FFACFFFF\u003eDAN da Electro ad area\u003c/color\u003e pari a un 300% dell\u0027ATT di Ineffa. Tali DAN sono considerati DAN da Carica lunare.\nInoltre, quando viene scatenato il Tripudio elementale \u003ccolor=#FFD780FF\u003eOrdine supremo: Disinfestazione ciclonica\u003c/color\u003e, i membri vicini del gruppo ottengono uno Scudo flussottico.",
+                                                                        "description":  "Dopo che il Tripudio elementale **Ordine supremo: Disinfestazione ciclonica** ha colpito gli avversari, uno di loro subisce lo stato Editto punitivo: dopo un breve periodo di tempo, o quando il suddetto avversario viene sconfitto, gli avversari vicini subiscono DAN da Electro ad area pari a un 300% dell\u0027ATT di Ineffa. Tali DAN sono considerati DAN da Carica lunare.\nInoltre, quando viene scatenato il Tripudio elementale Ordine supremo: Disinfestazione ciclonica, i membri vicini del gruppo ottengono uno Scudo flussottico."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Percorso privo d\u0027editti",
+                                                                        "descriptionRaw":  "#Quando i membri del tuo gruppo innescano reazioni di Carica lunare, l\u0027energia elementale si ripristina di 5. Quest\u0027effetto può verificarsi una volta ogni 4{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Quando i membri del tuo gruppo innescano reazioni di Carica lunare, l\u0027energia elementale si ripristina di 5. Quest\u0027effetto può verificarsi una volta ogni 4 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Emulatore di emozioni potenziato",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003e{LINK#S11162}Modalità Pulizia: Frequenza stabile{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di **Modalità Pulizia: Frequenza stabile**.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Trascendenza onirica dello specchio",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003e{LINK#S11165}Ordine supremo: Disinfestazione ciclonica{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di **Ordine supremo: Disinfestazione ciclonica**.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Una nuova alba per te",
+                                                                        "descriptionRaw":  "#Quando Ineffa è sotto l\u0027effetto di Flusso trasportatore composito, infligge \u003ccolor=#FFACFFFF\u003eDAN da Electro ad area\u003c/color\u003e pari a un 135% del suo ATT agli avversari nelle vicinanze del personaggio attivo dopo che le nubi temporalesche vicine hanno scagliato scariche fulminanti contro gli avversari. Tali DAN sono considerati DAN da Carica lunare. Il suddetto effetto può attivarsi una volta ogni 3,5{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Quando Ineffa è sotto l\u0027effetto di Flusso trasportatore composito, infligge DAN da Electro ad area pari a un 135% del suo ATT agli avversari nelle vicinanze del personaggio attivo dopo che le nubi temporalesche vicine hanno scagliato scariche fulminanti contro gli avversari. Tali DAN sono considerati DAN da Carica lunare. Il suddetto effetto può attivarsi una volta ogni 3,5 s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Processore di rettifica",
+                                                                        "descriptionRaw":  "#Quando Ineffa attiva il suo Scudo flussottico, tutti i membri vicini del gruppo ottengono l\u0027effetto Flusso trasportatore composito per 20{NON_BREAK_SPACE}s, che aumenta i DAN da Carica lunare di un 2,5% per ogni 100 di ATT di Ineffa, fino a un 50% massimo.",
+                                                                        "description":  "Quando Ineffa attiva il suo Scudo flussottico, tutti i membri vicini del gruppo ottengono l\u0027effetto Flusso trasportatore composito per 20 s, che aumenta i DAN da Carica lunare di un 2,5% per ogni 100 di ATT di Ineffa, fino a un 50% massimo."
+                                                                    }
+                                                         },
+                                      "elementText":  "Electro",
+                                      "fullname":  null,
+                                      "weaponText":  "Lancia",
+                                      "name":  "Ineffa",
+                                      "substatText":  "Tasso di CRIT",
+                                      "region":  null,
+                                      "gender":  "femmina"
+                                  },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3746,47 +3752,47 @@
                                       "region":  "Liyue",
                                       "gender":  "femmina"
                                   },
-                       "thoma":  {
-                                     "constellations":  {
-                                                            "c2":  {
-                                                                       "name":  "Le abilità di un sottoposto",
-                                                                       "descriptionRaw":  "#La durata di \u003ccolor=#FFD780FF\u003eOoyoroi cremisi\u003c/color\u003e aumenta di 3{NON_BREAK_SPACE}s.",
-                                                                       "description":  "La durata di Ooyoroi cremisi aumenta di 3 s."
-                                                                   },
-                                                            "c4":  {
-                                                                       "name":  "Piano a lungo termine",
-                                                                       "descriptionRaw":  "Dopo aver usato \u003ccolor=#FFD780FF\u003eOoyoroi cremisi\u003c/color\u003e, l\u0027energia di Thoma si ripristina di 15.",
-                                                                       "description":  "Dopo aver usato Ooyoroi cremisi, l\u0027energia di Thoma si ripristina di 15."
-                                                                   },
-                                                            "c3":  {
-                                                                       "name":  "Determinazione incrollabile",
-                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eBenedizione ardente\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                       "description":  "Aumenta di 3 il livello di Benedizione ardente.\nIl livello di potenziamento massimo è 15."
-                                                                   },
-                                                            "c5":  {
-                                                                       "name":  "Fiamme furiose",
-                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eOoyoroi cremisi\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                       "description":  "Aumenta di 3 il livello di Ooyoroi cremisi.\nIl livello di potenziamento massimo è 15."
-                                                                   },
-                                                            "c6":  {
-                                                                       "name":  "Cuore ardente",
-                                                                       "descriptionRaw":  "#Quando una \u003ccolor=#FFD780FF\u003eBarriera ardente\u003c/color\u003e viene ottenuta o ripristinata, i DAN inflitti dagli attacchi normali, caricati e in picchiata di tutti i membri del gruppo aumentano di un 15% per 6{NON_BREAK_SPACE}s.",
-                                                                       "description":  "Quando una Barriera ardente viene ottenuta o ripristinata, i DAN inflitti dagli attacchi normali, caricati e in picchiata di tutti i membri del gruppo aumentano di un 15% per 6 s."
-                                                                   },
-                                                            "c1":  {
-                                                                       "name":  "Compagno fedele",
-                                                                       "descriptionRaw":  "#Quando un personaggio protetto da \u003ccolor=#FFD780FF\u003eBarriera ardente\u003c/color\u003e di Thoma (escluso Thoma) viene attaccato, il TdR di \u003ccolor=#FFD780FF\u003eBenedizione ardente\u003c/color\u003e di Thoma e del suo \u003ccolor=#FFD780FF\u003eOoyoroi cremisi\u003c/color\u003e si riducono di 3{NON_BREAK_SPACE}s.\nQuest\u0027effetto può attivarsi una volta ogni 20{NON_BREAK_SPACE}s.",
-                                                                       "description":  "Quando un personaggio protetto da Barriera ardente di Thoma (escluso Thoma) viene attaccato, il TdR di Benedizione ardente di Thoma e del suo Ooyoroi cremisi si riducono di 3 s.\nQuest\u0027effetto può attivarsi una volta ogni 20 s."
-                                                                   }
-                                                        },
-                                     "elementText":  "Pyro",
-                                     "fullname":  null,
-                                     "weaponText":  "Lancia",
-                                     "name":  "Thoma",
-                                     "substatText":  "ATT",
-                                     "region":  "Inazuma",
-                                     "gender":  "maschio"
-                                 },
+                       "lynette":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Misteri sconfinati",
+                                                                         "descriptionRaw":  "Ogni volta che la Scatola Stravagatto evocata da \u003ccolor=#FFD780FF\u003eGioco di prestigio: Trasmutazione mirabolante\u003c/color\u003e scaglia un Colpo vivido, ne scaglia uno in più.",
+                                                                         "description":  "Ogni volta che la Scatola Stravagatto evocata da Gioco di prestigio: Trasmutazione mirabolante scaglia un Colpo vivido, ne scaglia uno in più."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Accordo tacito",
+                                                                         "descriptionRaw":  "Aumenta di 1 le cariche di \u003ccolor=#FFD780FF\u003eSimulazione enigmatica\u003c/color\u003e.",
+                                                                         "description":  "Aumenta di 1 le cariche di Simulazione enigmatica."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Conoscenza invertita",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eGioco di prestigio: Trasmutazione mirabolante\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Gioco di prestigio: Trasmutazione mirabolante.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Ambiguità oscurante",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSimulazione enigmatica\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Simulazione enigmatica.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Occhio vigile",
+                                                                         "descriptionRaw":  "#Quando Lynette usa la Stoccata enigmatica di \u003ccolor=#FFD780FF\u003eSimulazione enigmatica\u003c/color\u003e, ottiene un\u0027\u003ccolor=#80FFD7FF\u003einfusione di Anemo\u003c/color\u003e e un 20% di \u003ccolor=#80FFD7FF\u003ebonus DAN da Anemo\u003c/color\u003e per 6{NON_BREAK_SPACE}s.",
+                                                                         "description":  "Quando Lynette usa la Stoccata enigmatica di Simulazione enigmatica, ottiene un\u0027infusione di Anemo e un 20% di bonus DAN da Anemo per 6 s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Ombra sferzante",
+                                                                         "descriptionRaw":  "Quando un avversario con il Marchio d\u0027ombra viene colpito dalla Stoccata enigmatica di \u003ccolor=#FFD780FF\u003eSimulazione enigmatica\u003c/color\u003e, si genera un vortice nella sua posizione che risucchia gli avversari vicini.",
+                                                                         "description":  "Quando un avversario con il Marchio d\u0027ombra viene colpito dalla Stoccata enigmatica di Simulazione enigmatica, si genera un vortice nella sua posizione che risucchia gli avversari vicini."
+                                                                     }
+                                                          },
+                                       "elementText":  "Anemo",
+                                       "fullname":  null,
+                                       "weaponText":  "Spada",
+                                       "name":  "Lynette",
+                                       "substatText":  "Bonus DAN da Anemo",
+                                       "region":  "Fontaine",
+                                       "gender":  "femmina"
+                                   },
                        "yanfei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3837,8 +3843,8 @@
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Austerità: Guardia arcigna",
-                                                                      "descriptionRaw":  "Quando Cyno è nello stato di Precorritore giurato attivato da \u003ccolor=#FFD780FF\u003eRito sacro: Destrezza del lupo\u003c/color\u003e, dopo aver innescato una reazione di Electrocarica, Superconduzione, Sovraccarico, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, ripristina di 3 l\u0027energia elementale di tutti i membri del gruppo vicini (tranne sé stesso).\nQuest\u0027effetto può verificarsi 5 volte con un unico uso di \u003ccolor=#FFD780FF\u003eRito sacro: Destrezza del lupo\u003c/color\u003e.",
-                                                                      "description":  "Quando Cyno è nello stato di Precorritore giurato attivato da Rito sacro: Destrezza del lupo, dopo aver innescato una reazione di Electrocarica, Superconduzione, Sovraccarico, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, ripristina di 3 l\u0027energia elementale di tutti i membri del gruppo vicini (tranne sé stesso).\nQuest\u0027effetto può verificarsi 5 volte con un unico uso di Rito sacro: Destrezza del lupo."
+                                                                      "descriptionRaw":  "Quando Cyno è nello stato di Precorritore giurato attivato da \u003ccolor=#FFD780FF\u003eRito sacro: Destrezza del lupo\u003c/color\u003e, dopo aver innescato una reazione di Electrocarica, Carica lunare, Superconduzione, Sovraccarico, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, ripristina di 3 l\u0027energia elementale di tutti i membri del gruppo vicini (tranne sé stesso).\nQuest\u0027effetto può verificarsi 5 volte con un unico uso di \u003ccolor=#FFD780FF\u003eRito sacro: Destrezza del lupo\u003c/color\u003e.",
+                                                                      "description":  "Quando Cyno è nello stato di Precorritore giurato attivato da Rito sacro: Destrezza del lupo, dopo aver innescato una reazione di Electrocarica, Carica lunare, Superconduzione, Sovraccarico, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, ripristina di 3 l\u0027energia elementale di tutti i membri del gruppo vicini (tranne sé stesso).\nQuest\u0027effetto può verificarsi 5 volte con un unico uso di Rito sacro: Destrezza del lupo."
                                                                   },
                                                            "c3":  {
                                                                       "name":  "Precetto: Tutore della legge",
@@ -4115,47 +4121,40 @@
                                      "region":  "Sumeru",
                                      "gender":  "femmina"
                                  },
-                       "lynette":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Misteri sconfinati",
-                                                                         "descriptionRaw":  "Ogni volta che la Scatola Stravagatto evocata da \u003ccolor=#FFD780FF\u003eGioco di prestigio: Trasmutazione mirabolante\u003c/color\u003e scaglia un Colpo vivido, ne scaglia uno in più.",
-                                                                         "description":  "Ogni volta che la Scatola Stravagatto evocata da Gioco di prestigio: Trasmutazione mirabolante scaglia un Colpo vivido, ne scaglia uno in più."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Accordo tacito",
-                                                                         "descriptionRaw":  "Aumenta di 1 le cariche di \u003ccolor=#FFD780FF\u003eSimulazione enigmatica\u003c/color\u003e.",
-                                                                         "description":  "Aumenta di 1 le cariche di Simulazione enigmatica."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Conoscenza invertita",
-                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eGioco di prestigio: Trasmutazione mirabolante\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                         "description":  "Aumenta di 3 il livello di Gioco di prestigio: Trasmutazione mirabolante.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Ambiguità oscurante",
-                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSimulazione enigmatica\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                         "description":  "Aumenta di 3 il livello di Simulazione enigmatica.\nIl livello di potenziamento massimo è 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Occhio vigile",
-                                                                         "descriptionRaw":  "#Quando Lynette usa la Stoccata enigmatica di \u003ccolor=#FFD780FF\u003eSimulazione enigmatica\u003c/color\u003e, ottiene un\u0027\u003ccolor=#80FFD7FF\u003einfusione di Anemo\u003c/color\u003e e un 20% di \u003ccolor=#80FFD7FF\u003ebonus DAN da Anemo\u003c/color\u003e per 6{NON_BREAK_SPACE}s.",
-                                                                         "description":  "Quando Lynette usa la Stoccata enigmatica di Simulazione enigmatica, ottiene un\u0027infusione di Anemo e un 20% di bonus DAN da Anemo per 6 s."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Ombra sferzante",
-                                                                         "descriptionRaw":  "Quando un avversario con il Marchio d\u0027ombra viene colpito dalla Stoccata enigmatica di \u003ccolor=#FFD780FF\u003eSimulazione enigmatica\u003c/color\u003e, si genera un vortice nella sua posizione che risucchia gli avversari vicini.",
-                                                                         "description":  "Quando un avversario con il Marchio d\u0027ombra viene colpito dalla Stoccata enigmatica di Simulazione enigmatica, si genera un vortice nella sua posizione che risucchia gli avversari vicini."
-                                                                     }
-                                                          },
-                                       "elementText":  "Anemo",
-                                       "fullname":  null,
-                                       "weaponText":  "Spada",
-                                       "name":  "Lynette",
-                                       "substatText":  "Bonus DAN da Anemo",
-                                       "region":  "Fontaine",
-                                       "gender":  "femmina"
-                                   },
+                       "travelerhydro":  {
+                                             "constellations":  {
+                                                                    "c2":  {
+                                                                               "name":  "Stilla di purezza",
+                                                                               "descriptionRaw":  "#La VEL di movimento della bolla creata da \u003ccolor=#FFD780FF\u003eAcque nascenti\u003c/color\u003e si riduce di un 30%, e la sua durata aumenta di 3{NON_BREAK_SPACE}s.",
+                                                                               "description":  "La VEL di movimento della bolla creata da Acque nascenti si riduce di un 30%, e la sua durata aumenta di 3 s."
+                                                                           },
+                                                                    "c4":  {
+                                                                               "name":  "Discesa scrosciante",
+                                                                               "descriptionRaw":  "#Utilizzando \u003ccolor=#FFD780FF\u003eFendente dell\u0027Emblema acqueo\u003c/color\u003e, si materializza un\u0027Egida dell\u0027Emblema acqueo in grado di assorbire i DAN subiti dal{F#la }{M# }viaggiat{F#rice}{M#ore} pari a un 10% dei suoi PS max, e che assorbe i \u003ccolor=#80C0FFFF\u003eDAN da Hydro\u003c/color\u003e con un 250% di efficienza. L\u0027Egida dell\u0027Emblema acqueo persiste finché {F#la}{M#il} viaggiat{F#rice}{M#ore} non termina l\u0027uso dell\u0027abilità.\nUna volta ogni 2{NON_BREAK_SPACE}s, quando una Goccia di rugiada colpisce un avversario, se {F#la}{M#il} viaggiat{F#rice}{M#ore} è protett{F#a}{M#o} dall\u0027Egida dell\u0027Emblema acqueo, l\u0027assorbimento DAN di quest\u0027ultima si ripristina a un 10% dei PS max del{F#la }{M# }viaggiat{F#rice}{M#ore}. Se {F#la}{M#il} viaggiat{F#rice}{M#ore} non è protett{F#a}{M#o} da un\u0027Egida, se ne materializza una nuova.",
+                                                                               "description":  "Utilizzando Fendente dell\u0027Emblema acqueo, si materializza un\u0027Egida dell\u0027Emblema acqueo in grado di assorbire i DAN subiti dal viaggiatore pari a un 10% dei suoi PS max, e che assorbe i DAN da Hydro con un 250% di efficienza. L\u0027Egida dell\u0027Emblema acqueo persiste finché il viaggiatore non termina l\u0027uso dell\u0027abilità.\nUna volta ogni 2 s, quando una Goccia di rugiada colpisce un avversario, se il viaggiatore è protetto dall\u0027Egida dell\u0027Emblema acqueo, l\u0027assorbimento DAN di quest\u0027ultima si ripristina a un 10% dei PS max del viaggiatore. Se il viaggiatore non è protetto da un\u0027Egida, se ne materializza una nuova."
+                                                                           },
+                                                                    "c3":  {
+                                                                               "name":  "Acque increspate",
+                                                                               "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eFendente dell\u0027Emblema acqueo\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                               "description":  "Aumenta di 3 il livello di Fendente dell\u0027Emblema acqueo.\nIl livello di potenziamento massimo è 15."
+                                                                           },
+                                                                    "c5":  {
+                                                                               "name":  "Gorgo burrascoso",
+                                                                               "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eAcque nascenti\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                               "description":  "Aumenta di 3 il livello di Acque nascenti.\nIl livello di potenziamento massimo è 15."
+                                                                           },
+                                                                    "c6":  {
+                                                                               "name":  "Maree della Giustizia",
+                                                                               "descriptionRaw":  "#Quando {F#la}{M#il} viaggiat{F#rice}{M#ore} raccoglie una Goccia d\u0027acqua sorgiva, ripristina un 6% dei PS max del membro del gruppo vicino con la percentuale di PS rimanenti più bassa.",
+                                                                               "description":  "Quando il viaggiatore raccoglie una Goccia d\u0027acqua sorgiva, ripristina un 6% dei PS max del membro del gruppo vicino con la percentuale di PS rimanenti più bassa."
+                                                                           },
+                                                                    "c1":  {
+                                                                               "name":  "Lago esondante",
+                                                                               "descriptionRaw":  "#Raccogliere una Goccia d\u0027acqua sorgiva ripristina 2 di energia del{F#la }{M# }viaggiat{F#rice}{M#ore}.\nRichiede il talento passivo Acque incontaminate.",
+                                                                               "description":  "Raccogliere una Goccia d\u0027acqua sorgiva ripristina 2 di energia del viaggiatore.\nRichiede il talento passivo Acque incontaminate."
+                                                                           }
+                                                                }
+                                         },
                        "kujousara":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -4361,6 +4360,47 @@
                                       "region":  "Natlan",
                                       "gender":  "maschio"
                                   },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani darà il meglio di sé!",
+                                                                         "descriptionRaw":  "#Mualani ottiene 2 accumuli di Slancio ondoso di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2{NON_BREAK_SPACE}s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.",
+                                                                         "description":  "Mualani ottiene 2 accumuli di Slancio ondoso di Squalo spaccaonde quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2 s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Gonfiotti per Sharky",
+                                                                         "descriptionRaw":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e aumentano di un 75%.",
+                                                                         "description":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da Squaloscoppio ondapazza aumentano di un 75%."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surfare su mari di gioia",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Squalo spaccaonde.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Tavole da surf in promozione!",
+                                                                         "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                         "description":  "Aumenta di 3 il livello di Squaloscoppio ondapazza.\nIl livello di potenziamento massimo è 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Spirito del Popolo delle Sorgenti",
+                                                                         "descriptionRaw":  "L\u0027aumento di DAN derivante dalla costellazione \"La placida \u0027Meztli\u0027...\" non è più limitato a un\u0027unica attivazione durante lo stato di Grazia dell\u0027Anima della Notte.",
+                                                                         "description":  "L\u0027aumento di DAN derivante dalla costellazione \"La placida \u0027Meztli\u0027...\" non è più limitato a un\u0027unica attivazione durante lo stato di Grazia dell\u0027Anima della Notte."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "La placida \"Meztli\"...",
+                                                                         "descriptionRaw":  "Dopo aver attivato lo stato di Grazia dell\u0027Anima della Notte, i DAN inflitti dal primo Morso impetuoso di Sharky e dai relativi Missili squalosi aumentano di un 66% dei PS max di Mualani. Questa iterazione di DAN aumentati è soggetta alle medesime regole di riduzione di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e.\nInoltre, quando non è in combattimento, lo stato di Grazia dell\u0027Anima della Notte di Mualani consuma un 30% di Flogisto e di punti Anima della Notte in meno.",
+                                                                         "description":  "Dopo aver attivato lo stato di Grazia dell\u0027Anima della Notte, i DAN inflitti dal primo Morso impetuoso di Sharky e dai relativi Missili squalosi aumentano di un 66% dei PS max di Mualani. Questa iterazione di DAN aumentati è soggetta alle medesime regole di riduzione di Squalo spaccaonde.\nInoltre, quando non è in combattimento, lo stato di Grazia dell\u0027Anima della Notte di Mualani consuma un 30% di Flogisto e di punti Anima della Notte in meno."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalizzatore",
+                                       "name":  "Mualani",
+                                       "substatText":  "Tasso di CRIT",
+                                       "region":  "Natlan",
+                                       "gender":  "femmina"
+                                   },
                        "collei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5549,40 +5589,6 @@
                                       "region":  "Fontaine",
                                       "gender":  "femmina"
                                   },
-                       "travelerhydro":  {
-                                             "constellations":  {
-                                                                    "c2":  {
-                                                                               "name":  "Stilla di purezza",
-                                                                               "descriptionRaw":  "#La VEL di movimento della bolla creata da \u003ccolor=#FFD780FF\u003eAcque nascenti\u003c/color\u003e si riduce di un 30%, e la sua durata aumenta di 3{NON_BREAK_SPACE}s.",
-                                                                               "description":  "La VEL di movimento della bolla creata da Acque nascenti si riduce di un 30%, e la sua durata aumenta di 3 s."
-                                                                           },
-                                                                    "c4":  {
-                                                                               "name":  "Discesa scrosciante",
-                                                                               "descriptionRaw":  "#Utilizzando \u003ccolor=#FFD780FF\u003eFendente dell\u0027Emblema acqueo\u003c/color\u003e, si materializza un\u0027Egida dell\u0027Emblema acqueo in grado di assorbire i DAN subiti dal{F#la }{M# }viaggiat{F#rice}{M#ore} pari a un 10% dei suoi PS max, e che assorbe i \u003ccolor=#80C0FFFF\u003eDAN da Hydro\u003c/color\u003e con un 250% di efficienza. L\u0027Egida dell\u0027Emblema acqueo persiste finché {F#la}{M#il} viaggiat{F#rice}{M#ore} non termina l\u0027uso dell\u0027abilità.\nUna volta ogni 2{NON_BREAK_SPACE}s, quando una Goccia di rugiada colpisce un avversario, se {F#la}{M#il} viaggiat{F#rice}{M#ore} è protett{F#a}{M#o} dall\u0027Egida dell\u0027Emblema acqueo, l\u0027assorbimento DAN di quest\u0027ultima si ripristina a un 10% dei PS max del{F#la }{M# }viaggiat{F#rice}{M#ore}. Se {F#la}{M#il} viaggiat{F#rice}{M#ore} non è protett{F#a}{M#o} da un\u0027Egida, se ne materializza una nuova.",
-                                                                               "description":  "Utilizzando Fendente dell\u0027Emblema acqueo, si materializza un\u0027Egida dell\u0027Emblema acqueo in grado di assorbire i DAN subiti dal viaggiatore pari a un 10% dei suoi PS max, e che assorbe i DAN da Hydro con un 250% di efficienza. L\u0027Egida dell\u0027Emblema acqueo persiste finché il viaggiatore non termina l\u0027uso dell\u0027abilità.\nUna volta ogni 2 s, quando una Goccia di rugiada colpisce un avversario, se il viaggiatore è protetto dall\u0027Egida dell\u0027Emblema acqueo, l\u0027assorbimento DAN di quest\u0027ultima si ripristina a un 10% dei PS max del viaggiatore. Se il viaggiatore non è protetto da un\u0027Egida, se ne materializza una nuova."
-                                                                           },
-                                                                    "c3":  {
-                                                                               "name":  "Acque increspate",
-                                                                               "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eFendente dell\u0027Emblema acqueo\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                               "description":  "Aumenta di 3 il livello di Fendente dell\u0027Emblema acqueo.\nIl livello di potenziamento massimo è 15."
-                                                                           },
-                                                                    "c5":  {
-                                                                               "name":  "Gorgo burrascoso",
-                                                                               "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eAcque nascenti\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
-                                                                               "description":  "Aumenta di 3 il livello di Acque nascenti.\nIl livello di potenziamento massimo è 15."
-                                                                           },
-                                                                    "c6":  {
-                                                                               "name":  "Maree della Giustizia",
-                                                                               "descriptionRaw":  "#Quando {F#la}{M#il} viaggiat{F#rice}{M#ore} raccoglie una Goccia d\u0027acqua sorgiva, ripristina un 6% dei PS max del membro del gruppo vicino con la percentuale di PS rimanenti più bassa.",
-                                                                               "description":  "Quando il viaggiatore raccoglie una Goccia d\u0027acqua sorgiva, ripristina un 6% dei PS max del membro del gruppo vicino con la percentuale di PS rimanenti più bassa."
-                                                                           },
-                                                                    "c1":  {
-                                                                               "name":  "Lago esondante",
-                                                                               "descriptionRaw":  "#Raccogliere una Goccia d\u0027acqua sorgiva ripristina 2 di energia del{F#la }{M# }viaggiat{F#rice}{M#ore}.\nRichiede il talento passivo Acque incontaminate.",
-                                                                               "description":  "Raccogliere una Goccia d\u0027acqua sorgiva ripristina 2 di energia del viaggiatore.\nRichiede il talento passivo Acque incontaminate."
-                                                                           }
-                                                                }
-                                         },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6276,6 +6282,47 @@
                                     "region":  "Liyue",
                                     "gender":  "maschio"
                                 },
+                       "thoma":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Le abilità di un sottoposto",
+                                                                       "descriptionRaw":  "#La durata di \u003ccolor=#FFD780FF\u003eOoyoroi cremisi\u003c/color\u003e aumenta di 3{NON_BREAK_SPACE}s.",
+                                                                       "description":  "La durata di Ooyoroi cremisi aumenta di 3 s."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Piano a lungo termine",
+                                                                       "descriptionRaw":  "Dopo aver usato \u003ccolor=#FFD780FF\u003eOoyoroi cremisi\u003c/color\u003e, l\u0027energia di Thoma si ripristina di 15.",
+                                                                       "description":  "Dopo aver usato Ooyoroi cremisi, l\u0027energia di Thoma si ripristina di 15."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Determinazione incrollabile",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eBenedizione ardente\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello di Benedizione ardente.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Fiamme furiose",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003eOoyoroi cremisi\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello di Ooyoroi cremisi.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Cuore ardente",
+                                                                       "descriptionRaw":  "#Quando una \u003ccolor=#FFD780FF\u003eBarriera ardente\u003c/color\u003e viene ottenuta o ripristinata, i DAN inflitti dagli attacchi normali, caricati e in picchiata di tutti i membri del gruppo aumentano di un 15% per 6{NON_BREAK_SPACE}s.",
+                                                                       "description":  "Quando una Barriera ardente viene ottenuta o ripristinata, i DAN inflitti dagli attacchi normali, caricati e in picchiata di tutti i membri del gruppo aumentano di un 15% per 6 s."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Compagno fedele",
+                                                                       "descriptionRaw":  "#Quando un personaggio protetto da \u003ccolor=#FFD780FF\u003eBarriera ardente\u003c/color\u003e di Thoma (escluso Thoma) viene attaccato, il TdR di \u003ccolor=#FFD780FF\u003eBenedizione ardente\u003c/color\u003e di Thoma e del suo \u003ccolor=#FFD780FF\u003eOoyoroi cremisi\u003c/color\u003e si riducono di 3{NON_BREAK_SPACE}s.\nQuest\u0027effetto può attivarsi una volta ogni 20{NON_BREAK_SPACE}s.",
+                                                                       "description":  "Quando un personaggio protetto da Barriera ardente di Thoma (escluso Thoma) viene attaccato, il TdR di Benedizione ardente di Thoma e del suo Ooyoroi cremisi si riducono di 3 s.\nQuest\u0027effetto può attivarsi una volta ogni 20 s."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Lancia",
+                                     "name":  "Thoma",
+                                     "substatText":  "ATT",
+                                     "region":  "Inazuma",
+                                     "gender":  "maschio"
+                                 },
                        "venti":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6756,8 +6803,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Profezia sommersa",
-                                                                      "descriptionRaw":  "#Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle \u003ccolor=#80C0FFFF\u003ereazioni elementali di Hydro\u003c/color\u003e sono potenziati per 8{NON_BREAK_SPACE}s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%.",
-                                                                      "description":  "Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle reazioni elementali di Hydro sono potenziati per 8 s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%."
+                                                                      "descriptionRaw":  "#Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle \u003ccolor=#80C0FFFF\u003ereazioni elementali di Hydro\u003c/color\u003e sono potenziati per 8{NON_BREAK_SPACE}s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Carica lunare aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%.",
+                                                                      "description":  "Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle reazioni elementali di Hydro sono potenziati per 8 s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Carica lunare aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%."
                                                                   }
                                                        },
                                     "elementText":  "Hydro",
@@ -7344,25 +7391,25 @@
                                             },
                     "darkironsword":  {
                                           "r3":  {
-                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, l\u0027ATT aumenta di un 30% per 12 s.",
+                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l\u0027ATT aumenta di un 30% per 12 s.",
                                                      "values":  [
                                                                     "30%"
                                                                 ]
                                                  },
                                           "r5":  {
-                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, l\u0027ATT aumenta di un 40% per 12 s.",
+                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l\u0027ATT aumenta di un 40% per 12 s.",
                                                      "values":  [
                                                                     "40%"
                                                                 ]
                                                  },
                                           "r2":  {
-                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, l\u0027ATT aumenta di un 25% per 12 s.",
+                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l\u0027ATT aumenta di un 25% per 12 s.",
                                                      "values":  [
                                                                     "25%"
                                                                 ]
                                                  },
                                           "r4":  {
-                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, l\u0027ATT aumenta di un 35% per 12 s.",
+                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l\u0027ATT aumenta di un 35% per 12 s.",
                                                      "values":  [
                                                                     "35%"
                                                                 ]
@@ -7370,9 +7417,9 @@
                                           "substatText":  "Maestria elementale",
                                           "weaponText":  "Spada",
                                           "name":  "Spada di ferro scuro",
-                                          "effectTemplateRaw":  "#Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, l\u0027ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 12{NON_BREAK_SPACE}s.",
+                                          "effectTemplateRaw":  "#Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l\u0027ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 12{NON_BREAK_SPACE}s.",
                                           "r1":  {
-                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, l\u0027ATT aumenta di un 20% per 12 s.",
+                                                     "description":  "Dopo aver causato una reazione di Sovraccarico, Superconduzione, Electrocarica, Vivificazione, Accentuazione, Iperfioritura, Carica lunare o Turbinio di Electro, l\u0027ATT aumenta di un 20% per 12 s.",
                                                      "values":  [
                                                                     "20%"
                                                                 ]
@@ -8176,25 +8223,25 @@
                                      },
                     "emeraldorb":  {
                                        "r3":  {
-                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura o Turbinio di Hydro, l\u0027ATT aumenta di un 30% per 12 s.",
+                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare o Turbinio di Hydro, l\u0027ATT aumenta di un 30% per 12 s.",
                                                   "values":  [
                                                                  "30%"
                                                              ]
                                               },
                                        "r5":  {
-                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura o Turbinio di Hydro, l\u0027ATT aumenta di un 40% per 12 s.",
+                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare o Turbinio di Hydro, l\u0027ATT aumenta di un 40% per 12 s.",
                                                   "values":  [
                                                                  "40%"
                                                              ]
                                               },
                                        "r2":  {
-                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura o Turbinio di Hydro, l\u0027ATT aumenta di un 25% per 12 s.",
+                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare o Turbinio di Hydro, l\u0027ATT aumenta di un 25% per 12 s.",
                                                   "values":  [
                                                                  "25%"
                                                              ]
                                               },
                                        "r4":  {
-                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura o Turbinio di Hydro, l\u0027ATT aumenta di un 35% per 12 s.",
+                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare o Turbinio di Hydro, l\u0027ATT aumenta di un 35% per 12 s.",
                                                   "values":  [
                                                                  "35%"
                                                              ]
@@ -8202,9 +8249,9 @@
                                        "substatText":  "Maestria elementale",
                                        "weaponText":  "Catalizzatore",
                                        "name":  "Sfera smeraldina",
-                                       "effectTemplateRaw":  "#Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura o Turbinio di Hydro, l\u0027ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 12{NON_BREAK_SPACE}s.",
+                                       "effectTemplateRaw":  "#Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare o Turbinio di Hydro, l\u0027ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 12{NON_BREAK_SPACE}s.",
                                        "r1":  {
-                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura o Turbinio di Hydro, l\u0027ATT aumenta di un 20% per 12 s.",
+                                                  "description":  "Dopo aver causato una reazione di Vaporizzazione, Electrocarica, Congelamento, Fioritura, Carica lunare o Turbinio di Hydro, l\u0027ATT aumenta di un 20% per 12 s.",
                                                   "values":  [
                                                                  "20%"
                                                              ]
@@ -8295,6 +8342,48 @@
                                                },
                                         "effectName":  "Assioma litico: Unità"
                                     },
+                    "wavebreakersfin":  {
+                                            "r3":  {
+                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,18%. In questo modo è possibile ottenere fino a un 60% di aumento dei DAN da Tripudio elementale.",
+                                                       "values":  [
+                                                                      "0,18%",
+                                                                      "60%"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,24%. In questo modo è possibile ottenere fino a un 80% di aumento dei DAN da Tripudio elementale.",
+                                                       "values":  [
+                                                                      "0,24%",
+                                                                      "80%"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,15%. In questo modo è possibile ottenere fino a un 50% di aumento dei DAN da Tripudio elementale.",
+                                                       "values":  [
+                                                                      "0,15%",
+                                                                      "50%"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,21%. In questo modo è possibile ottenere fino a un 70% di aumento dei DAN da Tripudio elementale.",
+                                                       "values":  [
+                                                                      "0,21%",
+                                                                      "70%"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ATT",
+                                            "weaponText":  "Lancia",
+                                            "name":  "Pinna del Frangionde",
+                                            "effectTemplateRaw":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. In questo modo è possibile ottenere fino a un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e di aumento dei DAN da Tripudio elementale.",
+                                            "r1":  {
+                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,12%. In questo modo è possibile ottenere fino a un 40% di aumento dei DAN da Tripudio elementale.",
+                                                       "values":  [
+                                                                      "0,12%",
+                                                                      "40%"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Dominaonde di Watatsumi"
+                                        },
                     "aquasimulacra":  {
                                           "r3":  {
                                                      "description":  "I PS aumentano di un 24%. Quando ci sono avversari vicini, i DAN inflitti da chi brandisce quest\u0027arma aumentano di un 30%. Questo effetto si attiva anche se il personaggio non è in campo.",
@@ -9225,48 +9314,48 @@
                                                          },
                                                   "effectName":  "Codice dei samurai"
                                               },
-                    "sacrificialbow":  {
-                                           "r3":  {
-                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 60% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 22 s.",
-                                                      "values":  [
-                                                                     "60%",
-                                                                     "22"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 80% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 16 s.",
-                                                      "values":  [
-                                                                     "80%",
-                                                                     "16"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 50% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 26 s.",
-                                                      "values":  [
-                                                                     "50%",
-                                                                     "26"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 70% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 19 s.",
-                                                      "values":  [
-                                                                     "70%",
-                                                                     "19"
-                                                                 ]
-                                                  },
-                                           "substatText":  "Ricarica di energia",
-                                           "weaponText":  "Arco",
-                                           "name":  "Arco sacrificale",
-                                           "effectTemplateRaw":  "#Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}s.",
-                                           "r1":  {
-                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 40% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 30 s.",
-                                                      "values":  [
-                                                                     "40%",
-                                                                     "30"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Compostezza"
-                                       },
+                    "cranesechoingcall":  {
+                                              "r3":  {
+                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 54% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 3. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                         "values":  [
+                                                                        "54%",
+                                                                        "3"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 80% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 3,5. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                         "values":  [
+                                                                        "80%",
+                                                                        "3,5"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 41% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 2,75. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                         "values":  [
+                                                                        "41%",
+                                                                        "2,75"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 67% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 3,25. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                         "values":  [
+                                                                        "67%",
+                                                                        "3,25"
+                                                                    ]
+                                                     },
+                                              "substatText":  "ATT",
+                                              "weaponText":  "Catalizzatore",
+                                              "name":  "Canto della gru echeggiante",
+                                              "effectTemplateRaw":  "#Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 20{NON_BREAK_SPACE}s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7{NON_BREAK_SPACE}s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                              "r1":  {
+                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 28% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 2,5. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                         "values":  [
+                                                                        "28%",
+                                                                        "2,5"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Precipitazione assiomatica"
+                                          },
                     "rainslasher":  {
                                         "r3":  {
                                                    "description":  "Aumenta i DAN contro gli avversari sotto l\u0027effetto di Hydro o Electro di un 28%.",
@@ -9558,6 +9647,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "fracturedhalo":  {
+                                          "r3":  {
+                                                     "description":  "Dopo l\u0027utilizzo di un\u0027abilità o di un Tripudio elementale, l\u0027ATT aumenta di un 36% per 20 s. Se il personaggio che equipaggia l\u0027arma crea uno scudo mentre quest\u0027effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 60% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+                                                     "values":  [
+                                                                    "36%",
+                                                                    "60%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Dopo l\u0027utilizzo di un\u0027abilità o di un Tripudio elementale, l\u0027ATT aumenta di un 48% per 20 s. Se il personaggio che equipaggia l\u0027arma crea uno scudo mentre quest\u0027effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 80% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+                                                     "values":  [
+                                                                    "48%",
+                                                                    "80%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Dopo l\u0027utilizzo di un\u0027abilità o di un Tripudio elementale, l\u0027ATT aumenta di un 30% per 20 s. Se il personaggio che equipaggia l\u0027arma crea uno scudo mentre quest\u0027effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 50% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+                                                     "values":  [
+                                                                    "30%",
+                                                                    "50%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Dopo l\u0027utilizzo di un\u0027abilità o di un Tripudio elementale, l\u0027ATT aumenta di un 42% per 20 s. Se il personaggio che equipaggia l\u0027arma crea uno scudo mentre quest\u0027effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 70% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+                                                     "values":  [
+                                                                    "42%",
+                                                                    "70%"
+                                                                ]
+                                                 },
+                                          "substatText":  "DAN da CRIT",
+                                          "weaponText":  "Lancia",
+                                          "name":  "Aureola frammentata",
+                                          "effectTemplateRaw":  "#Dopo l\u0027utilizzo di un\u0027abilità o di un Tripudio elementale, l\u0027ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 20{NON_BREAK_SPACE}s. Se il personaggio che equipaggia l\u0027arma crea uno scudo mentre quest\u0027effetto è attivo, ottiene Editto galvanizzante per 20{NON_BREAK_SPACE}s, che aumenta di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+                                          "r1":  {
+                                                     "description":  "Dopo l\u0027utilizzo di un\u0027abilità o di un Tripudio elementale, l\u0027ATT aumenta di un 24% per 20 s. Se il personaggio che equipaggia l\u0027arma crea uno scudo mentre quest\u0027effetto è attivo, ottiene Editto galvanizzante per 20 s, che aumenta di un 40% i DAN da Carica lunare inflitti dai membri vicini del gruppo.",
+                                                     "values":  [
+                                                                    "24%",
+                                                                    "40%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Corona purificatrice"
+                                      },
                     "sapwoodblade":  {
                                          "r3":  {
                                                     "description":  "Dopo aver innescato Ustione, Vivificazione, Accentuazione, Propagazione, Fioritura, Iperfioritura o Germinazione, verrà creata una Foglia di coscienza attorno al personaggio per un massimo di 10 s. Quando raccolta, la Foglia conferirà al personaggio 90 di maestria elementale per 12 s. È possibile generare una sola Foglia in questo modo ogni 20 s. Quest\u0027effetto può essere attivato anche se il personaggio non è sul campo. L\u0027effetto della Foglia di coscienza non è cumulabile.",
@@ -11381,48 +11512,48 @@
                                                   },
                                            "effectName":  "Bagliore delle profondità"
                                        },
-                    "wavebreakersfin":  {
-                                            "r3":  {
-                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,18%. In questo modo è possibile ottenere fino a un 60% di aumento dei DAN da Tripudio elementale.",
-                                                       "values":  [
-                                                                      "0,18%",
-                                                                      "60%"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,24%. In questo modo è possibile ottenere fino a un 80% di aumento dei DAN da Tripudio elementale.",
-                                                       "values":  [
-                                                                      "0,24%",
-                                                                      "80%"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,15%. In questo modo è possibile ottenere fino a un 50% di aumento dei DAN da Tripudio elementale.",
-                                                       "values":  [
-                                                                      "0,15%",
-                                                                      "50%"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,21%. In questo modo è possibile ottenere fino a un 70% di aumento dei DAN da Tripudio elementale.",
-                                                       "values":  [
-                                                                      "0,21%",
-                                                                      "70%"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ATT",
-                                            "weaponText":  "Lancia",
-                                            "name":  "Pinna del Frangionde",
-                                            "effectTemplateRaw":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. In questo modo è possibile ottenere fino a un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e di aumento dei DAN da Tripudio elementale.",
-                                            "r1":  {
-                                                       "description":  "Per ogni punto dell\u0027energia massima totale del gruppo, i DAN da Tripudio elementale del personaggio equipaggiato con quest\u0027arma aumentano di uno 0,12%. In questo modo è possibile ottenere fino a un 40% di aumento dei DAN da Tripudio elementale.",
-                                                       "values":  [
-                                                                      "0,12%",
-                                                                      "40%"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Dominaonde di Watatsumi"
-                                        },
+                    "flameforgedinsight":  {
+                                               "r3":  {
+                                                          "description":  "Quando si innesca una reazione di Electrocarica, Carica lunare o Fioritura, l\u0027energia elementale si ripristina di 18 e la maestria elementale aumenta di 90 per 15 s. Quest\u0027effetto può attivarsi una volta ogni 15 s, anche quando il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                          "values":  [
+                                                                         "18",
+                                                                         "90"
+                                                                     ]
+                                                      },
+                                               "r5":  {
+                                                          "description":  "Quando si innesca una reazione di Electrocarica, Carica lunare o Fioritura, l\u0027energia elementale si ripristina di 24 e la maestria elementale aumenta di 120 per 15 s. Quest\u0027effetto può attivarsi una volta ogni 15 s, anche quando il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                          "values":  [
+                                                                         "24",
+                                                                         "120"
+                                                                     ]
+                                                      },
+                                               "r2":  {
+                                                          "description":  "Quando si innesca una reazione di Electrocarica, Carica lunare o Fioritura, l\u0027energia elementale si ripristina di 15 e la maestria elementale aumenta di 75 per 15 s. Quest\u0027effetto può attivarsi una volta ogni 15 s, anche quando il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                          "values":  [
+                                                                         "15",
+                                                                         "75"
+                                                                     ]
+                                                      },
+                                               "r4":  {
+                                                          "description":  "Quando si innesca una reazione di Electrocarica, Carica lunare o Fioritura, l\u0027energia elementale si ripristina di 21 e la maestria elementale aumenta di 105 per 15 s. Quest\u0027effetto può attivarsi una volta ogni 15 s, anche quando il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                          "values":  [
+                                                                         "21",
+                                                                         "105"
+                                                                     ]
+                                                      },
+                                               "substatText":  "Maestria elementale",
+                                               "weaponText":  "Claymore",
+                                               "name":  "Intuizione pirogenita",
+                                               "effectTemplateRaw":  "#Quando si innesca una reazione di Electrocarica, Carica lunare o Fioritura, l\u0027energia elementale si ripristina di \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e la maestria elementale aumenta di \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 15{NON_BREAK_SPACE}s. Quest\u0027effetto può attivarsi una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l\u0027arma non è in campo.",
+                                               "r1":  {
+                                                          "description":  "Quando si innesca una reazione di Electrocarica, Carica lunare o Fioritura, l\u0027energia elementale si ripristina di 12 e la maestria elementale aumenta di 60 per 15 s. Quest\u0027effetto può attivarsi una volta ogni 15 s, anche quando il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                          "values":  [
+                                                                         "12",
+                                                                         "60"
+                                                                     ]
+                                                      },
+                                               "effectName":  "Pensiero in fiore"
+                                           },
                     "theunforged":  {
                                         "r3":  {
                                                    "description":  "Aumenta l\u0027efficacia dello scudo di un 30%. Mandare a segno un colpo contro gli avversari aumenta l\u0027ATT di un 6% per 8 s. Cumulabile fino a 5 volte. Si può verificare una sola volta ogni 0,3 s. Mentre la protezione dello scudo è attiva, l\u0027effetto di quest\u0027ATT aumenta di un 100%.",
@@ -14090,48 +14221,6 @@
                                                  },
                                           "effectName":  "Santuario della foresta"
                                       },
-                    "cranesechoingcall":  {
-                                              "r3":  {
-                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 54% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 3. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
-                                                         "values":  [
-                                                                        "54%",
-                                                                        "3"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 80% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 3,5. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
-                                                         "values":  [
-                                                                        "80%",
-                                                                        "3,5"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 41% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 2,75. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
-                                                         "values":  [
-                                                                        "41%",
-                                                                        "2,75"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 67% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 3,25. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
-                                                         "values":  [
-                                                                        "67%",
-                                                                        "3,25"
-                                                                    ]
-                                                     },
-                                              "substatText":  "ATT",
-                                              "weaponText":  "Catalizzatore",
-                                              "name":  "Canto della gru echeggiante",
-                                              "effectTemplateRaw":  "#Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 20{NON_BREAK_SPACE}s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7{NON_BREAK_SPACE}s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
-                                              "r1":  {
-                                                         "description":  "Quando il personaggio che equipaggia quest\u0027arma colpisce un avversario con un attacco in picchiata, gli attacchi in picchiata di tutti i membri vicini del gruppo infliggono DAN aumentati di un 28% per 20 s. Quando i membri vicini del gruppo colpiscono gli avversari con un attacco in picchiata, l\u0027energia del personaggio che equipaggia quest\u0027arma si ripristina di 2,5. Il ripristino dell\u0027energia può verificarsi una volta ogni 0,7 s, anche se il personaggio che equipaggia l\u0027arma non è in campo.",
-                                                         "values":  [
-                                                                        "28%",
-                                                                        "2,5"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Precipitazione assiomatica"
-                                          },
                     "rangegauge":  {
                                        "r3":  {
                                                   "description":  "Quando il personaggio che equipaggia l\u0027arma riceve o apporta effetti di guarigione, ottiene un Simbolo d\u0027unità che dura 30 s, fino a un massimo di 3 Simboli. Con l\u0027uso di abilità o Tripudio elementale, il personaggio consuma tutti i Simboli e riceve l\u0027effetto Lotta per 10 s. Per ogni Simbolo consumato, il personaggio riceve un 5% di bonus ATT e un 10% di bonus DAN per tutti gli elementi. L\u0027effetto Lotta può attivarsi una volta ogni 15 s, e i Simboli sono ottenibili anche quando il personaggio che equipaggia quest\u0027arma non è in campo.",
@@ -15067,6 +15156,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "sacrificialbow":  {
+                                           "r3":  {
+                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 60% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 22 s.",
+                                                      "values":  [
+                                                                     "60%",
+                                                                     "22"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 80% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 16 s.",
+                                                      "values":  [
+                                                                     "80%",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 50% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 26 s.",
+                                                      "values":  [
+                                                                     "50%",
+                                                                     "26"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 70% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 19 s.",
+                                                      "values":  [
+                                                                     "70%",
+                                                                     "19"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Ricarica di energia",
+                                           "weaponText":  "Arco",
+                                           "name":  "Arco sacrificale",
+                                           "effectTemplateRaw":  "#Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}s.",
+                                           "r1":  {
+                                                      "description":  "Dopo aver inflitto danni a un avversario con un\u0027abilità elementale, questa ha un 40% di probabilità di azzerare il proprio TdR. Si può verificare una sola volta ogni 30 s.",
+                                                      "values":  [
+                                                                     "40%",
+                                                                     "30"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Compostezza"
+                                       },
                     "dragonsbane":  {
                                         "r3":  {
                                                    "description":  "Aumenta i DAN contro gli avversari sotto l\u0027effetto di Hydro o Pyro di un 28%.",

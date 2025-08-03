@@ -1586,6 +1586,9 @@
                       "concealedclaw":  {
                                             "name":  "Griffe dissimulée"
                                         },
+                      "drifterscrystalmarrow":  {
+                                                    "name":  "Moelle cristalline du vagabond"
+                                                },
                       "vajradaamethystfragment":  {
                                                       "name":  "Fragment d\u0027améthyste vajrada"
                                                   },
@@ -2378,6 +2381,9 @@
                       "energynectar":  {
                                            "name":  "Nectar élémentaire"
                                        },
+                      "mysteriousbolt":  {
+                                             "name":  "Boulon mystérieux"
+                                         },
                       "deadleylineleaves":  {
                                                 "name":  "Feuilles mortes des lignes énergétiques"
                                             },
@@ -3377,47 +3383,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "Homme"
                                     },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani à fond !",
-                                                                         "descriptionRaw":  "#Mualani obtient 2 cumuls d\u0027élan houleux de \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e lorsqu\u0027elle active sa bénédiction noctâme et 1 cumul lorsqu\u0027elle collecte une globi-bouée.\nDe plus, lorsque Mualani collecte 2 globi-bouées pendant une seule bénédiction noctâme, elle récupère 12 pts de noctâme supplémentaires pendant 2 s. L\u0027aptitude passive «{NON_BREAK_SPACE}Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée pour cet effet.",
-                                                                         "description":  "Mualani obtient 2 cumuls d\u0027élan houleux de Squalisurf brise-vagues lorsqu\u0027elle active sa bénédiction noctâme et 1 cumul lorsqu\u0027elle collecte une globi-bouée.\nDe plus, lorsque Mualani collecte 2 globi-bouées pendant une seule bénédiction noctâme, elle récupère 12 pts de noctâme supplémentaires pendant 2 s. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée pour cet effet."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Requinou mange des bouées",
-                                                                         "descriptionRaw":  "#Mualani récupère 8 pts d\u0027énergie élémentaire lorsqu\u0027elle collecte une globi-bouée. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée.\nDe plus, les DGT infligés par \u003ccolor=#FFD780FF\u003eRequin-pact boum\u003c/color\u003e augmentent de 75{NON_BREAK_SPACE}%.",
-                                                                         "description":  "Mualani récupère 8 pts d\u0027énergie élémentaire lorsqu\u0027elle collecte une globi-bouée. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée.\nDe plus, les DGT infligés par Requin-pact boum augmentent de 75 %."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surf sur une mer joyeuse",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Squalisurf brise-vagues +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Planche identique en promo !",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eRequin-pact boum\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Requin-pact boum +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Esprit du Peuple des sources",
-                                                                         "descriptionRaw":  "L\u0027effet d\u0027augmentation de DGT de la constellation « Le Meztli oisif... » n\u0027est plus limité à un seul déclenchement par bénédiction noctâme.",
-                                                                         "description":  "L\u0027effet d\u0027augmentation de DGT de la constellation « Le Meztli oisif... » n\u0027est plus limité à un seul déclenchement par bénédiction noctâme."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Le Meztli oisif...",
-                                                                         "descriptionRaw":  "Les DGT infligés par la première morsure déferlante de Requinou après le début de la bénédiction noctâme et par les missiles de Requinou que cette morsure déclenche augmentent d\u0027une valeur équivalant à 66 % des PV max de Mualani. Ces DGT sont cependant sujets à la règle d\u0027atténuation des DGT de \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e.\nDe plus, la consommation de points de noctâme et de phlogistique de l\u0027état Bénédiction noctâme de Mualani diminue de 30 % lorsqu\u0027elle n\u0027est pas en combat.",
-                                                                         "description":  "Les DGT infligés par la première morsure déferlante de Requinou après le début de la bénédiction noctâme et par les missiles de Requinou que cette morsure déclenche augmentent d\u0027une valeur équivalant à 66 % des PV max de Mualani. Ces DGT sont cependant sujets à la règle d\u0027atténuation des DGT de Squalisurf brise-vagues.\nDe plus, la consommation de points de noctâme et de phlogistique de l\u0027état Bénédiction noctâme de Mualani diminue de 30 % lorsqu\u0027elle n\u0027est pas en combat."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalyseur",
-                                       "name":  "Mualani",
-                                       "substatText":  "Taux CRIT",
-                                       "region":  "Natlan",
-                                       "gender":  "Femme"
-                                   },
+                       "ineffa":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Module nettoyeur de soutien",
+                                                                        "descriptionRaw":  "Lorsque le déchaînement élémentaire \u003ccolor=#FFD780FF\u003e{LINK#S11165}Commande suprême : Exterminateur cyclonique{/LINK}\u003c/color\u003e a touché des ennemis, l\u0027effet Édit punitif est appliqué à l\u0027un d\u0027eux : les ennemis proches subissent des \u003ccolor=#FFACFFFF\u003eDGT Électro de zone\u003c/color\u003e d\u0027une valeur équivalant à 300 % de l\u0027ATQ d\u0027Ineffa après une courte période ou lorsque l\u0027ennemi affecté est éliminé, ces DGT étant considérés comme des DGT de réaction de Sélénocution.\nDe plus, utiliser le déchaînement élémentaire \u003ccolor=#FFD780FF\u003eCommande suprême : Exterminateur cyclonique\u003c/color\u003e accorde des barrières de protection à flux optique aux membres de l\u0027équipe déployés à proximité.",
+                                                                        "description":  "Lorsque le déchaînement élémentaire **Commande suprême : Exterminateur cyclonique** a touché des ennemis, l\u0027effet Édit punitif est appliqué à l\u0027un d\u0027eux : les ennemis proches subissent des DGT Électro de zone d\u0027une valeur équivalant à 300 % de l\u0027ATQ d\u0027Ineffa après une courte période ou lorsque l\u0027ennemi affecté est éliminé, ces DGT étant considérés comme des DGT de réaction de Sélénocution.\nDe plus, utiliser le déchaînement élémentaire Commande suprême : Exterminateur cyclonique accorde des barrières de protection à flux optique aux membres de l\u0027équipe déployés à proximité."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Chemin sans édit",
+                                                                        "descriptionRaw":  "Lorsqu\u0027un de vos personnages dans l\u0027équipe déclenche une réaction de Sélénocution, il récupère 5 pts d\u0027énergie élémentaire, cet effet pouvant être déclenché une fois toutes les 4 s.",
+                                                                        "description":  "Lorsqu\u0027un de vos personnages dans l\u0027équipe déclenche une réaction de Sélénocution, il récupère 5 pts d\u0027énergie élémentaire, cet effet pouvant être déclenché une fois toutes les 4 s."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Émulateur avancé d\u0027émotions",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003e{LINK#S11162}Mode purificateur : Fréquence porteuse{/LINK}\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude **Mode purificateur : Fréquence porteuse** +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Transcendance du rêve du miroir",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003e{LINK#S11165}Commande suprême : Exterminateur cyclonique{/LINK}\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude **Commande suprême : Exterminateur cyclonique** +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Matin naissant pour vous",
+                                                                        "descriptionRaw":  "Lorsqu\u0027elle bénéficie de l\u0027effet Composite de flux porteur, Ineffa inflige des \u003ccolor=#FFACFFFF\u003eDGT Électro de zone\u003c/color\u003e d\u0027une valeur équivalant à 135 % de son ATQ aux ennemis proches de votre personnage déployé lorsqu\u0027un nuage orageux à proximité a déclenché un éclair sur un ennemi, ces DGT étant considérés comme des DGT de réaction de Sélénocution. Cet effet peut être déclenché une fois toutes les 3,5 s.",
+                                                                        "description":  "Lorsqu\u0027elle bénéficie de l\u0027effet Composite de flux porteur, Ineffa inflige des DGT Électro de zone d\u0027une valeur équivalant à 135 % de son ATQ aux ennemis proches de votre personnage déployé lorsqu\u0027un nuage orageux à proximité a déclenché un éclair sur un ennemi, ces DGT étant considérés comme des DGT de réaction de Sélénocution. Cet effet peut être déclenché une fois toutes les 3,5 s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Processeur de rectification",
+                                                                        "descriptionRaw":  "Lorsque Ineffa déploie sa barrière de protection à flux optique, tous les personnages de l\u0027équipe à proximité obtiennent l\u0027effet Composite de flux porteur pendant 20 s : augmente les DGT des réactions de Sélénocution de 2,5 % pour chaque tranche de 100 pts d\u0027ATQ qu\u0027Ineffa possède, les DGT pouvant être augmentés d\u0027un maximum de 50 % de cette manière.",
+                                                                        "description":  "Lorsque Ineffa déploie sa barrière de protection à flux optique, tous les personnages de l\u0027équipe à proximité obtiennent l\u0027effet Composite de flux porteur pendant 20 s : augmente les DGT des réactions de Sélénocution de 2,5 % pour chaque tranche de 100 pts d\u0027ATQ qu\u0027Ineffa possède, les DGT pouvant être augmentés d\u0027un maximum de 50 % de cette manière."
+                                                                    }
+                                                         },
+                                      "elementText":  "Électro",
+                                      "fullname":  null,
+                                      "weaponText":  "Arme d\u0027hast",
+                                      "name":  "Ineffa",
+                                      "substatText":  "Taux CRIT",
+                                      "region":  null,
+                                      "gender":  "Femme"
+                                  },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3746,47 +3752,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Femme"
                                   },
-                       "thoma":  {
-                                     "constellations":  {
-                                                            "c2":  {
-                                                                       "name":  "Compétences de subordonné",
-                                                                       "descriptionRaw":  "Prolonge la durée d\u0027\u003ccolor=#FFD780FF\u003eO-yoroi écarlate\u003c/color\u003e de 3 s.",
-                                                                       "description":  "Prolonge la durée d\u0027O-yoroi écarlate de 3 s."
-                                                                   },
-                                                            "c4":  {
-                                                                       "name":  "Planification à long terme",
-                                                                       "descriptionRaw":  "Après avoir utilisé \u003ccolor=#FFD780FF\u003eO-yoroi écarlate\u003c/color\u003e, Thomas récupère 15 pts d\u0027énergie élémentaire.",
-                                                                       "description":  "Après avoir utilisé O-yoroi écarlate, Thomas récupère 15 pts d\u0027énergie élémentaire."
-                                                                   },
-                                                            "c3":  {
-                                                                       "name":  "Résolution à toute épreuve",
-                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eBénédiction flamboyante\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                       "description":  "Niveau d\u0027aptitude Bénédiction flamboyante +3.\nNiveau max : 15"
-                                                                   },
-                                                            "c5":  {
-                                                                       "name":  "Feu incontrôlable",
-                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eO-yoroi écarlate\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                       "description":  "Niveau d\u0027aptitude O-yoroi écarlate +3.\nNiveau max : 15"
-                                                                   },
-                                                            "c6":  {
-                                                                       "name":  "Cœur brûlant",
-                                                                       "descriptionRaw":  "Lorsqu\u0027une \u003ccolor=#FFD780FF\u003ebarrière brûlante\u003c/color\u003e est obtenue ou réinitialisée, les DGT des attaques normales, chargées et plongeantes de tous les personnages de l\u0027équipe augmentent de 15 % pendant 6 s.",
-                                                                       "description":  "Lorsqu\u0027une barrière brûlante est obtenue ou réinitialisée, les DGT des attaques normales, chargées et plongeantes de tous les personnages de l\u0027équipe augmentent de 15 % pendant 6 s."
-                                                                   },
-                                                            "c1":  {
-                                                                       "name":  "Devoir de camarade",
-                                                                       "descriptionRaw":  "Lorsqu\u0027un personnage protégé par la \u003ccolor=#FFD780FF\u003ebarrière brûlante\u003c/color\u003e de Thomas subit une attaque (hormis Thomas), les TdR de \u003ccolor=#FFD780FF\u003eBénédiction flamboyante\u003c/color\u003e et d\u0027\u003ccolor=#FFD780FF\u003eO-yoroi écarlate\u003c/color\u003e de Thomas diminuent de 3 s.\nCet effet peut être déclenché une fois toutes les 20 s.",
-                                                                       "description":  "Lorsqu\u0027un personnage protégé par la barrière brûlante de Thomas subit une attaque (hormis Thomas), les TdR de Bénédiction flamboyante et d\u0027O-yoroi écarlate de Thomas diminuent de 3 s.\nCet effet peut être déclenché une fois toutes les 20 s."
-                                                                   }
-                                                        },
-                                     "elementText":  "Pyro",
-                                     "fullname":  null,
-                                     "weaponText":  "Arme d\u0027hast",
-                                     "name":  "Thomas",
-                                     "substatText":  "ATQ",
-                                     "region":  "Inazuma",
-                                     "gender":  "Homme"
-                                 },
+                       "lynette":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mystère de continuité infinie",
+                                                                         "descriptionRaw":  "Lorsqu\u0027une boîte minestyque invoquée par \u003ccolor=#FFD780FF\u003eMagie : Variation étonnante\u003c/color\u003e tire une balle bariolée, elle tire une balle supplémentaire.",
+                                                                         "description":  "Lorsqu\u0027une boîte minestyque invoquée par Magie : Variation étonnante tire une balle bariolée, elle tire une balle supplémentaire."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Coordination de réponse tacite",
+                                                                         "descriptionRaw":  "Confère une utilisation supplémentaire de \u003ccolor=#FFD780FF\u003eFeinte sibylline\u003c/color\u003e.",
+                                                                         "description":  "Confère une utilisation supplémentaire de Feinte sibylline."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Regard de cognition inversée",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eMagie : Variation étonnante\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Magie : Variation étonnante +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Obstacle d\u0027ambiguïté ténébreuse",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eFeinte sibylline\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Feinte sibylline +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Œil perspicace",
+                                                                         "descriptionRaw":  "Lorsque Lynette utilise une aiguille énigmatique de \u003ccolor=#FFD780FF\u003eFeinte sibylline\u003c/color\u003e, elle bénéficie d\u0027un \u003ccolor=#80FFD7FF\u003eenchantement Anémo\u003c/color\u003e et son \u003ccolor=#80FFD7FF\u003ebonus de DGT Anémo\u003c/color\u003e augmente de 20 %, pendant 6 s.",
+                                                                         "description":  "Lorsque Lynette utilise une aiguille énigmatique de Feinte sibylline, elle bénéficie d\u0027un enchantement Anémo et son bonus de DGT Anémo augmente de 20 %, pendant 6 s."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Lame d\u0027ombre frisquette",
+                                                                         "descriptionRaw":  "Lorsqu\u0027une aiguille énigmatique de \u003ccolor=#FFD780FF\u003eFeinte sibylline\u003c/color\u003e touche un ennemi marqué d\u0027une saillie sombre, un vortex est déclenché à l\u0027emplacement de ce dernier pour attirer les ennemis proches.",
+                                                                         "description":  "Lorsqu\u0027une aiguille énigmatique de Feinte sibylline touche un ennemi marqué d\u0027une saillie sombre, un vortex est déclenché à l\u0027emplacement de ce dernier pour attirer les ennemis proches."
+                                                                     }
+                                                          },
+                                       "elementText":  "Anémo",
+                                       "fullname":  null,
+                                       "weaponText":  "Épée à une main",
+                                       "name":  "Lynette",
+                                       "substatText":  "Bonus de DGT Anémo",
+                                       "region":  "Fontaine",
+                                       "gender":  "Femme"
+                                   },
                        "yanfei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3837,8 +3843,8 @@
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Protocole : Garde d\u0027interdiction",
-                                                                      "descriptionRaw":  "Sous l\u0027effet d\u0027éclaireur sermenté de \u003ccolor=#FFD780FF\u003eLiturgie : Rapidité lupine\u003c/color\u003e, lorsque Cyno a déclenché une réaction d\u0027Électrocution, de Supraconduction, de Surcharge, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro, tous les personnages de l\u0027équipe à proximité (hormis Cyno) récupèrent 3 pts d\u0027énergie élémentaire.\nCet effet peut être déclenché 5 fois par utilisation de \u003ccolor=#FFD780FF\u003eLiturgie : Rapidité lupine\u003c/color\u003e.",
-                                                                      "description":  "Sous l\u0027effet d\u0027éclaireur sermenté de Liturgie : Rapidité lupine, lorsque Cyno a déclenché une réaction d\u0027Électrocution, de Supraconduction, de Surcharge, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro, tous les personnages de l\u0027équipe à proximité (hormis Cyno) récupèrent 3 pts d\u0027énergie élémentaire.\nCet effet peut être déclenché 5 fois par utilisation de Liturgie : Rapidité lupine."
+                                                                      "descriptionRaw":  "Sous l\u0027effet d\u0027éclaireur sermenté de \u003ccolor=#FFD780FF\u003eLiturgie : Rapidité lupine\u003c/color\u003e, lorsque Cyno a déclenché une réaction d\u0027Électrocution, de Sélénocution, de Supraconduction, de Surcharge, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro, tous les personnages de l\u0027équipe à proximité (hormis Cyno) récupèrent 3 pts d\u0027énergie élémentaire.\nCet effet peut être déclenché 5 fois par utilisation de \u003ccolor=#FFD780FF\u003eLiturgie : Rapidité lupine\u003c/color\u003e.",
+                                                                      "description":  "Sous l\u0027effet d\u0027éclaireur sermenté de Liturgie : Rapidité lupine, lorsque Cyno a déclenché une réaction d\u0027Électrocution, de Sélénocution, de Supraconduction, de Surcharge, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro, tous les personnages de l\u0027équipe à proximité (hormis Cyno) récupèrent 3 pts d\u0027énergie élémentaire.\nCet effet peut être déclenché 5 fois par utilisation de Liturgie : Rapidité lupine."
                                                                   },
                                                            "c3":  {
                                                                       "name":  "Ordonnance : Exécution légale",
@@ -4115,47 +4121,40 @@
                                      "region":  "Sumeru",
                                      "gender":  "Femme"
                                  },
-                       "lynette":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mystère de continuité infinie",
-                                                                         "descriptionRaw":  "Lorsqu\u0027une boîte minestyque invoquée par \u003ccolor=#FFD780FF\u003eMagie : Variation étonnante\u003c/color\u003e tire une balle bariolée, elle tire une balle supplémentaire.",
-                                                                         "description":  "Lorsqu\u0027une boîte minestyque invoquée par Magie : Variation étonnante tire une balle bariolée, elle tire une balle supplémentaire."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Coordination de réponse tacite",
-                                                                         "descriptionRaw":  "Confère une utilisation supplémentaire de \u003ccolor=#FFD780FF\u003eFeinte sibylline\u003c/color\u003e.",
-                                                                         "description":  "Confère une utilisation supplémentaire de Feinte sibylline."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Regard de cognition inversée",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eMagie : Variation étonnante\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Magie : Variation étonnante +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Obstacle d\u0027ambiguïté ténébreuse",
-                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eFeinte sibylline\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                         "description":  "Niveau d\u0027aptitude Feinte sibylline +3.\nNiveau max : 15"
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Œil perspicace",
-                                                                         "descriptionRaw":  "Lorsque Lynette utilise une aiguille énigmatique de \u003ccolor=#FFD780FF\u003eFeinte sibylline\u003c/color\u003e, elle bénéficie d\u0027un \u003ccolor=#80FFD7FF\u003eenchantement Anémo\u003c/color\u003e et son \u003ccolor=#80FFD7FF\u003ebonus de DGT Anémo\u003c/color\u003e augmente de 20 %, pendant 6 s.",
-                                                                         "description":  "Lorsque Lynette utilise une aiguille énigmatique de Feinte sibylline, elle bénéficie d\u0027un enchantement Anémo et son bonus de DGT Anémo augmente de 20 %, pendant 6 s."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "Lame d\u0027ombre frisquette",
-                                                                         "descriptionRaw":  "Lorsqu\u0027une aiguille énigmatique de \u003ccolor=#FFD780FF\u003eFeinte sibylline\u003c/color\u003e touche un ennemi marqué d\u0027une saillie sombre, un vortex est déclenché à l\u0027emplacement de ce dernier pour attirer les ennemis proches.",
-                                                                         "description":  "Lorsqu\u0027une aiguille énigmatique de Feinte sibylline touche un ennemi marqué d\u0027une saillie sombre, un vortex est déclenché à l\u0027emplacement de ce dernier pour attirer les ennemis proches."
-                                                                     }
-                                                          },
-                                       "elementText":  "Anémo",
-                                       "fullname":  null,
-                                       "weaponText":  "Épée à une main",
-                                       "name":  "Lynette",
-                                       "substatText":  "Bonus de DGT Anémo",
-                                       "region":  "Fontaine",
-                                       "gender":  "Femme"
-                                   },
+                       "travelerhydro":  {
+                                             "constellations":  {
+                                                                    "c2":  {
+                                                                               "name":  "Eau ruisselante de pureté",
+                                                                               "descriptionRaw":  "Diminue la VIT de déplacement des bulles flottantes de \u003ccolor=#FFD780FF\u003eMontée des eaux\u003c/color\u003e de 30 % et augmente leur durée de 3 s.",
+                                                                               "description":  "Diminue la VIT de déplacement des bulles flottantes de Montée des eaux de 30 % et augmente leur durée de 3 s."
+                                                                           },
+                                                                    "c4":  {
+                                                                               "name":  "Eau tombante d\u0027averse",
+                                                                               "descriptionRaw":  "#Lors de l\u0027utilisation de \u003ccolor=#FFD780FF\u003eSabre d\u0027ondulation\u003c/color\u003e, {M#le voyageur}{F#la voyageuse} obtient un bouclier d\u0027ondulations qui absorbe une quantité de DGT équivalant à 10 % de ses PV max. Le bouclier est efficace à 250 % contre les \u003ccolor=#80C0FFFF\u003eDGT Hydro\u003c/color\u003e et dure jusqu\u0027à la fin de la capacité.\nUne fois toutes les 2 s, lorsqu\u0027une goutte de rosée a touché un ennemi, si {M#le voyageur est protégé}{F#la voyageuse est protégée} par un bouclier d\u0027ondulations, l\u0027absorption du bouclier est restaurée à 10 % des PV max {M#du voyageur}{F#de la voyageuse} ; si {M#le voyageur n\u0027est pas protégé}{F#la voyageuse n\u0027est pas protégée} par un bouclier d\u0027ondulations, un tel bouclier est généré.",
+                                                                               "description":  "Lors de l\u0027utilisation de Sabre d\u0027ondulation, le voyageur obtient un bouclier d\u0027ondulations qui absorbe une quantité de DGT équivalant à 10 % de ses PV max. Le bouclier est efficace à 250 % contre les DGT Hydro et dure jusqu\u0027à la fin de la capacité.\nUne fois toutes les 2 s, lorsqu\u0027une goutte de rosée a touché un ennemi, si le voyageur est protégé par un bouclier d\u0027ondulations, l\u0027absorption du bouclier est restaurée à 10 % des PV max du voyageur ; si le voyageur n\u0027est pas protégé par un bouclier d\u0027ondulations, un tel bouclier est généré."
+                                                                           },
+                                                                    "c3":  {
+                                                                               "name":  "Eau turbulente d\u0027ondulation",
+                                                                               "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eSabre d\u0027ondulation\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                               "description":  "Niveau d\u0027aptitude Sabre d\u0027ondulation +3.\nNiveau max : 15"
+                                                                           },
+                                                                    "c5":  {
+                                                                               "name":  "Eau tournoyante de vortex",
+                                                                               "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eMontée des eaux\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                               "description":  "Niveau d\u0027aptitude Montée des eaux +3.\nNiveau max : 15"
+                                                                           },
+                                                                    "c6":  {
+                                                                               "name":  "Eau montante de justice",
+                                                                               "descriptionRaw":  "#Lorsque {M#le voyageur}{F#la voyageuse} récupère une goutte d\u0027eau de source, {M#il}{F#elle} restaure 6 % de PV max au personnage de l\u0027équipe à proximité ayant le pourcentage de PV le plus bas.",
+                                                                               "description":  "Lorsque le voyageur récupère une goutte d\u0027eau de source, il restaure 6 % de PV max au personnage de l\u0027équipe à proximité ayant le pourcentage de PV le plus bas."
+                                                                           },
+                                                                    "c1":  {
+                                                                               "name":  "Eau ondulante de lac",
+                                                                               "descriptionRaw":  "#Ramasser une goutte d\u0027eau de source restaure 2 pts d\u0027énergie élémentaire {M#au voyageur}{F#à la voyageuse}.\nL\u0027aptitude passive « Eau pure » doit être déjà débloquée.",
+                                                                               "description":  "Ramasser une goutte d\u0027eau de source restaure 2 pts d\u0027énergie élémentaire au voyageur.\nL\u0027aptitude passive « Eau pure » doit être déjà débloquée."
+                                                                           }
+                                                                }
+                                         },
                        "kujousara":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -4361,6 +4360,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Homme"
                                   },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani à fond !",
+                                                                         "descriptionRaw":  "#Mualani obtient 2 cumuls d\u0027élan houleux de \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e lorsqu\u0027elle active sa bénédiction noctâme et 1 cumul lorsqu\u0027elle collecte une globi-bouée.\nDe plus, lorsque Mualani collecte 2 globi-bouées pendant une seule bénédiction noctâme, elle récupère 12 pts de noctâme supplémentaires pendant 2 s. L\u0027aptitude passive «{NON_BREAK_SPACE}Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée pour cet effet.",
+                                                                         "description":  "Mualani obtient 2 cumuls d\u0027élan houleux de Squalisurf brise-vagues lorsqu\u0027elle active sa bénédiction noctâme et 1 cumul lorsqu\u0027elle collecte une globi-bouée.\nDe plus, lorsque Mualani collecte 2 globi-bouées pendant une seule bénédiction noctâme, elle récupère 12 pts de noctâme supplémentaires pendant 2 s. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée pour cet effet."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Requinou mange des bouées",
+                                                                         "descriptionRaw":  "#Mualani récupère 8 pts d\u0027énergie élémentaire lorsqu\u0027elle collecte une globi-bouée. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée.\nDe plus, les DGT infligés par \u003ccolor=#FFD780FF\u003eRequin-pact boum\u003c/color\u003e augmentent de 75{NON_BREAK_SPACE}%.",
+                                                                         "description":  "Mualani récupère 8 pts d\u0027énergie élémentaire lorsqu\u0027elle collecte une globi-bouée. L\u0027aptitude passive « Bouée d\u0027eau douce thermorésistante » doit être déjà débloquée.\nDe plus, les DGT infligés par Requin-pact boum augmentent de 75 %."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surf sur une mer joyeuse",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Squalisurf brise-vagues +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Planche identique en promo !",
+                                                                         "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eRequin-pact boum\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                         "description":  "Niveau d\u0027aptitude Requin-pact boum +3.\nNiveau max : 15"
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Esprit du Peuple des sources",
+                                                                         "descriptionRaw":  "L\u0027effet d\u0027augmentation de DGT de la constellation « Le Meztli oisif... » n\u0027est plus limité à un seul déclenchement par bénédiction noctâme.",
+                                                                         "description":  "L\u0027effet d\u0027augmentation de DGT de la constellation « Le Meztli oisif... » n\u0027est plus limité à un seul déclenchement par bénédiction noctâme."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "Le Meztli oisif...",
+                                                                         "descriptionRaw":  "Les DGT infligés par la première morsure déferlante de Requinou après le début de la bénédiction noctâme et par les missiles de Requinou que cette morsure déclenche augmentent d\u0027une valeur équivalant à 66 % des PV max de Mualani. Ces DGT sont cependant sujets à la règle d\u0027atténuation des DGT de \u003ccolor=#FFD780FF\u003eSqualisurf brise-vagues\u003c/color\u003e.\nDe plus, la consommation de points de noctâme et de phlogistique de l\u0027état Bénédiction noctâme de Mualani diminue de 30 % lorsqu\u0027elle n\u0027est pas en combat.",
+                                                                         "description":  "Les DGT infligés par la première morsure déferlante de Requinou après le début de la bénédiction noctâme et par les missiles de Requinou que cette morsure déclenche augmentent d\u0027une valeur équivalant à 66 % des PV max de Mualani. Ces DGT sont cependant sujets à la règle d\u0027atténuation des DGT de Squalisurf brise-vagues.\nDe plus, la consommation de points de noctâme et de phlogistique de l\u0027état Bénédiction noctâme de Mualani diminue de 30 % lorsqu\u0027elle n\u0027est pas en combat."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalyseur",
+                                       "name":  "Mualani",
+                                       "substatText":  "Taux CRIT",
+                                       "region":  "Natlan",
+                                       "gender":  "Femme"
+                                   },
                        "collei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5549,40 +5589,6 @@
                                       "region":  "Fontaine",
                                       "gender":  "Femme"
                                   },
-                       "travelerhydro":  {
-                                             "constellations":  {
-                                                                    "c2":  {
-                                                                               "name":  "Eau ruisselante de pureté",
-                                                                               "descriptionRaw":  "Diminue la VIT de déplacement des bulles flottantes de \u003ccolor=#FFD780FF\u003eMontée des eaux\u003c/color\u003e de 30 % et augmente leur durée de 3 s.",
-                                                                               "description":  "Diminue la VIT de déplacement des bulles flottantes de Montée des eaux de 30 % et augmente leur durée de 3 s."
-                                                                           },
-                                                                    "c4":  {
-                                                                               "name":  "Eau tombante d\u0027averse",
-                                                                               "descriptionRaw":  "#Lors de l\u0027utilisation de \u003ccolor=#FFD780FF\u003eSabre d\u0027ondulation\u003c/color\u003e, {M#le voyageur}{F#la voyageuse} obtient un bouclier d\u0027ondulations qui absorbe une quantité de DGT équivalant à 10 % de ses PV max. Le bouclier est efficace à 250 % contre les \u003ccolor=#80C0FFFF\u003eDGT Hydro\u003c/color\u003e et dure jusqu\u0027à la fin de la capacité.\nUne fois toutes les 2 s, lorsqu\u0027une goutte de rosée a touché un ennemi, si {M#le voyageur est protégé}{F#la voyageuse est protégée} par un bouclier d\u0027ondulations, l\u0027absorption du bouclier est restaurée à 10 % des PV max {M#du voyageur}{F#de la voyageuse} ; si {M#le voyageur n\u0027est pas protégé}{F#la voyageuse n\u0027est pas protégée} par un bouclier d\u0027ondulations, un tel bouclier est généré.",
-                                                                               "description":  "Lors de l\u0027utilisation de Sabre d\u0027ondulation, le voyageur obtient un bouclier d\u0027ondulations qui absorbe une quantité de DGT équivalant à 10 % de ses PV max. Le bouclier est efficace à 250 % contre les DGT Hydro et dure jusqu\u0027à la fin de la capacité.\nUne fois toutes les 2 s, lorsqu\u0027une goutte de rosée a touché un ennemi, si le voyageur est protégé par un bouclier d\u0027ondulations, l\u0027absorption du bouclier est restaurée à 10 % des PV max du voyageur ; si le voyageur n\u0027est pas protégé par un bouclier d\u0027ondulations, un tel bouclier est généré."
-                                                                           },
-                                                                    "c3":  {
-                                                                               "name":  "Eau turbulente d\u0027ondulation",
-                                                                               "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eSabre d\u0027ondulation\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                               "description":  "Niveau d\u0027aptitude Sabre d\u0027ondulation +3.\nNiveau max : 15"
-                                                                           },
-                                                                    "c5":  {
-                                                                               "name":  "Eau tournoyante de vortex",
-                                                                               "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eMontée des eaux\u003c/color\u003e +3.\nNiveau max : 15",
-                                                                               "description":  "Niveau d\u0027aptitude Montée des eaux +3.\nNiveau max : 15"
-                                                                           },
-                                                                    "c6":  {
-                                                                               "name":  "Eau montante de justice",
-                                                                               "descriptionRaw":  "#Lorsque {M#le voyageur}{F#la voyageuse} récupère une goutte d\u0027eau de source, {M#il}{F#elle} restaure 6 % de PV max au personnage de l\u0027équipe à proximité ayant le pourcentage de PV le plus bas.",
-                                                                               "description":  "Lorsque le voyageur récupère une goutte d\u0027eau de source, il restaure 6 % de PV max au personnage de l\u0027équipe à proximité ayant le pourcentage de PV le plus bas."
-                                                                           },
-                                                                    "c1":  {
-                                                                               "name":  "Eau ondulante de lac",
-                                                                               "descriptionRaw":  "#Ramasser une goutte d\u0027eau de source restaure 2 pts d\u0027énergie élémentaire {M#au voyageur}{F#à la voyageuse}.\nL\u0027aptitude passive « Eau pure » doit être déjà débloquée.",
-                                                                               "description":  "Ramasser une goutte d\u0027eau de source restaure 2 pts d\u0027énergie élémentaire au voyageur.\nL\u0027aptitude passive « Eau pure » doit être déjà débloquée."
-                                                                           }
-                                                                }
-                                         },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6276,6 +6282,47 @@
                                     "region":  "Liyue",
                                     "gender":  "Homme"
                                 },
+                       "thoma":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Compétences de subordonné",
+                                                                       "descriptionRaw":  "Prolonge la durée d\u0027\u003ccolor=#FFD780FF\u003eO-yoroi écarlate\u003c/color\u003e de 3 s.",
+                                                                       "description":  "Prolonge la durée d\u0027O-yoroi écarlate de 3 s."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Planification à long terme",
+                                                                       "descriptionRaw":  "Après avoir utilisé \u003ccolor=#FFD780FF\u003eO-yoroi écarlate\u003c/color\u003e, Thomas récupère 15 pts d\u0027énergie élémentaire.",
+                                                                       "description":  "Après avoir utilisé O-yoroi écarlate, Thomas récupère 15 pts d\u0027énergie élémentaire."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Résolution à toute épreuve",
+                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eBénédiction flamboyante\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                       "description":  "Niveau d\u0027aptitude Bénédiction flamboyante +3.\nNiveau max : 15"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Feu incontrôlable",
+                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003eO-yoroi écarlate\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                       "description":  "Niveau d\u0027aptitude O-yoroi écarlate +3.\nNiveau max : 15"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Cœur brûlant",
+                                                                       "descriptionRaw":  "Lorsqu\u0027une \u003ccolor=#FFD780FF\u003ebarrière brûlante\u003c/color\u003e est obtenue ou réinitialisée, les DGT des attaques normales, chargées et plongeantes de tous les personnages de l\u0027équipe augmentent de 15 % pendant 6 s.",
+                                                                       "description":  "Lorsqu\u0027une barrière brûlante est obtenue ou réinitialisée, les DGT des attaques normales, chargées et plongeantes de tous les personnages de l\u0027équipe augmentent de 15 % pendant 6 s."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Devoir de camarade",
+                                                                       "descriptionRaw":  "Lorsqu\u0027un personnage protégé par la \u003ccolor=#FFD780FF\u003ebarrière brûlante\u003c/color\u003e de Thomas subit une attaque (hormis Thomas), les TdR de \u003ccolor=#FFD780FF\u003eBénédiction flamboyante\u003c/color\u003e et d\u0027\u003ccolor=#FFD780FF\u003eO-yoroi écarlate\u003c/color\u003e de Thomas diminuent de 3 s.\nCet effet peut être déclenché une fois toutes les 20 s.",
+                                                                       "description":  "Lorsqu\u0027un personnage protégé par la barrière brûlante de Thomas subit une attaque (hormis Thomas), les TdR de Bénédiction flamboyante et d\u0027O-yoroi écarlate de Thomas diminuent de 3 s.\nCet effet peut être déclenché une fois toutes les 20 s."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Arme d\u0027hast",
+                                     "name":  "Thomas",
+                                     "substatText":  "ATQ",
+                                     "region":  "Inazuma",
+                                     "gender":  "Homme"
+                                 },
                        "venti":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6756,8 +6803,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Prophétie immersive",
-                                                                      "descriptionRaw":  "Les effets des \u003ccolor=#80C0FFFF\u003eréactions liées à l\u0027élément Hydro\u003c/color\u003e sont renforcés pendant 8 s lorsqu\u0027une attaque de vos personnages dans l\u0027équipe touche un ennemi marqué par un présage :\n· Les DGT d\u0027Électrocution, d\u0027Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %.",
-                                                                      "description":  "Les effets des réactions liées à l\u0027élément Hydro sont renforcés pendant 8 s lorsqu\u0027une attaque de vos personnages dans l\u0027équipe touche un ennemi marqué par un présage :\n· Les DGT d\u0027Électrocution, d\u0027Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %."
+                                                                      "descriptionRaw":  "Les effets des \u003ccolor=#80C0FFFF\u003eréactions liées à l\u0027élément Hydro\u003c/color\u003e sont renforcés pendant 8 s lorsqu\u0027une attaque de vos personnages dans l\u0027équipe touche un ennemi marqué par un présage :\n· Les DGT d\u0027Électrocution, de Sélénocution, d\u0027Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %.",
+                                                                      "description":  "Les effets des réactions liées à l\u0027élément Hydro sont renforcés pendant 8 s lorsqu\u0027une attaque de vos personnages dans l\u0027équipe touche un ennemi marqué par un présage :\n· Les DGT d\u0027Électrocution, de Sélénocution, d\u0027Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %."
                                                                   }
                                                        },
                                     "elementText":  "Hydro",
@@ -7344,25 +7391,25 @@
                                             },
                     "darkironsword":  {
                                           "r3":  {
-                                                     "description":  "Augmente l\u0027ATQ de 30 % pendant 12 s après avoir déclenché Surcharge, Supraconduction, Électrocution, Stimulation, Suractivation, Exubérance ou Dispersion Électro.",
+                                                     "description":  "Augmente l\u0027ATQ de 30 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d\u0027Électrocution, de Sélénocution, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro.",
                                                      "values":  [
                                                                     "30 %"
                                                                 ]
                                                  },
                                           "r5":  {
-                                                     "description":  "Augmente l\u0027ATQ de 40 % pendant 12 s après avoir déclenché Surcharge, Supraconduction, Électrocution, Stimulation, Suractivation, Exubérance ou Dispersion Électro.",
+                                                     "description":  "Augmente l\u0027ATQ de 40 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d\u0027Électrocution, de Sélénocution, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro.",
                                                      "values":  [
                                                                     "40 %"
                                                                 ]
                                                  },
                                           "r2":  {
-                                                     "description":  "Augmente l\u0027ATQ de 25 % pendant 12 s après avoir déclenché Surcharge, Supraconduction, Électrocution, Stimulation, Suractivation, Exubérance ou Dispersion Électro.",
+                                                     "description":  "Augmente l\u0027ATQ de 25 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d\u0027Électrocution, de Sélénocution, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro.",
                                                      "values":  [
                                                                     "25 %"
                                                                 ]
                                                  },
                                           "r4":  {
-                                                     "description":  "Augmente l\u0027ATQ de 35 % pendant 12 s après avoir déclenché Surcharge, Supraconduction, Électrocution, Stimulation, Suractivation, Exubérance ou Dispersion Électro.",
+                                                     "description":  "Augmente l\u0027ATQ de 35 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d\u0027Électrocution, de Sélénocution, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro.",
                                                      "values":  [
                                                                     "35 %"
                                                                 ]
@@ -7370,9 +7417,9 @@
                                           "substatText":  "Maîtrise élémentaire",
                                           "weaponText":  "Épée à une main",
                                           "name":  "Épée en fer noir",
-                                          "effectTemplateRaw":  "Augmente l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 12 s après avoir déclenché Surcharge, Supraconduction, Électrocution, Stimulation, Suractivation, Exubérance ou Dispersion Électro.",
+                                          "effectTemplateRaw":  "Augmente l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d\u0027Électrocution, de Sélénocution, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro.",
                                           "r1":  {
-                                                     "description":  "Augmente l\u0027ATQ de 20 % pendant 12 s après avoir déclenché Surcharge, Supraconduction, Électrocution, Stimulation, Suractivation, Exubérance ou Dispersion Électro.",
+                                                     "description":  "Augmente l\u0027ATQ de 20 % pendant 12 s après avoir déclenché une réaction de Surcharge, de Supraconduction, d\u0027Électrocution, de Sélénocution, de Stimulation, de Suractivation, d\u0027Exubérance ou de Dispersion Électro.",
                                                      "values":  [
                                                                     "20 %"
                                                                 ]
@@ -8176,25 +8223,25 @@
                                      },
                     "emeraldorb":  {
                                        "r3":  {
-                                                  "description":  "Augmente l\u0027ATQ de 30 % pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+                                                  "description":  "Augmente l\u0027ATQ de 30 % pendant 12 s après avoir déclenché une réaction d\u0027Évaporation, d\u0027Électrocution, de Sélénocution, de Gel, de Fleurissement ou de Dispersion Hydro.",
                                                   "values":  [
                                                                  "30 %"
                                                              ]
                                               },
                                        "r5":  {
-                                                  "description":  "Augmente l\u0027ATQ de 40 % pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+                                                  "description":  "Augmente l\u0027ATQ de 40 % pendant 12 s après avoir déclenché une réaction d\u0027Évaporation, d\u0027Électrocution, de Sélénocution, de Gel, de Fleurissement ou de Dispersion Hydro.",
                                                   "values":  [
                                                                  "40 %"
                                                              ]
                                               },
                                        "r2":  {
-                                                  "description":  "Augmente l\u0027ATQ de 25 % pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+                                                  "description":  "Augmente l\u0027ATQ de 25 % pendant 12 s après avoir déclenché une réaction d\u0027Évaporation, d\u0027Électrocution, de Sélénocution, de Gel, de Fleurissement ou de Dispersion Hydro.",
                                                   "values":  [
                                                                  "25 %"
                                                              ]
                                               },
                                        "r4":  {
-                                                  "description":  "Augmente l\u0027ATQ de 35 % pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+                                                  "description":  "Augmente l\u0027ATQ de 35 % pendant 12 s après avoir déclenché une réaction d\u0027Évaporation, d\u0027Électrocution, de Sélénocution, de Gel, de Fleurissement ou de Dispersion Hydro.",
                                                   "values":  [
                                                                  "35 %"
                                                              ]
@@ -8202,9 +8249,9 @@
                                        "substatText":  "Maîtrise élémentaire",
                                        "weaponText":  "Catalyseur",
                                        "name":  "Orbe jadien",
-                                       "effectTemplateRaw":  "Augmente l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+                                       "effectTemplateRaw":  "Augmente l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 12 s après avoir déclenché une réaction d\u0027Évaporation, d\u0027Électrocution, de Sélénocution, de Gel, de Fleurissement ou de Dispersion Hydro.",
                                        "r1":  {
-                                                  "description":  "Augmente l\u0027ATQ de 20 % pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+                                                  "description":  "Augmente l\u0027ATQ de 20 % pendant 12 s après avoir déclenché une réaction d\u0027Évaporation, d\u0027Électrocution, de Sélénocution, de Gel, de Fleurissement ou de Dispersion Hydro.",
                                                   "values":  [
                                                                  "20 %"
                                                              ]
@@ -8295,6 +8342,48 @@
                                                },
                                         "effectName":  "Axiome de la roche : Unité"
                                     },
+                    "wavebreakersfin":  {
+                                            "r3":  {
+                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,18 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 60 % de cette manière.",
+                                                       "values":  [
+                                                                      "0,18 %",
+                                                                      "60 %"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,24 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 80 % de cette manière.",
+                                                       "values":  [
+                                                                      "0,24 %",
+                                                                      "80 %"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,15 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 50 % de cette manière.",
+                                                       "values":  [
+                                                                      "0,15 %",
+                                                                      "50 %"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,21 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 70 % de cette manière.",
+                                                       "values":  [
+                                                                      "0,21 %",
+                                                                      "70 %"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ATQ",
+                                            "weaponText":  "Arme d\u0027hast",
+                                            "name":  "Aileron de brise-vagues",
+                                            "effectTemplateRaw":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e de cette manière.",
+                                            "r1":  {
+                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,12 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 40 % de cette manière.",
+                                                       "values":  [
+                                                                      "0,12 %",
+                                                                      "40 %"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Marchevague de Watatsumi"
+                                        },
                     "aquasimulacra":  {
                                           "r3":  {
                                                      "description":  "Les PV sont augmentés de 24 %. Si des ennemis sont proches, les DGT infligés par le personnage équipé de l\u0027arme augmentent de 30 %, qu\u0027il soit déployé ou non.",
@@ -9225,48 +9314,48 @@
                                                          },
                                                   "effectName":  "Code du samouraï"
                                               },
-                    "sacrificialbow":  {
-                                           "r3":  {
-                                                      "description":  "Les compétences élémentaires ont 60 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 22 s.",
-                                                      "values":  [
-                                                                     "60 %",
-                                                                     "22"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Les compétences élémentaires ont 80 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 16 s.",
-                                                      "values":  [
-                                                                     "80 %",
-                                                                     "16"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Les compétences élémentaires ont 50 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 26 s.",
-                                                      "values":  [
-                                                                     "50 %",
-                                                                     "26"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Les compétences élémentaires ont 70 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 19 s.",
-                                                      "values":  [
-                                                                     "70 %",
-                                                                     "19"
-                                                                 ]
-                                                  },
-                                           "substatText":  "Recharge d\u0027énergie",
-                                           "weaponText":  "Arc",
-                                           "name":  "Arc rituel",
-                                           "effectTemplateRaw":  "Les compétences élémentaires ont \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s.",
-                                           "r1":  {
-                                                      "description":  "Les compétences élémentaires ont 40 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 30 s.",
-                                                      "values":  [
-                                                                     "40 %",
-                                                                     "30"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Sang-froid"
-                                       },
+                    "cranesechoingcall":  {
+                                              "r3":  {
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 54 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "values":  [
+                                                                        "54 %",
+                                                                        "3"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 80 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3,5 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "values":  [
+                                                                        "80 %",
+                                                                        "3,5"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 41 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 2,75 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "values":  [
+                                                                        "41 %",
+                                                                        "2,75"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 67 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3,25 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "values":  [
+                                                                        "67 %",
+                                                                        "3,25"
+                                                                    ]
+                                                     },
+                                              "substatText":  "ATQ",
+                                              "weaponText":  "Catalyseur",
+                                              "name":  "Écho de la grue",
+                                              "effectTemplateRaw":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                              "r1":  {
+                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 28 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 2,5 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                         "values":  [
+                                                                        "28 %",
+                                                                        "2,5"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Précepte des nuages"
+                                          },
                     "rainslasher":  {
                                         "r3":  {
                                                    "description":  "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de 28 %.",
@@ -9558,6 +9647,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "fracturedhalo":  {
+                                          "r3":  {
+                                                     "description":  "Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l\u0027ATQ augmente de 36 % pendant 20 s. Si le personnage équipé de l\u0027arme crée un bouclier pendant cette durée, il obtient l\u0027effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l\u0027équipe à proximité de 60 %.",
+                                                     "values":  [
+                                                                    "36 %",
+                                                                    "60{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l\u0027ATQ augmente de 48 % pendant 20 s. Si le personnage équipé de l\u0027arme crée un bouclier pendant cette durée, il obtient l\u0027effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l\u0027équipe à proximité de 80 %.",
+                                                     "values":  [
+                                                                    "48 %",
+                                                                    "80{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l\u0027ATQ augmente de 30 % pendant 20 s. Si le personnage équipé de l\u0027arme crée un bouclier pendant cette durée, il obtient l\u0027effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l\u0027équipe à proximité de 50 %.",
+                                                     "values":  [
+                                                                    "30 %",
+                                                                    "50{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l\u0027ATQ augmente de 42 % pendant 20 s. Si le personnage équipé de l\u0027arme crée un bouclier pendant cette durée, il obtient l\u0027effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l\u0027équipe à proximité de 70 %.",
+                                                     "values":  [
+                                                                    "42 %",
+                                                                    "70{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "substatText":  "DGT CRIT",
+                                          "weaponText":  "Arme d\u0027hast",
+                                          "name":  "Halo fracturé",
+                                          "effectTemplateRaw":  "#Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l\u0027ATQ augmente de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 20 s. Si le personnage équipé de l\u0027arme crée un bouclier pendant cette durée, il obtient l\u0027effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l\u0027équipe à proximité de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                          "r1":  {
+                                                     "description":  "Après avoir utilisé une compétence élémentaire ou un déchaînement élémentaire, l\u0027ATQ augmente de 24 % pendant 20 s. Si le personnage équipé de l\u0027arme crée un bouclier pendant cette durée, il obtient l\u0027effet Édit électrifiant pendant 20 s : augmente les DGT des réactions de Sélénocution de tous les personnages de l\u0027équipe à proximité de 40 %.",
+                                                     "values":  [
+                                                                    "24 %",
+                                                                    "40{NON_BREAK_SPACE}%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Couronne de purification"
+                                      },
                     "sapwoodblade":  {
                                          "r3":  {
                                                     "description":  "Après avoir déclenché une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d\u0027Exubérance ou de Bourgeonnement, une feuille de conscience est générée autour du personnage pendant un maximum de 10 s. Une fois collectée, la feuille augmente la maîtrise élémentaire du personnage de 90 pts pendant 12 s. Une feuille de conscience peut être créée de cette manière une fois toutes les 20 s. L\u0027effet peut être déclenché même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé. L\u0027effet de la feuille de conscience ne se cumule pas.",
@@ -11381,48 +11512,48 @@
                                                   },
                                            "effectName":  "Flèche enterrée"
                                        },
-                    "wavebreakersfin":  {
-                                            "r3":  {
-                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,18 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 60 % de cette manière.",
-                                                       "values":  [
-                                                                      "0,18 %",
-                                                                      "60 %"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,24 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 80 % de cette manière.",
-                                                       "values":  [
-                                                                      "0,24 %",
-                                                                      "80 %"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,15 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 50 % de cette manière.",
-                                                       "values":  [
-                                                                      "0,15 %",
-                                                                      "50 %"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,21 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 70 % de cette manière.",
-                                                       "values":  [
-                                                                      "0,21 %",
-                                                                      "70 %"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ATQ",
-                                            "weaponText":  "Arme d\u0027hast",
-                                            "name":  "Aileron de brise-vagues",
-                                            "effectTemplateRaw":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e de cette manière.",
-                                            "r1":  {
-                                                       "description":  "Pour chaque point de l\u0027énergie élémentaire combinée de tous les personnages de l\u0027équipe, les DGT du déchaînement élémentaire du personnage équipé de cette arme augmentent de 0,12 %. Les DGT du déchaînement élémentaire peuvent être augmentés jusqu\u0027à 40 % de cette manière.",
-                                                       "values":  [
-                                                                      "0,12 %",
-                                                                      "40 %"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Marchevague de Watatsumi"
-                                        },
+                    "flameforgedinsight":  {
+                                               "r3":  {
+                                                          "description":  "Déclencher une réaction d\u0027Électrocution, de Sélénocution ou de Fleurissement restaure 18 pts d\u0027énergie élémentaire et augmente la maîtrise élémentaire de 90 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                          "values":  [
+                                                                         "18",
+                                                                         "90"
+                                                                     ]
+                                                      },
+                                               "r5":  {
+                                                          "description":  "Déclencher une réaction d\u0027Électrocution, de Sélénocution ou de Fleurissement restaure 24 pts d\u0027énergie élémentaire et augmente la maîtrise élémentaire de 120 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                          "values":  [
+                                                                         "24",
+                                                                         "120"
+                                                                     ]
+                                                      },
+                                               "r2":  {
+                                                          "description":  "Déclencher une réaction d\u0027Électrocution, de Sélénocution ou de Fleurissement restaure 15 pts d\u0027énergie élémentaire et augmente la maîtrise élémentaire de 75 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                          "values":  [
+                                                                         "15",
+                                                                         "75"
+                                                                     ]
+                                                      },
+                                               "r4":  {
+                                                          "description":  "Déclencher une réaction d\u0027Électrocution, de Sélénocution ou de Fleurissement restaure 21 pts d\u0027énergie élémentaire et augmente la maîtrise élémentaire de 105 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                          "values":  [
+                                                                         "21",
+                                                                         "105"
+                                                                     ]
+                                                      },
+                                               "substatText":  "Maîtrise élémentaire",
+                                               "weaponText":  "Épée à deux mains",
+                                               "name":  "Perception forgée par les flammes",
+                                               "effectTemplateRaw":  "Déclencher une réaction d\u0027Électrocution, de Sélénocution ou de Fleurissement restaure \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pts d\u0027énergie élémentaire et augmente la maîtrise élémentaire de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                               "r1":  {
+                                                          "description":  "Déclencher une réaction d\u0027Électrocution, de Sélénocution ou de Fleurissement restaure 12 pts d\u0027énergie élémentaire et augmente la maîtrise élémentaire de 60 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 15 s et même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                          "values":  [
+                                                                         "12",
+                                                                         "60"
+                                                                     ]
+                                                      },
+                                               "effectName":  "Pensée florissante"
+                                           },
                     "theunforged":  {
                                         "r3":  {
                                                    "description":  "Augmente la force du bouclier de 30 %. Toucher un ennemi augmente l\u0027ATQ de 6 % pendant 8 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s. Lorsque vous êtes protégé par un bouclier, l\u0027augmentation d\u0027ATQ de cet effet est de 100 %.",
@@ -14090,48 +14221,6 @@
                                                  },
                                           "effectName":  "Sanctuaire sylvestre"
                                       },
-                    "cranesechoingcall":  {
-                                              "r3":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 54 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
-                                                         "values":  [
-                                                                        "54 %",
-                                                                        "3"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 80 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3,5 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
-                                                         "values":  [
-                                                                        "80 %",
-                                                                        "3,5"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 41 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 2,75 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
-                                                         "values":  [
-                                                                        "41 %",
-                                                                        "2,75"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 67 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 3,25 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
-                                                         "values":  [
-                                                                        "67 %",
-                                                                        "3,25"
-                                                                    ]
-                                                     },
-                                              "substatText":  "ATQ",
-                                              "weaponText":  "Catalyseur",
-                                              "name":  "Écho de la grue",
-                                              "effectTemplateRaw":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
-                                              "r1":  {
-                                                         "description":  "Lorsque l\u0027attaque plongeante du personnage équipé de l\u0027arme a touché un ennemi, les DGT des attaques plongeantes de tous les personnages de l\u0027équipe à proximité augmentent de 28 % pendant 20 s. Lorsque l\u0027attaque plongeante d\u0027un personnage de l\u0027équipe à proximité touche un ennemi, le personnage équipé de l\u0027arme récupère 2,5 pts d\u0027énergie élémentaire. L\u0027énergie élémentaire peut être restaurée une fois toutes les 0,7 s de cette manière. Cette restauration d\u0027énergie élémentaire peut être déclenchée même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
-                                                         "values":  [
-                                                                        "28 %",
-                                                                        "2,5"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Précepte des nuages"
-                                          },
                     "rangegauge":  {
                                        "r3":  {
                                                   "description":  "Lorsque le personnage reçoit ou effectue des soins, il obtient une marque solidaire pendant 30 s, un maximum de 3 marques solidaires pouvant être obtenu. Utiliser une compétence ou un déchaînement élémentaires consomme toutes les marques solidaires et accorde un effet de baroud pendant 10 s : chaque marque solidaire consommée augmente l\u0027ATQ de 5 % et le bonus de DGT élémentaires de 10 %. Un effet de baroud peut être déclenché une fois toutes les 15 s, et des marques solidaires peuvent être obtenues même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé.",
@@ -15077,6 +15166,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "sacrificialbow":  {
+                                           "r3":  {
+                                                      "description":  "Les compétences élémentaires ont 60 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 22 s.",
+                                                      "values":  [
+                                                                     "60 %",
+                                                                     "22"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Les compétences élémentaires ont 80 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 16 s.",
+                                                      "values":  [
+                                                                     "80 %",
+                                                                     "16"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Les compétences élémentaires ont 50 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 26 s.",
+                                                      "values":  [
+                                                                     "50 %",
+                                                                     "26"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Les compétences élémentaires ont 70 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 19 s.",
+                                                      "values":  [
+                                                                     "70 %",
+                                                                     "19"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Recharge d\u0027énergie",
+                                           "weaponText":  "Arc",
+                                           "name":  "Arc rituel",
+                                           "effectTemplateRaw":  "Les compétences élémentaires ont \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e s.",
+                                           "r1":  {
+                                                      "description":  "Les compétences élémentaires ont 40 % de chances de réinitialiser leur propre TdR lorsqu\u0027elles infligent des DGT. Cet effet peut être déclenché une fois toutes les 30 s.",
+                                                      "values":  [
+                                                                     "40 %",
+                                                                     "30"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Sang-froid"
+                                       },
                     "dragonsbane":  {
                                         "r3":  {
                                                    "description":  "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de 28 %.",

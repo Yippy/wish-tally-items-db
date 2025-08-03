@@ -1586,6 +1586,9 @@
                       "concealedclaw":  {
                                             "name":  "Concealed Claw"
                                         },
+                      "drifterscrystalmarrow":  {
+                                                    "name":  "Drifter\u0027s Crystal Marrow"
+                                                },
                       "vajradaamethystfragment":  {
                                                       "name":  "Vajrada Amethyst Fragment"
                                                   },
@@ -2378,6 +2381,9 @@
                       "energynectar":  {
                                            "name":  "Energy Nectar"
                                        },
+                      "mysteriousbolt":  {
+                                             "name":  "Mur Misterius"
+                                         },
                       "deadleylineleaves":  {
                                                 "name":  "Dead Ley Line Leaves"
                                             },
@@ -3377,47 +3383,47 @@
                                         "region":  "Sumeru",
                                         "gender":  "Pria"
                                     },
-                       "mualani":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Mualani, Going All Out!",
-                                                                         "descriptionRaw":  "Saat dalam status Nightsoul\u0027s Blessing, Mualani mendapatkan 2 lapis Wave Momentum dari \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e. Saat Mualani mendapatkan Puffer, akan mendapatkan 1 lapis Wave Momentum.\nSelain itu, dalam 2 detik setelah Mualani mendapatkan 2 Puffer dalam satu kali status Nightsoul Blessing, dia akan memulihkan 12 poin Nightsoul. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu.",
-                                                                         "description":  "Saat dalam status Nightsoul\u0027s Blessing, Mualani mendapatkan 2 lapis Wave Momentum dari Surfshark Wavebreaker. Saat Mualani mendapatkan Puffer, akan mendapatkan 1 lapis Wave Momentum.\nSelain itu, dalam 2 detik setelah Mualani mendapatkan 2 Puffer dalam satu kali status Nightsoul Blessing, dia akan memulihkan 12 poin Nightsoul. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Sharky Eats Puffies",
-                                                                         "descriptionRaw":  "Saat mendapatkan Puffer, Mualani akan memulihkan 8 poin Energy. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu.\nSelain itu, DMG \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e meningkat 75%.",
-                                                                         "description":  "Saat mendapatkan Puffer, Mualani akan memulihkan 8 poin Energy. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu.\nSelain itu, DMG Boomsharka-laka meningkat 75%."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Surfing Atop Joyous Seas",
-                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                         "description":  "Meningkatkan 3 level Surfshark Wavebreaker.\nMaksimum: Lv. 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Same Style of Surfboard on Sale!",
-                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                         "description":  "Meningkatkan 3 level Boomsharka-laka.\nMaksimum: Lv. 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Spirit of the Springs\u0027 People",
-                                                                         "descriptionRaw":  "Efek peningkatan DMG Konstelasi \"The Leisurely \u0027Meztli\u0027...\" tidak terbatas pada satu kali terpicu saja untuk setiap kali Nightsoul\u0027s Blessing.",
-                                                                         "description":  "Efek peningkatan DMG Konstelasi \"The Leisurely \u0027Meztli\u0027...\" tidak terbatas pada satu kali terpicu saja untuk setiap kali Nightsoul\u0027s Blessing."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "The Leisurely \"Meztli\"...",
-                                                                         "descriptionRaw":  "DMG yang disebabkan dari Sharky\u0027s Surging Bite pertama setelah Mualani memasuki Nightsoul\u0027s Blessing dan Shark Missile yang terpicu olehnya meningkat sebesar 66% Max HP Mualani. Peningkatan DMG kali ini mengikuti ketentuan pengurangan DMG \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e.\nSelain itu, saat tidak berada dalam kondisi bertempur, konsumsi poin Nightsoul dan Phlogiston Mualani saat berada dalam status Nightsoul\u0027s Blessing berkurang 30%.",
-                                                                         "description":  "DMG yang disebabkan dari Sharky\u0027s Surging Bite pertama setelah Mualani memasuki Nightsoul\u0027s Blessing dan Shark Missile yang terpicu olehnya meningkat sebesar 66% Max HP Mualani. Peningkatan DMG kali ini mengikuti ketentuan pengurangan DMG Surfshark Wavebreaker.\nSelain itu, saat tidak berada dalam kondisi bertempur, konsumsi poin Nightsoul dan Phlogiston Mualani saat berada dalam status Nightsoul\u0027s Blessing berkurang 30%."
-                                                                     }
-                                                          },
-                                       "elementText":  "Hydro",
-                                       "fullname":  null,
-                                       "weaponText":  "Catalyst",
-                                       "name":  "Mualani",
-                                       "substatText":  "CRIT Rate",
-                                       "region":  "Natlan",
-                                       "gender":  "Perempuan"
-                                   },
+                       "ineffa":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Support Cleaning Module",
+                                                                        "descriptionRaw":  "Setelah Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11165}Supreme Instruction: Cyclonic Exterminator{/LINK}\u003c/color\u003e mengenai musuh, akan memberikan status Punishment Edict pada salah satu musuh yang terkena serangan. Setelah jeda singkat atau saat musuh ini diserang, musuh di sekitarnya akan terkena \u003ccolor=#FFACFFFF\u003eElectro DMG Area\u003c/color\u003e sebesar 300% ATK Ineffa. DMG ini dianggap sebagai DMG Lunar-Charged.\nSelain itu, saat Ineffa melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eSupreme Instruction: Cyclonic Exterminator\u003c/color\u003e, Karakter aktif di sekitar akan mendapatkan Optical Flow Shield Barrier.",
+                                                                        "description":  "Setelah Elemental Burst **Supreme Instruction: Cyclonic Exterminator** mengenai musuh, akan memberikan status Punishment Edict pada salah satu musuh yang terkena serangan. Setelah jeda singkat atau saat musuh ini diserang, musuh di sekitarnya akan terkena Electro DMG Area sebesar 300% ATK Ineffa. DMG ini dianggap sebagai DMG Lunar-Charged.\nSelain itu, saat Ineffa melancarkan Elemental Burst Supreme Instruction: Cyclonic Exterminator, Karakter aktif di sekitar akan mendapatkan Optical Flow Shield Barrier."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "The Edictless Path",
+                                                                        "descriptionRaw":  "Saat anggota party sendiri memicu reaksi Lunar-Charged, akan memulihkan 5 poin Energy. Efek ini dapat dipicu sekali setiap 4 detik.",
+                                                                        "description":  "Saat anggota party sendiri memicu reaksi Lunar-Charged, akan memulihkan 5 poin Energy. Efek ini dapat dipicu sekali setiap 4 detik."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Enhanced Emotion Emulator",
+                                                                        "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11162}Cleaning Mode: Carrier Frequency{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                        "description":  "Meningkatkan 3 level Elemental Skill **Cleaning Mode: Carrier Frequency**.\nMaksimum: Lv. 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Mirror\u0027s Dream Transcension",
+                                                                        "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003e{LINK#S11165}Supreme Instruction: Cyclonic Exterminator{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                        "description":  "Meningkatkan 3 level **Supreme Instruction: Cyclonic Exterminator**.\nMaksimum: Lv. 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "A Dawning Morn for You",
+                                                                        "descriptionRaw":  "Saat Ineffa dalam pengaruh efek Carrier Flow Composite, ia akan mengakibatkan \u003ccolor=#FFACFFFF\u003eElectro DMG Area\u003c/color\u003e sebesar 135% ATK-nya terhadap musuh di sekitar Karakter aktif setelah awan petir di dekatnya melepaskan sambaran petir ke arah musuh. DMG ini dianggap sebagai DMG Lunar-Charged. Efek yang disebutkan di atas dapat terpicu sekali setiap 3,5 detik.",
+                                                                        "description":  "Saat Ineffa dalam pengaruh efek Carrier Flow Composite, ia akan mengakibatkan Electro DMG Area sebesar 135% ATK-nya terhadap musuh di sekitar Karakter aktif setelah awan petir di dekatnya melepaskan sambaran petir ke arah musuh. DMG ini dianggap sebagai DMG Lunar-Charged. Efek yang disebutkan di atas dapat terpicu sekali setiap 3,5 detik."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Rectifying Processor",
+                                                                        "descriptionRaw":  "Saat Ineffa mengaktifkan Optical Flow Shield Barrier miliknya, semua anggota party di sekitar akan mendapatkan efek Carrier Flow Composite yang berlangsung 20 detik. Carrier Flow Composite: Meningkatkan DMG Lunar-Charged sebesar 2,5% untuk setiap 100 ATK Ineffa, hingga maksimum 50%.",
+                                                                        "description":  "Saat Ineffa mengaktifkan Optical Flow Shield Barrier miliknya, semua anggota party di sekitar akan mendapatkan efek Carrier Flow Composite yang berlangsung 20 detik. Carrier Flow Composite: Meningkatkan DMG Lunar-Charged sebesar 2,5% untuk setiap 100 ATK Ineffa, hingga maksimum 50%."
+                                                                    }
+                                                         },
+                                      "elementText":  "Electro",
+                                      "fullname":  null,
+                                      "weaponText":  "Polearm",
+                                      "name":  "Ineffa",
+                                      "substatText":  "CRIT Rate",
+                                      "region":  null,
+                                      "gender":  "Perempuan"
+                                  },
                        "hutao":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -3746,47 +3752,47 @@
                                       "region":  "Liyue",
                                       "gender":  "Perempuan"
                                   },
-                       "thoma":  {
-                                     "constellations":  {
-                                                            "c2":  {
-                                                                       "name":  "A Subordinate\u0027s Skills",
-                                                                       "descriptionRaw":  "Durasi \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e bertambah 3 detik.",
-                                                                       "description":  "Durasi Crimson Ooyoroi bertambah 3 detik."
-                                                                   },
-                                                            "c4":  {
-                                                                       "name":  "Long-Term Planning",
-                                                                       "descriptionRaw":  "Memulihkan 15 Energy Thoma setelah menggunakan \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e.",
-                                                                       "description":  "Memulihkan 15 Energy Thoma setelah menggunakan Crimson Ooyoroi."
-                                                                   },
-                                                            "c3":  {
-                                                                       "name":  "Fortified Resolve",
-                                                                       "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eBlazing Blessing\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                       "description":  "Meningkatkan 3 level Blazing Blessing.\nMaksimum: Lv. 15."
-                                                                   },
-                                                            "c5":  {
-                                                                       "name":  "Raging Wildfire",
-                                                                       "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                       "description":  "Meningkatkan 3 level Crimson Ooyoroi.\nMaksimum: Lv. 15."
-                                                                   },
-                                                            "c6":  {
-                                                                       "name":  "Burning Heart",
-                                                                       "descriptionRaw":  "Saat mendapatkan atau memperbarui \u003ccolor=#FFD780FF\u003eBlazing Barrier\u003c/color\u003e, maka DMG Normal, Charged, dan Plunging Attack yang diakibatkan semua anggota party akan meningkat 15% selama 6 detik.",
-                                                                       "description":  "Saat mendapatkan atau memperbarui Blazing Barrier, maka DMG Normal, Charged, dan Plunging Attack yang diakibatkan semua anggota party akan meningkat 15% selama 6 detik."
-                                                                   },
-                                                            "c1":  {
-                                                                       "name":  "A Comrade\u0027s Duty",
-                                                                       "descriptionRaw":  "Saat Karakter yang dilindungi oleh \u003ccolor=#FFD780FF\u003eBlazing Barrier\u003c/color\u003e milik Thoma (kecuali Thoma sendiri) terkena serangan, maka CD \u003ccolor=#FFD780FF\u003eBlazing Blessing\u003c/color\u003e Thoma akan berkurang 3 detik, dan CD \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e Thoma juga berkurang 3 detik.\nEfek ini dapat terpicu setiap 20 detik.",
-                                                                       "description":  "Saat Karakter yang dilindungi oleh Blazing Barrier milik Thoma (kecuali Thoma sendiri) terkena serangan, maka CD Blazing Blessing Thoma akan berkurang 3 detik, dan CD Crimson Ooyoroi Thoma juga berkurang 3 detik.\nEfek ini dapat terpicu setiap 20 detik."
-                                                                   }
-                                                        },
-                                     "elementText":  "Pyro",
-                                     "fullname":  null,
-                                     "weaponText":  "Polearm",
-                                     "name":  "Thoma",
-                                     "substatText":  "ATK",
-                                     "region":  "Inazuma",
-                                     "gender":  "Pria"
-                                 },
+                       "lynette":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Endless Mysteries",
+                                                                         "descriptionRaw":  "Saat Bogglecat Box yang tercipta dari \u003ccolor=#FFD780FF\u003eMagic Trick: Astonishing Shift\u003c/color\u003e menembakkan Vivid Shot, akan menembakkan satu Vivid Shot tambahan.",
+                                                                         "description":  "Saat Bogglecat Box yang tercipta dari Magic Trick: Astonishing Shift menembakkan Vivid Shot, akan menembakkan satu Vivid Shot tambahan."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Tacit Coordination",
+                                                                         "descriptionRaw":  "Meningkatkan 1 charge \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e.",
+                                                                         "description":  "Meningkatkan 1 charge Enigmatic Feint."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Cognition-Inverting Gaze",
+                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eMagic Trick: Astonishing Shift\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                         "description":  "Meningkatkan 3 level Magic Trick: Astonishing Shift.\nMaksimum: Lv. 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Obscuring Ambiguity",
+                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                         "description":  "Meningkatkan 3 level Enigmatic Feint.\nMaksimum: Lv. 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Watchful Eye",
+                                                                         "descriptionRaw":  "Saat Lynette melancarkan Enigma Thrust dari skill \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e, akan mendapatkan \u003ccolor=#80FFD7FF\u003eAnemo Infusion\u003c/color\u003e dan meningkatkan 20% \u003ccolor=#80FFD7FF\u003eAnemo DMG Bonus\u003c/color\u003e selama 6 detik.",
+                                                                         "description":  "Saat Lynette melancarkan Enigma Thrust dari skill Enigmatic Feint, akan mendapatkan Anemo Infusion dan meningkatkan 20% Anemo DMG Bonus selama 6 detik."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "A Cold Blade Like a Shadow",
+                                                                         "descriptionRaw":  "Saat Enigma Thrust dari \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e mengenai musuh yang memiliki Shadowsign, pusaran angin akan tercipta di posisi musuh berada dan menarik musuh di sekitarnya.",
+                                                                         "description":  "Saat Enigma Thrust dari Enigmatic Feint mengenai musuh yang memiliki Shadowsign, pusaran angin akan tercipta di posisi musuh berada dan menarik musuh di sekitarnya."
+                                                                     }
+                                                          },
+                                       "elementText":  "Anemo",
+                                       "fullname":  null,
+                                       "weaponText":  "Sword",
+                                       "name":  "Lynette",
+                                       "substatText":  "Anemo DMG Bonus",
+                                       "region":  "Fontaine",
+                                       "gender":  "Perempuan"
+                                   },
                        "yanfei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -3837,8 +3843,8 @@
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Austerity: Forbidding Guard",
-                                                                      "descriptionRaw":  "Saat Cyno berada dalam status Pactsworn Pathclearer yang terpicu oleh \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e, setelah dia memicu Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, atau reaksi Electro Swirl, Cyno akan memulihkan 3 Elemental Energy untuk semua anggota party di sekitar (kecuali Cyno sendiri.)\nEfek ini dapat muncul 5 kali dalam satu kali penggunaan \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e.",
-                                                                      "description":  "Saat Cyno berada dalam status Pactsworn Pathclearer yang terpicu oleh Sacred Rite: Wolf\u0027s Swiftness, setelah dia memicu Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, atau reaksi Electro Swirl, Cyno akan memulihkan 3 Elemental Energy untuk semua anggota party di sekitar (kecuali Cyno sendiri.)\nEfek ini dapat muncul 5 kali dalam satu kali penggunaan Sacred Rite: Wolf\u0027s Swiftness."
+                                                                      "descriptionRaw":  "Saat Cyno berada dalam status Pactsworn Pathclearer yang terpicu oleh \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e, setelah dia memicu Electro-Charged, Lunar-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, atau reaksi Electro Swirl, Cyno akan memulihkan 3 Elemental Energy untuk semua anggota party di sekitar (kecuali Cyno sendiri.)\nEfek ini dapat muncul 5 kali dalam satu kali penggunaan \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e.",
+                                                                      "description":  "Saat Cyno berada dalam status Pactsworn Pathclearer yang terpicu oleh Sacred Rite: Wolf\u0027s Swiftness, setelah dia memicu Electro-Charged, Lunar-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, atau reaksi Electro Swirl, Cyno akan memulihkan 3 Elemental Energy untuk semua anggota party di sekitar (kecuali Cyno sendiri.)\nEfek ini dapat muncul 5 kali dalam satu kali penggunaan Sacred Rite: Wolf\u0027s Swiftness."
                                                                   },
                                                            "c3":  {
                                                                       "name":  "Precept: Lawful Enforcer",
@@ -4115,47 +4121,40 @@
                                      "region":  "Sumeru",
                                      "gender":  "Perempuan"
                                  },
-                       "lynette":  {
-                                       "constellations":  {
-                                                              "c2":  {
-                                                                         "name":  "Endless Mysteries",
-                                                                         "descriptionRaw":  "Saat Bogglecat Box yang tercipta dari \u003ccolor=#FFD780FF\u003eMagic Trick: Astonishing Shift\u003c/color\u003e menembakkan Vivid Shot, akan menembakkan satu Vivid Shot tambahan.",
-                                                                         "description":  "Saat Bogglecat Box yang tercipta dari Magic Trick: Astonishing Shift menembakkan Vivid Shot, akan menembakkan satu Vivid Shot tambahan."
-                                                                     },
-                                                              "c4":  {
-                                                                         "name":  "Tacit Coordination",
-                                                                         "descriptionRaw":  "Meningkatkan 1 charge \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e.",
-                                                                         "description":  "Meningkatkan 1 charge Enigmatic Feint."
-                                                                     },
-                                                              "c3":  {
-                                                                         "name":  "Cognition-Inverting Gaze",
-                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eMagic Trick: Astonishing Shift\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                         "description":  "Meningkatkan 3 level Magic Trick: Astonishing Shift.\nMaksimum: Lv. 15."
-                                                                     },
-                                                              "c5":  {
-                                                                         "name":  "Obscuring Ambiguity",
-                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                         "description":  "Meningkatkan 3 level Enigmatic Feint.\nMaksimum: Lv. 15."
-                                                                     },
-                                                              "c6":  {
-                                                                         "name":  "Watchful Eye",
-                                                                         "descriptionRaw":  "Saat Lynette melancarkan Enigma Thrust dari skill \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e, akan mendapatkan \u003ccolor=#80FFD7FF\u003eAnemo Infusion\u003c/color\u003e dan meningkatkan 20% \u003ccolor=#80FFD7FF\u003eAnemo DMG Bonus\u003c/color\u003e selama 6 detik.",
-                                                                         "description":  "Saat Lynette melancarkan Enigma Thrust dari skill Enigmatic Feint, akan mendapatkan Anemo Infusion dan meningkatkan 20% Anemo DMG Bonus selama 6 detik."
-                                                                     },
-                                                              "c1":  {
-                                                                         "name":  "A Cold Blade Like a Shadow",
-                                                                         "descriptionRaw":  "Saat Enigma Thrust dari \u003ccolor=#FFD780FF\u003eEnigmatic Feint\u003c/color\u003e mengenai musuh yang memiliki Shadowsign, pusaran angin akan tercipta di posisi musuh berada dan menarik musuh di sekitarnya.",
-                                                                         "description":  "Saat Enigma Thrust dari Enigmatic Feint mengenai musuh yang memiliki Shadowsign, pusaran angin akan tercipta di posisi musuh berada dan menarik musuh di sekitarnya."
-                                                                     }
-                                                          },
-                                       "elementText":  "Anemo",
-                                       "fullname":  null,
-                                       "weaponText":  "Sword",
-                                       "name":  "Lynette",
-                                       "substatText":  "Anemo DMG Bonus",
-                                       "region":  "Fontaine",
-                                       "gender":  "Perempuan"
-                                   },
+                       "travelerhydro":  {
+                                             "constellations":  {
+                                                                    "c2":  {
+                                                                               "name":  "Trickling Purity",
+                                                                               "descriptionRaw":  "Movement SPD gelembung \u003ccolor=#FFD780FF\u003eRising Waters\u003c/color\u003e berkurang 30%, durasi meningkat 3 detik.",
+                                                                               "description":  "Movement SPD gelembung Rising Waters berkurang 30%, durasi meningkat 3 detik."
+                                                                           },
+                                                                    "c4":  {
+                                                                               "name":  "Pouring Descent",
+                                                                               "descriptionRaw":  "Saat melancarkan \u003ccolor=#FFD780FF\u003eAquacrest Saber\u003c/color\u003e, akan menghasilkan Perisai Aquacrest Aegis yang dapat menahan DMG setara dengan 10% Max HP dan memiliki 250% pertahanan terhadap \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e. Perisai akan bertahan sampai Pengembara selesai melancarkan skill.\nSekali setiap 2 detik, setelah Dewdrop mengenai musuh, dan jika Pengembara berada dalam status perlindungan Aquacrest Aegis, maka DMG yang ditahan oleh Aquacrest Aegis akan dikembalikan menjadi 10% Max HP Pengembara. Jika Pengembara tidak berada dalam status perlindungan Aquacrest Aegis, maka akan menghasilkan satu Aquacrest Aegis yang baru.",
+                                                                               "description":  "Saat melancarkan Aquacrest Saber, akan menghasilkan Perisai Aquacrest Aegis yang dapat menahan DMG setara dengan 10% Max HP dan memiliki 250% pertahanan terhadap Hydro DMG. Perisai akan bertahan sampai Pengembara selesai melancarkan skill.\nSekali setiap 2 detik, setelah Dewdrop mengenai musuh, dan jika Pengembara berada dalam status perlindungan Aquacrest Aegis, maka DMG yang ditahan oleh Aquacrest Aegis akan dikembalikan menjadi 10% Max HP Pengembara. Jika Pengembara tidak berada dalam status perlindungan Aquacrest Aegis, maka akan menghasilkan satu Aquacrest Aegis yang baru."
+                                                                           },
+                                                                    "c3":  {
+                                                                               "name":  "Turbulent Ripples",
+                                                                               "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eAquacrest Saber\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                               "description":  "Meningkatkan 3 level Aquacrest Saber.\nMaksimum: Lv. 15."
+                                                                           },
+                                                                    "c5":  {
+                                                                               "name":  "Churning Whirlpool",
+                                                                               "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eRising Waters\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                               "description":  "Meningkatkan 3 level Rising Waters.\nMaksimum: Lv. 15."
+                                                                           },
+                                                                    "c6":  {
+                                                                               "name":  "Tides of Justice",
+                                                                               "descriptionRaw":  "Saat Pengembara mengambil Sourcewater Droplet, akan memulihkan HP anggota party terdekat dengan persentase HP terendah sebesar 6% Max HP anggota party tersebut.",
+                                                                               "description":  "Saat Pengembara mengambil Sourcewater Droplet, akan memulihkan HP anggota party terdekat dengan persentase HP terendah sebesar 6% Max HP anggota party tersebut."
+                                                                           },
+                                                                    "c1":  {
+                                                                               "name":  "Swelling Lake",
+                                                                               "descriptionRaw":  "Setelah mengambil Sourcewater Droplet, akan memulihkan 2 poin Energy.\nHarus membuka Talenta Pasif \"Spotless Waters\" terlebih dahulu.",
+                                                                               "description":  "Setelah mengambil Sourcewater Droplet, akan memulihkan 2 poin Energy.\nHarus membuka Talenta Pasif \"Spotless Waters\" terlebih dahulu."
+                                                                           }
+                                                                }
+                                         },
                        "kujousara":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -4361,6 +4360,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Pria"
                                   },
+                       "mualani":  {
+                                       "constellations":  {
+                                                              "c2":  {
+                                                                         "name":  "Mualani, Going All Out!",
+                                                                         "descriptionRaw":  "Saat dalam status Nightsoul\u0027s Blessing, Mualani mendapatkan 2 lapis Wave Momentum dari \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e. Saat Mualani mendapatkan Puffer, akan mendapatkan 1 lapis Wave Momentum.\nSelain itu, dalam 2 detik setelah Mualani mendapatkan 2 Puffer dalam satu kali status Nightsoul Blessing, dia akan memulihkan 12 poin Nightsoul. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu.",
+                                                                         "description":  "Saat dalam status Nightsoul\u0027s Blessing, Mualani mendapatkan 2 lapis Wave Momentum dari Surfshark Wavebreaker. Saat Mualani mendapatkan Puffer, akan mendapatkan 1 lapis Wave Momentum.\nSelain itu, dalam 2 detik setelah Mualani mendapatkan 2 Puffer dalam satu kali status Nightsoul Blessing, dia akan memulihkan 12 poin Nightsoul. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu."
+                                                                     },
+                                                              "c4":  {
+                                                                         "name":  "Sharky Eats Puffies",
+                                                                         "descriptionRaw":  "Saat mendapatkan Puffer, Mualani akan memulihkan 8 poin Energy. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu.\nSelain itu, DMG \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e meningkat 75%.",
+                                                                         "description":  "Saat mendapatkan Puffer, Mualani akan memulihkan 8 poin Energy. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu.\nSelain itu, DMG Boomsharka-laka meningkat 75%."
+                                                                     },
+                                                              "c3":  {
+                                                                         "name":  "Surfing Atop Joyous Seas",
+                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                         "description":  "Meningkatkan 3 level Surfshark Wavebreaker.\nMaksimum: Lv. 15."
+                                                                     },
+                                                              "c5":  {
+                                                                         "name":  "Same Style of Surfboard on Sale!",
+                                                                         "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                         "description":  "Meningkatkan 3 level Boomsharka-laka.\nMaksimum: Lv. 15."
+                                                                     },
+                                                              "c6":  {
+                                                                         "name":  "Spirit of the Springs\u0027 People",
+                                                                         "descriptionRaw":  "Efek peningkatan DMG Konstelasi \"The Leisurely \u0027Meztli\u0027...\" tidak terbatas pada satu kali terpicu saja untuk setiap kali Nightsoul\u0027s Blessing.",
+                                                                         "description":  "Efek peningkatan DMG Konstelasi \"The Leisurely \u0027Meztli\u0027...\" tidak terbatas pada satu kali terpicu saja untuk setiap kali Nightsoul\u0027s Blessing."
+                                                                     },
+                                                              "c1":  {
+                                                                         "name":  "The Leisurely \"Meztli\"...",
+                                                                         "descriptionRaw":  "DMG yang disebabkan dari Sharky\u0027s Surging Bite pertama setelah Mualani memasuki Nightsoul\u0027s Blessing dan Shark Missile yang terpicu olehnya meningkat sebesar 66% Max HP Mualani. Peningkatan DMG kali ini mengikuti ketentuan pengurangan DMG \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e.\nSelain itu, saat tidak berada dalam kondisi bertempur, konsumsi poin Nightsoul dan Phlogiston Mualani saat berada dalam status Nightsoul\u0027s Blessing berkurang 30%.",
+                                                                         "description":  "DMG yang disebabkan dari Sharky\u0027s Surging Bite pertama setelah Mualani memasuki Nightsoul\u0027s Blessing dan Shark Missile yang terpicu olehnya meningkat sebesar 66% Max HP Mualani. Peningkatan DMG kali ini mengikuti ketentuan pengurangan DMG Surfshark Wavebreaker.\nSelain itu, saat tidak berada dalam kondisi bertempur, konsumsi poin Nightsoul dan Phlogiston Mualani saat berada dalam status Nightsoul\u0027s Blessing berkurang 30%."
+                                                                     }
+                                                          },
+                                       "elementText":  "Hydro",
+                                       "fullname":  null,
+                                       "weaponText":  "Catalyst",
+                                       "name":  "Mualani",
+                                       "substatText":  "CRIT Rate",
+                                       "region":  "Natlan",
+                                       "gender":  "Perempuan"
+                                   },
                        "collei":  {
                                       "constellations":  {
                                                              "c2":  {
@@ -5549,40 +5589,6 @@
                                       "region":  "Fontaine",
                                       "gender":  "Perempuan"
                                   },
-                       "travelerhydro":  {
-                                             "constellations":  {
-                                                                    "c2":  {
-                                                                               "name":  "Trickling Purity",
-                                                                               "descriptionRaw":  "Movement SPD gelembung \u003ccolor=#FFD780FF\u003eRising Waters\u003c/color\u003e berkurang 30%, durasi meningkat 3 detik.",
-                                                                               "description":  "Movement SPD gelembung Rising Waters berkurang 30%, durasi meningkat 3 detik."
-                                                                           },
-                                                                    "c4":  {
-                                                                               "name":  "Pouring Descent",
-                                                                               "descriptionRaw":  "Saat melancarkan \u003ccolor=#FFD780FF\u003eAquacrest Saber\u003c/color\u003e, akan menghasilkan Perisai Aquacrest Aegis yang dapat menahan DMG setara dengan 10% Max HP dan memiliki 250% pertahanan terhadap \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e. Perisai akan bertahan sampai Pengembara selesai melancarkan skill.\nSekali setiap 2 detik, setelah Dewdrop mengenai musuh, dan jika Pengembara berada dalam status perlindungan Aquacrest Aegis, maka DMG yang ditahan oleh Aquacrest Aegis akan dikembalikan menjadi 10% Max HP Pengembara. Jika Pengembara tidak berada dalam status perlindungan Aquacrest Aegis, maka akan menghasilkan satu Aquacrest Aegis yang baru.",
-                                                                               "description":  "Saat melancarkan Aquacrest Saber, akan menghasilkan Perisai Aquacrest Aegis yang dapat menahan DMG setara dengan 10% Max HP dan memiliki 250% pertahanan terhadap Hydro DMG. Perisai akan bertahan sampai Pengembara selesai melancarkan skill.\nSekali setiap 2 detik, setelah Dewdrop mengenai musuh, dan jika Pengembara berada dalam status perlindungan Aquacrest Aegis, maka DMG yang ditahan oleh Aquacrest Aegis akan dikembalikan menjadi 10% Max HP Pengembara. Jika Pengembara tidak berada dalam status perlindungan Aquacrest Aegis, maka akan menghasilkan satu Aquacrest Aegis yang baru."
-                                                                           },
-                                                                    "c3":  {
-                                                                               "name":  "Turbulent Ripples",
-                                                                               "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eAquacrest Saber\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                               "description":  "Meningkatkan 3 level Aquacrest Saber.\nMaksimum: Lv. 15."
-                                                                           },
-                                                                    "c5":  {
-                                                                               "name":  "Churning Whirlpool",
-                                                                               "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eRising Waters\u003c/color\u003e.\nMaksimum: Lv. 15.",
-                                                                               "description":  "Meningkatkan 3 level Rising Waters.\nMaksimum: Lv. 15."
-                                                                           },
-                                                                    "c6":  {
-                                                                               "name":  "Tides of Justice",
-                                                                               "descriptionRaw":  "Saat Pengembara mengambil Sourcewater Droplet, akan memulihkan HP anggota party terdekat dengan persentase HP terendah sebesar 6% Max HP anggota party tersebut.",
-                                                                               "description":  "Saat Pengembara mengambil Sourcewater Droplet, akan memulihkan HP anggota party terdekat dengan persentase HP terendah sebesar 6% Max HP anggota party tersebut."
-                                                                           },
-                                                                    "c1":  {
-                                                                               "name":  "Swelling Lake",
-                                                                               "descriptionRaw":  "Setelah mengambil Sourcewater Droplet, akan memulihkan 2 poin Energy.\nHarus membuka Talenta Pasif \"Spotless Waters\" terlebih dahulu.",
-                                                                               "description":  "Setelah mengambil Sourcewater Droplet, akan memulihkan 2 poin Energy.\nHarus membuka Talenta Pasif \"Spotless Waters\" terlebih dahulu."
-                                                                           }
-                                                                }
-                                         },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6276,6 +6282,47 @@
                                     "region":  "Liyue",
                                     "gender":  "Pria"
                                 },
+                       "thoma":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "A Subordinate\u0027s Skills",
+                                                                       "descriptionRaw":  "Durasi \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e bertambah 3 detik.",
+                                                                       "description":  "Durasi Crimson Ooyoroi bertambah 3 detik."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Long-Term Planning",
+                                                                       "descriptionRaw":  "Memulihkan 15 Energy Thoma setelah menggunakan \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e.",
+                                                                       "description":  "Memulihkan 15 Energy Thoma setelah menggunakan Crimson Ooyoroi."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Fortified Resolve",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eBlazing Blessing\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Blazing Blessing.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Raging Wildfire",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Crimson Ooyoroi.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Burning Heart",
+                                                                       "descriptionRaw":  "Saat mendapatkan atau memperbarui \u003ccolor=#FFD780FF\u003eBlazing Barrier\u003c/color\u003e, maka DMG Normal, Charged, dan Plunging Attack yang diakibatkan semua anggota party akan meningkat 15% selama 6 detik.",
+                                                                       "description":  "Saat mendapatkan atau memperbarui Blazing Barrier, maka DMG Normal, Charged, dan Plunging Attack yang diakibatkan semua anggota party akan meningkat 15% selama 6 detik."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "A Comrade\u0027s Duty",
+                                                                       "descriptionRaw":  "Saat Karakter yang dilindungi oleh \u003ccolor=#FFD780FF\u003eBlazing Barrier\u003c/color\u003e milik Thoma (kecuali Thoma sendiri) terkena serangan, maka CD \u003ccolor=#FFD780FF\u003eBlazing Blessing\u003c/color\u003e Thoma akan berkurang 3 detik, dan CD \u003ccolor=#FFD780FF\u003eCrimson Ooyoroi\u003c/color\u003e Thoma juga berkurang 3 detik.\nEfek ini dapat terpicu setiap 20 detik.",
+                                                                       "description":  "Saat Karakter yang dilindungi oleh Blazing Barrier milik Thoma (kecuali Thoma sendiri) terkena serangan, maka CD Blazing Blessing Thoma akan berkurang 3 detik, dan CD Crimson Ooyoroi Thoma juga berkurang 3 detik.\nEfek ini dapat terpicu setiap 20 detik."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Polearm",
+                                     "name":  "Thoma",
+                                     "substatText":  "ATK",
+                                     "region":  "Inazuma",
+                                     "gender":  "Pria"
+                                 },
                        "venti":  {
                                      "constellations":  {
                                                             "c2":  {
@@ -6756,8 +6803,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Prophecy of Submersion",
-                                                                      "descriptionRaw":  "Efek \u003ccolor=#80C0FFFF\u003eReaksi Elemental yang berhubungan dengan elemen Hydro\u003c/color\u003e akan ditingkatkan selama 8 detik setelah karakter dalam party sendiri menyerang musuh yang terkena efek Omen:\n·DMG Electro Charged meningkat 15%.\n·DMG Vaporize meningkat 15%.\n·DMG Hydro Swirl meningkat 15%.\n·Durasi musuh yang terkena Frozen meningkat 15%.",
-                                                                      "description":  "Efek Reaksi Elemental yang berhubungan dengan elemen Hydro akan ditingkatkan selama 8 detik setelah karakter dalam party sendiri menyerang musuh yang terkena efek Omen:\n·DMG Electro Charged meningkat 15%.\n·DMG Vaporize meningkat 15%.\n·DMG Hydro Swirl meningkat 15%.\n·Durasi musuh yang terkena Frozen meningkat 15%."
+                                                                      "descriptionRaw":  "Efek \u003ccolor=#80C0FFFF\u003eReaksi Elemental yang berhubungan dengan elemen Hydro\u003c/color\u003e akan ditingkatkan selama 8 detik setelah serangan Karakter dalam party sendiri mengenai musuh yang berada dalam status Omen:\n·DMG Electro Charged meningkat 15%. ·DMG Lunar-Charged meningkat 15%. DMG Vaporize meningkat 15%. DMG Hydro Swirl meningkat 15%.\n·Durasi musuh yang terkena Frozen meningkat 15%.",
+                                                                      "description":  "Efek Reaksi Elemental yang berhubungan dengan elemen Hydro akan ditingkatkan selama 8 detik setelah serangan Karakter dalam party sendiri mengenai musuh yang berada dalam status Omen:\n·DMG Electro Charged meningkat 15%. ·DMG Lunar-Charged meningkat 15%. DMG Vaporize meningkat 15%. DMG Hydro Swirl meningkat 15%.\n·Durasi musuh yang terkena Frozen meningkat 15%."
                                                                   }
                                                        },
                                     "elementText":  "Hydro",
@@ -7344,25 +7391,25 @@
                                             },
                     "darkironsword":  {
                                           "r3":  {
-                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan 30% ATK selama 12 detik.",
+                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, ATK +30% selama 12 detik.",
                                                      "values":  [
                                                                     "30%"
                                                                 ]
                                                  },
                                           "r5":  {
-                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan 40% ATK selama 12 detik.",
+                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, ATK +40% selama 12 detik.",
                                                      "values":  [
                                                                     "40%"
                                                                 ]
                                                  },
                                           "r2":  {
-                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan 25% ATK selama 12 detik.",
+                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, ATK +25% selama 12 detik.",
                                                      "values":  [
                                                                     "25%"
                                                                 ]
                                                  },
                                           "r4":  {
-                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan 35% ATK selama 12 detik.",
+                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, ATK +35% selama 12 detik.",
                                                      "values":  [
                                                                     "35%"
                                                                 ]
@@ -7370,9 +7417,9 @@
                                           "substatText":  "Elemental Mastery",
                                           "weaponText":  "Sword",
                                           "name":  "Dark Iron Sword",
-                                          "effectTemplateRaw":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ATK selama 12 detik.",
+                                          "effectTemplateRaw":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, ATK +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e selama 12 detik.",
                                           "r1":  {
-                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan 20% ATK selama 12 detik.",
+                                                     "description":  "Saat memicu Overloaded, Superconduct, Electro-Charged, Lunar-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, ATK +20% selama 12 detik.",
                                                      "values":  [
                                                                     "20%"
                                                                 ]
@@ -8176,25 +8223,25 @@
                                      },
                     "emeraldorb":  {
                                        "r3":  {
-                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan 30% ATK selama 12 detik.",
+                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, atau reaksi Swirl dengan elemen Hydro, ATK +30% selama 12 detik.",
                                                   "values":  [
                                                                  "30%"
                                                              ]
                                               },
                                        "r5":  {
-                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan 40% ATK selama 12 detik.",
+                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, atau reaksi Swirl dengan elemen Hydro, ATK +40% selama 12 detik.",
                                                   "values":  [
                                                                  "40%"
                                                              ]
                                               },
                                        "r2":  {
-                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan 25% ATK selama 12 detik.",
+                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, atau reaksi Swirl dengan elemen Hydro, ATK +25% selama 12 detik.",
                                                   "values":  [
                                                                  "25%"
                                                              ]
                                               },
                                        "r4":  {
-                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan 35% ATK selama 12 detik.",
+                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, atau reaksi Swirl dengan elemen Hydro, ATK +35% selama 12 detik.",
                                                   "values":  [
                                                                  "35%"
                                                              ]
@@ -8202,9 +8249,9 @@
                                        "substatText":  "Elemental Mastery",
                                        "weaponText":  "Catalyst",
                                        "name":  "Emerald Orb",
-                                       "effectTemplateRaw":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ATK selama 12 detik.",
+                                       "effectTemplateRaw":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, atau reaksi Swirl dengan elemen Hydro, ATK +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e selama 12 detik.",
                                        "r1":  {
-                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan 20% ATK selama 12 detik.",
+                                                  "description":  "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, atau reaksi Swirl dengan elemen Hydro, ATK +20% selama 12 detik.",
                                                   "values":  [
                                                                  "20%"
                                                              ]
@@ -8295,6 +8342,48 @@
                                                },
                                         "effectName":  "Lithic Axiom: Unity"
                                     },
+                    "wavebreakersfin":  {
+                                            "r3":  {
+                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,18% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 60%.",
+                                                       "values":  [
+                                                                      "0,18%",
+                                                                      "60%"
+                                                                  ]
+                                                   },
+                                            "r5":  {
+                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,24% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 80%.",
+                                                       "values":  [
+                                                                      "0,24%",
+                                                                      "80%"
+                                                                  ]
+                                                   },
+                                            "r2":  {
+                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,15% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 50%.",
+                                                       "values":  [
+                                                                      "0,15%",
+                                                                      "50%"
+                                                                  ]
+                                                   },
+                                            "r4":  {
+                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,21% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 70%.",
+                                                       "values":  [
+                                                                      "0,21%",
+                                                                      "70%"
+                                                                  ]
+                                                   },
+                                            "substatText":  "ATK",
+                                            "weaponText":  "Polearm",
+                                            "name":  "Wavebreaker\u0027s Fin",
+                                            "effectTemplateRaw":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                            "r1":  {
+                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,12% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 40%.",
+                                                       "values":  [
+                                                                      "0,12%",
+                                                                      "40%"
+                                                                  ]
+                                                   },
+                                            "effectName":  "Watatsumi Wavewalker"
+                                        },
                     "aquasimulacra":  {
                                           "r3":  {
                                                      "description":  "HP meningkat 24%. Saat ada musuh di sekitar, maka DMG yang diakibatkan oleh Karakter pengguna Senjata ini meningkat 30% baik saat Karakter-nya aktif, maupun hanya ada dalam party namun sedang tidak bertempur.",
@@ -9225,48 +9314,48 @@
                                                          },
                                                   "effectName":  "Samurai Conduct"
                                               },
-                    "sacrificialbow":  {
-                                           "r3":  {
-                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 60% persentase CD Skill langsung selesai. Dapat terpicu setiap 22 detik.",
-                                                      "values":  [
-                                                                     "60%",
-                                                                     "22 detik"
-                                                                 ]
-                                                  },
-                                           "r5":  {
-                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 80% persentase CD Skill langsung selesai. Dapat terpicu setiap 16 detik.",
-                                                      "values":  [
-                                                                     "80%",
-                                                                     "16 detik"
-                                                                 ]
-                                                  },
-                                           "r2":  {
-                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 50% persentase CD Skill langsung selesai. Dapat terpicu setiap 26 detik.",
-                                                      "values":  [
-                                                                     "50%",
-                                                                     "26 detik"
-                                                                 ]
-                                                  },
-                                           "r4":  {
-                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 70% persentase CD Skill langsung selesai. Dapat terpicu setiap 19 detik.",
-                                                      "values":  [
-                                                                     "70%",
-                                                                     "19 detik"
-                                                                 ]
-                                                  },
-                                           "substatText":  "Energy Recharge",
-                                           "weaponText":  "Bow",
-                                           "name":  "Sacrificial Bow",
-                                           "effectTemplateRaw":  "Setelah Elemental Skill mengakibatkan DMG, terdapat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e persentase CD Skill langsung selesai. Dapat terpicu setiap \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
-                                           "r1":  {
-                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 40% persentase CD Skill langsung selesai. Dapat terpicu setiap 30 detik.",
-                                                      "values":  [
-                                                                     "40%",
-                                                                     "30 detik"
-                                                                 ]
-                                                  },
-                                           "effectName":  "Composed"
-                                       },
+                    "cranesechoingcall":  {
+                                              "r3":  {
+                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 54% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 3 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
+                                                         "values":  [
+                                                                        "54%",
+                                                                        "3"
+                                                                    ]
+                                                     },
+                                              "r5":  {
+                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 80% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 3,5 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
+                                                         "values":  [
+                                                                        "80%",
+                                                                        "3,5"
+                                                                    ]
+                                                     },
+                                              "r2":  {
+                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 41% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 2,75 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
+                                                         "values":  [
+                                                                        "41%",
+                                                                        "2,75"
+                                                                    ]
+                                                     },
+                                              "r4":  {
+                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 67% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 3,25 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
+                                                         "values":  [
+                                                                        "67%",
+                                                                        "3,25"
+                                                                    ]
+                                                     },
+                                              "substatText":  "ATK",
+                                              "weaponText":  "Catalyst",
+                                              "name":  "Crane\u0027s Echoing Call",
+                                              "effectTemplateRaw":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
+                                              "r1":  {
+                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 28% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 2,5 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
+                                                         "values":  [
+                                                                        "28%",
+                                                                        "2,5"
+                                                                    ]
+                                                     },
+                                              "effectName":  "Cloudfall Axiom"
+                                          },
                     "rainslasher":  {
                                         "r3":  {
                                                    "description":  "Meningkatkan 28% DMG terhadap musuh yang terpengaruh Hydro atau Electro.",
@@ -9558,6 +9647,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "fracturedhalo":  {
+                                          "r3":  {
+                                                     "description":  "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +36% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +60%.",
+                                                     "values":  [
+                                                                    "36%",
+                                                                    "60%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +48% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +80%.",
+                                                     "values":  [
+                                                                    "48%",
+                                                                    "80%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +30% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +50%.",
+                                                     "values":  [
+                                                                    "30%",
+                                                                    "50%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +42% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +70%.",
+                                                     "values":  [
+                                                                    "42%",
+                                                                    "70%"
+                                                                ]
+                                                 },
+                                          "substatText":  "CRIT DMG",
+                                          "weaponText":  "Polearm",
+                                          "name":  "Fractured Halo",
+                                          "effectTemplateRaw":  "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                          "r1":  {
+                                                     "description":  "Setelah melancarkan Elemental Skill atau Elemental Burst, ATK +24% selama 20 detik. Jika Karakter yang mengenakan menciptakan Perisai saat efek di atas aktif, maka Karakter akan mendapatkan efek \"Electrifying Edict\" selama 20 detik berikutnya. Electrifying Edict: DMG reaksi Lunar-Charged yang dipicu oleh seluruh anggota party di sekitar +40%.",
+                                                     "values":  [
+                                                                    "24%",
+                                                                    "40%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Purifying Crown"
+                                      },
                     "sapwoodblade":  {
                                          "r3":  {
                                                     "description":  "Setelah memicu Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, atau Burgeon, \"Leaf of Consciousness\" akan muncul di sekitar Karakter dan bertahan hingga 10 detik. Elemental Mastery dari Karakter yang mengambil \"Leaf of Consciousness\" ini akan meningkat sebesar 90 poin selama 12 detik. Maksimal satu \"Leaf of Consciousness\" yang bisa dihasilkan setiap 20 detik dengan cara ini. Juga bisa terpicu saat Karakter party yang mengenakannya ada dalam party namun sedang tidak berada di medan pertempuran. Efek Leaf of Consciousness tidak dapat ditumpuk.",
@@ -11381,48 +11512,48 @@
                                                   },
                                            "effectName":  "Radiance of the Deeps"
                                        },
-                    "wavebreakersfin":  {
-                                            "r3":  {
-                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,18% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 60%.",
-                                                       "values":  [
-                                                                      "0,18%",
-                                                                      "60%"
-                                                                  ]
-                                                   },
-                                            "r5":  {
-                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,24% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 80%.",
-                                                       "values":  [
-                                                                      "0,24%",
-                                                                      "80%"
-                                                                  ]
-                                                   },
-                                            "r2":  {
-                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,15% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 50%.",
-                                                       "values":  [
-                                                                      "0,15%",
-                                                                      "50%"
-                                                                  ]
-                                                   },
-                                            "r4":  {
-                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,21% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 70%.",
-                                                       "values":  [
-                                                                      "0,21%",
-                                                                      "70%"
-                                                                  ]
-                                                   },
-                                            "substatText":  "ATK",
-                                            "weaponText":  "Polearm",
-                                            "name":  "Wavebreaker\u0027s Fin",
-                                            "effectTemplateRaw":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
-                                            "r1":  {
-                                                       "description":  "Setiap 1 poin dari gabungan jumlah Energy maksimum seluruh anggota party akan meningkatkan 0,12% DMG Elemental Burst milik Karakter yang mengenakan senjata ini. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 40%.",
-                                                       "values":  [
-                                                                      "0,12%",
-                                                                      "40%"
-                                                                  ]
-                                                   },
-                                            "effectName":  "Watatsumi Wavewalker"
-                                        },
+                    "flameforgedinsight":  {
+                                               "r3":  {
+                                                          "description":  "Saat memicu reaksi Electro-Charged, Lunar-Charged, atau Bloom, akan memulihkan 18 poin Energy dan meningkatkan Elemental Mastery sebesar 90 poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "values":  [
+                                                                         "18",
+                                                                         "90"
+                                                                     ]
+                                                      },
+                                               "r5":  {
+                                                          "description":  "Saat memicu reaksi Electro-Charged, Lunar-Charged, atau Bloom, akan memulihkan 24 poin Energy dan meningkatkan Elemental Mastery sebesar 120 poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "values":  [
+                                                                         "24",
+                                                                         "120"
+                                                                     ]
+                                                      },
+                                               "r2":  {
+                                                          "description":  "Saat memicu reaksi Electro-Charged, Lunar-Charged, atau Bloom, akan memulihkan 15 poin Energy dan meningkatkan Elemental Mastery sebesar 75 poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "values":  [
+                                                                         "15",
+                                                                         "75"
+                                                                     ]
+                                                      },
+                                               "r4":  {
+                                                          "description":  "Saat memicu reaksi Electro-Charged, Lunar-Charged, atau Bloom, akan memulihkan 21 poin Energy dan meningkatkan Elemental Mastery sebesar 105 poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "values":  [
+                                                                         "21",
+                                                                         "105"
+                                                                     ]
+                                                      },
+                                               "substatText":  "Elemental Mastery",
+                                               "weaponText":  "Claymore",
+                                               "name":  "Flame-Forged Insight",
+                                               "effectTemplateRaw":  "Saat memicu reaksi Electro-Charged, Lunar-Charged, atau Bloom, akan memulihkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e poin Energy dan meningkatkan Elemental Mastery sebesar \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                               "r1":  {
+                                                          "description":  "Saat memicu reaksi Electro-Charged, Lunar-Charged, atau Bloom, akan memulihkan 12 poin Energy dan meningkatkan Elemental Mastery sebesar 60 poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                          "values":  [
+                                                                         "12",
+                                                                         "60"
+                                                                     ]
+                                                      },
+                                               "effectName":  "Mind in Bloom"
+                                           },
                     "theunforged":  {
                                         "r3":  {
                                                    "description":  "Meningkatkan kekuatan Perisai sebesar 30%. Serangan yang mengenai musuh meningkatkan ATK sebesar 6% selama 8 detik. Maksimal 5 lapis. Dapat terpicu setiap 0,3 detik. Saat dilindungi oleh Perisai, efek ATK ini meningkat sebesar 100%.",
@@ -14090,48 +14221,6 @@
                                                  },
                                           "effectName":  "Forest Sanctuary"
                                       },
-                    "cranesechoingcall":  {
-                                              "r3":  {
-                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 54% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 3 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
-                                                         "values":  [
-                                                                        "54%",
-                                                                        "3"
-                                                                    ]
-                                                     },
-                                              "r5":  {
-                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 80% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 3,5 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
-                                                         "values":  [
-                                                                        "80%",
-                                                                        "3,5"
-                                                                    ]
-                                                     },
-                                              "r2":  {
-                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 41% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 2,75 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
-                                                         "values":  [
-                                                                        "41%",
-                                                                        "2,75"
-                                                                    ]
-                                                     },
-                                              "r4":  {
-                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 67% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 3,25 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
-                                                         "values":  [
-                                                                        "67%",
-                                                                        "3,25"
-                                                                    ]
-                                                     },
-                                              "substatText":  "ATK",
-                                              "weaponText":  "Catalyst",
-                                              "name":  "Crane\u0027s Echoing Call",
-                                              "effectTemplateRaw":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
-                                              "r1":  {
-                                                         "description":  "Setelah Plunging Attack Karakter yang mengenakan mengenai musuh, akan meningkatkan 28% DMG yang diakibatkan oleh Plunging Attack seluruh anggota party di sekitar selama 20 detik; Saat Plunging Attack anggota party di sekitar mengenai musuh, akan memulihkan 2,5 Energy bagi Karakter yang mengenakan. Pemulihan Energy yang bisa didapatkan dengan cara ini adalah sekali setiap 0,7 detik. Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, pemulihan Energy dengan cara ini tetap bisa terpicu.",
-                                                         "values":  [
-                                                                        "28%",
-                                                                        "2,5"
-                                                                    ]
-                                                     },
-                                              "effectName":  "Cloudfall Axiom"
-                                          },
                     "rangegauge":  {
                                        "r3":  {
                                                   "description":  "Saat penggunanya menerima pemulihan atau memberikan pemulihan, akan memberikan satu Unity\u0027s Symbol yang berlangsung selama 30 detik dan dapat ditumpuk sampai 3 lapis. Saat melancarkan Elemental Skill atau Elemental Burst, akan mengonsumsi seluruh Unity\u0027s Symbol yang dimiliki untuk menghasilkan efek Struggle yang berlangsung selama 10 detik. Setiap Unity\u0027s Symbol yang dikonsumsi, akan meningkatkan 5% ATK dan 10% Elemental DMG Bonus seluruh elemen. Efek Struggle dapat terpicu sekali setiap 15 detik. Unity\u0027s Symbol tetap dapat diperoleh saat Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
@@ -15072,6 +15161,48 @@
                                              "r1":  null,
                                              "effectName":  null
                                          },
+                    "sacrificialbow":  {
+                                           "r3":  {
+                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 60% persentase CD Skill langsung selesai. Dapat terpicu setiap 22 detik.",
+                                                      "values":  [
+                                                                     "60%",
+                                                                     "22 detik"
+                                                                 ]
+                                                  },
+                                           "r5":  {
+                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 80% persentase CD Skill langsung selesai. Dapat terpicu setiap 16 detik.",
+                                                      "values":  [
+                                                                     "80%",
+                                                                     "16 detik"
+                                                                 ]
+                                                  },
+                                           "r2":  {
+                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 50% persentase CD Skill langsung selesai. Dapat terpicu setiap 26 detik.",
+                                                      "values":  [
+                                                                     "50%",
+                                                                     "26 detik"
+                                                                 ]
+                                                  },
+                                           "r4":  {
+                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 70% persentase CD Skill langsung selesai. Dapat terpicu setiap 19 detik.",
+                                                      "values":  [
+                                                                     "70%",
+                                                                     "19 detik"
+                                                                 ]
+                                                  },
+                                           "substatText":  "Energy Recharge",
+                                           "weaponText":  "Bow",
+                                           "name":  "Sacrificial Bow",
+                                           "effectTemplateRaw":  "Setelah Elemental Skill mengakibatkan DMG, terdapat \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e persentase CD Skill langsung selesai. Dapat terpicu setiap \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                           "r1":  {
+                                                      "description":  "Setelah Elemental Skill mengakibatkan DMG, terdapat 40% persentase CD Skill langsung selesai. Dapat terpicu setiap 30 detik.",
+                                                      "values":  [
+                                                                     "40%",
+                                                                     "30 detik"
+                                                                 ]
+                                                  },
+                                           "effectName":  "Composed"
+                                       },
                     "dragonsbane":  {
                                         "r3":  {
                                                    "description":  "Meningkatkan 28% DMG terhadap musuh yang terkena elemen Hydro atau Pyro.",
