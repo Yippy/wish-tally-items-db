@@ -27,14 +27,6 @@
                                                                                "週日"
                                                                            ]
                                                         },
-                    "domainofforgerysubmergedvalleyi":  {
-                                                            "entranceName":  "塞西莉亞苗圃",
-                                                            "daysofweek":  [
-                                                                               "週二",
-                                                                               "週五",
-                                                                               "週日"
-                                                                           ]
-                                                        },
                     "domainofmasteryfullmooni":  {
                                                      "entranceName":  "昏識塔",
                                                      "daysofweek":  [
@@ -99,6 +91,14 @@
                                                                       "週日"
                                                                   ]
                                                },
+                    "domainofmasteryfallencityi":  {
+                                                       "entranceName":  "無光的深都",
+                                                       "daysofweek":  [
+                                                                          "週一",
+                                                                          "週四",
+                                                                          "週日"
+                                                                      ]
+                                                   },
                     "domainofforgeryartisanshipi":  {
                                                         "entranceName":  "深潮的餘響",
                                                         "daysofweek":  [
@@ -163,14 +163,14 @@
                                                                                  "週日"
                                                                              ]
                                                           },
-                    "domainofforgerysandburiali":  {
-                                                       "entranceName":  "砂流之庭",
-                                                       "daysofweek":  [
-                                                                          "週三",
-                                                                          "週六",
-                                                                          "週日"
-                                                                      ]
-                                                   },
+                    "domainofforgerysubmergedvalleyi":  {
+                                                            "entranceName":  "塞西莉亞苗圃",
+                                                            "daysofweek":  [
+                                                                               "週二",
+                                                                               "週五",
+                                                                               "週日"
+                                                                           ]
+                                                        },
                     "domainofmasterychimingrecitationi":  {
                                                               "entranceName":  "蒼白的遺榮",
                                                               "daysofweek":  [
@@ -235,6 +235,30 @@
                                                                             "週日"
                                                                         ]
                                                      },
+                    "domainofforgerysandburiali":  {
+                                                       "entranceName":  "砂流之庭",
+                                                       "daysofweek":  [
+                                                                          "週三",
+                                                                          "週六",
+                                                                          "週日"
+                                                                      ]
+                                                   },
+                    "domainofforgeryprayerssungi":  {
+                                                        "entranceName":  "失落的月庭",
+                                                        "daysofweek":  [
+                                                                           "週二",
+                                                                           "週五",
+                                                                           "週日"
+                                                                       ]
+                                                    },
+                    "domainofmasteryoverturnedroosti":  {
+                                                            "entranceName":  "無光的深都",
+                                                            "daysofweek":  [
+                                                                               "週三",
+                                                                               "週六",
+                                                                               "週日"
+                                                                           ]
+                                                        },
                     "domainofforgeryscryingshadowsi":  {
                                                            "entranceName":  "深古瞭望所",
                                                            "daysofweek":  [
@@ -275,6 +299,14 @@
                                                                                  "週日"
                                                                              ]
                                                           },
+                    "domainofmasteryshadowedlegacyi":  {
+                                                           "entranceName":  "無光的深都",
+                                                           "daysofweek":  [
+                                                                              "週二",
+                                                                              "週五",
+                                                                              "週日"
+                                                                          ]
+                                                       },
                     "domainofmasteryadmonishingengravingi":  {
                                                                  "entranceName":  "蒼白的遺榮",
                                                                  "daysofweek":  [
@@ -283,6 +315,14 @@
                                                                                     "週日"
                                                                                 ]
                                                              },
+                    "domainofforgeryradiantsplendori":  {
+                                                            "entranceName":  "失落的月庭",
+                                                            "daysofweek":  [
+                                                                               "週一",
+                                                                               "週四",
+                                                                               "週日"
+                                                                           ]
+                                                        },
                     "domainofforgeryattentiveobservationi":  {
                                                                  "entranceName":  "深古瞭望所",
                                                                  "daysofweek":  [
@@ -293,18 +333,21 @@
                                                              }
                 },
     "materials":  {
+                      "sunsettia":  {
+                                        "name":  "日落果"
+                                    },
                       "sandbearerwood":  {
                                              "name":  "卻砂木"
                                          },
-                      "cultivationareaexpansionii":  {
-                                                         "name":  "培育區域擴充套件·其二"
-                                                     },
+                      "mora":  {
+                                   "name":  "摩拉"
+                               },
                       "varunadalazuritesliver":  {
                                                      "name":  "滌淨青金碎屑"
                                                  },
-                      "birchwood":  {
-                                        "name":  "樺木"
-                                    },
+                      "guidetofreedom":  {
+                                             "name":  "「自由」的指引"
+                                         },
                       "improvedalchemycauldronii":  {
                                                         "name":  "改進煉金釜·其二"
                                                     },
@@ -341,9 +384,9 @@
                       "ainostoolboxempty":  {
                                                 "name":  "愛諾的工具箱（空）"
                                             },
-                      "sheathofthesecretsource":  {
-                                                      "name":  "秘源機鞘"
-                                                  },
+                      "electroculus":  {
+                                           "name":  "散失的雷神瞳"
+                                       },
                       "flashingmaintenancemekbait":  {
                                                          "name":  "維護機關頻閃誘餌"
                                                      },
@@ -359,6 +402,9 @@
                       "brownshirakodai":  {
                                               "name":  "流紋褐蝶魚"
                                           },
+                      "geoculus":  {
+                                       "name":  "散失的岩神瞳"
+                                   },
                       "philosophiesofjustice":  {
                                                     "name":  "「正義」的哲學"
                                                 },
@@ -440,9 +486,9 @@
                       "shardofashatteredwill":  {
                                                     "name":  "意志破碎的殘片"
                                                 },
-                      "brilliantdiamondchunk":  {
-                                                    "name":  "璀璨原鑽塊"
-                                                },
+                      "dragonheirsfalsefin":  {
+                                                  "name":  "龍嗣偽鰭"
+                                              },
                       "yellowobsidianring":  {
                                                  "name":  "明黃曜石環"
                                              },
@@ -455,6 +501,9 @@
                       "springofpuresacreddewdrop":  {
                                                         "name":  "純聖露滴的醴泉"
                                                     },
+                      "radiantantler":  {
+                                            "name":  "漫光的輝角"
+                                        },
                       "loachpearl":  {
                                          "name":  "鰍鰍寶玉"
                                      },
@@ -563,6 +612,9 @@
                       "brilliantdiamondsliver":  {
                                                      "name":  "璀璨原鑽碎屑"
                                                  },
+                      "lumenspar":  {
+                                        "name":  "流明晶石"
+                                    },
                       "zaytunpeach":  {
                                           "name":  "墩墩桃"
                                       },
@@ -623,6 +675,9 @@
                       "aureateradianceofthefarnorthscions":  {
                                                                  "name":  "終北遺嗣的煌熠"
                                                              },
+                      "pyroculus":  {
+                                        "name":  "散失的火神瞳"
+                                    },
                       "dakasbell":  {
                                         "name":  "空行的虛鈴"
                                     },
@@ -869,6 +924,9 @@
                       "witheringpurpurbloom":  {
                                                    "name":  "枯葉紫英"
                                                },
+                      "lunoculus":  {
+                                        "name":  "散失的月神瞳"
+                                    },
                       "cakefortraveler":  {
                                               "name":  "給旅行者的小蛋糕"
                                           },
@@ -899,6 +957,9 @@
                       "shuttleofodara":  {
                                              "name":  "紡靈之梭"
                                          },
+                      "lazuriteaxemarlin":  {
+                                                "name":  "青金斧槍魚"
+                                            },
                       "northlandercatalystbillet":  {
                                                         "name":  "北陸法器原胚"
                                                     },
@@ -1013,9 +1074,6 @@
                       "shivadajadesliver":  {
                                                 "name":  "哀敘冰玉碎屑"
                                             },
-                      "guidetofreedom":  {
-                                             "name":  "「自由」的指引"
-                                         },
                       "heartofthesecretsource":  {
                                                      "name":  "秘源真芯"
                                                  },
@@ -1163,6 +1221,9 @@
                       "tourbillondevice":  {
                                                "name":  "「圖比昂裝置」"
                                            },
+                      "chronicleexp":  {
+                                           "name":  "紀遊經驗"
+                                       },
                       "maintenancemekinitialconfiguration":  {
                                                                  "name":  "維護機關·初始能力型"
                                                              },
@@ -1214,6 +1275,9 @@
                       "cultivationareaexpansioniv":  {
                                                          "name":  "培育區域擴充套件·其四"
                                                      },
+                      "crimsonagatedisplay":  {
+                                                  "name":  "緋紅玉髓（純表現）"
+                                              },
                       "shivadajadechunk":  {
                                                "name":  "哀敘冰玉塊"
                                            },
@@ -1319,6 +1383,9 @@
                       "teachingsofequity":  {
                                                 "name":  "「公平」的教導"
                                             },
+                      "dendroculus":  {
+                                          "name":  "散失的草神瞳"
+                                      },
                       "guidetoconflict":  {
                                               "name":  "「紛爭」的指引"
                                           },
@@ -1367,6 +1434,9 @@
                       "unfadingsilkygrace":  {
                                                  "name":  "「不凋的絹華」"
                                              },
+                      "spiritcarp":  {
+                                         "name":  "蒼靈鯉"
+                                     },
                       "ironchunk":  {
                                         "name":  "鐵塊"
                                     },
@@ -1388,9 +1458,12 @@
                       "scorchedstarshroom":  {
                                                  "name":  "枯焦的星蕈"
                                              },
-                      "sunsettia":  {
-                                        "name":  "日落果"
-                                    },
+                      "keysigil":  {
+                                       "name":  "鍵紋"
+                                   },
+                      "anemoculus":  {
+                                         "name":  "散失的風神瞳"
+                                     },
                       "prithivatopazfragment":  {
                                                     "name":  "堅牢黃玉斷片"
                                                 },
@@ -1400,6 +1473,9 @@
                       "narukamiswisdom":  {
                                               "name":  "鳴神御靈的明惠"
                                           },
+                      "lumenstoneore":  {
+                                            "name":  "流明石原礦"
+                                        },
                       "dustofenlightenment":  {
                                                   "name":  "啟聖之塵"
                                               },
@@ -1424,9 +1500,9 @@
                       "empowereddragontooth":  {
                                                    "name":  "汲取了力量的龍牙"
                                                },
-                      "keysigil":  {
-                                       "name":  "鍵紋"
-                                   },
+                      "chroniclesoftherealms":  {
+                                                    "name":  "諸界紀遊"
+                                                },
                       "goldenbranchofadistantsea":  {
                                                         "name":  "遠海夷地的金枝"
                                                     },
@@ -1616,6 +1692,9 @@
                       "teachingsoftransience":  {
                                                     "name":  "「浮世」的教導"
                                                 },
+                      "dandelionbookmark":  {
+                                                "name":  "蒲公英書籤"
+                                            },
                       "riftcore":  {
                                        "name":  "隙間之核"
                                    },
@@ -1628,9 +1707,9 @@
                       "winegobletofthepristinesea":  {
                                                          "name":  "無垢之海的酒盞"
                                                      },
-                      "sugar":  {
-                                    "name":  "糖"
-                                },
+                      "moonchasecharm":  {
+                                             "name":  "逐月符"
+                                         },
                       "afterglowoflongnightflint":  {
                                                         "name":  "長夜燧火的殘照"
                                                     },
@@ -1679,6 +1758,9 @@
                       "vayudaturquoisesliver":  {
                                                     "name":  "自在松石碎屑"
                                                 },
+                      "recordedintel":  {
+                                            "name":  "已記載的情報"
+                                        },
                       "concealedclaw":  {
                                             "name":  "隱獸指爪"
                                         },
@@ -1748,6 +1830,9 @@
                       "pedunculateoakwood":  {
                                                  "name":  "夏櫟木"
                                              },
+                      "sharparrowhead":  {
+                                             "name":  "銳利的箭鏃"
+                                         },
                       "ashenaratikuwood":  {
                                                "name":  "灰灰樓林木"
                                            },
@@ -1781,9 +1866,9 @@
                       "greenobsidianfragment":  {
                                                     "name":  "翠青曜石斷片"
                                                 },
-                      "sharparrowhead":  {
-                                             "name":  "銳利的箭鏃"
-                                         },
+                      "crimsonagate":  {
+                                           "name":  "緋紅玉髓"
+                                       },
                       "nightwindsmysticrevelation":  {
                                                          "name":  "神合秘煙的啟示"
                                                      },
@@ -1832,6 +1917,9 @@
                       "improvedalchemycauldroniv":  {
                                                         "name":  "改進煉金釜·其四"
                                                     },
+                      "sheathofthesecretsource":  {
+                                                      "name":  "秘源機鞘"
+                                                  },
                       "glowinggem":  {
                                          "name":  "霞色寶珠"
                                      },
@@ -2021,9 +2109,9 @@
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "高塔孤王的碎夢"
                                                            },
-                      "dandelionbookmark":  {
-                                                "name":  "蒲公英書籤"
-                                            },
+                      "brilliantdiamondchunk":  {
+                                                    "name":  "璀璨原鑽塊"
+                                                },
                       "enhancementore":  {
                                              "name":  "精鍛用雜礦"
                                          },
@@ -2063,9 +2151,9 @@
                       "darkstatuette":  {
                                             "name":  "夤夜刻像"
                                         },
-                      "dragonheirsfalsefin":  {
-                                                  "name":  "龍嗣偽鰭"
-                                              },
+                      "sugar":  {
+                                    "name":  "糖"
+                                },
                       "bigprettycrystal":  {
                                                "name":  "漂亮的大結晶"
                                            },
@@ -2087,6 +2175,9 @@
                       "scoopoftaintedwater":  {
                                                   "name":  "濁水的一掬"
                                               },
+                      "birchwood":  {
+                                        "name":  "樺木"
+                                    },
                       "coldcrackedshellshard":  {
                                                     "name":  "冷裂殼塊"
                                                 },
@@ -2180,9 +2271,9 @@
                       "plumeofthechangingwinds":  {
                                                       "name":  "遷風的蒼翎"
                                                   },
-                      "lazuriteaxemarlin":  {
-                                                "name":  "青金斧槍魚"
-                                            },
+                      "hydroculus":  {
+                                         "name":  "散失的水神瞳"
+                                     },
                       "blazingsacrificialheartssplendor":  {
                                                                "name":  "貢祭熾心的榮膺"
                                                            },
@@ -2405,9 +2496,9 @@
                       "waterthatfailedtotranscend":  {
                                                          "name":  "未能達成超越之水"
                                                      },
-                      "mora":  {
-                                   "name":  "摩拉"
-                               },
+                      "cultivationareaexpansionii":  {
+                                                         "name":  "培育區域擴充套件·其二"
+                                                     },
                       "precisiondriveshaft":  {
                                                   "name":  "精製機軸"
                                               },
@@ -2710,8 +2801,8 @@
                                                                     },
                                                              "c4":  {
                                                                         "name":  "衣裁三禮",
-                                                                        "descriptionRaw":  "觸發固有天賦「量體裁衣」的後續效果後的8秒內，隊伍中自己的目前場上角色的普通攻擊、重擊或下落攻擊命中附近的敵人時，將在敵人附近喚出一名簡易自動制御人形「絹」。每1秒至多透過上述方式喚出一名絹，一次固有天賦「量體裁衣」的當意即妙或裁錦持續期間，至多透過上述方式喚出3名絹。上述效果每15秒最多觸發一次。\n需要解鎖固有天賦「量體裁衣」。",
-                                                                        "description":  "觸發固有天賦「量體裁衣」的後續效果後的8秒內，隊伍中自己的目前場上角色的普通攻擊、重擊或下落攻擊命中附近的敵人時，將在敵人附近喚出一名簡易自動制御人形「絹」。每1秒至多透過上述方式喚出一名絹，一次固有天賦「量體裁衣」的當意即妙或裁錦持續期間，至多透過上述方式喚出3名絹。上述效果每15秒最多觸發一次。\n需要解鎖固有天賦「量體裁衣」。"
+                                                                        "descriptionRaw":  "觸發突破天賦「量體裁衣」的後續效果後的8秒內，隊伍中自己的目前場上角色的普通攻擊、重擊或下落攻擊命中附近的敵人時，將在敵人附近喚出一名簡易自動制御人形「絹」。每1秒至多透過上述方式喚出一名絹，一次突破天賦「量體裁衣」的當意即妙或裁錦持續期間，至多透過上述方式喚出3名絹。上述效果每15秒最多觸發一次。\n需要解鎖突破天賦「量體裁衣」。",
+                                                                        "description":  "觸發突破天賦「量體裁衣」的後續效果後的8秒內，隊伍中自己的目前場上角色的普通攻擊、重擊或下落攻擊命中附近的敵人時，將在敵人附近喚出一名簡易自動制御人形「絹」。每1秒至多透過上述方式喚出一名絹，一次突破天賦「量體裁衣」的當意即妙或裁錦持續期間，至多透過上述方式喚出3名絹。上述效果每15秒最多觸發一次。\n需要解鎖突破天賦「量體裁衣」。"
                                                                     },
                                                              "c3":  {
                                                                         "name":  "綴錦四分",
@@ -2725,13 +2816,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "萬理一空",
-                                                                        "descriptionRaw":  "觸發固有天賦「量體裁衣」的後續效果後，千織自己的\u003ccolor=#FFD780FF\u003e羽袖一觸\u003c/color\u003e的冷卻時間減少12秒。需要解鎖固有天賦「量體裁衣」。\n此外，千織自己的普通攻擊造成的傷害提升，提升值相當於千織自己的防禦力的235%。",
-                                                                        "description":  "觸發固有天賦「量體裁衣」的後續效果後，千織自己的羽袖一觸的冷卻時間減少12秒。需要解鎖固有天賦「量體裁衣」。\n此外，千織自己的普通攻擊造成的傷害提升，提升值相當於千織自己的防禦力的235%。"
+                                                                        "descriptionRaw":  "觸發突破天賦「量體裁衣」的後續效果後，千織自己的\u003ccolor=#FFD780FF\u003e羽袖一觸\u003c/color\u003e的冷卻時間減少12秒。需要解鎖突破天賦「量體裁衣」。\n此外，千織自己的普通攻擊造成的傷害提升，提升值相當於千織自己的防禦力的235%。",
+                                                                        "description":  "觸發突破天賦「量體裁衣」的後續效果後，千織自己的羽袖一觸的冷卻時間減少12秒。需要解鎖突破天賦「量體裁衣」。\n此外，千織自己的普通攻擊造成的傷害提升，提升值相當於千織自己的防禦力的235%。"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "正絹六通",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e羽袖一觸\u003c/color\u003e的自動制御人形「袖」的攻擊範圍提升50%。\n此外，如果隊伍中存在千織以外的\u003ccolor=#FFE699FF\u003e岩元素\u003c/color\u003e角色，羽袖一觸的突進結束時，還將觸發以下效果：\n·額外喚出一名袖。依此方式喚出的千織自己的袖，與透過岩元素創造物額外喚出的千織自己的袖至多同時存在一名。\n·觸發固有天賦「錦上添花」，此效果需要解鎖固有天賦「錦上添花」。",
-                                                                        "description":  "羽袖一觸的自動制御人形「袖」的攻擊範圍提升50%。\n此外，如果隊伍中存在千織以外的岩元素角色，羽袖一觸的突進結束時，還將觸發以下效果：\n·額外喚出一名袖。依此方式喚出的千織自己的袖，與透過岩元素創造物額外喚出的千織自己的袖至多同時存在一名。\n·觸發固有天賦「錦上添花」，此效果需要解鎖固有天賦「錦上添花」。"
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e羽袖一觸\u003c/color\u003e的自動制御人形「袖」的攻擊範圍提升50%。\n此外，如果隊伍中存在千織以外的\u003ccolor=#FFE699FF\u003e岩元素\u003c/color\u003e角色，羽袖一觸的突進結束時，還將觸發以下效果：\n·額外喚出一名袖。依此方式喚出的千織自己的袖，與透過岩元素創造物額外喚出的千織自己的袖至多同時存在一名。\n·觸發突破天賦「錦上添花」，此效果需要解鎖突破天賦「錦上添花」。",
+                                                                        "description":  "羽袖一觸的自動制御人形「袖」的攻擊範圍提升50%。\n此外，如果隊伍中存在千織以外的岩元素角色，羽袖一觸的突進結束時，還將觸發以下效果：\n·額外喚出一名袖。依此方式喚出的千織自己的袖，與透過岩元素創造物額外喚出的千織自己的袖至多同時存在一名。\n·觸發突破天賦「錦上添花」，此效果需要解鎖突破天賦「錦上添花」。"
                                                                     }
                                                          },
                                       "elementText":  "岩",
@@ -2787,8 +2878,8 @@
                                           "constellations":  {
                                                                  "c2":  {
                                                                             "name":  "「所有的賞與罰皆自我出…」",
-                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e血償勒令\u003c/color\u003e施加時即為血償勒令·結。\n阿蕾奇諾回收血償勒令·結時，將在前方喚出厄月血火，造成相當於她的攻擊力900%的\u003ccolor=#FF9999FF\u003e火元素範圍傷害\u003c/color\u003e，並使她的所有元素抗性與物理抗性提升20%，持續15秒。此效果每10秒至多觸發一次。\n需要解鎖固有天賦「唯苦痛可償還」。",
-                                                                            "description":  "血償勒令施加時即為血償勒令·結。\n阿蕾奇諾回收血償勒令·結時，將在前方喚出厄月血火，造成相當於她的攻擊力900%的火元素範圍傷害，並使她的所有元素抗性與物理抗性提升20%，持續15秒。此效果每10秒至多觸發一次。\n需要解鎖固有天賦「唯苦痛可償還」。"
+                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e血償勒令\u003c/color\u003e施加時即為血償勒令·結。\n阿蕾奇諾回收血償勒令·結時，將在前方喚出厄月血火，造成相當於她的攻擊力900%的\u003ccolor=#FF9999FF\u003e火元素範圍傷害\u003c/color\u003e，並使她的所有元素抗性與物理抗性提升20%，持續15秒。此效果每10秒至多觸發一次。\n需要解鎖突破天賦「唯苦痛可償還」。",
+                                                                            "description":  "血償勒令施加時即為血償勒令·結。\n阿蕾奇諾回收血償勒令·結時，將在前方喚出厄月血火，造成相當於她的攻擊力900%的火元素範圍傷害，並使她的所有元素抗性與物理抗性提升20%，持續15秒。此效果每10秒至多觸發一次。\n需要解鎖突破天賦「唯苦痛可償還」。"
                                                                         },
                                                                  "c4":  {
                                                                             "name":  "「此後，{F#妳}{M#你}們須相愛相護…」",
@@ -3038,8 +3129,8 @@
                                                                             },
                                                                      "c4":  {
                                                                                 "name":  "如飴的蜜草",
-                                                                                "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e草燈蓮\u003c/color\u003e發生蓮光幻變轉化後，將獲得5層固有天賦「蔓生的埜草」的蓮光遍照效果。\n需要解鎖固有天賦「蔓生的埜草」。",
-                                                                                "description":  "草燈蓮發生蓮光幻變轉化後，將獲得5層固有天賦「蔓生的埜草」的蓮光遍照效果。\n需要解鎖固有天賦「蔓生的埜草」。"
+                                                                                "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e草燈蓮\u003c/color\u003e發生蓮光幻變轉化後，將獲得5層突破天賦「蔓生的埜草」的蓮光遍照效果。\n需要解鎖突破天賦「蔓生的埜草」。",
+                                                                                "description":  "草燈蓮發生蓮光幻變轉化後，將獲得5層突破天賦「蔓生的埜草」的蓮光遍照效果。\n需要解鎖突破天賦「蔓生的埜草」。"
                                                                             },
                                                                      "c3":  {
                                                                                 "name":  "婆娑的瑤草",
@@ -3104,6 +3195,16 @@
                                          "region":  "至冬",
                                          "gender":  "男"
                                      },
+                       "manekin":  {
+                                       "constellations":  null,
+                                       "elementText":  "無",
+                                       "fullname":  null,
+                                       "weaponText":  "單手劍",
+                                       "name":  "奇偶·男性",
+                                       "substatText":  "攻擊力",
+                                       "region":  "",
+                                       "gender":  "男"
+                                   },
                        "charlotte":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -3215,8 +3316,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "「最快樂的精靈，可否懂得焦慮」",
-                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e彈跳水療法\u003c/color\u003e的激癒水球能額外彈跳3次；前3次彈跳不會使較大激癒水球變小。\n此外，固有天賦「應有適當的休憩」的效果獲得提升：激癒水球彈跳時，將為希格雯賦予1層靜養計數，並使靜養計數產生的傷害值提升改為：希格雯的生命值上限超過30000的部分，每1000點生命值上限將提升100點，依此方式，至多提升3500點傷害。此效果需要解鎖固有天賦「應有適當的休憩」。",
-                                                                           "description":  "彈跳水療法的激癒水球能額外彈跳3次；前3次彈跳不會使較大激癒水球變小。\n此外，固有天賦「應有適當的休憩」的效果獲得提升：激癒水球彈跳時，將為希格雯賦予1層靜養計數，並使靜養計數產生的傷害值提升改為：希格雯的生命值上限超過30000的部分，每1000點生命值上限將提升100點，依此方式，至多提升3500點傷害。此效果需要解鎖固有天賦「應有適當的休憩」。"
+                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e彈跳水療法\u003c/color\u003e的激癒水球能額外彈跳3次。前3次彈跳不會使較大激癒水球變小。\n此外，突破天賦「應有適當的休憩」的效果獲得提升：激癒水球彈跳時，將為希格雯賦予1層靜養計數，並使靜養計數產生的傷害值提升改為：希格雯的生命值上限超過30000的部分，每1000點生命值上限將提升100點，依此方式，至多提升3500點傷害。此效果需要解鎖突破天賦「應有適當的休憩」。",
+                                                                           "description":  "彈跳水療法的激癒水球能額外彈跳3次。前3次彈跳不會使較大激癒水球變小。\n此外，突破天賦「應有適當的休憩」的效果獲得提升：激癒水球彈跳時，將為希格雯賦予1層靜養計數，並使靜養計數產生的傷害值提升改為：希格雯的生命值上限超過30000的部分，每1000點生命值上限將提升100點，依此方式，至多提升3500點傷害。此效果需要解鎖突破天賦「應有適當的休憩」。"
                                                                        }
                                                             },
                                          "elementText":  "水",
@@ -3523,8 +3624,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "流斷",
-                                                                       "descriptionRaw":  "固有天賦{LINK#N11130008}\u003ccolor=#FFD780FF\u003e萬流歸寂\u003c/color\u003e{/LINK}的效果獲得強化：每層死河渡斷效果還會使絲柯克的攻擊力提升10%/20%/40%。\n需要解鎖固有天賦「萬流歸寂」。",
-                                                                       "description":  "固有天賦**萬流歸寂**的效果獲得強化：每層死河渡斷效果還會使絲柯克的攻擊力提升10%/20%/40%。\n需要解鎖固有天賦「萬流歸寂」。"
+                                                                       "descriptionRaw":  "突破天賦{LINK#N11130008}\u003ccolor=#FFD780FF\u003e萬流歸寂\u003c/color\u003e{/LINK}的效果獲得強化：每層死河渡斷效果還會使絲柯克的攻擊力提升10%/20%/40%。\n需要解鎖突破天賦「萬流歸寂」。",
+                                                                       "description":  "突破天賦**萬流歸寂**的效果獲得強化：每層死河渡斷效果還會使絲柯克的攻擊力提升10%/20%/40%。\n需要解鎖突破天賦「萬流歸寂」。"
                                                                    },
                                                             "c3":  {
                                                                        "name":  "罪緣",
@@ -3538,13 +3639,13 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "至源",
-                                                                       "descriptionRaw":  "絲柯克每透過固有天賦{LINK#N11130007}\u003ccolor=#FFD780FF\u003e理外之理\u003c/color\u003e{/LINK}的效果汲取一枚虛境裂隙，就會獲得一層極惡技·斬效果，絲柯克可以消耗該效果進行協同攻擊，並降低在{LINK#N11130006}\u003ccolor=#FFD780FF\u003e七相一閃\u003c/color\u003e{/LINK}模式下受到的傷害，該效果持續15秒，至多疊加3層，每層獨立計算持續時間。\n需要解鎖固有天賦「理外之理」。\n\n\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e\n·施放元素爆發\u003ccolor=#FFD780FF\u003e極惡技·滅\u003c/color\u003e時，將消耗所有的\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e層數進行協同攻擊，每層\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e會造成相當於絲柯克攻擊力750%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，該傷害視為元素爆發傷害。\n·絲柯克在七相一閃模式下進行的普通攻擊，第三段攻擊或第五段攻擊命中敵人時，將消耗一層\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e，進行3次協同攻擊，每次協同攻擊造成相當於絲柯克攻擊力180%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，該傷害視為普通攻擊傷害。\n·絲柯克在七相一閃模式下受到傷害時，將消耗一層\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e，使本次受到的傷害降低80%，並對附近的敵人進行3次攻擊，每次攻擊造成相當於絲柯克攻擊力180%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，該傷害視為重擊傷害。",
-                                                                       "description":  "絲柯克每透過固有天賦**理外之理**的效果汲取一枚虛境裂隙，就會獲得一層極惡技·斬效果，絲柯克可以消耗該效果進行協同攻擊，並降低在**七相一閃**模式下受到的傷害，該效果持續15秒，至多疊加3層，每層獨立計算持續時間。\n需要解鎖固有天賦「理外之理」。\n\n極惡技·斬\n·施放元素爆發極惡技·滅時，將消耗所有的極惡技·斬層數進行協同攻擊，每層極惡技·斬會造成相當於絲柯克攻擊力750%的冰元素傷害，該傷害視為元素爆發傷害。\n·絲柯克在七相一閃模式下進行的普通攻擊，第三段攻擊或第五段攻擊命中敵人時，將消耗一層極惡技·斬，進行3次協同攻擊，每次協同攻擊造成相當於絲柯克攻擊力180%的冰元素傷害，該傷害視為普通攻擊傷害。\n·絲柯克在七相一閃模式下受到傷害時，將消耗一層極惡技·斬，使本次受到的傷害降低80%，並對附近的敵人進行3次攻擊，每次攻擊造成相當於絲柯克攻擊力180%的冰元素傷害，該傷害視為重擊傷害。"
+                                                                       "descriptionRaw":  "絲柯克每透過突破天賦{LINK#N11130007}\u003ccolor=#FFD780FF\u003e理外之理\u003c/color\u003e{/LINK}的效果汲取一枚虛境裂隙，就會獲得一層極惡技·斬效果，絲柯克可以消耗該效果進行協同攻擊，並降低在{LINK#N11130006}\u003ccolor=#FFD780FF\u003e七相一閃\u003c/color\u003e{/LINK}模式下受到的傷害，該效果持續15秒，至多疊加3層，每層獨立計算持續時間。\n需要解鎖突破天賦「理外之理」。\n\n\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e\n·施放元素爆發\u003ccolor=#FFD780FF\u003e極惡技·滅\u003c/color\u003e時，將消耗所有的\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e層數進行協同攻擊，每層\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e會造成相當於絲柯克攻擊力750%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，該傷害視為元素爆發傷害。\n·絲柯克在七相一閃模式下進行的普通攻擊，第三段攻擊或第五段攻擊命中敵人時，將消耗一層\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e，進行3次協同攻擊，每次協同攻擊造成相當於絲柯克攻擊力180%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，該傷害視為普通攻擊傷害。\n·絲柯克在七相一閃模式下受到傷害時，將消耗一層\u003ccolor=#FFD780FF\u003e極惡技·斬\u003c/color\u003e，使本次受到的傷害降低80%，並對附近的敵人進行3次攻擊，每次攻擊造成相當於絲柯克攻擊力180%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，該傷害視為重擊傷害。",
+                                                                       "description":  "絲柯克每透過突破天賦**理外之理**的效果汲取一枚虛境裂隙，就會獲得一層極惡技·斬效果，絲柯克可以消耗該效果進行協同攻擊，並降低在**七相一閃**模式下受到的傷害，該效果持續15秒，至多疊加3層，每層獨立計算持續時間。\n需要解鎖突破天賦「理外之理」。\n\n極惡技·斬\n·施放元素爆發極惡技·滅時，將消耗所有的極惡技·斬層數進行協同攻擊，每層極惡技·斬會造成相當於絲柯克攻擊力750%的冰元素傷害，該傷害視為元素爆發傷害。\n·絲柯克在七相一閃模式下進行的普通攻擊，第三段攻擊或第五段攻擊命中敵人時，將消耗一層極惡技·斬，進行3次協同攻擊，每次協同攻擊造成相當於絲柯克攻擊力180%的冰元素傷害，該傷害視為普通攻擊傷害。\n·絲柯克在七相一閃模式下受到傷害時，將消耗一層極惡技·斬，使本次受到的傷害降低80%，並對附近的敵人進行3次攻擊，每次攻擊造成相當於絲柯克攻擊力180%的冰元素傷害，該傷害視為重擊傷害。"
                                                                    },
                                                             "c1":  {
                                                                        "name":  "湮遠",
-                                                                       "descriptionRaw":  "固有天賦{LINK#N11130007}\u003ccolor=#FFD780FF\u003e理外之理\u003c/color\u003e{/LINK}的效果獲得強化：每汲取一枚虛境裂隙，就將召喚一枚晶刃攻擊附近的敵人，造成相當於絲柯克攻擊力500%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，該傷害視為重擊傷害。\n需要解鎖固有天賦「理外之理」。",
-                                                                       "description":  "固有天賦**理外之理**的效果獲得強化：每汲取一枚虛境裂隙，就將召喚一枚晶刃攻擊附近的敵人，造成相當於絲柯克攻擊力500%的冰元素傷害，該傷害視為重擊傷害。\n需要解鎖固有天賦「理外之理」。"
+                                                                       "descriptionRaw":  "突破天賦{LINK#N11130007}\u003ccolor=#FFD780FF\u003e理外之理\u003c/color\u003e{/LINK}的效果獲得強化：每汲取一枚虛境裂隙，就將召喚一枚晶刃攻擊附近的敵人，造成相當於絲柯克攻擊力500%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，該傷害視為重擊傷害。\n需要解鎖突破天賦「理外之理」。",
+                                                                       "description":  "突破天賦**理外之理**的效果獲得強化：每汲取一枚虛境裂隙，就將召喚一枚晶刃攻擊附近的敵人，造成相當於絲柯克攻擊力500%的冰元素傷害，該傷害視為重擊傷害。\n需要解鎖突破天賦「理外之理」。"
                                                                    }
                                                         },
                                      "elementText":  "冰",
@@ -3559,8 +3660,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "偷懶是健身大忌!",
-                                                                        "descriptionRaw":  "施放元素爆發\u003ccolor=#FFD780FF\u003e力的三原理\u003c/color\u003e時，伊安珊也會獲得固有天賦「強化抗阻練習」中的「標準動作」效果，持續15秒。此外，「標準動作」效果持續期間，若伊安珊處於隊伍後臺，還會使隊伍中自己的目前場上角色的攻擊力提升30%。該效果需要解鎖固有天賦「強化抗阻練習」。",
-                                                                        "description":  "施放元素爆發力的三原理時，伊安珊也會獲得固有天賦「強化抗阻練習」中的「標準動作」效果，持續15秒。此外，「標準動作」效果持續期間，若伊安珊處於隊伍後臺，還會使隊伍中自己的目前場上角色的攻擊力提升30%。該效果需要解鎖固有天賦「強化抗阻練習」。"
+                                                                        "descriptionRaw":  "施放元素爆發\u003ccolor=#FFD780FF\u003e力的三原理\u003c/color\u003e時，伊安珊也會獲得突破天賦「強化抗阻練習」中的「標準動作」效果，持續15秒。此外，「標準動作」效果持續期間，若伊安珊處於隊伍後臺，還會使隊伍中自己的目前場上角色的攻擊力提升30%。該效果需要解鎖突破天賦「強化抗阻練習」。",
+                                                                        "description":  "施放元素爆發力的三原理時，伊安珊也會獲得突破天賦「強化抗阻練習」中的「標準動作」效果，持續15秒。此外，「標準動作」效果持續期間，若伊安珊處於隊伍後臺，還會使隊伍中自己的目前場上角色的攻擊力提升30%。該效果需要解鎖突破天賦「強化抗阻練習」。"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "循序漸進是關鍵",
@@ -3605,8 +3706,8 @@
                                                                       },
                                                                "c4":  {
                                                                           "name":  "四番·花月歌浮舟",
-                                                                          "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e羽畫·風姿華歌\u003c/color\u003e時，若觸發了固有天賦「拾玉得花」依據元素類型強化的效果，還將隨機獲得1種本次施放未觸發的強化效果。同時至多獲得3種元素對應的強化效果。\n需要解鎖固有天賦「拾玉得花」。",
-                                                                          "description":  "施放羽畫·風姿華歌時，若觸發了固有天賦「拾玉得花」依據元素類型強化的效果，還將隨機獲得1種本次施放未觸發的強化效果。同時至多獲得3種元素對應的強化效果。\n需要解鎖固有天賦「拾玉得花」。"
+                                                                          "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e羽畫·風姿華歌\u003c/color\u003e時，若觸發了突破天賦「拾玉得花」依據元素類型強化的效果，還將隨機獲得1種本次施放未觸發的強化效果。同時至多獲得3種元素對應的強化效果。\n需要解鎖突破天賦「拾玉得花」。",
+                                                                          "description":  "施放羽畫·風姿華歌時，若觸發了突破天賦「拾玉得花」依據元素類型強化的效果，還將隨機獲得1種本次施放未觸發的強化效果。同時至多獲得3種元素對應的強化效果。\n需要解鎖突破天賦「拾玉得花」。"
                                                                       },
                                                                "c3":  {
                                                                           "name":  "三番·久世舞夕顏",
@@ -3625,8 +3726,8 @@
                                                                       },
                                                                "c1":  {
                                                                           "name":  "初番·茂風流羽行",
-                                                                          "descriptionRaw":  "在\u003ccolor=#FFD780FF\u003e優風傾姿\u003c/color\u003e狀態下，流浪者施放空居·不生斷與空居·刀風界的攻擊速度提升10%。\n此外，固有天賦「夢跡一風」發射的風矢能額外造成25%攻擊力的傷害，該效果需要解鎖固有天賦「夢跡一風」。",
-                                                                          "description":  "在優風傾姿狀態下，流浪者施放空居·不生斷與空居·刀風界的攻擊速度提升10%。\n此外，固有天賦「夢跡一風」發射的風矢能額外造成25%攻擊力的傷害，該效果需要解鎖固有天賦「夢跡一風」。"
+                                                                          "descriptionRaw":  "在\u003ccolor=#FFD780FF\u003e優風傾姿\u003c/color\u003e狀態下，流浪者施放空居·不生斷與空居·刀風界的攻擊速度提升10%。\n此外，突破天賦「夢跡一風」發射的風矢能額外造成25%攻擊力的傷害，該效果需要解鎖突破天賦「夢跡一風」。",
+                                                                          "description":  "在優風傾姿狀態下，流浪者施放空居·不生斷與空居·刀風界的攻擊速度提升10%。\n此外，突破天賦「夢跡一風」發射的風矢能額外造成25%攻擊力的傷害，該效果需要解鎖突破天賦「夢跡一風」。"
                                                                       }
                                                            },
                                         "elementText":  "風",
@@ -3764,8 +3865,8 @@
                                    "constellations":  {
                                                           "c2":  {
                                                                      "name":  "祈禱彈道的助靈",
-                                                                     "descriptionRaw":  "伊法處於夜魂加持狀態下時，基於隊伍中所有角色目前夜魂值的總和超過60點的部分，每1點夜魂值都將使伊法額外獲得4點{LINK#N11130002}\u003ccolor=#FFD780FF\u003e「救援要義」\u003c/color\u003e{/LINK}。\n此外，伊法持有「救援要義」的上限提升50點。\n需要解鎖固有天賦{LINK#P1132101}\u003ccolor=#FFD780FF\u003e場中醫者視野\u003c/color\u003e{/LINK}。",
-                                                                     "description":  "伊法處於夜魂加持狀態下時，基於隊伍中所有角色目前夜魂值的總和超過60點的部分，每1點夜魂值都將使伊法額外獲得4點**「救援要義」**。\n此外，伊法持有「救援要義」的上限提升50點。\n需要解鎖固有天賦**場中醫者視野**。"
+                                                                     "descriptionRaw":  "伊法處於夜魂加持狀態下時，基於隊伍中所有角色目前夜魂值的總和超過60點的部分，每1點夜魂值都將使伊法額外獲得4點{LINK#N11130002}\u003ccolor=#FFD780FF\u003e「救援要義」\u003c/color\u003e{/LINK}。\n此外，伊法持有「救援要義」的上限提升50點。\n需要解鎖突破天賦{LINK#P1132101}\u003ccolor=#FFD780FF\u003e場中醫者視野\u003c/color\u003e{/LINK}。",
+                                                                     "description":  "伊法處於夜魂加持狀態下時，基於隊伍中所有角色目前夜魂值的總和超過60點的部分，每1點夜魂值都將使伊法額外獲得4點**「救援要義」**。\n此外，伊法持有「救援要義」的上限提升50點。\n需要解鎖突破天賦**場中醫者視野**。"
                                                                  },
                                                           "c4":  {
                                                                      "name":  "糜爛應體的置換",
@@ -3924,6 +4025,16 @@
                                                 "region":  "稻妻",
                                                 "gender":  "女"
                                             },
+                       "manekina":  {
+                                        "constellations":  null,
+                                        "elementText":  "無",
+                                        "fullname":  null,
+                                        "weaponText":  "單手劍",
+                                        "name":  "奇偶·女性",
+                                        "substatText":  "攻擊力",
+                                        "region":  "",
+                                        "gender":  "女"
+                                    },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3933,8 +4044,8 @@
                                                                      },
                                                               "c4":  {
                                                                          "name":  "「領袖」的覺悟",
-                                                                         "descriptionRaw":  "固有天賦「基揚戈茲」的效果獲得提升：\n施放元素爆發\u003ccolor=#FFD780FF\u003e燔天之時\u003c/color\u003e後的傷害提升效果不再隨時間降低，並額外獲得10%傷害加成。\n需要解鎖固有天賦「基揚戈茲」。",
-                                                                         "description":  "固有天賦「基揚戈茲」的效果獲得提升：\n施放元素爆發燔天之時後的傷害提升效果不再隨時間降低，並額外獲得10%傷害加成。\n需要解鎖固有天賦「基揚戈茲」。"
+                                                                         "descriptionRaw":  "突破天賦「基揚戈茲」的效果獲得提升：\n施放元素爆發\u003ccolor=#FFD780FF\u003e燔天之時\u003c/color\u003e後的傷害提升效果不再隨時間降低，並額外獲得10%傷害加成。\n需要解鎖突破天賦「基揚戈茲」。",
+                                                                         "description":  "突破天賦「基揚戈茲」的效果獲得提升：\n施放元素爆發燔天之時後的傷害提升效果不再隨時間降低，並額外獲得10%傷害加成。\n需要解鎖突破天賦「基揚戈茲」。"
                                                                      },
                                                               "c3":  {
                                                                          "name":  "燃燒的太陽",
@@ -3994,8 +4105,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "終始不熄的熱誠",
-                                                                        "descriptionRaw":  "固有天賦「連勢，三重騰躍！」的效果獲得強化：\n進行特殊下落攻擊·大火山狂雷怒卷時，瓦雷莎也會獲得「虹色墜擊」，持續5秒。\n「虹色墜擊」持續期間，無論瓦雷莎是否處於熾熱激情狀態，進行下落攻擊時，墜地衝擊都會改為額外造成180%攻擊力的傷害。該效果需要解鎖固有天賦「連勢，三重騰躍！」。\n\n此外，當瓦雷莎處於夜魂加持狀態下的「突馳烈進」模式時，消耗的夜魂值或燃素降低30%。",
-                                                                        "description":  "固有天賦「連勢，三重騰躍！」的效果獲得強化：\n進行特殊下落攻擊·大火山狂雷怒卷時，瓦雷莎也會獲得「虹色墜擊」，持續5秒。\n「虹色墜擊」持續期間，無論瓦雷莎是否處於熾熱激情狀態，進行下落攻擊時，墜地衝擊都會改為額外造成180%攻擊力的傷害。該效果需要解鎖固有天賦「連勢，三重騰躍！」。\n\n此外，當瓦雷莎處於夜魂加持狀態下的「突馳烈進」模式時，消耗的夜魂值或燃素降低30%。"
+                                                                        "descriptionRaw":  "突破天賦「連勢，三重騰躍！」的效果獲得強化：\n進行特殊下落攻擊·大火山狂雷怒卷時，瓦雷莎也會獲得「虹色墜擊」，持續5秒。\n「虹色墜擊」持續期間，無論瓦雷莎是否處於熾熱激情狀態，進行下落攻擊時，墜地衝擊都會改為額外造成180%攻擊力的傷害。該效果需要解鎖突破天賦「連勢，三重騰躍！」。\n\n此外，當瓦雷莎處於夜魂加持狀態下的「突馳烈進」模式時，消耗的夜魂值或燃素降低30%。",
+                                                                        "description":  "突破天賦「連勢，三重騰躍！」的效果獲得強化：\n進行特殊下落攻擊·大火山狂雷怒卷時，瓦雷莎也會獲得「虹色墜擊」，持續5秒。\n「虹色墜擊」持續期間，無論瓦雷莎是否處於熾熱激情狀態，進行下落攻擊時，墜地衝擊都會改為額外造成180%攻擊力的傷害。該效果需要解鎖突破天賦「連勢，三重騰躍！」。\n\n此外，當瓦雷莎處於夜魂加持狀態下的「突馳烈進」模式時，消耗的夜魂值或燃素降低30%。"
                                                                     }
                                                          },
                                       "elementText":  "雷",
@@ -4153,13 +4264,13 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "羽儀·裁落鈞衡",
-                                                                      "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e聖儀·煟煌隨狼行\u003c/color\u003e或觸發固有天賦「落羽的裁擇」的「裁定」後，賽諾將獲得4層「豺祭」效果。賽諾的普通攻擊命中敵人時，將消耗一層「豺祭」效果，並發射一道渡荒之雷。\n「豺祭」持續8秒，至多疊加8層，並將在聖儀·煟煌隨狼行的啟途誓使狀態結束後移除。\n每0.4秒至多依此方式發射一道渡荒之雷。\n需要解鎖固有天賦「落羽的裁擇」。",
-                                                                      "description":  "施放聖儀·煟煌隨狼行或觸發固有天賦「落羽的裁擇」的「裁定」後，賽諾將獲得4層「豺祭」效果。賽諾的普通攻擊命中敵人時，將消耗一層「豺祭」效果，並發射一道渡荒之雷。\n「豺祭」持續8秒，至多疊加8層，並將在聖儀·煟煌隨狼行的啟途誓使狀態結束後移除。\n每0.4秒至多依此方式發射一道渡荒之雷。\n需要解鎖固有天賦「落羽的裁擇」。"
+                                                                      "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e聖儀·煟煌隨狼行\u003c/color\u003e或觸發突破天賦「落羽的裁擇」的「裁定」後，賽諾將獲得4層「豺祭」效果。賽諾的普通攻擊命中敵人時，將消耗一層「豺祭」效果，並發射一道渡荒之雷。\n「豺祭」持續8秒，至多疊加8層，並將在聖儀·煟煌隨狼行的啟途誓使狀態結束後移除。\n每0.4秒至多依此方式發射一道渡荒之雷。\n需要解鎖突破天賦「落羽的裁擇」。",
+                                                                      "description":  "施放聖儀·煟煌隨狼行或觸發突破天賦「落羽的裁擇」的「裁定」後，賽諾將獲得4層「豺祭」效果。賽諾的普通攻擊命中敵人時，將消耗一層「豺祭」效果，並發射一道渡荒之雷。\n「豺祭」持續8秒，至多疊加8層，並將在聖儀·煟煌隨狼行的啟途誓使狀態結束後移除。\n每0.4秒至多依此方式發射一道渡荒之雷。\n需要解鎖突破天賦「落羽的裁擇」。"
                                                                   },
                                                            "c1":  {
                                                                       "name":  "立儀·俯覽晝冥",
-                                                                      "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e聖儀·煟煌隨狼行\u003c/color\u003e後，賽諾普通攻擊的攻擊速度提升20%，持續10秒。若施放\u003ccolor=#FFD780FF\u003e秘儀·律淵渡魂\u003c/color\u003e時觸發了固有天賦「落羽的裁擇」的「裁定」效果，將重置該效果的持續時間。\n需要解鎖固有天賦「落羽的裁擇」。",
-                                                                      "description":  "施放聖儀·煟煌隨狼行後，賽諾普通攻擊的攻擊速度提升20%，持續10秒。若施放秘儀·律淵渡魂時觸發了固有天賦「落羽的裁擇」的「裁定」效果，將重置該效果的持續時間。\n需要解鎖固有天賦「落羽的裁擇」。"
+                                                                      "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e聖儀·煟煌隨狼行\u003c/color\u003e後，賽諾普通攻擊的攻擊速度提升20%，持續10秒。若施放\u003ccolor=#FFD780FF\u003e秘儀·律淵渡魂\u003c/color\u003e時觸發了突破天賦「落羽的裁擇」的「裁定」效果，將重置該效果的持續時間。\n需要解鎖突破天賦「落羽的裁擇」。",
+                                                                      "description":  "施放聖儀·煟煌隨狼行後，賽諾普通攻擊的攻擊速度提升20%，持續10秒。若施放秘儀·律淵渡魂時觸發了突破天賦「落羽的裁擇」的「裁定」效果，將重置該效果的持續時間。\n需要解鎖突破天賦「落羽的裁擇」。"
                                                                   }
                                                        },
                                     "elementText":  "雷",
@@ -4256,13 +4367,13 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "予驕暴者以鐐鎖",
-                                                                             "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e黑金狼噬\u003c/color\u003e時，固有天賦「罪業終有報償之時」的每層「檢償之敕」效果都將使造成的傷害提升40%。\n需要解鎖固有天賦「罪業終有報償之時」。",
-                                                                             "description":  "施放黑金狼噬時，固有天賦「罪業終有報償之時」的每層「檢償之敕」效果都將使造成的傷害提升40%。\n需要解鎖固有天賦「罪業終有報償之時」。"
+                                                                             "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e黑金狼噬\u003c/color\u003e時，突破天賦「罪業終有報償之時」的每層「檢償之敕」效果都將使造成的傷害提升40%。\n需要解鎖突破天賦「罪業終有報償之時」。",
+                                                                             "description":  "施放黑金狼噬時，突破天賦「罪業終有報償之時」的每層「檢償之敕」效果都將使造成的傷害提升40%。\n需要解鎖突破天賦「罪業終有報償之時」。"
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "予貞苦者以拯贖",
-                                                                             "descriptionRaw":  "懲戒·凌躍拳為萊歐斯利恢復生命值的回復量提升為50%生命值上限，需要解鎖固有天賦「公理終有辯訴之日」。\n此外，萊歐斯利受到治療時，若此次治療回復量溢出，將根據萊歐斯利是否處於目前場上產生不同的效果：處於目前場上時，萊歐斯利的攻擊速度提升20%，持續4秒；處於隊伍後臺時，隊伍中所有自己的角色攻擊速度提升10%，持續6秒。上述這兩種攻擊速度提升效果無法疊加。",
-                                                                             "description":  "懲戒·凌躍拳為萊歐斯利恢復生命值的回復量提升為50%生命值上限，需要解鎖固有天賦「公理終有辯訴之日」。\n此外，萊歐斯利受到治療時，若此次治療回復量溢出，將根據萊歐斯利是否處於目前場上產生不同的效果：處於目前場上時，萊歐斯利的攻擊速度提升20%，持續4秒；處於隊伍後臺時，隊伍中所有自己的角色攻擊速度提升10%，持續6秒。上述這兩種攻擊速度提升效果無法疊加。"
+                                                                             "descriptionRaw":  "懲戒·凌躍拳為萊歐斯利恢復生命值的回復量提升為50%生命值上限，需要解鎖突破天賦「公理終有辯訴之日」。\n此外，萊歐斯利受到治療時，若此次治療回復量溢出，將根據萊歐斯利是否處於目前場上產生不同的效果：處於目前場上時，萊歐斯利的攻擊速度提升20%，持續4秒。處於隊伍後臺時，隊伍中所有自己的角色攻擊速度提升10%，持續6秒。上述這兩種攻擊速度提升效果無法疊加。",
+                                                                             "description":  "懲戒·凌躍拳為萊歐斯利恢復生命值的回復量提升為50%生命值上限，需要解鎖突破天賦「公理終有辯訴之日」。\n此外，萊歐斯利受到治療時，若此次治療回復量溢出，將根據萊歐斯利是否處於目前場上產生不同的效果：處於目前場上時，萊歐斯利的攻擊速度提升20%，持續4秒。處於隊伍後臺時，隊伍中所有自己的角色攻擊速度提升10%，持續6秒。上述這兩種攻擊速度提升效果無法疊加。"
                                                                          },
                                                                   "c3":  {
                                                                              "name":  "予婪詐者以譴罰",
@@ -4276,13 +4387,13 @@
                                                                          },
                                                                   "c6":  {
                                                                              "name":  "予無罪者以念撫",
-                                                                             "descriptionRaw":  "懲戒·凌躍拳的暴擊率提升10%，暴擊傷害提升80%，並能夠額外生成冰錐，造成原本100%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，依此方式造成的傷害視為重擊傷害。\n需要解鎖固有天賦「公理終有辯訴之日」。",
-                                                                             "description":  "懲戒·凌躍拳的暴擊率提升10%，暴擊傷害提升80%，並能夠額外生成冰錐，造成原本100%的冰元素傷害，依此方式造成的傷害視為重擊傷害。\n需要解鎖固有天賦「公理終有辯訴之日」。"
+                                                                             "descriptionRaw":  "懲戒·凌躍拳的暴擊率提升10%，暴擊傷害提升80%，並能夠額外生成冰錐，造成原本100%的\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e，依此方式造成的傷害視為重擊傷害。\n需要解鎖突破天賦「公理終有辯訴之日」。",
+                                                                             "description":  "懲戒·凌躍拳的暴擊率提升10%，暴擊傷害提升80%，並能夠額外生成冰錐，造成原本100%的冰元素傷害，依此方式造成的傷害視為重擊傷害。\n需要解鎖突破天賦「公理終有辯訴之日」。"
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "予行惡者以懲懼",
-                                                                             "descriptionRaw":  "固有天賦「公理終有辯訴之日」的「恩典之誡」轉變為：\n萊歐斯利的生命值低於60%，或在\u003ccolor=#FFD780FF\u003e冰牙突馳\u003c/color\u003e的寒烈的懲裁狀態持續期間，斥逐拳的第五段攻擊命中時，將獲得「恩典之誡」，每2.5秒至多獲得一次「恩典之誡」效果。\n\n此外，懲戒·凌躍拳獲得以下強化：\n·造成的傷害提升進一步提升至200%；\n·命中時，若處於寒烈的懲裁狀態下，該狀態的持續時間延長4秒，在一次寒烈的懲裁狀態持續期間，至多依此方式延長一次。\n\n需要解鎖固有天賦「公理終有辯訴之日」。",
-                                                                             "description":  "固有天賦「公理終有辯訴之日」的「恩典之誡」轉變為：\n萊歐斯利的生命值低於60%，或在冰牙突馳的寒烈的懲裁狀態持續期間，斥逐拳的第五段攻擊命中時，將獲得「恩典之誡」，每2.5秒至多獲得一次「恩典之誡」效果。\n\n此外，懲戒·凌躍拳獲得以下強化：\n·造成的傷害提升進一步提升至200%；\n·命中時，若處於寒烈的懲裁狀態下，該狀態的持續時間延長4秒，在一次寒烈的懲裁狀態持續期間，至多依此方式延長一次。\n\n需要解鎖固有天賦「公理終有辯訴之日」。"
+                                                                             "descriptionRaw":  "突破天賦「公理終有辯訴之日」的「恩典之誡」轉變為：\n萊歐斯利的生命值低於60%，或在\u003ccolor=#FFD780FF\u003e冰牙突馳\u003c/color\u003e的寒烈的懲裁狀態持續期間，斥逐拳的第五段攻擊命中時，將獲得「恩典之誡」，每2.5秒至多獲得一次「恩典之誡」效果。\n\n此外，懲戒·凌躍拳獲得以下強化：\n·造成的傷害提升進一步提升至200%。\n·命中時，若處於寒烈的懲裁狀態下，該狀態的持續時間延長4秒，在一次寒烈的懲裁狀態持續期間，至多依此方式延長一次。\n\n需要解鎖突破天賦「公理終有辯訴之日」。",
+                                                                             "description":  "突破天賦「公理終有辯訴之日」的「恩典之誡」轉變為：\n萊歐斯利的生命值低於60%，或在冰牙突馳的寒烈的懲裁狀態持續期間，斥逐拳的第五段攻擊命中時，將獲得「恩典之誡」，每2.5秒至多獲得一次「恩典之誡」效果。\n\n此外，懲戒·凌躍拳獲得以下強化：\n·造成的傷害提升進一步提升至200%。\n·命中時，若處於寒烈的懲裁狀態下，該狀態的持續時間延長4秒，在一次寒烈的懲裁狀態持續期間，至多依此方式延長一次。\n\n需要解鎖突破天賦「公理終有辯訴之日」。"
                                                                          }
                                                               },
                                            "elementText":  "冰",
@@ -4445,8 +4556,8 @@
                                                                            },
                                                                     "c1":  {
                                                                                "name":  "微瀾的湖水",
-                                                                               "descriptionRaw":  "拾取源水之滴後，旅行者將恢復2點元素能量。\n需要解鎖固有天賦「無染的澈水」。",
-                                                                               "description":  "拾取源水之滴後，旅行者將恢復2點元素能量。\n需要解鎖固有天賦「無染的澈水」。"
+                                                                               "descriptionRaw":  "拾取源水之滴後，旅行者將恢復2點元素能量。\n需要解鎖突破天賦「無染的澈水」。",
+                                                                               "description":  "拾取源水之滴後，旅行者將恢復2點元素能量。\n需要解鎖突破天賦「無染的澈水」。"
                                                                            }
                                                                 }
                                          },
@@ -4577,8 +4688,8 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "律法的命誡",
-                                                                             "descriptionRaw":  "固有天賦「古海孑遺的權柄」獲得強化：每存在一層「遺龍之榮」，就使重擊·衡平推裁的暴擊傷害提升14%，至多依此方式提升42%。\n需要解鎖固有天賦「古海孑遺的權柄」。",
-                                                                             "description":  "固有天賦「古海孑遺的權柄」獲得強化：每存在一層「遺龍之榮」，就使重擊·衡平推裁的暴擊傷害提升14%，至多依此方式提升42%。\n需要解鎖固有天賦「古海孑遺的權柄」。"
+                                                                             "descriptionRaw":  "突破天賦「古海孑遺的權柄」獲得強化：每存在一層「遺龍之榮」，就使重擊·衡平推裁的暴擊傷害提升14%，至多依此方式提升42%。\n需要解鎖突破天賦「古海孑遺的權柄」。",
+                                                                             "description":  "突破天賦「古海孑遺的權柄」獲得強化：每存在一層「遺龍之榮」，就使重擊·衡平推裁的暴擊傷害提升14%，至多依此方式提升42%。\n需要解鎖突破天賦「古海孑遺的權柄」。"
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "悲憫的冠冕",
@@ -4602,8 +4713,8 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "尊榮的創定",
-                                                                             "descriptionRaw":  "那維萊特登場時，獲得一層固有天賦「古海孑遺的權柄」的「遺龍之榮」。需要解鎖固有天賦「古海孑遺的權柄」。\n此外，進行重擊蓄力·訴論心證與重擊·衡平推裁時，提高那維萊特的抗打斷能力。",
-                                                                             "description":  "那維萊特登場時，獲得一層固有天賦「古海孑遺的權柄」的「遺龍之榮」。需要解鎖固有天賦「古海孑遺的權柄」。\n此外，進行重擊蓄力·訴論心證與重擊·衡平推裁時，提高那維萊特的抗打斷能力。"
+                                                                             "descriptionRaw":  "那維萊特登場時，獲得一層突破天賦「古海孑遺的權柄」的「遺龍之榮」。需要解鎖突破天賦「古海孑遺的權柄」。\n此外，進行重擊蓄力·訴論心證與重擊·衡平推裁時，提高那維萊特的抗打斷能力。",
+                                                                             "description":  "那維萊特登場時，獲得一層突破天賦「古海孑遺的權柄」的「遺龍之榮」。需要解鎖突破天賦「古海孑遺的權柄」。\n此外，進行重擊蓄力·訴論心證與重擊·衡平推裁時，提高那維萊特的抗打斷能力。"
                                                                          }
                                                               },
                                            "elementText":  "水",
@@ -4638,13 +4749,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "致深泉的頌讚",
-                                                                        "descriptionRaw":  "觸發固有天賦「夜翳的通感」的「顯象超感」後，會使隊伍中自己的目前場上角色的攻擊力提升10%，持續9秒。該效果至多疊加3層，每層獨立計算持續時間。\n此外，施放元素爆發\u003ccolor=#FFD780FF\u003e黯聲迴響\u003c/color\u003e時，將觸發一次等同於「顯象超感」的效果，造成原本200%的傷害。\n該效果需要解鎖固有天賦「夜翳的通感」。",
-                                                                        "description":  "觸發固有天賦「夜翳的通感」的「顯象超感」後，會使隊伍中自己的目前場上角色的攻擊力提升10%，持續9秒。該效果至多疊加3層，每層獨立計算持續時間。\n此外，施放元素爆發黯聲迴響時，將觸發一次等同於「顯象超感」的效果，造成原本200%的傷害。\n該效果需要解鎖固有天賦「夜翳的通感」。"
+                                                                        "descriptionRaw":  "觸發突破天賦「夜翳的通感」的「顯象超感」後，會使隊伍中自己的目前場上角色的攻擊力提升10%，持續9秒。該效果至多疊加3層，每層獨立計算持續時間。\n此外，施放元素爆發\u003ccolor=#FFD780FF\u003e黯聲迴響\u003c/color\u003e時，將觸發一次等同於「顯象超感」的效果，造成原本200%的傷害。\n該效果需要解鎖突破天賦「夜翳的通感」。",
+                                                                        "description":  "觸發突破天賦「夜翳的通感」的「顯象超感」後，會使隊伍中自己的目前場上角色的攻擊力提升10%，持續9秒。該效果至多疊加3層，每層獨立計算持續時間。\n此外，施放元素爆發黯聲迴響時，將觸發一次等同於「顯象超感」的效果，造成原本200%的傷害。\n該效果需要解鎖突破天賦「夜翳的通感」。"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "林霧間的行跡",
-                                                                        "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e暝色縋索\u003c/color\u003e中的\u003ccolor=#FFD780FF\u003e宿靈球\u003c/color\u003e能額外彈跳2次。\n此外，\u003ccolor=#FFD780FF\u003e宿靈球\u003c/color\u003e命中敵人後，將為該敵人施加「夜暝」效果，持續12秒；對處於「夜暝」效果影響下的敵人，固有天賦「夜翳的通感」觸發的「顯象超感」造成的傷害提升50%，該效果需要解鎖固有天賦「夜翳的通感」。",
-                                                                        "description":  "元素戰技暝色縋索中的宿靈球能額外彈跳2次。\n此外，宿靈球命中敵人後，將為該敵人施加「夜暝」效果，持續12秒；對處於「夜暝」效果影響下的敵人，固有天賦「夜翳的通感」觸發的「顯象超感」造成的傷害提升50%，該效果需要解鎖固有天賦「夜翳的通感」。"
+                                                                        "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e暝色縋索\u003c/color\u003e中的\u003ccolor=#FFD780FF\u003e宿靈球\u003c/color\u003e能額外彈跳2次。\n此外，\u003ccolor=#FFD780FF\u003e宿靈球\u003c/color\u003e命中敵人後，將為該敵人施加「夜暝」效果，持續12秒。對處於「夜暝」效果影響下的敵人，突破天賦「夜翳的通感」觸發的「顯象超感」造成的傷害提升50%，該效果需要解鎖突破天賦「夜翳的通感」。",
+                                                                        "description":  "元素戰技暝色縋索中的宿靈球能額外彈跳2次。\n此外，宿靈球命中敵人後，將為該敵人施加「夜暝」效果，持續12秒。對處於「夜暝」效果影響下的敵人，突破天賦「夜翳的通感」觸發的「顯象超感」造成的傷害提升50%，該效果需要解鎖突破天賦「夜翳的通感」。"
                                                                     }
                                                          },
                                       "elementText":  "雷",
@@ -4659,13 +4770,13 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "全力以赴瑪拉妮！",
-                                                                         "descriptionRaw":  "進入夜魂加持狀態時，瑪拉妮獲得2層\u003ccolor=#FFD780FF\u003e踏鯊破浪\u003c/color\u003e的浪勢充能；瑪拉妮獲得豚豚球時，獲得1層浪勢充能。\n此外，瑪拉妮在一次夜魂加持期間獲得2個豚豚球的2秒內，額外恢復12點夜魂值。該效果需要解鎖固有天賦「耐熱型淡水豚豚」。",
-                                                                         "description":  "進入夜魂加持狀態時，瑪拉妮獲得2層踏鯊破浪的浪勢充能；瑪拉妮獲得豚豚球時，獲得1層浪勢充能。\n此外，瑪拉妮在一次夜魂加持期間獲得2個豚豚球的2秒內，額外恢復12點夜魂值。該效果需要解鎖固有天賦「耐熱型淡水豚豚」。"
+                                                                         "descriptionRaw":  "進入夜魂加持狀態時，瑪拉妮獲得2層\u003ccolor=#FFD780FF\u003e踏鯊破浪\u003c/color\u003e的浪勢充能。瑪拉妮獲得豚豚球時，獲得1層浪勢充能。\n此外，瑪拉妮在一次夜魂加持期間獲得2個豚豚球的2秒內，額外恢復12點夜魂值。該效果需要解鎖突破天賦「耐熱型淡水豚豚」。",
+                                                                         "description":  "進入夜魂加持狀態時，瑪拉妮獲得2層踏鯊破浪的浪勢充能。瑪拉妮獲得豚豚球時，獲得1層浪勢充能。\n此外，瑪拉妮在一次夜魂加持期間獲得2個豚豚球的2秒內，額外恢復12點夜魂值。該效果需要解鎖突破天賦「耐熱型淡水豚豚」。"
                                                                      },
                                                               "c4":  {
                                                                          "name":  "鯊鯊主食是豚豚。",
-                                                                         "descriptionRaw":  "獲得豚豚球時，瑪拉妮恢復8點元素能量；該效果需要解鎖固有天賦「耐熱型淡水豚豚」。\n此外，\u003ccolor=#FFD780FF\u003e爆瀑飛彈\u003c/color\u003e造成的傷害提升75%。",
-                                                                         "description":  "獲得豚豚球時，瑪拉妮恢復8點元素能量；該效果需要解鎖固有天賦「耐熱型淡水豚豚」。\n此外，爆瀑飛彈造成的傷害提升75%。"
+                                                                         "descriptionRaw":  "獲得豚豚球時，瑪拉妮恢復8點元素能量。該效果需要解鎖突破天賦「耐熱型淡水豚豚」。\n此外，\u003ccolor=#FFD780FF\u003e爆瀑飛彈\u003c/color\u003e造成的傷害提升75%。",
+                                                                         "description":  "獲得豚豚球時，瑪拉妮恢復8點元素能量。該效果需要解鎖突破天賦「耐熱型淡水豚豚」。\n此外，爆瀑飛彈造成的傷害提升75%。"
                                                                      },
                                                               "c3":  {
                                                                          "name":  "在歡樂海上衝浪",
@@ -4700,8 +4811,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "漫行山藪",
-                                                                        "descriptionRaw":  "固有天賦「飛葉迴斜」轉變為：\n\u003ccolor=#FFD780FF\u003e飛葉輪\u003c/color\u003e返回時，將為角色賦予固有天賦「飛葉迴斜」的「新葉」狀態，持續對身邊的敵人造成相當於柯萊攻擊力40%的\u003ccolor=#99FF88FF\u003e草元素傷害\u003c/color\u003e，持續3秒。\n從施放\u003ccolor=#FFD780FF\u003e拂花偈葉\u003c/color\u003e開始，到此次新葉狀態消失前，如果隊伍中自己的角色觸發了燃燒、原激化、超激化、蔓激化、綻放、超綻放、烈綻放或月綻放反應，則使此次新葉效果的持續時間延長3秒。\n新葉效果至多依此方式延長一次持續時間；在持續期間再次產生新葉效果時，將移除原有的效果。新葉效果造成的傷害視為元素戰技傷害。\n需要解鎖固有天賦「飛葉迴斜」。",
-                                                                        "description":  "固有天賦「飛葉迴斜」轉變為：\n飛葉輪返回時，將為角色賦予固有天賦「飛葉迴斜」的「新葉」狀態，持續對身邊的敵人造成相當於柯萊攻擊力40%的草元素傷害，持續3秒。\n從施放拂花偈葉開始，到此次新葉狀態消失前，如果隊伍中自己的角色觸發了燃燒、原激化、超激化、蔓激化、綻放、超綻放、烈綻放或月綻放反應，則使此次新葉效果的持續時間延長3秒。\n新葉效果至多依此方式延長一次持續時間；在持續期間再次產生新葉效果時，將移除原有的效果。新葉效果造成的傷害視為元素戰技傷害。\n需要解鎖固有天賦「飛葉迴斜」。"
+                                                                        "descriptionRaw":  "突破天賦「飛葉迴斜」轉變為：\n\u003ccolor=#FFD780FF\u003e飛葉輪\u003c/color\u003e返回時，將為角色賦予突破天賦「飛葉迴斜」的「新葉」狀態，持續對身邊的敵人造成相當於柯萊攻擊力40%的\u003ccolor=#99FF88FF\u003e草元素傷害\u003c/color\u003e，持續3秒。\n從施放\u003ccolor=#FFD780FF\u003e拂花偈葉\u003c/color\u003e開始，到此次新葉狀態消失前，如果隊伍中自己的角色觸發了燃燒、原激化、超激化、蔓激化、綻放、超綻放、烈綻放或月綻放反應，則使此次新葉效果的持續時間延長3秒。\n新葉效果至多依此方式延長一次持續時間。在持續期間再次產生新葉效果時，將移除原有的效果。新葉效果造成的傷害視為元素戰技傷害。\n需要解鎖突破天賦「飛葉迴斜」。",
+                                                                        "description":  "突破天賦「飛葉迴斜」轉變為：\n飛葉輪返回時，將為角色賦予突破天賦「飛葉迴斜」的「新葉」狀態，持續對身邊的敵人造成相當於柯萊攻擊力40%的草元素傷害，持續3秒。\n從施放拂花偈葉開始，到此次新葉狀態消失前，如果隊伍中自己的角色觸發了燃燒、原激化、超激化、蔓激化、綻放、超綻放、烈綻放或月綻放反應，則使此次新葉效果的持續時間延長3秒。\n新葉效果至多依此方式延長一次持續時間。在持續期間再次產生新葉效果時，將移除原有的效果。新葉效果造成的傷害視為元素戰技傷害。\n需要解鎖突破天賦「飛葉迴斜」。"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "騫林饋遺",
@@ -4782,8 +4893,8 @@
                                     "constellations":  {
                                                            "c2":  {
                                                                       "name":  "伴行的旅路",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e星霜的流旋\u003c/color\u003e的霜流矢首次命中敵人時，或是冰星信標命中敵人時，將產生1層固有天賦「速射牽制」的偵明效果。\n需要解鎖固有天賦「速射牽制」。",
-                                                                      "description":  "星霜的流旋的霜流矢首次命中敵人時，或是冰星信標命中敵人時，將產生1層固有天賦「速射牽制」的偵明效果。\n需要解鎖固有天賦「速射牽制」。"
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e星霜的流旋\u003c/color\u003e的霜流矢首次命中敵人時，或是冰星信標命中敵人時，將產生1層突破天賦「速射牽制」的偵明效果。\n需要解鎖突破天賦「速射牽制」。",
+                                                                      "description":  "星霜的流旋的霜流矢首次命中敵人時，或是冰星信標命中敵人時，將產生1層突破天賦「速射牽制」的偵明效果。\n需要解鎖突破天賦「速射牽制」。"
                                                                   },
                                                            "c4":  {
                                                                       "name":  "晴霜的祝念",
@@ -4802,8 +4913,8 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "依隨的策援",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e星霜的流旋\u003c/color\u003e靈風狀態下的偵明效果疊加層數上限提升1層。需要解鎖固有天賦「速射牽制」。\n此外，處於靈風狀態下的目前場上角色，其物理傷害的暴擊傷害提高60%。",
-                                                                      "description":  "星霜的流旋靈風狀態下的偵明效果疊加層數上限提升1層。需要解鎖固有天賦「速射牽制」。\n此外，處於靈風狀態下的目前場上角色，其物理傷害的暴擊傷害提高60%。"
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e星霜的流旋\u003c/color\u003e靈風狀態下的偵明效果疊加層數上限提升1層。需要解鎖突破天賦「速射牽制」。\n此外，處於靈風狀態下的目前場上角色，其物理傷害的暴擊傷害提高60%。",
+                                                                      "description":  "星霜的流旋靈風狀態下的偵明效果疊加層數上限提升1層。需要解鎖突破天賦「速射牽制」。\n此外，處於靈風狀態下的目前場上角色，其物理傷害的暴擊傷害提高60%。"
                                                                   },
                                                            "c1":  {
                                                                       "name":  "遇合的因緣",
@@ -4843,8 +4954,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "瑞獸之形",
-                                                                        "descriptionRaw":  "迴獵貫鱗炮在命中敵人後，將在敵人間彈跳一次，造成基尼奇的攻擊力700%的\u003ccolor=#99FF88FF\u003e草元素傷害\u003c/color\u003e。\n如果本次迴獵貫鱗炮觸發了固有天賦「焰靈的契約」或命之座「星虎之掌」對迴獵貫鱗炮的增強效果，其所引發的彈跳攻擊也會獲得上述效果的增強。",
-                                                                        "description":  "迴獵貫鱗炮在命中敵人後，將在敵人間彈跳一次，造成基尼奇的攻擊力700%的草元素傷害。\n如果本次迴獵貫鱗炮觸發了固有天賦「焰靈的契約」或命之座「星虎之掌」對迴獵貫鱗炮的增強效果，其所引發的彈跳攻擊也會獲得上述效果的增強。"
+                                                                        "descriptionRaw":  "迴獵貫鱗炮在命中敵人後，將在敵人間彈跳一次，造成基尼奇的攻擊力700%的\u003ccolor=#99FF88FF\u003e草元素傷害\u003c/color\u003e。\n如果本次迴獵貫鱗炮觸發了突破天賦「焰靈的契約」或命之座「星虎之掌」對迴獵貫鱗炮的增強效果，其所引發的彈跳攻擊也會獲得上述效果的增強。",
+                                                                        "description":  "迴獵貫鱗炮在命中敵人後，將在敵人間彈跳一次，造成基尼奇的攻擊力700%的草元素傷害。\n如果本次迴獵貫鱗炮觸發了突破天賦「焰靈的契約」或命之座「星虎之掌」對迴獵貫鱗炮的增強效果，其所引發的彈跳攻擊也會獲得上述效果的增強。"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "七鸚之喙",
@@ -4864,8 +4975,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "寂秘紙草經",
-                                                                        "descriptionRaw":  "滿足以下任意一項條件時，賽索斯的\u003ccolor=#FFACFFFF\u003e雷元素傷害加成\u003c/color\u003e提升15%，持續10秒，至多疊加2層，每層獨立計時：\n·透過瞄準射擊消耗元素能量，此條件需要解鎖固有天賦「黑鳶的密喻」。\n·透過\u003ccolor=#FFD780FF\u003e古儀·鳴砂掣雷\u003c/color\u003e觸發元素反應恢復元素能量。\n·施放\u003ccolor=#FFD780FF\u003e秘儀·瞑光貫影\u003c/color\u003e。",
-                                                                        "description":  "滿足以下任意一項條件時，賽索斯的雷元素傷害加成提升15%，持續10秒，至多疊加2層，每層獨立計時：\n·透過瞄準射擊消耗元素能量，此條件需要解鎖固有天賦「黑鳶的密喻」。\n·透過古儀·鳴砂掣雷觸發元素反應恢復元素能量。\n·施放秘儀·瞑光貫影。"
+                                                                        "descriptionRaw":  "滿足以下任意一項條件時，賽索斯的\u003ccolor=#FFACFFFF\u003e雷元素傷害加成\u003c/color\u003e提升15%，持續10秒，至多疊加2層，每層獨立計時：\n·透過瞄準射擊消耗元素能量，此條件需要解鎖突破天賦「黑鳶的密喻」。\n·透過\u003ccolor=#FFD780FF\u003e古儀·鳴砂掣雷\u003c/color\u003e觸發元素反應恢復元素能量。\n·施放\u003ccolor=#FFD780FF\u003e秘儀·瞑光貫影\u003c/color\u003e。",
+                                                                        "description":  "滿足以下任意一項條件時，賽索斯的雷元素傷害加成提升15%，持續10秒，至多疊加2層，每層獨立計時：\n·透過瞄準射擊消耗元素能量，此條件需要解鎖突破天賦「黑鳶的密喻」。\n·透過古儀·鳴砂掣雷觸發元素反應恢復元素能量。\n·施放秘儀·瞑光貫影。"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "真念鴕羽集",
@@ -4884,8 +4995,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "巡日塔門書",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e貫影箭\u003c/color\u003e命中敵人後，將歸還因固有天賦「黑鳶的密喻」消耗的元素能量，此效果每15秒至多觸發一次，需要解鎖固有天賦「黑鳶的密喻」。",
-                                                                        "description":  "貫影箭命中敵人後，將歸還因固有天賦「黑鳶的密喻」消耗的元素能量，此效果每15秒至多觸發一次，需要解鎖固有天賦「黑鳶的密喻」。"
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e貫影箭\u003c/color\u003e命中敵人後，將歸還因突破天賦「黑鳶的密喻」消耗的元素能量，此效果每15秒至多觸發一次，需要解鎖突破天賦「黑鳶的密喻」。",
+                                                                        "description":  "貫影箭命中敵人後，將歸還因突破天賦「黑鳶的密喻」消耗的元素能量，此效果每15秒至多觸發一次，需要解鎖突破天賦「黑鳶的密喻」。"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "封龕謁靈歌",
@@ -5154,8 +5265,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "吞心者的巡行",
-                                                                         "descriptionRaw":  "茜特菈莉的元素精通提升125點，處於白曜護盾的庇護下或是伊茲帕帕跟隨的其他角色的元素精通提升250點。\n此外，施放元素戰技\u003ccolor=#FFD780FF\u003e霜晝黑星\u003c/color\u003e時，也會為附近的目前場上角色賦予白曜護盾。\n\n此外，固有天賦「五重天的寒雨」的效果獲得提升：\n伊茲帕帕存在期間，隊伍中附近的角色觸發凍結反應或融化反應後，受本次反應影響的敵人的\u003ccolor=#FF9999FF\u003e火元素\u003c/color\u003e與\u003ccolor=#80C0FFFF\u003e水元素\u003c/color\u003e抗性還會額外降低20%，持續12秒，該效果需要解鎖固有天賦「五重天的寒雨」。",
-                                                                         "description":  "茜特菈莉的元素精通提升125點，處於白曜護盾的庇護下或是伊茲帕帕跟隨的其他角色的元素精通提升250點。\n此外，施放元素戰技霜晝黑星時，也會為附近的目前場上角色賦予白曜護盾。\n\n此外，固有天賦「五重天的寒雨」的效果獲得提升：\n伊茲帕帕存在期間，隊伍中附近的角色觸發凍結反應或融化反應後，受本次反應影響的敵人的火元素與水元素抗性還會額外降低20%，持續12秒，該效果需要解鎖固有天賦「五重天的寒雨」。"
+                                                                         "descriptionRaw":  "茜特菈莉的元素精通提升125點，處於白曜護盾的庇護下或是伊茲帕帕跟隨的其他角色的元素精通提升250點。\n此外，施放元素戰技\u003ccolor=#FFD780FF\u003e霜晝黑星\u003c/color\u003e時，也會為附近的目前場上角色賦予白曜護盾。\n\n此外，突破天賦「五重天的寒雨」的效果獲得提升：\n伊茲帕帕存在期間，隊伍中附近的角色觸發凍結反應或融化反應後，受本次反應影響的敵人的\u003ccolor=#FF9999FF\u003e火元素\u003c/color\u003e與\u003ccolor=#80C0FFFF\u003e水元素\u003c/color\u003e抗性還會額外降低20%，持續12秒，該效果需要解鎖突破天賦「五重天的寒雨」。",
+                                                                         "description":  "茜特菈莉的元素精通提升125點，處於白曜護盾的庇護下或是伊茲帕帕跟隨的其他角色的元素精通提升250點。\n此外，施放元素戰技霜晝黑星時，也會為附近的目前場上角色賦予白曜護盾。\n\n此外，突破天賦「五重天的寒雨」的效果獲得提升：\n伊茲帕帕存在期間，隊伍中附近的角色觸發凍結反應或融化反應後，受本次反應影響的敵人的火元素與水元素抗性還會額外降低20%，持續12秒，該效果需要解鎖突破天賦「五重天的寒雨」。"
                                                                      },
                                                               "c4":  {
                                                                          "name":  "拒亡者的靈髑",
@@ -5384,8 +5495,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "穩固陣線的魄力",
-                                                                           "descriptionRaw":  "目前場上處於「協同戰法」狀態下的角色（不包括夏沃蕾自己）觸發超載反應時，將恢復6點元素能量。此效果每10秒至多觸發一次。\n需要解鎖固有天賦「尖兵協同戰法」。",
-                                                                           "description":  "目前場上處於「協同戰法」狀態下的角色（不包括夏沃蕾自己）觸發超載反應時，將恢復6點元素能量。此效果每10秒至多觸發一次。\n需要解鎖固有天賦「尖兵協同戰法」。"
+                                                                           "descriptionRaw":  "目前場上處於「協同戰法」狀態下的角色（不包括夏沃蕾自己）觸發超載反應時，將恢復6點元素能量。此效果每10秒至多觸發一次。\n需要解鎖突破天賦「尖兵協同戰法」。",
+                                                                           "description":  "目前場上處於「協同戰法」狀態下的角色（不包括夏沃蕾自己）觸發超載反應時，將恢復6點元素能量。此效果每10秒至多觸發一次。\n需要解鎖突破天賦「尖兵協同戰法」。"
                                                                        }
                                                             },
                                          "elementText":  "火",
@@ -5765,8 +5876,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "鶴唳遠人間",
-                                                                         "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e朝起鶴雲\u003c/color\u003e的步天梯後，閒雲的攻擊力提升20%，持續15秒。\n此外，固有天賦「細想應是洞中仙」的效果獲得提升：\u003ccolor=#FFD780FF\u003e暮集竹星\u003c/color\u003e的竹星擁有仙力助推時，附近的目前場上角色的下落攻擊墜地衝擊造成的傷害提升，提升值相當於閒雲的攻擊力的400%。依此方式，至多使附近的目前場上角色的下落攻擊墜地衝擊傷害提升18000。\n一次下落攻擊墜地衝擊傷害中，只會對一名敵人造成上述傷害提升效果，每個角色每0.4秒至多觸發一次。\n該效果需要解鎖固有天賦「細想應是洞中仙」。",
-                                                                         "description":  "施放朝起鶴雲的步天梯後，閒雲的攻擊力提升20%，持續15秒。\n此外，固有天賦「細想應是洞中仙」的效果獲得提升：暮集竹星的竹星擁有仙力助推時，附近的目前場上角色的下落攻擊墜地衝擊造成的傷害提升，提升值相當於閒雲的攻擊力的400%。依此方式，至多使附近的目前場上角色的下落攻擊墜地衝擊傷害提升18000。\n一次下落攻擊墜地衝擊傷害中，只會對一名敵人造成上述傷害提升效果，每個角色每0.4秒至多觸發一次。\n該效果需要解鎖固有天賦「細想應是洞中仙」。"
+                                                                         "descriptionRaw":  "施放\u003ccolor=#FFD780FF\u003e朝起鶴雲\u003c/color\u003e的步天梯後，閒雲的攻擊力提升20%，持續15秒。\n此外，突破天賦「細想應是洞中仙」的效果獲得提升：\u003ccolor=#FFD780FF\u003e暮集竹星\u003c/color\u003e的竹星擁有仙力助推時，附近的目前場上角色的下落攻擊墜地衝擊造成的傷害提升，提升值相當於閒雲的攻擊力的400%。依此方式，至多使附近的目前場上角色的下落攻擊墜地衝擊傷害提升18000。\n一次下落攻擊墜地衝擊傷害中，只會對一名敵人造成上述傷害提升效果，每個角色每0.4秒至多觸發一次。\n該效果需要解鎖突破天賦「細想應是洞中仙」。",
+                                                                         "description":  "施放朝起鶴雲的步天梯後，閒雲的攻擊力提升20%，持續15秒。\n此外，突破天賦「細想應是洞中仙」的效果獲得提升：暮集竹星的竹星擁有仙力助推時，附近的目前場上角色的下落攻擊墜地衝擊造成的傷害提升，提升值相當於閒雲的攻擊力的400%。依此方式，至多使附近的目前場上角色的下落攻擊墜地衝擊傷害提升18000。\n一次下落攻擊墜地衝擊傷害中，只會對一名敵人造成上述傷害提升效果，每個角色每0.4秒至多觸發一次。\n該效果需要解鎖突破天賦「細想應是洞中仙」。"
                                                                      },
                                                               "c4":  {
                                                                          "name":  "奧妙烹黍珠",
@@ -5847,8 +5958,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "湖光頂調",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e擷萃調香\u003c/color\u003e、\u003ccolor=#FFD780FF\u003e香氛演繹\u003c/color\u003e或固有天賦「餘薰」的清露香氛（需解鎖該固有天賦）命中敵人時，該敵人的\u003ccolor=#99FF88FF\u003e草元素抗性\u003c/color\u003e降低30%，持續10秒。",
-                                                                        "description":  "擷萃調香、香氛演繹或固有天賦「餘薰」的清露香氛（需解鎖該固有天賦）命中敵人時，該敵人的草元素抗性降低30%，持續10秒。"
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e擷萃調香\u003c/color\u003e、\u003ccolor=#FFD780FF\u003e香氛演繹\u003c/color\u003e或突破天賦「餘薰」的清露香氛（需解鎖該突破天賦）命中敵人時，該敵人的\u003ccolor=#99FF88FF\u003e草元素抗性\u003c/color\u003e降低30%，持續10秒。",
+                                                                        "description":  "擷萃調香、香氛演繹或突破天賦「餘薰」的清露香氛（需解鎖該突破天賦）命中敵人時，該敵人的草元素抗性降低30%，持續10秒。"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "柔燈心韻",
@@ -5872,8 +5983,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "淡香浸析",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e擷萃調香\u003c/color\u003e與固有天賦「餘薰」的清露香氛造成的傷害提升20%，後者需要解鎖固有天賦「餘薰」。\n此外，隊伍中附近的角色對敵人觸發燃燒反應或對處於燃燒狀態下的敵人造成\u003ccolor=#99FF88FF\u003e草元素傷害\u003c/color\u003e時，會額外生成一枚\u003ccolor=#FFD780FF\u003e香韻\u003c/color\u003e。此效果每2.9秒至多觸發一次。",
-                                                                        "description":  "擷萃調香與固有天賦「餘薰」的清露香氛造成的傷害提升20%，後者需要解鎖固有天賦「餘薰」。\n此外，隊伍中附近的角色對敵人觸發燃燒反應或對處於燃燒狀態下的敵人造成草元素傷害時，會額外生成一枚香韻。此效果每2.9秒至多觸發一次。"
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e擷萃調香\u003c/color\u003e與突破天賦「餘薰」的清露香氛造成的傷害提升20%，後者需要解鎖突破天賦「餘薰」。\n此外，隊伍中附近的角色對敵人觸發燃燒反應或對處於燃燒狀態下的敵人造成\u003ccolor=#99FF88FF\u003e草元素傷害\u003c/color\u003e時，會額外生成一枚\u003ccolor=#FFD780FF\u003e香韻\u003c/color\u003e。此效果每2.9秒至多觸發一次。",
+                                                                        "description":  "擷萃調香與突破天賦「餘薰」的清露香氛造成的傷害提升20%，後者需要解鎖突破天賦「餘薰」。\n此外，隊伍中附近的角色對敵人觸發燃燒反應或對處於燃燒狀態下的敵人造成草元素傷害時，會額外生成一枚香韻。此效果每2.9秒至多觸發一次。"
                                                                     }
                                                          },
                                       "elementText":  "草",
@@ -6246,6 +6357,47 @@
                                      "region":  "楓丹",
                                      "gender":  "男"
                                  },
+                       "nefer":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "明察為籌算之先",
+                                                                       "descriptionRaw":  "突破天賦{LINK#P1222101}\u003ccolor=#FFD780FF\u003e「月下的豪賭」\u003c/color\u003e{/LINK}的效果獲得強化：{LINK#N11220003}\u003ccolor=#FFD780FF\u003e「偽秘之帷」\u003c/color\u003e{/LINK}的持續時間延長5秒，上限提升至5層，且至多使{LINK#N11220002}\u003ccolor=#FFD780FF\u003e幻戲\u003c/color\u003e{/LINK}造成原本140%的傷害；奈芙爾施放元素戰技\u003ccolor=#FFD780FF\u003e{LINK#S11222}弈術·千夜一舞{/LINK}\u003c/color\u003e時，將立刻獲得2層「偽秘之帷」。此外，「偽秘之帷」疊加至5層或5層的持續時間更新時，奈芙爾的元素精通改為提升200點，持續8秒。\n需要解鎖突破天賦「月下的豪賭」。",
+                                                                       "description":  "突破天賦**「月下的豪賭」**的效果獲得強化：**「偽秘之帷」**的持續時間延長5秒，上限提升至5層，且至多使**幻戲**造成原本140%的傷害；奈芙爾施放元素戰技**弈術·千夜一舞**時，將立刻獲得2層「偽秘之帷」。此外，「偽秘之帷」疊加至5層或5層的持續時間更新時，奈芙爾的元素精通改為提升200點，持續8秒。\n需要解鎖突破天賦「月下的豪賭」。"
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "眩惑入謎局之網",
+                                                                       "descriptionRaw":  "奈芙爾在場上且處於{LINK#N11220001}\u003ccolor=#FFD780FF\u003e「影舞」\u003c/color\u003e{/LINK}狀態下時，獲得草露的速度提升25%。\n此外，奈芙爾處於「影舞」狀態下時，還會使附近敵人的\u003ccolor=#99FF88FF\u003e草元素抗性\u003c/color\u003e降低20%，當奈芙爾不處於「影舞」狀態或離開敵人一定距離後，該效果會在4.5秒後移除。",
+                                                                       "description":  "奈芙爾在場上且處於**「影舞」**狀態下時，獲得草露的速度提升25%。\n此外，奈芙爾處於「影舞」狀態下時，還會使附近敵人的草元素抗性降低20%，當奈芙爾不處於「影舞」狀態或離開敵人一定距離後，該效果會在4.5秒後移除。"
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "誑言掩虛實之跡",
+                                                                       "descriptionRaw":  "元素戰技\u003ccolor=#FFD780FF\u003e{LINK#S11222}弈術·千夜一舞{/LINK}\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                       "description":  "元素戰技**弈術·千夜一舞**的技能等級提高3級。\n至多提升至15級。"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "見機在忽微之間",
+                                                                       "descriptionRaw":  "元素爆發\u003ccolor=#FFD780FF\u003e{LINK#S11225}聖約·真眸幻戲{/LINK}\u003c/color\u003e的技能等級提高3級。\n至多提升至15級。",
+                                                                       "description":  "元素爆發**聖約·真眸幻戲**的技能等級提高3級。\n至多提升至15級。"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "決勝於逆轉之時",
+                                                                       "descriptionRaw":  "奈芙爾施放{LINK#N11220002}\u003ccolor=#FFD780FF\u003e幻戲\u003c/color\u003e{/LINK}時，自身的第二段傷害將轉為造成相當於奈芙爾元素精通85%的\u003ccolor=#99FF88FF\u003e草元素範圍傷害\u003c/color\u003e。此外，幻戲的攻擊結束時，還會造成一次相當於奈芙爾元素精通120%的\u003ccolor=#99FF88FF\u003e草元素範圍傷害\u003c/color\u003e。上述傷害均視為由幻戲造成的月綻放反應傷害。\n\n\u003ccolor=#FFD780FF\u003e月兆·滿輝\u003c/color\u003e\n奈芙爾造成的月綻放反應傷害{LINK#N11190007}\u003ccolor=#FFD780FF\u003e擢升\u003c/color\u003e{/LINK}15%。",
+                                                                       "description":  "奈芙爾施放**幻戲**時，自身的第二段傷害將轉為造成相當於奈芙爾元素精通85%的草元素範圍傷害。此外，幻戲的攻擊結束時，還會造成一次相當於奈芙爾元素精通120%的草元素範圍傷害。上述傷害均視為由幻戲造成的月綻放反應傷害。\n\n月兆·滿輝\n奈芙爾造成的月綻放反應傷害**擢升**15%。"
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "謀篇乃成敗之始",
+                                                                       "descriptionRaw":  "奈芙爾的{LINK#N11220002}\u003ccolor=#FFD780FF\u003e幻戲\u003c/color\u003e{/LINK}造成的月綻放反應傷害的基礎傷害提升，提升值相當於奈芙爾的元素精通的60%。該效果同樣會受到{LINK#N11220003}\u003ccolor=#FFD780FF\u003e「偽秘之帷」\u003c/color\u003e{/LINK}的加成。",
+                                                                       "description":  "奈芙爾的**幻戲**造成的月綻放反應傷害的基礎傷害提升，提升值相當於奈芙爾的元素精通的60%。該效果同樣會受到**「偽秘之帷」**的加成。"
+                                                                   }
+                                                        },
+                                     "elementText":  "草",
+                                     "fullname":  null,
+                                     "weaponText":  "法器",
+                                     "name":  "奈芙爾",
+                                     "substatText":  "暴擊傷害",
+                                     "region":  "挪德卡萊",
+                                     "gender":  "女"
+                                 },
                        "aloy":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6357,8 +6509,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "「若有人兮雲之際」",
-                                                                        "descriptionRaw":  "觸發固有天賦「四戈封刀靈卜」中的元素轉化後，藍硯在這次元素戰技\u003ccolor=#FFD780FF\u003e鳳縷隨翦舞\u003c/color\u003e中向敵人投擲翦月環時，將額外投擲一枚翦月環。\n需要解鎖固有天賦「四戈封刀靈卜」。",
-                                                                        "description":  "觸發固有天賦「四戈封刀靈卜」中的元素轉化後，藍硯在這次元素戰技鳳縷隨翦舞中向敵人投擲翦月環時，將額外投擲一枚翦月環。\n需要解鎖固有天賦「四戈封刀靈卜」。"
+                                                                        "descriptionRaw":  "觸發突破天賦「四戈封刀靈卜」中的元素轉化後，藍硯在這次元素戰技\u003ccolor=#FFD780FF\u003e鳳縷隨翦舞\u003c/color\u003e中向敵人投擲翦月環時，將額外投擲一枚翦月環。\n需要解鎖突破天賦「四戈封刀靈卜」。",
+                                                                        "description":  "觸發突破天賦「四戈封刀靈卜」中的元素轉化後，藍硯在這次元素戰技鳳縷隨翦舞中向敵人投擲翦月環時，將額外投擲一枚翦月環。\n需要解鎖突破天賦「四戈封刀靈卜」。"
                                                                     }
                                                          },
                                       "elementText":  "風",
@@ -6504,8 +6656,8 @@
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "迷迭生香的配比秘方",
-                                                                           "descriptionRaw":  "{LINK#P1122101}\u003ccolor=#FFD780FF\u003e康復食療\u003c/color\u003e{/LINK}的持續時間延長6秒。持續期間，透過\u003ccolor=#FFD780FF\u003e康復食療\u003c/color\u003e觸發治療時，有機率使治療量提升100%，並為愛可菲恢復2點元素能量，機率相當於愛可菲自己的暴擊率。一次\u003ccolor=#FFD780FF\u003e康復食療\u003c/color\u003e持續期間，該效果至多觸發7次。\n需要解鎖固有天賦「美食勝過良藥」。",
-                                                                           "description":  "**康復食療**的持續時間延長6秒。持續期間，透過康復食療觸發治療時，有機率使治療量提升100%，並為愛可菲恢復2點元素能量，機率相當於愛可菲自己的暴擊率。一次康復食療持續期間，該效果至多觸發7次。\n需要解鎖固有天賦「美食勝過良藥」。"
+                                                                           "descriptionRaw":  "{LINK#P1122101}\u003ccolor=#FFD780FF\u003e康復食療\u003c/color\u003e{/LINK}的持續時間延長6秒。持續期間，透過\u003ccolor=#FFD780FF\u003e康復食療\u003c/color\u003e觸發治療時，有機率使治療量提升100%，並為愛可菲恢復2點元素能量，機率相當於愛可菲自己的暴擊率。一次\u003ccolor=#FFD780FF\u003e康復食療\u003c/color\u003e持續期間，該效果至多觸發7次。\n需要解鎖突破天賦「美食勝過良藥」。",
+                                                                           "description":  "**康復食療**的持續時間延長6秒。持續期間，透過康復食療觸發治療時，有機率使治療量提升100%，並為愛可菲恢復2點元素能量，機率相當於愛可菲自己的暴擊率。一次康復食療持續期間，該效果至多觸發7次。\n需要解鎖突破天賦「美食勝過良藥」。"
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "焦糖褐變的烘烤魔法",
@@ -6524,8 +6676,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "味蕾綻放的餐前旋舞",
-                                                                           "descriptionRaw":  "隊伍中4名角色的元素類型均為\u003ccolor=#80C0FFFF\u003e水元素\u003c/color\u003e或\u003ccolor=#99FFFFFF\u003e冰元素\u003c/color\u003e時，愛可菲施放元素戰技\u003ccolor=#FFD780FF\u003e{LINK#S11122}低溫烹飪{/LINK}\u003c/color\u003e或元素爆發\u003ccolor=#FFD780FF\u003e{LINK#S11125}花刀技法{/LINK}\u003c/color\u003e後的15秒內，隊伍中附近的所有角色造成\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e時的暴擊傷害提升60%。\n需要解鎖固有天賦「靈感浸入調味」。",
-                                                                           "description":  "隊伍中4名角色的元素類型均為水元素或冰元素時，愛可菲施放元素戰技**低溫烹飪**或元素爆發**花刀技法**後的15秒內，隊伍中附近的所有角色造成冰元素傷害時的暴擊傷害提升60%。\n需要解鎖固有天賦「靈感浸入調味」。"
+                                                                           "descriptionRaw":  "隊伍中4名角色的元素類型均為\u003ccolor=#80C0FFFF\u003e水元素\u003c/color\u003e或\u003ccolor=#99FFFFFF\u003e冰元素\u003c/color\u003e時，愛可菲施放元素戰技\u003ccolor=#FFD780FF\u003e{LINK#S11122}低溫烹飪{/LINK}\u003c/color\u003e或元素爆發\u003ccolor=#FFD780FF\u003e{LINK#S11125}花刀技法{/LINK}\u003c/color\u003e後的15秒內，隊伍中附近的所有角色造成\u003ccolor=#99FFFFFF\u003e冰元素傷害\u003c/color\u003e時的暴擊傷害提升60%。\n需要解鎖突破天賦「靈感浸入調味」。",
+                                                                           "description":  "隊伍中4名角色的元素類型均為水元素或冰元素時，愛可菲施放元素戰技**低溫烹飪**或元素爆發**花刀技法**後的15秒內，隊伍中附近的所有角色造成冰元素傷害時的暴擊傷害提升60%。\n需要解鎖突破天賦「靈感浸入調味」。"
                                                                        }
                                                             },
                                          "elementText":  "冰",
@@ -6745,8 +6897,8 @@
                                         "constellations":  {
                                                                "c2":  {
                                                                           "name":  "「自此，直面長夜之危」",
-                                                                          "descriptionRaw":  "固有天賦「破夜的明焰」的效果獲得強化：隊伍中附近的角色對敵人觸發\u003ccolor=#FFACFFFF\u003e雷元素相關反應\u003c/color\u003e後，將基於克洛琳德攻擊力的30%，提升克洛琳德的普通攻擊與\u003ccolor=#FFD780FF\u003e殘光將終\u003c/color\u003e造成的\u003ccolor=#FFACFFFF\u003e雷元素傷害\u003c/color\u003e。此效果持續15秒，至多疊加3層，每層獨立計時。處於3層狀態下時，克洛琳德的抗打斷能力提升。依此方式至多使克洛琳德的上述攻擊造成的傷害提升2700。\n需要解鎖固有天賦「破夜的明焰」。",
-                                                                          "description":  "固有天賦「破夜的明焰」的效果獲得強化：隊伍中附近的角色對敵人觸發雷元素相關反應後，將基於克洛琳德攻擊力的30%，提升克洛琳德的普通攻擊與殘光將終造成的雷元素傷害。此效果持續15秒，至多疊加3層，每層獨立計時。處於3層狀態下時，克洛琳德的抗打斷能力提升。依此方式至多使克洛琳德的上述攻擊造成的傷害提升2700。\n需要解鎖固有天賦「破夜的明焰」。"
+                                                                          "descriptionRaw":  "突破天賦「破夜的明焰」的效果獲得強化：隊伍中附近的角色對敵人觸發\u003ccolor=#FFACFFFF\u003e雷元素相關反應\u003c/color\u003e後，將基於克洛琳德攻擊力的30%，提升克洛琳德的普通攻擊與\u003ccolor=#FFD780FF\u003e殘光將終\u003c/color\u003e造成的\u003ccolor=#FFACFFFF\u003e雷元素傷害\u003c/color\u003e。此效果持續15秒，至多疊加3層，每層獨立計時。處於3層狀態下時，克洛琳德的抗打斷能力提升。依此方式至多使克洛琳德的上述攻擊造成的傷害提升2700。\n需要解鎖突破天賦「破夜的明焰」。",
+                                                                          "description":  "突破天賦「破夜的明焰」的效果獲得強化：隊伍中附近的角色對敵人觸發雷元素相關反應後，將基於克洛琳德攻擊力的30%，提升克洛琳德的普通攻擊與殘光將終造成的雷元素傷害。此效果持續15秒，至多疊加3層，每層獨立計時。處於3層狀態下時，克洛琳德的抗打斷能力提升。依此方式至多使克洛琳德的上述攻擊造成的傷害提升2700。\n需要解鎖突破天賦「破夜的明焰」。"
                                                                       },
                                                                "c4":  {
                                                                           "name":  "「銘記淚、生命與仁愛」",
@@ -6909,8 +7061,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "星天的花雨",
-                                                                       "descriptionRaw":  "處於「金杯的豐饋」狀態下的角色對敵人造成\u003ccolor=#80C0FFFF\u003e水元素傷害\u003c/color\u003e後，該敵人的\u003ccolor=#80C0FFFF\u003e水元素抗性\u003c/color\u003e降低35%，持續10秒。對敵人造成綻放或月綻放反應傷害後，該敵人的\u003ccolor=#99FF88FF\u003e草元素抗性\u003c/color\u003e降低35%，持續10秒。\n需要解鎖固有天賦「折旋落英之庭」。",
-                                                                       "description":  "處於「金杯的豐饋」狀態下的角色對敵人造成水元素傷害後，該敵人的水元素抗性降低35%，持續10秒。對敵人造成綻放或月綻放反應傷害後，該敵人的草元素抗性降低35%，持續10秒。\n需要解鎖固有天賦「折旋落英之庭」。"
+                                                                       "descriptionRaw":  "處於「金杯的豐饋」狀態下的角色對敵人造成\u003ccolor=#80C0FFFF\u003e水元素傷害\u003c/color\u003e後，該敵人的\u003ccolor=#80C0FFFF\u003e水元素抗性\u003c/color\u003e降低35%，持續10秒。對敵人造成綻放或月綻放反應傷害後，該敵人的\u003ccolor=#99FF88FF\u003e草元素抗性\u003c/color\u003e降低35%，持續10秒。\n需要解鎖突破天賦「折旋落英之庭」。",
+                                                                       "description":  "處於「金杯的豐饋」狀態下的角色對敵人造成水元素傷害後，該敵人的水元素抗性降低35%，持續10秒。對敵人造成綻放或月綻放反應傷害後，該敵人的草元素抗性降低35%，持續10秒。\n需要解鎖突破天賦「折旋落英之庭」。"
                                                                    },
                                                             "c4":  {
                                                                        "name":  "挽漪的節音",
@@ -6950,8 +7102,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "槍口，灼燒的輕煙",
-                                                                        "descriptionRaw":  "恰斯卡登場時，獲得一層固有天賦「子彈的戲法」的「煥影之靈」。該效果需要解鎖固有天賦「子彈的戲法」。\n此外，施放元素戰技\u003ccolor=#FFD780FF\u003e靈韁追影\u003c/color\u003e中的\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e時，恰斯卡的\u003ccolor=#FFD780FF\u003e煥光追影彈\u003c/color\u003e命中敵人時，會根據\u003ccolor=#FFD780FF\u003e煥光追影彈\u003c/color\u003e的元素類型，造成相當於恰斯卡攻擊力400%的對應元素範圍傷害，該傷害視為重擊傷害。每次施放\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e至多觸發一次該效果。",
-                                                                        "description":  "恰斯卡登場時，獲得一層固有天賦「子彈的戲法」的「煥影之靈」。該效果需要解鎖固有天賦「子彈的戲法」。\n此外，施放元素戰技靈韁追影中的多重瞄準時，恰斯卡的煥光追影彈命中敵人時，會根據煥光追影彈的元素類型，造成相當於恰斯卡攻擊力400%的對應元素範圍傷害，該傷害視為重擊傷害。每次施放多重瞄準至多觸發一次該效果。"
+                                                                        "descriptionRaw":  "恰斯卡登場時，獲得一層突破天賦「子彈的戲法」的「煥影之靈」。該效果需要解鎖突破天賦「子彈的戲法」。\n此外，施放元素戰技\u003ccolor=#FFD780FF\u003e靈韁追影\u003c/color\u003e中的\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e時，恰斯卡的\u003ccolor=#FFD780FF\u003e煥光追影彈\u003c/color\u003e命中敵人時，會根據\u003ccolor=#FFD780FF\u003e煥光追影彈\u003c/color\u003e的元素類型，造成相當於恰斯卡攻擊力400%的對應元素範圍傷害，該傷害視為重擊傷害。每次施放\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e至多觸發一次該效果。",
+                                                                        "description":  "恰斯卡登場時，獲得一層突破天賦「子彈的戲法」的「煥影之靈」。該效果需要解鎖突破天賦「子彈的戲法」。\n此外，施放元素戰技靈韁追影中的多重瞄準時，恰斯卡的煥光追影彈命中敵人時，會根據煥光追影彈的元素類型，造成相當於恰斯卡攻擊力400%的對應元素範圍傷害，該傷害視為重擊傷害。每次施放多重瞄準至多觸發一次該效果。"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "星火，瞬息的擊發",
@@ -6970,13 +7122,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "相決，鬥爭的榮光",
-                                                                        "descriptionRaw":  "恰斯卡進行\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e所需的蓄力時間減少，且觸發固有天賦「子彈的戲法」中的「附靈轉化」後，恰斯卡將獲得「命襲」狀態，在接下來的3秒內，恰斯卡下一次施放元素戰技\u003ccolor=#FFD780FF\u003e靈韁追影\u003c/color\u003e中的\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e時，會立即完成蓄力，並且本次\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e中的\u003ccolor=#FFD780FF\u003e追影彈\u003c/color\u003e和\u003ccolor=#FFD780FF\u003e煥光追影彈\u003c/color\u003e的暴擊傷害提升120%。每3秒至多獲得一次「命襲」效果。\n\n上述效果需要解鎖固有天賦「子彈的戲法」。",
-                                                                        "description":  "恰斯卡進行多重瞄準所需的蓄力時間減少，且觸發固有天賦「子彈的戲法」中的「附靈轉化」後，恰斯卡將獲得「命襲」狀態，在接下來的3秒內，恰斯卡下一次施放元素戰技靈韁追影中的多重瞄準時，會立即完成蓄力，並且本次多重瞄準中的追影彈和煥光追影彈的暴擊傷害提升120%。每3秒至多獲得一次「命襲」效果。\n\n上述效果需要解鎖固有天賦「子彈的戲法」。"
+                                                                        "descriptionRaw":  "恰斯卡進行\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e所需的蓄力時間減少，且觸發突破天賦「子彈的戲法」中的「附靈轉化」後，恰斯卡將獲得「命襲」狀態，在接下來的3秒內，恰斯卡下一次施放元素戰技\u003ccolor=#FFD780FF\u003e靈韁追影\u003c/color\u003e中的\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e時，會立即完成蓄力，並且本次\u003ccolor=#FFD780FF\u003e多重瞄準\u003c/color\u003e中的\u003ccolor=#FFD780FF\u003e追影彈\u003c/color\u003e和\u003ccolor=#FFD780FF\u003e煥光追影彈\u003c/color\u003e的暴擊傷害提升120%。每3秒至多獲得一次「命襲」效果。\n\n上述效果需要解鎖突破天賦「子彈的戲法」。",
+                                                                        "description":  "恰斯卡進行多重瞄準所需的蓄力時間減少，且觸發突破天賦「子彈的戲法」中的「附靈轉化」後，恰斯卡將獲得「命襲」狀態，在接下來的3秒內，恰斯卡下一次施放元素戰技靈韁追影中的多重瞄準時，會立即完成蓄力，並且本次多重瞄準中的追影彈和煥光追影彈的暴擊傷害提升120%。每3秒至多獲得一次「命襲」效果。\n\n上述效果需要解鎖突破天賦「子彈的戲法」。"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "彈匣，躁動的輪盤",
-                                                                        "descriptionRaw":  "觸發固有天賦「子彈的戲法」中的「附靈轉化」時，會額外使第二枚裝入彈匣的\u003ccolor=#FFD780FF\u003e追影彈\u003c/color\u003e轉化為\u003ccolor=#FFD780FF\u003e煥光追影彈\u003c/color\u003e。\n觸發「附靈轉化」的機率增加：若隊伍中存在符合元素轉化條件的元素類型角色，則觸發「附靈轉化」的機率提升33.3%，至多提升至100%。\n\n需要解鎖固有天賦「子彈的戲法」。\n此外，不處於戰鬥狀態下時，恰斯卡的夜魂加持狀態消耗的夜魂值與燃素降低30%。",
-                                                                        "description":  "觸發固有天賦「子彈的戲法」中的「附靈轉化」時，會額外使第二枚裝入彈匣的追影彈轉化為煥光追影彈。\n觸發「附靈轉化」的機率增加：若隊伍中存在符合元素轉化條件的元素類型角色，則觸發「附靈轉化」的機率提升33.3%，至多提升至100%。\n\n需要解鎖固有天賦「子彈的戲法」。\n此外，不處於戰鬥狀態下時，恰斯卡的夜魂加持狀態消耗的夜魂值與燃素降低30%。"
+                                                                        "descriptionRaw":  "觸發突破天賦「子彈的戲法」中的「附靈轉化」時，會額外使第二枚裝入彈匣的\u003ccolor=#FFD780FF\u003e追影彈\u003c/color\u003e轉化為\u003ccolor=#FFD780FF\u003e煥光追影彈\u003c/color\u003e。\n觸發「附靈轉化」的機率增加：若隊伍中存在符合元素轉化條件的元素類型角色，則觸發「附靈轉化」的機率提升33.3%，至多提升至100%。\n\n需要解鎖突破天賦「子彈的戲法」。\n此外，不處於戰鬥狀態下時，恰斯卡的夜魂加持狀態消耗的夜魂值與燃素降低30%。",
+                                                                        "description":  "觸發突破天賦「子彈的戲法」中的「附靈轉化」時，會額外使第二枚裝入彈匣的追影彈轉化為煥光追影彈。\n觸發「附靈轉化」的機率增加：若隊伍中存在符合元素轉化條件的元素類型角色，則觸發「附靈轉化」的機率提升33.3%，至多提升至100%。\n\n需要解鎖突破天賦「子彈的戲法」。\n此外，不處於戰鬥狀態下時，恰斯卡的夜魂加持狀態消耗的夜魂值與燃素降低30%。"
                                                                     }
                                                          },
                                       "elementText":  "風",
@@ -10222,6 +10374,53 @@
                                                     },
                                              "effectName":  "氣定神閒"
                                          },
+                    "reliquaryoftruth":  {
+                                             "r3":  {
+                                                        "description":  "暴擊率提升12%。施放元素戰技時，裝備者獲得「偽言之秘」效果：元素精通提升120點，持續12秒。裝備者對敵人造成月綻放反應傷害時，裝備者獲得「真識之月」效果：暴擊傷害提升36%，持續4秒。「偽言之秘」效果與「真識之月」效果同時存在時，這些效果分別提升50%。",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "120",
+                                                                       "36%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "暴擊率提升16%。施放元素戰技時，裝備者獲得「偽言之秘」效果：元素精通提升160點，持續12秒。裝備者對敵人造成月綻放反應傷害時，裝備者獲得「真識之月」效果：暴擊傷害提升48%，持續4秒。「偽言之秘」效果與「真識之月」效果同時存在時，這些效果分別提升50%。",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "160",
+                                                                       "48%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "暴擊率提升10%。施放元素戰技時，裝備者獲得「偽言之秘」效果：元素精通提升100點，持續12秒。裝備者對敵人造成月綻放反應傷害時，裝備者獲得「真識之月」效果：暴擊傷害提升30%，持續4秒。「偽言之秘」效果與「真識之月」效果同時存在時，這些效果分別提升50%。",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "100",
+                                                                       "30%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "暴擊率提升14%。施放元素戰技時，裝備者獲得「偽言之秘」效果：元素精通提升140點，持續12秒。裝備者對敵人造成月綻放反應傷害時，裝備者獲得「真識之月」效果：暴擊傷害提升42%，持續4秒。「偽言之秘」效果與「真識之月」效果同時存在時，這些效果分別提升50%。",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "140",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "暴擊傷害",
+                                             "weaponText":  "法器",
+                                             "name":  "真語秘匣",
+                                             "effectTemplateRaw":  "暴擊率提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。施放元素戰技時，裝備者獲得「偽言之秘」效果：元素精通提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e點，持續12秒。裝備者對敵人造成月綻放反應傷害時，裝備者獲得「真識之月」效果：暴擊傷害提升\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e，持續4秒。「偽言之秘」效果與「真識之月」效果同時存在時，這些效果分別提升50%。",
+                                             "r1":  {
+                                                        "description":  "暴擊率提升8%。施放元素戰技時，裝備者獲得「偽言之秘」效果：元素精通提升80點，持續12秒。裝備者對敵人造成月綻放反應傷害時，裝備者獲得「真識之月」效果：暴擊傷害提升24%，持續4秒。「偽言之秘」效果與「真識之月」效果同時存在時，這些效果分別提升50%。",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "80",
+                                                                       "24%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "偽言的真意"
+                                         },
                     "keyofkhajnisut":  {
                                            "r3":  {
                                                       "description":  "生命值提升30%。元素戰技命中敵人時，將產生持續20秒的「宏大詩篇」效果：基於裝備者生命值上限的0.18%，獲得元素精通提升，該效果每0.3秒至多觸發一次，至多疊加3層。該效果疊加至3層或3層的持續時間重置時，將基於裝備者生命值上限的0.3%，為隊伍中附近所有角色提供元素精通提升，持續20秒。",
@@ -11715,6 +11914,48 @@
                                                    },
                                             "effectName":  "鏡與煙色的隱謎"
                                         },
+                    "dawningfrost":  {
+                                         "r3":  {
+                                                    "description":  "重擊命中敵人後的10秒內，元素精通提升108點。元素戰技命中敵人後的10秒內，元素精通提升72點。",
+                                                    "values":  [
+                                                                   "108",
+                                                                   "72"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "重擊命中敵人後的10秒內，元素精通提升144點。元素戰技命中敵人後的10秒內，元素精通提升96點。",
+                                                    "values":  [
+                                                                   "144",
+                                                                   "96"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "重擊命中敵人後的10秒內，元素精通提升90點。元素戰技命中敵人後的10秒內，元素精通提升60點。",
+                                                    "values":  [
+                                                                   "90",
+                                                                   "60"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "重擊命中敵人後的10秒內，元素精通提升126點。元素戰技命中敵人後的10秒內，元素精通提升84點。",
+                                                    "values":  [
+                                                                   "126",
+                                                                   "84"
+                                                               ]
+                                                },
+                                         "substatText":  "暴擊傷害",
+                                         "weaponText":  "法器",
+                                         "name":  "霜辰",
+                                         "effectTemplateRaw":  "重擊命中敵人後的10秒內，元素精通提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e點。元素戰技命中敵人後的10秒內，元素精通提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e點。",
+                                         "r1":  {
+                                                    "description":  "重擊命中敵人後的10秒內，元素精通提升72點。元素戰技命中敵人後的10秒內，元素精通提升48點。",
+                                                    "values":  [
+                                                                   "72",
+                                                                   "48"
+                                                               ]
+                                                },
+                                         "effectName":  "深宵的胎夢"
+                                     },
                     "cinnabarspindle":  {
                                             "r3":  {
                                                        "description":  "元素戰技造成的傷害值提高，提高數值相當於防禦力的60%。該效果每1.5秒最多觸發一次，並將在元素戰技造成傷害後的0.1秒後清除效果。",
@@ -12653,6 +12894,48 @@
                                               },
                                        "effectName":  "有話直說"
                                    },
+                    "sacrificersstaff":  {
+                                             "r3":  {
+                                                        "description":  "元素戰技命中敵人後的6秒內，攻擊力提升12%，元素充能效率提升9%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "9%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "元素戰技命中敵人後的6秒內，攻擊力提升16%，元素充能效率提升12%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "12%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "元素戰技命中敵人後的6秒內，攻擊力提升10%，元素充能效率提升7.5%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "7.5%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "元素戰技命中敵人後的6秒內，攻擊力提升14%，元素充能效率提升10.5%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "10.5%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "暴擊率",
+                                             "weaponText":  "長柄武器",
+                                             "name":  "聖祭者的輝杖",
+                                             "effectTemplateRaw":  "元素戰技命中敵人後的6秒內，攻擊力提升\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e，元素充能效率提升\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+                                             "r1":  {
+                                                        "description":  "元素戰技命中敵人後的6秒內，攻擊力提升8%，元素充能效率提升6%。該效果至多疊加3層，裝備者處於隊伍後臺時依然能觸發。",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "6%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "未染的觖望"
+                                         },
                     "flowingpurity":  {
                                           "r3":  {
                                                      "description":  "施放元素戰技時，所有元素傷害加成提升12%，持續15秒，並賦予生命值上限24%的生命之契，該效果每10秒至多觸發一次。生命之契清除時，每清除1000點將會提供3%所有元素傷害加成，至多依此方式獲得18%所有元素傷害加成，持續15秒。",
@@ -17080,6 +17363,10 @@
                                                },
                     "bubblerseahorse":  {
                                             "name":  "泡泡雄海馬",
+                                            "specialname":  null
+                                        },
+                    "frostnightherra":  {
+                                            "name":  "霜夜巡天靈主",
                                             "specialname":  null
                                         },
                     "bitingcoldwayobmanifestation":  {

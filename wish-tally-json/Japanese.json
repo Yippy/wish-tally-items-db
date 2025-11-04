@@ -58,14 +58,6 @@
                                                                                "日曜"
                                                                            ]
                                                         },
-                    "domainofforgerysubmergedvalleyi":  {
-                                                            "entranceName":  "セシリアの苗床",
-                                                            "daysofweek":  [
-                                                                               "火曜",
-                                                                               "金曜",
-                                                                               "日曜"
-                                                                           ]
-                                                        },
                     "domainofmasteryfullmooni":  {
                                                      "entranceName":  "無学の塔",
                                                      "daysofweek":  [
@@ -130,6 +122,14 @@
                                                                       "日曜"
                                                                   ]
                                                },
+                    "domainofmasteryfallencityi":  {
+                                                       "entranceName":  "光なき深都",
+                                                       "daysofweek":  [
+                                                                          "月曜",
+                                                                          "木曜",
+                                                                          "日曜"
+                                                                      ]
+                                                   },
                     "domainofforgeryartisanshipi":  {
                                                         "entranceName":  "深潮の余韻",
                                                         "daysofweek":  [
@@ -194,14 +194,14 @@
                                                                                  "日曜"
                                                                              ]
                                                           },
-                    "domainofforgerysandburiali":  {
-                                                       "entranceName":  "砂流ノ庭",
-                                                       "daysofweek":  [
-                                                                          "水曜",
-                                                                          "土曜",
-                                                                          "日曜"
-                                                                      ]
-                                                   },
+                    "domainofforgerysubmergedvalleyi":  {
+                                                            "entranceName":  "セシリアの苗床",
+                                                            "daysofweek":  [
+                                                                               "火曜",
+                                                                               "金曜",
+                                                                               "日曜"
+                                                                           ]
+                                                        },
                     "domainofmasterychimingrecitationi":  {
                                                               "entranceName":  "蒼白の遺栄",
                                                               "daysofweek":  [
@@ -266,6 +266,30 @@
                                                                             "日曜"
                                                                         ]
                                                      },
+                    "domainofforgerysandburiali":  {
+                                                       "entranceName":  "砂流ノ庭",
+                                                       "daysofweek":  [
+                                                                          "水曜",
+                                                                          "土曜",
+                                                                          "日曜"
+                                                                      ]
+                                                   },
+                    "domainofforgeryprayerssungi":  {
+                                                        "entranceName":  "失われた月の庭",
+                                                        "daysofweek":  [
+                                                                           "火曜",
+                                                                           "金曜",
+                                                                           "日曜"
+                                                                       ]
+                                                    },
+                    "domainofmasteryoverturnedroosti":  {
+                                                            "entranceName":  "光なき深都",
+                                                            "daysofweek":  [
+                                                                               "水曜",
+                                                                               "土曜",
+                                                                               "日曜"
+                                                                           ]
+                                                        },
                     "domainofforgeryscryingshadowsi":  {
                                                            "entranceName":  "古の眺望台",
                                                            "daysofweek":  [
@@ -306,6 +330,14 @@
                                                                                  "日曜"
                                                                              ]
                                                           },
+                    "domainofmasteryshadowedlegacyi":  {
+                                                           "entranceName":  "光なき深都",
+                                                           "daysofweek":  [
+                                                                              "火曜",
+                                                                              "金曜",
+                                                                              "日曜"
+                                                                          ]
+                                                       },
                     "domainofmasteryadmonishingengravingi":  {
                                                                  "entranceName":  "蒼白の遺栄",
                                                                  "daysofweek":  [
@@ -314,6 +346,14 @@
                                                                                     "日曜"
                                                                                 ]
                                                              },
+                    "domainofforgeryradiantsplendori":  {
+                                                            "entranceName":  "失われた月の庭",
+                                                            "daysofweek":  [
+                                                                               "月曜",
+                                                                               "木曜",
+                                                                               "日曜"
+                                                                           ]
+                                                        },
                     "domainofforgeryattentiveobservationi":  {
                                                                  "entranceName":  "古の眺望台",
                                                                  "daysofweek":  [
@@ -324,18 +364,21 @@
                                                              }
                 },
     "materials":  {
+                      "sunsettia":  {
+                                        "name":  "夕暮れの実"
+                                    },
                       "sandbearerwood":  {
                                              "name":  "却砂材"
                                          },
-                      "cultivationareaexpansionii":  {
-                                                         "name":  "栽培エリア拡張·Ⅱ"
-                                                     },
+                      "mora":  {
+                                   "name":  "モラ"
+                               },
                       "varunadalazuritesliver":  {
                                                      "name":  "澄明なラピスラズリ·砕屑"
                                                  },
-                      "birchwood":  {
-                                        "name":  "樺材"
-                                    },
+                      "guidetofreedom":  {
+                                             "name":  "「自由」の導き"
+                                         },
                       "improvedalchemycauldronii":  {
                                                         "name":  "錬金釜改良·Ⅱ"
                                                     },
@@ -372,9 +415,9 @@
                       "ainostoolboxempty":  {
                                                 "name":  "アイノの工具箱（空）"
                                             },
-                      "sheathofthesecretsource":  {
-                                                      "name":  "秘源のシース"
-                                                  },
+                      "electroculus":  {
+                                           "name":  "失われた雷神の瞳"
+                                       },
                       "flashingmaintenancemekbait":  {
                                                          "name":  "メンテマシナリーの閃光釣り餌"
                                                      },
@@ -390,6 +433,9 @@
                       "brownshirakodai":  {
                                               "name":  "褐チョウチョウウオ"
                                           },
+                      "geoculus":  {
+                                       "name":  "失われた岩神の瞳"
+                                   },
                       "philosophiesofjustice":  {
                                                     "name":  "「正義」の哲学"
                                                 },
@@ -471,9 +517,9 @@
                       "shardofashatteredwill":  {
                                                     "name":  "砕けた意志の欠片"
                                                 },
-                      "brilliantdiamondchunk":  {
-                                                    "name":  "輝くダイヤ·塊"
-                                                },
+                      "dragonheirsfalsefin":  {
+                                                  "name":  "ドラゴエアのニセヒレ"
+                                              },
                       "yellowobsidianring":  {
                                                  "name":  "黄曜石の輪"
                                              },
@@ -486,6 +532,9 @@
                       "springofpuresacreddewdrop":  {
                                                         "name":  "純聖な雫の甘泉"
                                                     },
+                      "radiantantler":  {
+                                            "name":  "万照の輝角"
+                                        },
                       "loachpearl":  {
                                          "name":  "サンショウウオの宝玉"
                                      },
@@ -594,6 +643,9 @@
                       "brilliantdiamondsliver":  {
                                                      "name":  "輝くダイヤ·砕屑"
                                                  },
+                      "lumenspar":  {
+                                        "name":  "流明晶石"
+                                    },
                       "zaytunpeach":  {
                                           "name":  "ザイトゥン桃"
                                       },
@@ -654,6 +706,9 @@
                       "aureateradianceofthefarnorthscions":  {
                                                                  "name":  "極北の末裔の煌光"
                                                              },
+                      "pyroculus":  {
+                                        "name":  "失われた炎神の瞳"
+                                    },
                       "dakasbell":  {
                                         "name":  "空行の虚鈴"
                                     },
@@ -900,6 +955,9 @@
                       "witheringpurpurbloom":  {
                                                    "name":  "枯れ紫菖"
                                                },
+                      "lunoculus":  {
+                                        "name":  "失われた月神の瞳"
+                                    },
                       "cakefortraveler":  {
                                               "name":  "旅人へのケーキ"
                                           },
@@ -930,6 +988,9 @@
                       "shuttleofodara":  {
                                              "name":  "霊を紡ぐシャトル"
                                          },
+                      "lazuriteaxemarlin":  {
+                                                "name":  "金青ハチェットウオ"
+                                            },
                       "northlandercatalystbillet":  {
                                                         "name":  "北陸法器の原型"
                                                     },
@@ -1044,9 +1105,6 @@
                       "shivadajadesliver":  {
                                                 "name":  "哀切なアイスクリスタル·砕屑"
                                             },
-                      "guidetofreedom":  {
-                                             "name":  "「自由」の導き"
-                                         },
                       "heartofthesecretsource":  {
                                                      "name":  "秘源のコア"
                                                  },
@@ -1194,6 +1252,9 @@
                       "tourbillondevice":  {
                                                "name":  "「トゥールビヨン装置」"
                                            },
+                      "chronicleexp":  {
+                                           "name":  "遊記経験値"
+                                       },
                       "maintenancemekinitialconfiguration":  {
                                                                  "name":  "メンテマシナリー·基礎能力型"
                                                              },
@@ -1245,6 +1306,9 @@
                       "cultivationareaexpansioniv":  {
                                                          "name":  "栽培エリア拡張·Ⅳ"
                                                      },
+                      "crimsonagatedisplay":  {
+                                                  "name":  "緋紅玉髄"
+                                              },
                       "shivadajadechunk":  {
                                                "name":  "哀切なアイスクリスタル·塊"
                                            },
@@ -1350,6 +1414,9 @@
                       "teachingsofequity":  {
                                                 "name":  "「公平」の教え"
                                             },
+                      "dendroculus":  {
+                                          "name":  "失われた草神の瞳"
+                                      },
                       "guidetoconflict":  {
                                               "name":  "「紛争」の導き"
                                           },
@@ -1398,6 +1465,9 @@
                       "unfadingsilkygrace":  {
                                                  "name":  "「枯れぬ絹の花」"
                                              },
+                      "spiritcarp":  {
+                                         "name":  "蒼霊の鯉"
+                                     },
                       "ironchunk":  {
                                         "name":  "鉄の塊"
                                     },
@@ -1419,9 +1489,12 @@
                       "scorchedstarshroom":  {
                                                  "name":  "ひからびた星茸"
                                              },
-                      "sunsettia":  {
-                                        "name":  "夕暮れの実"
-                                    },
+                      "keysigil":  {
+                                       "name":  "鍵紋"
+                                   },
+                      "anemoculus":  {
+                                         "name":  "失われた風神の瞳"
+                                     },
                       "prithivatopazfragment":  {
                                                     "name":  "堅牢なトパーズ·欠片"
                                                 },
@@ -1431,6 +1504,9 @@
                       "narukamiswisdom":  {
                                               "name":  "鳴神御霊の恩恵"
                                           },
+                      "lumenstoneore":  {
+                                            "name":  "流明石の原鉱"
+                                        },
                       "dustofenlightenment":  {
                                                   "name":  "聖啓の塵"
                                               },
@@ -1455,9 +1531,9 @@
                       "empowereddragontooth":  {
                                                    "name":  "力を吸収した龍牙"
                                                },
-                      "keysigil":  {
-                                       "name":  "鍵紋"
-                                   },
+                      "chroniclesoftherealms":  {
+                                                    "name":  "千界遊記"
+                                                },
                       "goldenbranchofadistantsea":  {
                                                         "name":  "遠海夷地の金枝"
                                                     },
@@ -1624,7 +1700,7 @@
                                                            "name":  "ショップ装飾品-「花々しき士気」"
                                                        },
                       "flareoflongnightflint":  {
-                                                    "name":  "長夜の灯火の紫焔"
+                                                    "name":  "長夜の灯火の紫炎"
                                                 },
                       "bewilderingbroadleaf":  {
                                                    "name":  "誘光の広葉"
@@ -1647,6 +1723,9 @@
                       "teachingsoftransience":  {
                                                     "name":  "「浮世」の教え"
                                                 },
+                      "dandelionbookmark":  {
+                                                "name":  "蒲公英の栞"
+                                            },
                       "riftcore":  {
                                        "name":  "隙間のコア"
                                    },
@@ -1659,9 +1738,9 @@
                       "winegobletofthepristinesea":  {
                                                          "name":  "無垢な海の酒盃"
                                                      },
-                      "sugar":  {
-                                    "name":  "砂糖"
-                                },
+                      "moonchasecharm":  {
+                                             "name":  "月逐い符"
+                                         },
                       "afterglowoflongnightflint":  {
                                                         "name":  "長夜の灯火の残照"
                                                     },
@@ -1710,6 +1789,9 @@
                       "vayudaturquoisesliver":  {
                                                     "name":  "自由のターコイズ·砕屑"
                                                 },
+                      "recordedintel":  {
+                                            "name":  "記録された情報"
+                                        },
                       "concealedclaw":  {
                                             "name":  "隠獣の指爪"
                                         },
@@ -1779,6 +1861,9 @@
                       "pedunculateoakwood":  {
                                                  "name":  "サマーオーク材"
                                              },
+                      "sharparrowhead":  {
+                                             "name":  "鋭利な矢先"
+                                         },
                       "ashenaratikuwood":  {
                                                "name":  "アッシェンロリニア材"
                                            },
@@ -1812,9 +1897,9 @@
                       "greenobsidianfragment":  {
                                                     "name":  "緑曜石の欠片"
                                                 },
-                      "sharparrowhead":  {
-                                             "name":  "鋭利な矢先"
-                                         },
+                      "crimsonagate":  {
+                                           "name":  "緋紅玉髄"
+                                       },
                       "nightwindsmysticrevelation":  {
                                                          "name":  "神秘なる煙の啓示"
                                                      },
@@ -1837,7 +1922,7 @@
                                            "name":  "ケネパベリー"
                                        },
                       "blazeoflongnightflint":  {
-                                                    "name":  "長夜の灯火の輝き"
+                                                    "name":  "長夜の灯火の輝光"
                                                 },
                       "philosophiesofingenuity":  {
                                                       "name":  "「創意」の哲学"
@@ -1863,6 +1948,9 @@
                       "improvedalchemycauldroniv":  {
                                                         "name":  "錬金釜改良·Ⅳ"
                                                     },
+                      "sheathofthesecretsource":  {
+                                                      "name":  "秘源のシース"
+                                                  },
                       "glowinggem":  {
                                          "name":  "霞色の宝珠"
                                      },
@@ -2044,7 +2132,7 @@
                                                       "name":  "境土長柄武器の原型"
                                                   },
                       "artfuldeviceinheritance":  {
-                                                      "name":  "珍奇な秘器の継承"
+                                                      "name":  "奇妙な装置の継承"
                                                   },
                       "lumitoile":  {
                                         "name":  "ルエトワール"
@@ -2052,9 +2140,9 @@
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "高塔の王の砕けた夢"
                                                            },
-                      "dandelionbookmark":  {
-                                                "name":  "蒲公英の栞"
-                                            },
+                      "brilliantdiamondchunk":  {
+                                                    "name":  "輝くダイヤ·塊"
+                                                },
                       "enhancementore":  {
                                              "name":  "仕上げ用雑鉱"
                                          },
@@ -2094,9 +2182,9 @@
                       "darkstatuette":  {
                                             "name":  "黒夜の彫刻"
                                         },
-                      "dragonheirsfalsefin":  {
-                                                  "name":  "ドラゴエアのニセヒレ"
-                                              },
+                      "sugar":  {
+                                    "name":  "砂糖"
+                                },
                       "bigprettycrystal":  {
                                                "name":  "綺麗な結晶（大）"
                                            },
@@ -2118,6 +2206,9 @@
                       "scoopoftaintedwater":  {
                                                   "name":  "濁水のひとすくい"
                                               },
+                      "birchwood":  {
+                                        "name":  "樺材"
+                                    },
                       "coldcrackedshellshard":  {
                                                     "name":  "冷えた鱗甲の欠片"
                                                 },
@@ -2211,9 +2302,9 @@
                       "plumeofthechangingwinds":  {
                                                       "name":  "移風の蒼羽"
                                                   },
-                      "lazuriteaxemarlin":  {
-                                                "name":  "金青ハチェットウオ"
-                                            },
+                      "hydroculus":  {
+                                         "name":  "失われた水神の瞳"
+                                     },
                       "blazingsacrificialheartssplendor":  {
                                                                "name":  "灼心を捧げる栄光"
                                                            },
@@ -2254,7 +2345,7 @@
                                      "name":  "ニンジン"
                                  },
                       "artfuldevicereplica":  {
-                                                  "name":  "珍奇な秘器の複製"
+                                                  "name":  "奇妙な装置の複製"
                                               },
                       "midlandercatalystbillet":  {
                                                       "name":  "中央大陸法器の原型"
@@ -2436,9 +2527,9 @@
                       "waterthatfailedtotranscend":  {
                                                          "name":  "超越に至らぬ水"
                                                      },
-                      "mora":  {
-                                   "name":  "モラ"
-                               },
+                      "cultivationareaexpansionii":  {
+                                                         "name":  "栽培エリア拡張·Ⅱ"
+                                                     },
                       "precisiondriveshaft":  {
                                                   "name":  "精巧な駆動軸"
                                               },
@@ -2692,7 +2783,7 @@
                                            "name":  "残火の灯燭"
                                        },
                       "artfuldevicewish":  {
-                                               "name":  "珍奇な秘器の本願"
+                                               "name":  "奇妙な装置の宿願"
                                            },
                       "horsetail":  {
                                         "name":  "馬尾"
@@ -3135,6 +3226,16 @@
                                          "region":  "スネージナヤ",
                                          "gender":  "男"
                                      },
+                       "manekin":  {
+                                       "constellations":  null,
+                                       "elementText":  "无",
+                                       "fullname":  null,
+                                       "weaponText":  "片手剣",
+                                       "name":  "ドール（男）",
+                                       "substatText":  "攻撃力",
+                                       "region":  "",
+                                       "gender":  "男"
+                                   },
                        "charlotte":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -3955,6 +4056,16 @@
                                                 "region":  "稲妻",
                                                 "gender":  "女"
                                             },
+                       "manekina":  {
+                                        "constellations":  null,
+                                        "elementText":  "无",
+                                        "fullname":  null,
+                                        "weaponText":  "片手剣",
+                                        "name":  "ドール（女）",
+                                        "substatText":  "攻撃力",
+                                        "region":  "",
+                                        "gender":  "女"
+                                    },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -5960,8 +6071,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "「北の戒めを綴りて 伝承を語れ」",
-                                                                       "descriptionRaw":  "元素爆発\u003ccolor=#FFD780FF\u003e{LINK#S11195}聖言のルノ・月の心{/LINK}\u003c/color\u003eを以下のように強化する。\n・{LINK#N11190003}\u003ccolor=#FFD780FF\u003e「蒼の讃歌」\u003c/color\u003e{/LINK}の効果が強化される。付近にいるチーム内キャラクターが開花、超開花、烈開花反応を起こした時に与えるダメージが、ラウマの元素熟知の500%分、追加でアップする。また、付近にいるチーム内キャラクターが起こす月開花反応のダメージが、ラウマの元素熟知の400%分、追加でアップする。\n\n\u003ccolor=#FFD780FF\u003e月兆・満照\u003c/color\u003e：付近にいるチーム内キャラクターが起こす月開花反応の与えるダメージ+40%。",
-                                                                       "description":  "元素爆発**聖言のルノ・月の心**を以下のように強化する。\n・**「蒼の讃歌」**の効果が強化される。付近にいるチーム内キャラクターが開花、超開花、烈開花反応を起こした時に与えるダメージが、ラウマの元素熟知の500%分、追加でアップする。また、付近にいるチーム内キャラクターが起こす月開花反応のダメージが、ラウマの元素熟知の400%分、追加でアップする。\n\n月兆・満照：付近にいるチーム内キャラクターが起こす月開花反応の与えるダメージ+40%。"
+                                                                       "descriptionRaw":  "元素爆発\u003ccolor=#FFD780FF\u003e{LINK#S11195}聖言のルノ・月の心{/LINK}\u003c/color\u003eを以下のように強化する。\n・{LINK#N11190003}\u003ccolor=#FFD780FF\u003e「蒼の讃歌」\u003c/color\u003e{/LINK}の効果が強化される。付近にいるチーム内キャラクターが開花、超開花、烈開花反応を起こした時に与えるダメージが、ラウマの元素熟知の500%分、追加でアップする。また、付近にいるチーム内キャラクターが与える月開花反応ダメージが、ラウマの元素熟知の400%分、追加でアップする。\n\n\u003ccolor=#FFD780FF\u003e月兆・満照\u003c/color\u003e：付近にいるチーム内キャラクターが与える月開花反応ダメージ+40%。",
+                                                                       "description":  "元素爆発**聖言のルノ・月の心**を以下のように強化する。\n・**「蒼の讃歌」**の効果が強化される。付近にいるチーム内キャラクターが開花、超開花、烈開花反応を起こした時に与えるダメージが、ラウマの元素熟知の500%分、追加でアップする。また、付近にいるチーム内キャラクターが与える月開花反応ダメージが、ラウマの元素熟知の400%分、追加でアップする。\n\n月兆・満照：付近にいるチーム内キャラクターが与える月開花反応ダメージ+40%。"
                                                                    },
                                                             "c4":  {
                                                                        "name":  "「巨熊の力を 恋い慕うこと勿れ」",
@@ -6276,6 +6387,47 @@
                                      "substatText":  "会心率",
                                      "region":  "フォンテーヌ",
                                      "gender":  "男"
+                                 },
+                       "nefer":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "洞察は計略の礎",
+                                                                       "descriptionRaw":  "固有天賦{LINK#P1222101}\u003ccolor=#FFD780FF\u003e「月下の賭け」\u003c/color\u003e{/LINK}の効果を強化する。{LINK#N11220003}\u003ccolor=#FFD780FF\u003e「偽りの帳」\u003c/color\u003e{/LINK}の継続時間+5秒。さらに重ね掛け可能な上限が5層になり、{LINK#N11220002}\u003ccolor=#FFD780FF\u003e幻の戯\u003c/color\u003e{/LINK}による与ダメージが最大で元の140%分まで上がる。ネフェルは元素スキル\u003ccolor=#FFD780FF\u003e{LINK#S11222}盤術・千夜一舞{/LINK}\u003c/color\u003eを発動した時、直ちに「偽りの帳」を2層獲得する。「偽りの帳」が5層まで重ねられた時、または5層の継続時間がリセットされた時、ネフェルの元素熟知は+200となる。継続時間8秒。\n固有天賦「月下の賭け」を解放する必要がある。",
+                                                                       "description":  "固有天賦**「月下の賭け」**の効果を強化する。**「偽りの帳」**の継続時間+5秒。さらに重ね掛け可能な上限が5層になり、**幻の戯**による与ダメージが最大で元の140%分まで上がる。ネフェルは元素スキル**盤術・千夜一舞**を発動した時、直ちに「偽りの帳」を2層獲得する。「偽りの帳」が5層まで重ねられた時、または5層の継続時間がリセットされた時、ネフェルの元素熟知は+200となる。継続時間8秒。\n固有天賦「月下の賭け」を解放する必要がある。"
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "藪に堕ちる幻惑",
+                                                                       "descriptionRaw":  "ネフェルがフィールド上にいる、かつ{LINK#N11220001}\u003ccolor=#FFD780FF\u003e「影の舞」\u003c/color\u003e{/LINK}状態にある時、草露の獲得速度+25%。\nまた、ネフェルが「影の舞」状態にある時、周囲の敵の\u003ccolor=#99FF88FF\u003e草元素耐性\u003c/color\u003e-20%。この効果はネフェルが「影の舞」状態でなくなった時、あるいは敵から一定距離離れた4.5秒後に解除される。",
+                                                                       "description":  "ネフェルがフィールド上にいる、かつ**「影の舞」**状態にある時、草露の獲得速度+25%。\nまた、ネフェルが「影の舞」状態にある時、周囲の敵の草元素耐性-20%。この効果はネフェルが「影の舞」状態でなくなった時、あるいは敵から一定距離離れた4.5秒後に解除される。"
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "虚実を覆う偽り",
+                                                                       "descriptionRaw":  "元素スキル\u003ccolor=#FFD780FF\u003e{LINK#S11222}盤術・千夜一舞{/LINK}\u003c/color\u003eのスキルLv.+3。\n最大Lv.15まで。",
+                                                                       "description":  "元素スキル**盤術・千夜一舞**のスキルLv.+3。\n最大Lv.15まで。"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "勝機は刹那にあり",
+                                                                       "descriptionRaw":  "元素爆発\u003ccolor=#FFD780FF\u003e{LINK#S11225}聖約・真眼の幻戯{/LINK}\u003c/color\u003eのスキルLv.+3。\n最大Lv.15まで。",
+                                                                       "description":  "元素爆発**聖約・真眼の幻戯**のスキルLv.+3。\n最大Lv.15まで。"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "必勝は逆転にあり",
+                                                                       "descriptionRaw":  "ネフェルが{LINK#N11220002}\u003ccolor=#FFD780FF\u003e幻の戯\u003c/color\u003e{/LINK}を発動した時、自身の2段目のダメージが、ネフェルの元素熟知の85%に相当する\u003ccolor=#99FF88FF\u003e草元素範囲ダメージ\u003c/color\u003eに変わる。また、幻の戯の攻撃終了時、ネフェルの元素熟知の120%に相当する\u003ccolor=#99FF88FF\u003e草元素範囲ダメージ\u003c/color\u003eを追加で1回与える。これらのダメージはすべて、幻の戯による月開花反応ダメージと見なされる。\n\n\u003ccolor=#FFD780FF\u003e月兆・満照\u003c/color\u003e\nネフェルによる月開花反応ダメージが15%{LINK#N11190007}\u003ccolor=#FFD780FF\u003e向上\u003c/color\u003e{/LINK}する。",
+                                                                       "description":  "ネフェルが**幻の戯**を発動した時、自身の2段目のダメージが、ネフェルの元素熟知の85%に相当する草元素範囲ダメージに変わる。また、幻の戯の攻撃終了時、ネフェルの元素熟知の120%に相当する草元素範囲ダメージを追加で1回与える。これらのダメージはすべて、幻の戯による月開花反応ダメージと見なされる。\n\n月兆・満照\nネフェルによる月開花反応ダメージが15%**向上**する。"
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "策謀は成否の源",
+                                                                       "descriptionRaw":  "ネフェルの{LINK#N11220002}\u003ccolor=#FFD780FF\u003e幻の戯\u003c/color\u003e{/LINK}による月開花反応ダメージの基礎ダメージが、ネフェルの元素熟知の60%分アップする。この効果は、{LINK#N11220003}\u003ccolor=#FFD780FF\u003e「偽りの帳」\u003c/color\u003e{/LINK}の強化効果と合わせて計算される。",
+                                                                       "description":  "ネフェルの**幻の戯**による月開花反応ダメージの基礎ダメージが、ネフェルの元素熟知の60%分アップする。この効果は、**「偽りの帳」**の強化効果と合わせて計算される。"
+                                                                   }
+                                                        },
+                                     "elementText":  "草",
+                                     "fullname":  null,
+                                     "weaponText":  "法器",
+                                     "name":  "ネフェル",
+                                     "substatText":  "会心ダメージ",
+                                     "region":  "ナド・クライ",
+                                     "gender":  "女"
                                  },
                        "aloy":  {
                                     "constellations":  {
@@ -7104,8 +7256,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "正覚善見の根",
-                                                                        "descriptionRaw":  "ナヒーダ自身が付与した\u003ccolor=#FFD780FF\u003e蘊種印\u003c/color\u003e状態にある敵は、下記の効果を受ける。\n・燃焼、開花、超開花、烈開花反応によるダメージを受けると、一定の確率で会心が発生する。なお会心率は20%、会心ダメージは100%に固定される。この会心発生効果は、元素反応で会心を発生させる他の同種の効果と重ね掛け可能。\n・原激化、超激化、または草激化反応を受けた後の8秒間、防御力-30%。\n・受ける月開花反応によるダメージの会心率+10%、会心ダメージ+20%。",
-                                                                        "description":  "ナヒーダ自身が付与した蘊種印状態にある敵は、下記の効果を受ける。\n・燃焼、開花、超開花、烈開花反応によるダメージを受けると、一定の確率で会心が発生する。なお会心率は20%、会心ダメージは100%に固定される。この会心発生効果は、元素反応で会心を発生させる他の同種の効果と重ね掛け可能。\n・原激化、超激化、または草激化反応を受けた後の8秒間、防御力-30%。\n・受ける月開花反応によるダメージの会心率+10%、会心ダメージ+20%。"
+                                                                        "descriptionRaw":  "ナヒーダ自身が付与した\u003ccolor=#FFD780FF\u003e蘊種印\u003c/color\u003e状態にある敵は、下記の効果を受ける。\n・燃焼、開花、超開花、烈開花反応によるダメージを受けると、一定の確率で会心が発生する。なお会心率は20%、会心ダメージは100%に固定される。この効果による会心率は、元素反応で会心を発生させる他の同種の効果と重ね掛け可能。\n・原激化、超激化、または草激化反応を受けた後の8秒間、防御力-30%。\n・受ける月開花反応によるダメージの会心率+10%、会心ダメージ+20%。",
+                                                                        "description":  "ナヒーダ自身が付与した蘊種印状態にある敵は、下記の効果を受ける。\n・燃焼、開花、超開花、烈開花反応によるダメージを受けると、一定の確率で会心が発生する。なお会心率は20%、会心ダメージは100%に固定される。この効果による会心率は、元素反応で会心を発生させる他の同種の効果と重ね掛け可能。\n・原激化、超激化、または草激化反応を受けた後の8秒間、防御力-30%。\n・受ける月開花反応によるダメージの会心率+10%、会心ダメージ+20%。"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "比量現行の茎",
@@ -10253,6 +10405,53 @@
                                                     },
                                              "effectName":  "落ち着き"
                                          },
+                    "reliquaryoftruth":  {
+                                             "r3":  {
+                                                        "description":  "会心率+12%。元素スキルを発動する時、装備者は「嘘の秘密」効果を獲得する。元素熟知+120、継続時間12秒。装備者が敵に月開花反応ダメージを与えた時、装備者は「真実の月」効果を獲得する。会心ダメージ+36%、継続時間4秒。「嘘の秘密」効果と「真実の月」効果が同時に発動している場合、これら2つの効果が50%ずつアップする。",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "120",
+                                                                       "36%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "会心率+16%。元素スキルを発動する時、装備者は「嘘の秘密」効果を獲得する。元素熟知+160、継続時間12秒。装備者が敵に月開花反応ダメージを与えた時、装備者は「真実の月」効果を獲得する。会心ダメージ+48%、継続時間4秒。「嘘の秘密」効果と「真実の月」効果が同時に発動している場合、これら2つの効果が50%ずつアップする。",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "160",
+                                                                       "48%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "会心率+10%。元素スキルを発動する時、装備者は「嘘の秘密」効果を獲得する。元素熟知+100、継続時間12秒。装備者が敵に月開花反応ダメージを与えた時、装備者は「真実の月」効果を獲得する。会心ダメージ+30%、継続時間4秒。「嘘の秘密」効果と「真実の月」効果が同時に発動している場合、これら2つの効果が50%ずつアップする。",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "100",
+                                                                       "30%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "会心率+14%。元素スキルを発動する時、装備者は「嘘の秘密」効果を獲得する。元素熟知+140、継続時間12秒。装備者が敵に月開花反応ダメージを与えた時、装備者は「真実の月」効果を獲得する。会心ダメージ+42%、継続時間4秒。「嘘の秘密」効果と「真実の月」効果が同時に発動している場合、これら2つの効果が50%ずつアップする。",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "140",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "会心ダメージ",
+                                             "weaponText":  "法器",
+                                             "name":  "真言の匣",
+                                             "effectTemplateRaw":  "会心率+\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。元素スキルを発動する時、装備者は「嘘の秘密」効果を獲得する。元素熟知+\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e、継続時間12秒。装備者が敵に月開花反応ダメージを与えた時、装備者は「真実の月」効果を獲得する。会心ダメージ+\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e、継続時間4秒。「嘘の秘密」効果と「真実の月」効果が同時に発動している場合、これら2つの効果が50%ずつアップする。",
+                                             "r1":  {
+                                                        "description":  "会心率+8%。元素スキルを発動する時、装備者は「嘘の秘密」効果を獲得する。元素熟知+80、継続時間12秒。装備者が敵に月開花反応ダメージを与えた時、装備者は「真実の月」効果を獲得する。会心ダメージ+24%、継続時間4秒。「嘘の秘密」効果と「真実の月」効果が同時に発動している場合、これら2つの効果が50%ずつアップする。",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "80",
+                                                                       "24%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "嘘の真意"
+                                         },
                     "keyofkhajnisut":  {
                                            "r3":  {
                                                       "description":  "HP+30%。元素スキルが敵に命中すると、継続時間20秒の「壮大な詩篇」効果が発動する。「壮大な詩篇」：装備したキャラクターのHP上限の0.18%を基準に元素熟知がアップする、この効果は0.3秒ごとに1回のみ発動でき、最大3層まで重ね掛け可能。3層まで重ねた時、または3層の継続時間がリセットされた時、装備したキャラクターのHP上限の0.3%を基準に、周囲にいるチーム全員の元素熟知がアップする、継続時間20秒。",
@@ -11746,6 +11945,48 @@
                                                    },
                                             "effectName":  "鏡と煙色の謎"
                                         },
+                    "dawningfrost":  {
+                                         "r3":  {
+                                                    "description":  "重撃が敵に命中した後の10秒間、元素熟知+108。元素スキルが敵に命中した後の10秒間、元素熟知+72。",
+                                                    "values":  [
+                                                                   "108",
+                                                                   "72"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "重撃が敵に命中した後の10秒間、元素熟知+144。元素スキルが敵に命中した後の10秒間、元素熟知+96。",
+                                                    "values":  [
+                                                                   "144",
+                                                                   "96"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "重撃が敵に命中した後の10秒間、元素熟知+90。元素スキルが敵に命中した後の10秒間、元素熟知+60。",
+                                                    "values":  [
+                                                                   "90",
+                                                                   "60"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "重撃が敵に命中した後の10秒間、元素熟知+126。元素スキルが敵に命中した後の10秒間、元素熟知+84。",
+                                                    "values":  [
+                                                                   "126",
+                                                                   "84"
+                                                               ]
+                                                },
+                                         "substatText":  "会心ダメージ",
+                                         "weaponText":  "法器",
+                                         "name":  "霜辰",
+                                         "effectTemplateRaw":  "重撃が敵に命中した後の10秒間、元素熟知+\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e。元素スキルが敵に命中した後の10秒間、元素熟知+\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。",
+                                         "r1":  {
+                                                    "description":  "重撃が敵に命中した後の10秒間、元素熟知+72。元素スキルが敵に命中した後の10秒間、元素熟知+48。",
+                                                    "values":  [
+                                                                   "72",
+                                                                   "48"
+                                                               ]
+                                                },
+                                         "effectName":  "胎動の夢"
+                                     },
                     "cinnabarspindle":  {
                                             "r3":  {
                                                        "description":  "元素スキルダメージが防御力60%分アップする。この効果は1.5秒毎に1回のみ発動可能で、元素スキルがダメージを与えた0.1秒後にクリアされる。",
@@ -12684,6 +12925,48 @@
                                               },
                                        "effectName":  "率直に話を言え"
                                    },
+                    "sacrificersstaff":  {
+                                             "r3":  {
+                                                        "description":  "元素スキルが敵に命中した後の6秒間、攻撃力+12%、元素チャージ効率+9%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "9%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "元素スキルが敵に命中した後の6秒間、攻撃力+16%、元素チャージ効率+12%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "12%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "元素スキルが敵に命中した後の6秒間、攻撃力+10%、元素チャージ効率+7.5%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "7.5%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "元素スキルが敵に命中した後の6秒間、攻撃力+14%、元素チャージ効率+10.5%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "10.5%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "会心率",
+                                             "weaponText":  "長柄武器",
+                                             "name":  "聖祭者の輝杖",
+                                             "effectTemplateRaw":  "元素スキルが敵に命中した後の6秒間、攻撃力+\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e、元素チャージ効率+\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                                             "r1":  {
+                                                        "description":  "元素スキルが敵に命中した後の6秒間、攻撃力+8%、元素チャージ効率+6%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "6%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "染まらぬ渇望"
+                                         },
                     "flowingpurity":  {
                                           "r3":  {
                                                      "description":  "元素スキルを発動する時、全元素ダメージ+12%、継続時間15秒。さらに、HP上限の24%を基に命の契約を付与し、この効果は10秒毎に1回のみ発動可能。命の契約が解除された時、クリアされた数値1000ごとに全元素ダメージ+3%。この方法でアップできる全元素ダメージは最大18%まで、継続時間15秒。",
@@ -16074,7 +16357,7 @@
                                                            "specialname":  null
                                                        },
                     "forcerecongroundeffectlandcruiser":  {
-                                                              "name":  "陸巡艇・偵察地面効果型",
+                                                              "name":  "陸巡艇・偵察ホバー型",
                                                               "specialname":  null
                                                           },
                     "ruindrakeskywatch":  {
@@ -16914,7 +17197,7 @@
                                                              "specialname":  null
                                                          },
                     "cuttingedgefiresupportgroundeffectlandcruiser":  {
-                                                                          "name":  "陸巡艇・火力地面効果型",
+                                                                          "name":  "陸巡艇・最新火力ホバー型",
                                                                           "specialname":  null
                                                                       },
                     "iceshieldhilichurlguard":  {
@@ -17111,6 +17394,10 @@
                                                },
                     "bubblerseahorse":  {
                                             "name":  "アワアワタツノコ·オス",
+                                            "specialname":  null
+                                        },
+                    "frostnightherra":  {
+                                            "name":  "霜夜の空を巡る霊主",
                                             "specialname":  null
                                         },
                     "bitingcoldwayobmanifestation":  {

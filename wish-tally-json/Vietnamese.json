@@ -27,14 +27,6 @@
                                                                                "Chủ Nhật"
                                                                            ]
                                                         },
-                    "domainofforgerysubmergedvalleyi":  {
-                                                            "entranceName":  "Vườn Hoa Cecilia",
-                                                            "daysofweek":  [
-                                                                               "Thứ 3",
-                                                                               "Thứ 6",
-                                                                               "Chủ Nhật"
-                                                                           ]
-                                                        },
                     "domainofmasteryfullmooni":  {
                                                      "entranceName":  "Tháp Hôn Thức",
                                                      "daysofweek":  [
@@ -99,6 +91,14 @@
                                                                       "Chủ Nhật"
                                                                   ]
                                                },
+                    "domainofmasteryfallencityi":  {
+                                                       "entranceName":  "Thành Phố Không Ánh Sáng",
+                                                       "daysofweek":  [
+                                                                          "Thứ 2",
+                                                                          "Thứ 5",
+                                                                          "Chủ Nhật"
+                                                                      ]
+                                                   },
                     "domainofforgeryartisanshipi":  {
                                                         "entranceName":  "Dư Âm Thủy Triều",
                                                         "daysofweek":  [
@@ -163,14 +163,14 @@
                                                                                  "Chủ Nhật"
                                                                              ]
                                                           },
-                    "domainofforgerysandburiali":  {
-                                                       "entranceName":  "Sân Vườn Sunagare",
-                                                       "daysofweek":  [
-                                                                          "Thứ 4",
-                                                                          "Thứ 7",
-                                                                          "Chủ Nhật"
-                                                                      ]
-                                                   },
+                    "domainofforgerysubmergedvalleyi":  {
+                                                            "entranceName":  "Vườn Hoa Cecilia",
+                                                            "daysofweek":  [
+                                                                               "Thứ 3",
+                                                                               "Thứ 6",
+                                                                               "Chủ Nhật"
+                                                                           ]
+                                                        },
                     "domainofmasterychimingrecitationi":  {
                                                               "entranceName":  "Vinh Quang Nhợt Nhạt",
                                                               "daysofweek":  [
@@ -235,6 +235,30 @@
                                                                             "Chủ Nhật"
                                                                         ]
                                                      },
+                    "domainofforgerysandburiali":  {
+                                                       "entranceName":  "Sân Vườn Sunagare",
+                                                       "daysofweek":  [
+                                                                          "Thứ 4",
+                                                                          "Thứ 7",
+                                                                          "Chủ Nhật"
+                                                                      ]
+                                                   },
+                    "domainofforgeryprayerssungi":  {
+                                                        "entranceName":  "Vườn Trăng Thất Lạc",
+                                                        "daysofweek":  [
+                                                                           "Thứ 3",
+                                                                           "Thứ 6",
+                                                                           "Chủ Nhật"
+                                                                       ]
+                                                    },
+                    "domainofmasteryoverturnedroosti":  {
+                                                            "entranceName":  "Thành Phố Không Ánh Sáng",
+                                                            "daysofweek":  [
+                                                                               "Thứ 4",
+                                                                               "Thứ 7",
+                                                                               "Chủ Nhật"
+                                                                           ]
+                                                        },
                     "domainofforgeryscryingshadowsi":  {
                                                            "entranceName":  "Trạm Quan Sát Viễn Cổ",
                                                            "daysofweek":  [
@@ -275,6 +299,14 @@
                                                                                  "Chủ Nhật"
                                                                              ]
                                                           },
+                    "domainofmasteryshadowedlegacyi":  {
+                                                           "entranceName":  "Thành Phố Không Ánh Sáng",
+                                                           "daysofweek":  [
+                                                                              "Thứ 3",
+                                                                              "Thứ 6",
+                                                                              "Chủ Nhật"
+                                                                          ]
+                                                       },
                     "domainofmasteryadmonishingengravingi":  {
                                                                  "entranceName":  "Vinh Quang Nhợt Nhạt",
                                                                  "daysofweek":  [
@@ -283,6 +315,14 @@
                                                                                     "Chủ Nhật"
                                                                                 ]
                                                              },
+                    "domainofforgeryradiantsplendori":  {
+                                                            "entranceName":  "Vườn Trăng Thất Lạc",
+                                                            "daysofweek":  [
+                                                                               "Thứ 2",
+                                                                               "Thứ 5",
+                                                                               "Chủ Nhật"
+                                                                           ]
+                                                        },
                     "domainofforgeryattentiveobservationi":  {
                                                                  "entranceName":  "Trạm Quan Sát Viễn Cổ",
                                                                  "daysofweek":  [
@@ -293,18 +333,21 @@
                                                              }
                 },
     "materials":  {
+                      "sunsettia":  {
+                                        "name":  "Quả Nhật Lạc"
+                                    },
                       "sandbearerwood":  {
                                              "name":  "Gỗ Khước Sa"
                                          },
-                      "cultivationareaexpansionii":  {
-                                                         "name":  "Mở Rộng Canh Tác II"
-                                                     },
+                      "mora":  {
+                                   "name":  "Mora"
+                               },
                       "varunadalazuritesliver":  {
                                                      "name":  "Vụn Thanh Kim Sạch"
                                                  },
-                      "birchwood":  {
-                                        "name":  "Gỗ Hoa"
-                                    },
+                      "guidetofreedom":  {
+                                             "name":  "Hướng Dẫn Của \"Tự Do\""
+                                         },
                       "improvedalchemycauldronii":  {
                                                         "name":  "Cải Tiến Nồi Giả Kim II"
                                                     },
@@ -341,9 +384,9 @@
                       "ainostoolboxempty":  {
                                                 "name":  "Hộp Dụng Cụ Của Aino (Trống)"
                                             },
-                      "sheathofthesecretsource":  {
-                                                      "name":  "Vỏ Máy Bí Ẩn"
-                                                  },
+                      "electroculus":  {
+                                           "name":  "Lôi Thần Đồng"
+                                       },
                       "flashingmaintenancemekbait":  {
                                                          "name":  "Mồi Nhử Robot Bảo Trì"
                                                      },
@@ -359,6 +402,9 @@
                       "brownshirakodai":  {
                                               "name":  "Cá Bướm Vân Đất"
                                           },
+                      "geoculus":  {
+                                       "name":  "Nham Thần Đồng"
+                                   },
                       "philosophiesofjustice":  {
                                                     "name":  "Triết Học Của \"Chính Nghĩa\""
                                                 },
@@ -440,9 +486,9 @@
                       "shardofashatteredwill":  {
                                                     "name":  "Mảnh Ý Chí Vụn Vỡ"
                                                 },
-                      "brilliantdiamondchunk":  {
-                                                    "name":  "Miếng Kim Cương Bạc"
-                                                },
+                      "dragonheirsfalsefin":  {
+                                                  "name":  "Vảy Giả Tộc Rồng"
+                                              },
                       "yellowobsidianring":  {
                                                  "name":  "Vòng Đá Obsidian Ánh Vàng"
                                              },
@@ -455,6 +501,9 @@
                       "springofpuresacreddewdrop":  {
                                                         "name":  "Dòng Suối Giọt Sương Thánh Thuần"
                                                     },
+                      "radiantantler":  {
+                                            "name":  "Sừng Sáng Lấp Lánh"
+                                        },
                       "loachpearl":  {
                                          "name":  "Bảo ngọc cá chạch"
                                      },
@@ -563,6 +612,9 @@
                       "brilliantdiamondsliver":  {
                                                      "name":  "Vụn Kim Cương Bạc"
                                                  },
+                      "lumenspar":  {
+                                        "name":  "Lưu Minh Tinh Thạch"
+                                    },
                       "zaytunpeach":  {
                                           "name":  "Đào Zaytun"
                                       },
@@ -623,6 +675,9 @@
                       "aureateradianceofthefarnorthscions":  {
                                                                  "name":  "Hào Quang Của Hậu Duệ Cực Bắc"
                                                              },
+                      "pyroculus":  {
+                                        "name":  "Hỏa Thần Đồng"
+                                    },
                       "dakasbell":  {
                                         "name":  "Chuông Daka"
                                     },
@@ -869,6 +924,9 @@
                       "witheringpurpurbloom":  {
                                                    "name":  "Lá Khô Tử Anh"
                                                },
+                      "lunoculus":  {
+                                        "name":  "Nguyệt Thần Đồng"
+                                    },
                       "cakefortraveler":  {
                                               "name":  "Bánh kem tặng cho Nhà Lữ Hành"
                                           },
@@ -899,6 +957,9 @@
                       "shuttleofodara":  {
                                              "name":  "Con Thoi Odara"
                                          },
+                      "lazuriteaxemarlin":  {
+                                                "name":  "Cá Rìu Lam Ngọc"
+                                            },
                       "northlandercatalystbillet":  {
                                                         "name":  "Phôi Pháp Khí Bắc Lục"
                                                     },
@@ -1013,9 +1074,6 @@
                       "shivadajadesliver":  {
                                                 "name":  "Mảnh Ngọc Băng Vụn"
                                             },
-                      "guidetofreedom":  {
-                                             "name":  "Hướng Dẫn Của \"Tự Do\""
-                                         },
                       "heartofthesecretsource":  {
                                                      "name":  "Lõi Bí Ẩn"
                                                  },
@@ -1163,6 +1221,9 @@
                       "tourbillondevice":  {
                                                "name":  "\"Thiết Bị Tourbillon\""
                                            },
+                      "chronicleexp":  {
+                                           "name":  "EXP Sử Ký"
+                                       },
                       "maintenancemekinitialconfiguration":  {
                                                                  "name":  "Robot Bảo Trì - Chức Năng Cơ Bản"
                                                              },
@@ -1214,6 +1275,9 @@
                       "cultivationareaexpansioniv":  {
                                                          "name":  "Mở Rộng Canh Tác IV"
                                                      },
+                      "crimsonagatedisplay":  {
+                                                  "name":  "Mã Não Đỏ Thẫm (biểu hiện)"
+                                              },
                       "shivadajadechunk":  {
                                                "name":  "Miếng Ngọc Băng"
                                            },
@@ -1319,6 +1383,9 @@
                       "teachingsofequity":  {
                                                 "name":  "Bài Giảng Của \"Công Bằng\""
                                             },
+                      "dendroculus":  {
+                                          "name":  "Thảo Thần Đồng"
+                                      },
                       "guidetoconflict":  {
                                               "name":  "Hướng Dẫn Của \"Xung Đột\""
                                           },
@@ -1367,6 +1434,9 @@
                       "unfadingsilkygrace":  {
                                                  "name":  "Hoa Nở Không Tàn"
                                              },
+                      "spiritcarp":  {
+                                         "name":  "Cá Chép Thương Linh"
+                                     },
                       "ironchunk":  {
                                         "name":  "Mảnh Sắt"
                                     },
@@ -1388,9 +1458,12 @@
                       "scorchedstarshroom":  {
                                                  "name":  "Nấm Sao Cháy Khô"
                                              },
-                      "sunsettia":  {
-                                        "name":  "Quả Nhật Lạc"
-                                    },
+                      "keysigil":  {
+                                       "name":  "Ấn Khóa"
+                                   },
+                      "anemoculus":  {
+                                         "name":  "Phong Thần Đồng"
+                                     },
                       "prithivatopazfragment":  {
                                                     "name":  "Mảnh Hoàng Ngọc Cứng"
                                                 },
@@ -1400,6 +1473,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Trí Tuệ Của Narukami"
                                           },
+                      "lumenstoneore":  {
+                                            "name":  "Quặng Lưu Minh"
+                                        },
                       "dustofenlightenment":  {
                                                   "name":  "Bụi Khai Sáng"
                                               },
@@ -1424,9 +1500,9 @@
                       "empowereddragontooth":  {
                                                    "name":  "Răng Rồng Hấp Thụ Sức Mạnh"
                                                },
-                      "keysigil":  {
-                                       "name":  "Ấn Khóa"
-                                   },
+                      "chroniclesoftherealms":  {
+                                                    "name":  "Sử Ký Vượt Muôn Cõi"
+                                                },
                       "goldenbranchofadistantsea":  {
                                                         "name":  "Nhánh Vàng Của Biển Xa"
                                                     },
@@ -1616,6 +1692,9 @@
                       "teachingsoftransience":  {
                                                     "name":  "Bài Giảng Của \"Phù Thế\""
                                                 },
+                      "dandelionbookmark":  {
+                                                "name":  "Kẹp Sách Bồ Công Anh"
+                                            },
                       "riftcore":  {
                                        "name":  "Hạt Nhân Khe Nứt"
                                    },
@@ -1628,9 +1707,9 @@
                       "winegobletofthepristinesea":  {
                                                          "name":  "Ly Rượu Của Biển Nguyên Sơ"
                                                      },
-                      "sugar":  {
-                                    "name":  "Đường"
-                                },
+                      "moonchasecharm":  {
+                                             "name":  "Bùa Trục Nguyệt"
+                                         },
                       "afterglowoflongnightflint":  {
                                                         "name":  "Tàn Ảnh Ngọn Lửa Đêm Dài"
                                                     },
@@ -1679,6 +1758,9 @@
                       "vayudaturquoisesliver":  {
                                                     "name":  "Vụn Tùng Thạch Tự Tại"
                                                 },
+                      "recordedintel":  {
+                                            "name":  "Tình Báo Được Ghi Lại"
+                                        },
                       "concealedclaw":  {
                                             "name":  "Móng Vuốt Ma Thú"
                                         },
@@ -1748,6 +1830,9 @@
                       "pedunculateoakwood":  {
                                                  "name":  "Gỗ Sồi Hè"
                                              },
+                      "sharparrowhead":  {
+                                             "name":  "Mũi Tên Sắc Bén"
+                                         },
                       "ashenaratikuwood":  {
                                                "name":  "Gỗ Aratiku Xám"
                                            },
@@ -1781,9 +1866,9 @@
                       "greenobsidianfragment":  {
                                                     "name":  "Mảnh Đá Obsidian Xanh Lá"
                                                 },
-                      "sharparrowhead":  {
-                                             "name":  "Mũi Tên Sắc Bén"
-                                         },
+                      "crimsonagate":  {
+                                           "name":  "Mã Não Đỏ Thẫm"
+                                       },
                       "nightwindsmysticrevelation":  {
                                                          "name":  "Giác Ngộ Của Làn Khói Thần Bí"
                                                      },
@@ -1832,6 +1917,9 @@
                       "improvedalchemycauldroniv":  {
                                                         "name":  "Cải Tiến Nồi Giả Kim IV"
                                                     },
+                      "sheathofthesecretsource":  {
+                                                      "name":  "Vỏ Máy Bí Ẩn"
+                                                  },
                       "glowinggem":  {
                                          "name":  "Bảo Châu Hoàng Hôn"
                                      },
@@ -2021,9 +2109,9 @@
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Mảnh Giấc Mơ Tháp Cô Vương"
                                                            },
-                      "dandelionbookmark":  {
-                                                "name":  "Kẹp Sách Bồ Công Anh"
-                                            },
+                      "brilliantdiamondchunk":  {
+                                                    "name":  "Miếng Kim Cương Bạc"
+                                                },
                       "enhancementore":  {
                                              "name":  "Tạp Khoáng Tinh Đúc"
                                          },
@@ -2063,9 +2151,9 @@
                       "darkstatuette":  {
                                             "name":  "Tượng Bóng Đêm"
                                         },
-                      "dragonheirsfalsefin":  {
-                                                  "name":  "Vảy Giả Tộc Rồng"
-                                              },
+                      "sugar":  {
+                                    "name":  "Đường"
+                                },
                       "bigprettycrystal":  {
                                                "name":  "Kết Tinh Lớn Xinh Xắn"
                                            },
@@ -2087,6 +2175,9 @@
                       "scoopoftaintedwater":  {
                                                   "name":  "Bình Nước Đục"
                                               },
+                      "birchwood":  {
+                                        "name":  "Gỗ Hoa"
+                                    },
                       "coldcrackedshellshard":  {
                                                     "name":  "Mảnh Vỏ Lạnh Nứt"
                                                 },
@@ -2180,9 +2271,9 @@
                       "plumeofthechangingwinds":  {
                                                       "name":  "Lông Vũ Chuyển Gió"
                                                   },
-                      "lazuriteaxemarlin":  {
-                                                "name":  "Cá Rìu Lam Ngọc"
-                                            },
+                      "hydroculus":  {
+                                         "name":  "Thủy Thần Đồng"
+                                     },
                       "blazingsacrificialheartssplendor":  {
                                                                "name":  "Sự Vinh Dự Của Trái Tim Hiến Tế"
                                                            },
@@ -2405,9 +2496,9 @@
                       "waterthatfailedtotranscend":  {
                                                          "name":  "Nước Chưa Đạt Mức Siêu Việt"
                                                      },
-                      "mora":  {
-                                   "name":  "Mora"
-                               },
+                      "cultivationareaexpansionii":  {
+                                                         "name":  "Mở Rộng Canh Tác II"
+                                                     },
                       "precisiondriveshaft":  {
                                                   "name":  "Trục Quay Tinh Chế"
                                               },
@@ -3104,6 +3195,16 @@
                                          "region":  "Snezhnaya",
                                          "gender":  "nam"
                                      },
+                       "manekin":  {
+                                       "constellations":  null,
+                                       "elementText":  "Không",
+                                       "fullname":  null,
+                                       "weaponText":  "Kiếm Đơn",
+                                       "name":  "Người Mẫu Nam",
+                                       "substatText":  "Tấn Công",
+                                       "region":  "",
+                                       "gender":  "nam"
+                                   },
                        "charlotte":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -3523,8 +3624,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Lưu Đoạn",
-                                                                       "descriptionRaw":  "Hiệu quả của thiên phú cố định {LINK#N11130008}\u003ccolor=#FFD780FF\u003eVề Với Quên Lãng\u003c/color\u003e{/LINK} được cường hóa: Mỗi tầng hiệu quả Vượt Qua Chết Chóc sẽ còn khiến Tấn Công của Skirk tăng 10%/20%/40%.\nCần mở khóa thiên phú cố định \"Về Với Quên Lãng\".",
-                                                                       "description":  "Hiệu quả của thiên phú cố định **Về Với Quên Lãng** được cường hóa: Mỗi tầng hiệu quả Vượt Qua Chết Chóc sẽ còn khiến Tấn Công của Skirk tăng 10%/20%/40%.\nCần mở khóa thiên phú cố định \"Về Với Quên Lãng\"."
+                                                                       "descriptionRaw":  "Hiệu quả của thiên phú đột phá {LINK#N11130008}\u003ccolor=#FFD780FF\u003eVề Với Quên Lãng\u003c/color\u003e{/LINK} được cường hóa: Mỗi tầng hiệu quả Vượt Qua Chết Chóc sẽ còn khiến Tấn Công của Skirk tăng 10%/20%/40%.\nCần mở khóa thiên phú đột phá \"Về Với Quên Lãng\".",
+                                                                       "description":  "Hiệu quả của thiên phú đột phá **Về Với Quên Lãng** được cường hóa: Mỗi tầng hiệu quả Vượt Qua Chết Chóc sẽ còn khiến Tấn Công của Skirk tăng 10%/20%/40%.\nCần mở khóa thiên phú đột phá \"Về Với Quên Lãng\"."
                                                                    },
                                                             "c3":  {
                                                                        "name":  "Tội Duyên",
@@ -3538,13 +3639,13 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "Chí Nguyên",
-                                                                       "descriptionRaw":  "Skirk mỗi hấp thụ một Vết Nứt Hư Không từ hiệu quả của thiên phú cố định {LINK#N11130007}\u003ccolor=#FFD780FF\u003eLý Luận Vượt Nguyên Lý\u003c/color\u003e{/LINK}, sẽ nhận được 1 tầng hiệu quả Cực Ác Kỹ - Trảm. Skirk có thể tiêu hao hiệu quả này để hỗ trợ tấn công và giảm sát thương phải chịu trong chế độ {LINK#N11130006}\u003ccolor=#FFD780FF\u003eThất Tướng Nhất Thiểm\u003c/color\u003e{/LINK}. Hiệu quả này duy trì 15s, tối đa cộng dồn 3 tầng, mỗi tầng tính giờ riêng.\nCần mở khóa thiên phú cố định \"Lý Luận Vượt Nguyên Lý\".\n\n\u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e\n·Khi thi triển Kỹ Năng Nộ \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Diệt\u003c/color\u003e, sẽ tiêu hao toàn bộ số tầng \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e để hỗ trợ tấn công, mỗi tầng \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e sẽ gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e tương đương 750% Tấn Công của Skirk, sát thương này được tính là sát thương Kỹ Năng Nộ.\n·Khi Skirk thực hiện Tấn Công Thường đòn thứ 3 hoặc 5 trong chế độ Thất Tướng Nhất Thiểm trúng kẻ địch, sẽ tiêu hao 1 tầng \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e để tiến hành 3 lần hỗ trợ tấn công, mỗi lần hỗ trợ tấn công gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e tương đương 180% Tấn Công của Skirk, sát thương này được tính là sát thương Tấn Công Thường.\n·Khi Skirk chịu sát thương trong chế độ Thất Tướng Nhất Thiểm, sẽ tiêu hao 1 tầng \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e, khiến sát thương phải chịu lần này giảm 80%, đồng thời tấn công kẻ địch ở gần 3 lần, mỗi lần gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e tương đương 180% Tấn Công của Skirk. Sát thương này được tính là sát thương Trọng Kích.",
-                                                                       "description":  "Skirk mỗi hấp thụ một Vết Nứt Hư Không từ hiệu quả của thiên phú cố định **Lý Luận Vượt Nguyên Lý**, sẽ nhận được 1 tầng hiệu quả Cực Ác Kỹ - Trảm. Skirk có thể tiêu hao hiệu quả này để hỗ trợ tấn công và giảm sát thương phải chịu trong chế độ **Thất Tướng Nhất Thiểm**. Hiệu quả này duy trì 15s, tối đa cộng dồn 3 tầng, mỗi tầng tính giờ riêng.\nCần mở khóa thiên phú cố định \"Lý Luận Vượt Nguyên Lý\".\n\nCực Ác Kỹ - Trảm\n·Khi thi triển Kỹ Năng Nộ Cực Ác Kỹ - Diệt, sẽ tiêu hao toàn bộ số tầng Cực Ác Kỹ - Trảm để hỗ trợ tấn công, mỗi tầng Cực Ác Kỹ - Trảm sẽ gây Sát Thương Nguyên Tố Băng tương đương 750% Tấn Công của Skirk, sát thương này được tính là sát thương Kỹ Năng Nộ.\n·Khi Skirk thực hiện Tấn Công Thường đòn thứ 3 hoặc 5 trong chế độ Thất Tướng Nhất Thiểm trúng kẻ địch, sẽ tiêu hao 1 tầng Cực Ác Kỹ - Trảm để tiến hành 3 lần hỗ trợ tấn công, mỗi lần hỗ trợ tấn công gây Sát Thương Nguyên Tố Băng tương đương 180% Tấn Công của Skirk, sát thương này được tính là sát thương Tấn Công Thường.\n·Khi Skirk chịu sát thương trong chế độ Thất Tướng Nhất Thiểm, sẽ tiêu hao 1 tầng Cực Ác Kỹ - Trảm, khiến sát thương phải chịu lần này giảm 80%, đồng thời tấn công kẻ địch ở gần 3 lần, mỗi lần gây Sát Thương Nguyên Tố Băng tương đương 180% Tấn Công của Skirk. Sát thương này được tính là sát thương Trọng Kích."
+                                                                       "descriptionRaw":  "Skirk mỗi hấp thụ một Vết Nứt Hư Không từ hiệu quả của thiên phú đột phá {LINK#N11130007}\u003ccolor=#FFD780FF\u003eLý Luận Vượt Nguyên Lý\u003c/color\u003e{/LINK}, sẽ nhận được 1 tầng hiệu quả Cực Ác Kỹ - Trảm. Skirk có thể tiêu hao hiệu quả này để hỗ trợ tấn công và giảm sát thương phải chịu trong chế độ {LINK#N11130006}\u003ccolor=#FFD780FF\u003eThất Tướng Nhất Thiểm\u003c/color\u003e{/LINK}. Hiệu quả này duy trì 15s, tối đa cộng dồn 3 tầng, mỗi tầng tính giờ riêng.\nCần mở khóa thiên phú đột phá \"Lý Luận Vượt Nguyên Lý\".\n\n\u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e\n·Khi thi triển Kỹ Năng Nộ \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Diệt\u003c/color\u003e, sẽ tiêu hao toàn bộ số tầng \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e để hỗ trợ tấn công, mỗi tầng \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e sẽ gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e tương đương 750% Tấn Công của Skirk, sát thương này được tính là sát thương Kỹ Năng Nộ.\n·Khi Skirk thực hiện Tấn Công Thường đòn thứ 3 hoặc 5 trong chế độ Thất Tướng Nhất Thiểm trúng kẻ địch, sẽ tiêu hao 1 tầng \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e để tiến hành 3 lần hỗ trợ tấn công, mỗi lần hỗ trợ tấn công gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e tương đương 180% Tấn Công của Skirk, sát thương này được tính là sát thương Tấn Công Thường.\n·Khi Skirk chịu sát thương trong chế độ Thất Tướng Nhất Thiểm, sẽ tiêu hao 1 tầng \u003ccolor=#FFD780FF\u003eCực Ác Kỹ - Trảm\u003c/color\u003e, khiến sát thương phải chịu lần này giảm 80%, đồng thời tấn công kẻ địch ở gần 3 lần, mỗi lần gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e tương đương 180% Tấn Công của Skirk. Sát thương này được tính là sát thương Trọng Kích.",
+                                                                       "description":  "Skirk mỗi hấp thụ một Vết Nứt Hư Không từ hiệu quả của thiên phú đột phá **Lý Luận Vượt Nguyên Lý**, sẽ nhận được 1 tầng hiệu quả Cực Ác Kỹ - Trảm. Skirk có thể tiêu hao hiệu quả này để hỗ trợ tấn công và giảm sát thương phải chịu trong chế độ **Thất Tướng Nhất Thiểm**. Hiệu quả này duy trì 15s, tối đa cộng dồn 3 tầng, mỗi tầng tính giờ riêng.\nCần mở khóa thiên phú đột phá \"Lý Luận Vượt Nguyên Lý\".\n\nCực Ác Kỹ - Trảm\n·Khi thi triển Kỹ Năng Nộ Cực Ác Kỹ - Diệt, sẽ tiêu hao toàn bộ số tầng Cực Ác Kỹ - Trảm để hỗ trợ tấn công, mỗi tầng Cực Ác Kỹ - Trảm sẽ gây Sát Thương Nguyên Tố Băng tương đương 750% Tấn Công của Skirk, sát thương này được tính là sát thương Kỹ Năng Nộ.\n·Khi Skirk thực hiện Tấn Công Thường đòn thứ 3 hoặc 5 trong chế độ Thất Tướng Nhất Thiểm trúng kẻ địch, sẽ tiêu hao 1 tầng Cực Ác Kỹ - Trảm để tiến hành 3 lần hỗ trợ tấn công, mỗi lần hỗ trợ tấn công gây Sát Thương Nguyên Tố Băng tương đương 180% Tấn Công của Skirk, sát thương này được tính là sát thương Tấn Công Thường.\n·Khi Skirk chịu sát thương trong chế độ Thất Tướng Nhất Thiểm, sẽ tiêu hao 1 tầng Cực Ác Kỹ - Trảm, khiến sát thương phải chịu lần này giảm 80%, đồng thời tấn công kẻ địch ở gần 3 lần, mỗi lần gây Sát Thương Nguyên Tố Băng tương đương 180% Tấn Công của Skirk. Sát thương này được tính là sát thương Trọng Kích."
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Yên Viễn",
-                                                                       "descriptionRaw":  "Hiệu quả của thiên phú cố định {LINK#N11130007}\u003ccolor=#FFD780FF\u003eLý Luận Vượt Nguyên Lý\u003c/color\u003e{/LINK} được cường hóa: Mỗi hấp thụ một Vết Nứt Hư Không, sẽ triệu hồi một Đao Tinh Thể tấn công kẻ địch ở gần, gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e tương đương 500% Tấn Công của Skirk, sát thương này được tính là sát thương Trọng Kích.\nCần mở khóa thiên phú cố định \"Lý Luận Vượt Nguyên Lý\".",
-                                                                       "description":  "Hiệu quả của thiên phú cố định **Lý Luận Vượt Nguyên Lý** được cường hóa: Mỗi hấp thụ một Vết Nứt Hư Không, sẽ triệu hồi một Đao Tinh Thể tấn công kẻ địch ở gần, gây Sát Thương Nguyên Tố Băng tương đương 500% Tấn Công của Skirk, sát thương này được tính là sát thương Trọng Kích.\nCần mở khóa thiên phú cố định \"Lý Luận Vượt Nguyên Lý\"."
+                                                                       "descriptionRaw":  "Hiệu quả của thiên phú đột phá {LINK#N11130007}\u003ccolor=#FFD780FF\u003eLý Luận Vượt Nguyên Lý\u003c/color\u003e{/LINK} được cường hóa: Mỗi hấp thụ một Vết Nứt Hư Không, sẽ triệu hồi một Đao Tinh Thể tấn công kẻ địch ở gần, gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e tương đương 500% Tấn Công của Skirk, sát thương này được tính là sát thương Trọng Kích.\nCần mở khóa thiên phú đột phá \"Lý Luận Vượt Nguyên Lý\".",
+                                                                       "description":  "Hiệu quả của thiên phú đột phá **Lý Luận Vượt Nguyên Lý** được cường hóa: Mỗi hấp thụ một Vết Nứt Hư Không, sẽ triệu hồi một Đao Tinh Thể tấn công kẻ địch ở gần, gây Sát Thương Nguyên Tố Băng tương đương 500% Tấn Công của Skirk, sát thương này được tính là sát thương Trọng Kích.\nCần mở khóa thiên phú đột phá \"Lý Luận Vượt Nguyên Lý\"."
                                                                    }
                                                         },
                                      "elementText":  "Băng",
@@ -3764,8 +3865,8 @@
                                    "constellations":  {
                                                           "c2":  {
                                                                      "name":  "Đạn Cầu Nguyện Trợ Linh",
-                                                                     "descriptionRaw":  "Khi Ifa trong trạng thái Dạ Hồn Chúc Phúc, căn cứ vào tổng điểm Dạ Hồn hiện tại của tất cả nhân vật trong đội vượt mức 60 điểm, mỗi 1 điểm Dạ Hồn sẽ giúp Ifa nhận thêm 4 điểm {LINK#N11130002}\u003ccolor=#FFD780FF\u003eCứu Hộ Thiết Yếu\u003c/color\u003e{/LINK}.\nNgoài ra, giới hạn Cứu Hộ Thiết Yếu của Ifa tăng 50 điểm.\nCần mở khóa thiên phú cố định {LINK#P1132101}\u003ccolor=#FFD780FF\u003eTầm Nhìn Của Thầy Thuốc\u003c/color\u003e{/LINK}.",
-                                                                     "description":  "Khi Ifa trong trạng thái Dạ Hồn Chúc Phúc, căn cứ vào tổng điểm Dạ Hồn hiện tại của tất cả nhân vật trong đội vượt mức 60 điểm, mỗi 1 điểm Dạ Hồn sẽ giúp Ifa nhận thêm 4 điểm **Cứu Hộ Thiết Yếu**.\nNgoài ra, giới hạn Cứu Hộ Thiết Yếu của Ifa tăng 50 điểm.\nCần mở khóa thiên phú cố định **Tầm Nhìn Của Thầy Thuốc**."
+                                                                     "descriptionRaw":  "Khi Ifa trong trạng thái Dạ Hồn Chúc Phúc, căn cứ vào tổng điểm Dạ Hồn hiện tại của tất cả nhân vật trong đội vượt mức 60 điểm, mỗi 1 điểm Dạ Hồn sẽ giúp Ifa nhận thêm 4 điểm {LINK#N11130002}\u003ccolor=#FFD780FF\u003eCứu Hộ Thiết Yếu\u003c/color\u003e{/LINK}.\nNgoài ra, giới hạn Cứu Hộ Thiết Yếu của Ifa tăng 50 điểm.\nCần mở khóa thiên phú đột phá {LINK#P1132101}\u003ccolor=#FFD780FF\u003eTầm Nhìn Của Thầy Thuốc\u003c/color\u003e{/LINK}.",
+                                                                     "description":  "Khi Ifa trong trạng thái Dạ Hồn Chúc Phúc, căn cứ vào tổng điểm Dạ Hồn hiện tại của tất cả nhân vật trong đội vượt mức 60 điểm, mỗi 1 điểm Dạ Hồn sẽ giúp Ifa nhận thêm 4 điểm **Cứu Hộ Thiết Yếu**.\nNgoài ra, giới hạn Cứu Hộ Thiết Yếu của Ifa tăng 50 điểm.\nCần mở khóa thiên phú đột phá **Tầm Nhìn Của Thầy Thuốc**."
                                                                  },
                                                           "c4":  {
                                                                      "name":  "Hoán Vị Ứng Thể Phân Hủy",
@@ -3924,6 +4025,16 @@
                                                 "region":  "Inazuma",
                                                 "gender":  "nữ"
                                             },
+                       "manekina":  {
+                                        "constellations":  null,
+                                        "elementText":  "Không",
+                                        "fullname":  null,
+                                        "weaponText":  "Kiếm Đơn",
+                                        "name":  "Người Mẫu Nữ",
+                                        "substatText":  "Tấn Công",
+                                        "region":  "",
+                                        "gender":  "nữ"
+                                    },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3994,8 +4105,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Nhiệt Huyết Cháy Mãi",
-                                                                        "descriptionRaw":  "Hiệu quả của thiên phú cố định \"Ba Lần Nhảy Cao\" được cường hóa:\nKhi tiến hành Tấn Công Khi Đáp đặc biệt \"Núi Lửa Sấm Rền\", Varesa cũng sẽ nhận được \"Cầu Vồng Giáng Lâm\" trong 5s.\nTrong thời gian \"Cầu Vồng Giáng Lâm\", cho dù Varesa có ở trong trạng thái Nhiệt Huyết Cháy Bỏng hay không thì khi tiến hành Tấn Công Khi Đáp, cú đáp cũng sẽ gây thêm sát thương bằng 180% Tấn Công. Hiệu quả này cần mở khóa thiên phú \"Ba Lần Nhảy Cao\".\n\nNgoài ra, khi Varesa ở trong dạng \"Tốc Độ Dũng Mãnh\" của trạng thái Dạ Hồn Chúc Phúc, mức tiêu hao Dạ Hồn hoặc Phlogiston giảm 30%.",
-                                                                        "description":  "Hiệu quả của thiên phú cố định \"Ba Lần Nhảy Cao\" được cường hóa:\nKhi tiến hành Tấn Công Khi Đáp đặc biệt \"Núi Lửa Sấm Rền\", Varesa cũng sẽ nhận được \"Cầu Vồng Giáng Lâm\" trong 5s.\nTrong thời gian \"Cầu Vồng Giáng Lâm\", cho dù Varesa có ở trong trạng thái Nhiệt Huyết Cháy Bỏng hay không thì khi tiến hành Tấn Công Khi Đáp, cú đáp cũng sẽ gây thêm sát thương bằng 180% Tấn Công. Hiệu quả này cần mở khóa thiên phú \"Ba Lần Nhảy Cao\".\n\nNgoài ra, khi Varesa ở trong dạng \"Tốc Độ Dũng Mãnh\" của trạng thái Dạ Hồn Chúc Phúc, mức tiêu hao Dạ Hồn hoặc Phlogiston giảm 30%."
+                                                                        "descriptionRaw":  "Hiệu quả của thiên phú đột phá \"Ba Lần Nhảy Cao\" được cường hóa:\nKhi tiến hành Tấn Công Khi Đáp đặc biệt \"Núi Lửa Sấm Rền\", Varesa cũng sẽ nhận được \"Cầu Vồng Giáng Lâm\" trong 5s.\nTrong thời gian \"Cầu Vồng Giáng Lâm\", cho dù Varesa có ở trong trạng thái Nhiệt Huyết Cháy Bỏng hay không thì khi tiến hành Tấn Công Khi Đáp, cú đáp cũng sẽ gây thêm sát thương bằng 180% Tấn Công. Hiệu quả này cần mở khóa thiên phú \"Ba Lần Nhảy Cao\".\n\nNgoài ra, khi Varesa ở trong dạng \"Tốc Độ Dũng Mãnh\" của trạng thái Dạ Hồn Chúc Phúc, mức tiêu hao Dạ Hồn hoặc Phlogiston giảm 30%.",
+                                                                        "description":  "Hiệu quả của thiên phú đột phá \"Ba Lần Nhảy Cao\" được cường hóa:\nKhi tiến hành Tấn Công Khi Đáp đặc biệt \"Núi Lửa Sấm Rền\", Varesa cũng sẽ nhận được \"Cầu Vồng Giáng Lâm\" trong 5s.\nTrong thời gian \"Cầu Vồng Giáng Lâm\", cho dù Varesa có ở trong trạng thái Nhiệt Huyết Cháy Bỏng hay không thì khi tiến hành Tấn Công Khi Đáp, cú đáp cũng sẽ gây thêm sát thương bằng 180% Tấn Công. Hiệu quả này cần mở khóa thiên phú \"Ba Lần Nhảy Cao\".\n\nNgoài ra, khi Varesa ở trong dạng \"Tốc Độ Dũng Mãnh\" của trạng thái Dạ Hồn Chúc Phúc, mức tiêu hao Dạ Hồn hoặc Phlogiston giảm 30%."
                                                                     }
                                                          },
                                       "elementText":  "Lôi",
@@ -4153,13 +4264,13 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Vũ Nghi - Tài Lạc Quân Hành",
-                                                                      "descriptionRaw":  "Sau khi thi triển \u003ccolor=#FFD780FF\u003eNghi Thức Thần Thánh - Nhanh Như Sói\u003c/color\u003e hoặc kích hoạt hiệu quả \"Phán Quyết\" của thiên phú cố định \"Lạc Vũ Phán Quyết\", Cyno sẽ nhận được 4 tầng hiệu quả \"Nghi Thức Sói\". Khi tấn công thường của Cyno đánh trúng kẻ địch, sẽ tiêu hao một tầng \"Nghi Thức Sói\", và bắn ra một Tia Sét Xuyên Thấu.\nHiệu quả \"Nghi Thức Sói\" duy trì 8s, tối đa cộng dồn 8 tầng, đồng thời sẽ xóa bỏ sau khi trạng thái Sứ Giả Dẫn Lối của Nghi Thức Thần Thánh - Nhanh Như Sói kết thúc.\nMỗi 0.4s tối đa bắn ra một Tia Sét Xuyên Thấu bằng cách này.\nCần mở khóa thiên phú cố định \"Lạc Vũ Phán Quyết\".",
-                                                                      "description":  "Sau khi thi triển Nghi Thức Thần Thánh - Nhanh Như Sói hoặc kích hoạt hiệu quả \"Phán Quyết\" của thiên phú cố định \"Lạc Vũ Phán Quyết\", Cyno sẽ nhận được 4 tầng hiệu quả \"Nghi Thức Sói\". Khi tấn công thường của Cyno đánh trúng kẻ địch, sẽ tiêu hao một tầng \"Nghi Thức Sói\", và bắn ra một Tia Sét Xuyên Thấu.\nHiệu quả \"Nghi Thức Sói\" duy trì 8s, tối đa cộng dồn 8 tầng, đồng thời sẽ xóa bỏ sau khi trạng thái Sứ Giả Dẫn Lối của Nghi Thức Thần Thánh - Nhanh Như Sói kết thúc.\nMỗi 0.4s tối đa bắn ra một Tia Sét Xuyên Thấu bằng cách này.\nCần mở khóa thiên phú cố định \"Lạc Vũ Phán Quyết\"."
+                                                                      "descriptionRaw":  "Sau khi thi triển \u003ccolor=#FFD780FF\u003eNghi Thức Thần Thánh - Nhanh Như Sói\u003c/color\u003e hoặc kích hoạt hiệu quả \"Phán Quyết\" của thiên phú đột phá \"Lạc Vũ Phán Quyết\", Cyno sẽ nhận được 4 tầng hiệu quả \"Nghi Thức Sói\". Khi tấn công thường của Cyno đánh trúng kẻ địch, sẽ tiêu hao một tầng \"Nghi Thức Sói\", và bắn ra một Tia Sét Xuyên Thấu.\nHiệu quả \"Nghi Thức Sói\" duy trì 8s, tối đa cộng dồn 8 tầng, đồng thời sẽ xóa bỏ sau khi trạng thái Sứ Giả Dẫn Lối của Nghi Thức Thần Thánh - Nhanh Như Sói kết thúc.\nMỗi 0.4s tối đa bắn ra một Tia Sét Xuyên Thấu bằng cách này.\nCần mở khóa thiên phú đột phá \"Lạc Vũ Phán Quyết\".",
+                                                                      "description":  "Sau khi thi triển Nghi Thức Thần Thánh - Nhanh Như Sói hoặc kích hoạt hiệu quả \"Phán Quyết\" của thiên phú đột phá \"Lạc Vũ Phán Quyết\", Cyno sẽ nhận được 4 tầng hiệu quả \"Nghi Thức Sói\". Khi tấn công thường của Cyno đánh trúng kẻ địch, sẽ tiêu hao một tầng \"Nghi Thức Sói\", và bắn ra một Tia Sét Xuyên Thấu.\nHiệu quả \"Nghi Thức Sói\" duy trì 8s, tối đa cộng dồn 8 tầng, đồng thời sẽ xóa bỏ sau khi trạng thái Sứ Giả Dẫn Lối của Nghi Thức Thần Thánh - Nhanh Như Sói kết thúc.\nMỗi 0.4s tối đa bắn ra một Tia Sét Xuyên Thấu bằng cách này.\nCần mở khóa thiên phú đột phá \"Lạc Vũ Phán Quyết\"."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Lập Nghi - Phủ Lãm Trú Minh",
-                                                                      "descriptionRaw":  "Sau khi thi triển \u003ccolor=#FFD780FF\u003eNghi Thức Thần Thánh - Nhanh Như Sói\u003c/color\u003e, tốc độ đánh thường của Cyno tăng 20%, duy trì 10s. Nếu kích hoạt hiệu quả \"Phán Quyết\" của thiên phú Lạc Vũ Phán Quyết khi thi triển \u003ccolor=#FFD780FF\u003eNghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực\u003c/color\u003e, sẽ làm mới thời gian duy trì hiệu quả này.\nCần mở khóa thiên phú cố định \"Lạc Vũ Phán Quyết\".",
-                                                                      "description":  "Sau khi thi triển Nghi Thức Thần Thánh - Nhanh Như Sói, tốc độ đánh thường của Cyno tăng 20%, duy trì 10s. Nếu kích hoạt hiệu quả \"Phán Quyết\" của thiên phú Lạc Vũ Phán Quyết khi thi triển Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực, sẽ làm mới thời gian duy trì hiệu quả này.\nCần mở khóa thiên phú cố định \"Lạc Vũ Phán Quyết\"."
+                                                                      "descriptionRaw":  "Sau khi thi triển \u003ccolor=#FFD780FF\u003eNghi Thức Thần Thánh - Nhanh Như Sói\u003c/color\u003e, tốc độ đánh thường của Cyno tăng 20%, duy trì 10s. Nếu kích hoạt hiệu quả \"Phán Quyết\" của thiên phú Lạc Vũ Phán Quyết khi thi triển \u003ccolor=#FFD780FF\u003eNghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực\u003c/color\u003e, sẽ làm mới thời gian duy trì hiệu quả này.\nCần mở khóa thiên phú đột phá \"Lạc Vũ Phán Quyết\".",
+                                                                      "description":  "Sau khi thi triển Nghi Thức Thần Thánh - Nhanh Như Sói, tốc độ đánh thường của Cyno tăng 20%, duy trì 10s. Nếu kích hoạt hiệu quả \"Phán Quyết\" của thiên phú Lạc Vũ Phán Quyết khi thi triển Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực, sẽ làm mới thời gian duy trì hiệu quả này.\nCần mở khóa thiên phú đột phá \"Lạc Vũ Phán Quyết\"."
                                                                   }
                                                        },
                                     "elementText":  "Lôi",
@@ -4256,13 +4367,13 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Bắt Trói Kẻ Hung Bạo",
-                                                                             "descriptionRaw":  "Khi thi triển \u003ccolor=#FFD780FF\u003eHắc Kim Lang Cắn Xé\u003c/color\u003e, mỗi tầng \"Sắc Lệnh Truy Tố\" của thiên phú cố định \"Giờ Đền Đáp Cho Tội Lỗi\" sẽ khiến sát thương gây ra tăng 40%.\nCần mở khóa thiên phú cố định \"Giờ Đền Đáp Cho Tội Lỗi\".",
-                                                                             "description":  "Khi thi triển Hắc Kim Lang Cắn Xé, mỗi tầng \"Sắc Lệnh Truy Tố\" của thiên phú cố định \"Giờ Đền Đáp Cho Tội Lỗi\" sẽ khiến sát thương gây ra tăng 40%.\nCần mở khóa thiên phú cố định \"Giờ Đền Đáp Cho Tội Lỗi\"."
+                                                                             "descriptionRaw":  "Khi thi triển \u003ccolor=#FFD780FF\u003eHắc Kim Lang Cắn Xé\u003c/color\u003e, mỗi tầng \"Sắc Lệnh Truy Tố\" của thiên phú đột phá \"Giờ Đền Đáp Cho Tội Lỗi\" sẽ khiến sát thương gây ra tăng 40%.\nCần mở khóa thiên phú đột phá \"Giờ Đền Đáp Cho Tội Lỗi\".",
+                                                                             "description":  "Khi thi triển Hắc Kim Lang Cắn Xé, mỗi tầng \"Sắc Lệnh Truy Tố\" của thiên phú đột phá \"Giờ Đền Đáp Cho Tội Lỗi\" sẽ khiến sát thương gây ra tăng 40%.\nCần mở khóa thiên phú đột phá \"Giờ Đền Đáp Cho Tội Lỗi\"."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Cứu Rỗi Người Khốn Khổ",
-                                                                             "descriptionRaw":  "Lượng HP hồi phục của Cú Đấm Trừng Phạt sẽ tăng thành 50% giới hạn HP, cần mở khóa thiên phú cố định \"Ngày Biện Hộ Cho Công Lý\".\nNgoài ra, khi Wriothesley nhận được trị liệu, nếu lượng trị liệu hồi phục lần đó bị dư ra, thì sẽ căn cứ vào trạng thái của Wriothesley để sản sinh hiệu ứng khác nhau: Nếu Wriothesley ở trong trận, tốc độ tấn công của anh ấy tăng 20% trong 4s; Nếu Wriothesley không ở trong trận, tốc độ tấn công của tất cả nhân vật trong đội bản thân tăng 10% trong 6s. Hai loại hiệu quả tăng tốc độ tấn công kể trên sẽ không thể cộng dồn.",
-                                                                             "description":  "Lượng HP hồi phục của Cú Đấm Trừng Phạt sẽ tăng thành 50% giới hạn HP, cần mở khóa thiên phú cố định \"Ngày Biện Hộ Cho Công Lý\".\nNgoài ra, khi Wriothesley nhận được trị liệu, nếu lượng trị liệu hồi phục lần đó bị dư ra, thì sẽ căn cứ vào trạng thái của Wriothesley để sản sinh hiệu ứng khác nhau: Nếu Wriothesley ở trong trận, tốc độ tấn công của anh ấy tăng 20% trong 4s; Nếu Wriothesley không ở trong trận, tốc độ tấn công của tất cả nhân vật trong đội bản thân tăng 10% trong 6s. Hai loại hiệu quả tăng tốc độ tấn công kể trên sẽ không thể cộng dồn."
+                                                                             "descriptionRaw":  "Lượng HP hồi phục của Cú Đấm Trừng Phạt sẽ tăng thành 50% giới hạn HP, cần mở khóa thiên phú đột phá \"Ngày Biện Hộ Cho Công Lý\".\nNgoài ra, khi Wriothesley nhận được trị liệu, nếu lượng trị liệu hồi phục lần đó bị dư ra, thì sẽ căn cứ vào trạng thái của Wriothesley để sản sinh hiệu ứng khác nhau: Nếu Wriothesley ở trong trận, tốc độ tấn công của anh ấy tăng 20% trong 4s; Nếu Wriothesley không ở trong trận, tốc độ tấn công của tất cả nhân vật trong đội bản thân tăng 10% trong 6s. Hai loại hiệu quả tăng tốc độ tấn công kể trên sẽ không thể cộng dồn.",
+                                                                             "description":  "Lượng HP hồi phục của Cú Đấm Trừng Phạt sẽ tăng thành 50% giới hạn HP, cần mở khóa thiên phú đột phá \"Ngày Biện Hộ Cho Công Lý\".\nNgoài ra, khi Wriothesley nhận được trị liệu, nếu lượng trị liệu hồi phục lần đó bị dư ra, thì sẽ căn cứ vào trạng thái của Wriothesley để sản sinh hiệu ứng khác nhau: Nếu Wriothesley ở trong trận, tốc độ tấn công của anh ấy tăng 20% trong 4s; Nếu Wriothesley không ở trong trận, tốc độ tấn công của tất cả nhân vật trong đội bản thân tăng 10% trong 6s. Hai loại hiệu quả tăng tốc độ tấn công kể trên sẽ không thể cộng dồn."
                                                                          },
                                                                   "c3":  {
                                                                              "name":  "Khiển Trách Kẻ Dối Gian",
@@ -4276,13 +4387,13 @@
                                                                          },
                                                                   "c6":  {
                                                                              "name":  "Trân Trọng Người Vô Tội",
-                                                                             "descriptionRaw":  "Tỉ lệ bạo kích của Cú Đấm Trừng Phạt tăng 10%, sát thương bạo kích tăng 80%, đồng thời sản sinh thêm nhũ băng, gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e bằng 100% sát thương vốn có của Cú Đấm Trừng Phạt. Sát thương gây ra bằng phương thức này sẽ được tính là sát thương trọng kích.\nCần mở khóa thiên phú cố định \"Ngày Biện Hộ Cho Công Lý\".",
-                                                                             "description":  "Tỉ lệ bạo kích của Cú Đấm Trừng Phạt tăng 10%, sát thương bạo kích tăng 80%, đồng thời sản sinh thêm nhũ băng, gây Sát Thương Nguyên Tố Băng bằng 100% sát thương vốn có của Cú Đấm Trừng Phạt. Sát thương gây ra bằng phương thức này sẽ được tính là sát thương trọng kích.\nCần mở khóa thiên phú cố định \"Ngày Biện Hộ Cho Công Lý\"."
+                                                                             "descriptionRaw":  "Tỉ lệ bạo kích của Cú Đấm Trừng Phạt tăng 10%, sát thương bạo kích tăng 80%, đồng thời sản sinh thêm nhũ băng, gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e bằng 100% sát thương vốn có của Cú Đấm Trừng Phạt. Sát thương gây ra bằng phương thức này sẽ được tính là sát thương trọng kích.\nCần mở khóa thiên phú đột phá \"Ngày Biện Hộ Cho Công Lý\".",
+                                                                             "description":  "Tỉ lệ bạo kích của Cú Đấm Trừng Phạt tăng 10%, sát thương bạo kích tăng 80%, đồng thời sản sinh thêm nhũ băng, gây Sát Thương Nguyên Tố Băng bằng 100% sát thương vốn có của Cú Đấm Trừng Phạt. Sát thương gây ra bằng phương thức này sẽ được tính là sát thương trọng kích.\nCần mở khóa thiên phú đột phá \"Ngày Biện Hộ Cho Công Lý\"."
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Trừng Trị Kẻ Hành Ác",
-                                                                             "descriptionRaw":  "\"Ân Điển Trách Phạt\" của thiên phú \"Ngày Biện Hộ Cho Công Lý\" chuyển thành:\nKhi HP của Wriothesley thấp hơn 60% hoặc đang trong thời gian duy trì trạng thái Hàn Băng Phán Quyết của kỹ năng \u003ccolor=#FFD780FF\u003eNanh Băng Càn Quét\u003c/color\u003e, khi đòn tấn công thứ năm của Cú Đấm Bài Xích trúng đích, sẽ nhận được \"Ân Điển Trách Phạt\", mỗi 2.5s tối đa nhận một lần hiệu ứng \"Ân Điển Trách Phạt\".\n\nNgoài ra, Cú Đấm Trừng Phạt sẽ được cường hóa sau:\n·Mức tăng sát thương gây ra sẽ tăng thêm tới 200%;\n·Khi trúng đích, nếu đang ở trong trạng thái Hàn Băng Phán Quyết, thời gian duy trì của trạng thái này kéo dài thêm 4s. Trong một lần duy trì Hàn Băng Phán Quyết tối đa chỉ kéo dài thêm một lần thông qua phương thức này.\n\nCần mở khóa thiên phú cố định \"Ngày Biện Hộ Cho Công Lý\".",
-                                                                             "description":  "\"Ân Điển Trách Phạt\" của thiên phú \"Ngày Biện Hộ Cho Công Lý\" chuyển thành:\nKhi HP của Wriothesley thấp hơn 60% hoặc đang trong thời gian duy trì trạng thái Hàn Băng Phán Quyết của kỹ năng Nanh Băng Càn Quét, khi đòn tấn công thứ năm của Cú Đấm Bài Xích trúng đích, sẽ nhận được \"Ân Điển Trách Phạt\", mỗi 2.5s tối đa nhận một lần hiệu ứng \"Ân Điển Trách Phạt\".\n\nNgoài ra, Cú Đấm Trừng Phạt sẽ được cường hóa sau:\n·Mức tăng sát thương gây ra sẽ tăng thêm tới 200%;\n·Khi trúng đích, nếu đang ở trong trạng thái Hàn Băng Phán Quyết, thời gian duy trì của trạng thái này kéo dài thêm 4s. Trong một lần duy trì Hàn Băng Phán Quyết tối đa chỉ kéo dài thêm một lần thông qua phương thức này.\n\nCần mở khóa thiên phú cố định \"Ngày Biện Hộ Cho Công Lý\"."
+                                                                             "descriptionRaw":  "\"Ân Điển Trách Phạt\" của thiên phú \"Ngày Biện Hộ Cho Công Lý\" chuyển thành:\nKhi HP của Wriothesley thấp hơn 60% hoặc đang trong thời gian duy trì trạng thái Hàn Băng Phán Quyết của kỹ năng \u003ccolor=#FFD780FF\u003eNanh Băng Càn Quét\u003c/color\u003e, khi đòn tấn công thứ năm của Cú Đấm Bài Xích trúng đích, sẽ nhận được \"Ân Điển Trách Phạt\", mỗi 2.5s tối đa nhận một lần hiệu ứng \"Ân Điển Trách Phạt\".\n\nNgoài ra, Cú Đấm Trừng Phạt sẽ được cường hóa sau:\n·Mức tăng sát thương gây ra sẽ tăng thêm tới 200%;\n·Khi trúng đích, nếu đang ở trong trạng thái Hàn Băng Phán Quyết, thời gian duy trì của trạng thái này kéo dài thêm 4s. Trong một lần duy trì Hàn Băng Phán Quyết tối đa chỉ kéo dài thêm một lần thông qua phương thức này.\n\nCần mở khóa thiên phú đột phá \"Ngày Biện Hộ Cho Công Lý\".",
+                                                                             "description":  "\"Ân Điển Trách Phạt\" của thiên phú \"Ngày Biện Hộ Cho Công Lý\" chuyển thành:\nKhi HP của Wriothesley thấp hơn 60% hoặc đang trong thời gian duy trì trạng thái Hàn Băng Phán Quyết của kỹ năng Nanh Băng Càn Quét, khi đòn tấn công thứ năm của Cú Đấm Bài Xích trúng đích, sẽ nhận được \"Ân Điển Trách Phạt\", mỗi 2.5s tối đa nhận một lần hiệu ứng \"Ân Điển Trách Phạt\".\n\nNgoài ra, Cú Đấm Trừng Phạt sẽ được cường hóa sau:\n·Mức tăng sát thương gây ra sẽ tăng thêm tới 200%;\n·Khi trúng đích, nếu đang ở trong trạng thái Hàn Băng Phán Quyết, thời gian duy trì của trạng thái này kéo dài thêm 4s. Trong một lần duy trì Hàn Băng Phán Quyết tối đa chỉ kéo dài thêm một lần thông qua phương thức này.\n\nCần mở khóa thiên phú đột phá \"Ngày Biện Hộ Cho Công Lý\"."
                                                                          }
                                                               },
                                            "elementText":  "Băng",
@@ -4317,8 +4428,8 @@
                                                                      },
                                                               "c6":  {
                                                                          "name":  "Thuyết Hỗn Loạn",
-                                                                         "descriptionRaw":  "Nếu \u003ccolor=#FFD780FF\u003eCấm-Gió Thần Sáng Tạo-75 Loại 2\u003c/color\u003e xảy ra chuyển hóa nguyên tố thì tất cả đội sẽ nhận buff sát thương nguyên tố 20% trong khoảng thời gian kĩ năng duy trì.",
-                                                                         "description":  "Nếu Cấm-Gió Thần Sáng Tạo-75 Loại 2 xảy ra chuyển hóa nguyên tố thì tất cả đội sẽ nhận buff sát thương nguyên tố 20% trong khoảng thời gian kĩ năng duy trì."
+                                                                         "descriptionRaw":  "Nếu \u003ccolor=#FFD780FF\u003eCấm-Gió Thần Sáng Tạo-75 Loại 2\u003c/color\u003e xảy ra chuyển hóa nguyên tố thì tất cả đội sẽ nhận 20% buff sát thương nguyên tố tương ứng trong khoảng thời gian kĩ năng duy trì.",
+                                                                         "description":  "Nếu Cấm-Gió Thần Sáng Tạo-75 Loại 2 xảy ra chuyển hóa nguyên tố thì tất cả đội sẽ nhận 20% buff sát thương nguyên tố tương ứng trong khoảng thời gian kĩ năng duy trì."
                                                                      },
                                                               "c1":  {
                                                                          "name":  "Vùng Chân Không",
@@ -4577,8 +4688,8 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Mệnh Lệnh Của Pháp Luật",
-                                                                             "descriptionRaw":  "Cường hóa thiên phú cố định \"Di Sản Hậu Duệ Biển Xưa\": Mỗi tồn tại một tầng \"Vinh Dự Của Rồng\" sẽ khiến sát thương bạo kích của Trọng Kích - Phán Quyết Công Bằng tăng 14%. Tối đa tăng 42% thông qua phương thức này.\nCần mở khóa thiên phú \"Di Sản Hậu Duệ Biển Xưa\" trước.",
-                                                                             "description":  "Cường hóa thiên phú cố định \"Di Sản Hậu Duệ Biển Xưa\": Mỗi tồn tại một tầng \"Vinh Dự Của Rồng\" sẽ khiến sát thương bạo kích của Trọng Kích - Phán Quyết Công Bằng tăng 14%. Tối đa tăng 42% thông qua phương thức này.\nCần mở khóa thiên phú \"Di Sản Hậu Duệ Biển Xưa\" trước."
+                                                                             "descriptionRaw":  "Cường hóa thiên phú đột phá \"Di Sản Hậu Duệ Biển Xưa\": Mỗi tồn tại một tầng \"Vinh Dự Của Rồng\" sẽ khiến sát thương bạo kích của Trọng Kích - Phán Quyết Công Bằng tăng 14%. Tối đa tăng 42% thông qua phương thức này.\nCần mở khóa thiên phú \"Di Sản Hậu Duệ Biển Xưa\" trước.",
+                                                                             "description":  "Cường hóa thiên phú đột phá \"Di Sản Hậu Duệ Biển Xưa\": Mỗi tồn tại một tầng \"Vinh Dự Của Rồng\" sẽ khiến sát thương bạo kích của Trọng Kích - Phán Quyết Công Bằng tăng 14%. Tối đa tăng 42% thông qua phương thức này.\nCần mở khóa thiên phú \"Di Sản Hậu Duệ Biển Xưa\" trước."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Vinh Quang Của Xót Thương",
@@ -4602,8 +4713,8 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Khởi Đầu Của Tôn Quý",
-                                                                             "descriptionRaw":  "Khi Neuvillette ra trận sẽ nhận được một tầng \"Vinh Dự Của Rồng\" từ thiên phú cố định \"Di Sản Hậu Duệ Biển Xưa\". Cần mở khóa thiên phú \"Di Sản Hậu Duệ Biển Xưa\" trước.\nNgoài ra, khi thi triển Tụ Lực Trọng Kích - Đánh Giá Hợp Pháp và Trọng Kích - Phán Quyết Công Bằng sẽ tăng khả năng kháng gián đoạn của Neuvillette.",
-                                                                             "description":  "Khi Neuvillette ra trận sẽ nhận được một tầng \"Vinh Dự Của Rồng\" từ thiên phú cố định \"Di Sản Hậu Duệ Biển Xưa\". Cần mở khóa thiên phú \"Di Sản Hậu Duệ Biển Xưa\" trước.\nNgoài ra, khi thi triển Tụ Lực Trọng Kích - Đánh Giá Hợp Pháp và Trọng Kích - Phán Quyết Công Bằng sẽ tăng khả năng kháng gián đoạn của Neuvillette."
+                                                                             "descriptionRaw":  "Khi Neuvillette ra trận sẽ nhận được một tầng \"Vinh Dự Của Rồng\" từ thiên phú đột phá \"Di Sản Hậu Duệ Biển Xưa\". Cần mở khóa thiên phú \"Di Sản Hậu Duệ Biển Xưa\" trước.\nNgoài ra, khi thi triển Tụ Lực Trọng Kích - Đánh Giá Hợp Pháp và Trọng Kích - Phán Quyết Công Bằng sẽ tăng khả năng kháng gián đoạn của Neuvillette.",
+                                                                             "description":  "Khi Neuvillette ra trận sẽ nhận được một tầng \"Vinh Dự Của Rồng\" từ thiên phú đột phá \"Di Sản Hậu Duệ Biển Xưa\". Cần mở khóa thiên phú \"Di Sản Hậu Duệ Biển Xưa\" trước.\nNgoài ra, khi thi triển Tụ Lực Trọng Kích - Đánh Giá Hợp Pháp và Trọng Kích - Phán Quyết Công Bằng sẽ tăng khả năng kháng gián đoạn của Neuvillette."
                                                                          }
                                                               },
                                            "elementText":  "Thủy",
@@ -4659,13 +4770,13 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Mualani, Dốc Toàn Lực!",
-                                                                         "descriptionRaw":  "Khi tiến vào trạng thái Dạ Hồn Chúc Phúc, Mualani nhận 2 tầng Động Lượng Sóng của \u003ccolor=#FFD780FF\u003eCá Mập Xuyên Sóng\u003c/color\u003e; Khi Mualani nhận Bóng Nổi, sẽ nhận được 1 tầng Động Lượng Sóng.\nNgoài ra, trong thời gian của một lần Dạ Hồn Chúc Phúc, khi Mualani nhận 2 Bóng Nổi sẽ hồi phục thêm 12 điểm Dạ Hồn trong vòng 2s. Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\".",
-                                                                         "description":  "Khi tiến vào trạng thái Dạ Hồn Chúc Phúc, Mualani nhận 2 tầng Động Lượng Sóng của Cá Mập Xuyên Sóng; Khi Mualani nhận Bóng Nổi, sẽ nhận được 1 tầng Động Lượng Sóng.\nNgoài ra, trong thời gian của một lần Dạ Hồn Chúc Phúc, khi Mualani nhận 2 Bóng Nổi sẽ hồi phục thêm 12 điểm Dạ Hồn trong vòng 2s. Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\"."
+                                                                         "descriptionRaw":  "Khi tiến vào trạng thái Dạ Hồn Chúc Phúc, Mualani nhận 2 tầng Động Lượng Sóng của \u003ccolor=#FFD780FF\u003eCá Mập Xuyên Sóng\u003c/color\u003e; Khi Mualani nhận Bóng Nổi, sẽ nhận được 1 tầng Động Lượng Sóng.\nNgoài ra, trong thời gian của một lần Dạ Hồn Chúc Phúc, khi Mualani nhận 2 Bóng Nổi sẽ hồi phục thêm 12 điểm Dạ Hồn trong vòng 2s. Hiệu quả này cần mở khóa thiên phú đột phá \"Bóng Nước Kháng Nhiệt\".",
+                                                                         "description":  "Khi tiến vào trạng thái Dạ Hồn Chúc Phúc, Mualani nhận 2 tầng Động Lượng Sóng của Cá Mập Xuyên Sóng; Khi Mualani nhận Bóng Nổi, sẽ nhận được 1 tầng Động Lượng Sóng.\nNgoài ra, trong thời gian của một lần Dạ Hồn Chúc Phúc, khi Mualani nhận 2 Bóng Nổi sẽ hồi phục thêm 12 điểm Dạ Hồn trong vòng 2s. Hiệu quả này cần mở khóa thiên phú đột phá \"Bóng Nước Kháng Nhiệt\"."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Cá Mập Ăn Bóng Nước",
-                                                                         "descriptionRaw":  "Khi nhận được Bóng Nổi, Mualani hồi phục 8 điểm Năng Lượng Nguyên Tố; Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\".\nNgoài ra, sát thương gây ra từ \u003ccolor=#FFD780FF\u003eCá Mập Nổ Dồn Dập\u003c/color\u003e tăng 75%.",
-                                                                         "description":  "Khi nhận được Bóng Nổi, Mualani hồi phục 8 điểm Năng Lượng Nguyên Tố; Hiệu quả này cần mở khóa thiên phú cố định \"Bóng Nước Kháng Nhiệt\".\nNgoài ra, sát thương gây ra từ Cá Mập Nổ Dồn Dập tăng 75%."
+                                                                         "descriptionRaw":  "Khi nhận được Bóng Nổi, Mualani hồi phục 8 điểm Năng Lượng Nguyên Tố; Hiệu quả này cần mở khóa thiên phú đột phá \"Bóng Nước Kháng Nhiệt\".\nNgoài ra, sát thương gây ra từ \u003ccolor=#FFD780FF\u003eCá Mập Nổ Dồn Dập\u003c/color\u003e tăng 75%.",
+                                                                         "description":  "Khi nhận được Bóng Nổi, Mualani hồi phục 8 điểm Năng Lượng Nguyên Tố; Hiệu quả này cần mở khóa thiên phú đột phá \"Bóng Nước Kháng Nhiệt\".\nNgoài ra, sát thương gây ra từ Cá Mập Nổ Dồn Dập tăng 75%."
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Lướt Sóng Trên Biển Hân Hoan",
@@ -4700,8 +4811,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Dạo Bước Đồi Cỏ",
-                                                                        "descriptionRaw":  "Thiên phú cố định \"Lá Khẽ Bay Nghiêng\" sẽ chuyển thành:\nKhi \u003ccolor=#FFD780FF\u003ePhi Diệp Luân\u003c/color\u003e quay về sẽ cung cấp cho nhân vật trạng thái \"Lá Mới\" của thiên phú cố định \"Lá Khẽ Bay Nghiêng\", liên tục gây cho kẻ địch xung quanh một lượng \u003ccolor=#99FF88FF\u003eSát Thương Nguyên Tố Thảo\u003c/color\u003e bằng 40% tấn công của Collei, duy trì 3s.\nTừ khi thi triển \u003ccolor=#FFD780FF\u003eXua Hoa Quét Lá\u003c/color\u003e đến trước khi trạng thái \"Lá Mới\" lần này kết thúc, nếu nhân vật của bản thân trong đội kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Tăng Cường, Lan Tràn, Sum Suê, Nở Rộ, Bung Tỏa hoặc Nguyệt-Sum Suê sẽ khiến trạng thái \"Lá Mới\" lần này kéo dài thêm 3s.\nTrạng thái Lá Mới tối đa kéo dài thời gian duy trì một lần thông qua cách này; khi trong thời gian duy trì nếu kích hoạt hiệu ứng Lá Mới lần nữa sẽ xóa hiệu ứng ban đầu. Sát thương gây ra của hiệu ứng Lá Mới được tính là sát thương Kỹ Năng Nguyên Tố.\nCần mở khóa thiên phú cố định \"Lá Khẽ Bay Nghiêng\".",
-                                                                        "description":  "Thiên phú cố định \"Lá Khẽ Bay Nghiêng\" sẽ chuyển thành:\nKhi Phi Diệp Luân quay về sẽ cung cấp cho nhân vật trạng thái \"Lá Mới\" của thiên phú cố định \"Lá Khẽ Bay Nghiêng\", liên tục gây cho kẻ địch xung quanh một lượng Sát Thương Nguyên Tố Thảo bằng 40% tấn công của Collei, duy trì 3s.\nTừ khi thi triển Xua Hoa Quét Lá đến trước khi trạng thái \"Lá Mới\" lần này kết thúc, nếu nhân vật của bản thân trong đội kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Tăng Cường, Lan Tràn, Sum Suê, Nở Rộ, Bung Tỏa hoặc Nguyệt-Sum Suê sẽ khiến trạng thái \"Lá Mới\" lần này kéo dài thêm 3s.\nTrạng thái Lá Mới tối đa kéo dài thời gian duy trì một lần thông qua cách này; khi trong thời gian duy trì nếu kích hoạt hiệu ứng Lá Mới lần nữa sẽ xóa hiệu ứng ban đầu. Sát thương gây ra của hiệu ứng Lá Mới được tính là sát thương Kỹ Năng Nguyên Tố.\nCần mở khóa thiên phú cố định \"Lá Khẽ Bay Nghiêng\"."
+                                                                        "descriptionRaw":  "Thiên phú đột phá \"Lá Khẽ Bay Nghiêng\" sẽ chuyển thành:\nKhi \u003ccolor=#FFD780FF\u003ePhi Diệp Luân\u003c/color\u003e quay về sẽ cung cấp cho nhân vật trạng thái \"Lá Mới\" của thiên phú đột phá \"Lá Khẽ Bay Nghiêng\", liên tục gây cho kẻ địch xung quanh một lượng \u003ccolor=#99FF88FF\u003eSát Thương Nguyên Tố Thảo\u003c/color\u003e bằng 40% tấn công của Collei, duy trì 3s.\nTừ khi thi triển \u003ccolor=#FFD780FF\u003eXua Hoa Quét Lá\u003c/color\u003e đến trước khi trạng thái \"Lá Mới\" lần này kết thúc, nếu nhân vật của bản thân trong đội kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Tăng Cường, Lan Tràn, Sum Suê, Nở Rộ, Bung Tỏa hoặc Nguyệt-Sum Suê sẽ khiến trạng thái \"Lá Mới\" lần này kéo dài thêm 3s.\nTrạng thái Lá Mới tối đa kéo dài thời gian duy trì một lần thông qua cách này; khi trong thời gian duy trì nếu kích hoạt hiệu ứng Lá Mới lần nữa sẽ xóa hiệu ứng ban đầu. Sát thương gây ra của hiệu ứng Lá Mới được tính là sát thương Kỹ Năng Nguyên Tố.\nCần mở khóa thiên phú đột phá \"Lá Khẽ Bay Nghiêng\".",
+                                                                        "description":  "Thiên phú đột phá \"Lá Khẽ Bay Nghiêng\" sẽ chuyển thành:\nKhi Phi Diệp Luân quay về sẽ cung cấp cho nhân vật trạng thái \"Lá Mới\" của thiên phú đột phá \"Lá Khẽ Bay Nghiêng\", liên tục gây cho kẻ địch xung quanh một lượng Sát Thương Nguyên Tố Thảo bằng 40% tấn công của Collei, duy trì 3s.\nTừ khi thi triển Xua Hoa Quét Lá đến trước khi trạng thái \"Lá Mới\" lần này kết thúc, nếu nhân vật của bản thân trong đội kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Tăng Cường, Lan Tràn, Sum Suê, Nở Rộ, Bung Tỏa hoặc Nguyệt-Sum Suê sẽ khiến trạng thái \"Lá Mới\" lần này kéo dài thêm 3s.\nTrạng thái Lá Mới tối đa kéo dài thời gian duy trì một lần thông qua cách này; khi trong thời gian duy trì nếu kích hoạt hiệu ứng Lá Mới lần nữa sẽ xóa hiệu ứng ban đầu. Sát thương gây ra của hiệu ứng Lá Mới được tính là sát thương Kỹ Năng Nguyên Tố.\nCần mở khóa thiên phú đột phá \"Lá Khẽ Bay Nghiêng\"."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Quà Tặng Rừng Sâu",
@@ -4843,8 +4954,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Hình Dạng Thụy Thú",
-                                                                        "descriptionRaw":  "Sau khi Pháo Xuyên Thấu đánh trúng kẻ địch, sẽ nảy một lần giữa các kẻ địch, gây \u003ccolor=#99FF88FF\u003eSát Thương Nguyên Tố Thảo\u003c/color\u003e bằng 700% Tấn Công của Kinich.\nNếu lần Pháo Xuyên Thấu đó kích hoạt hiệu quả tăng cường Pháo Xuyên Thấu từ Thiên Phú Cố Định \"Khế Ước Của Linh Hồn Lửa\" hoặc Cung Mệnh \"Chi Của Bọ Hổ\", thì đòn tấn công nảy mà Pháo Xuyên Thấu gây ra cũng sẽ nhận được hiệu quả tăng cường nêu trên.",
-                                                                        "description":  "Sau khi Pháo Xuyên Thấu đánh trúng kẻ địch, sẽ nảy một lần giữa các kẻ địch, gây Sát Thương Nguyên Tố Thảo bằng 700% Tấn Công của Kinich.\nNếu lần Pháo Xuyên Thấu đó kích hoạt hiệu quả tăng cường Pháo Xuyên Thấu từ Thiên Phú Cố Định \"Khế Ước Của Linh Hồn Lửa\" hoặc Cung Mệnh \"Chi Của Bọ Hổ\", thì đòn tấn công nảy mà Pháo Xuyên Thấu gây ra cũng sẽ nhận được hiệu quả tăng cường nêu trên."
+                                                                        "descriptionRaw":  "Sau khi Pháo Xuyên Thấu đánh trúng kẻ địch, sẽ nảy một lần giữa các kẻ địch, gây \u003ccolor=#99FF88FF\u003eSát Thương Nguyên Tố Thảo\u003c/color\u003e bằng 700% Tấn Công của Kinich.\nNếu lần Pháo Xuyên Thấu đó kích hoạt hiệu quả tăng cường Pháo Xuyên Thấu từ Thiên Phú Đột Phá \"Khế Ước Của Linh Hồn Lửa\" hoặc Cung Mệnh \"Chi Của Bọ Hổ\", thì đòn tấn công nảy mà Pháo Xuyên Thấu gây ra cũng sẽ nhận được hiệu quả tăng cường nêu trên.",
+                                                                        "description":  "Sau khi Pháo Xuyên Thấu đánh trúng kẻ địch, sẽ nảy một lần giữa các kẻ địch, gây Sát Thương Nguyên Tố Thảo bằng 700% Tấn Công của Kinich.\nNếu lần Pháo Xuyên Thấu đó kích hoạt hiệu quả tăng cường Pháo Xuyên Thấu từ Thiên Phú Đột Phá \"Khế Ước Của Linh Hồn Lửa\" hoặc Cung Mệnh \"Chi Của Bọ Hổ\", thì đòn tấn công nảy mà Pháo Xuyên Thấu gây ra cũng sẽ nhận được hiệu quả tăng cường nêu trên."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Mỏ Của Chim Vẹt",
@@ -4884,8 +4995,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Sách Môn Đồ Của Tháp Mặt Trời",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eMũi Tên Xuyên Bóng Tối\u003c/color\u003e khi trúng kẻ địch sẽ hoàn trả Năng Lượng Nguyên Tố tiêu hao bởi thiên phú \"Thì Thầm Của Diều Đen\". Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Cần mở khóa thiên phú cố định \"Thì Thầm Của Diều Đen\".",
-                                                                        "description":  "Mũi Tên Xuyên Bóng Tối khi trúng kẻ địch sẽ hoàn trả Năng Lượng Nguyên Tố tiêu hao bởi thiên phú \"Thì Thầm Của Diều Đen\". Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Cần mở khóa thiên phú cố định \"Thì Thầm Của Diều Đen\"."
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eMũi Tên Xuyên Bóng Tối\u003c/color\u003e khi trúng kẻ địch sẽ hoàn trả Năng Lượng Nguyên Tố tiêu hao bởi thiên phú \"Thì Thầm Của Diều Đen\". Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Cần mở khóa thiên phú đột phá \"Thì Thầm Của Diều Đen\".",
+                                                                        "description":  "Mũi Tên Xuyên Bóng Tối khi trúng kẻ địch sẽ hoàn trả Năng Lượng Nguyên Tố tiêu hao bởi thiên phú \"Thì Thầm Của Diều Đen\". Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Cần mở khóa thiên phú đột phá \"Thì Thầm Của Diều Đen\"."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Khúc Thánh Ca Của Đền Phong Ấn",
@@ -5154,8 +5265,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Gian Lao Của Kẻ Nuốt Tim",
-                                                                         "descriptionRaw":  "Tăng 125 điểm Tinh Thông Nguyên Tố cho Citlali, tăng 250 điểm Tinh Thông Nguyên Tố cho nhân vật khác được Khiên Opal bảo vệ hoặc được Itzpapa đi theo.\nNgoài ra, khi thi triển Kỹ Năng Nguyên Tố \u003ccolor=#FFD780FF\u003eSương Trú Hắc Tinh\u003c/color\u003e cũng sẽ áp dụng Khiên Opal cho nhân vật trong trận ở gần.\n\nĐồng thời, hiệu quả thiên phú cố định \"Cơn Mưa Lạnh Của Mamaloaco\" được tăng cường:\nTrong thời gian Itzpapa tồn tại, sau khi nhân vật trong đội gần đó kích hoạt phản ứng Đóng Băng hoặc Tan Chảy, kẻ địch chịu ảnh hưởng bởi lần phản ứng này sẽ giảm thêm 20% Kháng \u003ccolor=#FF9999FF\u003eNguyên Tố Hỏa\u003c/color\u003e và \u003ccolor=#80C0FFFF\u003eNguyên Tố Thủy\u003c/color\u003e trong 12s. Hiệu quả này cần mở khóa thiên phú \"Cơn Mưa Lạnh Của Mamaloaco\" trước.",
-                                                                         "description":  "Tăng 125 điểm Tinh Thông Nguyên Tố cho Citlali, tăng 250 điểm Tinh Thông Nguyên Tố cho nhân vật khác được Khiên Opal bảo vệ hoặc được Itzpapa đi theo.\nNgoài ra, khi thi triển Kỹ Năng Nguyên Tố Sương Trú Hắc Tinh cũng sẽ áp dụng Khiên Opal cho nhân vật trong trận ở gần.\n\nĐồng thời, hiệu quả thiên phú cố định \"Cơn Mưa Lạnh Của Mamaloaco\" được tăng cường:\nTrong thời gian Itzpapa tồn tại, sau khi nhân vật trong đội gần đó kích hoạt phản ứng Đóng Băng hoặc Tan Chảy, kẻ địch chịu ảnh hưởng bởi lần phản ứng này sẽ giảm thêm 20% Kháng Nguyên Tố Hỏa và Nguyên Tố Thủy trong 12s. Hiệu quả này cần mở khóa thiên phú \"Cơn Mưa Lạnh Của Mamaloaco\" trước."
+                                                                         "descriptionRaw":  "Tăng 125 điểm Tinh Thông Nguyên Tố cho Citlali, tăng 250 điểm Tinh Thông Nguyên Tố cho nhân vật khác được Khiên Opal bảo vệ hoặc được Itzpapa đi theo.\nNgoài ra, khi thi triển Kỹ Năng Nguyên Tố \u003ccolor=#FFD780FF\u003eSương Trú Hắc Tinh\u003c/color\u003e cũng sẽ áp dụng Khiên Opal cho nhân vật trong trận ở gần.\n\nĐồng thời, hiệu quả thiên phú đột phá \"Cơn Mưa Lạnh Của Mamaloaco\" được tăng cường:\nTrong thời gian Itzpapa tồn tại, sau khi nhân vật trong đội gần đó kích hoạt phản ứng Đóng Băng hoặc Tan Chảy, kẻ địch chịu ảnh hưởng bởi lần phản ứng này sẽ giảm thêm 20% Kháng \u003ccolor=#FF9999FF\u003eNguyên Tố Hỏa\u003c/color\u003e và \u003ccolor=#80C0FFFF\u003eNguyên Tố Thủy\u003c/color\u003e trong 12s. Hiệu quả này cần mở khóa thiên phú \"Cơn Mưa Lạnh Của Mamaloaco\" trước.",
+                                                                         "description":  "Tăng 125 điểm Tinh Thông Nguyên Tố cho Citlali, tăng 250 điểm Tinh Thông Nguyên Tố cho nhân vật khác được Khiên Opal bảo vệ hoặc được Itzpapa đi theo.\nNgoài ra, khi thi triển Kỹ Năng Nguyên Tố Sương Trú Hắc Tinh cũng sẽ áp dụng Khiên Opal cho nhân vật trong trận ở gần.\n\nĐồng thời, hiệu quả thiên phú đột phá \"Cơn Mưa Lạnh Của Mamaloaco\" được tăng cường:\nTrong thời gian Itzpapa tồn tại, sau khi nhân vật trong đội gần đó kích hoạt phản ứng Đóng Băng hoặc Tan Chảy, kẻ địch chịu ảnh hưởng bởi lần phản ứng này sẽ giảm thêm 20% Kháng Nguyên Tố Hỏa và Nguyên Tố Thủy trong 12s. Hiệu quả này cần mở khóa thiên phú \"Cơn Mưa Lạnh Của Mamaloaco\" trước."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Xương Hồn Của Kẻ Thách Thức",
@@ -5765,8 +5876,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Hạc Lệ Viễn Nhân Gian",
-                                                                         "descriptionRaw":  "Sau khi thi triển Bộ Thiên Thê của \u003ccolor=#FFD780FF\u003eMây Trắng Bình Minh\u003c/color\u003e, Tấn Công của Xianyun tăng 20% trong 15s.\nNgoài ra, hiệu quả của thiên phú cố định \"Thầm Nghĩ Hẳn Là Tiên Trong Động\" sẽ được cường hóa: Trúc Tinh của \u003ccolor=#FFD780FF\u003eHái Sao Chạng Vạng\u003c/color\u003e khi có Tiên Lực Trợ Giúp, sẽ tăng sát thương xung kích từ Tấn Công Khi Đáp của nhân vật ra trận trong đội gần đó, mức tăng tương đương với 400% Tấn Công của Xianyun. Thông qua cách thức này, tối đa có thể khiến sát thương xung kích từ Tấn Công Khi Đáp của nhân vật ra trận trong đội gần đó tăng 18000.\nTrong một lần sát thương xung kích của Tấn Công Khi Đáp, chỉ có thể gây sát thương nêu trên cho một kẻ địch. Mỗi nhân vật mỗi 0.4s tối đa kích hoạt một lần.\nHiệu quả này cần mở khóa thiên phú cố định \"Thầm Nghĩ Hẳn Là Tiên Trong Động\".",
-                                                                         "description":  "Sau khi thi triển Bộ Thiên Thê của Mây Trắng Bình Minh, Tấn Công của Xianyun tăng 20% trong 15s.\nNgoài ra, hiệu quả của thiên phú cố định \"Thầm Nghĩ Hẳn Là Tiên Trong Động\" sẽ được cường hóa: Trúc Tinh của Hái Sao Chạng Vạng khi có Tiên Lực Trợ Giúp, sẽ tăng sát thương xung kích từ Tấn Công Khi Đáp của nhân vật ra trận trong đội gần đó, mức tăng tương đương với 400% Tấn Công của Xianyun. Thông qua cách thức này, tối đa có thể khiến sát thương xung kích từ Tấn Công Khi Đáp của nhân vật ra trận trong đội gần đó tăng 18000.\nTrong một lần sát thương xung kích của Tấn Công Khi Đáp, chỉ có thể gây sát thương nêu trên cho một kẻ địch. Mỗi nhân vật mỗi 0.4s tối đa kích hoạt một lần.\nHiệu quả này cần mở khóa thiên phú cố định \"Thầm Nghĩ Hẳn Là Tiên Trong Động\"."
+                                                                         "descriptionRaw":  "Sau khi thi triển Bộ Thiên Thê của \u003ccolor=#FFD780FF\u003eMây Trắng Bình Minh\u003c/color\u003e, Tấn Công của Xianyun tăng 20% trong 15s.\nNgoài ra, hiệu quả của thiên phú đột phá \"Thầm Nghĩ Hẳn Là Tiên Trong Động\" sẽ được cường hóa: Trúc Tinh của \u003ccolor=#FFD780FF\u003eHái Sao Chạng Vạng\u003c/color\u003e khi có Tiên Lực Trợ Giúp, sẽ tăng sát thương xung kích từ Tấn Công Khi Đáp của nhân vật ra trận trong đội gần đó, mức tăng tương đương với 400% Tấn Công của Xianyun. Thông qua cách thức này, tối đa có thể khiến sát thương xung kích từ Tấn Công Khi Đáp của nhân vật ra trận trong đội gần đó tăng 18000.\nTrong một lần sát thương xung kích của Tấn Công Khi Đáp, chỉ có thể gây sát thương nêu trên cho một kẻ địch. Mỗi nhân vật mỗi 0.4s tối đa kích hoạt một lần.\nHiệu quả này cần mở khóa thiên phú đột phá \"Thầm Nghĩ Hẳn Là Tiên Trong Động\".",
+                                                                         "description":  "Sau khi thi triển Bộ Thiên Thê của Mây Trắng Bình Minh, Tấn Công của Xianyun tăng 20% trong 15s.\nNgoài ra, hiệu quả của thiên phú đột phá \"Thầm Nghĩ Hẳn Là Tiên Trong Động\" sẽ được cường hóa: Trúc Tinh của Hái Sao Chạng Vạng khi có Tiên Lực Trợ Giúp, sẽ tăng sát thương xung kích từ Tấn Công Khi Đáp của nhân vật ra trận trong đội gần đó, mức tăng tương đương với 400% Tấn Công của Xianyun. Thông qua cách thức này, tối đa có thể khiến sát thương xung kích từ Tấn Công Khi Đáp của nhân vật ra trận trong đội gần đó tăng 18000.\nTrong một lần sát thương xung kích của Tấn Công Khi Đáp, chỉ có thể gây sát thương nêu trên cho một kẻ địch. Mỗi nhân vật mỗi 0.4s tối đa kích hoạt một lần.\nHiệu quả này cần mở khóa thiên phú đột phá \"Thầm Nghĩ Hẳn Là Tiên Trong Động\"."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Áo Diệu Phanh Thử Châu",
@@ -5847,8 +5958,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Tinh Hoa Hồ Quang",
-                                                                        "descriptionRaw":  "Khi \u003ccolor=#FFD780FF\u003eChiết Xuất Nước Hoa\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eTrình Diễn Hương Thơm\u003c/color\u003e hoặc Tinh Hoa Sương Sớm của thiên phú cố định Dư Hương (cần mở khóa thiên phú cố định) đánh trúng kẻ địch, kẻ địch này sẽ giảm 30% \u003ccolor=#99FF88FF\u003eKháng Nguyên Tố Thảo\u003c/color\u003e trong 10s.",
-                                                                        "description":  "Khi Chiết Xuất Nước Hoa, Trình Diễn Hương Thơm hoặc Tinh Hoa Sương Sớm của thiên phú cố định Dư Hương (cần mở khóa thiên phú cố định) đánh trúng kẻ địch, kẻ địch này sẽ giảm 30% Kháng Nguyên Tố Thảo trong 10s."
+                                                                        "descriptionRaw":  "Khi \u003ccolor=#FFD780FF\u003eChiết Xuất Nước Hoa\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eTrình Diễn Hương Thơm\u003c/color\u003e hoặc Tinh Hoa Sương Sớm của thiên phú đột phá Dư Hương (cần mở khóa thiên phú đột phá) đánh trúng kẻ địch, kẻ địch này sẽ giảm 30% \u003ccolor=#99FF88FF\u003eKháng Nguyên Tố Thảo\u003c/color\u003e trong 10s.",
+                                                                        "description":  "Khi Chiết Xuất Nước Hoa, Trình Diễn Hương Thơm hoặc Tinh Hoa Sương Sớm của thiên phú đột phá Dư Hương (cần mở khóa thiên phú đột phá) đánh trúng kẻ địch, kẻ địch này sẽ giảm 30% Kháng Nguyên Tố Thảo trong 10s."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Tâm Sắc Lumidouce",
@@ -6246,6 +6357,47 @@
                                      "region":  "Fontaine",
                                      "gender":  "nam"
                                  },
+                       "nefer":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Quan Sát Chuẩn Bị Là Ưu Thế",
+                                                                       "descriptionRaw":  "Hiệu quả Thiên Phú Đột Phá {LINK#P1222101}\u003ccolor=#FFD780FF\u003eĐánh Cược Dưới Trăng\u003c/color\u003e{/LINK} được cường hóa: Thời gian duy trì {LINK#N11220003}\u003ccolor=#FFD780FF\u003eBức Màn Lừa Dối\u003c/color\u003e{/LINK} kéo dài 5s, giới hạn tăng đến 5 tầng, và tối đa khiến {LINK#N11220002}\u003ccolor=#FFD780FF\u003eẢo Kịch\u003c/color\u003e{/LINK} gây ra 140% sát thương gốc. Khi Nefer thi triển Kỹ Năng Nguyên Tố \u003ccolor=#FFD780FF\u003e{LINK#S11222}Chiến Thuật Senet - Vũ Điệu Ngàn Đêm{/LINK}\u003c/color\u003e, sẽ lập tức nhận 2 tầng Bức Màn Lừa Dối. Ngoài ra, khi Bức Màn Lừa Dối cộng dồn đến 5 tầng hoặc thời gian duy trì tầng 5 được làm mới, Tinh Thông Nguyên Tố của Nefer sẽ chuyển thành tăng 200 điểm trong 8s.\nCần mở khóa thiên phú \"Đánh Cược Dưới Trăng\".",
+                                                                       "description":  "Hiệu quả Thiên Phú Đột Phá **Đánh Cược Dưới Trăng** được cường hóa: Thời gian duy trì **Bức Màn Lừa Dối** kéo dài 5s, giới hạn tăng đến 5 tầng, và tối đa khiến **Ảo Kịch** gây ra 140% sát thương gốc. Khi Nefer thi triển Kỹ Năng Nguyên Tố **Chiến Thuật Senet - Vũ Điệu Ngàn Đêm**, sẽ lập tức nhận 2 tầng Bức Màn Lừa Dối. Ngoài ra, khi Bức Màn Lừa Dối cộng dồn đến 5 tầng hoặc thời gian duy trì tầng 5 được làm mới, Tinh Thông Nguyên Tố của Nefer sẽ chuyển thành tăng 200 điểm trong 8s.\nCần mở khóa thiên phú \"Đánh Cược Dưới Trăng\"."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Tấm Lưới Mê Hoặc Kéo Vào Bẫy",
+                                                                       "descriptionRaw":  "Khi Nefer trong trận và đang trong trạng thái {LINK#N11220001}\u003ccolor=#FFD780FF\u003eẢnh Vũ\u003c/color\u003e{/LINK}, tốc độ nhận Sương Xanh tăng 25%.\nNgoài ra, khi Nefer trong trạng thái Ảnh Vũ, sẽ còn khiến kẻ địch ở gần giảm 20% \u003ccolor=#99FF88FF\u003eKháng Nguyên Tố Thảo\u003c/color\u003e. Khi Nefer không trong trạng thái Ảnh Vũ hoặc rời xa kẻ địch một khoảng cách nhất định, hiệu quả này sẽ bị xóa sau 4.5s.",
+                                                                       "description":  "Khi Nefer trong trận và đang trong trạng thái **Ảnh Vũ**, tốc độ nhận Sương Xanh tăng 25%.\nNgoài ra, khi Nefer trong trạng thái Ảnh Vũ, sẽ còn khiến kẻ địch ở gần giảm 20% Kháng Nguyên Tố Thảo. Khi Nefer không trong trạng thái Ảnh Vũ hoặc rời xa kẻ địch một khoảng cách nhất định, hiệu quả này sẽ bị xóa sau 4.5s."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Dấu Vết Dối Trá Che Sự Thật",
+                                                                       "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003e{LINK#S11222}Chiến Thuật Senet - Vũ Điệu Ngàn Đêm{/LINK}\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                       "description":  "Cấp kỹ năng **Chiến Thuật Senet - Vũ Điệu Ngàn Đêm** +3.\nTăng tối đa đến cấp 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Cơ Hội Chỉ Đến Trong Khoảnh Khắc",
+                                                                       "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003e{LINK#S11225}Thánh Ước - Ảo Kịch Chân Nhãn{/LINK}\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                       "description":  "Cấp kỹ năng **Thánh Ước - Ảo Kịch Chân Nhãn** +3.\nTăng tối đa đến cấp 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Thời Khắc Nghịch Chuyển Để Chiến Thắng",
+                                                                       "descriptionRaw":  "Khi Nefer thi triển {LINK#N11220002}\u003ccolor=#FFD780FF\u003eẢo Kịch\u003c/color\u003e{/LINK}, sát thương đòn hai do bản thân gây ra sẽ chuyển thành gây \u003ccolor=#99FF88FF\u003eSát Thương Phạm Vi Nguyên Tố Thảo\u003c/color\u003e tương đương 85% Tinh Thông Nguyên Tố của Nefer. Ngoài ra, khi kết thúc tấn công Ảo Kịch, sẽ gây thêm một lần \u003ccolor=#99FF88FF\u003eSát Thương Phạm Vi Nguyên Tố Thảo\u003c/color\u003e tương đương 120% Tinh Thông Nguyên Tố của Nefer. Sát thương nêu trên đều được xem là sát thương phản ứng Nguyệt-Sum Suê do Ảo Kịch gây ra.\n\n\u003ccolor=#FFD780FF\u003eNguyệt Triệu - Rực Sáng\u003c/color\u003e\nSát thương phản ứng Nguyệt-Sum Suê do Nefer gây ra sẽ {LINK#N11190007}\u003ccolor=#FFD780FF\u003eThăng Tiến\u003c/color\u003e{/LINK} 15%.",
+                                                                       "description":  "Khi Nefer thi triển **Ảo Kịch**, sát thương đòn hai do bản thân gây ra sẽ chuyển thành gây Sát Thương Phạm Vi Nguyên Tố Thảo tương đương 85% Tinh Thông Nguyên Tố của Nefer. Ngoài ra, khi kết thúc tấn công Ảo Kịch, sẽ gây thêm một lần Sát Thương Phạm Vi Nguyên Tố Thảo tương đương 120% Tinh Thông Nguyên Tố của Nefer. Sát thương nêu trên đều được xem là sát thương phản ứng Nguyệt-Sum Suê do Ảo Kịch gây ra.\n\nNguyệt Triệu - Rực Sáng\nSát thương phản ứng Nguyệt-Sum Suê do Nefer gây ra sẽ **Thăng Tiến** 15%."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Kế Hoạch Là Khởi Đầu Của Thành Bại",
+                                                                       "descriptionRaw":  "Tăng sát thương cơ bản của phản ứng Nguyệt-Sum Suê gây ra bởi {LINK#N11220002}\u003ccolor=#FFD780FF\u003eẢo Kịch\u003c/color\u003e{/LINK} của Nefer, lượng tăng lên tương đương 60% Tinh Thông Nguyên Tố của Nefer. Hiệu quả này cũng sẽ được buff bởi {LINK#N11220003}\u003ccolor=#FFD780FF\u003eBức Màn Lừa Dối\u003c/color\u003e{/LINK}.",
+                                                                       "description":  "Tăng sát thương cơ bản của phản ứng Nguyệt-Sum Suê gây ra bởi **Ảo Kịch** của Nefer, lượng tăng lên tương đương 60% Tinh Thông Nguyên Tố của Nefer. Hiệu quả này cũng sẽ được buff bởi **Bức Màn Lừa Dối**."
+                                                                   }
+                                                        },
+                                     "elementText":  "Thảo",
+                                     "fullname":  null,
+                                     "weaponText":  "Pháp Khí",
+                                     "name":  "Nefer",
+                                     "substatText":  "ST Bạo Kích",
+                                     "region":  "Nod-Krai",
+                                     "gender":  "nữ"
+                                 },
                        "aloy":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6357,8 +6509,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "\"Nhược Hữu Nhân Hề Vân Chi Tế\"",
-                                                                        "descriptionRaw":  "Sau khi kích hoạt chuyển hóa nguyên tố của thiên phú \"Tứ Qua Phong Đao Linh Bốc\", khi Lan Yan ném Tiễn Nguyệt Hoàn của lần Kỹ Năng Nguyên Tố \u003ccolor=#FFD780FF\u003eVũ Điệu Phượng Hoàng\u003c/color\u003e này sẽ ném thêm một cái nữa.\nCần mở khóa thiên phú cố định \"Tứ Qua Phong Đao Linh Bốc\".",
-                                                                        "description":  "Sau khi kích hoạt chuyển hóa nguyên tố của thiên phú \"Tứ Qua Phong Đao Linh Bốc\", khi Lan Yan ném Tiễn Nguyệt Hoàn của lần Kỹ Năng Nguyên Tố Vũ Điệu Phượng Hoàng này sẽ ném thêm một cái nữa.\nCần mở khóa thiên phú cố định \"Tứ Qua Phong Đao Linh Bốc\"."
+                                                                        "descriptionRaw":  "Sau khi kích hoạt chuyển hóa nguyên tố của thiên phú \"Tứ Qua Phong Đao Linh Bốc\", khi Lan Yan ném Tiễn Nguyệt Hoàn của lần Kỹ Năng Nguyên Tố \u003ccolor=#FFD780FF\u003eVũ Điệu Phượng Hoàng\u003c/color\u003e này sẽ ném thêm một cái nữa.\nCần mở khóa thiên phú đột phá \"Tứ Qua Phong Đao Linh Bốc\".",
+                                                                        "description":  "Sau khi kích hoạt chuyển hóa nguyên tố của thiên phú \"Tứ Qua Phong Đao Linh Bốc\", khi Lan Yan ném Tiễn Nguyệt Hoàn của lần Kỹ Năng Nguyên Tố Vũ Điệu Phượng Hoàng này sẽ ném thêm một cái nữa.\nCần mở khóa thiên phú đột phá \"Tứ Qua Phong Đao Linh Bốc\"."
                                                                     }
                                                          },
                                       "elementText":  "Phong",
@@ -6504,8 +6656,8 @@
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "Công Thức Hương Thảo Thần Bí",
-                                                                           "descriptionRaw":  "Thời gian duy trì {LINK#P1122101}\u003ccolor=#FFD780FF\u003eChế Độ Ăn Phục Hồi\u003c/color\u003e{/LINK} kéo dài thêm 6s. Trong thời gian duy trì, khi kích hoạt chữa trị thông qua \u003ccolor=#FFD780FF\u003eChế Độ Ăn Phục Hồi\u003c/color\u003e, có xác suất nhất định khiến lượng chữa trị tăng 100%, đồng thời hồi phục 2 điểm Năng Lượng Nguyên Tố cho Escoffier, xác suất này tương đương với Tỷ Lệ Bạo Kích của Escoffier. Trong một lần duy trì \u003ccolor=#FFD780FF\u003eChế Độ Ăn Phục Hồi\u003c/color\u003e, hiệu quả này tối đa kích hoạt 7 lần.\nCần mở khóa thiên phú cố định \"Món Ngon Còn Hơn Thuốc Bổ\".",
-                                                                           "description":  "Thời gian duy trì **Chế Độ Ăn Phục Hồi** kéo dài thêm 6s. Trong thời gian duy trì, khi kích hoạt chữa trị thông qua Chế Độ Ăn Phục Hồi, có xác suất nhất định khiến lượng chữa trị tăng 100%, đồng thời hồi phục 2 điểm Năng Lượng Nguyên Tố cho Escoffier, xác suất này tương đương với Tỷ Lệ Bạo Kích của Escoffier. Trong một lần duy trì Chế Độ Ăn Phục Hồi, hiệu quả này tối đa kích hoạt 7 lần.\nCần mở khóa thiên phú cố định \"Món Ngon Còn Hơn Thuốc Bổ\"."
+                                                                           "descriptionRaw":  "Thời gian duy trì {LINK#P1122101}\u003ccolor=#FFD780FF\u003eChế Độ Ăn Phục Hồi\u003c/color\u003e{/LINK} kéo dài thêm 6s. Trong thời gian duy trì, khi kích hoạt chữa trị thông qua \u003ccolor=#FFD780FF\u003eChế Độ Ăn Phục Hồi\u003c/color\u003e, có xác suất nhất định khiến lượng chữa trị tăng 100%, đồng thời hồi phục 2 điểm Năng Lượng Nguyên Tố cho Escoffier, xác suất này tương đương với Tỷ Lệ Bạo Kích của Escoffier. Trong một lần duy trì \u003ccolor=#FFD780FF\u003eChế Độ Ăn Phục Hồi\u003c/color\u003e, hiệu quả này tối đa kích hoạt 7 lần.\nCần mở khóa thiên phú đột phá \"Món Ngon Còn Hơn Thuốc Bổ\".",
+                                                                           "description":  "Thời gian duy trì **Chế Độ Ăn Phục Hồi** kéo dài thêm 6s. Trong thời gian duy trì, khi kích hoạt chữa trị thông qua Chế Độ Ăn Phục Hồi, có xác suất nhất định khiến lượng chữa trị tăng 100%, đồng thời hồi phục 2 điểm Năng Lượng Nguyên Tố cho Escoffier, xác suất này tương đương với Tỷ Lệ Bạo Kích của Escoffier. Trong một lần duy trì Chế Độ Ăn Phục Hồi, hiệu quả này tối đa kích hoạt 7 lần.\nCần mở khóa thiên phú đột phá \"Món Ngon Còn Hơn Thuốc Bổ\"."
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "Ma Thuật Nướng Sốt Caramel",
@@ -6524,8 +6676,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Vũ Điệu Trước Bữa Ăn",
-                                                                           "descriptionRaw":  "Khi loại nguyên tố của 4 nhân vật trong đội là \u003ccolor=#80C0FFFF\u003eThủy\u003c/color\u003e hoặc \u003ccolor=#99FFFFFF\u003eBăng\u003c/color\u003e, trong vòng 15s sau khi Escoffier thi triển Kỹ Năng Nguyên Tố \u003ccolor=#FFD780FF\u003e{LINK#S11122}Nấu Với Lửa Nhỏ{/LINK}\u003c/color\u003e hoặc Kỹ Năng Nộ \u003ccolor=#FFD780FF\u003e{LINK#S11125}Tuyệt Kỹ Cắt Gọt{/LINK}\u003c/color\u003e, tất cả nhân vật trong đội gần đó khi gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e sẽ tăng 60% Sát Thương Bạo Kích.\nCần mở khóa thiên phú cố định \"Đưa Cảm Hứng Vào Hương Vị\".",
-                                                                           "description":  "Khi loại nguyên tố của 4 nhân vật trong đội là Thủy hoặc Băng, trong vòng 15s sau khi Escoffier thi triển Kỹ Năng Nguyên Tố **Nấu Với Lửa Nhỏ** hoặc Kỹ Năng Nộ **Tuyệt Kỹ Cắt Gọt**, tất cả nhân vật trong đội gần đó khi gây Sát Thương Nguyên Tố Băng sẽ tăng 60% Sát Thương Bạo Kích.\nCần mở khóa thiên phú cố định \"Đưa Cảm Hứng Vào Hương Vị\"."
+                                                                           "descriptionRaw":  "Khi loại nguyên tố của 4 nhân vật trong đội là \u003ccolor=#80C0FFFF\u003eThủy\u003c/color\u003e hoặc \u003ccolor=#99FFFFFF\u003eBăng\u003c/color\u003e, trong vòng 15s sau khi Escoffier thi triển Kỹ Năng Nguyên Tố \u003ccolor=#FFD780FF\u003e{LINK#S11122}Nấu Với Lửa Nhỏ{/LINK}\u003c/color\u003e hoặc Kỹ Năng Nộ \u003ccolor=#FFD780FF\u003e{LINK#S11125}Tuyệt Kỹ Cắt Gọt{/LINK}\u003c/color\u003e, tất cả nhân vật trong đội gần đó khi gây \u003ccolor=#99FFFFFF\u003eSát Thương Nguyên Tố Băng\u003c/color\u003e sẽ tăng 60% Sát Thương Bạo Kích.\nCần mở khóa thiên phú đột phá \"Đưa Cảm Hứng Vào Hương Vị\".",
+                                                                           "description":  "Khi loại nguyên tố của 4 nhân vật trong đội là Thủy hoặc Băng, trong vòng 15s sau khi Escoffier thi triển Kỹ Năng Nguyên Tố **Nấu Với Lửa Nhỏ** hoặc Kỹ Năng Nộ **Tuyệt Kỹ Cắt Gọt**, tất cả nhân vật trong đội gần đó khi gây Sát Thương Nguyên Tố Băng sẽ tăng 60% Sát Thương Bạo Kích.\nCần mở khóa thiên phú đột phá \"Đưa Cảm Hứng Vào Hương Vị\"."
                                                                        }
                                                             },
                                          "elementText":  "Băng",
@@ -6909,8 +7061,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "Mưa Hoa Trời Sao",
-                                                                       "descriptionRaw":  "Nhân vật trong trạng thái \"Phước Lành Ly Vàng\" sau khi gây \u003ccolor=#80C0FFFF\u003eSát Thương Nguyên Tố Thủy\u003c/color\u003e lên kẻ địch sẽ khiến kẻ địch đó giảm 35% \u003ccolor=#80C0FFFF\u003eKháng Nguyên Tố Thủy\u003c/color\u003e, duy trì 10s. Sau khi gây sát thương phản ứng Sum Suê hoặc Nguyệt-Sum Suê cho kẻ địch sẽ khiến kẻ địch đó giảm 35% \u003ccolor=#99FF88FF\u003eKháng Nguyên Tố Thảo\u003c/color\u003e, duy trì 10s.\nCần phải mở khóa thiên phú cố định \"Sảnh Đường Ngân Nga\".",
-                                                                       "description":  "Nhân vật trong trạng thái \"Phước Lành Ly Vàng\" sau khi gây Sát Thương Nguyên Tố Thủy lên kẻ địch sẽ khiến kẻ địch đó giảm 35% Kháng Nguyên Tố Thủy, duy trì 10s. Sau khi gây sát thương phản ứng Sum Suê hoặc Nguyệt-Sum Suê cho kẻ địch sẽ khiến kẻ địch đó giảm 35% Kháng Nguyên Tố Thảo, duy trì 10s.\nCần phải mở khóa thiên phú cố định \"Sảnh Đường Ngân Nga\"."
+                                                                       "descriptionRaw":  "Nhân vật trong trạng thái \"Phước Lành Ly Vàng\" sau khi gây \u003ccolor=#80C0FFFF\u003eSát Thương Nguyên Tố Thủy\u003c/color\u003e lên kẻ địch sẽ khiến kẻ địch đó giảm 35% \u003ccolor=#80C0FFFF\u003eKháng Nguyên Tố Thủy\u003c/color\u003e, duy trì 10s. Sau khi gây sát thương phản ứng Sum Suê hoặc Nguyệt-Sum Suê cho kẻ địch sẽ khiến kẻ địch đó giảm 35% \u003ccolor=#99FF88FF\u003eKháng Nguyên Tố Thảo\u003c/color\u003e, duy trì 10s.\nCần phải mở khóa thiên phú đột phá \"Sảnh Đường Ngân Nga\".",
+                                                                       "description":  "Nhân vật trong trạng thái \"Phước Lành Ly Vàng\" sau khi gây Sát Thương Nguyên Tố Thủy lên kẻ địch sẽ khiến kẻ địch đó giảm 35% Kháng Nguyên Tố Thủy, duy trì 10s. Sau khi gây sát thương phản ứng Sum Suê hoặc Nguyệt-Sum Suê cho kẻ địch sẽ khiến kẻ địch đó giảm 35% Kháng Nguyên Tố Thảo, duy trì 10s.\nCần phải mở khóa thiên phú đột phá \"Sảnh Đường Ngân Nga\"."
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Tiết Tấu Sóng Gợn",
@@ -10222,6 +10374,53 @@
                                                     },
                                              "effectName":  "Khí Định Thần"
                                          },
+                    "reliquaryoftruth":  {
+                                             "r3":  {
+                                                        "description":  "Tỷ Lệ Bạo Kích tăng 12%. Khi thi triển Kỹ Năng Nguyên Tố, người trang bị sẽ nhận hiệu quả \"Bí Ẩn Dối Trá\": Tinh Thông Nguyên Tố tăng 120 điểm trong 12s. Khi người trang bị gây sát thương phản ứng Nguyệt-Sum Suê lên kẻ địch, người trang bị sẽ nhận hiệu quả \"Ánh Trăng Sự Thật\": Sát Thương Bạo Kích tăng 36% trong 4s. Khi Bí Ẩn Dối Trá và Ánh Trăng Sự Thật cùng tồn tại, các hiệu quả này sẽ lần lượt tăng thêm 50%.",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "120",
+                                                                       "36%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Tỷ Lệ Bạo Kích tăng 16%. Khi thi triển Kỹ Năng Nguyên Tố, người trang bị sẽ nhận hiệu quả \"Bí Ẩn Dối Trá\": Tinh Thông Nguyên Tố tăng 160 điểm trong 12s. Khi người trang bị gây sát thương phản ứng Nguyệt-Sum Suê lên kẻ địch, người trang bị sẽ nhận hiệu quả \"Ánh Trăng Sự Thật\": Sát Thương Bạo Kích tăng 48% trong 4s. Khi Bí Ẩn Dối Trá và Ánh Trăng Sự Thật cùng tồn tại, các hiệu quả này sẽ lần lượt tăng thêm 50%.",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "160",
+                                                                       "48%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Tỷ Lệ Bạo Kích tăng 10%. Khi thi triển Kỹ Năng Nguyên Tố, người trang bị sẽ nhận hiệu quả \"Bí Ẩn Dối Trá\": Tinh Thông Nguyên Tố tăng 100 điểm trong 12s. Khi người trang bị gây sát thương phản ứng Nguyệt-Sum Suê lên kẻ địch, người trang bị sẽ nhận hiệu quả \"Ánh Trăng Sự Thật\": Sát Thương Bạo Kích tăng 30% trong 4s. Khi Bí Ẩn Dối Trá và Ánh Trăng Sự Thật cùng tồn tại, các hiệu quả này sẽ lần lượt tăng thêm 50%.",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "100",
+                                                                       "30%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Tỷ Lệ Bạo Kích tăng 14%. Khi thi triển Kỹ Năng Nguyên Tố, người trang bị sẽ nhận hiệu quả \"Bí Ẩn Dối Trá\": Tinh Thông Nguyên Tố tăng 140 điểm trong 12s. Khi người trang bị gây sát thương phản ứng Nguyệt-Sum Suê lên kẻ địch, người trang bị sẽ nhận hiệu quả \"Ánh Trăng Sự Thật\": Sát Thương Bạo Kích tăng 42% trong 4s. Khi Bí Ẩn Dối Trá và Ánh Trăng Sự Thật cùng tồn tại, các hiệu quả này sẽ lần lượt tăng thêm 50%.",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "140",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "ST Bạo Kích",
+                                             "weaponText":  "Pháp Khí",
+                                             "name":  "Chân Ngôn Bí Hạp",
+                                             "effectTemplateRaw":  "Tỷ Lệ Bạo Kích tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Khi thi triển Kỹ Năng Nguyên Tố, người trang bị sẽ nhận hiệu quả \"Bí Ẩn Dối Trá\": Tinh Thông Nguyên Tố tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e điểm trong 12s. Khi người trang bị gây sát thương phản ứng Nguyệt-Sum Suê lên kẻ địch, người trang bị sẽ nhận hiệu quả \"Ánh Trăng Sự Thật\": Sát Thương Bạo Kích tăng \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e trong 4s. Khi Bí Ẩn Dối Trá và Ánh Trăng Sự Thật cùng tồn tại, các hiệu quả này sẽ lần lượt tăng thêm 50%.",
+                                             "r1":  {
+                                                        "description":  "Tỷ Lệ Bạo Kích tăng 8%. Khi thi triển Kỹ Năng Nguyên Tố, người trang bị sẽ nhận hiệu quả \"Bí Ẩn Dối Trá\": Tinh Thông Nguyên Tố tăng 80 điểm trong 12s. Khi người trang bị gây sát thương phản ứng Nguyệt-Sum Suê lên kẻ địch, người trang bị sẽ nhận hiệu quả \"Ánh Trăng Sự Thật\": Sát Thương Bạo Kích tăng 24% trong 4s. Khi Bí Ẩn Dối Trá và Ánh Trăng Sự Thật cùng tồn tại, các hiệu quả này sẽ lần lượt tăng thêm 50%.",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "80",
+                                                                       "24%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Thành Ý Dối Trá"
+                                         },
                     "keyofkhajnisut":  {
                                            "r3":  {
                                                       "description":  "HP tăng 30%. Khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch sẽ sản sinh hiệu ứng \"Áng Thơ Vĩ Đại\" trong 20s: Tăng Tinh Thông Nguyên Tố dựa trên 0.18% giới hạn HP của nhân vật trang bị vũ khí này, hiệu ứng này mỗi 0.3s tối đa kích hoạt một lần, tối đa cộng dồn 3 tầng. Khi hiệu quả cộng dồn đến tầng thứ ba hoặc thời gian duy trì của tầng thứ ba được làm mới, sẽ tăng Tinh Thông Nguyên Tố cho tất cả nhân vật trong đội gần đó dựa theo 0.3% giới hạn HP của nhân vật trang bị vũ khí này, duy trì 20s.",
@@ -11715,6 +11914,48 @@
                                                    },
                                             "effectName":  "Bí Ẩn Gương Và Khói"
                                         },
+                    "dawningfrost":  {
+                                         "r3":  {
+                                                    "description":  "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 108. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 72.",
+                                                    "values":  [
+                                                                   "108",
+                                                                   "72"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 144. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 96.",
+                                                    "values":  [
+                                                                   "144",
+                                                                   "96"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 90. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 60.",
+                                                    "values":  [
+                                                                   "90",
+                                                                   "60"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 126. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 84.",
+                                                    "values":  [
+                                                                   "126",
+                                                                   "84"
+                                                               ]
+                                                },
+                                         "substatText":  "ST Bạo Kích",
+                                         "weaponText":  "Pháp Khí",
+                                         "name":  "Sương Mai",
+                                         "effectTemplateRaw":  "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                         "r1":  {
+                                                    "description":  "Trong 10s sau khi Trọng Kích đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 72. Trong 10s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch，Tinh Thông Nguyên Tố tăng 48.",
+                                                    "values":  [
+                                                                   "72",
+                                                                   "48"
+                                                               ]
+                                                },
+                                         "effectName":  "Giấc Mộng Đêm Khuya"
+                                     },
                     "cinnabarspindle":  {
                                             "r3":  {
                                                        "description":  "Tăng sát thương do Kỹ Năng Nguyên Tố gây ra, lượng tăng thêm tương đương 60% phòng ngự. Hiệu quả này mỗi 1.5s tối đa kích hoạt 1 lần, sau 0.1s khi Kỹ Năng Nguyên Tố gây ra sát thương, hiệu quả này sẽ biến mất.",
@@ -12653,6 +12894,48 @@
                                               },
                                        "effectName":  "Lời Nói Thẳng Thắn"
                                    },
+                    "sacrificersstaff":  {
+                                             "r3":  {
+                                                        "description":  "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 12%, Hiệu Quả Nạp Nguyên Tố tăng 9%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt.",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "9%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 16%, Hiệu Quả Nạp Nguyên Tố tăng 12%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt.",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "12%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 10%, Hiệu Quả Nạp Nguyên Tố tăng 7.5%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt.",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "7.5%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 14%, Hiệu Quả Nạp Nguyên Tố tăng 10.5%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt.",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "10.5%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "Tỷ Lệ Bạo Kích",
+                                             "weaponText":  "Vũ Khí Cán Dài",
+                                             "name":  "Quyền Trượng Kẻ Thánh Tế",
+                                             "effectTemplateRaw":  "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, Hiệu Quả Nạp Nguyên Tố tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt.",
+                                             "r1":  {
+                                                        "description":  "Trong 6s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch, Tấn Công tăng 8%, Hiệu Quả Nạp Nguyên Tố tăng 6%. Hiệu quả này tối đa cộng dồn 3 tầng, người trang bị khi không ra trận vẫn có thể kích hoạt.",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "6%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Mong Muốn Chưa Vấy Bẩn"
+                                         },
                     "flowingpurity":  {
                                           "r3":  {
                                                      "description":  "Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng 12% buff sát thương tất cả nguyên tố, duy trì 15s, và cung cấp Khế Ước Sinh Mệnh tương đương 24% HP tối đa, hiệu quả này mỗi 10s tối đa kích hoạt một lần. Khi xóa Khế Ước Sinh Mệnh, mỗi 1000 điểm xóa đi sẽ cung cấp 3% buff sát thương tất cả nguyên tố, tối đa nhận được 18% buff sát thương tất cả nguyên tố thông qua cách này, duy trì 15s.",
@@ -17080,6 +17363,10 @@
                                                },
                     "bubblerseahorse":  {
                                             "name":  "Cá Ngựa Bong Bóng Đực",
+                                            "specialname":  null
+                                        },
+                    "frostnightherra":  {
+                                            "name":  "Linh Chủ Đêm Sương",
                                             "specialname":  null
                                         },
                     "bitingcoldwayobmanifestation":  {

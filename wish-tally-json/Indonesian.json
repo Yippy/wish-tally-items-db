@@ -27,14 +27,6 @@
                                                                                "Minggu"
                                                                            ]
                                                         },
-                    "domainofforgerysubmergedvalleyi":  {
-                                                            "entranceName":  "Cecilia Garden",
-                                                            "daysofweek":  [
-                                                                               "Selasa",
-                                                                               "Jumat",
-                                                                               "Minggu"
-                                                                           ]
-                                                        },
                     "domainofmasteryfullmooni":  {
                                                      "entranceName":  "Steeple of Ignorance",
                                                      "daysofweek":  [
@@ -99,6 +91,14 @@
                                                                       "Minggu"
                                                                   ]
                                                },
+                    "domainofmasteryfallencityi":  {
+                                                       "entranceName":  "Lightless Capital",
+                                                       "daysofweek":  [
+                                                                          "Senin",
+                                                                          "Kamis",
+                                                                          "Minggu"
+                                                                      ]
+                                                   },
                     "domainofforgeryartisanshipi":  {
                                                         "entranceName":  "Echoes of the Deep Tides",
                                                         "daysofweek":  [
@@ -163,14 +163,14 @@
                                                                                  "Minggu"
                                                                              ]
                                                           },
-                    "domainofforgerysandburiali":  {
-                                                       "entranceName":  "Court of Flowing Sand",
-                                                       "daysofweek":  [
-                                                                          "Rabu",
-                                                                          "Sabtu",
-                                                                          "Minggu"
-                                                                      ]
-                                                   },
+                    "domainofforgerysubmergedvalleyi":  {
+                                                            "entranceName":  "Cecilia Garden",
+                                                            "daysofweek":  [
+                                                                               "Selasa",
+                                                                               "Jumat",
+                                                                               "Minggu"
+                                                                           ]
+                                                        },
                     "domainofmasterychimingrecitationi":  {
                                                               "entranceName":  "Pale Forgotten Glory",
                                                               "daysofweek":  [
@@ -235,6 +235,30 @@
                                                                             "Minggu"
                                                                         ]
                                                      },
+                    "domainofforgerysandburiali":  {
+                                                       "entranceName":  "Court of Flowing Sand",
+                                                       "daysofweek":  [
+                                                                          "Rabu",
+                                                                          "Sabtu",
+                                                                          "Minggu"
+                                                                      ]
+                                                   },
+                    "domainofforgeryprayerssungi":  {
+                                                        "entranceName":  "Lost Mooncourt",
+                                                        "daysofweek":  [
+                                                                           "Selasa",
+                                                                           "Jumat",
+                                                                           "Minggu"
+                                                                       ]
+                                                    },
+                    "domainofmasteryoverturnedroosti":  {
+                                                            "entranceName":  "Lightless Capital",
+                                                            "daysofweek":  [
+                                                                               "Rabu",
+                                                                               "Sabtu",
+                                                                               "Minggu"
+                                                                           ]
+                                                        },
                     "domainofforgeryscryingshadowsi":  {
                                                            "entranceName":  "Ancient Watchtower",
                                                            "daysofweek":  [
@@ -275,6 +299,14 @@
                                                                                  "Minggu"
                                                                              ]
                                                           },
+                    "domainofmasteryshadowedlegacyi":  {
+                                                           "entranceName":  "Lightless Capital",
+                                                           "daysofweek":  [
+                                                                              "Selasa",
+                                                                              "Jumat",
+                                                                              "Minggu"
+                                                                          ]
+                                                       },
                     "domainofmasteryadmonishingengravingi":  {
                                                                  "entranceName":  "Pale Forgotten Glory",
                                                                  "daysofweek":  [
@@ -283,6 +315,14 @@
                                                                                     "Minggu"
                                                                                 ]
                                                              },
+                    "domainofforgeryradiantsplendori":  {
+                                                            "entranceName":  "Lost Mooncourt",
+                                                            "daysofweek":  [
+                                                                               "Senin",
+                                                                               "Kamis",
+                                                                               "Minggu"
+                                                                           ]
+                                                        },
                     "domainofforgeryattentiveobservationi":  {
                                                                  "entranceName":  "Ancient Watchtower",
                                                                  "daysofweek":  [
@@ -293,18 +333,21 @@
                                                              }
                 },
     "materials":  {
+                      "sunsettia":  {
+                                        "name":  "Sunsettia"
+                                    },
                       "sandbearerwood":  {
                                              "name":  "Sandbearer Wood"
                                          },
-                      "cultivationareaexpansionii":  {
-                                                         "name":  "Perluasan Area Budi Daya (II)"
-                                                     },
+                      "mora":  {
+                                   "name":  "Mora"
+                               },
                       "varunadalazuritesliver":  {
                                                      "name":  "Varunada Lazurite Sliver"
                                                  },
-                      "birchwood":  {
-                                        "name":  "Birch Wood"
-                                    },
+                      "guidetofreedom":  {
+                                             "name":  "Guide to Freedom"
+                                         },
                       "improvedalchemycauldronii":  {
                                                         "name":  "Peningkatan Kuali Alkimia (II)"
                                                     },
@@ -341,9 +384,9 @@
                       "ainostoolboxempty":  {
                                                 "name":  "Aino\u0027s Toolbox (Empty)"
                                             },
-                      "sheathofthesecretsource":  {
-                                                      "name":  "Sheath of the Secret Source"
-                                                  },
+                      "electroculus":  {
+                                           "name":  "Electroculus"
+                                       },
                       "flashingmaintenancemekbait":  {
                                                          "name":  "Flashing Maintenance Mek Bait"
                                                      },
@@ -359,6 +402,9 @@
                       "brownshirakodai":  {
                                               "name":  "Brown Shirakodai"
                                           },
+                      "geoculus":  {
+                                       "name":  "Geoculus"
+                                   },
                       "philosophiesofjustice":  {
                                                     "name":  "Philosophies of Justice"
                                                 },
@@ -440,9 +486,9 @@
                       "shardofashatteredwill":  {
                                                     "name":  "Shard of a Shattered Will"
                                                 },
-                      "brilliantdiamondchunk":  {
-                                                    "name":  "Brilliant Diamond Chunk"
-                                                },
+                      "dragonheirsfalsefin":  {
+                                                  "name":  "Dragonheir\u0027s False Fin"
+                                              },
                       "yellowobsidianring":  {
                                                  "name":  "Yellow Obsidian Ring"
                                              },
@@ -455,6 +501,9 @@
                       "springofpuresacreddewdrop":  {
                                                         "name":  "Spring of Pure Sacred Dewdrop"
                                                     },
+                      "radiantantler":  {
+                                            "name":  "Radiant Antler"
+                                        },
                       "loachpearl":  {
                                          "name":  "Loach Pearl"
                                      },
@@ -563,6 +612,9 @@
                       "brilliantdiamondsliver":  {
                                                      "name":  "Brilliant Diamond Sliver"
                                                  },
+                      "lumenspar":  {
+                                        "name":  "Lumenspar"
+                                    },
                       "zaytunpeach":  {
                                           "name":  "Zaytun Peach"
                                       },
@@ -623,6 +675,9 @@
                       "aureateradianceofthefarnorthscions":  {
                                                                  "name":  "Aureate Radiance of the Far-North Scions"
                                                              },
+                      "pyroculus":  {
+                                        "name":  "Pyroculus"
+                                    },
                       "dakasbell":  {
                                         "name":  "Daka\u0027s Bell"
                                     },
@@ -869,6 +924,9 @@
                       "witheringpurpurbloom":  {
                                                    "name":  "Withering Purpurbloom"
                                                },
+                      "lunoculus":  {
+                                        "name":  "Lunoculus"
+                                    },
                       "cakefortraveler":  {
                                               "name":  "Cake for Traveler"
                                           },
@@ -899,6 +957,9 @@
                       "shuttleofodara":  {
                                              "name":  "Shuttle of Odara"
                                          },
+                      "lazuriteaxemarlin":  {
+                                                "name":  "Lazurite Axe Marlin"
+                                            },
                       "northlandercatalystbillet":  {
                                                         "name":  "Northlander Catalyst Billet"
                                                     },
@@ -1013,9 +1074,6 @@
                       "shivadajadesliver":  {
                                                 "name":  "Shivada Jade Sliver"
                                             },
-                      "guidetofreedom":  {
-                                             "name":  "Guide to Freedom"
-                                         },
                       "heartofthesecretsource":  {
                                                      "name":  "Heart of the Secret Source"
                                                  },
@@ -1163,6 +1221,9 @@
                       "tourbillondevice":  {
                                                "name":  "\"Tourbillon Device\""
                                            },
+                      "chronicleexp":  {
+                                           "name":  "Chronicle EXP"
+                                       },
                       "maintenancemekinitialconfiguration":  {
                                                                  "name":  "Maintenance Mek: Initial Configuration"
                                                              },
@@ -1214,6 +1275,9 @@
                       "cultivationareaexpansioniv":  {
                                                          "name":  "Perluasan Area Budi Daya (IV)"
                                                      },
+                      "crimsonagatedisplay":  {
+                                                  "name":  "Crimson Agate (Display)"
+                                              },
                       "shivadajadechunk":  {
                                                "name":  "Shivada Jade Chunk"
                                            },
@@ -1319,6 +1383,9 @@
                       "teachingsofequity":  {
                                                 "name":  "Teachings of Equity"
                                             },
+                      "dendroculus":  {
+                                          "name":  "Dendroculus"
+                                      },
                       "guidetoconflict":  {
                                               "name":  "Guide to Conflict"
                                           },
@@ -1367,6 +1434,9 @@
                       "unfadingsilkygrace":  {
                                                  "name":  "Unfading Silky Grace"
                                              },
+                      "spiritcarp":  {
+                                         "name":  "Spirit Carp"
+                                     },
                       "ironchunk":  {
                                         "name":  "Iron Chunk"
                                     },
@@ -1388,9 +1458,12 @@
                       "scorchedstarshroom":  {
                                                  "name":  "Scorched Starshroom"
                                              },
-                      "sunsettia":  {
-                                        "name":  "Sunsettia"
-                                    },
+                      "keysigil":  {
+                                       "name":  "Sigil Kunci"
+                                   },
+                      "anemoculus":  {
+                                         "name":  "Anemoculus"
+                                     },
                       "prithivatopazfragment":  {
                                                     "name":  "Prithiva Topaz Fragment"
                                                 },
@@ -1400,6 +1473,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027s Wisdom"
                                           },
+                      "lumenstoneore":  {
+                                            "name":  "Lumenstone Ore"
+                                        },
                       "dustofenlightenment":  {
                                                   "name":  "Dust of Enlightenment"
                                               },
@@ -1424,9 +1500,9 @@
                       "empowereddragontooth":  {
                                                    "name":  "Empowered Dragontooth"
                                                },
-                      "keysigil":  {
-                                       "name":  "Sigil Kunci"
-                                   },
+                      "chroniclesoftherealms":  {
+                                                    "name":  "Chronicles of the Realms"
+                                                },
                       "goldenbranchofadistantsea":  {
                                                         "name":  "Golden Branch of a Distant Sea"
                                                     },
@@ -1616,6 +1692,9 @@
                       "teachingsoftransience":  {
                                                     "name":  "Teachings of Transience"
                                                 },
+                      "dandelionbookmark":  {
+                                                "name":  "Dandelion Bookmark"
+                                            },
                       "riftcore":  {
                                        "name":  "Rift Core"
                                    },
@@ -1628,9 +1707,9 @@
                       "winegobletofthepristinesea":  {
                                                          "name":  "Wine Goblet of the Pristine Sea"
                                                      },
-                      "sugar":  {
-                                    "name":  "Sugar"
-                                },
+                      "moonchasecharm":  {
+                                             "name":  "Moonchase Charm"
+                                         },
                       "afterglowoflongnightflint":  {
                                                         "name":  "Afterglow of Long Night Flint"
                                                     },
@@ -1679,6 +1758,9 @@
                       "vayudaturquoisesliver":  {
                                                     "name":  "Vayuda Turquoise Sliver"
                                                 },
+                      "recordedintel":  {
+                                            "name":  "Laporan Tercatat"
+                                        },
                       "concealedclaw":  {
                                             "name":  "Concealed Claw"
                                         },
@@ -1748,6 +1830,9 @@
                       "pedunculateoakwood":  {
                                                  "name":  "Pedunculate Oak Wood"
                                              },
+                      "sharparrowhead":  {
+                                             "name":  "Sharp Arrowhead"
+                                         },
                       "ashenaratikuwood":  {
                                                "name":  "Ashen Aratiku Wood"
                                            },
@@ -1781,9 +1866,9 @@
                       "greenobsidianfragment":  {
                                                     "name":  "Green Obsidian Fragment"
                                                 },
-                      "sharparrowhead":  {
-                                             "name":  "Sharp Arrowhead"
-                                         },
+                      "crimsonagate":  {
+                                           "name":  "Crimson Agate"
+                                       },
                       "nightwindsmysticrevelation":  {
                                                          "name":  "Night-Wind\u0027s Mystic Revelation"
                                                      },
@@ -1832,6 +1917,9 @@
                       "improvedalchemycauldroniv":  {
                                                         "name":  "Peningkatan Kuali Alkimia (IV)"
                                                     },
+                      "sheathofthesecretsource":  {
+                                                      "name":  "Sheath of the Secret Source"
+                                                  },
                       "glowinggem":  {
                                          "name":  "Glowing Gem"
                                      },
@@ -2021,9 +2109,9 @@
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Scattered Piece of Decarabian\u0027s Dream"
                                                            },
-                      "dandelionbookmark":  {
-                                                "name":  "Dandelion Bookmark"
-                                            },
+                      "brilliantdiamondchunk":  {
+                                                    "name":  "Brilliant Diamond Chunk"
+                                                },
                       "enhancementore":  {
                                              "name":  "Enhancement Ore"
                                          },
@@ -2063,9 +2151,9 @@
                       "darkstatuette":  {
                                             "name":  "Dark Statuette"
                                         },
-                      "dragonheirsfalsefin":  {
-                                                  "name":  "Dragonheir\u0027s False Fin"
-                                              },
+                      "sugar":  {
+                                    "name":  "Sugar"
+                                },
                       "bigprettycrystal":  {
                                                "name":  "Big Pretty Crystal"
                                            },
@@ -2087,6 +2175,9 @@
                       "scoopoftaintedwater":  {
                                                   "name":  "Scoop of Tainted Water"
                                               },
+                      "birchwood":  {
+                                        "name":  "Birch Wood"
+                                    },
                       "coldcrackedshellshard":  {
                                                     "name":  "Cold-Cracked Shellshard"
                                                 },
@@ -2180,9 +2271,9 @@
                       "plumeofthechangingwinds":  {
                                                       "name":  "Plume of the Changing Winds"
                                                   },
-                      "lazuriteaxemarlin":  {
-                                                "name":  "Lazurite Axe Marlin"
-                                            },
+                      "hydroculus":  {
+                                         "name":  "Hydroculus"
+                                     },
                       "blazingsacrificialheartssplendor":  {
                                                                "name":  "Blazing Sacrificial Heart\u0027s Splendor"
                                                            },
@@ -2405,9 +2496,9 @@
                       "waterthatfailedtotranscend":  {
                                                          "name":  "Water That Failed To Transcend"
                                                      },
-                      "mora":  {
-                                   "name":  "Mora"
-                               },
+                      "cultivationareaexpansionii":  {
+                                                         "name":  "Perluasan Area Budi Daya (II)"
+                                                     },
                       "precisiondriveshaft":  {
                                                   "name":  "Precision Drive Shaft"
                                               },
@@ -2710,8 +2801,8 @@
                                                                     },
                                                              "c4":  {
                                                                         "name":  "A Tailor\u0027s Three Courtesies",
-                                                                        "descriptionRaw":  "Dalam 8 detik setelah memicu efek lanjutan dari Talenta Pasif Tailor-Made, saat Normal Attack, Charged Attack, atau Plunging Attack Karakter aktif sendiri di dalam party mengenai musuh di sekitar, akan memanggil satu \"Kinu\" si boneka automaton sederhana di sekitar musuh. Jumlah Kinu yang bisa dipanggil melalui cara di atas adalah maksimum satu setiap 1 detik. Maksimum bisa memanggil hingga 3 Kinu dalam satu durasi \"Seize the Moment\" atau selama efek \"Tailoring\" dari Talenta Pasif \"Tailor-Made\" berlangsung. Efek di atas dapat terpicu sekali setiap 15 detik.\nHarus membuka Talenta Pasif \"Tailor-Made\" terlebih dahulu.",
-                                                                        "description":  "Dalam 8 detik setelah memicu efek lanjutan dari Talenta Pasif Tailor-Made, saat Normal Attack, Charged Attack, atau Plunging Attack Karakter aktif sendiri di dalam party mengenai musuh di sekitar, akan memanggil satu \"Kinu\" si boneka automaton sederhana di sekitar musuh. Jumlah Kinu yang bisa dipanggil melalui cara di atas adalah maksimum satu setiap 1 detik. Maksimum bisa memanggil hingga 3 Kinu dalam satu durasi \"Seize the Moment\" atau selama efek \"Tailoring\" dari Talenta Pasif \"Tailor-Made\" berlangsung. Efek di atas dapat terpicu sekali setiap 15 detik.\nHarus membuka Talenta Pasif \"Tailor-Made\" terlebih dahulu."
+                                                                        "descriptionRaw":  "Dalam 8 detik setelah memicu efek lanjutan dari Talenta Ascension Tailor-Made, saat Normal Attack, Charged Attack, atau Plunging Attack Karakter aktif sendiri di dalam party mengenai musuh di sekitar, akan memanggil satu \"Kinu\" si boneka automaton sederhana di sekitar musuh. Jumlah Kinu yang bisa dipanggil melalui cara di atas adalah maksimum satu setiap 1 detik. Maksimum bisa memanggil hingga 3 Kinu dalam satu durasi \"Seize the Moment\" atau selama efek \"Tailoring\" dari Talenta Ascension \"Tailor-Made\" berlangsung. Efek di atas dapat terpicu sekali setiap 15 detik.\nHarus membuka Talenta Ascension \"Tailor-Made\" terlebih dahulu.",
+                                                                        "description":  "Dalam 8 detik setelah memicu efek lanjutan dari Talenta Ascension Tailor-Made, saat Normal Attack, Charged Attack, atau Plunging Attack Karakter aktif sendiri di dalam party mengenai musuh di sekitar, akan memanggil satu \"Kinu\" si boneka automaton sederhana di sekitar musuh. Jumlah Kinu yang bisa dipanggil melalui cara di atas adalah maksimum satu setiap 1 detik. Maksimum bisa memanggil hingga 3 Kinu dalam satu durasi \"Seize the Moment\" atau selama efek \"Tailoring\" dari Talenta Ascension \"Tailor-Made\" berlangsung. Efek di atas dapat terpicu sekali setiap 15 detik.\nHarus membuka Talenta Ascension \"Tailor-Made\" terlebih dahulu."
                                                                     },
                                                              "c3":  {
                                                                         "name":  "Four Brocade Embellishments",
@@ -2725,13 +2816,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Sole Principle Pursuit",
-                                                                        "descriptionRaw":  "Setelah memicu efek lanjutan Talenta Pasif \"Tailor-Made\", CD \u003ccolor=#FFD780FF\u003eFluttering Hasode\u003c/color\u003e Chiori sendiri berkurang 12 detik. Harus membuka Talenta Pasif \"Tailor-Made\" terlebih dahulu.\nSelain itu, DMG yang diakibatkan Normal Attack Chiori meningkat setara dengan 235% DEF Chiori sendiri.",
-                                                                        "description":  "Setelah memicu efek lanjutan Talenta Pasif \"Tailor-Made\", CD Fluttering Hasode Chiori sendiri berkurang 12 detik. Harus membuka Talenta Pasif \"Tailor-Made\" terlebih dahulu.\nSelain itu, DMG yang diakibatkan Normal Attack Chiori meningkat setara dengan 235% DEF Chiori sendiri."
+                                                                        "descriptionRaw":  "Setelah memicu efek lanjutan Talenta Ascension \"Tailor-Made\", CD \u003ccolor=#FFD780FF\u003eFluttering Hasode\u003c/color\u003e Chiori sendiri berkurang 12 detik. Harus membuka Talenta Ascension \"Tailor-Made\" terlebih dahulu.\nSelain itu, DMG yang diakibatkan Normal Attack Chiori meningkat setara dengan 235% DEF Chiori sendiri.",
+                                                                        "description":  "Setelah memicu efek lanjutan Talenta Ascension \"Tailor-Made\", CD Fluttering Hasode Chiori sendiri berkurang 12 detik. Harus membuka Talenta Ascension \"Tailor-Made\" terlebih dahulu.\nSelain itu, DMG yang diakibatkan Normal Attack Chiori meningkat setara dengan 235% DEF Chiori sendiri."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Six Paths of Sage Silkcraft",
-                                                                        "descriptionRaw":  "Radius serangan area milik \"Tamoto\" si boneka automaton yang dipanggil dari \u003ccolor=#FFD780FF\u003eFluttering Hasode\u003c/color\u003e meningkat 50%.\nSelain itu, jika ada Karakter \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e selain Chiori di dalam party, setelah terjangan Fluttering Hasode berakhir, akan memicu efek sebagai berikut:\n·Memanggil satu Tamoto tambahan. Hanya boleh ada satu Tamoto tambahan milik Chiori yang dipanggil dengan cara ini dan melalui Geo Construct yang bisa dipanggil secara bersamaan.\n·Memicu Talenta Pasif \"The Finishing Touch\". Harus membuka Talenta Pasif \"The Finishing Touch\" terlebih dahulu.",
-                                                                        "description":  "Radius serangan area milik \"Tamoto\" si boneka automaton yang dipanggil dari Fluttering Hasode meningkat 50%.\nSelain itu, jika ada Karakter Geo selain Chiori di dalam party, setelah terjangan Fluttering Hasode berakhir, akan memicu efek sebagai berikut:\n·Memanggil satu Tamoto tambahan. Hanya boleh ada satu Tamoto tambahan milik Chiori yang dipanggil dengan cara ini dan melalui Geo Construct yang bisa dipanggil secara bersamaan.\n·Memicu Talenta Pasif \"The Finishing Touch\". Harus membuka Talenta Pasif \"The Finishing Touch\" terlebih dahulu."
+                                                                        "descriptionRaw":  "Radius serangan area milik \"Tamoto\" si boneka automaton yang dipanggil dari \u003ccolor=#FFD780FF\u003eFluttering Hasode\u003c/color\u003e meningkat 50%.\nSelain itu, jika ada Karakter \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e selain Chiori di dalam party, setelah terjangan Fluttering Hasode berakhir, akan memicu efek sebagai berikut:\n·Memanggil satu Tamoto tambahan. Hanya boleh ada satu Tamoto tambahan milik Chiori yang dipanggil dengan cara ini dan melalui Geo Construct yang bisa dipanggil secara bersamaan.\n·Memicu Talenta Ascension \"The Finishing Touch\". Harus membuka Talenta Ascension \"The Finishing Touch\" terlebih dahulu.",
+                                                                        "description":  "Radius serangan area milik \"Tamoto\" si boneka automaton yang dipanggil dari Fluttering Hasode meningkat 50%.\nSelain itu, jika ada Karakter Geo selain Chiori di dalam party, setelah terjangan Fluttering Hasode berakhir, akan memicu efek sebagai berikut:\n·Memanggil satu Tamoto tambahan. Hanya boleh ada satu Tamoto tambahan milik Chiori yang dipanggil dengan cara ini dan melalui Geo Construct yang bisa dipanggil secara bersamaan.\n·Memicu Talenta Ascension \"The Finishing Touch\". Harus membuka Talenta Ascension \"The Finishing Touch\" terlebih dahulu."
                                                                     }
                                                          },
                                       "elementText":  "Geo",
@@ -2787,8 +2878,8 @@
                                           "constellations":  {
                                                                  "c2":  {
                                                                             "name":  "\"All Rewards and Retribution, Mine to Bestow...\"",
-                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eBlood-Debt Directive\u003c/color\u003e akan langsung menjadi Blood-Debt Due saat diberikan.\nSaat Arlecchino menyerap Blood-Debt Due, akan memanggil Balemoon Bloodfire di depannya yang mengakibatkan \u003ccolor=#FF9999FF\u003ePyro DMG Area\u003c/color\u003e sebesar 900% ATK Arlecchino dan meningkatkan Elemental RES dari semua elemen dan Physical RES miliknya sebesar 20% selama 15 detik. Efek ini dapat terpicu sekali setiap 10 detik.\nHarus membuka Talenta Pasif \"Agony Alone May Be Repaid\" terlebih dahulu.",
-                                                                            "description":  "Blood-Debt Directive akan langsung menjadi Blood-Debt Due saat diberikan.\nSaat Arlecchino menyerap Blood-Debt Due, akan memanggil Balemoon Bloodfire di depannya yang mengakibatkan Pyro DMG Area sebesar 900% ATK Arlecchino dan meningkatkan Elemental RES dari semua elemen dan Physical RES miliknya sebesar 20% selama 15 detik. Efek ini dapat terpicu sekali setiap 10 detik.\nHarus membuka Talenta Pasif \"Agony Alone May Be Repaid\" terlebih dahulu."
+                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eBlood-Debt Directive\u003c/color\u003e akan langsung menjadi Blood-Debt Due saat diberikan.\nSaat Arlecchino menyerap Blood-Debt Due, akan memanggil Balemoon Bloodfire di depannya yang mengakibatkan \u003ccolor=#FF9999FF\u003ePyro DMG Area\u003c/color\u003e sebesar 900% ATK Arlecchino dan meningkatkan Elemental RES dari semua elemen dan Physical RES miliknya sebesar 20% selama 15 detik. Efek ini dapat terpicu sekali setiap 10 detik.\nHarus membuka Talenta Ascension \"Agony Alone May Be Repaid\" terlebih dahulu.",
+                                                                            "description":  "Blood-Debt Directive akan langsung menjadi Blood-Debt Due saat diberikan.\nSaat Arlecchino menyerap Blood-Debt Due, akan memanggil Balemoon Bloodfire di depannya yang mengakibatkan Pyro DMG Area sebesar 900% ATK Arlecchino dan meningkatkan Elemental RES dari semua elemen dan Physical RES miliknya sebesar 20% selama 15 detik. Efek ini dapat terpicu sekali setiap 10 detik.\nHarus membuka Talenta Ascension \"Agony Alone May Be Repaid\" terlebih dahulu."
                                                                         },
                                                                  "c4":  {
                                                                             "name":  "\"You Shall Love and Protect Each Other Henceforth ...\"",
@@ -3038,8 +3129,8 @@
                                                                             },
                                                                      "c4":  {
                                                                                 "name":  "Treacle Grass",
-                                                                                "descriptionRaw":  "Setelah \u003ccolor=#FFD780FF\u003eLea Lotus Lamp\u003c/color\u003e memicu Lotuslight Transfiguration, akan mendapatkan 5 lapis efek Overflowing Lotuslight dari Talenta Pasif \"Verdant Overgrowth\".\nHarus sudah membuka Talenta Pasif \"Verdant Overgrowth\" lebih dulu.",
-                                                                                "description":  "Setelah Lea Lotus Lamp memicu Lotuslight Transfiguration, akan mendapatkan 5 lapis efek Overflowing Lotuslight dari Talenta Pasif \"Verdant Overgrowth\".\nHarus sudah membuka Talenta Pasif \"Verdant Overgrowth\" lebih dulu."
+                                                                                "descriptionRaw":  "Setelah \u003ccolor=#FFD780FF\u003eLea Lotus Lamp\u003c/color\u003e memicu Lotuslight Transfiguration, akan mendapatkan 5 lapis efek Overflowing Lotuslight dari Talenta Ascension \"Verdant Overgrowth\".\nHarus sudah membuka Talenta Ascension \"Verdant Overgrowth\" lebih dulu.",
+                                                                                "description":  "Setelah Lea Lotus Lamp memicu Lotuslight Transfiguration, akan mendapatkan 5 lapis efek Overflowing Lotuslight dari Talenta Ascension \"Verdant Overgrowth\".\nHarus sudah membuka Talenta Ascension \"Verdant Overgrowth\" lebih dulu."
                                                                             },
                                                                      "c3":  {
                                                                                 "name":  "Whirling Weeds",
@@ -3104,6 +3195,16 @@
                                          "region":  "Snezhnaya",
                                          "gender":  "Pria"
                                      },
+                       "manekin":  {
+                                       "constellations":  null,
+                                       "elementText":  "Kosong",
+                                       "fullname":  null,
+                                       "weaponText":  "Sword",
+                                       "name":  "Manekin Laki-Laki",
+                                       "substatText":  "ATK",
+                                       "region":  "",
+                                       "gender":  "Pria"
+                                   },
                        "charlotte":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -3215,8 +3316,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "\"Can the Happiest of Spirits Understand Anxiety?\"",
-                                                                           "descriptionRaw":  "Bolstering Bubblebalm dari \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e bisa melambung 3 kali lebih banyak. Tiga lambungan pertama tidak akan membuat Bubblebalm besarnya mengecil.\nSelain itu, efek Talenta Pasif \"Requires Appropriate Rest\" diperkuat: Setiap Bolstering Bubblebalm melambung, akan memberikan 1 lapis Convalescence untuk Sigewinne, dan mengubah efek Convalescence menjadi: Untuk setiap 1.000 poin HP Sigewinne yang melebihi 30.000, DMG meningkat 100 poin. Maksimum peningkatan DMG Elemental Skill yang bisa diperoleh dengan cara ini adalah 3.500 poin. Harus membuka Talenta Pasif \"Requires Appropriate Rest\" terlebih dahulu.",
-                                                                           "description":  "Bolstering Bubblebalm dari Rebound Hydrotherapy bisa melambung 3 kali lebih banyak. Tiga lambungan pertama tidak akan membuat Bubblebalm besarnya mengecil.\nSelain itu, efek Talenta Pasif \"Requires Appropriate Rest\" diperkuat: Setiap Bolstering Bubblebalm melambung, akan memberikan 1 lapis Convalescence untuk Sigewinne, dan mengubah efek Convalescence menjadi: Untuk setiap 1.000 poin HP Sigewinne yang melebihi 30.000, DMG meningkat 100 poin. Maksimum peningkatan DMG Elemental Skill yang bisa diperoleh dengan cara ini adalah 3.500 poin. Harus membuka Talenta Pasif \"Requires Appropriate Rest\" terlebih dahulu."
+                                                                           "descriptionRaw":  "Bolstering Bubblebalm dari \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e bisa melambung 3 kali lebih banyak. Tiga lambungan pertama tidak akan membuat Bubblebalm besarnya mengecil.\nSelain itu, efek Talenta Ascension \"Requires Appropriate Rest\" diperkuat: Setiap Bolstering Bubblebalm melambung, akan memberikan 1 lapis Convalescence untuk Sigewinne, dan mengubah efek Convalescence menjadi: Untuk setiap 1.000 poin HP Sigewinne yang melebihi 30.000, DMG meningkat 100 poin. Maksimum peningkatan DMG Elemental Skill yang bisa diperoleh dengan cara ini adalah 3.500 poin. Harus membuka Talenta Ascension \"Requires Appropriate Rest\" terlebih dahulu.",
+                                                                           "description":  "Bolstering Bubblebalm dari Rebound Hydrotherapy bisa melambung 3 kali lebih banyak. Tiga lambungan pertama tidak akan membuat Bubblebalm besarnya mengecil.\nSelain itu, efek Talenta Ascension \"Requires Appropriate Rest\" diperkuat: Setiap Bolstering Bubblebalm melambung, akan memberikan 1 lapis Convalescence untuk Sigewinne, dan mengubah efek Convalescence menjadi: Untuk setiap 1.000 poin HP Sigewinne yang melebihi 30.000, DMG meningkat 100 poin. Maksimum peningkatan DMG Elemental Skill yang bisa diperoleh dengan cara ini adalah 3.500 poin. Harus membuka Talenta Ascension \"Requires Appropriate Rest\" terlebih dahulu."
                                                                        }
                                                             },
                                          "elementText":  "Hydro",
@@ -3523,8 +3624,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Fractured Flow",
-                                                                       "descriptionRaw":  "Efek Talenta Pasif {LINK#N11130008}\u003ccolor=#FFD780FF\u003eReturn to Oblivion\u003c/color\u003e{/LINK} mendapatkan peningkatan: Setiap lapis efek Death\u0027s Crossing juga akan meningkatkan 10%/20%/40% ATK Skirk.\nHarus membuka Talenta Pasif \"Return to Oblivion\" terlebih dahulu.",
-                                                                       "description":  "Efek Talenta Pasif **Return to Oblivion** mendapatkan peningkatan: Setiap lapis efek Death\u0027s Crossing juga akan meningkatkan 10%/20%/40% ATK Skirk.\nHarus membuka Talenta Pasif \"Return to Oblivion\" terlebih dahulu."
+                                                                       "descriptionRaw":  "Efek Talenta Ascension {LINK#N11130008}\u003ccolor=#FFD780FF\u003eReturn to Oblivion\u003c/color\u003e{/LINK} mendapatkan peningkatan: Setiap lapis efek Death\u0027s Crossing juga akan meningkatkan 10%/20%/40% ATK Skirk.\nHarus membuka Talenta Ascension \"Return to Oblivion\" terlebih dahulu.",
+                                                                       "description":  "Efek Talenta Ascension **Return to Oblivion** mendapatkan peningkatan: Setiap lapis efek Death\u0027s Crossing juga akan meningkatkan 10%/20%/40% ATK Skirk.\nHarus membuka Talenta Ascension \"Return to Oblivion\" terlebih dahulu."
                                                                    },
                                                             "c3":  {
                                                                        "name":  "Serendipitous Sin",
@@ -3538,13 +3639,13 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "To the Source",
-                                                                       "descriptionRaw":  "Skirk akan mendapatkan satu lapis efek \"Havoc: Sever\" setiap kali ia menyerap satu Void Rift yang tercipta dari efek Talenta Pasif {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK}. Skirk dapat mengonsumsi efek ini untuk melancarkan serangan terkoordinasi dan mengurangi DMG yang diterima saat sedang berada dalam mode {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSeven-Phase Flash\u003c/color\u003e{/LINK}. Efek ini berlangsung 15 detik dan dapat ditumpuk hingga 3 lapis, durasi setiap lapisnya dihitung terpisah.\nHarus membuka Talenta Pasif Reason Beyond Reason terlebih dahulu.\n\n\u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e\n·Saat Skirk melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e, semua lapisan \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan dikonsumsi untuk melancarkan serangan terkoordinasi. Setiap lapisan \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 750% ATK Skirk. DMG ini dianggap sebagai DMG Elemental Burst.\n·Saat sedang berada dalam Mode Seven-Phase Flash dan melancarkan Normal Attack, satu lapisan \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan terkonsumsi saat serangan Normal Attack tahap ke-3 atau ke-5 mengenai musuh, untuk melancarkan serangan terkoordinasi sebanyak 3 kali. Setiap serangan terkoordinasi ini akan mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Normal Attack.\n·Saat Skirk terkena DMG saat berada dalam mode Seven-Phase Flash, satu lapis \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan terkonsumsi untuk mengurangi 80% DMG yang diterima kali ini, kemudian melancarkan 3 serangan terhadap musuh di sekitar. Setiap serangannya akan mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack.",
-                                                                       "description":  "Skirk akan mendapatkan satu lapis efek \"Havoc: Sever\" setiap kali ia menyerap satu Void Rift yang tercipta dari efek Talenta Pasif **Reason Beyond Reason**. Skirk dapat mengonsumsi efek ini untuk melancarkan serangan terkoordinasi dan mengurangi DMG yang diterima saat sedang berada dalam mode **Seven-Phase Flash**. Efek ini berlangsung 15 detik dan dapat ditumpuk hingga 3 lapis, durasi setiap lapisnya dihitung terpisah.\nHarus membuka Talenta Pasif Reason Beyond Reason terlebih dahulu.\n\nHavoc: Sever\n·Saat Skirk melancarkan Elemental Burst Havoc: Ruin, semua lapisan Havoc: Sever akan dikonsumsi untuk melancarkan serangan terkoordinasi. Setiap lapisan Havoc: Sever akan mengakibatkan Cryo DMG sebesar 750% ATK Skirk. DMG ini dianggap sebagai DMG Elemental Burst.\n·Saat sedang berada dalam Mode Seven-Phase Flash dan melancarkan Normal Attack, satu lapisan Havoc: Sever akan terkonsumsi saat serangan Normal Attack tahap ke-3 atau ke-5 mengenai musuh, untuk melancarkan serangan terkoordinasi sebanyak 3 kali. Setiap serangan terkoordinasi ini akan mengakibatkan Cryo DMG sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Normal Attack.\n·Saat Skirk terkena DMG saat berada dalam mode Seven-Phase Flash, satu lapis Havoc: Sever akan terkonsumsi untuk mengurangi 80% DMG yang diterima kali ini, kemudian melancarkan 3 serangan terhadap musuh di sekitar. Setiap serangannya akan mengakibatkan Cryo DMG sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack."
+                                                                       "descriptionRaw":  "Skirk akan mendapatkan satu lapis efek \"Havoc: Sever\" setiap kali ia menyerap satu Void Rift yang tercipta dari efek Talenta Ascension {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK}. Skirk dapat mengonsumsi efek ini untuk melancarkan serangan terkoordinasi dan mengurangi DMG yang diterima saat sedang berada dalam mode {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSeven-Phase Flash\u003c/color\u003e{/LINK}. Efek ini berlangsung 15 detik dan dapat ditumpuk hingga 3 lapis, durasi setiap lapisnya dihitung terpisah.\nHarus membuka Talenta Ascension Reason Beyond Reason terlebih dahulu.\n\n\u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e\n·Saat Skirk melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e, semua lapisan \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan dikonsumsi untuk melancarkan serangan terkoordinasi. Setiap lapisan \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 750% ATK Skirk. DMG ini dianggap sebagai DMG Elemental Burst.\n·Saat sedang berada dalam Mode Seven-Phase Flash dan melancarkan Normal Attack, satu lapisan \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan terkonsumsi saat serangan Normal Attack tahap ke-3 atau ke-5 mengenai musuh, untuk melancarkan serangan terkoordinasi sebanyak 3 kali. Setiap serangan terkoordinasi ini akan mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Normal Attack.\n·Saat Skirk terkena DMG saat berada dalam mode Seven-Phase Flash, satu lapis \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e akan terkonsumsi untuk mengurangi 80% DMG yang diterima kali ini, kemudian melancarkan 3 serangan terhadap musuh di sekitar. Setiap serangannya akan mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack.",
+                                                                       "description":  "Skirk akan mendapatkan satu lapis efek \"Havoc: Sever\" setiap kali ia menyerap satu Void Rift yang tercipta dari efek Talenta Ascension **Reason Beyond Reason**. Skirk dapat mengonsumsi efek ini untuk melancarkan serangan terkoordinasi dan mengurangi DMG yang diterima saat sedang berada dalam mode **Seven-Phase Flash**. Efek ini berlangsung 15 detik dan dapat ditumpuk hingga 3 lapis, durasi setiap lapisnya dihitung terpisah.\nHarus membuka Talenta Ascension Reason Beyond Reason terlebih dahulu.\n\nHavoc: Sever\n·Saat Skirk melancarkan Elemental Burst Havoc: Ruin, semua lapisan Havoc: Sever akan dikonsumsi untuk melancarkan serangan terkoordinasi. Setiap lapisan Havoc: Sever akan mengakibatkan Cryo DMG sebesar 750% ATK Skirk. DMG ini dianggap sebagai DMG Elemental Burst.\n·Saat sedang berada dalam Mode Seven-Phase Flash dan melancarkan Normal Attack, satu lapisan Havoc: Sever akan terkonsumsi saat serangan Normal Attack tahap ke-3 atau ke-5 mengenai musuh, untuk melancarkan serangan terkoordinasi sebanyak 3 kali. Setiap serangan terkoordinasi ini akan mengakibatkan Cryo DMG sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Normal Attack.\n·Saat Skirk terkena DMG saat berada dalam mode Seven-Phase Flash, satu lapis Havoc: Sever akan terkonsumsi untuk mengurangi 80% DMG yang diterima kali ini, kemudian melancarkan 3 serangan terhadap musuh di sekitar. Setiap serangannya akan mengakibatkan Cryo DMG sebesar 180% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack."
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Far to Fall",
-                                                                       "descriptionRaw":  "Efek Talenta Pasif {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK} diperkuat: Untuk setiap Void Rift yang diserap, Skirk akan memanggil pedang kristal untuk menyerang musuh di sekitarnya, mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 500% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Pasif \"Reason Beyond Reason\" terlebih dahulu.",
-                                                                       "description":  "Efek Talenta Pasif **Reason Beyond Reason** diperkuat: Untuk setiap Void Rift yang diserap, Skirk akan memanggil pedang kristal untuk menyerang musuh di sekitarnya, mengakibatkan Cryo DMG sebesar 500% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Pasif \"Reason Beyond Reason\" terlebih dahulu."
+                                                                       "descriptionRaw":  "Efek Talenta Ascension {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK} diperkuat: Untuk setiap Void Rift yang diserap, Skirk akan memanggil pedang kristal untuk menyerang musuh di sekitarnya, mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 500% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Ascension \"Reason Beyond Reason\" terlebih dahulu.",
+                                                                       "description":  "Efek Talenta Ascension **Reason Beyond Reason** diperkuat: Untuk setiap Void Rift yang diserap, Skirk akan memanggil pedang kristal untuk menyerang musuh di sekitarnya, mengakibatkan Cryo DMG sebesar 500% ATK Skirk. DMG ini dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Ascension \"Reason Beyond Reason\" terlebih dahulu."
                                                                    }
                                                         },
                                      "elementText":  "Cryo",
@@ -3559,8 +3660,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Laziness is the Enemy!",
-                                                                        "descriptionRaw":  "Saat melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eThe Three Principles of Power\u003c/color\u003e, Iansan juga akan mendapatkan efek Precise Movement dari Talenta Pasif \"Enhanced Resistance Training\" selama 15 detik. Selain itu, saat Iansan ada di dalam party namun sedang tidak berada di medan pertempuran, efek Precise Movement juga akan meningkatkan 30% ATK Karakter aktif. Harus membuka Talenta Pasif \"Enhanced Resistance Training\" terlebih dahulu untuk mendapatkan efek di atas.",
-                                                                        "description":  "Saat melancarkan Elemental Burst The Three Principles of Power, Iansan juga akan mendapatkan efek Precise Movement dari Talenta Pasif \"Enhanced Resistance Training\" selama 15 detik. Selain itu, saat Iansan ada di dalam party namun sedang tidak berada di medan pertempuran, efek Precise Movement juga akan meningkatkan 30% ATK Karakter aktif. Harus membuka Talenta Pasif \"Enhanced Resistance Training\" terlebih dahulu untuk mendapatkan efek di atas."
+                                                                        "descriptionRaw":  "Saat melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eThe Three Principles of Power\u003c/color\u003e, Iansan juga akan mendapatkan efek Precise Movement dari Talenta Ascension \"Enhanced Resistance Training\" selama 15 detik. Selain itu, saat Iansan ada di dalam party namun sedang tidak berada di medan pertempuran, efek Precise Movement juga akan meningkatkan 30% ATK Karakter aktif. Harus membuka Talenta Ascension \"Enhanced Resistance Training\" terlebih dahulu untuk mendapatkan efek di atas.",
+                                                                        "description":  "Saat melancarkan Elemental Burst The Three Principles of Power, Iansan juga akan mendapatkan efek Precise Movement dari Talenta Ascension \"Enhanced Resistance Training\" selama 15 detik. Selain itu, saat Iansan ada di dalam party namun sedang tidak berada di medan pertempuran, efek Precise Movement juga akan meningkatkan 30% ATK Karakter aktif. Harus membuka Talenta Ascension \"Enhanced Resistance Training\" terlebih dahulu untuk mendapatkan efek di atas."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Slow and Steady Wins the Race",
@@ -3605,8 +3706,8 @@
                                                                       },
                                                                "c4":  {
                                                                           "name":  "Yonban: Set Adrift into Spring",
-                                                                          "descriptionRaw":  "Saat melancarkan \u003ccolor=#FFD780FF\u003eHanega: Song of the Wind\u003c/color\u003e, jika memicu Talenta Pasif \"Jade-Claimed Flower\", Karakter akan mendapatkan efek peningkatan berdasarkan jenis Elemennya, dan akan mendapatkan 1 jenis efek peningkatan acak yang belum terpicu kali ini. Maksimum efek peningkatan elemen yang bisa diperoleh bersamaan adalah 3 jenis elemen.\nHarus sudah membuka Talenta Pasif \"Jade-Claimed Flower\" lebih dulu.",
-                                                                          "description":  "Saat melancarkan Hanega: Song of the Wind, jika memicu Talenta Pasif \"Jade-Claimed Flower\", Karakter akan mendapatkan efek peningkatan berdasarkan jenis Elemennya, dan akan mendapatkan 1 jenis efek peningkatan acak yang belum terpicu kali ini. Maksimum efek peningkatan elemen yang bisa diperoleh bersamaan adalah 3 jenis elemen.\nHarus sudah membuka Talenta Pasif \"Jade-Claimed Flower\" lebih dulu."
+                                                                          "descriptionRaw":  "Saat melancarkan \u003ccolor=#FFD780FF\u003eHanega: Song of the Wind\u003c/color\u003e, jika memicu Talenta Ascension \"Jade-Claimed Flower\", Karakter akan mendapatkan efek peningkatan berdasarkan jenis elemennya, dan akan mendapatkan 1 jenis efek peningkatan acak yang belum terpicu kali ini. Maksimum efek peningkatan elemen yang bisa diperoleh bersamaan adalah 3 jenis elemen.\nHarus sudah membuka Talenta Ascension \"Jade-Claimed Flower\" lebih dulu.",
+                                                                          "description":  "Saat melancarkan Hanega: Song of the Wind, jika memicu Talenta Ascension \"Jade-Claimed Flower\", Karakter akan mendapatkan efek peningkatan berdasarkan jenis elemennya, dan akan mendapatkan 1 jenis efek peningkatan acak yang belum terpicu kali ini. Maksimum efek peningkatan elemen yang bisa diperoleh bersamaan adalah 3 jenis elemen.\nHarus sudah membuka Talenta Ascension \"Jade-Claimed Flower\" lebih dulu."
                                                                       },
                                                                "c3":  {
                                                                           "name":  "Sanban: Moonflower Kusemai",
@@ -3625,8 +3726,8 @@
                                                                       },
                                                                "c1":  {
                                                                           "name":  "Shoban: Ostentatious Plumage",
-                                                                          "descriptionRaw":  "Saat dalam status \u003ccolor=#FFD780FF\u003eWindfavored\u003c/color\u003e, ATK SPD Kuugo: Fushoudan dan Kuugo: Toufukai Wanderer meningkat 10%.\nSelain itu, panah angin yang diciptakan oleh Talenta Pasif \"Gales of Reverie\" milik Wanderer mengakibatkan tambahan DMG sebesar 25% ATK. Kamu harus membuka Talenta Pasif \"Gales of Reverie\" terlebih dahulu.",
-                                                                          "description":  "Saat dalam status Windfavored, ATK SPD Kuugo: Fushoudan dan Kuugo: Toufukai Wanderer meningkat 10%.\nSelain itu, panah angin yang diciptakan oleh Talenta Pasif \"Gales of Reverie\" milik Wanderer mengakibatkan tambahan DMG sebesar 25% ATK. Kamu harus membuka Talenta Pasif \"Gales of Reverie\" terlebih dahulu."
+                                                                          "descriptionRaw":  "Saat dalam status \u003ccolor=#FFD780FF\u003eWindfavored\u003c/color\u003e, ATK SPD Kuugo: Fushoudan dan Kuugo: Toufukai milik Wanderer meningkat 10%.\nSelain itu, panah angin yang diciptakan oleh Talenta Ascension \"Gales of Reverie\" milik Wanderer mengakibatkan tambahan DMG sebesar 25% ATK. Kamu harus membuka Talenta Ascension \"Gales of Reverie\" terlebih dahulu.",
+                                                                          "description":  "Saat dalam status Windfavored, ATK SPD Kuugo: Fushoudan dan Kuugo: Toufukai milik Wanderer meningkat 10%.\nSelain itu, panah angin yang diciptakan oleh Talenta Ascension \"Gales of Reverie\" milik Wanderer mengakibatkan tambahan DMG sebesar 25% ATK. Kamu harus membuka Talenta Ascension \"Gales of Reverie\" terlebih dahulu."
                                                                       }
                                                            },
                                         "elementText":  "Anemo",
@@ -3764,8 +3865,8 @@
                                    "constellations":  {
                                                           "c2":  {
                                                                      "name":  "Guiding Spirit of Ballistic Prayer",
-                                                                     "descriptionRaw":  "Saat Ifa berada dalam status Nightsoul\u0027s Blessing, dari total jumlah poin Nightsoul yang dimiliki seluruh anggota party, untuk setiap poin di atas 60 poin, maka Ifa akan mendapatkan 4 poin {LINK#N11130002}\u003ccolor=#FFD780FF\u003eRescue Essentials\u003c/color\u003e{/LINK} tambahan.\nSelain itu, batas Rescue Essentials milik Ifa bertambah 50 poin.\nHarus membuka Talenta Pasif {LINK#P1132101}\u003ccolor=#FFD780FF\u003eField Medic\u0027s Vision\u003c/color\u003e{/LINK} terlebih dahulu.",
-                                                                     "description":  "Saat Ifa berada dalam status Nightsoul\u0027s Blessing, dari total jumlah poin Nightsoul yang dimiliki seluruh anggota party, untuk setiap poin di atas 60 poin, maka Ifa akan mendapatkan 4 poin **Rescue Essentials** tambahan.\nSelain itu, batas Rescue Essentials milik Ifa bertambah 50 poin.\nHarus membuka Talenta Pasif **Field Medic\u0027s Vision** terlebih dahulu."
+                                                                     "descriptionRaw":  "Saat Ifa berada dalam status Nightsoul\u0027s Blessing, dari total jumlah poin Nightsoul yang dimiliki seluruh anggota party, untuk setiap poin di atas 60 poin, maka Ifa akan mendapatkan 4 poin {LINK#N11130002}\u003ccolor=#FFD780FF\u003eRescue Essentials\u003c/color\u003e{/LINK} tambahan.\nSelain itu, batas Rescue Essentials milik Ifa bertambah 50 poin.\nHarus membuka Talenta Ascension {LINK#P1132101}\u003ccolor=#FFD780FF\u003eField Medic\u0027s Vision\u003c/color\u003e{/LINK} terlebih dahulu.",
+                                                                     "description":  "Saat Ifa berada dalam status Nightsoul\u0027s Blessing, dari total jumlah poin Nightsoul yang dimiliki seluruh anggota party, untuk setiap poin di atas 60 poin, maka Ifa akan mendapatkan 4 poin **Rescue Essentials** tambahan.\nSelain itu, batas Rescue Essentials milik Ifa bertambah 50 poin.\nHarus membuka Talenta Ascension **Field Medic\u0027s Vision** terlebih dahulu."
                                                                  },
                                                           "c4":  {
                                                                      "name":  "Decayed Vessel\u0027s Permutation",
@@ -3924,6 +4025,16 @@
                                                 "region":  "Inazuma",
                                                 "gender":  "Perempuan"
                                             },
+                       "manekina":  {
+                                        "constellations":  null,
+                                        "elementText":  "Kosong",
+                                        "fullname":  null,
+                                        "weaponText":  "Sword",
+                                        "name":  "Manekin Perempuan",
+                                        "substatText":  "ATK",
+                                        "region":  "",
+                                        "gender":  "Perempuan"
+                                    },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3933,8 +4044,8 @@
                                                                      },
                                                               "c4":  {
                                                                          "name":  "The Leader\u0027s Resolve",
-                                                                         "descriptionRaw":  "Meningkatkan efek dari Talenta Pasif \"Kiongozi\":\nEfek peningkatan DMG setelah melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eHour of Burning Skies\u003c/color\u003e tidak akan berkurang seiring waktu, dan akan mendapatkan 10% DMG Bonus tambahan.\nHarus membuka Talenta Pasif \"Kiongozi\" terlebih dahulu.",
-                                                                         "description":  "Meningkatkan efek dari Talenta Pasif \"Kiongozi\":\nEfek peningkatan DMG setelah melancarkan Elemental Burst Hour of Burning Skies tidak akan berkurang seiring waktu, dan akan mendapatkan 10% DMG Bonus tambahan.\nHarus membuka Talenta Pasif \"Kiongozi\" terlebih dahulu."
+                                                                         "descriptionRaw":  "Meningkatkan efek dari Talenta Ascension \"Kiongozi\":\nEfek peningkatan DMG setelah melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eHour of Burning Skies\u003c/color\u003e tidak akan berkurang seiring waktu, dan akan mendapatkan 10% DMG Bonus tambahan.\nHarus membuka Talenta Ascension \"Kiongozi\" terlebih dahulu.",
+                                                                         "description":  "Meningkatkan efek dari Talenta Ascension \"Kiongozi\":\nEfek peningkatan DMG setelah melancarkan Elemental Burst Hour of Burning Skies tidak akan berkurang seiring waktu, dan akan mendapatkan 10% DMG Bonus tambahan.\nHarus membuka Talenta Ascension \"Kiongozi\" terlebih dahulu."
                                                                      },
                                                               "c3":  {
                                                                          "name":  "The Burning Sun",
@@ -3994,8 +4105,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Undying Passion",
-                                                                        "descriptionRaw":  "Efek Talenta Pasif \"Tag-Team Triple Jump!!\" diperkuat:\nSaat melakukan Plunging Attack Spesial \"Thunderous Tornado Eruption\", Varesa juga akan mendapatkan \"Rainbow Crash\" selama 5 detik.\nSelama durasi \"Rainbow Crash\", terlepas dari Varesa berada dalam status Fiery Passion atau tidak, saat Varesa melakukan Plunging Attack, DMG tambahan saat Plunging Attack menghantam tanah akan mengakibatkan 180% ATK. Harus membuka Talenta Pasif \"The Tag-Team Triple Jump!\" terlebih dahulu agar efek ini bisa aktif.\n\nSelain itu, saat Varesa berada dalam status Nightsoul\u0027s Blessing: Sudden Onrush, poin Nightsoul atau Phlogiston yang dikonsumsi berkurang 30%.",
-                                                                        "description":  "Efek Talenta Pasif \"Tag-Team Triple Jump!!\" diperkuat:\nSaat melakukan Plunging Attack Spesial \"Thunderous Tornado Eruption\", Varesa juga akan mendapatkan \"Rainbow Crash\" selama 5 detik.\nSelama durasi \"Rainbow Crash\", terlepas dari Varesa berada dalam status Fiery Passion atau tidak, saat Varesa melakukan Plunging Attack, DMG tambahan saat Plunging Attack menghantam tanah akan mengakibatkan 180% ATK. Harus membuka Talenta Pasif \"The Tag-Team Triple Jump!\" terlebih dahulu agar efek ini bisa aktif.\n\nSelain itu, saat Varesa berada dalam status Nightsoul\u0027s Blessing: Sudden Onrush, poin Nightsoul atau Phlogiston yang dikonsumsi berkurang 30%."
+                                                                        "descriptionRaw":  "Efek Talenta Ascension \"Tag-Team Triple Jump!!\" diperkuat:\nSaat melakukan Plunging Attack Spesial \"Thunderous Tornado Eruption\", Varesa juga akan mendapatkan \"Rainbow Crash\" selama 5 detik.\nSelama durasi \"Rainbow Crash\", terlepas dari Varesa berada dalam status Fiery Passion atau tidak, saat Varesa melakukan Plunging Attack, DMG tambahan saat Plunging Attack menghantam tanah akan mengakibatkan 180% ATK. Harus membuka Talenta Ascension \"The Tag-Team Triple Jump!\" terlebih dahulu agar efek ini bisa aktif.\n\nSelain itu, saat Varesa berada dalam status Nightsoul\u0027s Blessing: Sudden Onrush, poin Nightsoul atau Phlogiston yang dikonsumsi berkurang 30%.",
+                                                                        "description":  "Efek Talenta Ascension \"Tag-Team Triple Jump!!\" diperkuat:\nSaat melakukan Plunging Attack Spesial \"Thunderous Tornado Eruption\", Varesa juga akan mendapatkan \"Rainbow Crash\" selama 5 detik.\nSelama durasi \"Rainbow Crash\", terlepas dari Varesa berada dalam status Fiery Passion atau tidak, saat Varesa melakukan Plunging Attack, DMG tambahan saat Plunging Attack menghantam tanah akan mengakibatkan 180% ATK. Harus membuka Talenta Ascension \"The Tag-Team Triple Jump!\" terlebih dahulu agar efek ini bisa aktif.\n\nSelain itu, saat Varesa berada dalam status Nightsoul\u0027s Blessing: Sudden Onrush, poin Nightsoul atau Phlogiston yang dikonsumsi berkurang 30%."
                                                                     }
                                                          },
                                       "elementText":  "Electro",
@@ -4153,13 +4264,13 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Raiment: Just Scales",
-                                                                      "descriptionRaw":  "Setelah melancarkan \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e atau memicu Judication dari Talenta Pasif Featherfall Judgment, Cyno akan mendapatkan 4 lapis efek \"Day of the Jackal\". Saat Normal Attack Cyno mengenai musuh, akan mengonsumsi 1 lapis \"Day of the Jackal\" dan menembakkan 1 Duststalker Bolt.\nDay of the Jackal berlangsung selama 8 detik, dapat ditumpuk sampai 8 lapis, dan akan hilang pada saat status Pactsworn Pathclearer dari Sacred Rite: Wolf\u0027s Swiftness berakhir.\nDuststalker Bolt yang dapat ditembakkan dengan cara ini adalah maksimal satu setiap 0,4 detik.\nHarus membuka Talenta Pasif \"Featherfall Judgment\" terlebih dahulu.",
-                                                                      "description":  "Setelah melancarkan Sacred Rite: Wolf\u0027s Swiftness atau memicu Judication dari Talenta Pasif Featherfall Judgment, Cyno akan mendapatkan 4 lapis efek \"Day of the Jackal\". Saat Normal Attack Cyno mengenai musuh, akan mengonsumsi 1 lapis \"Day of the Jackal\" dan menembakkan 1 Duststalker Bolt.\nDay of the Jackal berlangsung selama 8 detik, dapat ditumpuk sampai 8 lapis, dan akan hilang pada saat status Pactsworn Pathclearer dari Sacred Rite: Wolf\u0027s Swiftness berakhir.\nDuststalker Bolt yang dapat ditembakkan dengan cara ini adalah maksimal satu setiap 0,4 detik.\nHarus membuka Talenta Pasif \"Featherfall Judgment\" terlebih dahulu."
+                                                                      "descriptionRaw":  "Setelah melancarkan \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e atau memicu Judication dari Talenta Ascension Featherfall Judgment, Cyno akan mendapatkan 4 lapis efek \"Day of the Jackal\". Saat Normal Attack Cyno mengenai musuh, akan mengonsumsi 1 lapis \"Day of the Jackal\" dan menembakkan 1 Duststalker Bolt.\nDay of the Jackal berlangsung selama 8 detik, dapat ditumpuk sampai 8 lapis, dan akan hilang pada saat status Pactsworn Pathclearer dari Sacred Rite: Wolf\u0027s Swiftness berakhir.\nDuststalker Bolt yang dapat ditembakkan dengan cara ini adalah maksimal satu setiap 0,4 detik.\nHarus membuka Talenta Ascension \"Featherfall Judgment\" terlebih dahulu.",
+                                                                      "description":  "Setelah melancarkan Sacred Rite: Wolf\u0027s Swiftness atau memicu Judication dari Talenta Ascension Featherfall Judgment, Cyno akan mendapatkan 4 lapis efek \"Day of the Jackal\". Saat Normal Attack Cyno mengenai musuh, akan mengonsumsi 1 lapis \"Day of the Jackal\" dan menembakkan 1 Duststalker Bolt.\nDay of the Jackal berlangsung selama 8 detik, dapat ditumpuk sampai 8 lapis, dan akan hilang pada saat status Pactsworn Pathclearer dari Sacred Rite: Wolf\u0027s Swiftness berakhir.\nDuststalker Bolt yang dapat ditembakkan dengan cara ini adalah maksimal satu setiap 0,4 detik.\nHarus membuka Talenta Ascension \"Featherfall Judgment\" terlebih dahulu."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Ordinance: Unceasing Vigil",
-                                                                      "descriptionRaw":  "Setelah menggunakan \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e, akan meningkatkan 20% Normal Attack SPD Cyno selama 10 detik. Jika efek Judication dari Talenta Pasif Featherfall Judgment terpicu selama \u003ccolor=#FFD780FF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e, maka durasi kenaikan ini akan diperbarui.\nHarus membuka Talenta Pasif \"Featherfall Judgment\" terlebih dahulu.",
-                                                                      "description":  "Setelah menggunakan Sacred Rite: Wolf\u0027s Swiftness, akan meningkatkan 20% Normal Attack SPD Cyno selama 10 detik. Jika efek Judication dari Talenta Pasif Featherfall Judgment terpicu selama Secret Rite: Chasmic Soulfarer, maka durasi kenaikan ini akan diperbarui.\nHarus membuka Talenta Pasif \"Featherfall Judgment\" terlebih dahulu."
+                                                                      "descriptionRaw":  "Setelah menggunakan \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e, akan meningkatkan 20% Normal Attack SPD Cyno selama 10 detik. Jika efek Judication dari Talenta Ascension Featherfall Judgment terpicu selama \u003ccolor=#FFD780FF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e, maka durasi kenaikan ini akan diperbarui.\nHarus membuka Talenta Ascension \"Featherfall Judgment\" terlebih dahulu.",
+                                                                      "description":  "Setelah menggunakan Sacred Rite: Wolf\u0027s Swiftness, akan meningkatkan 20% Normal Attack SPD Cyno selama 10 detik. Jika efek Judication dari Talenta Ascension Featherfall Judgment terpicu selama Secret Rite: Chasmic Soulfarer, maka durasi kenaikan ini akan diperbarui.\nHarus membuka Talenta Ascension \"Featherfall Judgment\" terlebih dahulu."
                                                                   }
                                                        },
                                     "elementText":  "Electro",
@@ -4256,13 +4367,13 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Shackles for the Arrogant",
-                                                                             "descriptionRaw":  "Saat melancarkan \u003ccolor=#FFD780FF\u003eDarkgold Wolfbite\u003c/color\u003e, setiap lapis Prosecution Edict dari Talenta Pasif \"There Shall Be a Reckoning for Sin\" akan memberikan peningkatan DMG sebesar 40%.\nHarus membuka Talenta Pasif \"There Shall Be a Reckoning for Sin\" terlebih dahulu.",
-                                                                             "description":  "Saat melancarkan Darkgold Wolfbite, setiap lapis Prosecution Edict dari Talenta Pasif \"There Shall Be a Reckoning for Sin\" akan memberikan peningkatan DMG sebesar 40%.\nHarus membuka Talenta Pasif \"There Shall Be a Reckoning for Sin\" terlebih dahulu."
+                                                                             "descriptionRaw":  "Saat melancarkan \u003ccolor=#FFD780FF\u003eDarkgold Wolfbite\u003c/color\u003e, setiap lapis Prosecution Edict dari Talenta Ascension \"There Shall Be a Reckoning for Sin\" akan memberikan peningkatan DMG sebesar 40%.\nHarus membuka Talenta Ascension \"There Shall Be a Reckoning for Sin\" terlebih dahulu.",
+                                                                             "description":  "Saat melancarkan Darkgold Wolfbite, setiap lapis Prosecution Edict dari Talenta Ascension \"There Shall Be a Reckoning for Sin\" akan memberikan peningkatan DMG sebesar 40%.\nHarus membuka Talenta Ascension \"There Shall Be a Reckoning for Sin\" terlebih dahulu."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Redemption for the Suffering",
-                                                                             "descriptionRaw":  "Batas pemulihan yang diberikan Rebuke: Vaulting Fist kepada Wriothesley akan meningkat menjadi 50% Max HP-nya. Harus membuka Talenta Pasif \"There Shall Be a Plea for Justice\" terlebih dahulu.\nSelain itu, saat Wriothesley menerima pemulihan, jika pemulihan kali ini ada yang berlebihan, maka akan menghasilkan efek berdasarkan ada atau tidaknya Wriothesley di medan pertempuran pada saat ini: Jika Wriothesley berada di medan pertempuran, maka ATK SPD Wriothesley meningkat 20% selama 4 detik; Saat Wriothesley ada di dalam party namun tidak berada di medan pertempuran, ATK SPD seluruh anggota party sendiri akan meningkat 10% selama 6 detik. Kedua efek peningkatan ATK SPD tersebut tidak dapat ditumpuk.",
-                                                                             "description":  "Batas pemulihan yang diberikan Rebuke: Vaulting Fist kepada Wriothesley akan meningkat menjadi 50% Max HP-nya. Harus membuka Talenta Pasif \"There Shall Be a Plea for Justice\" terlebih dahulu.\nSelain itu, saat Wriothesley menerima pemulihan, jika pemulihan kali ini ada yang berlebihan, maka akan menghasilkan efek berdasarkan ada atau tidaknya Wriothesley di medan pertempuran pada saat ini: Jika Wriothesley berada di medan pertempuran, maka ATK SPD Wriothesley meningkat 20% selama 4 detik; Saat Wriothesley ada di dalam party namun tidak berada di medan pertempuran, ATK SPD seluruh anggota party sendiri akan meningkat 10% selama 6 detik. Kedua efek peningkatan ATK SPD tersebut tidak dapat ditumpuk."
+                                                                             "descriptionRaw":  "Batas pemulihan yang diberikan Rebuke: Vaulting Fist kepada Wriothesley akan meningkat menjadi 50% Max HP-nya. Harus membuka Talenta Ascension \"There Shall Be a Plea for Justice\" terlebih dahulu.\nSelain itu, saat Wriothesley menerima pemulihan, jika pemulihan kali ini ada yang berlebihan, maka akan menghasilkan efek berdasarkan ada atau tidaknya Wriothesley di medan pertempuran pada saat ini: Jika Wriothesley berada di medan pertempuran, maka ATK SPD Wriothesley meningkat 20% selama 4 detik; Saat Wriothesley ada di dalam party namun tidak berada di medan pertempuran, ATK SPD seluruh anggota party sendiri akan meningkat 10% selama 6 detik. Kedua efek peningkatan ATK SPD tersebut tidak dapat ditumpuk.",
+                                                                             "description":  "Batas pemulihan yang diberikan Rebuke: Vaulting Fist kepada Wriothesley akan meningkat menjadi 50% Max HP-nya. Harus membuka Talenta Ascension \"There Shall Be a Plea for Justice\" terlebih dahulu.\nSelain itu, saat Wriothesley menerima pemulihan, jika pemulihan kali ini ada yang berlebihan, maka akan menghasilkan efek berdasarkan ada atau tidaknya Wriothesley di medan pertempuran pada saat ini: Jika Wriothesley berada di medan pertempuran, maka ATK SPD Wriothesley meningkat 20% selama 4 detik; Saat Wriothesley ada di dalam party namun tidak berada di medan pertempuran, ATK SPD seluruh anggota party sendiri akan meningkat 10% selama 6 detik. Kedua efek peningkatan ATK SPD tersebut tidak dapat ditumpuk."
                                                                          },
                                                                   "c3":  {
                                                                              "name":  "Punishment for the Frauds",
@@ -4276,13 +4387,13 @@
                                                                          },
                                                                   "c6":  {
                                                                              "name":  "Esteem for the Innocent",
-                                                                             "descriptionRaw":  "CRIT Rate Rebuke: Vaulting Fist meningkat 10%, CRIT DMG Vaulting Fist meningkat 80%. Saat dilancarkan, akan menghasilkan untaian es tambahan yang mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 100% DMG awal. DMG yang diakibatkan dengan cara ini akan dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Pasif \"There Shall Be a Plea for Justice\" terlebih dahulu.",
-                                                                             "description":  "CRIT Rate Rebuke: Vaulting Fist meningkat 10%, CRIT DMG Vaulting Fist meningkat 80%. Saat dilancarkan, akan menghasilkan untaian es tambahan yang mengakibatkan Cryo DMG sebesar 100% DMG awal. DMG yang diakibatkan dengan cara ini akan dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Pasif \"There Shall Be a Plea for Justice\" terlebih dahulu."
+                                                                             "descriptionRaw":  "CRIT Rate Rebuke: Vaulting Fist meningkat 10%, CRIT DMG Vaulting Fist meningkat 80%. Saat dilancarkan, akan menghasilkan untaian es tambahan yang mengakibatkan \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e sebesar 100% DMG awal. DMG yang diakibatkan dengan cara ini akan dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Ascension \"There Shall Be a Plea for Justice\" terlebih dahulu.",
+                                                                             "description":  "CRIT Rate Rebuke: Vaulting Fist meningkat 10%, CRIT DMG Vaulting Fist meningkat 80%. Saat dilancarkan, akan menghasilkan untaian es tambahan yang mengakibatkan Cryo DMG sebesar 100% DMG awal. DMG yang diakibatkan dengan cara ini akan dianggap sebagai DMG Charged Attack.\nHarus membuka Talenta Ascension \"There Shall Be a Plea for Justice\" terlebih dahulu."
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Terror for the Evildoers",
-                                                                             "descriptionRaw":  "Gracious Rebuke dari \"There Shall Be a Plea for Justice\" akan dikonversi menjadi:\nSaat HP Wriothesley kurang dari 60% atau saat status Chilling Penalty dari \u003ccolor=#FFD780FF\u003eIcefang Rush\u003c/color\u003e sedang berlangsung, akan mendapatkan \"Gracious Rebuke\" saat serangan Repelling Fist tahap ke-lima mengenai musuh. Efek \"Gracious Rebuke\" dapat diperoleh dengan cara ini satu kali setiap 2,5 detik.\n\nSelain itu, Rebuke: Vaulting Fist akan mendapatkan penguatan sebagai berikut:\n·DMG Bonus yang diakibatkan ditingkatkan lagi menjadi 200%;\n·Saat mengenai musuh, jika sedang berada dalam status Chilling Penalty, durasi status ini akan bertambah 4 detik. Selama satu kali durasi Chilling Penalty berlangsung, hanya dapat menerima perpanjangan durasi satu kali.\n\nHarus membuka Talenta Pasif \"There Shall Be a Plea for Justice\" terlebih dahulu.",
-                                                                             "description":  "Gracious Rebuke dari \"There Shall Be a Plea for Justice\" akan dikonversi menjadi:\nSaat HP Wriothesley kurang dari 60% atau saat status Chilling Penalty dari Icefang Rush sedang berlangsung, akan mendapatkan \"Gracious Rebuke\" saat serangan Repelling Fist tahap ke-lima mengenai musuh. Efek \"Gracious Rebuke\" dapat diperoleh dengan cara ini satu kali setiap 2,5 detik.\n\nSelain itu, Rebuke: Vaulting Fist akan mendapatkan penguatan sebagai berikut:\n·DMG Bonus yang diakibatkan ditingkatkan lagi menjadi 200%;\n·Saat mengenai musuh, jika sedang berada dalam status Chilling Penalty, durasi status ini akan bertambah 4 detik. Selama satu kali durasi Chilling Penalty berlangsung, hanya dapat menerima perpanjangan durasi satu kali.\n\nHarus membuka Talenta Pasif \"There Shall Be a Plea for Justice\" terlebih dahulu."
+                                                                             "descriptionRaw":  "Gracious Rebuke dari Talenta Ascension \"There Shall Be a Plea for Justice\" akan dikonversi menjadi:\nSaat HP Wriothesley kurang dari 60% atau saat status Chilling Penalty dari \u003ccolor=#FFD780FF\u003eIcefang Rush\u003c/color\u003e sedang berlangsung, akan mendapatkan \"Gracious Rebuke\" saat serangan Repelling Fist tahap ke-lima mengenai musuh. Efek \"Gracious Rebuke\" dapat diperoleh dengan cara ini satu kali setiap 2,5 detik.\n\nSelain itu, Rebuke: Vaulting Fist akan mendapatkan penguatan sebagai berikut:\n·DMG Bonus yang diakibatkan ditingkatkan lagi menjadi 200%;\n·Saat mengenai musuh, jika sedang berada dalam status Chilling Penalty, durasi status ini akan bertambah 4 detik. Selama satu kali durasi Chilling Penalty berlangsung, hanya dapat menerima perpanjangan durasi satu kali.\n\nHarus membuka Talenta Ascension \"There Shall Be a Plea for Justice\" terlebih dahulu.",
+                                                                             "description":  "Gracious Rebuke dari Talenta Ascension \"There Shall Be a Plea for Justice\" akan dikonversi menjadi:\nSaat HP Wriothesley kurang dari 60% atau saat status Chilling Penalty dari Icefang Rush sedang berlangsung, akan mendapatkan \"Gracious Rebuke\" saat serangan Repelling Fist tahap ke-lima mengenai musuh. Efek \"Gracious Rebuke\" dapat diperoleh dengan cara ini satu kali setiap 2,5 detik.\n\nSelain itu, Rebuke: Vaulting Fist akan mendapatkan penguatan sebagai berikut:\n·DMG Bonus yang diakibatkan ditingkatkan lagi menjadi 200%;\n·Saat mengenai musuh, jika sedang berada dalam status Chilling Penalty, durasi status ini akan bertambah 4 detik. Selama satu kali durasi Chilling Penalty berlangsung, hanya dapat menerima perpanjangan durasi satu kali.\n\nHarus membuka Talenta Ascension \"There Shall Be a Plea for Justice\" terlebih dahulu."
                                                                          }
                                                               },
                                            "elementText":  "Cryo",
@@ -4445,8 +4556,8 @@
                                                                            },
                                                                     "c1":  {
                                                                                "name":  "Swelling Lake",
-                                                                               "descriptionRaw":  "Setelah mengambil Sourcewater Droplet, akan memulihkan 2 poin Energy.\nHarus membuka Talenta Pasif \"Spotless Waters\" terlebih dahulu.",
-                                                                               "description":  "Setelah mengambil Sourcewater Droplet, akan memulihkan 2 poin Energy.\nHarus membuka Talenta Pasif \"Spotless Waters\" terlebih dahulu."
+                                                                               "descriptionRaw":  "Mengambil Sourcewater Droplet akan memulihkan 2 poin Energy untuk Pengembara.\nHarus membuka Talenta Ascension \"Spotless Waters\" terlebih dahulu.",
+                                                                               "description":  "Mengambil Sourcewater Droplet akan memulihkan 2 poin Energy untuk Pengembara.\nHarus membuka Talenta Ascension \"Spotless Waters\" terlebih dahulu."
                                                                            }
                                                                 }
                                          },
@@ -4577,8 +4688,8 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Juridical Exhortation",
-                                                                             "descriptionRaw":  "Talenta Pasif \"Heir to the Ancient Sea\u0027s Authority\" mendapatkan penguatan: Untuk setiap lapis Past Draconic Glories yang dimiliki, akan meningkatkan CRIT DMG Charged Attack: Equitable Judgment sebesar 14%, peningkatan maksimum yang bisa diperoleh dengan cara ini adalah 42%.\nHarus membuka Talenta Pasif \"Heir to the Ancient Sea\u0027s Authority\" terlebih dahulu.",
-                                                                             "description":  "Talenta Pasif \"Heir to the Ancient Sea\u0027s Authority\" mendapatkan penguatan: Untuk setiap lapis Past Draconic Glories yang dimiliki, akan meningkatkan CRIT DMG Charged Attack: Equitable Judgment sebesar 14%, peningkatan maksimum yang bisa diperoleh dengan cara ini adalah 42%.\nHarus membuka Talenta Pasif \"Heir to the Ancient Sea\u0027s Authority\" terlebih dahulu."
+                                                                             "descriptionRaw":  "Talenta Ascension \"Heir to the Ancient Sea\u0027s Authority\" mendapatkan penguatan: Untuk setiap lapis Past Draconic Glories yang dimiliki, akan meningkatkan CRIT DMG Charged Attack: Equitable Judgment sebesar 14%, peningkatan maksimum yang bisa diperoleh dengan cara ini adalah 42%.\nHarus membuka Talenta Ascension \"Heir to the Ancient Sea\u0027s Authority\" terlebih dahulu.",
+                                                                             "description":  "Talenta Ascension \"Heir to the Ancient Sea\u0027s Authority\" mendapatkan penguatan: Untuk setiap lapis Past Draconic Glories yang dimiliki, akan meningkatkan CRIT DMG Charged Attack: Equitable Judgment sebesar 14%, peningkatan maksimum yang bisa diperoleh dengan cara ini adalah 42%.\nHarus membuka Talenta Ascension \"Heir to the Ancient Sea\u0027s Authority\" terlebih dahulu."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Crown of Commiseration",
@@ -4602,8 +4713,8 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Venerable Institution",
-                                                                             "descriptionRaw":  "Saat Neuvillette memasuki medan pertempuran, mendapatkan satu lapis Past Draconic Glories dari Talenta Pasif \"Heir to the Ancient Sea\u0027s Authority\". Harus membuka Talenta Pasif \"Heir to the Ancient Sea\u0027s Authority\" terlebih dahulu.\nSelain itu, saat melancarkan Charged Attack Empowerment: Legal Evaluation dan Charged Attack: Equitable Judgment, ketahanan Neuvillette terhadap interupsi akan meningkat.",
-                                                                             "description":  "Saat Neuvillette memasuki medan pertempuran, mendapatkan satu lapis Past Draconic Glories dari Talenta Pasif \"Heir to the Ancient Sea\u0027s Authority\". Harus membuka Talenta Pasif \"Heir to the Ancient Sea\u0027s Authority\" terlebih dahulu.\nSelain itu, saat melancarkan Charged Attack Empowerment: Legal Evaluation dan Charged Attack: Equitable Judgment, ketahanan Neuvillette terhadap interupsi akan meningkat."
+                                                                             "descriptionRaw":  "Saat Neuvillette memasuki medan pertempuran, mendapatkan satu lapis Past Draconic Glories dari Talenta Ascension \"Heir to the Ancient Sea\u0027s Authority\". Harus membuka Talenta Ascension \"Heir to the Ancient Sea\u0027s Authority\" terlebih dahulu.\nSelain itu, saat melancarkan Charged Attack Empowerment: Legal Evaluation dan Charged Attack: Equitable Judgment, ketahanan Neuvillette terhadap interupsi akan meningkat.",
+                                                                             "description":  "Saat Neuvillette memasuki medan pertempuran, mendapatkan satu lapis Past Draconic Glories dari Talenta Ascension \"Heir to the Ancient Sea\u0027s Authority\". Harus membuka Talenta Ascension \"Heir to the Ancient Sea\u0027s Authority\" terlebih dahulu.\nSelain itu, saat melancarkan Charged Attack Empowerment: Legal Evaluation dan Charged Attack: Equitable Judgment, ketahanan Neuvillette terhadap interupsi akan meningkat."
                                                                          }
                                                               },
                                            "elementText":  "Hydro",
@@ -4638,13 +4749,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Ode to Deep Springs",
-                                                                        "descriptionRaw":  "Setelah memicu Hypersense dari Talenta Pasif \"Nightshade Synesthesia\", ATK Karakter aktif dalam party sendiri akan meningkat 10% selama 9 detik. Efek ini dapat ditumpuk sampai 3 lapis dan durasi setiap lapisnya dihitung terpisah.\nSelain itu, saat melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eDark Voices Echo\u003c/color\u003e, akan memicu efek yang setara dengan Hypersense satu kali dan mengakibatkan 200% DMG aslinya.\nHarus membuka Talenta Pasif \"Nightshade Synesthesia\" terlebih dahulu.",
-                                                                        "description":  "Setelah memicu Hypersense dari Talenta Pasif \"Nightshade Synesthesia\", ATK Karakter aktif dalam party sendiri akan meningkat 10% selama 9 detik. Efek ini dapat ditumpuk sampai 3 lapis dan durasi setiap lapisnya dihitung terpisah.\nSelain itu, saat melancarkan Elemental Burst Dark Voices Echo, akan memicu efek yang setara dengan Hypersense satu kali dan mengakibatkan 200% DMG aslinya.\nHarus membuka Talenta Pasif \"Nightshade Synesthesia\" terlebih dahulu."
+                                                                        "descriptionRaw":  "Setelah memicu Hypersense dari Talenta Ascension \"Nightshade Synesthesia\", ATK Karakter aktif dalam party sendiri akan meningkat 10% selama 9 detik. Efek ini dapat ditumpuk sampai 3 lapis dan durasi setiap lapisnya dihitung terpisah.\nSelain itu, melancarkan Elemental Burst \u003ccolor=#FFD780FF\u003eDark Voices Echo\u003c/color\u003e akan memicu efek yang setara dengan Hypersense sebanyak satu kali dan mengakibatkan 200% DMG aslinya.\nHarus membuka Talenta Ascension \"Nightshade Synesthesia\" terlebih dahulu.",
+                                                                        "description":  "Setelah memicu Hypersense dari Talenta Ascension \"Nightshade Synesthesia\", ATK Karakter aktif dalam party sendiri akan meningkat 10% selama 9 detik. Efek ini dapat ditumpuk sampai 3 lapis dan durasi setiap lapisnya dihitung terpisah.\nSelain itu, melancarkan Elemental Burst Dark Voices Echo akan memicu efek yang setara dengan Hypersense sebanyak satu kali dan mengakibatkan 200% DMG aslinya.\nHarus membuka Talenta Ascension \"Nightshade Synesthesia\" terlebih dahulu."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Trails Amidst the Forest Fog",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSpirit Orb\u003c/color\u003e dari Elemental Skill \u003ccolor=#FFD780FF\u003eNight\u0027s Sling\u003c/color\u003e bisa memantul 2 kali lebih banyak.\nSelain itu, setelah \u003ccolor=#FFD780FF\u003eSpirit Orb\u003c/color\u003e mengenai musuh, akan menambahkan efek Nighttide terhadap musuh tersebut selama 12 detik. Musuh yang berada dalam pengaruh efek Nighttide akan menerima peningkatan 50% DMG yang diakibatkan oleh Hypersense dari Talenta Pasif \"Nightshade Synesthesia\". Harus membuka Talenta Pasif \"Nightshade Synesthesia\" terlebih dahulu.",
-                                                                        "description":  "Spirit Orb dari Elemental Skill Night\u0027s Sling bisa memantul 2 kali lebih banyak.\nSelain itu, setelah Spirit Orb mengenai musuh, akan menambahkan efek Nighttide terhadap musuh tersebut selama 12 detik. Musuh yang berada dalam pengaruh efek Nighttide akan menerima peningkatan 50% DMG yang diakibatkan oleh Hypersense dari Talenta Pasif \"Nightshade Synesthesia\". Harus membuka Talenta Pasif \"Nightshade Synesthesia\" terlebih dahulu."
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSpirit Orb\u003c/color\u003e dari Elemental Skill \u003ccolor=#FFD780FF\u003eNight\u0027s Sling\u003c/color\u003e bisa memantul 2 kali lebih banyak.\nSelain itu, setelah \u003ccolor=#FFD780FF\u003eSpirit Orb\u003c/color\u003e mengenai musuh, akan menambahkan efek Nighttide terhadap musuh tersebut selama 12 detik. Musuh yang berada dalam pengaruh efek Nighttide akan menerima peningkatan 50% DMG yang diakibatkan oleh Hypersense dari Talenta Ascension \"Nightshade Synesthesia\". Harus membuka Talenta Ascension \"Nightshade Synesthesia\" terlebih dahulu.",
+                                                                        "description":  "Spirit Orb dari Elemental Skill Night\u0027s Sling bisa memantul 2 kali lebih banyak.\nSelain itu, setelah Spirit Orb mengenai musuh, akan menambahkan efek Nighttide terhadap musuh tersebut selama 12 detik. Musuh yang berada dalam pengaruh efek Nighttide akan menerima peningkatan 50% DMG yang diakibatkan oleh Hypersense dari Talenta Ascension \"Nightshade Synesthesia\". Harus membuka Talenta Ascension \"Nightshade Synesthesia\" terlebih dahulu."
                                                                     }
                                                          },
                                       "elementText":  "Electro",
@@ -4659,13 +4770,13 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Mualani, Going All Out!",
-                                                                         "descriptionRaw":  "Saat dalam status Nightsoul\u0027s Blessing, Mualani mendapatkan 2 lapis Wave Momentum dari \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e. Saat Mualani mendapatkan Puffer, akan mendapatkan 1 lapis Wave Momentum.\nSelain itu, dalam 2 detik setelah Mualani mendapatkan 2 Puffer dalam satu kali status Nightsoul Blessing, dia akan memulihkan 12 poin Nightsoul. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu.",
-                                                                         "description":  "Saat dalam status Nightsoul\u0027s Blessing, Mualani mendapatkan 2 lapis Wave Momentum dari Surfshark Wavebreaker. Saat Mualani mendapatkan Puffer, akan mendapatkan 1 lapis Wave Momentum.\nSelain itu, dalam 2 detik setelah Mualani mendapatkan 2 Puffer dalam satu kali status Nightsoul Blessing, dia akan memulihkan 12 poin Nightsoul. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu."
+                                                                         "descriptionRaw":  "Saat dalam status Nightsoul\u0027s Blessing, Mualani mendapatkan 2 lapis Wave Momentum dari \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e. Saat Mualani mendapatkan Puffer, akan mendapatkan 1 lapis Wave Momentum.\nSelain itu, dalam 2 detik setelah Mualani mendapatkan 2 Puffer dalam satu kali status Nightsoul Blessing, dia akan memulihkan 12 poin Nightsoul. Efek ini harus membuka Talenta Ascension \"Heat-Resistant Freshwater Floater\" terlebih dahulu.",
+                                                                         "description":  "Saat dalam status Nightsoul\u0027s Blessing, Mualani mendapatkan 2 lapis Wave Momentum dari Surfshark Wavebreaker. Saat Mualani mendapatkan Puffer, akan mendapatkan 1 lapis Wave Momentum.\nSelain itu, dalam 2 detik setelah Mualani mendapatkan 2 Puffer dalam satu kali status Nightsoul Blessing, dia akan memulihkan 12 poin Nightsoul. Efek ini harus membuka Talenta Ascension \"Heat-Resistant Freshwater Floater\" terlebih dahulu."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Sharky Eats Puffies",
-                                                                         "descriptionRaw":  "Saat mendapatkan Puffer, Mualani akan memulihkan 8 poin Energy. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu.\nSelain itu, DMG \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e meningkat 75%.",
-                                                                         "description":  "Saat mendapatkan Puffer, Mualani akan memulihkan 8 poin Energy. Efek ini harus membuka Talenta Pasif \"Heat-Resistant Freshwater Floater\" terlebih dahulu.\nSelain itu, DMG Boomsharka-laka meningkat 75%."
+                                                                         "descriptionRaw":  "Saat mendapatkan Puffer, Mualani akan memulihkan 8 poin Energy. Efek ini harus membuka Talenta Ascension \"Heat-Resistant Freshwater Floater\" terlebih dahulu.\nSelain itu, DMG \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e meningkat 75%.",
+                                                                         "description":  "Saat mendapatkan Puffer, Mualani akan memulihkan 8 poin Energy. Efek ini harus membuka Talenta Ascension \"Heat-Resistant Freshwater Floater\" terlebih dahulu.\nSelain itu, DMG Boomsharka-laka meningkat 75%."
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Surfing Atop Joyous Seas",
@@ -4700,8 +4811,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Through Hill and Copse",
-                                                                        "descriptionRaw":  "Talenta Pasif \"Floral Sidewinder\" akan berubah menjadi:\nSaat \u003ccolor=#FFD780FF\u003eFloral Ring\u003c/color\u003e kembali, Talenta Pasif \"Floral Sidewinder\" akan memberikan status \"Sprout\" untuk Karakter, yang akan mengakibatkan \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e sebesar 40% dari ATK Collei secara terus-menerus kepada musuh di sekitar selama 3 detik.\nSejak melancarkan \u003ccolor=#FFD780FF\u003eFloral Brush\u003c/color\u003e dan sebelum status Sprout kali ini hilang, jika ada Karakter di dalam party yang memicu reaksi Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, Lunar-Bloom, atau Burgeon, maka durasi efek Sprout kali ini diperpanjang 3 detik.\nPerpanjangan durasi efek Sprout yang bisa didapatkan dengan cara ini adalah 1 kali. Jika efek Sprout terpicu lagi selama durasinya berlangsung, maka efek yang awal akan dihapus. DMG yang diakibatkan oleh efek Sprout dianggap sebagai DMG Elemental Skill.\nHarus membuka Talenta Pasif Floral Sidewinder terlebih dahulu.",
-                                                                        "description":  "Talenta Pasif \"Floral Sidewinder\" akan berubah menjadi:\nSaat Floral Ring kembali, Talenta Pasif \"Floral Sidewinder\" akan memberikan status \"Sprout\" untuk Karakter, yang akan mengakibatkan Dendro DMG sebesar 40% dari ATK Collei secara terus-menerus kepada musuh di sekitar selama 3 detik.\nSejak melancarkan Floral Brush dan sebelum status Sprout kali ini hilang, jika ada Karakter di dalam party yang memicu reaksi Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, Lunar-Bloom, atau Burgeon, maka durasi efek Sprout kali ini diperpanjang 3 detik.\nPerpanjangan durasi efek Sprout yang bisa didapatkan dengan cara ini adalah 1 kali. Jika efek Sprout terpicu lagi selama durasinya berlangsung, maka efek yang awal akan dihapus. DMG yang diakibatkan oleh efek Sprout dianggap sebagai DMG Elemental Skill.\nHarus membuka Talenta Pasif Floral Sidewinder terlebih dahulu."
+                                                                        "descriptionRaw":  "Talenta Ascension \"Floral Sidewinder\" akan berubah menjadi:\nSaat \u003ccolor=#FFD780FF\u003eFloral Ring\u003c/color\u003e kembali, Talenta Ascension \"Floral Sidewinder\" akan memberikan status \"Sprout\" untuk Karakter, yang akan mengakibatkan \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e sebesar 40% dari ATK Collei secara terus-menerus kepada musuh di sekitar selama 3 detik.\nSejak melancarkan \u003ccolor=#FFD780FF\u003eFloral Brush\u003c/color\u003e dan sebelum status Sprout kali ini hilang, jika ada Karakter di dalam party yang memicu reaksi Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, Lunar-Bloom, atau Burgeon, maka durasi efek Sprout kali ini diperpanjang 3 detik.\nPerpanjangan durasi efek Sprout yang bisa didapatkan dengan cara ini adalah 1 kali. Jika efek Sprout terpicu lagi selama durasinya berlangsung, maka efek yang awal akan dihapus. DMG yang diakibatkan oleh efek Sprout dianggap sebagai DMG Elemental Skill.\nHarus membuka Talenta Ascension Floral Sidewinder terlebih dahulu.",
+                                                                        "description":  "Talenta Ascension \"Floral Sidewinder\" akan berubah menjadi:\nSaat Floral Ring kembali, Talenta Ascension \"Floral Sidewinder\" akan memberikan status \"Sprout\" untuk Karakter, yang akan mengakibatkan Dendro DMG sebesar 40% dari ATK Collei secara terus-menerus kepada musuh di sekitar selama 3 detik.\nSejak melancarkan Floral Brush dan sebelum status Sprout kali ini hilang, jika ada Karakter di dalam party yang memicu reaksi Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, Lunar-Bloom, atau Burgeon, maka durasi efek Sprout kali ini diperpanjang 3 detik.\nPerpanjangan durasi efek Sprout yang bisa didapatkan dengan cara ini adalah 1 kali. Jika efek Sprout terpicu lagi selama durasinya berlangsung, maka efek yang awal akan dihapus. DMG yang diakibatkan oleh efek Sprout dianggap sebagai DMG Elemental Skill.\nHarus membuka Talenta Ascension Floral Sidewinder terlebih dahulu."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Gift of the Woods",
@@ -4782,8 +4893,8 @@
                                     "constellations":  {
                                                            "c2":  {
                                                                       "name":  "Companion\u0027s Ingress",
-                                                                      "descriptionRaw":  "Saat Flowfrost Arrow dari \u003ccolor=#FFD780FF\u003eStarfrost Swirl\u003c/color\u003e mengenai musuh untuk pertama kalinya, atau saat Rimestar Flare mengenai musuh, akan menghasilkan 1 lapis efek Detector dari Talenta Pasif \"Suppressive Barrage\".\nHarus membuka Talenta Pasif Suppressive Barrage lebih dulu.",
-                                                                      "description":  "Saat Flowfrost Arrow dari Starfrost Swirl mengenai musuh untuk pertama kalinya, atau saat Rimestar Flare mengenai musuh, akan menghasilkan 1 lapis efek Detector dari Talenta Pasif \"Suppressive Barrage\".\nHarus membuka Talenta Pasif Suppressive Barrage lebih dulu."
+                                                                      "descriptionRaw":  "Saat Flowfrost Arrow dari \u003ccolor=#FFD780FF\u003eStarfrost Swirl\u003c/color\u003e mengenai musuh untuk pertama kalinya, atau saat Rimestar Flare mengenai musuh, akan menghasilkan 1 lapis efek Detector dari Talenta Ascension \"Suppressive Barrage\".\nHarus membuka Talenta Ascension Suppressive Barrage lebih dulu.",
+                                                                      "description":  "Saat Flowfrost Arrow dari Starfrost Swirl mengenai musuh untuk pertama kalinya, atau saat Rimestar Flare mengenai musuh, akan menghasilkan 1 lapis efek Detector dari Talenta Ascension \"Suppressive Barrage\".\nHarus membuka Talenta Ascension Suppressive Barrage lebih dulu."
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Sunfrost Encomium",
@@ -4802,8 +4913,8 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Companion\u0027s Counsel",
-                                                                      "descriptionRaw":  "Jumlah maksimum tumpukan efek Detector status Soulwind dari \u003ccolor=#FFD780FF\u003eStarfrost Swirl\u003c/color\u003e bertambah 1 lapis.\nHarus membuka Talenta Pasif Suppressive Barrage lebih dulu.\nSelain itu, Physical CRIT DMG Karakter aktif yang berada dalam status Soulwind meningkat 60%.",
-                                                                      "description":  "Jumlah maksimum tumpukan efek Detector status Soulwind dari Starfrost Swirl bertambah 1 lapis.\nHarus membuka Talenta Pasif Suppressive Barrage lebih dulu.\nSelain itu, Physical CRIT DMG Karakter aktif yang berada dalam status Soulwind meningkat 60%."
+                                                                      "descriptionRaw":  "Jumlah maksimum tumpukan efek Detector status Soulwind dari \u003ccolor=#FFD780FF\u003eStarfrost Swirl\u003c/color\u003e bertambah 1 lapis.\nHarus membuka Talenta Ascension Suppressive Barrage lebih dulu.\nSelain itu, Physical CRIT DMG Karakter aktif yang berada dalam status Soulwind meningkat 60%.",
+                                                                      "description":  "Jumlah maksimum tumpukan efek Detector status Soulwind dari Starfrost Swirl bertambah 1 lapis.\nHarus membuka Talenta Ascension Suppressive Barrage lebih dulu.\nSelain itu, Physical CRIT DMG Karakter aktif yang berada dalam status Soulwind meningkat 60%."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Factor Confluence",
@@ -4843,8 +4954,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Auspicious Beast\u0027s Shape",
-                                                                        "descriptionRaw":  "Setelah Scalespiker Cannon mengenai musuh, akan melambung satu kali di antara musuh dan mengakibatkan \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e sebesar 700% ATK Kinich.\nJika Scalespiker Cannon kali ini memicu efek penguatan pada meriam dari Talenta Pasif \"Flame Spirit Pact\" atau Konstelasi \"Tiger Beetle\u0027s Palm\", maka seluruh serangan dari lambungan yang dihasilkan akan mendapatkan efek penguatan yang disebutkan di atas.",
-                                                                        "description":  "Setelah Scalespiker Cannon mengenai musuh, akan melambung satu kali di antara musuh dan mengakibatkan Dendro DMG sebesar 700% ATK Kinich.\nJika Scalespiker Cannon kali ini memicu efek penguatan pada meriam dari Talenta Pasif \"Flame Spirit Pact\" atau Konstelasi \"Tiger Beetle\u0027s Palm\", maka seluruh serangan dari lambungan yang dihasilkan akan mendapatkan efek penguatan yang disebutkan di atas."
+                                                                        "descriptionRaw":  "Setelah Scalespiker Cannon mengenai musuh, akan melambung satu kali di antara musuh dan mengakibatkan \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e sebesar 700% ATK Kinich.\nJika Scalespiker Cannon kali ini memicu efek penguatan pada meriam dari Talenta Ascension \"Flame Spirit Pact\" atau Konstelasi \"Tiger Beetle\u0027s Palm\", maka seluruh serangan dari lambungan yang dihasilkan akan mendapatkan efek penguatan yang disebutkan di atas.",
+                                                                        "description":  "Setelah Scalespiker Cannon mengenai musuh, akan melambung satu kali di antara musuh dan mengakibatkan Dendro DMG sebesar 700% ATK Kinich.\nJika Scalespiker Cannon kali ini memicu efek penguatan pada meriam dari Talenta Ascension \"Flame Spirit Pact\" atau Konstelasi \"Tiger Beetle\u0027s Palm\", maka seluruh serangan dari lambungan yang dihasilkan akan mendapatkan efek penguatan yang disebutkan di atas."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Parrot\u0027s Beak",
@@ -4864,8 +4975,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Papyrus Scripture of Silent Secrets",
-                                                                        "descriptionRaw":  "Saat memenuhi salah satu kondisi berikut, \u003ccolor=#FFACFFFF\u003eElectro DMG Bonus\u003c/color\u003e Sethos meningkat 15% selama 10 detik, dapat ditumpuk sampai 2 lapis, durasi setiap lapisnya dihitung terpisah:\n·Mengonsumsi Energy melalui serangan Membidik, kondisi ini harus membuka Talenta Pasif \"Black Kite\u0027s Enigma\" terlebih dahulu;\n·Memicu Reaksi Elemental dan memulihkan Energy melalui \u003ccolor=#FFD780FF\u003eAncient Rite: The Thundering Sands\u003c/color\u003e;\n·Melancarkan \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e.",
-                                                                        "description":  "Saat memenuhi salah satu kondisi berikut, Electro DMG Bonus Sethos meningkat 15% selama 10 detik, dapat ditumpuk sampai 2 lapis, durasi setiap lapisnya dihitung terpisah:\n·Mengonsumsi Energy melalui serangan Membidik, kondisi ini harus membuka Talenta Pasif \"Black Kite\u0027s Enigma\" terlebih dahulu;\n·Memicu Reaksi Elemental dan memulihkan Energy melalui Ancient Rite: The Thundering Sands;\n·Melancarkan Secret Rite: Twilight Shadowpiercer."
+                                                                        "descriptionRaw":  "Saat memenuhi salah satu kondisi berikut, \u003ccolor=#FFACFFFF\u003eElectro DMG Bonus\u003c/color\u003e Sethos meningkat 15% selama 10 detik, dapat ditumpuk sampai 2 lapis, durasi setiap lapisnya dihitung terpisah:\n·Mengonsumsi Energy melalui serangan Membidik, kondisi ini harus membuka Talenta Ascension \"Black Kite\u0027s Enigma\" terlebih dahulu;\n·Memicu Reaksi Elemental dan memulihkan Energy melalui \u003ccolor=#FFD780FF\u003eAncient Rite: The Thundering Sands\u003c/color\u003e;\n·Melancarkan \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e.",
+                                                                        "description":  "Saat memenuhi salah satu kondisi berikut, Electro DMG Bonus Sethos meningkat 15% selama 10 detik, dapat ditumpuk sampai 2 lapis, durasi setiap lapisnya dihitung terpisah:\n·Mengonsumsi Energy melalui serangan Membidik, kondisi ini harus membuka Talenta Ascension \"Black Kite\u0027s Enigma\" terlebih dahulu;\n·Memicu Reaksi Elemental dan memulihkan Energy melalui Ancient Rite: The Thundering Sands;\n·Melancarkan Secret Rite: Twilight Shadowpiercer."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Beneficent Plumage",
@@ -4884,8 +4995,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Pylon of the Sojourning Sun Temple",
-                                                                        "descriptionRaw":  "Setelah \u003ccolor=#FFD780FF\u003eShadowpiercing Shot\u003c/color\u003e mengenai musuh, Energy yang dikonsumsi oleh Talenta Pasif \"Black Kite\u0027s Enigma\" akan dikembalikan. Efek ini dapat terpicu setiap 15 detik. Harus membuka Talenta Pasif \"Black Kite\u0027s Enigma\" terlebih dahulu.",
-                                                                        "description":  "Setelah Shadowpiercing Shot mengenai musuh, Energy yang dikonsumsi oleh Talenta Pasif \"Black Kite\u0027s Enigma\" akan dikembalikan. Efek ini dapat terpicu setiap 15 detik. Harus membuka Talenta Pasif \"Black Kite\u0027s Enigma\" terlebih dahulu."
+                                                                        "descriptionRaw":  "Setelah \u003ccolor=#FFD780FF\u003eShadowpiercing Shot\u003c/color\u003e mengenai musuh, Energy yang dikonsumsi oleh Talenta Ascension \"Black Kite\u0027s Enigma\" akan dikembalikan. Efek ini dapat terpicu setiap 15 detik. Harus membuka Talenta Ascension \"Black Kite\u0027s Enigma\" terlebih dahulu.",
+                                                                        "description":  "Setelah Shadowpiercing Shot mengenai musuh, Energy yang dikonsumsi oleh Talenta Ascension \"Black Kite\u0027s Enigma\" akan dikembalikan. Efek ini dapat terpicu setiap 15 detik. Harus membuka Talenta Ascension \"Black Kite\u0027s Enigma\" terlebih dahulu."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Sealed Shrine\u0027s Spiritsong",
@@ -5154,8 +5265,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Heart Devourer\u0027s Travail",
-                                                                         "descriptionRaw":  "Elemental Mastery Citlali meningkat 125 poin. Karakter lain yang berada dalam perlindungan Opal Shield, atau diikuti oleh Itzpapa, akan mendapat peningkatan Elemental Mastery sebesar 250 poin.\nSelain itu, saat melancarkan Elemental Skill \u003ccolor=#FFD780FF\u003eDawnfrost Darkstar\u003c/color\u003e, juga akan memberikan Opal Shield bagi Karakter aktif di sekitar.\n\nSelain itu, efek Talenta Pasif \"Mamaloaco\u0027s Frigid Rain\" mendapatkan peningkatan sebagai berikut:\nSelama Itzpapa berada di medan pertempuran, setelah Karakter party di sekitar memicu reaksi Frozen atau Melt, \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e dan \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e RES musuh yang terkena reaksi kali ini akan berkurang lagi sebesar 20% selama 12 detik. Efek ini harus membuka Talenta Pasif \"Mamaloaco\u0027s Frigid Rain\" terlebih dahulu.",
-                                                                         "description":  "Elemental Mastery Citlali meningkat 125 poin. Karakter lain yang berada dalam perlindungan Opal Shield, atau diikuti oleh Itzpapa, akan mendapat peningkatan Elemental Mastery sebesar 250 poin.\nSelain itu, saat melancarkan Elemental Skill Dawnfrost Darkstar, juga akan memberikan Opal Shield bagi Karakter aktif di sekitar.\n\nSelain itu, efek Talenta Pasif \"Mamaloaco\u0027s Frigid Rain\" mendapatkan peningkatan sebagai berikut:\nSelama Itzpapa berada di medan pertempuran, setelah Karakter party di sekitar memicu reaksi Frozen atau Melt, Pyro dan Hydro RES musuh yang terkena reaksi kali ini akan berkurang lagi sebesar 20% selama 12 detik. Efek ini harus membuka Talenta Pasif \"Mamaloaco\u0027s Frigid Rain\" terlebih dahulu."
+                                                                         "descriptionRaw":  "Elemental Mastery Citlali meningkat 125 poin. Karakter lain yang berada dalam perlindungan Opal Shield, atau diikuti oleh Itzpapa, akan mendapat peningkatan Elemental Mastery sebesar 250 poin.\nSelain itu, saat melancarkan Elemental Skill \u003ccolor=#FFD780FF\u003eDawnfrost Darkstar\u003c/color\u003e, juga akan memberikan Opal Shield bagi Karakter aktif di sekitar.\n\nSelain itu, efek Talenta Ascension \"Mamaloaco\u0027s Frigid Rain\" mendapatkan peningkatan sebagai berikut:\nSelama Itzpapa berada di medan pertempuran, setelah Karakter party di sekitar memicu reaksi Frozen atau Melt, \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e dan \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e RES musuh yang terkena reaksi kali ini akan berkurang lagi sebesar 20% selama 12 detik. Efek ini harus membuka Talenta Ascension \"Mamaloaco\u0027s Frigid Rain\" terlebih dahulu.",
+                                                                         "description":  "Elemental Mastery Citlali meningkat 125 poin. Karakter lain yang berada dalam perlindungan Opal Shield, atau diikuti oleh Itzpapa, akan mendapat peningkatan Elemental Mastery sebesar 250 poin.\nSelain itu, saat melancarkan Elemental Skill Dawnfrost Darkstar, juga akan memberikan Opal Shield bagi Karakter aktif di sekitar.\n\nSelain itu, efek Talenta Ascension \"Mamaloaco\u0027s Frigid Rain\" mendapatkan peningkatan sebagai berikut:\nSelama Itzpapa berada di medan pertempuran, setelah Karakter party di sekitar memicu reaksi Frozen atau Melt, Pyro dan Hydro RES musuh yang terkena reaksi kali ini akan berkurang lagi sebesar 20% selama 12 detik. Efek ini harus membuka Talenta Ascension \"Mamaloaco\u0027s Frigid Rain\" terlebih dahulu."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Death Defier\u0027s Spirit Skull",
@@ -5384,8 +5495,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Stable Front Line\u0027s Resolve",
-                                                                           "descriptionRaw":  "Saat Karakter aktif yang berada dalam status \"Coordinated Tactics\" (tidak termasuk Chevreuse sendiri) memicu Reaksi Overloaded, akan memulihkan 6 Energy. Efek ini dapat terpicu sekali setiap 10 detik.\nHarus membuka Talenta Pasif \"Vanguard\u0027s Coordinated Tactics\" terlebih dahulu.",
-                                                                           "description":  "Saat Karakter aktif yang berada dalam status \"Coordinated Tactics\" (tidak termasuk Chevreuse sendiri) memicu Reaksi Overloaded, akan memulihkan 6 Energy. Efek ini dapat terpicu sekali setiap 10 detik.\nHarus membuka Talenta Pasif \"Vanguard\u0027s Coordinated Tactics\" terlebih dahulu."
+                                                                           "descriptionRaw":  "Saat Karakter aktif yang berada dalam status \"Coordinated Tactics\" (tidak termasuk Chevreuse sendiri) memicu Reaksi Overloaded, akan memulihkan 6 Energy. Efek ini dapat terpicu sekali setiap 10 detik.\nHarus membuka Talenta Ascension \"Vanguard\u0027s Coordinated Tactics\" terlebih dahulu.",
+                                                                           "description":  "Saat Karakter aktif yang berada dalam status \"Coordinated Tactics\" (tidak termasuk Chevreuse sendiri) memicu Reaksi Overloaded, akan memulihkan 6 Energy. Efek ini dapat terpicu sekali setiap 10 detik.\nHarus membuka Talenta Ascension \"Vanguard\u0027s Coordinated Tactics\" terlebih dahulu."
                                                                        }
                                                             },
                                          "elementText":  "Pyro",
@@ -5765,8 +5876,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Aloof From the World",
-                                                                         "descriptionRaw":  "Setelah menggunakan Skyladder dari \u003ccolor=#FFD780FF\u003eWhite Clouds at Dawn\u003c/color\u003e, ATK Xianyun meningkat 20% selama 15 detik.\nSelain itu, efek Talenta Pasif \"Consider, the Adeptus in Her Realm\" akan mendapatkan peningkatan: Saat Starwicker yang diciptakan oleh \u003ccolor=#FFD780FF\u003eStars Gather at Dusk\u003c/color\u003e memiliki lapisan Adeptal Assistance, DMG terjangan Plunging Attack Karakter aktif di sekitar meningkat sebesar 400% ATK Xianyun. Jumlah peningkatan Plunging Attack Karakter aktif yang bisa diperoleh dengan cara ini adalah maksimum 18.000 DMG.\nDalam satu kali terjangan Plunging Attack, hanya satu musuh yang bisa menerima efek yang disebutkan di atas. Bisa terpicu maksimum sekali setiap 0,4 detik untuk setiap Karakter.\nHarus membuka Talenta Pasif \"Consider, the Adeptus in Her Realm\" terlebih dahulu.",
-                                                                         "description":  "Setelah menggunakan Skyladder dari White Clouds at Dawn, ATK Xianyun meningkat 20% selama 15 detik.\nSelain itu, efek Talenta Pasif \"Consider, the Adeptus in Her Realm\" akan mendapatkan peningkatan: Saat Starwicker yang diciptakan oleh Stars Gather at Dusk memiliki lapisan Adeptal Assistance, DMG terjangan Plunging Attack Karakter aktif di sekitar meningkat sebesar 400% ATK Xianyun. Jumlah peningkatan Plunging Attack Karakter aktif yang bisa diperoleh dengan cara ini adalah maksimum 18.000 DMG.\nDalam satu kali terjangan Plunging Attack, hanya satu musuh yang bisa menerima efek yang disebutkan di atas. Bisa terpicu maksimum sekali setiap 0,4 detik untuk setiap Karakter.\nHarus membuka Talenta Pasif \"Consider, the Adeptus in Her Realm\" terlebih dahulu."
+                                                                         "descriptionRaw":  "Setelah menggunakan Skyladder dari \u003ccolor=#FFD780FF\u003eWhite Clouds at Dawn\u003c/color\u003e, ATK Xianyun meningkat 20% selama 15 detik.\nSelain itu, efek Talenta Ascension \"Consider, the Adeptus in Her Realm\" akan mendapatkan peningkatan: Saat Starwicker yang diciptakan oleh \u003ccolor=#FFD780FF\u003eStars Gather at Dusk\u003c/color\u003e memiliki lapisan Adeptal Assistance, DMG terjangan Plunging Attack Karakter aktif di sekitar meningkat sebesar 400% ATK Xianyun. Jumlah peningkatan Plunging Attack Karakter aktif yang bisa diperoleh dengan cara ini adalah maksimum 18.000 DMG.\nDalam satu kali terjangan Plunging Attack, hanya satu musuh yang bisa menerima efek yang disebutkan di atas. Bisa terpicu maksimum sekali setiap 0,4 detik untuk setiap Karakter.\nHarus membuka Talenta Ascension \"Consider, the Adeptus in Her Realm\" terlebih dahulu.",
+                                                                         "description":  "Setelah menggunakan Skyladder dari White Clouds at Dawn, ATK Xianyun meningkat 20% selama 15 detik.\nSelain itu, efek Talenta Ascension \"Consider, the Adeptus in Her Realm\" akan mendapatkan peningkatan: Saat Starwicker yang diciptakan oleh Stars Gather at Dusk memiliki lapisan Adeptal Assistance, DMG terjangan Plunging Attack Karakter aktif di sekitar meningkat sebesar 400% ATK Xianyun. Jumlah peningkatan Plunging Attack Karakter aktif yang bisa diperoleh dengan cara ini adalah maksimum 18.000 DMG.\nDalam satu kali terjangan Plunging Attack, hanya satu musuh yang bisa menerima efek yang disebutkan di atas. Bisa terpicu maksimum sekali setiap 0,4 detik untuk setiap Karakter.\nHarus membuka Talenta Ascension \"Consider, the Adeptus in Her Realm\" terlebih dahulu."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Mystery Millet Gourmet",
@@ -5847,8 +5958,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Lakelight Top Note",
-                                                                        "descriptionRaw":  "Saat \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eAromatic Explication\u003c/color\u003e, atau Cleardew Cologne dari Talenta Pasif \"Lingering Fragrance\" (harus membuka Talenta Pasif yang bersangkutan lebih dulu) mengenai musuh, \u003ccolor=#99FF88FF\u003eDendro RES\u003c/color\u003e musuh tersebut berkurang 30% selama 10 detik.",
-                                                                        "description":  "Saat Fragrance Extraction, Aromatic Explication, atau Cleardew Cologne dari Talenta Pasif \"Lingering Fragrance\" (harus membuka Talenta Pasif yang bersangkutan lebih dulu) mengenai musuh, Dendro RES musuh tersebut berkurang 30% selama 10 detik."
+                                                                        "descriptionRaw":  "Saat \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eAromatic Explication\u003c/color\u003e, atau Cleardew Cologne dari Talenta Ascension \"Lingering Fragrance\" (harus membuka Talenta Ascension yang bersangkutan lebih dulu) mengenai musuh, \u003ccolor=#99FF88FF\u003eDendro RES\u003c/color\u003e musuh tersebut berkurang 30% selama 10 detik.",
+                                                                        "description":  "Saat Fragrance Extraction, Aromatic Explication, atau Cleardew Cologne dari Talenta Ascension \"Lingering Fragrance\" (harus membuka Talenta Ascension yang bersangkutan lebih dulu) mengenai musuh, Dendro RES musuh tersebut berkurang 30% selama 10 detik."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Lumidouce Heart Note",
@@ -5872,8 +5983,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Light Fragrance Leaching",
-                                                                        "descriptionRaw":  "DMG yang diakibatkan \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e dan Cleardew Cologne dari Talenta Pasif \"Lingering Fragrance\" meningkat 20%. Peningkatan DMG untuk Talenta Pasif hanya berlaku setelah Talenta Pasif \"Lingering Fragrance\" dibuka.\nSelain itu, saat anggota party di sekitar memicu reaksi Burning terhadap musuh atau mengakibatkan \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e terhadap musuh yang berada dalam status Burning, akan menghasilkan 1 \u003ccolor=#FFD780FF\u003eScent\u003c/color\u003e tambahan. Efek ini dapat terpicu sekali setiap 2,9 detik.",
-                                                                        "description":  "DMG yang diakibatkan Fragrance Extraction dan Cleardew Cologne dari Talenta Pasif \"Lingering Fragrance\" meningkat 20%. Peningkatan DMG untuk Talenta Pasif hanya berlaku setelah Talenta Pasif \"Lingering Fragrance\" dibuka.\nSelain itu, saat anggota party di sekitar memicu reaksi Burning terhadap musuh atau mengakibatkan Dendro DMG terhadap musuh yang berada dalam status Burning, akan menghasilkan 1 Scent tambahan. Efek ini dapat terpicu sekali setiap 2,9 detik."
+                                                                        "descriptionRaw":  "DMG yang diakibatkan \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e dan Cleardew Cologne dari Talenta Ascension \"Lingering Fragrance\" meningkat 20%. Peningkatan DMG untuk Talenta Ascension hanya berlaku setelah Talenta Ascension \"Lingering Fragrance\" dibuka.\nSelain itu, saat anggota party di sekitar memicu reaksi Burning terhadap musuh atau mengakibatkan \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e terhadap musuh yang berada dalam status Burning, akan menghasilkan 1 \u003ccolor=#FFD780FF\u003eScent\u003c/color\u003e tambahan. Efek ini dapat terpicu sekali setiap 2,9 detik.",
+                                                                        "description":  "DMG yang diakibatkan Fragrance Extraction dan Cleardew Cologne dari Talenta Ascension \"Lingering Fragrance\" meningkat 20%. Peningkatan DMG untuk Talenta Ascension hanya berlaku setelah Talenta Ascension \"Lingering Fragrance\" dibuka.\nSelain itu, saat anggota party di sekitar memicu reaksi Burning terhadap musuh atau mengakibatkan Dendro DMG terhadap musuh yang berada dalam status Burning, akan menghasilkan 1 Scent tambahan. Efek ini dapat terpicu sekali setiap 2,9 detik."
                                                                     }
                                                          },
                                       "elementText":  "Dendro",
@@ -5949,8 +6060,8 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "\"I Offer Blood and Tears to the Moonlight\"",
-                                                                       "descriptionRaw":  "Saat {LINK#N11190001}\u003ccolor=#FFD780FF\u003eFrostgrove Sanctuary\u003c/color\u003e{/LINK} menyerang musuh, akan mengakibatkan satu kali \u003ccolor=#99FF88FF\u003eDendro DMG Area\u003c/color\u003e tambahan sebesar 185% Elemental Mastery Lauma yang dianggap sebagai DMG Lunar-Bloom. DMG ini tidak akan mengonsumsi {LINK#N11190003}\u003ccolor=#FFD780FF\u003ePale Hymn\u003c/color\u003e{/LINK}, namun akan memberikan 2 lapis Pale Hymn bagi Lauma serta memperbarui durasi Pale Hymn yang diperoleh dengan cara ini.\nDalam satu kali durasi Frostgrove Sanctuary, efek ini dapat terpicu maksimum 8 kali. Saat melancarkan Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11192}Runo: Dawnless Rest of Karsikko{/LINK}\u003c/color\u003e, semua lapisan Pale Hymn yang diperoleh dengan cara ini akan dihapus.\n\nSelain itu, jika Lauma melancarkan Normal Attack saat memiliki Pale Hymn, maka Lauma akan mengonsumsi satu lapis Pale Hymn dan mengonversi serangannya menjadi \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e sebesar 150% Elemental Mastery Lauma dan dianggap sebagai DMG Lunar-Bloom.\n\n\u003ccolor=#FFD780FF\u003eMoonsign: Ascendant Gleam\u003c/color\u003e: DMG reaksi Lunar-Bloom seluruh Karakter di sekitar dalam party{LINK#N11190007}\u003ccolor=#FFD780FF\u003ebertumbuh\u003c/color\u003e{/LINK} sebesar 25%.",
-                                                                       "description":  "Saat **Frostgrove Sanctuary** menyerang musuh, akan mengakibatkan satu kali Dendro DMG Area tambahan sebesar 185% Elemental Mastery Lauma yang dianggap sebagai DMG Lunar-Bloom. DMG ini tidak akan mengonsumsi **Pale Hymn**, namun akan memberikan 2 lapis Pale Hymn bagi Lauma serta memperbarui durasi Pale Hymn yang diperoleh dengan cara ini.\nDalam satu kali durasi Frostgrove Sanctuary, efek ini dapat terpicu maksimum 8 kali. Saat melancarkan Elemental Skill **Runo: Dawnless Rest of Karsikko**, semua lapisan Pale Hymn yang diperoleh dengan cara ini akan dihapus.\n\nSelain itu, jika Lauma melancarkan Normal Attack saat memiliki Pale Hymn, maka Lauma akan mengonsumsi satu lapis Pale Hymn dan mengonversi serangannya menjadi Dendro DMG sebesar 150% Elemental Mastery Lauma dan dianggap sebagai DMG Lunar-Bloom.\n\nMoonsign: Ascendant Gleam: DMG reaksi Lunar-Bloom seluruh Karakter di sekitar dalam party**bertumbuh** sebesar 25%."
+                                                                       "descriptionRaw":  "Saat {LINK#N11190001}\u003ccolor=#FFD780FF\u003eFrostgrove Sanctuary\u003c/color\u003e{/LINK} menyerang musuh, akan mengakibatkan satu kali \u003ccolor=#99FF88FF\u003eDendro DMG Area\u003c/color\u003e tambahan sebesar 185% Elemental Mastery Lauma yang dianggap sebagai DMG Lunar-Bloom. DMG ini tidak akan mengonsumsi {LINK#N11190003}\u003ccolor=#FFD780FF\u003ePale Hymn\u003c/color\u003e{/LINK}, namun akan memberikan 2 lapis Pale Hymn bagi Lauma serta memperbarui durasi Pale Hymn yang diperoleh dengan cara ini.\nDalam satu kali durasi Frostgrove Sanctuary, efek ini dapat terpicu maksimum 8 kali. Saat melancarkan Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11192}Runo: Dawnless Rest of Karsikko{/LINK}\u003c/color\u003e, semua lapisan Pale Hymn yang diperoleh dengan cara ini akan dihapus.\n\nSelain itu, jika Lauma melancarkan Normal Attack saat memiliki Pale Hymn, maka Lauma akan mengonsumsi satu lapis Pale Hymn dan mengonversi serangannya menjadi \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e sebesar 150% Elemental Mastery Lauma dan dianggap sebagai DMG Lunar-Bloom.\n\n\u003ccolor=#FFD780FF\u003eMoonsign: Ascendant Gleam\u003c/color\u003e: DMG reaksi Lunar-Bloom seluruh Karakter di sekitar dalam party {LINK#N11190007}\u003ccolor=#FFD780FF\u003ebertumbuh\u003c/color\u003e{/LINK} sebesar 25%.",
+                                                                       "description":  "Saat **Frostgrove Sanctuary** menyerang musuh, akan mengakibatkan satu kali Dendro DMG Area tambahan sebesar 185% Elemental Mastery Lauma yang dianggap sebagai DMG Lunar-Bloom. DMG ini tidak akan mengonsumsi **Pale Hymn**, namun akan memberikan 2 lapis Pale Hymn bagi Lauma serta memperbarui durasi Pale Hymn yang diperoleh dengan cara ini.\nDalam satu kali durasi Frostgrove Sanctuary, efek ini dapat terpicu maksimum 8 kali. Saat melancarkan Elemental Skill **Runo: Dawnless Rest of Karsikko**, semua lapisan Pale Hymn yang diperoleh dengan cara ini akan dihapus.\n\nSelain itu, jika Lauma melancarkan Normal Attack saat memiliki Pale Hymn, maka Lauma akan mengonsumsi satu lapis Pale Hymn dan mengonversi serangannya menjadi Dendro DMG sebesar 150% Elemental Mastery Lauma dan dianggap sebagai DMG Lunar-Bloom.\n\nMoonsign: Ascendant Gleam: DMG reaksi Lunar-Bloom seluruh Karakter di sekitar dalam party **bertumbuh** sebesar 25%."
                                                                    },
                                                             "c1":  {
                                                                        "name":  "\"O Lips, Weave Me Songs and Psalms\"",
@@ -6246,6 +6357,47 @@
                                      "region":  "Fontaine",
                                      "gender":  "Pria"
                                  },
+                       "nefer":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Observation Feeds Strategy",
+                                                                       "descriptionRaw":  "Talenta Ascension {LINK#P1222101}\u003ccolor=#FFD780FF\u003eA Wager of Moonlight\u003c/color\u003e{/LINK} diperkuat: Durasi {LINK#N11220003}\u003ccolor=#FFD780FF\u003eVeil of Falsehood\u003c/color\u003e{/LINK} diperpanjang 5 detik, batas lapisan meningkat menjadi 5 lapis, dan dapat mengakibatkan maksimum 140% DMG \u003ccolor=#FFD780FF\u003e{LINK#N11220002}Phantasm Performance{/LINK}\u003c/color\u003e dari DMG awalnya. Saat melancarkan Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11222}Senet Strategy: Dance of a Thousand Nights{/LINK}\u003c/color\u003e, Nefer langsung mendapatkan 2 lapis Veil of Falsehood. Selain itu, saat Veil of Falsehood ditumpuk sampai 5 lapis atau saat durasi 5 lapis diperbarui, Elemental Mastery Nefer akan meningkat 200 poin selama 8 detik.\nHarus membuka Talenta Ascension \"A Wager of Moonlight\" terlebih dahulu.",
+                                                                       "description":  "Talenta Ascension **A Wager of Moonlight** diperkuat: Durasi **Veil of Falsehood** diperpanjang 5 detik, batas lapisan meningkat menjadi 5 lapis, dan dapat mengakibatkan maksimum 140% DMG **Phantasm Performance** dari DMG awalnya. Saat melancarkan Elemental Skill **Senet Strategy: Dance of a Thousand Nights**, Nefer langsung mendapatkan 2 lapis Veil of Falsehood. Selain itu, saat Veil of Falsehood ditumpuk sampai 5 lapis atau saat durasi 5 lapis diperbarui, Elemental Mastery Nefer akan meningkat 200 poin selama 8 detik.\nHarus membuka Talenta Ascension \"A Wager of Moonlight\" terlebih dahulu."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Delusion Ensnares Reason",
+                                                                       "descriptionRaw":  "Saat Nefer berada di medan pertempuran dan berada dalam status {LINK#N11220001}\u003ccolor=#FFD780FF\u003eShadow Dance\u003c/color\u003e{/LINK}, kecepatan memulihkan Verdant Dew meningkat 25%.\nSelain itu, saat Nefer dalam status Shadow Dance, \u003ccolor=#99FF88FF\u003eDendro RES\u003c/color\u003e musuh di sekitar berkurang 20%. Saat Nefer tidak berada dalam status Shadow Dance atau setelah menjauh dari musuh dalam jarak tertentu, efek ini akan hilang 4,5 detik setelahnya.",
+                                                                       "description":  "Saat Nefer berada di medan pertempuran dan berada dalam status **Shadow Dance**, kecepatan memulihkan Verdant Dew meningkat 25%.\nSelain itu, saat Nefer dalam status Shadow Dance, Dendro RES musuh di sekitar berkurang 20%. Saat Nefer tidak berada dalam status Shadow Dance atau setelah menjauh dari musuh dalam jarak tertentu, efek ini akan hilang 4,5 detik setelahnya."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Deceit Cloaks the Truth",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11222}Senet Strategy: Dance of a Thousand Nights{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Elemental Skill **Senet Strategy: Dance of a Thousand Nights**.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Opportunity Hides in the Margins",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11225}Sacred Vow: True Eye\u0027s Phantasm{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Elemental Burst **Sacred Vow: True Eye\u0027s Phantasm**.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Victory Flows from the Turning of Tides",
+                                                                       "descriptionRaw":  "Saat Nefer melancarkan {LINK#N11220002}\u003ccolor=#FFD780FF\u003ePhantasm Performance\u003c/color\u003e{/LINK}, DMG tahap 2 milik dirinya sendiri akan dikonversi menjadi \u003ccolor=#99FF88FF\u003eDendro DMG Area\u003c/color\u003e sebesar 85% Elemental Mastery Nefer. Selain itu, saat serangan Phantasm Performance berakhir, akan mengakibatkan 1 kali \u003ccolor=#99FF88FF\u003eDendro DMG Area\u003c/color\u003e sebesar 120% Elemental Mastery Nefer. Semua DMG yang disebutkan di atas dianggap sebagai DMG Lunar-Bloom dari Phantasm Performance.\n\n\u003ccolor=#FFD780FF\u003eMoonsign: Ascendant Gleam\u003c/color\u003e: DMG reaksi Lunar-Bloom {LINK#N11190007}\u003ccolor=#FFD780FF\u003ebertumbuh\u003c/color\u003e{/LINK} 15%.",
+                                                                       "description":  "Saat Nefer melancarkan **Phantasm Performance**, DMG tahap 2 milik dirinya sendiri akan dikonversi menjadi Dendro DMG Area sebesar 85% Elemental Mastery Nefer. Selain itu, saat serangan Phantasm Performance berakhir, akan mengakibatkan 1 kali Dendro DMG Area sebesar 120% Elemental Mastery Nefer. Semua DMG yang disebutkan di atas dianggap sebagai DMG Lunar-Bloom dari Phantasm Performance.\n\nMoonsign: Ascendant Gleam: DMG reaksi Lunar-Bloom **bertumbuh** 15%."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Planning Breeds Success",
+                                                                       "descriptionRaw":  "DMG dasar reaksi Lunar-Bloom yang diakibatkan oleh {LINK#N11220002}\u003ccolor=#FFD780FF\u003ePhantasm Performance\u003c/color\u003e{/LINK} meningkat sebesar 60% Elemental Mastery Nefer. Efek ini tetap terpengaruh oleh bonus {LINK#N11220003}\u003ccolor=#FFD780FF\u003eVeil of Falsehood\u003c/color\u003e{/LINK}.",
+                                                                       "description":  "DMG dasar reaksi Lunar-Bloom yang diakibatkan oleh **Phantasm Performance** meningkat sebesar 60% Elemental Mastery Nefer. Efek ini tetap terpengaruh oleh bonus **Veil of Falsehood**."
+                                                                   }
+                                                        },
+                                     "elementText":  "Dendro",
+                                     "fullname":  null,
+                                     "weaponText":  "Catalyst",
+                                     "name":  "Nefer",
+                                     "substatText":  "CRIT DMG",
+                                     "region":  "Nod-Krai",
+                                     "gender":  "Perempuan"
+                                 },
                        "aloy":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6357,8 +6509,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "\"As One Might Stride Betwixt the Clouds\"",
-                                                                        "descriptionRaw":  "Setelah memicu konversi elemen dari Talenta Pasif \"Four Sealing Divination Charms\", Elemental Skill \u003ccolor=#FFD780FF\u003eSwallow-Wisp Pinion Dance\u003c/color\u003e kali ini akan menghasilkan satu Feathermoon Ring lagi saat dilemparkan terhadap musuh.\nHarus membuka Talenta Pasif \"Four Sealing Divination Charms\" terlebih dahulu.",
-                                                                        "description":  "Setelah memicu konversi elemen dari Talenta Pasif \"Four Sealing Divination Charms\", Elemental Skill Swallow-Wisp Pinion Dance kali ini akan menghasilkan satu Feathermoon Ring lagi saat dilemparkan terhadap musuh.\nHarus membuka Talenta Pasif \"Four Sealing Divination Charms\" terlebih dahulu."
+                                                                        "descriptionRaw":  "Setelah memicu konversi elemen dari Talenta Ascension \"Four Sealing Divination Charms\", Elemental Skill \u003ccolor=#FFD780FF\u003eSwallow-Wisp Pinion Dance\u003c/color\u003e kali ini akan menghasilkan satu Feathermoon Ring lagi saat dilemparkan terhadap musuh.\nHarus membuka Talenta Ascension \"Four Sealing Divination Charms\" terlebih dahulu.",
+                                                                        "description":  "Setelah memicu konversi elemen dari Talenta Ascension \"Four Sealing Divination Charms\", Elemental Skill Swallow-Wisp Pinion Dance kali ini akan menghasilkan satu Feathermoon Ring lagi saat dilemparkan terhadap musuh.\nHarus membuka Talenta Ascension \"Four Sealing Divination Charms\" terlebih dahulu."
                                                                     }
                                                          },
                                       "elementText":  "Anemo",
@@ -6504,8 +6656,8 @@
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "Secret Rosemary Recipe",
-                                                                           "descriptionRaw":  "Durasi efek {LINK#P1122101}\u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e{/LINK} diperpanjang 6 detik. Saat aktif, jika pemulihan HP \u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e terpicu, ada kemungkinan untuk meningkatkan pemulihan sebesar 100% dan memulihkan 2 poin Energy Escoffier. Persentase kemungkinan ini didasarkan pada CRIT Rate Escoffier. Efek ini dapat terpicu maksimum 7 kali dalam satu kali durasi \u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e.\nHarus membuka Talenta Pasif \"Better to Salivate Than Medicate\" terlebih dahulu.",
-                                                                           "description":  "Durasi efek **Rehab Diet** diperpanjang 6 detik. Saat aktif, jika pemulihan HP Rehab Diet terpicu, ada kemungkinan untuk meningkatkan pemulihan sebesar 100% dan memulihkan 2 poin Energy Escoffier. Persentase kemungkinan ini didasarkan pada CRIT Rate Escoffier. Efek ini dapat terpicu maksimum 7 kali dalam satu kali durasi Rehab Diet.\nHarus membuka Talenta Pasif \"Better to Salivate Than Medicate\" terlebih dahulu."
+                                                                           "descriptionRaw":  "Durasi efek {LINK#P1122101}\u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e{/LINK} diperpanjang 6 detik. Saat aktif, jika pemulihan HP \u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e terpicu, ada kemungkinan untuk meningkatkan pemulihan sebesar 100% dan memulihkan 2 poin Energy Escoffier. Persentase kemungkinan ini didasarkan pada CRIT Rate Escoffier. Efek ini dapat terpicu maksimum 7 kali dalam satu kali durasi \u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e.\nHarus membuka Talenta Ascension \"Better to Salivate Than Medicate\" terlebih dahulu.",
+                                                                           "description":  "Durasi efek **Rehab Diet** diperpanjang 6 detik. Saat aktif, jika pemulihan HP Rehab Diet terpicu, ada kemungkinan untuk meningkatkan pemulihan sebesar 100% dan memulihkan 2 poin Energy Escoffier. Persentase kemungkinan ini didasarkan pada CRIT Rate Escoffier. Efek ini dapat terpicu maksimum 7 kali dalam satu kali durasi Rehab Diet.\nHarus membuka Talenta Ascension \"Better to Salivate Than Medicate\" terlebih dahulu."
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "The Bakery Magic of Caramel Browning",
@@ -6524,8 +6676,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Pre-Dinner Dance for Your Taste Buds",
-                                                                           "descriptionRaw":  "Saat 4 Karakter di dalam party berelemen \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e atau \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, maka CRIT DMG \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e seluruh anggota party akan meningkat 60% selama 15 detik setelah Escoffier melancarkan Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11122}Low-Temperature Cooking{/LINK}\u003c/color\u003e atau Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11125}Scoring Cuts{/LINK}\u003c/color\u003e.\nHarus membuka Talenta Pasif \"Inspiration-Immersed Seasoning\" terlebih dahulu.",
-                                                                           "description":  "Saat 4 Karakter di dalam party berelemen Hydro atau Cryo, maka CRIT DMG Cryo DMG seluruh anggota party akan meningkat 60% selama 15 detik setelah Escoffier melancarkan Elemental Skill **Low-Temperature Cooking** atau Elemental Burst **Scoring Cuts**.\nHarus membuka Talenta Pasif \"Inspiration-Immersed Seasoning\" terlebih dahulu."
+                                                                           "descriptionRaw":  "Saat 4 Karakter di dalam party berelemen \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e atau \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, maka CRIT DMG \u003ccolor=#99FFFFFF\u003eCryo DMG\u003c/color\u003e seluruh anggota party akan meningkat 60% selama 15 detik setelah Escoffier melancarkan Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11122}Low-Temperature Cooking{/LINK}\u003c/color\u003e atau Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11125}Scoring Cuts{/LINK}\u003c/color\u003e.\nHarus membuka Talenta Ascension \"Inspiration-Immersed Seasoning\" terlebih dahulu.",
+                                                                           "description":  "Saat 4 Karakter di dalam party berelemen Hydro atau Cryo, maka CRIT DMG Cryo DMG seluruh anggota party akan meningkat 60% selama 15 detik setelah Escoffier melancarkan Elemental Skill **Low-Temperature Cooking** atau Elemental Burst **Scoring Cuts**.\nHarus membuka Talenta Ascension \"Inspiration-Immersed Seasoning\" terlebih dahulu."
                                                                        }
                                                             },
                                          "elementText":  "Cryo",
@@ -6745,8 +6897,8 @@
                                         "constellations":  {
                                                                "c2":  {
                                                                           "name":  "\"Now, As We Face the Perils of the Long Night\"",
-                                                                          "descriptionRaw":  "Efek Talenta Pasif \"Dark-Shattering Flame\" diperkuat: Saat anggota party di sekitar memicu \u003ccolor=#FFACFFFF\u003ereaksi terkait Electro\u003c/color\u003e terhadap musuh, akan meningkatkan \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e yang diakibatkan Normal Attack dan \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e Clorinde sebesar 30% ATK Clorinde. Efek ini berlangsung 15 detik, dapat ditumpuk sampai 3 lapis, dan durasi setiap lapisnya dihitung terpisah. Saat memiliki 3 lapis, ketahanan Clorinde terhadap interupsi juga akan meningkat. Peningkatan DMG Clorinde yang bisa diperoleh dengan cara di atas adalah maksimum 2.700.\nHarus membuka Talenta Pasif \"Dark-Shattering Flame\" terlebih dahulu.",
-                                                                          "description":  "Efek Talenta Pasif \"Dark-Shattering Flame\" diperkuat: Saat anggota party di sekitar memicu reaksi terkait Electro terhadap musuh, akan meningkatkan Electro DMG yang diakibatkan Normal Attack dan Last Lightfall Clorinde sebesar 30% ATK Clorinde. Efek ini berlangsung 15 detik, dapat ditumpuk sampai 3 lapis, dan durasi setiap lapisnya dihitung terpisah. Saat memiliki 3 lapis, ketahanan Clorinde terhadap interupsi juga akan meningkat. Peningkatan DMG Clorinde yang bisa diperoleh dengan cara di atas adalah maksimum 2.700.\nHarus membuka Talenta Pasif \"Dark-Shattering Flame\" terlebih dahulu."
+                                                                          "descriptionRaw":  "Efek Talenta Ascension \"Dark-Shattering Flame\" diperkuat: Saat anggota party di sekitar memicu \u003ccolor=#FFACFFFF\u003ereaksi terkait Electro\u003c/color\u003e terhadap musuh, akan meningkatkan \u003ccolor=#FFACFFFF\u003eElectro DMG\u003c/color\u003e yang diakibatkan Normal Attack dan \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e Clorinde sebesar 30% ATK Clorinde. Efek ini berlangsung 15 detik, dapat ditumpuk sampai 3 lapis, dan durasi setiap lapisnya dihitung terpisah. Saat memiliki 3 lapis, ketahanan Clorinde terhadap interupsi juga akan meningkat. Peningkatan DMG Clorinde yang bisa diperoleh dengan cara di atas adalah maksimum 2.700.\nHarus membuka Talenta Ascension \"Dark-Shattering Flame\" terlebih dahulu.",
+                                                                          "description":  "Efek Talenta Ascension \"Dark-Shattering Flame\" diperkuat: Saat anggota party di sekitar memicu reaksi terkait Electro terhadap musuh, akan meningkatkan Electro DMG yang diakibatkan Normal Attack dan Last Lightfall Clorinde sebesar 30% ATK Clorinde. Efek ini berlangsung 15 detik, dapat ditumpuk sampai 3 lapis, dan durasi setiap lapisnya dihitung terpisah. Saat memiliki 3 lapis, ketahanan Clorinde terhadap interupsi juga akan meningkat. Peningkatan DMG Clorinde yang bisa diperoleh dengan cara di atas adalah maksimum 2.700.\nHarus membuka Talenta Ascension \"Dark-Shattering Flame\" terlebih dahulu."
                                                                       },
                                                                "c4":  {
                                                                           "name":  "\"To Enshrine Tears, Life, and Love\"",
@@ -6909,8 +7061,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "The Starry Skies Their Flowers Rain",
-                                                                       "descriptionRaw":  "Setelah Karakter yang berada dalam status \"Golden Chalice\u0027s Bounty\" mengakibatkan \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e kepada musuh, \u003ccolor=#80C0FFFF\u003eHydro RES\u003c/color\u003e musuh tersebut akan berkurang 35% selama 10 detik. Setelah mengakibatkan DMG reaksi Bloom atau Lunar-Bloom terhadap musuh,\u003ccolor=#99FF88FF\u003eDendro RES\u003c/color\u003e musuh tersebut akan berkurang 35% selama 10 detik.\nHarus membuka Talenta Pasif \"Court of Dancing Petals\" terlebih dahulu.",
-                                                                       "description":  "Setelah Karakter yang berada dalam status \"Golden Chalice\u0027s Bounty\" mengakibatkan Hydro DMG kepada musuh, Hydro RES musuh tersebut akan berkurang 35% selama 10 detik. Setelah mengakibatkan DMG reaksi Bloom atau Lunar-Bloom terhadap musuh,Dendro RES musuh tersebut akan berkurang 35% selama 10 detik.\nHarus membuka Talenta Pasif \"Court of Dancing Petals\" terlebih dahulu."
+                                                                       "descriptionRaw":  "Setelah Karakter yang berada dalam status \"Golden Chalice\u0027s Bounty\" mengakibatkan \u003ccolor=#80C0FFFF\u003eHydro DMG\u003c/color\u003e kepada musuh, \u003ccolor=#80C0FFFF\u003eHydro RES\u003c/color\u003e musuh tersebut akan berkurang 35% selama 10 detik. Setelah mengakibatkan DMG reaksi Bloom atau Lunar-Bloom terhadap musuh,\u003ccolor=#99FF88FF\u003eDendro RES\u003c/color\u003e musuh tersebut akan berkurang 35% selama 10 detik.\nHarus membuka Talenta Ascension \"Court of Dancing Petals\" terlebih dahulu.",
+                                                                       "description":  "Setelah Karakter yang berada dalam status \"Golden Chalice\u0027s Bounty\" mengakibatkan Hydro DMG kepada musuh, Hydro RES musuh tersebut akan berkurang 35% selama 10 detik. Setelah mengakibatkan DMG reaksi Bloom atau Lunar-Bloom terhadap musuh,Dendro RES musuh tersebut akan berkurang 35% selama 10 detik.\nHarus membuka Talenta Ascension \"Court of Dancing Petals\" terlebih dahulu."
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Fricative Pulse",
@@ -6950,8 +7102,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Muzzle, the Searing Smoke",
-                                                                        "descriptionRaw":  "Saat Chasca memasuki medan pertempuran, mendapatkan satu lapis \"Spirit of the Radiant Shadow\" dari Talenta Pasif \"Bullet Trick\".\nSelain itu, saat \u003ccolor=#FFD780FF\u003eShining Shadowhunt Shell\u003c/color\u003e dari serangan \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e milik Elemental Skill \u003ccolor=#FFD780FF\u003eSpirit Reins, Shadow Hunt\u003c/color\u003e mengenai musuh, akan mengakibatkan Elemental DMG Area sebesar 400% ATK Chasca yang elemennya sesuai dengan jenis elemen dari \u003ccolor=#FFD780FF\u003eShining Shadowhunt Shell\u003c/color\u003e. DMG ini dianggap sebagai DMG Charged Attack. Efek ini dapat terpicu sekali setiap kali Chasca melancarkan \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e.",
-                                                                        "description":  "Saat Chasca memasuki medan pertempuran, mendapatkan satu lapis \"Spirit of the Radiant Shadow\" dari Talenta Pasif \"Bullet Trick\".\nSelain itu, saat Shining Shadowhunt Shell dari serangan Multitarget Fire milik Elemental Skill Spirit Reins, Shadow Hunt mengenai musuh, akan mengakibatkan Elemental DMG Area sebesar 400% ATK Chasca yang elemennya sesuai dengan jenis elemen dari Shining Shadowhunt Shell. DMG ini dianggap sebagai DMG Charged Attack. Efek ini dapat terpicu sekali setiap kali Chasca melancarkan Multitarget Fire."
+                                                                        "descriptionRaw":  "Saat Chasca memasuki medan pertempuran, mendapatkan satu lapis \"Spirit of the Radiant Shadow\" dari Talenta Ascension \"Bullet Trick\".\nSelain itu, saat \u003ccolor=#FFD780FF\u003eShining Shadowhunt Shell\u003c/color\u003e dari serangan \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e milik Elemental Skill \u003ccolor=#FFD780FF\u003eSpirit Reins, Shadow Hunt\u003c/color\u003e mengenai musuh, akan mengakibatkan Elemental DMG Area sebesar 400% ATK Chasca yang elemennya sesuai dengan jenis elemen dari \u003ccolor=#FFD780FF\u003eShining Shadowhunt Shell\u003c/color\u003e. DMG ini dianggap sebagai DMG Charged Attack. Efek ini dapat terpicu sekali setiap kali Chasca melancarkan \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e.",
+                                                                        "description":  "Saat Chasca memasuki medan pertempuran, mendapatkan satu lapis \"Spirit of the Radiant Shadow\" dari Talenta Ascension \"Bullet Trick\".\nSelain itu, saat Shining Shadowhunt Shell dari serangan Multitarget Fire milik Elemental Skill Spirit Reins, Shadow Hunt mengenai musuh, akan mengakibatkan Elemental DMG Area sebesar 400% ATK Chasca yang elemennya sesuai dengan jenis elemen dari Shining Shadowhunt Shell. DMG ini dianggap sebagai DMG Charged Attack. Efek ini dapat terpicu sekali setiap kali Chasca melancarkan Multitarget Fire."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Sparks, the Sudden Shot",
@@ -6970,13 +7122,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Showdown, the Glory of Battle",
-                                                                        "descriptionRaw":  "Durasi charge \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e menjadi lebih singkat, dan setelah efek \"Spiritbinding Conversion\" dari Talenta Pasif \"Bullet Trick\" terpicu, Chasca akan memasuki status \"Fatal Rounds\": Dalam 3 detik berikutnya, saat Chasca melancarkan \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e dari Elemental Skill \u003ccolor=#FFD780FF\u003eSpirit Reins, Shadow Hunt\u003c/color\u003e kali berikutnya, tembakannya akan langsung selesai melakukan charge, dan CRIT DMG \u003ccolor=#FFD780FF\u003eShadowhunt Shell\u003c/color\u003e dan \u003ccolor=#FFD780FF\u003eShining Shadowhunt Shell\u003c/color\u003e dari \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e tersebut meningkat sebesar 120%. Chasca bisa memasuki status \"Fatal Rounds\" sekali setiap 3 detik.\n\nEfek di atas harus membuka Talenta Pasif \"Bullet Trick\" terlebih dahulu.",
-                                                                        "description":  "Durasi charge Multitarget Fire menjadi lebih singkat, dan setelah efek \"Spiritbinding Conversion\" dari Talenta Pasif \"Bullet Trick\" terpicu, Chasca akan memasuki status \"Fatal Rounds\": Dalam 3 detik berikutnya, saat Chasca melancarkan Multitarget Fire dari Elemental Skill Spirit Reins, Shadow Hunt kali berikutnya, tembakannya akan langsung selesai melakukan charge, dan CRIT DMG Shadowhunt Shell dan Shining Shadowhunt Shell dari Multitarget Fire tersebut meningkat sebesar 120%. Chasca bisa memasuki status \"Fatal Rounds\" sekali setiap 3 detik.\n\nEfek di atas harus membuka Talenta Pasif \"Bullet Trick\" terlebih dahulu."
+                                                                        "descriptionRaw":  "Durasi charge \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e menjadi lebih singkat, dan setelah efek \"Spiritbinding Conversion\" dari Talenta Ascension \"Bullet Trick\" terpicu, Chasca akan memasuki status \"Fatal Rounds\": Dalam 3 detik berikutnya, saat Chasca melancarkan \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e dari Elemental Skill \u003ccolor=#FFD780FF\u003eSpirit Reins, Shadow Hunt\u003c/color\u003e kali berikutnya, tembakannya akan langsung selesai melakukan charge, dan CRIT DMG \u003ccolor=#FFD780FF\u003eShadowhunt Shell\u003c/color\u003e dan \u003ccolor=#FFD780FF\u003eShining Shadowhunt Shell\u003c/color\u003e dari \u003ccolor=#FFD780FF\u003eMultitarget Fire\u003c/color\u003e tersebut meningkat sebesar 120%. Chasca bisa memasuki status \"Fatal Rounds\" sekali setiap 3 detik.\n\nEfek di atas harus membuka Talenta Ascension \"Bullet Trick\" terlebih dahulu.",
+                                                                        "description":  "Durasi charge Multitarget Fire menjadi lebih singkat, dan setelah efek \"Spiritbinding Conversion\" dari Talenta Ascension \"Bullet Trick\" terpicu, Chasca akan memasuki status \"Fatal Rounds\": Dalam 3 detik berikutnya, saat Chasca melancarkan Multitarget Fire dari Elemental Skill Spirit Reins, Shadow Hunt kali berikutnya, tembakannya akan langsung selesai melakukan charge, dan CRIT DMG Shadowhunt Shell dan Shining Shadowhunt Shell dari Multitarget Fire tersebut meningkat sebesar 120%. Chasca bisa memasuki status \"Fatal Rounds\" sekali setiap 3 detik.\n\nEfek di atas harus membuka Talenta Ascension \"Bullet Trick\" terlebih dahulu."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Cylinder, the Restless Roulette",
-                                                                        "descriptionRaw":  "Memicu efek \"Spiritbinding Conversion\" dari Talenta Pasif \"Bullet Trick\" akan mengakibatkan \u003ccolor=#FFD780FF\u003eShadowhunt Shell\u003c/color\u003e kedua yang dimasukkan ke silinder peluru berubah menjadi \u003ccolor=#FFD780FF\u003eShining Shadowhunt Shell\u003c/color\u003e.\nKemungkinan untuk memicu \"Spiritbinding Conversion\" akan meningkat: jika terdapat Karakter dengan jenis elemen yang sesuai dengan syarat konversi elemen di dalam party, kemungkinan untuk memicu \"Spiritbinding Conversion\" meningkat 33,3%, hingga maksimum 100%.\n\nHarus membuka Talenta Pasif \"Bullet Trick\" terlebih dahulu.\nSelain itu, saat tidak berada dalam kondisi bertempur, konsumsi Phlogiston dan poin Nightsoul Chasca dalam status Nightsoul\u0027s Blessing akan berkurang 30%.",
-                                                                        "description":  "Memicu efek \"Spiritbinding Conversion\" dari Talenta Pasif \"Bullet Trick\" akan mengakibatkan Shadowhunt Shell kedua yang dimasukkan ke silinder peluru berubah menjadi Shining Shadowhunt Shell.\nKemungkinan untuk memicu \"Spiritbinding Conversion\" akan meningkat: jika terdapat Karakter dengan jenis elemen yang sesuai dengan syarat konversi elemen di dalam party, kemungkinan untuk memicu \"Spiritbinding Conversion\" meningkat 33,3%, hingga maksimum 100%.\n\nHarus membuka Talenta Pasif \"Bullet Trick\" terlebih dahulu.\nSelain itu, saat tidak berada dalam kondisi bertempur, konsumsi Phlogiston dan poin Nightsoul Chasca dalam status Nightsoul\u0027s Blessing akan berkurang 30%."
+                                                                        "descriptionRaw":  "Memicu efek \"Spiritbinding Conversion\" dari Talenta Ascension \"Bullet Trick\" akan mengakibatkan \u003ccolor=#FFD780FF\u003eShadowhunt Shell\u003c/color\u003e kedua yang dimasukkan ke silinder peluru berubah menjadi \u003ccolor=#FFD780FF\u003eShining Shadowhunt Shell\u003c/color\u003e.\nKemungkinan untuk memicu \"Spiritbinding Conversion\" akan meningkat: jika terdapat Karakter dengan jenis elemen yang sesuai dengan syarat konversi elemen di dalam party, kemungkinan untuk memicu \"Spiritbinding Conversion\" meningkat 33,3%, hingga maksimum 100%.\n\nHarus membuka Talenta Ascension \"Bullet Trick\" terlebih dahulu.\nSelain itu, saat tidak berada dalam kondisi bertempur, konsumsi Phlogiston dan poin Nightsoul Chasca dalam status Nightsoul\u0027s Blessing akan berkurang 30%.",
+                                                                        "description":  "Memicu efek \"Spiritbinding Conversion\" dari Talenta Ascension \"Bullet Trick\" akan mengakibatkan Shadowhunt Shell kedua yang dimasukkan ke silinder peluru berubah menjadi Shining Shadowhunt Shell.\nKemungkinan untuk memicu \"Spiritbinding Conversion\" akan meningkat: jika terdapat Karakter dengan jenis elemen yang sesuai dengan syarat konversi elemen di dalam party, kemungkinan untuk memicu \"Spiritbinding Conversion\" meningkat 33,3%, hingga maksimum 100%.\n\nHarus membuka Talenta Ascension \"Bullet Trick\" terlebih dahulu.\nSelain itu, saat tidak berada dalam kondisi bertempur, konsumsi Phlogiston dan poin Nightsoul Chasca dalam status Nightsoul\u0027s Blessing akan berkurang 30%."
                                                                     }
                                                          },
                                       "elementText":  "Anemo",
@@ -10222,6 +10374,53 @@
                                                     },
                                              "effectName":  "Composed"
                                          },
+                    "reliquaryoftruth":  {
+                                             "r3":  {
+                                                        "description":  "CRIT Rate +12%.\nSaat melancarkan Elemental Skill, Karakter yang mengenakan mendapatkan efek Secret of Lies: Elemental Mastery Karakter yang mengenakan +120 poin selama 12 detik. Saat mengakibatkan DMG Lunar-Bloom terhadap musuh, mendapatkan efek Moon of Truth: CRIT DMG Karakter yang mengenakan +36% selama 4 detik.\nSaat efek Secret of Lies dan efek Moon of Truth aktif secara bersamaan, kedua efek tersebut meningkat 50% lagi.",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "120",
+                                                                       "36%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "CRIT Rate +16%.\nSaat melancarkan Elemental Skill, Karakter yang mengenakan mendapatkan efek Secret of Lies: Elemental Mastery Karakter yang mengenakan +160 poin selama 12 detik. Saat mengakibatkan DMG Lunar-Bloom terhadap musuh, mendapatkan efek Moon of Truth: CRIT DMG Karakter yang mengenakan +48% selama 4 detik.\nSaat efek Secret of Lies dan efek Moon of Truth aktif secara bersamaan, kedua efek tersebut meningkat 50% lagi.",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "160",
+                                                                       "48%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "CRIT Rate +10%.\nSaat melancarkan Elemental Skill, Karakter yang mengenakan mendapatkan efek Secret of Lies: Elemental Mastery Karakter yang mengenakan +100 poin selama 12 detik. Saat mengakibatkan DMG Lunar-Bloom terhadap musuh, mendapatkan efek Moon of Truth: CRIT DMG Karakter yang mengenakan +30% selama 4 detik.\nSaat efek Secret of Lies dan efek Moon of Truth aktif secara bersamaan, kedua efek tersebut meningkat 50% lagi.",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "100",
+                                                                       "30%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "CRIT Rate +14%.\nSaat melancarkan Elemental Skill, Karakter yang mengenakan mendapatkan efek Secret of Lies: Elemental Mastery Karakter yang mengenakan +140 poin selama 12 detik. Saat mengakibatkan DMG Lunar-Bloom terhadap musuh, mendapatkan efek Moon of Truth: CRIT DMG Karakter yang mengenakan +42% selama 4 detik.\nSaat efek Secret of Lies dan efek Moon of Truth aktif secara bersamaan, kedua efek tersebut meningkat 50% lagi.",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "140",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "CRIT DMG",
+                                             "weaponText":  "Catalyst",
+                                             "name":  "Reliquary of Truth",
+                                             "effectTemplateRaw":  "CRIT Rate +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.\nSaat melancarkan Elemental Skill, Karakter yang mengenakan mendapatkan efek Secret of Lies: Elemental Mastery Karakter yang mengenakan +\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e poin selama 12 detik. Saat mengakibatkan DMG Lunar-Bloom terhadap musuh, mendapatkan efek Moon of Truth: CRIT DMG Karakter yang mengenakan +\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e selama 4 detik.\nSaat efek Secret of Lies dan efek Moon of Truth aktif secara bersamaan, kedua efek tersebut meningkat 50% lagi.",
+                                             "r1":  {
+                                                        "description":  "CRIT Rate +8%.\nSaat melancarkan Elemental Skill, Karakter yang mengenakan mendapatkan efek Secret of Lies: Elemental Mastery Karakter yang mengenakan +80 poin selama 12 detik. Saat mengakibatkan DMG Lunar-Bloom terhadap musuh, mendapatkan efek Moon of Truth: CRIT DMG Karakter yang mengenakan +24% selama 4 detik.\nSaat efek Secret of Lies dan efek Moon of Truth aktif secara bersamaan, kedua efek tersebut meningkat 50% lagi.",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "80",
+                                                                       "24%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Essence of Falsity"
+                                         },
                     "keyofkhajnisut":  {
                                            "r3":  {
                                                       "description":  "HP meningkat 30%. Saat Elemental Skill mengenai musuh, akan menghasilkan efek Grand Hymn yang berlangsung selama 20 detik: Mendapatkan peningkatan Elemental Mastery berdasarkan 0,18% Max HP Karakter yang mengenakan, efek ini bisa terpicu setiap 0,3 detik dan dapat ditumpuk sampai 3 lapis. Saat efek ini ditumpuk sampai 3 lapis atau durasi 3 lapis diperbarui, akan meningkatkan Elemental Mastery seluruh Karakter party di sekitar sebesar 0,3% Max HP Karakter yang mengenakan, berlangsung 20 detik.",
@@ -11715,6 +11914,48 @@
                                                    },
                                             "effectName":  "Smoke-and-Mirror Mystery"
                                         },
+                    "dawningfrost":  {
+                                         "r3":  {
+                                                    "description":  "Setelah Charged Attack mengenai musuh, Elemental Mastery +108 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +72 poin selama 10 detik.",
+                                                    "values":  [
+                                                                   "108",
+                                                                   "72"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Setelah Charged Attack mengenai musuh, Elemental Mastery +144 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +96 poin selama 10 detik.",
+                                                    "values":  [
+                                                                   "144",
+                                                                   "96"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Setelah Charged Attack mengenai musuh, Elemental Mastery +90 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +60 poin selama 10 detik.",
+                                                    "values":  [
+                                                                   "90",
+                                                                   "60"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Setelah Charged Attack mengenai musuh, Elemental Mastery +126 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +84 poin selama 10 detik.",
+                                                    "values":  [
+                                                                   "126",
+                                                                   "84"
+                                                               ]
+                                                },
+                                         "substatText":  "CRIT DMG",
+                                         "weaponText":  "Catalyst",
+                                         "name":  "Dawning Frost",
+                                         "effectTemplateRaw":  "Setelah Charged Attack mengenai musuh, Elemental Mastery +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e poin selama 10 detik.",
+                                         "r1":  {
+                                                    "description":  "Setelah Charged Attack mengenai musuh, Elemental Mastery +72 poin selama 10 detik. Setelah Elemental Skill mengenai musuh, Elemental Mastery +48 poin selama 10 detik.",
+                                                    "values":  [
+                                                                   "72",
+                                                                   "48"
+                                                               ]
+                                                },
+                                         "effectName":  "Nocturnal Dreams"
+                                     },
                     "cinnabarspindle":  {
                                             "r3":  {
                                                        "description":  "Meningkatkan DMG Elemental Skill sebesar 60% DEF. Efek ini dapat terpicu setiap 1,5 detik dan akan langsung hilang dalam waktu 0,1 detik setelah Elemental Skill mengakibatkan DMG.",
@@ -12653,6 +12894,48 @@
                                               },
                                        "effectName":  "Blunt Conclusion"
                                    },
+                    "sacrificersstaff":  {
+                                             "r3":  {
+                                                        "description":  "Setelah Elemental Skill mengenai musuh, ATK Karakter +12%, Energy Recharge +9% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "9%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Setelah Elemental Skill mengenai musuh, ATK Karakter +16%, Energy Recharge +12% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "12%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Setelah Elemental Skill mengenai musuh, ATK Karakter +10%, Energy Recharge +7,5% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "7,5%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Setelah Elemental Skill mengenai musuh, ATK Karakter +14%, Energy Recharge +10,5% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "10,5%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "CRIT Rate",
+                                             "weaponText":  "Polearm",
+                                             "name":  "Sacrificer\u0027s Staff",
+                                             "effectTemplateRaw":  "Setelah Elemental Skill mengenai musuh, ATK Karakter +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, Energy Recharge +\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                             "r1":  {
+                                                        "description":  "Setelah Elemental Skill mengenai musuh, ATK Karakter +8%, Energy Recharge +6% selama 6 detik. Efek ini dapat ditumpuk 3 lapis, dan dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "6%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Untainted Desire"
+                                         },
                     "flowingpurity":  {
                                           "r3":  {
                                                      "description":  "Saat melancarkan Elemental Skill, akan meningkatkan Elemental DMG Bonus seluruh elemen sebesar 12% selama 15 detik dan memberikan Bond of Life sebesar 24% dari Max HP. Efek ini dapat terpicu sekali setiap 10 detik. Saat Bond of Life hilang, akan meningkatkan 3% Elemental DMG Bonus seluruh elemen untuk setiap 1.000 poin HP yang dibersihkan. Peningkatan Elemental DMG Bonus seluruh elemen yang diperoleh dengan cara ini adalah maksimum 18% dan berlangsung selama 15 detik.",
@@ -17075,6 +17358,10 @@
                                                },
                     "bubblerseahorse":  {
                                             "name":  "Bubbler Seahorse",
+                                            "specialname":  null
+                                        },
+                    "frostnightherra":  {
+                                            "name":  "Frostnight Herra",
                                             "specialname":  null
                                         },
                     "bitingcoldwayobmanifestation":  {

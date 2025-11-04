@@ -27,14 +27,6 @@
                                                                                "일요일"
                                                                            ]
                                                         },
-                    "domainofforgerysubmergedvalleyi":  {
-                                                            "entranceName":  "세실리아의 모밭",
-                                                            "daysofweek":  [
-                                                                               "화요일",
-                                                                               "금요일",
-                                                                               "일요일"
-                                                                           ]
-                                                        },
                     "domainofmasteryfullmooni":  {
                                                      "entranceName":  "무지의 탑",
                                                      "daysofweek":  [
@@ -99,6 +91,14 @@
                                                                       "일요일"
                                                                   ]
                                                },
+                    "domainofmasteryfallencityi":  {
+                                                       "entranceName":  "어둠에 잠긴 도시",
+                                                       "daysofweek":  [
+                                                                          "월요일",
+                                                                          "목요일",
+                                                                          "일요일"
+                                                                      ]
+                                                   },
                     "domainofforgeryartisanshipi":  {
                                                         "entranceName":  "심해의 메아리",
                                                         "daysofweek":  [
@@ -163,14 +163,14 @@
                                                                                  "일요일"
                                                                              ]
                                                           },
-                    "domainofforgerysandburiali":  {
-                                                       "entranceName":  "유사의 정원",
-                                                       "daysofweek":  [
-                                                                          "수요일",
-                                                                          "토요일",
-                                                                          "일요일"
-                                                                      ]
-                                                   },
+                    "domainofforgerysubmergedvalleyi":  {
+                                                            "entranceName":  "세실리아의 모밭",
+                                                            "daysofweek":  [
+                                                                               "화요일",
+                                                                               "금요일",
+                                                                               "일요일"
+                                                                           ]
+                                                        },
                     "domainofmasterychimingrecitationi":  {
                                                               "entranceName":  "창백한 옛 영광",
                                                               "daysofweek":  [
@@ -235,6 +235,30 @@
                                                                             "일요일"
                                                                         ]
                                                      },
+                    "domainofforgerysandburiali":  {
+                                                       "entranceName":  "유사의 정원",
+                                                       "daysofweek":  [
+                                                                          "수요일",
+                                                                          "토요일",
+                                                                          "일요일"
+                                                                      ]
+                                                   },
+                    "domainofforgeryprayerssungi":  {
+                                                        "entranceName":  "잃어버린 달의 정원",
+                                                        "daysofweek":  [
+                                                                           "화요일",
+                                                                           "금요일",
+                                                                           "일요일"
+                                                                       ]
+                                                    },
+                    "domainofmasteryoverturnedroosti":  {
+                                                            "entranceName":  "어둠에 잠긴 도시",
+                                                            "daysofweek":  [
+                                                                               "수요일",
+                                                                               "토요일",
+                                                                               "일요일"
+                                                                           ]
+                                                        },
                     "domainofforgeryscryingshadowsi":  {
                                                            "entranceName":  "고대 전망대",
                                                            "daysofweek":  [
@@ -275,6 +299,14 @@
                                                                                  "일요일"
                                                                              ]
                                                           },
+                    "domainofmasteryshadowedlegacyi":  {
+                                                           "entranceName":  "어둠에 잠긴 도시",
+                                                           "daysofweek":  [
+                                                                              "화요일",
+                                                                              "금요일",
+                                                                              "일요일"
+                                                                          ]
+                                                       },
                     "domainofmasteryadmonishingengravingi":  {
                                                                  "entranceName":  "창백한 옛 영광",
                                                                  "daysofweek":  [
@@ -283,6 +315,14 @@
                                                                                     "일요일"
                                                                                 ]
                                                              },
+                    "domainofforgeryradiantsplendori":  {
+                                                            "entranceName":  "잃어버린 달의 정원",
+                                                            "daysofweek":  [
+                                                                               "월요일",
+                                                                               "목요일",
+                                                                               "일요일"
+                                                                           ]
+                                                        },
                     "domainofforgeryattentiveobservationi":  {
                                                                  "entranceName":  "고대 전망대",
                                                                  "daysofweek":  [
@@ -293,18 +333,21 @@
                                                              }
                 },
     "materials":  {
+                      "sunsettia":  {
+                                        "name":  "일몰 열매"
+                                    },
                       "sandbearerwood":  {
                                              "name":  "각사나무"
                                          },
-                      "cultivationareaexpansionii":  {
-                                                         "name":  "재배 구역 확장·II"
-                                                     },
+                      "mora":  {
+                                   "name":  "모라"
+                               },
                       "varunadalazuritesliver":  {
                                                      "name":  "순수한 청금석 가루"
                                                  },
-                      "birchwood":  {
-                                        "name":  "자작나무"
-                                    },
+                      "guidetofreedom":  {
+                                             "name":  "「자유」의 인도"
+                                         },
                       "improvedalchemycauldronii":  {
                                                         "name":  "연금솥 개선·II"
                                                     },
@@ -341,9 +384,9 @@
                       "ainostoolboxempty":  {
                                                 "name":  "아이노의 공구함(비어 있음)"
                                             },
-                      "sheathofthesecretsource":  {
-                                                      "name":  "비밀근원 기판"
-                                                  },
+                      "electroculus":  {
+                                           "name":  "잃어버린 번개 신의 눈동자"
+                                       },
                       "flashingmaintenancemekbait":  {
                                                          "name":  "유지 보수 장치용 섬광 미끼"
                                                      },
@@ -359,6 +402,9 @@
                       "brownshirakodai":  {
                                               "name":  "갈색 나비고기"
                                           },
+                      "geoculus":  {
+                                       "name":  "잃어버린 바위 신의 눈동자"
+                                   },
                       "philosophiesofjustice":  {
                                                     "name":  "「정의」의 철학"
                                                 },
@@ -440,9 +486,9 @@
                       "shardofashatteredwill":  {
                                                     "name":  "의지가 희미한 파편"
                                                 },
-                      "brilliantdiamondchunk":  {
-                                                    "name":  "휘황찬란한 다이아몬드 덩어리"
-                                                },
+                      "dragonheirsfalsefin":  {
+                                                  "name":  "용 자손의 가짜 지느러미"
+                                              },
                       "yellowobsidianring":  {
                                                  "name":  "명황색 흑요석 고리"
                                              },
@@ -455,6 +501,9 @@
                       "springofpuresacreddewdrop":  {
                                                         "name":  "성스러운 이슬의 샘물"
                                                     },
+                      "radiantantler":  {
+                                            "name":  "빛나는 뿔"
+                                        },
                       "loachpearl":  {
                                          "name":  "추추 보옥"
                                      },
@@ -563,6 +612,9 @@
                       "brilliantdiamondsliver":  {
                                                      "name":  "휘황찬란한 다이아몬드 파편"
                                                  },
+                      "lumenspar":  {
+                                        "name":  "유명 수정석"
+                                    },
                       "zaytunpeach":  {
                                           "name":  "뚠뚠 복숭아"
                                       },
@@ -623,6 +675,9 @@
                       "aureateradianceofthefarnorthscions":  {
                                                                  "name":  "극북 유민의 광휘"
                                                              },
+                      "pyroculus":  {
+                                        "name":  "잃어버린 불의 신의 눈동자"
+                                    },
                       "dakasbell":  {
                                         "name":  "공행의 방울"
                                     },
@@ -869,6 +924,9 @@
                       "witheringpurpurbloom":  {
                                                    "name":  "잿보라꽃"
                                                },
+                      "lunoculus":  {
+                                        "name":  "잃어버린 달의 신의 눈동자"
+                                    },
                       "cakefortraveler":  {
                                               "name":  "여행자에게 주는 케이크"
                                           },
@@ -899,6 +957,9 @@
                       "shuttleofodara":  {
                                              "name":  "영혼을 엮는 베틀북"
                                          },
+                      "lazuriteaxemarlin":  {
+                                                "name":  "청금 미늘창 물고기"
+                                            },
                       "northlandercatalystbillet":  {
                                                         "name":  "북대륙의 법구 원형"
                                                     },
@@ -1013,9 +1074,6 @@
                       "shivadajadesliver":  {
                                                 "name":  "서늘한 빙옥 가루"
                                             },
-                      "guidetofreedom":  {
-                                             "name":  "「자유」의 인도"
-                                         },
                       "heartofthesecretsource":  {
                                                      "name":  "비밀근원 코어"
                                                  },
@@ -1163,6 +1221,9 @@
                       "tourbillondevice":  {
                                                "name":  "「투르비용 장치」"
                                            },
+                      "chronicleexp":  {
+                                           "name":  "유람 경험치"
+                                       },
                       "maintenancemekinitialconfiguration":  {
                                                                  "name":  "유지 보수 장치·기본 타입"
                                                              },
@@ -1214,6 +1275,9 @@
                       "cultivationareaexpansioniv":  {
                                                          "name":  "재배 구역 확장·IV"
                                                      },
+                      "crimsonagatedisplay":  {
+                                                  "name":  "진홍의 옥수(이펙트)"
+                                              },
                       "shivadajadechunk":  {
                                                "name":  "서늘한 빙옥 덩이"
                                            },
@@ -1319,6 +1383,9 @@
                       "teachingsofequity":  {
                                                 "name":  "「공평」의 가르침"
                                             },
+                      "dendroculus":  {
+                                          "name":  "잃어버린 풀의 신의 눈동자"
+                                      },
                       "guidetoconflict":  {
                                               "name":  "「분쟁」의 인도"
                                           },
@@ -1367,6 +1434,9 @@
                       "unfadingsilkygrace":  {
                                                  "name":  "「시들지 않는 비단 꽃」"
                                              },
+                      "spiritcarp":  {
+                                         "name":  "푸른 영력 잉어"
+                                     },
                       "ironchunk":  {
                                         "name":  "철광"
                                     },
@@ -1388,9 +1458,12 @@
                       "scorchedstarshroom":  {
                                                  "name":  "건조된 별 버섯"
                                              },
-                      "sunsettia":  {
-                                        "name":  "일몰 열매"
-                                    },
+                      "keysigil":  {
+                                       "name":  "건문"
+                                   },
+                      "anemoculus":  {
+                                         "name":  "잃어버린 바람 신의 눈동자"
+                                     },
                       "prithivatopazfragment":  {
                                                     "name":  "단단한 황옥 조각"
                                                 },
@@ -1400,6 +1473,9 @@
                       "narukamiswisdom":  {
                                               "name":  "나루카미 어령의 은혜"
                                           },
+                      "lumenstoneore":  {
+                                            "name":  "유명석 원석"
+                                        },
                       "dustofenlightenment":  {
                                                   "name":  "깨달음의 가루"
                                               },
@@ -1424,9 +1500,9 @@
                       "empowereddragontooth":  {
                                                    "name":  "힘을 흡수한 용의 이빨"
                                                },
-                      "keysigil":  {
-                                       "name":  "건문"
-                                   },
+                      "chroniclesoftherealms":  {
+                                                    "name":  "세계 유람"
+                                                },
                       "goldenbranchofadistantsea":  {
                                                         "name":  "먼바다의 금빛 가지"
                                                     },
@@ -1616,6 +1692,9 @@
                       "teachingsoftransience":  {
                                                     "name":  "「부세」의 가르침"
                                                 },
+                      "dandelionbookmark":  {
+                                                "name":  "민들레 책갈피"
+                                            },
                       "riftcore":  {
                                        "name":  "균열의 코어"
                                    },
@@ -1628,9 +1707,9 @@
                       "winegobletofthepristinesea":  {
                                                          "name":  "순결한 바다의 술잔"
                                                      },
-                      "sugar":  {
-                                    "name":  "설탕"
-                                },
+                      "moonchasecharm":  {
+                                             "name":  "축월 부적"
+                                         },
                       "afterglowoflongnightflint":  {
                                                         "name":  "긴 밤을 밝히는 불씨"
                                                     },
@@ -1679,6 +1758,9 @@
                       "vayudaturquoisesliver":  {
                                                     "name":  "자유로운 터키석 가루"
                                                 },
+                      "recordedintel":  {
+                                            "name":  "기록된 정보"
+                                        },
                       "concealedclaw":  {
                                             "name":  "맹수 발톱"
                                         },
@@ -1748,6 +1830,9 @@
                       "pedunculateoakwood":  {
                                                  "name":  "로부르참나무 원목"
                                              },
+                      "sharparrowhead":  {
+                                             "name":  "날카로운 화살촉"
+                                         },
                       "ashenaratikuwood":  {
                                                "name":  "아라티쿠나무 원목"
                                            },
@@ -1781,9 +1866,9 @@
                       "greenobsidianfragment":  {
                                                     "name":  "청록색 흑요석 조각"
                                                 },
-                      "sharparrowhead":  {
-                                             "name":  "날카로운 화살촉"
-                                         },
+                      "crimsonagate":  {
+                                           "name":  "진홍의 옥수"
+                                       },
                       "nightwindsmysticrevelation":  {
                                                          "name":  "신이 깃든 연기의 계시"
                                                      },
@@ -1832,6 +1917,9 @@
                       "improvedalchemycauldroniv":  {
                                                         "name":  "연금솥 개선·IV"
                                                     },
+                      "sheathofthesecretsource":  {
+                                                      "name":  "비밀근원 기판"
+                                                  },
                       "glowinggem":  {
                                          "name":  "노을빛 보주"
                                      },
@@ -2021,9 +2109,9 @@
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "고탑 왕의 깨진 꿈"
                                                            },
-                      "dandelionbookmark":  {
-                                                "name":  "민들레 책갈피"
-                                            },
+                      "brilliantdiamondchunk":  {
+                                                    "name":  "휘황찬란한 다이아몬드 덩어리"
+                                                },
                       "enhancementore":  {
                                              "name":  "정제용 하급 광물"
                                          },
@@ -2063,9 +2151,9 @@
                       "darkstatuette":  {
                                             "name":  "흑야의 조각상"
                                         },
-                      "dragonheirsfalsefin":  {
-                                                  "name":  "용 자손의 가짜 지느러미"
-                                              },
+                      "sugar":  {
+                                    "name":  "설탕"
+                                },
                       "bigprettycrystal":  {
                                                "name":  "아름다운 큰 결정"
                                            },
@@ -2087,6 +2175,9 @@
                       "scoopoftaintedwater":  {
                                                   "name":  "탁한 물 한 움큼"
                                               },
+                      "birchwood":  {
+                                        "name":  "자작나무"
+                                    },
                       "coldcrackedshellshard":  {
                                                     "name":  "차갑게 식은 껍질"
                                                 },
@@ -2180,9 +2271,9 @@
                       "plumeofthechangingwinds":  {
                                                       "name":  "바람을 나르는 깃털"
                                                   },
-                      "lazuriteaxemarlin":  {
-                                                "name":  "청금 미늘창 물고기"
-                                            },
+                      "hydroculus":  {
+                                         "name":  "잃어버린 물의 신의 눈동자"
+                                     },
                       "blazingsacrificialheartssplendor":  {
                                                                "name":  "뜨거운 심장 공양의 영광"
                                                            },
@@ -2405,9 +2496,9 @@
                       "waterthatfailedtotranscend":  {
                                                          "name":  "초월하지 못한 물"
                                                      },
-                      "mora":  {
-                                   "name":  "모라"
-                               },
+                      "cultivationareaexpansionii":  {
+                                                         "name":  "재배 구역 확장·II"
+                                                     },
                       "precisiondriveshaft":  {
                                                   "name":  "정밀 구동축"
                                               },
@@ -2710,8 +2801,8 @@
                                                                     },
                                                              "c4":  {
                                                                         "name":  "삼례 재단",
-                                                                        "descriptionRaw":  "고유 특성 「맞춤 제작」의 후속 효과 발동 후, 8초 동안 현재 파티 내 자신의 필드 위에 있는 캐릭터의 일반 공격, 강공격 또는 낙하 공격이 주변에 있는 적에게 명중 시, 적 주변에 간단 자동제어 인형 「키누」를 1개 소환한다. 상술한 방식으로 1초마다 최대 1개의 키누를 소환할 수 있으며, 고유 특성 「맞춤 제작」의 임기응변 또는 재단이 한 번 지속되는 동안, 상술한 방식으로 최대 3개의 키누를 소환할 수 있다. 상술한 효과는 15초마다 최대 1회 발동된다.\n고유 특성 「맞춤 제작」을 해금해야 한다",
-                                                                        "description":  "고유 특성 「맞춤 제작」의 후속 효과 발동 후, 8초 동안 현재 파티 내 자신의 필드 위에 있는 캐릭터의 일반 공격, 강공격 또는 낙하 공격이 주변에 있는 적에게 명중 시, 적 주변에 간단 자동제어 인형 「키누」를 1개 소환한다. 상술한 방식으로 1초마다 최대 1개의 키누를 소환할 수 있으며, 고유 특성 「맞춤 제작」의 임기응변 또는 재단이 한 번 지속되는 동안, 상술한 방식으로 최대 3개의 키누를 소환할 수 있다. 상술한 효과는 15초마다 최대 1회 발동된다.\n고유 특성 「맞춤 제작」을 해금해야 한다"
+                                                                        "descriptionRaw":  "돌파 특성 「맞춤 제작」의 후속 효과 발동 후, 8초 동안 현재 필드 위에 있는 파티 내 자신의 캐릭터의 일반 공격, 강공격 또는 낙하 공격이 주변에 있는 적에게 명중 시, 적 주변에 간단 자동제어 인형 「키누」를 1개 소환한다. 상술한 방식으로 1초마다 최대 1개의 키누를 소환할 수 있으며, 돌파 특성 「맞춤 제작」의 임기응변 또는 재단이 한 번 지속되는 동안, 상술한 방식으로 최대 3개의 키누를 소환할 수 있다. 상술한 효과는 15초마다 최대 1회 발동된다.\n돌파 특성 「맞춤 제작」을 해금해야 한다",
+                                                                        "description":  "돌파 특성 「맞춤 제작」의 후속 효과 발동 후, 8초 동안 현재 필드 위에 있는 파티 내 자신의 캐릭터의 일반 공격, 강공격 또는 낙하 공격이 주변에 있는 적에게 명중 시, 적 주변에 간단 자동제어 인형 「키누」를 1개 소환한다. 상술한 방식으로 1초마다 최대 1개의 키누를 소환할 수 있으며, 돌파 특성 「맞춤 제작」의 임기응변 또는 재단이 한 번 지속되는 동안, 상술한 방식으로 최대 3개의 키누를 소환할 수 있다. 상술한 효과는 15초마다 최대 1회 발동된다.\n돌파 특성 「맞춤 제작」을 해금해야 한다"
                                                                     },
                                                              "c3":  {
                                                                         "name":  "사분 자수",
@@ -2725,13 +2816,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "만리일공",
-                                                                        "descriptionRaw":  "고유 특성 「맞춤 제작」의 후속 효과 발동 후, 치오리 자신의 \u003ccolor=#FFD780FF\u003e하소데의 손길\u003c/color\u003e의 재사용 대기시간이 12초 감소한다. 고유 특성 「맞춤 제작」을 해금해야 한다.\n또한, 치오리 자신의 일반 공격으로 주는 피해가 치오리 자신의 방어력의 235%만큼 증가한다",
-                                                                        "description":  "고유 특성 「맞춤 제작」의 후속 효과 발동 후, 치오리 자신의 하소데의 손길의 재사용 대기시간이 12초 감소한다. 고유 특성 「맞춤 제작」을 해금해야 한다.\n또한, 치오리 자신의 일반 공격으로 주는 피해가 치오리 자신의 방어력의 235%만큼 증가한다"
+                                                                        "descriptionRaw":  "돌파 특성 「맞춤 제작」의 후속 효과 발동 후, 치오리 자신의 \u003ccolor=#FFD780FF\u003e하소데의 손길\u003c/color\u003e의 재사용 대기시간이 12초 감소한다. 돌파 특성 「맞춤 제작」을 해금해야 한다.\n또한, 치오리 자신의 일반 공격으로 주는 피해가 치오리 자신의 방어력의 235%만큼 증가한다",
+                                                                        "description":  "돌파 특성 「맞춤 제작」의 후속 효과 발동 후, 치오리 자신의 하소데의 손길의 재사용 대기시간이 12초 감소한다. 돌파 특성 「맞춤 제작」을 해금해야 한다.\n또한, 치오리 자신의 일반 공격으로 주는 피해가 치오리 자신의 방어력의 235%만큼 증가한다"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "육할 무늬",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e하소데의 손길\u003c/color\u003e의 자동제어 인형 「타모토」의 공격 범위가 50% 증가한다.\n또한 파티에 치오리 외의 \u003ccolor=#FFE699FF\u003e바위 원소\u003c/color\u003e 캐릭터가 존재할 경우, 하소데의 손길의 돌진 종료 시 아래 효과를 발동한다:\n·추가로 1개의 타모토를 소환한다. 해당 방식으로 치오리 자신이 소환한 타모토와 바위 원소 창조물을 통해 치오리 자신이 추가로 소환한 타모토는 동시에 최대 1개만 존재할 수 있다.\n·고유 특성 「금상첨화」를 발동한다. 해당 효과는 고유 특성 「금상첨화」를 해금해야 한다",
-                                                                        "description":  "하소데의 손길의 자동제어 인형 「타모토」의 공격 범위가 50% 증가한다.\n또한 파티에 치오리 외의 바위 원소 캐릭터가 존재할 경우, 하소데의 손길의 돌진 종료 시 아래 효과를 발동한다:\n·추가로 1개의 타모토를 소환한다. 해당 방식으로 치오리 자신이 소환한 타모토와 바위 원소 창조물을 통해 치오리 자신이 추가로 소환한 타모토는 동시에 최대 1개만 존재할 수 있다.\n·고유 특성 「금상첨화」를 발동한다. 해당 효과는 고유 특성 「금상첨화」를 해금해야 한다"
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e하소데의 손길\u003c/color\u003e의 자동제어 인형 「타모토」의 공격 범위가 50% 증가한다.\n또한 파티에 치오리 외의 \u003ccolor=#FFE699FF\u003e바위 원소\u003c/color\u003e 캐릭터가 존재할 경우, 하소데의 손길의 돌진 종료 시 아래 효과를 발동한다:\n·추가로 1개의 타모토를 소환한다. 해당 방식으로 치오리 자신이 소환한 타모토와 바위 원소 창조물을 통해 치오리 자신이 추가로 소환한 타모토는 동시에 최대 1개만 존재할 수 있다.\n·돌파 특성 「금상첨화」를 발동한다. 해당 효과는 돌파 특성 「금상첨화」를 해금해야 한다",
+                                                                        "description":  "하소데의 손길의 자동제어 인형 「타모토」의 공격 범위가 50% 증가한다.\n또한 파티에 치오리 외의 바위 원소 캐릭터가 존재할 경우, 하소데의 손길의 돌진 종료 시 아래 효과를 발동한다:\n·추가로 1개의 타모토를 소환한다. 해당 방식으로 치오리 자신이 소환한 타모토와 바위 원소 창조물을 통해 치오리 자신이 추가로 소환한 타모토는 동시에 최대 1개만 존재할 수 있다.\n·돌파 특성 「금상첨화」를 발동한다. 해당 효과는 돌파 특성 「금상첨화」를 해금해야 한다"
                                                                     }
                                                          },
                                       "elementText":  "바위",
@@ -2787,8 +2878,8 @@
                                           "constellations":  {
                                                                  "c2":  {
                                                                             "name":  "「모든 상벌은 내가 내릴 것이다…」",
-                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e핏값\u003c/color\u003e 부여 시, 바로 핏값·결산이 된다.\n아를레키노가 핏값·결산 회수 시 전방에 달의 핏빛화염을 소환해 아를레키노 공격력의 900%에 해당하는 \u003ccolor=#FF9999FF\u003e불 원소 범위 피해\u003c/color\u003e를 주고 아를레키노의 모든 원소 내성과 물리 내성이 20% 증가한다, 지속 시간: 15초. 해당 효과는 10초마다 최대 1회 발동한다.\n고유 특성 「고통만이 갚을 수 있고」를 해금해야 한다",
-                                                                            "description":  "핏값 부여 시, 바로 핏값·결산이 된다.\n아를레키노가 핏값·결산 회수 시 전방에 달의 핏빛화염을 소환해 아를레키노 공격력의 900%에 해당하는 불 원소 범위 피해를 주고 아를레키노의 모든 원소 내성과 물리 내성이 20% 증가한다, 지속 시간: 15초. 해당 효과는 10초마다 최대 1회 발동한다.\n고유 특성 「고통만이 갚을 수 있고」를 해금해야 한다"
+                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e핏값\u003c/color\u003e 부여 시, 바로 핏값·결산이 된다.\n아를레키노가 핏값·결산 회수 시 전방에 달의 핏빛화염을 소환해 아를레키노 공격력의 900%에 해당하는 \u003ccolor=#FF9999FF\u003e불 원소 범위 피해\u003c/color\u003e를 주고 아를레키노의 모든 원소 내성과 물리 내성이 20% 증가한다, 지속 시간: 15초. 해당 효과는 10초마다 최대 1회 발동한다.\n돌파 특성 「고통만이 갚을 수 있고」를 해금해야 한다",
+                                                                            "description":  "핏값 부여 시, 바로 핏값·결산이 된다.\n아를레키노가 핏값·결산 회수 시 전방에 달의 핏빛화염을 소환해 아를레키노 공격력의 900%에 해당하는 불 원소 범위 피해를 주고 아를레키노의 모든 원소 내성과 물리 내성이 20% 증가한다, 지속 시간: 15초. 해당 효과는 10초마다 최대 1회 발동한다.\n돌파 특성 「고통만이 갚을 수 있고」를 해금해야 한다"
                                                                         },
                                                                  "c4":  {
                                                                             "name":  "「앞으로 사이좋게 지내거라…」",
@@ -3038,8 +3129,8 @@
                                                                             },
                                                                      "c4":  {
                                                                                 "name":  "달콤한 꿀풀",
-                                                                                "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e풀빛 연화등\u003c/color\u003e이 변화하는 등불로 전환된 후, 고유 특성 「무성한 야생초」의 밝게 빛나는 연꽃빛 효과를 5스택 획득한다.\n고유 특성 「무성한 야생초」를 해금해야 한다",
-                                                                                "description":  "풀빛 연화등이 변화하는 등불로 전환된 후, 고유 특성 「무성한 야생초」의 밝게 빛나는 연꽃빛 효과를 5스택 획득한다.\n고유 특성 「무성한 야생초」를 해금해야 한다"
+                                                                                "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e풀빛 연화등\u003c/color\u003e이 변화하는 등불로 전환된 후, 돌파 특성 「무성한 야생초」의 밝게 빛나는 연꽃빛 효과를 5스택 획득한다.\n돌파 특성 「무성한 야생초」를 해금해야 한다",
+                                                                                "description":  "풀빛 연화등이 변화하는 등불로 전환된 후, 돌파 특성 「무성한 야생초」의 밝게 빛나는 연꽃빛 효과를 5스택 획득한다.\n돌파 특성 「무성한 야생초」를 해금해야 한다"
                                                                             },
                                                                      "c3":  {
                                                                                 "name":  "선회하는 풀",
@@ -3104,6 +3195,16 @@
                                          "region":  "스네즈나야",
                                          "gender":  "남성"
                                      },
+                       "manekin":  {
+                                       "constellations":  null,
+                                       "elementText":  "없음",
+                                       "fullname":  null,
+                                       "weaponText":  "한손검",
+                                       "name":  "별인형·남성",
+                                       "substatText":  "공격력",
+                                       "region":  "",
+                                       "gender":  "남성"
+                                   },
                        "charlotte":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -3215,8 +3316,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "「가장 즐거운 정령이여 초조함을 풀어주소서」",
-                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e통통 물요법\u003c/color\u003e의 치료 방울이 추가로 3번 튕긴다. 처음 3번 튕길 때 큰 방울이 작아지지 않는다.\n고유 특성 「적당한 휴식은 필수」 효과가 증가한다: 치료 방울이 튕길 시, 시그윈에게 진정 카운트를 1스택 부여한다. 또한 진정 카운트로 얻는 피해 증가량이 변경된다: 30000pt를 초과한 시그윈의 HP 최대치를 기반으로, 1000pt마다 피해가 100pt 증가한다. 해당 방식으로 이번 원소전투 스킬이 주는 피해가 최대 3500pt 증가한다. 해당 효과는 고유 특성 「적당한 휴식은 필수」를 해금해야 한다",
-                                                                           "description":  "통통 물요법의 치료 방울이 추가로 3번 튕긴다. 처음 3번 튕길 때 큰 방울이 작아지지 않는다.\n고유 특성 「적당한 휴식은 필수」 효과가 증가한다: 치료 방울이 튕길 시, 시그윈에게 진정 카운트를 1스택 부여한다. 또한 진정 카운트로 얻는 피해 증가량이 변경된다: 30000pt를 초과한 시그윈의 HP 최대치를 기반으로, 1000pt마다 피해가 100pt 증가한다. 해당 방식으로 이번 원소전투 스킬이 주는 피해가 최대 3500pt 증가한다. 해당 효과는 고유 특성 「적당한 휴식은 필수」를 해금해야 한다"
+                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e통통 물요법\u003c/color\u003e의 치료 방울이 추가로 3번 튕긴다. 처음 3번 튕길 때 큰 방울이 작아지지 않는다.\n돌파 특성 「적당한 휴식은 필수」 효과가 증가한다: 치료 방울이 튕길 시, 시그윈에게 진정 카운트를 1스택 부여한다. 또한 진정 카운트로 얻는 피해 증가량이 변경된다: 30000pt를 초과한 시그윈의 HP 최대치를 기반으로, 1000pt마다 피해가 100pt 증가한다. 해당 방식으로 이번 원소전투 스킬이 주는 피해가 최대 3500pt 증가한다. 해당 효과는 돌파 특성 「적당한 휴식은 필수」를 해금해야 한다",
+                                                                           "description":  "통통 물요법의 치료 방울이 추가로 3번 튕긴다. 처음 3번 튕길 때 큰 방울이 작아지지 않는다.\n돌파 특성 「적당한 휴식은 필수」 효과가 증가한다: 치료 방울이 튕길 시, 시그윈에게 진정 카운트를 1스택 부여한다. 또한 진정 카운트로 얻는 피해 증가량이 변경된다: 30000pt를 초과한 시그윈의 HP 최대치를 기반으로, 1000pt마다 피해가 100pt 증가한다. 해당 방식으로 이번 원소전투 스킬이 주는 피해가 최대 3500pt 증가한다. 해당 효과는 돌파 특성 「적당한 휴식은 필수」를 해금해야 한다"
                                                                        }
                                                             },
                                          "elementText":  "물",
@@ -3523,8 +3624,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "멸류",
-                                                                       "descriptionRaw":  "고유 특성 {LINK#N11130008}\u003ccolor=#FFD780FF\u003e흐름의 적멸\u003c/color\u003e{/LINK}의 효과가 강화된다: 죽음의 강 효과 스택마다 스커크의 공격력이 10%/20%/40% 증가한다.\n고유 특성 「흐름의 적멸」을 해금해야 한다",
-                                                                       "description":  "고유 특성 **흐름의 적멸**의 효과가 강화된다: 죽음의 강 효과 스택마다 스커크의 공격력이 10%/20%/40% 증가한다.\n고유 특성 「흐름의 적멸」을 해금해야 한다"
+                                                                       "descriptionRaw":  "돌파 특성 {LINK#N11130008}\u003ccolor=#FFD780FF\u003e흐름의 적멸\u003c/color\u003e{/LINK}의 효과가 강화된다: 죽음의 강 효과 스택마다 스커크의 공격력이 10%/20%/40% 증가한다.\n돌파 특성 「흐름의 적멸」을 해금해야 한다",
+                                                                       "description":  "돌파 특성 **흐름의 적멸**의 효과가 강화된다: 죽음의 강 효과 스택마다 스커크의 공격력이 10%/20%/40% 증가한다.\n돌파 특성 「흐름의 적멸」을 해금해야 한다"
                                                                    },
                                                             "c3":  {
                                                                        "name":  "악연",
@@ -3538,13 +3639,13 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "근원",
-                                                                       "descriptionRaw":  "스커크가 고유 특성 {LINK#N11130007}\u003ccolor=#FFD780FF\u003e이치 너머의 이치\u003c/color\u003e{/LINK}의 효과를 통해 허계 균열을 1개 흡수할 때마다 극악기·참 효과를 1스택 획득한다. 스커크는 해당 효과를 소모해 협동 공격을 할 수 있고, {LINK#N11130006}\u003ccolor=#FFD780FF\u003e일곱빛 섬광\u003c/color\u003e{/LINK} 모드에서 받는 피해가 감소한다. 해당 효과 지속 시간: 15초, 최대 중첩수: 3스택. 스택마다 지속 시간은 독립적으로 계산된다.\n고유 특성 「이치 너머의 이치」를 해금해야 한다.\n\n\u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e\n·원소폭발 \u003ccolor=#FFD780FF\u003e극악기·멸\u003c/color\u003e 발동 시, 모든 \u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e 스택을 소모하여 협동 공격을 진행한다. \u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e 스택마다 스커크 공격력의 750%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 피해는 원소폭발 피해로 간주한다.\n·스커크가 일곱빛 섬광모드에서 일반 공격의 세 번째 또는 다섯 번째 공격으로 적 명중 시, \u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e을 1스택 소모해 협동 공격을 3회 진행한다. 협동 공격마다 스커크 공격력의 180%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 피해는 일반 공격 피해로 간주한다.\n·스커크가 일곱빛 섬광 모드에서 피해를 받을 시 \u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e을 1스택 소모해 이번 받는 피해를 80% 감소시키고, 주변의 적을 3회 공격한다. 공격마다 스커크 공격력의 180%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 피해는 강공격 피해로 간주한다",
-                                                                       "description":  "스커크가 고유 특성 **이치 너머의 이치**의 효과를 통해 허계 균열을 1개 흡수할 때마다 극악기·참 효과를 1스택 획득한다. 스커크는 해당 효과를 소모해 협동 공격을 할 수 있고, **일곱빛 섬광** 모드에서 받는 피해가 감소한다. 해당 효과 지속 시간: 15초, 최대 중첩수: 3스택. 스택마다 지속 시간은 독립적으로 계산된다.\n고유 특성 「이치 너머의 이치」를 해금해야 한다.\n\n극악기·참\n·원소폭발 극악기·멸 발동 시, 모든 극악기·참 스택을 소모하여 협동 공격을 진행한다. 극악기·참 스택마다 스커크 공격력의 750%에 해당하는 얼음 원소 피해를 준다. 해당 피해는 원소폭발 피해로 간주한다.\n·스커크가 일곱빛 섬광모드에서 일반 공격의 세 번째 또는 다섯 번째 공격으로 적 명중 시, 극악기·참을 1스택 소모해 협동 공격을 3회 진행한다. 협동 공격마다 스커크 공격력의 180%에 해당하는 얼음 원소 피해를 준다. 해당 피해는 일반 공격 피해로 간주한다.\n·스커크가 일곱빛 섬광 모드에서 피해를 받을 시 극악기·참을 1스택 소모해 이번 받는 피해를 80% 감소시키고, 주변의 적을 3회 공격한다. 공격마다 스커크 공격력의 180%에 해당하는 얼음 원소 피해를 준다. 해당 피해는 강공격 피해로 간주한다"
+                                                                       "descriptionRaw":  "스커크가 돌파 특성 {LINK#N11130007}\u003ccolor=#FFD780FF\u003e이치 너머의 이치\u003c/color\u003e{/LINK}의 효과를 통해 허계 균열을 1개 흡수할 때마다 극악기·참 효과를 1스택 획득한다. 스커크는 해당 효과를 소모해 협동 공격을 할 수 있고, {LINK#N11130006}\u003ccolor=#FFD780FF\u003e일곱빛 섬광\u003c/color\u003e{/LINK} 모드에서 받는 피해가 감소한다. 해당 효과 지속 시간: 15초, 최대 중첩수: 3스택. 스택마다 지속 시간은 독립적으로 계산된다.\n돌파 특성 「이치 너머의 이치」를 해금해야 한다.\n\n\u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e\n·원소폭발 \u003ccolor=#FFD780FF\u003e극악기·멸\u003c/color\u003e 발동 시, 모든 \u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e 스택을 소모하여 협동 공격을 진행한다. \u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e 스택마다 스커크 공격력의 750%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 피해는 원소폭발 피해로 간주한다.\n·스커크가 일곱빛 섬광모드에서 일반 공격의 세 번째 또는 다섯 번째 공격으로 적 명중 시, \u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e을 1스택 소모해 협동 공격을 3회 진행한다. 협동 공격마다 스커크 공격력의 180%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 피해는 일반 공격 피해로 간주한다.\n·스커크가 일곱빛 섬광 모드에서 피해를 받을 시 \u003ccolor=#FFD780FF\u003e극악기·참\u003c/color\u003e을 1스택 소모해 이번 받는 피해를 80% 감소시키고, 주변의 적을 3회 공격한다. 공격마다 스커크 공격력의 180%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 피해는 강공격 피해로 간주한다",
+                                                                       "description":  "스커크가 돌파 특성 **이치 너머의 이치**의 효과를 통해 허계 균열을 1개 흡수할 때마다 극악기·참 효과를 1스택 획득한다. 스커크는 해당 효과를 소모해 협동 공격을 할 수 있고, **일곱빛 섬광** 모드에서 받는 피해가 감소한다. 해당 효과 지속 시간: 15초, 최대 중첩수: 3스택. 스택마다 지속 시간은 독립적으로 계산된다.\n돌파 특성 「이치 너머의 이치」를 해금해야 한다.\n\n극악기·참\n·원소폭발 극악기·멸 발동 시, 모든 극악기·참 스택을 소모하여 협동 공격을 진행한다. 극악기·참 스택마다 스커크 공격력의 750%에 해당하는 얼음 원소 피해를 준다. 해당 피해는 원소폭발 피해로 간주한다.\n·스커크가 일곱빛 섬광모드에서 일반 공격의 세 번째 또는 다섯 번째 공격으로 적 명중 시, 극악기·참을 1스택 소모해 협동 공격을 3회 진행한다. 협동 공격마다 스커크 공격력의 180%에 해당하는 얼음 원소 피해를 준다. 해당 피해는 일반 공격 피해로 간주한다.\n·스커크가 일곱빛 섬광 모드에서 피해를 받을 시 극악기·참을 1스택 소모해 이번 받는 피해를 80% 감소시키고, 주변의 적을 3회 공격한다. 공격마다 스커크 공격력의 180%에 해당하는 얼음 원소 피해를 준다. 해당 피해는 강공격 피해로 간주한다"
                                                                    },
                                                             "c1":  {
                                                                        "name":  "요원",
-                                                                       "descriptionRaw":  "고유 특성 {LINK#N11130007}\u003ccolor=#FFD780FF\u003e이치 너머의 이치\u003c/color\u003e{/LINK}의 효과가 강화된다: 허계 균열을 1개 흡수할 때마다, 수정 칼날 하나를 소환해 주변의 적을 공격하고 스커크 공격력의 500%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 피해는 강공격 피해로 간주한다.\n고유 특성 「이치 너머의 이치」를 해금해야 한다",
-                                                                       "description":  "고유 특성 **이치 너머의 이치**의 효과가 강화된다: 허계 균열을 1개 흡수할 때마다, 수정 칼날 하나를 소환해 주변의 적을 공격하고 스커크 공격력의 500%에 해당하는 얼음 원소 피해를 준다. 해당 피해는 강공격 피해로 간주한다.\n고유 특성 「이치 너머의 이치」를 해금해야 한다"
+                                                                       "descriptionRaw":  "돌파 특성 {LINK#N11130007}\u003ccolor=#FFD780FF\u003e이치 너머의 이치\u003c/color\u003e{/LINK}의 효과가 강화된다: 허계 균열을 1개 흡수할 때마다, 수정 칼날 하나를 소환해 주변의 적을 공격하고 스커크 공격력의 500%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 피해는 강공격 피해로 간주한다.\n돌파 특성 「이치 너머의 이치」를 해금해야 한다",
+                                                                       "description":  "돌파 특성 **이치 너머의 이치**의 효과가 강화된다: 허계 균열을 1개 흡수할 때마다, 수정 칼날 하나를 소환해 주변의 적을 공격하고 스커크 공격력의 500%에 해당하는 얼음 원소 피해를 준다. 해당 피해는 강공격 피해로 간주한다.\n돌파 특성 「이치 너머의 이치」를 해금해야 한다"
                                                                    }
                                                         },
                                      "elementText":  "얼음",
@@ -3559,8 +3660,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "게으름은 운동의 적!",
-                                                                        "descriptionRaw":  "원소폭발 \u003ccolor=#FFD780FF\u003e힘의 3요소\u003c/color\u003e 발동 시, 얀사도 고유 특성 「근력 운동」의 「표준 동작」 효과를 획득한다, 지속 시간: 15초. 또한 「표준 동작」 효과 지속 시간 동안 얀사가 대기 상태일 경우, 파티 내 자신의 현재 필드 위 캐릭터의 공격력이 30% 증가한다. 해당 효과는 고유 특성 「근력 운동」을 해금해야 한다",
-                                                                        "description":  "원소폭발 힘의 3요소 발동 시, 얀사도 고유 특성 「근력 운동」의 「표준 동작」 효과를 획득한다, 지속 시간: 15초. 또한 「표준 동작」 효과 지속 시간 동안 얀사가 대기 상태일 경우, 파티 내 자신의 현재 필드 위 캐릭터의 공격력이 30% 증가한다. 해당 효과는 고유 특성 「근력 운동」을 해금해야 한다"
+                                                                        "descriptionRaw":  "원소폭발 \u003ccolor=#FFD780FF\u003e힘의 3요소\u003c/color\u003e 발동 시, 얀사도 돌파 특성 「근력 운동」의 「표준 동작」 효과를 획득한다, 지속 시간: 15초. 또한 「표준 동작」 효과 지속 시간 동안 얀사가 대기 상태일 경우, 현재 필드 위에 있는 파티 내 자신의 캐릭터의 공격력이 30% 증가한다. 해당 효과는 돌파 특성 「근력 운동」을 해금해야 한다",
+                                                                        "description":  "원소폭발 힘의 3요소 발동 시, 얀사도 돌파 특성 「근력 운동」의 「표준 동작」 효과를 획득한다, 지속 시간: 15초. 또한 「표준 동작」 효과 지속 시간 동안 얀사가 대기 상태일 경우, 현재 필드 위에 있는 파티 내 자신의 캐릭터의 공격력이 30% 증가한다. 해당 효과는 돌파 특성 「근력 운동」을 해금해야 한다"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "가장 중요한 건 꾸준함",
@@ -3605,8 +3706,8 @@
                                                                       },
                                                                "c4":  {
                                                                           "name":  "4번 악극·부유하는 달과 꽃의 노래",
-                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e우화·바람이 전하는 노래\u003c/color\u003e 발동 시, 고유 특성 「꽃이 된 옥」의 원소 타입에 따른 강화 효과를 발동했을 경우, 발동 안 된 랜덤 강화 효과 1개를 추가로 획득한다. 강화 효과는 동시에 최대 3종류까지 획득할 수 있다.\n고유 특성 「꽃이 된 옥」을 해금해야 한다",
-                                                                          "description":  "우화·바람이 전하는 노래 발동 시, 고유 특성 「꽃이 된 옥」의 원소 타입에 따른 강화 효과를 발동했을 경우, 발동 안 된 랜덤 강화 효과 1개를 추가로 획득한다. 강화 효과는 동시에 최대 3종류까지 획득할 수 있다.\n고유 특성 「꽃이 된 옥」을 해금해야 한다"
+                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e우화·바람이 전하는 노래\u003c/color\u003e 발동 시, 돌파 특성 「꽃이 된 옥」의 원소 타입에 따른 강화 효과를 발동했을 경우, 발동 안 된 랜덤 강화 효과 1개를 추가로 획득한다. 강화 효과는 동시에 최대 3종류까지 획득할 수 있다.\n돌파 특성 「꽃이 된 옥」을 해금해야 한다",
+                                                                          "description":  "우화·바람이 전하는 노래 발동 시, 돌파 특성 「꽃이 된 옥」의 원소 타입에 따른 강화 효과를 발동했을 경우, 발동 안 된 랜덤 강화 효과 1개를 추가로 획득한다. 강화 효과는 동시에 최대 3종류까지 획득할 수 있다.\n돌파 특성 「꽃이 된 옥」을 해금해야 한다"
                                                                       },
                                                                "c3":  {
                                                                           "name":  "3번 악극·월광화 쿠세마이",
@@ -3625,8 +3726,8 @@
                                                                       },
                                                                "c1":  {
                                                                           "name":  "1번 악극·바람을 타는 깃",
-                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e바람의 자태\u003c/color\u003e 상태일 때 방랑자의 부유·단절과 부유·칼바람 영역의 공격 속도가 10% 증가한다.\n고유 특성 「몽상의 바람」이 발사한 바람 화살이 추가로 공격력의 25%만큼 피해를 가한다. 해당 효과는 고유 특성 「몽상의 바람」을 해금해야 한다",
-                                                                          "description":  "바람의 자태 상태일 때 방랑자의 부유·단절과 부유·칼바람 영역의 공격 속도가 10% 증가한다.\n고유 특성 「몽상의 바람」이 발사한 바람 화살이 추가로 공격력의 25%만큼 피해를 가한다. 해당 효과는 고유 특성 「몽상의 바람」을 해금해야 한다"
+                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e바람의 자태\u003c/color\u003e 상태일 때 방랑자의 부유·단절과 부유·칼바람 영역의 공격 속도가 10% 증가한다.\n돌파 특성 「몽상의 바람」이 발사한 바람 화살이 추가로 공격력의 25%만큼 피해를 준다. 해당 효과는 돌파 특성 「몽상의 바람」을 해금해야 한다",
+                                                                          "description":  "바람의 자태 상태일 때 방랑자의 부유·단절과 부유·칼바람 영역의 공격 속도가 10% 증가한다.\n돌파 특성 「몽상의 바람」이 발사한 바람 화살이 추가로 공격력의 25%만큼 피해를 준다. 해당 효과는 돌파 특성 「몽상의 바람」을 해금해야 한다"
                                                                       }
                                                            },
                                         "elementText":  "바람",
@@ -3764,8 +3865,8 @@
                                    "constellations":  {
                                                           "c2":  {
                                                                      "name":  "탄도의 수호령",
-                                                                     "descriptionRaw":  "이파가 밤혼 가호 상태 시, 파티 내 모든 캐릭터의 밤혼 총합이 60pt를 초과한 경우, 초과한 밤혼 1pt마다 이파가 추가로 {LINK#N11130002}\u003ccolor=#FFD780FF\u003e「구급 비결」\u003c/color\u003e{/LINK}을 4pt 획득한다.\n또한, 이파가 보유할 수 있는 「구급 비결」의 최대치가 50pt 증가한다.\n고유 특성 {LINK#P1132101}\u003ccolor=#FFD780FF\u003e응급 구조사의 시야\u003c/color\u003e{/LINK}를 해금해야 한다",
-                                                                     "description":  "이파가 밤혼 가호 상태 시, 파티 내 모든 캐릭터의 밤혼 총합이 60pt를 초과한 경우, 초과한 밤혼 1pt마다 이파가 추가로 **「구급 비결」**을 4pt 획득한다.\n또한, 이파가 보유할 수 있는 「구급 비결」의 최대치가 50pt 증가한다.\n고유 특성 **응급 구조사의 시야**를 해금해야 한다"
+                                                                     "descriptionRaw":  "이파가 밤혼 가호 상태 시, 파티 내 모든 캐릭터의 밤혼 총합이 60pt를 초과한 경우, 초과한 밤혼 1pt마다 이파가 추가로 {LINK#N11130002}\u003ccolor=#FFD780FF\u003e「구급 비결」\u003c/color\u003e{/LINK}을 4pt 획득한다.\n또한, 이파가 보유할 수 있는 「구급 비결」의 최대치가 50pt 증가한다.\n돌파 특성 {LINK#P1132101}\u003ccolor=#FFD780FF\u003e응급 구조사의 시야\u003c/color\u003e{/LINK}를 해금해야 한다",
+                                                                     "description":  "이파가 밤혼 가호 상태 시, 파티 내 모든 캐릭터의 밤혼 총합이 60pt를 초과한 경우, 초과한 밤혼 1pt마다 이파가 추가로 **「구급 비결」**을 4pt 획득한다.\n또한, 이파가 보유할 수 있는 「구급 비결」의 최대치가 50pt 증가한다.\n돌파 특성 **응급 구조사의 시야**를 해금해야 한다"
                                                                  },
                                                           "c4":  {
                                                                      "name":  "썩은 부위 치환술",
@@ -3924,6 +4025,16 @@
                                                 "region":  "이나즈마",
                                                 "gender":  "여성"
                                             },
+                       "manekina":  {
+                                        "constellations":  null,
+                                        "elementText":  "없음",
+                                        "fullname":  null,
+                                        "weaponText":  "한손검",
+                                        "name":  "별인형·여성",
+                                        "substatText":  "공격력",
+                                        "region":  "",
+                                        "gender":  "여성"
+                                    },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3933,8 +4044,8 @@
                                                                      },
                                                               "c4":  {
                                                                          "name":  "「지도자」의 각오",
-                                                                         "descriptionRaw":  "고유 특성 「키온고지」 효과 강화:\n원소폭발 \u003ccolor=#FFD780FF\u003e불타는 하늘\u003c/color\u003e 발동 후의 피해 증가 효과가 시간에 따라 감소하지 않는다. 또한 추가로 피해 보너스를 10% 획득한다.\n고유 특성 「키온고지」를 해금해야 한다",
-                                                                         "description":  "고유 특성 「키온고지」 효과 강화:\n원소폭발 불타는 하늘 발동 후의 피해 증가 효과가 시간에 따라 감소하지 않는다. 또한 추가로 피해 보너스를 10% 획득한다.\n고유 특성 「키온고지」를 해금해야 한다"
+                                                                         "descriptionRaw":  "돌파 특성 「키온고지」 효과 강화:\n원소폭발 \u003ccolor=#FFD780FF\u003e불타는 하늘\u003c/color\u003e 발동 후의 피해 증가 효과가 시간에 따라 감소하지 않는다. 또한 추가로 피해 보너스를 10% 획득한다.\n돌파 특성 「키온고지」를 해금해야 한다",
+                                                                         "description":  "돌파 특성 「키온고지」 효과 강화:\n원소폭발 불타는 하늘 발동 후의 피해 증가 효과가 시간에 따라 감소하지 않는다. 또한 추가로 피해 보너스를 10% 획득한다.\n돌파 특성 「키온고지」를 해금해야 한다"
                                                                      },
                                                               "c3":  {
                                                                          "name":  "타오르는 태양",
@@ -3994,8 +4105,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "꺼지지 않는 열정",
-                                                                        "descriptionRaw":  "고유 특성 「연속! 세 번의 도약」의 효과가 강화된다:\n특수 낙하 공격·대화산 폭발 진행 시에도 바레사가 「무지개 낙하」를 획득한다. 지속 시간: 5초.\n바레사의 열혈 상태 여부와 상관없이 「무지개 낙하」 지속 시간 동안 낙하 공격 시, 추락 충격이 추가로 공격력의 180%에 해당하는 피해를 주도록 변경된다. 해당 효과는 고유 특성 「연속! 세 번의 도약」을 해금해야 한다.\n\n또한 바레사가 밤혼 가호 상태의 「맹렬한 돌격」 모드 시, 소모하는 밤혼 또는 열소가 30% 감소한다",
-                                                                        "description":  "고유 특성 「연속! 세 번의 도약」의 효과가 강화된다:\n특수 낙하 공격·대화산 폭발 진행 시에도 바레사가 「무지개 낙하」를 획득한다. 지속 시간: 5초.\n바레사의 열혈 상태 여부와 상관없이 「무지개 낙하」 지속 시간 동안 낙하 공격 시, 추락 충격이 추가로 공격력의 180%에 해당하는 피해를 주도록 변경된다. 해당 효과는 고유 특성 「연속! 세 번의 도약」을 해금해야 한다.\n\n또한 바레사가 밤혼 가호 상태의 「맹렬한 돌격」 모드 시, 소모하는 밤혼 또는 열소가 30% 감소한다"
+                                                                        "descriptionRaw":  "돌파 특성 「연속! 세 번의 도약」의 효과가 강화된다:\n특수 낙하 공격·대화산 폭발 진행 시에도 바레사가 「무지개 낙하」를 획득한다. 지속 시간: 5초.\n바레사의 열혈 상태 여부와 상관없이 「무지개 낙하」 지속 시간 동안 낙하 공격 시, 추락 충격이 추가로 공격력의 180%에 해당하는 피해를 주도록 변경된다. 해당 효과는 돌파 특성 「연속! 세 번의 도약」을 해금해야 한다.\n\n또한 바레사가 밤혼 가호 상태의 「맹렬한 돌격」 모드 시, 소모하는 밤혼 또는 열소가 30% 감소한다",
+                                                                        "description":  "돌파 특성 「연속! 세 번의 도약」의 효과가 강화된다:\n특수 낙하 공격·대화산 폭발 진행 시에도 바레사가 「무지개 낙하」를 획득한다. 지속 시간: 5초.\n바레사의 열혈 상태 여부와 상관없이 「무지개 낙하」 지속 시간 동안 낙하 공격 시, 추락 충격이 추가로 공격력의 180%에 해당하는 피해를 주도록 변경된다. 해당 효과는 돌파 특성 「연속! 세 번의 도약」을 해금해야 한다.\n\n또한 바레사가 밤혼 가호 상태의 「맹렬한 돌격」 모드 시, 소모하는 밤혼 또는 열소가 30% 감소한다"
                                                                     }
                                                          },
                                       "elementText":  "번개",
@@ -4153,13 +4264,13 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "범례·공정한 판정",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e성스러운 의식·이리의 질주\u003c/color\u003e 또는 고유 특성 「낙하하는 깃털의 심판」의 「판정」 발동 후, 사이노는 「이리의 번제」 효과를 4스택 획득한다. 사이노의 일반 공격이 적에게 명중 시, 1스택의 「이리의 번제」 효과를 소모해 기근의 번개 1줄기를 발사한다.\n「이리의 번제」 지속 시간: 8초, 최대 중첩수: 8스택. 성스러운 의식·이리의 질주의 길을 여는 사자 상태가 끝나면 사라진다.\n해당 방식으로 0.4초마다 최대 1줄기의 기근의 번개를 발사할 수 있다.\n고유 특성 「낙하하는 깃털의 심판」을 해금해야 한다",
-                                                                      "description":  "성스러운 의식·이리의 질주 또는 고유 특성 「낙하하는 깃털의 심판」의 「판정」 발동 후, 사이노는 「이리의 번제」 효과를 4스택 획득한다. 사이노의 일반 공격이 적에게 명중 시, 1스택의 「이리의 번제」 효과를 소모해 기근의 번개 1줄기를 발사한다.\n「이리의 번제」 지속 시간: 8초, 최대 중첩수: 8스택. 성스러운 의식·이리의 질주의 길을 여는 사자 상태가 끝나면 사라진다.\n해당 방식으로 0.4초마다 최대 1줄기의 기근의 번개를 발사할 수 있다.\n고유 특성 「낙하하는 깃털의 심판」을 해금해야 한다"
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e성스러운 의식·이리의 질주\u003c/color\u003e 또는 돌파 특성 「낙하하는 깃털의 심판」의 「판정」 발동 후, 사이노는 「이리의 번제」 효과를 4스택 획득한다. 사이노의 일반 공격이 적에게 명중 시, 1스택의 「이리의 번제」 효과를 소모해 기근의 번개 1줄기를 발사한다.\n「이리의 번제」 지속 시간: 8초, 최대 중첩수: 8스택. 성스러운 의식·이리의 질주의 길을 여는 사자 상태가 끝나면 사라진다.\n해당 방식으로 0.4초마다 최대 1줄기의 기근의 번개를 발사할 수 있다.\n돌파 특성 「낙하하는 깃털의 심판」을 해금해야 한다",
+                                                                      "description":  "성스러운 의식·이리의 질주 또는 돌파 특성 「낙하하는 깃털의 심판」의 「판정」 발동 후, 사이노는 「이리의 번제」 효과를 4스택 획득한다. 사이노의 일반 공격이 적에게 명중 시, 1스택의 「이리의 번제」 효과를 소모해 기근의 번개 1줄기를 발사한다.\n「이리의 번제」 지속 시간: 8초, 최대 중첩수: 8스택. 성스러운 의식·이리의 질주의 길을 여는 사자 상태가 끝나면 사라진다.\n해당 방식으로 0.4초마다 최대 1줄기의 기근의 번개를 발사할 수 있다.\n돌파 특성 「낙하하는 깃털의 심판」을 해금해야 한다"
                                                                   },
                                                            "c1":  {
                                                                       "name":  "법례·굽어보는 어둠",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e성스러운 의식·이리의 질주\u003c/color\u003e 발동 후 사이노의 일반 공격의 공격 속도가 20% 증가한다. 지속 시간: 10초. \u003ccolor=#FFD780FF\u003e비밀스러운 의식·명계의 인도자\u003c/color\u003e 발동 시, 고유 특성 「낙하하는 깃털의 심판」의 「판정」 효과를 발동할 경우 해당 효과의 지속 시간이 갱신된다.\n고유 특성 「낙하하는 깃털의 심판」을 해금해야 한다",
-                                                                      "description":  "성스러운 의식·이리의 질주 발동 후 사이노의 일반 공격의 공격 속도가 20% 증가한다. 지속 시간: 10초. 비밀스러운 의식·명계의 인도자 발동 시, 고유 특성 「낙하하는 깃털의 심판」의 「판정」 효과를 발동할 경우 해당 효과의 지속 시간이 갱신된다.\n고유 특성 「낙하하는 깃털의 심판」을 해금해야 한다"
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e성스러운 의식·이리의 질주\u003c/color\u003e 발동 후 사이노의 일반 공격의 공격 속도가 20% 증가한다. 지속 시간: 10초. \u003ccolor=#FFD780FF\u003e비밀스러운 의식·명계의 인도자\u003c/color\u003e 발동 시, 돌파 특성 「낙하하는 깃털의 심판」의 「판정」 효과를 발동할 경우 해당 효과의 지속 시간이 갱신된다.\n돌파 특성 「낙하하는 깃털의 심판」을 해금해야 한다",
+                                                                      "description":  "성스러운 의식·이리의 질주 발동 후 사이노의 일반 공격의 공격 속도가 20% 증가한다. 지속 시간: 10초. 비밀스러운 의식·명계의 인도자 발동 시, 돌파 특성 「낙하하는 깃털의 심판」의 「판정」 효과를 발동할 경우 해당 효과의 지속 시간이 갱신된다.\n돌파 특성 「낙하하는 깃털의 심판」을 해금해야 한다"
                                                                   }
                                                        },
                                     "elementText":  "번개",
@@ -4256,13 +4367,13 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "횡포자에게 족쇄를",
-                                                                             "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e짓씹는 흑금늑대\u003c/color\u003e 발동 시 고유 특성 「죗값은 치르기 마련」의 「처벌 칙령」 효과 스택마다 주는 피해가 40% 증가한다.\n고유 특성 「죗값은 치르기 마련」을 해금해야 한다",
-                                                                             "description":  "짓씹는 흑금늑대 발동 시 고유 특성 「죗값은 치르기 마련」의 「처벌 칙령」 효과 스택마다 주는 피해가 40% 증가한다.\n고유 특성 「죗값은 치르기 마련」을 해금해야 한다"
+                                                                             "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e짓씹는 흑금늑대\u003c/color\u003e 발동 시 돌파 특성 「죗값은 치르기 마련」의 「처벌 칙령」 효과 스택마다 주는 피해가 40% 증가한다.\n돌파 특성 「죗값은 치르기 마련」을 해금해야 한다",
+                                                                             "description":  "짓씹는 흑금늑대 발동 시 돌파 특성 「죗값은 치르기 마련」의 「처벌 칙령」 효과 스택마다 주는 피해가 40% 증가한다.\n돌파 특성 「죗값은 치르기 마련」을 해금해야 한다"
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "수난자에게 구원을",
-                                                                             "descriptionRaw":  "징벌·도약권으로 회복하는 라이오슬리의 HP 회복량이 HP 최대치의 50%로 증가한다. 고유 특성 「정의는 밝혀지기 마련」을 해금해야 한다.\n또한, 라이오슬리가 치유를 받을 때 이번 회복량이 초과된 경우, 라이오슬리의 필드 존재 여부에 따라 다음 효과가 적용된다: 현재 필드에 있을 경우, 라이오슬리의 공격 속도가 20% 증가한다. 지속 시간: 4초. 대기 상태일 경우, 파티 내 모든 자신의 캐릭터의 공격 속도가 10% 증가한다. 지속 시간: 6초. 이 두 가지 공격 속도 증가 효과는 중첩되지 않는다",
-                                                                             "description":  "징벌·도약권으로 회복하는 라이오슬리의 HP 회복량이 HP 최대치의 50%로 증가한다. 고유 특성 「정의는 밝혀지기 마련」을 해금해야 한다.\n또한, 라이오슬리가 치유를 받을 때 이번 회복량이 초과된 경우, 라이오슬리의 필드 존재 여부에 따라 다음 효과가 적용된다: 현재 필드에 있을 경우, 라이오슬리의 공격 속도가 20% 증가한다. 지속 시간: 4초. 대기 상태일 경우, 파티 내 모든 자신의 캐릭터의 공격 속도가 10% 증가한다. 지속 시간: 6초. 이 두 가지 공격 속도 증가 효과는 중첩되지 않는다"
+                                                                             "descriptionRaw":  "징벌·도약권으로 회복하는 라이오슬리의 HP 회복량이 HP 최대치의 50%로 증가한다. 돌파 특성 「정의는 밝혀지기 마련」을 해금해야 한다.\n또한, 라이오슬리가 치유를 받을 때 이번 회복량이 초과된 경우, 라이오슬리의 필드 존재 여부에 따라 다음 효과가 적용된다: 현재 필드에 있을 경우, 라이오슬리의 공격 속도가 20% 증가한다. 지속 시간: 4초. 대기 상태일 경우, 파티 내 모든 자신의 캐릭터의 공격 속도가 10% 증가한다. 지속 시간: 6초. 이 두 가지 공격 속도 증가 효과는 중첩되지 않는다",
+                                                                             "description":  "징벌·도약권으로 회복하는 라이오슬리의 HP 회복량이 HP 최대치의 50%로 증가한다. 돌파 특성 「정의는 밝혀지기 마련」을 해금해야 한다.\n또한, 라이오슬리가 치유를 받을 때 이번 회복량이 초과된 경우, 라이오슬리의 필드 존재 여부에 따라 다음 효과가 적용된다: 현재 필드에 있을 경우, 라이오슬리의 공격 속도가 20% 증가한다. 지속 시간: 4초. 대기 상태일 경우, 파티 내 모든 자신의 캐릭터의 공격 속도가 10% 증가한다. 지속 시간: 6초. 이 두 가지 공격 속도 증가 효과는 중첩되지 않는다"
                                                                          },
                                                                   "c3":  {
                                                                              "name":  "기만자에게 처벌을",
@@ -4276,13 +4387,13 @@
                                                                          },
                                                                   "c6":  {
                                                                              "name":  "무죄자에게 위로를",
-                                                                             "descriptionRaw":  "징벌·도약권의 치명타 확률이 10%, 치명타 피해가 80% 증가한다. 또한 추가로 얼음송곳을 생성해 기존의 100%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 방식으로 주는 피해는 강공격 피해로 간주한다.\n고유 특성 「정의는 밝혀지기 마련」을 해금해야 한다",
-                                                                             "description":  "징벌·도약권의 치명타 확률이 10%, 치명타 피해가 80% 증가한다. 또한 추가로 얼음송곳을 생성해 기존의 100%에 해당하는 얼음 원소 피해를 준다. 해당 방식으로 주는 피해는 강공격 피해로 간주한다.\n고유 특성 「정의는 밝혀지기 마련」을 해금해야 한다"
+                                                                             "descriptionRaw":  "징벌·도약권의 치명타 확률이 10%, 치명타 피해가 80% 증가한다. 또한 추가로 얼음송곳을 생성해 기존의 100%에 해당하는 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 준다. 해당 방식으로 주는 피해는 강공격 피해로 간주한다.\n돌파 특성 「정의는 밝혀지기 마련」을 해금해야 한다",
+                                                                             "description":  "징벌·도약권의 치명타 확률이 10%, 치명타 피해가 80% 증가한다. 또한 추가로 얼음송곳을 생성해 기존의 100%에 해당하는 얼음 원소 피해를 준다. 해당 방식으로 주는 피해는 강공격 피해로 간주한다.\n돌파 특성 「정의는 밝혀지기 마련」을 해금해야 한다"
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "악행자에게 징벌을",
-                                                                             "descriptionRaw":  "고유 특성 「정의는 밝혀지기 마련」의 「은혜로운 훈계」가 다음으로 변경된다:\n라이오슬리의 HP가 60% 미만이거나 \u003ccolor=#FFD780FF\u003e얼음송곳니 돌진\u003c/color\u003e의 혹한의 징벌 상태 지속 시간 동안 격퇴권의 다섯 번째 공격이 명중하면 「은혜로운 훈계」를 획득한다. 2.5초마다 「은혜로운 훈계」 효과를 최대 1회 획득할 수 있다.\n\n또한, 징벌·도약권이 다음과 같이 강화된다:\n·주는 피해 증가가 200%로 한층 더 증가한다.\n·명중 시 혹한의 징벌 상태라면 해당 상태의 지속 시간이 4초 연장된다. 해당 방식으로 한 번의 혹한의 징벌 상태 지속 시간 동안, 지속 시간을 최대 1회 연장할 수 있다.\n\n고유 특성 「정의는 밝혀지기 마련」을 해금해야 한다",
-                                                                             "description":  "고유 특성 「정의는 밝혀지기 마련」의 「은혜로운 훈계」가 다음으로 변경된다:\n라이오슬리의 HP가 60% 미만이거나 얼음송곳니 돌진의 혹한의 징벌 상태 지속 시간 동안 격퇴권의 다섯 번째 공격이 명중하면 「은혜로운 훈계」를 획득한다. 2.5초마다 「은혜로운 훈계」 효과를 최대 1회 획득할 수 있다.\n\n또한, 징벌·도약권이 다음과 같이 강화된다:\n·주는 피해 증가가 200%로 한층 더 증가한다.\n·명중 시 혹한의 징벌 상태라면 해당 상태의 지속 시간이 4초 연장된다. 해당 방식으로 한 번의 혹한의 징벌 상태 지속 시간 동안, 지속 시간을 최대 1회 연장할 수 있다.\n\n고유 특성 「정의는 밝혀지기 마련」을 해금해야 한다"
+                                                                             "descriptionRaw":  "돌파 특성 「정의는 밝혀지기 마련」의 「은혜로운 훈계」가 다음으로 변경된다:\n라이오슬리의 HP가 60% 미만이거나 \u003ccolor=#FFD780FF\u003e얼음송곳니 돌진\u003c/color\u003e의 혹한의 징벌 상태 지속 시간 동안 격퇴권의 다섯 번째 공격이 명중하면 「은혜로운 훈계」를 획득한다. 2.5초마다 「은혜로운 훈계」 효과를 최대 1회 획득할 수 있다.\n\n또한, 징벌·도약권이 다음과 같이 강화된다:\n·주는 피해 증가가 200%로 한층 더 증가한다.\n·명중 시 혹한의 징벌 상태라면 해당 상태의 지속 시간이 4초 연장된다. 해당 방식으로 한 번의 혹한의 징벌 상태 지속 시간 동안, 지속 시간을 최대 1회 연장할 수 있다.\n\n돌파 특성 「정의는 밝혀지기 마련」을 해금해야 한다",
+                                                                             "description":  "돌파 특성 「정의는 밝혀지기 마련」의 「은혜로운 훈계」가 다음으로 변경된다:\n라이오슬리의 HP가 60% 미만이거나 얼음송곳니 돌진의 혹한의 징벌 상태 지속 시간 동안 격퇴권의 다섯 번째 공격이 명중하면 「은혜로운 훈계」를 획득한다. 2.5초마다 「은혜로운 훈계」 효과를 최대 1회 획득할 수 있다.\n\n또한, 징벌·도약권이 다음과 같이 강화된다:\n·주는 피해 증가가 200%로 한층 더 증가한다.\n·명중 시 혹한의 징벌 상태라면 해당 상태의 지속 시간이 4초 연장된다. 해당 방식으로 한 번의 혹한의 징벌 상태 지속 시간 동안, 지속 시간을 최대 1회 연장할 수 있다.\n\n돌파 특성 「정의는 밝혀지기 마련」을 해금해야 한다"
                                                                          }
                                                               },
                                            "elementText":  "얼음",
@@ -4445,8 +4556,8 @@
                                                                            },
                                                                     "c1":  {
                                                                                "name":  "잔잔한 호숫물",
-                                                                               "descriptionRaw":  "원천의 방울 습득 후, 여행자는 원소 에너지를 2pt 회복한다.\n고유 특성 「티 없이 맑은 물」을 해금해야 한다",
-                                                                               "description":  "원천의 방울 습득 후, 여행자는 원소 에너지를 2pt 회복한다.\n고유 특성 「티 없이 맑은 물」을 해금해야 한다"
+                                                                               "descriptionRaw":  "원천의 방울 습득 후, 여행자는 원소 에너지를 2pt 회복한다.\n돌파 특성 「티 없이 맑은 물」을 해금해야 한다",
+                                                                               "description":  "원천의 방울 습득 후, 여행자는 원소 에너지를 2pt 회복한다.\n돌파 특성 「티 없이 맑은 물」을 해금해야 한다"
                                                                            }
                                                                 }
                                          },
@@ -4577,8 +4688,8 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "법의 계율",
-                                                                             "descriptionRaw":  "고유 특성 「생존한 고대바다의 계승자」가 강화된다: 「생존한 용의 영광」 1스택마다 강공격·공정한 판결의 치명타 피해가 14% 증가한다. 해당 방식으로 최대 42%까지 증가한다.\n고유 특성 「생존한 고대 바다의 계승자」를 해금해야 한다",
-                                                                             "description":  "고유 특성 「생존한 고대바다의 계승자」가 강화된다: 「생존한 용의 영광」 1스택마다 강공격·공정한 판결의 치명타 피해가 14% 증가한다. 해당 방식으로 최대 42%까지 증가한다.\n고유 특성 「생존한 고대 바다의 계승자」를 해금해야 한다"
+                                                                             "descriptionRaw":  "돌파 특성 「생존한 고대바다의 계승자」가 강화된다: 「생존한 용의 영광」 1스택마다 강공격·공정한 판결의 치명타 피해가 14% 증가한다. 해당 방식으로 최대 42%까지 증가한다.\n돌파 특성 「생존한 고대 바다의 계승자」를 해금해야 한다",
+                                                                             "description":  "돌파 특성 「생존한 고대바다의 계승자」가 강화된다: 「생존한 용의 영광」 1스택마다 강공격·공정한 판결의 치명타 피해가 14% 증가한다. 해당 방식으로 최대 42%까지 증가한다.\n돌파 특성 「생존한 고대 바다의 계승자」를 해금해야 한다"
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "연민의 왕관",
@@ -4602,8 +4713,8 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "위대한 제정",
-                                                                             "descriptionRaw":  "느비예트 등장 시, 고유 특성 「생존한 고대바다의 계승자」의 「생존한 용의 영광」을 1스택 획득한다. 고유 특성 「생존한 고대바다의 계승자」를 해금해야 한다.\n또한, 차지 강공격·심증 형성과 강공격·공정한 판결 진행 시 느비예트의 경직 저항력이 증가한다",
-                                                                             "description":  "느비예트 등장 시, 고유 특성 「생존한 고대바다의 계승자」의 「생존한 용의 영광」을 1스택 획득한다. 고유 특성 「생존한 고대바다의 계승자」를 해금해야 한다.\n또한, 차지 강공격·심증 형성과 강공격·공정한 판결 진행 시 느비예트의 경직 저항력이 증가한다"
+                                                                             "descriptionRaw":  "느비예트 등장 시, 돌파 특성 「생존한 고대바다의 계승자」의 「생존한 용의 영광」을 1스택 획득한다. 돌파 특성 「생존한 고대바다의 계승자」를 해금해야 한다.\n또한, 차지 강공격·심증 형성과 강공격·공정한 판결 진행 시 느비예트의 경직 저항력이 증가한다",
+                                                                             "description":  "느비예트 등장 시, 돌파 특성 「생존한 고대바다의 계승자」의 「생존한 용의 영광」을 1스택 획득한다. 돌파 특성 「생존한 고대바다의 계승자」를 해금해야 한다.\n또한, 차지 강공격·심증 형성과 강공격·공정한 판결 진행 시 느비예트의 경직 저항력이 증가한다"
                                                                          }
                                                               },
                                            "elementText":  "물",
@@ -4638,13 +4749,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "깊은 샘의 찬송가",
-                                                                        "descriptionRaw":  "고유 특성 「밤그늘의 공감각」의 「현상 초감각」 발동 후, 파티 내 자신의 현재 필드 위 캐릭터의 공격력이 10% 증가한다. 지속 시간 9초. 해당 효과 최대 중첩수: 3스택. 스택마다 지속 시간은 독립적으로 계산한다.\n또한 원소폭발 \u003ccolor=#FFD780FF\u003e어둠의 메아리\u003c/color\u003e 발동 시, 「현상 초감각」과 같은 효과를 1회 발동해, 기존의 200%에 해당하는 피해를 준다.\n해당 효과는 고유 특성 「밤그늘의 공감각」을 해금해야 한다",
-                                                                        "description":  "고유 특성 「밤그늘의 공감각」의 「현상 초감각」 발동 후, 파티 내 자신의 현재 필드 위 캐릭터의 공격력이 10% 증가한다. 지속 시간 9초. 해당 효과 최대 중첩수: 3스택. 스택마다 지속 시간은 독립적으로 계산한다.\n또한 원소폭발 어둠의 메아리 발동 시, 「현상 초감각」과 같은 효과를 1회 발동해, 기존의 200%에 해당하는 피해를 준다.\n해당 효과는 고유 특성 「밤그늘의 공감각」을 해금해야 한다"
+                                                                        "descriptionRaw":  "돌파 특성 「밤그늘의 공감각」의 「현상 초감각」 발동 후, 현재 필드 위에 있는 파티 내 자신의 캐릭터의 공격력이 10% 증가한다. 지속 시간 9초. 해당 효과 최대 중첩수: 3스택. 스택마다 지속 시간은 독립적으로 계산한다.\n또한 원소폭발 \u003ccolor=#FFD780FF\u003e어둠의 메아리\u003c/color\u003e 발동 시, 「현상 초감각」과 같은 효과를 1회 발동해, 기존의 200%에 해당하는 피해를 준다.\n해당 효과는 돌파 특성 「밤그늘의 공감각」을 해금해야 한다",
+                                                                        "description":  "돌파 특성 「밤그늘의 공감각」의 「현상 초감각」 발동 후, 현재 필드 위에 있는 파티 내 자신의 캐릭터의 공격력이 10% 증가한다. 지속 시간 9초. 해당 효과 최대 중첩수: 3스택. 스택마다 지속 시간은 독립적으로 계산한다.\n또한 원소폭발 어둠의 메아리 발동 시, 「현상 초감각」과 같은 효과를 1회 발동해, 기존의 200%에 해당하는 피해를 준다.\n해당 효과는 돌파 특성 「밤그늘의 공감각」을 해금해야 한다"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "숲 안개 속 행적",
-                                                                        "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e밤빛 줄\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e영혼공\u003c/color\u003e이 추가로 2회 튕긴다.\n또한 \u003ccolor=#FFD780FF\u003e영혼공\u003c/color\u003e이 적에게 명중 후, 해당 적에게 「검은 밤」 효과를 부여한다. 지속 시간: 12초. 「검은 밤」 효과의 영향을 받고 있는 적에게 고유 특성 「밤그늘의 공감각」이 발동한 「초감각」으로 주는 피해가 50% 증가한다. 해당 효과는 고유 특성 「밤그늘의 공감각」을 해금해야 한다",
-                                                                        "description":  "원소전투 스킬 밤빛 줄의 영혼공이 추가로 2회 튕긴다.\n또한 영혼공이 적에게 명중 후, 해당 적에게 「검은 밤」 효과를 부여한다. 지속 시간: 12초. 「검은 밤」 효과의 영향을 받고 있는 적에게 고유 특성 「밤그늘의 공감각」이 발동한 「초감각」으로 주는 피해가 50% 증가한다. 해당 효과는 고유 특성 「밤그늘의 공감각」을 해금해야 한다"
+                                                                        "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e밤빛 줄\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e영혼공\u003c/color\u003e이 추가로 2회 튕긴다.\n또한 \u003ccolor=#FFD780FF\u003e영혼공\u003c/color\u003e이 적에게 명중 후, 해당 적에게 「검은 밤」 효과를 부여한다. 지속 시간: 12초. 「검은 밤」 효과의 영향을 받고 있는 적에게 돌파 특성 「밤그늘의 공감각」이 발동한 「초감각」으로 주는 피해가 50% 증가한다. 해당 효과는 돌파 특성 「밤그늘의 공감각」을 해금해야 한다",
+                                                                        "description":  "원소전투 스킬 밤빛 줄의 영혼공이 추가로 2회 튕긴다.\n또한 영혼공이 적에게 명중 후, 해당 적에게 「검은 밤」 효과를 부여한다. 지속 시간: 12초. 「검은 밤」 효과의 영향을 받고 있는 적에게 돌파 특성 「밤그늘의 공감각」이 발동한 「초감각」으로 주는 피해가 50% 증가한다. 해당 효과는 돌파 특성 「밤그늘의 공감각」을 해금해야 한다"
                                                                     }
                                                          },
                                       "elementText":  "번개",
@@ -4659,13 +4770,13 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "전력을 다하는 말라니!",
-                                                                         "descriptionRaw":  "밤혼 가호 상태 진입 시, 말라니는 \u003ccolor=#FFD780FF\u003e파도를 가르는 샤크\u003c/color\u003e의 파도 기세를 2스택 획득한다. 말라니가 빵빵볼 획득 시, 파도 기세를 1스택 획득한다.\n또한 말라니가 한 번의 밤혼 가호 기간 동안 빵빵볼을 2개 획득하면, 2초 동안 추가로 밤혼 12pt를 회복한다.\n고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다",
-                                                                         "description":  "밤혼 가호 상태 진입 시, 말라니는 파도를 가르는 샤크의 파도 기세를 2스택 획득한다. 말라니가 빵빵볼 획득 시, 파도 기세를 1스택 획득한다.\n또한 말라니가 한 번의 밤혼 가호 기간 동안 빵빵볼을 2개 획득하면, 2초 동안 추가로 밤혼 12pt를 회복한다.\n고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다"
+                                                                         "descriptionRaw":  "밤혼 가호 상태 진입 시, 말라니는 \u003ccolor=#FFD780FF\u003e파도를 가르는 샤크\u003c/color\u003e의 파도 기세를 2스택 획득한다. 말라니가 빵빵볼 획득 시, 파도 기세를 1스택 획득한다.\n또한 말라니가 한 번의 밤혼 가호 기간 동안 빵빵볼을 2개 획득하면, 2초 동안 추가로 밤혼 12pt를 회복한다.\n돌파 특성 「내열 타입 민물 빵빵이」를 해금해야 한다",
+                                                                         "description":  "밤혼 가호 상태 진입 시, 말라니는 파도를 가르는 샤크의 파도 기세를 2스택 획득한다. 말라니가 빵빵볼 획득 시, 파도 기세를 1스택 획득한다.\n또한 말라니가 한 번의 밤혼 가호 기간 동안 빵빵볼을 2개 획득하면, 2초 동안 추가로 밤혼 12pt를 회복한다.\n돌파 특성 「내열 타입 민물 빵빵이」를 해금해야 한다"
                                                                      },
                                                               "c4":  {
                                                                          "name":  "샤크의 주식은 빵빵이",
-                                                                         "descriptionRaw":  "빵빵볼 획득 시, 말라니가 원소 에너지를 8pt 회복한다. 해당 효과는 고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다.\n또한 \u003ccolor=#FFD780FF\u003e보글보글탄\u003c/color\u003e으로 주는 피해가 75% 증가한다",
-                                                                         "description":  "빵빵볼 획득 시, 말라니가 원소 에너지를 8pt 회복한다. 해당 효과는 고유 특성 「내열 타입 민물 빵빵이」를 해금해야 한다.\n또한 보글보글탄으로 주는 피해가 75% 증가한다"
+                                                                         "descriptionRaw":  "빵빵볼 획득 시, 말라니가 원소 에너지를 8pt 회복한다. 해당 효과는 돌파 특성 「내열 타입 민물 빵빵이」를 해금해야 한다.\n또한 \u003ccolor=#FFD780FF\u003e보글보글탄\u003c/color\u003e으로 주는 피해가 75% 증가한다",
+                                                                         "description":  "빵빵볼 획득 시, 말라니가 원소 에너지를 8pt 회복한다. 해당 효과는 돌파 특성 「내열 타입 민물 빵빵이」를 해금해야 한다.\n또한 보글보글탄으로 주는 피해가 75% 증가한다"
                                                                      },
                                                               "c3":  {
                                                                          "name":  "즐거운 바다 서핑",
@@ -4700,8 +4811,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "언덕과 산림을 지나",
-                                                                        "descriptionRaw":  "고유 특성 「되돌아오는 잎새」가 다음과 같이 전환된다:\n\u003ccolor=#FFD780FF\u003e부메랑\u003c/color\u003e이 되돌아올 때, 캐릭터에게 고유 특성 「되돌아오는 잎새」의 「신엽」 상태가 부여되고, 지속적으로 자신의 주변에 있는 적에게 콜레이 공격력의 40%에 해당하는 \u003ccolor=#99FF88FF\u003e풀 원소 피해\u003c/color\u003e를 준다. 지속 시간: 3초.\n\u003ccolor=#FFD780FF\u003e스쳐 지나가는 풀잎\u003c/color\u003e이 발동된 후 신엽 상태가 사라지기 전에 파티 내 자신의 캐릭터가 연소, 활성, 촉진, 발산, 개화, 만개, 발화 또는 달 개화 반응을 발동할 경우 해당 신엽 효과의 지속 시간이 3초 증가한다.\n신엽 효과는 해당 방식으로 최대 1회까지 지속 시간이 연장된다. 신엽 효과의 지속 시간 동안 새로운 신엽 효과가 생성되면 원래 있던 효과는 사라진다. 신엽 효과로 주는 피해는 원소전투 스킬 피해로 취급한다.\n고유 특성 「되돌아오는 잎새」를 해금해야 한다",
-                                                                        "description":  "고유 특성 「되돌아오는 잎새」가 다음과 같이 전환된다:\n부메랑이 되돌아올 때, 캐릭터에게 고유 특성 「되돌아오는 잎새」의 「신엽」 상태가 부여되고, 지속적으로 자신의 주변에 있는 적에게 콜레이 공격력의 40%에 해당하는 풀 원소 피해를 준다. 지속 시간: 3초.\n스쳐 지나가는 풀잎이 발동된 후 신엽 상태가 사라지기 전에 파티 내 자신의 캐릭터가 연소, 활성, 촉진, 발산, 개화, 만개, 발화 또는 달 개화 반응을 발동할 경우 해당 신엽 효과의 지속 시간이 3초 증가한다.\n신엽 효과는 해당 방식으로 최대 1회까지 지속 시간이 연장된다. 신엽 효과의 지속 시간 동안 새로운 신엽 효과가 생성되면 원래 있던 효과는 사라진다. 신엽 효과로 주는 피해는 원소전투 스킬 피해로 취급한다.\n고유 특성 「되돌아오는 잎새」를 해금해야 한다"
+                                                                        "descriptionRaw":  "돌파 특성 「되돌아오는 잎새」가 다음과 같이 전환된다:\n\u003ccolor=#FFD780FF\u003e부메랑\u003c/color\u003e이 되돌아올 때, 캐릭터에게 돌파 특성 「되돌아오는 잎새」의 「신엽」 상태가 부여되고, 지속적으로 자신의 주변에 있는 적에게 콜레이 공격력의 40%에 해당하는 \u003ccolor=#99FF88FF\u003e풀 원소 피해\u003c/color\u003e를 준다. 지속 시간: 3초.\n\u003ccolor=#FFD780FF\u003e스쳐 지나가는 풀잎\u003c/color\u003e이 발동된 후 신엽 상태가 사라지기 전에 파티 내 자신의 캐릭터가 연소, 활성, 촉진, 발산, 개화, 만개, 발화 또는 달 개화 반응을 발동할 경우 해당 신엽 효과의 지속 시간이 3초 증가한다.\n신엽 효과는 해당 방식으로 최대 1회까지 지속 시간이 연장된다. 신엽 효과의 지속 시간 동안 새로운 신엽 효과가 생성되면 원래 있던 효과는 사라진다. 신엽 효과로 주는 피해는 원소전투 스킬 피해로 취급한다.\n돌파 특성 「되돌아오는 잎새」를 해금해야 한다",
+                                                                        "description":  "돌파 특성 「되돌아오는 잎새」가 다음과 같이 전환된다:\n부메랑이 되돌아올 때, 캐릭터에게 돌파 특성 「되돌아오는 잎새」의 「신엽」 상태가 부여되고, 지속적으로 자신의 주변에 있는 적에게 콜레이 공격력의 40%에 해당하는 풀 원소 피해를 준다. 지속 시간: 3초.\n스쳐 지나가는 풀잎이 발동된 후 신엽 상태가 사라지기 전에 파티 내 자신의 캐릭터가 연소, 활성, 촉진, 발산, 개화, 만개, 발화 또는 달 개화 반응을 발동할 경우 해당 신엽 효과의 지속 시간이 3초 증가한다.\n신엽 효과는 해당 방식으로 최대 1회까지 지속 시간이 연장된다. 신엽 효과의 지속 시간 동안 새로운 신엽 효과가 생성되면 원래 있던 효과는 사라진다. 신엽 효과로 주는 피해는 원소전투 스킬 피해로 취급한다.\n돌파 특성 「되돌아오는 잎새」를 해금해야 한다"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "숲의 선물",
@@ -4782,8 +4893,8 @@
                                     "constellations":  {
                                                            "c2":  {
                                                                       "name":  "여행길 동반",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e별서리 소용돌이\u003c/color\u003e의 서리흐름 화살이 처음으로 적에게 명중하거나 얼음별 비콘이 적에게 명중 시, 고유 특성 「견제 사격」의 탐지 효과를 1스택 생성한다.\n고유 특성 「견제 사격」을 해금해야 한다",
-                                                                      "description":  "별서리 소용돌이의 서리흐름 화살이 처음으로 적에게 명중하거나 얼음별 비콘이 적에게 명중 시, 고유 특성 「견제 사격」의 탐지 효과를 1스택 생성한다.\n고유 특성 「견제 사격」을 해금해야 한다"
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e별서리 소용돌이\u003c/color\u003e의 서리흐름 화살이 처음으로 적에게 명중하거나 얼음별 비콘이 적에게 명중 시, 돌파 특성 「견제 사격」의 탐지 효과를 1스택 생성한다.\n돌파 특성 「견제 사격」을 해금해야 한다",
+                                                                      "description":  "별서리 소용돌이의 서리흐름 화살이 처음으로 적에게 명중하거나 얼음별 비콘이 적에게 명중 시, 돌파 특성 「견제 사격」의 탐지 효과를 1스택 생성한다.\n돌파 특성 「견제 사격」을 해금해야 한다"
                                                                   },
                                                            "c4":  {
                                                                       "name":  "맑은 서리 축복",
@@ -4802,8 +4913,8 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "동반 도우미",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e별서리 소용돌이\u003c/color\u003e의 영혼의 바람 상태에서 탐지 효과 최대 중첩수가 1스택 증가한다. 고유 특성 「견제 사격」을 해금해야 한다.\n또한 영혼의 바람 상태인 필드 위 캐릭터 물리 피해의 치명타 피해가 60% 증가한다",
-                                                                      "description":  "별서리 소용돌이의 영혼의 바람 상태에서 탐지 효과 최대 중첩수가 1스택 증가한다. 고유 특성 「견제 사격」을 해금해야 한다.\n또한 영혼의 바람 상태인 필드 위 캐릭터 물리 피해의 치명타 피해가 60% 증가한다"
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e별서리 소용돌이\u003c/color\u003e의 영혼의 바람 상태에서 탐지 효과 최대 중첩수가 1스택 증가한다. 돌파 특성 「견제 사격」을 해금해야 한다.\n또한 영혼의 바람 상태인 현재 필드 위 캐릭터 물리 피해의 치명타 피해가 60% 증가한다",
+                                                                      "description":  "별서리 소용돌이의 영혼의 바람 상태에서 탐지 효과 최대 중첩수가 1스택 증가한다. 돌파 특성 「견제 사격」을 해금해야 한다.\n또한 영혼의 바람 상태인 현재 필드 위 캐릭터 물리 피해의 치명타 피해가 60% 증가한다"
                                                                   },
                                                            "c1":  {
                                                                       "name":  "마주친 인연",
@@ -4843,8 +4954,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "알레브리헤 형상",
-                                                                        "descriptionRaw":  "비늘 관통포가 적에게 명중 후, 적 사이에서 1회 튕기고 키니치의 공격력의 700%에 해당하는 \u003ccolor=#99FF88FF\u003e풀 원소 피해\u003c/color\u003e를 준다.\n이번 비늘 관통포가 고유 특성 「화염령의 계약」 또는 운명의 자리 「길앞잡이 턱」의 비늘 관통포 강화 효과를 받았다면, 비늘 관통포가 발동한 튕기는 공격도 상술한 강화 효과를 받는다",
-                                                                        "description":  "비늘 관통포가 적에게 명중 후, 적 사이에서 1회 튕기고 키니치의 공격력의 700%에 해당하는 풀 원소 피해를 준다.\n이번 비늘 관통포가 고유 특성 「화염령의 계약」 또는 운명의 자리 「길앞잡이 턱」의 비늘 관통포 강화 효과를 받았다면, 비늘 관통포가 발동한 튕기는 공격도 상술한 강화 효과를 받는다"
+                                                                        "descriptionRaw":  "비늘 관통포가 적에게 명중 후, 적 사이에서 1회 튕기고 키니치의 공격력의 700%에 해당하는 \u003ccolor=#99FF88FF\u003e풀 원소 피해\u003c/color\u003e를 준다.\n이번 비늘 관통포가 돌파 특성 「화염령의 계약」 또는 운명의 자리 「길앞잡이 턱」의 비늘 관통포 강화 효과를 받았다면, 비늘 관통포가 발동한 튕기는 공격도 상술한 강화 효과를 받는다",
+                                                                        "description":  "비늘 관통포가 적에게 명중 후, 적 사이에서 1회 튕기고 키니치의 공격력의 700%에 해당하는 풀 원소 피해를 준다.\n이번 비늘 관통포가 돌파 특성 「화염령의 계약」 또는 운명의 자리 「길앞잡이 턱」의 비늘 관통포 강화 효과를 받았다면, 비늘 관통포가 발동한 튕기는 공격도 상술한 강화 효과를 받는다"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "앵무새 부리",
@@ -4864,8 +4975,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "침묵의 파피루스 경전",
-                                                                        "descriptionRaw":  "아래 임의 조건 중 하나를 충족 시, 세토스의 \u003ccolor=#FFACFFFF\u003e번개 원소 피해 보너스\u003c/color\u003e가 15% 증가한다. 지속 시간: 10초, 최대 중첩수: 2스택. 스택마다 지속 시간은 독립적으로 계산된다:\n·조준 사격으로 원소 에너지 소모. 해당 효과는 고유 특성 「솔개의 수수께끼」를 해금해야 한다.\n·\u003ccolor=#FFD780FF\u003e고대 의식·울리는 천둥과 모래\u003c/color\u003e로 원소 반응을 발동해 원소 에너지 회복.\n·\u003ccolor=#FFD780FF\u003e비밀 의식·그림자를 꿰뚫는 황혼\u003c/color\u003e 발동",
-                                                                        "description":  "아래 임의 조건 중 하나를 충족 시, 세토스의 번개 원소 피해 보너스가 15% 증가한다. 지속 시간: 10초, 최대 중첩수: 2스택. 스택마다 지속 시간은 독립적으로 계산된다:\n·조준 사격으로 원소 에너지 소모. 해당 효과는 고유 특성 「솔개의 수수께끼」를 해금해야 한다.\n·고대 의식·울리는 천둥과 모래로 원소 반응을 발동해 원소 에너지 회복.\n·비밀 의식·그림자를 꿰뚫는 황혼 발동"
+                                                                        "descriptionRaw":  "아래 임의 조건 중 하나를 충족 시, 세토스의 \u003ccolor=#FFACFFFF\u003e번개 원소 피해 보너스\u003c/color\u003e가 15% 증가한다. 지속 시간: 10초, 최대 중첩수: 2스택. 스택마다 지속 시간은 독립적으로 계산된다:\n·조준 사격으로 원소 에너지 소모. 해당 효과는 돌파 특성 「솔개의 수수께끼」를 해금해야 한다.\n·\u003ccolor=#FFD780FF\u003e고대 의식·울리는 천둥과 모래\u003c/color\u003e로 원소 반응을 발동해 원소 에너지 회복.\n·\u003ccolor=#FFD780FF\u003e비밀 의식·그림자를 꿰뚫는 황혼\u003c/color\u003e 발동",
+                                                                        "description":  "아래 임의 조건 중 하나를 충족 시, 세토스의 번개 원소 피해 보너스가 15% 증가한다. 지속 시간: 10초, 최대 중첩수: 2스택. 스택마다 지속 시간은 독립적으로 계산된다:\n·조준 사격으로 원소 에너지 소모. 해당 효과는 돌파 특성 「솔개의 수수께끼」를 해금해야 한다.\n·고대 의식·울리는 천둥과 모래로 원소 반응을 발동해 원소 에너지 회복.\n·비밀 의식·그림자를 꿰뚫는 황혼 발동"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "자비로운 타조 깃털",
@@ -4884,8 +4995,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "순환하는 태양의 파일론",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e그림자 관통 화살\u003c/color\u003e이 적에게 명중한 후, 고유 특성 「솔개의 수수께끼」로 소모한 원소 에너지가 반환된다. 해당 효과는 15초마다 최대 1회 발동된다. 고유 특성 「솔개의 수수께끼」를 해금해야 한다",
-                                                                        "description":  "그림자 관통 화살이 적에게 명중한 후, 고유 특성 「솔개의 수수께끼」로 소모한 원소 에너지가 반환된다. 해당 효과는 15초마다 최대 1회 발동된다. 고유 특성 「솔개의 수수께끼」를 해금해야 한다"
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e그림자 관통 화살\u003c/color\u003e이 적에게 명중한 후, 돌파 특성 「솔개의 수수께끼」로 소모한 원소 에너지가 반환된다. 해당 효과는 15초마다 최대 1회 발동된다. 돌파 특성 「솔개의 수수께끼」를 해금해야 한다",
+                                                                        "description":  "그림자 관통 화살이 적에게 명중한 후, 돌파 특성 「솔개의 수수께끼」로 소모한 원소 에너지가 반환된다. 해당 효과는 15초마다 최대 1회 발동된다. 돌파 특성 「솔개의 수수께끼」를 해금해야 한다"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "봉인된 감실의 진혼가",
@@ -5154,8 +5265,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "심장을 삼키는 자의 순행",
-                                                                         "descriptionRaw":  "시틀라리의 원소 마스터리가 125pt 증가하고, 하얀빛 보호막의 보호를 받고 있거나 이즈파파가 따라다니고 있는 다른 캐릭터의 원소 마스터리가 250pt 증가한다.\n또한 원소전투 스킬 \u003ccolor=#FFD780FF\u003e검은 서리별\u003c/color\u003e 발동 시, 주변에 있는 현재 필드 위 캐릭터에게 하얀빛 보호막을 부여한다.\n\n또한 고유 특성 「다섯 번째 하늘의 서리비」 효과가 증가한다:\n이즈파파 존재 기간 동안, 주변에 있는 파티 내 캐릭터가 빙결 또는 융해 반응 발동 후, 이번 반응의 영향을 받은 적의 \u003ccolor=#FF9999FF\u003e불 원소\u003c/color\u003e와 \u003ccolor=#80C0FFFF\u003e물 원소\u003c/color\u003e 내성이 추가로 20% 감소한다, 지속 시간: 12초. 해당 효과는 고유 특성 「다섯 번째 하늘의 서리비」를 해금해야 한다",
-                                                                         "description":  "시틀라리의 원소 마스터리가 125pt 증가하고, 하얀빛 보호막의 보호를 받고 있거나 이즈파파가 따라다니고 있는 다른 캐릭터의 원소 마스터리가 250pt 증가한다.\n또한 원소전투 스킬 검은 서리별 발동 시, 주변에 있는 현재 필드 위 캐릭터에게 하얀빛 보호막을 부여한다.\n\n또한 고유 특성 「다섯 번째 하늘의 서리비」 효과가 증가한다:\n이즈파파 존재 기간 동안, 주변에 있는 파티 내 캐릭터가 빙결 또는 융해 반응 발동 후, 이번 반응의 영향을 받은 적의 불 원소와 물 원소 내성이 추가로 20% 감소한다, 지속 시간: 12초. 해당 효과는 고유 특성 「다섯 번째 하늘의 서리비」를 해금해야 한다"
+                                                                         "descriptionRaw":  "시틀라리의 원소 마스터리가 125pt 증가하고, 하얀빛 보호막의 보호를 받고 있거나 이즈파파가 따라다니고 있는 다른 캐릭터의 원소 마스터리가 250pt 증가한다.\n또한 원소전투 스킬 \u003ccolor=#FFD780FF\u003e검은 서리별\u003c/color\u003e 발동 시, 주변에 있는 현재 필드 위 캐릭터에게 하얀빛 보호막을 부여한다.\n\n또한 돌파 특성 「다섯 번째 하늘의 서리비」 효과가 증가한다:\n이즈파파 존재 기간 동안, 주변에 있는 파티 내 캐릭터가 빙결 또는 융해 반응 발동 후, 이번 반응의 영향을 받은 적의 \u003ccolor=#FF9999FF\u003e불 원소\u003c/color\u003e와 \u003ccolor=#80C0FFFF\u003e물 원소\u003c/color\u003e 내성이 추가로 20% 감소한다, 지속 시간: 12초. 해당 효과는 돌파 특성 「다섯 번째 하늘의 서리비」를 해금해야 한다",
+                                                                         "description":  "시틀라리의 원소 마스터리가 125pt 증가하고, 하얀빛 보호막의 보호를 받고 있거나 이즈파파가 따라다니고 있는 다른 캐릭터의 원소 마스터리가 250pt 증가한다.\n또한 원소전투 스킬 검은 서리별 발동 시, 주변에 있는 현재 필드 위 캐릭터에게 하얀빛 보호막을 부여한다.\n\n또한 돌파 특성 「다섯 번째 하늘의 서리비」 효과가 증가한다:\n이즈파파 존재 기간 동안, 주변에 있는 파티 내 캐릭터가 빙결 또는 융해 반응 발동 후, 이번 반응의 영향을 받은 적의 불 원소와 물 원소 내성이 추가로 20% 감소한다, 지속 시간: 12초. 해당 효과는 돌파 특성 「다섯 번째 하늘의 서리비」를 해금해야 한다"
                                                                      },
                                                               "c4":  {
                                                                          "name":  "죽음을 거부하는 자의 영혼 해골",
@@ -5384,8 +5495,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "전선을 굳히는 패기",
-                                                                           "descriptionRaw":  "「협동 전술」 상태의 현재 필드 위 캐릭터(슈브르즈 자신 제외)가 과부하 반응 발동 시 원소 에너지를 6pt 회복한다. 해당 효과는 10초마다 최대 1회 발동된다.\n고유 특성 「선봉 협동 전술」을 해금해야 한다",
-                                                                           "description":  "「협동 전술」 상태의 현재 필드 위 캐릭터(슈브르즈 자신 제외)가 과부하 반응 발동 시 원소 에너지를 6pt 회복한다. 해당 효과는 10초마다 최대 1회 발동된다.\n고유 특성 「선봉 협동 전술」을 해금해야 한다"
+                                                                           "descriptionRaw":  "「협동 전술」 상태의 현재 필드 위 캐릭터(슈브르즈 자신 제외)가 과부하 반응 발동 시 원소 에너지를 6pt 회복한다. 해당 효과는 10초마다 최대 1회 발동된다.\n돌파 특성 「선봉 협동 전술」을 해금해야 한다",
+                                                                           "description":  "「협동 전술」 상태의 현재 필드 위 캐릭터(슈브르즈 자신 제외)가 과부하 반응 발동 시 원소 에너지를 6pt 회복한다. 해당 효과는 10초마다 최대 1회 발동된다.\n돌파 특성 「선봉 협동 전술」을 해금해야 한다"
                                                                        }
                                                             },
                                          "elementText":  "불",
@@ -5749,8 +5860,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "먼지와 역장의 평행이론",
-                                                                      "descriptionRaw":  "아이노가 \u003ccolor=#FFD780FF\u003e{LINK#S11212}아이디어 집게{/LINK}\u003c/color\u003e 또는 원소폭발 \u003ccolor=#FFD780FF\u003e{LINK#S11215}정밀 냉수기{/LINK}\u003c/color\u003e 발동 후, 아이노 자신의 원소 마스터리가 80pt 증가하고 주변의 현재 필드 위 다른 캐릭터의 원소 마스터리가 80pt 증가한다, 지속 시간: 15초.\n\n해당 운명의 자리로 획득한 원소 마스터리 증가 효과는 중첩되지 않는다",
-                                                                      "description":  "아이노가 **아이디어 집게** 또는 원소폭발 **정밀 냉수기** 발동 후, 아이노 자신의 원소 마스터리가 80pt 증가하고 주변의 현재 필드 위 다른 캐릭터의 원소 마스터리가 80pt 증가한다, 지속 시간: 15초.\n\n해당 운명의 자리로 획득한 원소 마스터리 증가 효과는 중첩되지 않는다"
+                                                                      "descriptionRaw":  "아이노가 원소전투 스킬 \u003ccolor=#FFD780FF\u003e{LINK#S11212}아이디어 집게{/LINK}\u003c/color\u003e 또는 원소폭발 \u003ccolor=#FFD780FF\u003e{LINK#S11215}정밀 냉수기{/LINK}\u003c/color\u003e 발동 후, 아이노 자신의 원소 마스터리가 80pt 증가하고 주변의 현재 필드 위 다른 캐릭터의 원소 마스터리가 80pt 증가한다, 지속 시간: 15초.\n\n해당 운명의 자리로 획득한 원소 마스터리 증가 효과는 중첩되지 않는다",
+                                                                      "description":  "아이노가 원소전투 스킬 **아이디어 집게** 또는 원소폭발 **정밀 냉수기** 발동 후, 아이노 자신의 원소 마스터리가 80pt 증가하고 주변의 현재 필드 위 다른 캐릭터의 원소 마스터리가 80pt 증가한다, 지속 시간: 15초.\n\n해당 운명의 자리로 획득한 원소 마스터리 증가 효과는 중첩되지 않는다"
                                                                   }
                                                        },
                                     "elementText":  "물",
@@ -5765,8 +5876,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "외딴곳에서 우는 학",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e아침 학구름\u003c/color\u003e의 하늘다리 발동 후, 한운의 공격력이 20% 증가한다. 지속 시간: 15초.\n또한 고유 특성 「동굴 속 선인?」의 효과가 증가한다: \u003ccolor=#FFD780FF\u003e밤을 수놓는 대나무별\u003c/color\u003e의 대나무별이 선력 추진 보유 시, 주변에 있는 현재 필드 위 캐릭터의 낙하 공격의 추락 충격으로 주는 피해가 증가한다. 증가량은 한운의 공격력의 400%에 해당한다. 해당 방식으로 주변에 있는 현재 필드 위 캐릭터의 낙하 공격으로 주는 추락 충격 피해가 최대 18000pt 증가한다.\n한 번의 낙하 공격으로 주는 추락 충격 피해 중, 1기의 적에게만 해당 피해 증가 효과가 적용되며 각 캐릭터는 0.4초마다 최대 1회 발동할 수 있다.\n해당 효과는 고유 특성 「동굴 속 선인?」을 해금해야 한다",
-                                                                         "description":  "아침 학구름의 하늘다리 발동 후, 한운의 공격력이 20% 증가한다. 지속 시간: 15초.\n또한 고유 특성 「동굴 속 선인?」의 효과가 증가한다: 밤을 수놓는 대나무별의 대나무별이 선력 추진 보유 시, 주변에 있는 현재 필드 위 캐릭터의 낙하 공격의 추락 충격으로 주는 피해가 증가한다. 증가량은 한운의 공격력의 400%에 해당한다. 해당 방식으로 주변에 있는 현재 필드 위 캐릭터의 낙하 공격으로 주는 추락 충격 피해가 최대 18000pt 증가한다.\n한 번의 낙하 공격으로 주는 추락 충격 피해 중, 1기의 적에게만 해당 피해 증가 효과가 적용되며 각 캐릭터는 0.4초마다 최대 1회 발동할 수 있다.\n해당 효과는 고유 특성 「동굴 속 선인?」을 해금해야 한다"
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e아침 학구름\u003c/color\u003e의 하늘다리 발동 후, 한운의 공격력이 20% 증가한다. 지속 시간: 15초.\n또한 돌파 특성 「동굴 속 선인?」의 효과가 증가한다: \u003ccolor=#FFD780FF\u003e밤을 수놓는 대나무별\u003c/color\u003e의 대나무별이 선력 추진 보유 시, 주변에 있는 현재 필드 위 캐릭터의 낙하 공격의 추락 충격으로 주는 피해가 증가한다. 증가량은 한운의 공격력의 400%에 해당한다. 해당 방식으로 주변에 있는 현재 필드 위 캐릭터의 낙하 공격으로 주는 추락 충격 피해가 최대 18000pt 증가한다.\n한 번의 낙하 공격으로 주는 추락 충격 피해 중, 1기의 적에게만 해당 피해 증가 효과가 적용되며 각 캐릭터는 0.4초마다 최대 1회 발동할 수 있다.\n해당 효과는 돌파 특성 「동굴 속 선인?」을 해금해야 한다",
+                                                                         "description":  "아침 학구름의 하늘다리 발동 후, 한운의 공격력이 20% 증가한다. 지속 시간: 15초.\n또한 돌파 특성 「동굴 속 선인?」의 효과가 증가한다: 밤을 수놓는 대나무별의 대나무별이 선력 추진 보유 시, 주변에 있는 현재 필드 위 캐릭터의 낙하 공격의 추락 충격으로 주는 피해가 증가한다. 증가량은 한운의 공격력의 400%에 해당한다. 해당 방식으로 주변에 있는 현재 필드 위 캐릭터의 낙하 공격으로 주는 추락 충격 피해가 최대 18000pt 증가한다.\n한 번의 낙하 공격으로 주는 추락 충격 피해 중, 1기의 적에게만 해당 피해 증가 효과가 적용되며 각 캐릭터는 0.4초마다 최대 1회 발동할 수 있다.\n해당 효과는 돌파 특성 「동굴 속 선인?」을 해금해야 한다"
                                                                      },
                                                               "c4":  {
                                                                          "name":  "오묘한 기장쌀 요리",
@@ -5847,8 +5958,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "호숫빛 탑 노트",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e조향\u003c/color\u003e, \u003ccolor=#FFD780FF\u003e향의 궤적\u003c/color\u003e 또는 고유 특성 「잔향」의 이슬 향료(해당 고유 특성 해금 필요)가 적에게 명중 시, 해당 적의 \u003ccolor=#99FF88FF\u003e풀 원소 내성\u003c/color\u003e이 30% 감소한다. 지속 시간: 10초",
-                                                                        "description":  "조향, 향의 궤적 또는 고유 특성 「잔향」의 이슬 향료(해당 고유 특성 해금 필요)가 적에게 명중 시, 해당 적의 풀 원소 내성이 30% 감소한다. 지속 시간: 10초"
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e조향\u003c/color\u003e, \u003ccolor=#FFD780FF\u003e향의 궤적\u003c/color\u003e 또는 돌파 특성 「잔향」의 이슬 향료(해당 돌파 특성 해금 필요)가 적에게 명중 시, 해당 적의 \u003ccolor=#99FF88FF\u003e풀 원소 내성\u003c/color\u003e이 30% 감소한다. 지속 시간: 10초",
+                                                                        "description":  "조향, 향의 궤적 또는 돌파 특성 「잔향」의 이슬 향료(해당 돌파 특성 해금 필요)가 적에게 명중 시, 해당 적의 풀 원소 내성이 30% 감소한다. 지속 시간: 10초"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "등방울 하트 노트",
@@ -5872,8 +5983,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "향기 침출",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e조향\u003c/color\u003e과 고유 특성 「잔향」의 이슬 향료가 주는 피해가 20% 증가한다. 후자는 고유 특성 「잔향」을 해금해야 한다.\n또한 주변에 있는 파티 내 캐릭터가 적에게 연소 반응 발동 또는 연소 상태의 적에게 \u003ccolor=#99FF88FF\u003e풀 원소 피해\u003c/color\u003e를 줄 시, 추가로 \u003ccolor=#FFD780FF\u003e향조\u003c/color\u003e를 1개 생성한다. 해당 효과는 2.9초마다 최대 1회 발동한다",
-                                                                        "description":  "조향과 고유 특성 「잔향」의 이슬 향료가 주는 피해가 20% 증가한다. 후자는 고유 특성 「잔향」을 해금해야 한다.\n또한 주변에 있는 파티 내 캐릭터가 적에게 연소 반응 발동 또는 연소 상태의 적에게 풀 원소 피해를 줄 시, 추가로 향조를 1개 생성한다. 해당 효과는 2.9초마다 최대 1회 발동한다"
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e조향\u003c/color\u003e과 돌파 특성 「잔향」의 이슬 향료가 주는 피해가 20% 증가한다. 후자는 돌파 특성 「잔향」을 해금해야 한다.\n또한 주변에 있는 파티 내 캐릭터가 적에게 연소 반응 발동 또는 연소 상태의 적에게 \u003ccolor=#99FF88FF\u003e풀 원소 피해\u003c/color\u003e를 줄 시, 추가로 \u003ccolor=#FFD780FF\u003e향조\u003c/color\u003e를 1개 생성한다. 해당 효과는 2.9초마다 최대 1회 발동한다",
+                                                                        "description":  "조향과 돌파 특성 「잔향」의 이슬 향료가 주는 피해가 20% 증가한다. 후자는 돌파 특성 「잔향」을 해금해야 한다.\n또한 주변에 있는 파티 내 캐릭터가 적에게 연소 반응 발동 또는 연소 상태의 적에게 풀 원소 피해를 줄 시, 추가로 향조를 1개 생성한다. 해당 효과는 2.9초마다 최대 1회 발동한다"
                                                                     }
                                                          },
                                       "elementText":  "풀",
@@ -6246,6 +6357,47 @@
                                      "region":  "폰타인",
                                      "gender":  "남성"
                                  },
+                       "nefer":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "관찰은 계획의 초석",
+                                                                       "descriptionRaw":  "돌파 특성 {LINK#P1222101}\u003ccolor=#FFD780FF\u003e「달빛 승부사」\u003c/color\u003e{/LINK}의 효과가 강화된다: {LINK#N11220003}\u003ccolor=#FFD780FF\u003e「기만의 장막」\u003c/color\u003e{/LINK}의 지속 시간이 5초 연장되고, 스택 최대치가 5스택으로 증가한다. 또한 {LINK#N11220002}\u003ccolor=#FFD780FF\u003e환영극\u003c/color\u003e{/LINK}이 최대 기존의 140%에 해당하는 피해를 준다. 네페르가 원소전투 스킬 \u003ccolor=#FFD780FF\u003e{LINK#S11222}대국·천일 밤의 춤{/LINK}\u003c/color\u003e을 발동하면 즉시 「기만의 장막」을 2스택 획득하고, 「기만의 장막」이 5스택을 달성하거나 5스택의 지속 시간이 갱신되면 네페르의 원소 마스터리 증가 효과가 200pt로 변경된다. 지속 시간: 8초\n돌파 특성 「달빛 승부사」를 해금해야 한다",
+                                                                       "description":  "돌파 특성 **「달빛 승부사」**의 효과가 강화된다: **「기만의 장막」**의 지속 시간이 5초 연장되고, 스택 최대치가 5스택으로 증가한다. 또한 **환영극**이 최대 기존의 140%에 해당하는 피해를 준다. 네페르가 원소전투 스킬 **대국·천일 밤의 춤**을 발동하면 즉시 「기만의 장막」을 2스택 획득하고, 「기만의 장막」이 5스택을 달성하거나 5스택의 지속 시간이 갱신되면 네페르의 원소 마스터리 증가 효과가 200pt로 변경된다. 지속 시간: 8초\n돌파 특성 「달빛 승부사」를 해금해야 한다"
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "마음을 홀리는 함정",
+                                                                       "descriptionRaw":  "네페르가 필드 위에서 {LINK#N11220001}\u003ccolor=#FFD780FF\u003e「그림자 춤」\u003c/color\u003e{/LINK} 상태일 때 풀 이슬 획득 속도가 25% 증가한다.\n또한, 네페르가 「그림자 춤」 상태일 때 주변에 있는 적의 \u003ccolor=#99FF88FF\u003e풀 원소 내성\u003c/color\u003e이 20% 감소한다. 해당 효과는 네페르가 「그림자 춤」 상태가 아니거나, 적과 일정 거리 이상 멀어지면 4.5초 후에 사라진다",
+                                                                       "description":  "네페르가 필드 위에서 **「그림자 춤」** 상태일 때 풀 이슬 획득 속도가 25% 증가한다.\n또한, 네페르가 「그림자 춤」 상태일 때 주변에 있는 적의 풀 원소 내성이 20% 감소한다. 해당 효과는 네페르가 「그림자 춤」 상태가 아니거나, 적과 일정 거리 이상 멀어지면 4.5초 후에 사라진다"
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "진실을 가리는 거짓",
+                                                                       "descriptionRaw":  "원소전투 스킬 \u003ccolor=#FFD780FF\u003e{LINK#S11222}대국·천일 밤의 춤{/LINK}\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                       "description":  "원소전투 스킬 **대국·천일 밤의 춤**의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "기회를 포착한 순간",
+                                                                       "descriptionRaw":  "원소폭발 \u003ccolor=#FFD780FF\u003e{LINK#S11225}성약·진실의 눈동자{/LINK}\u003c/color\u003e의 스킬 레벨+3\n최대 Lv.15까지 상승",
+                                                                       "description":  "원소폭발 **성약·진실의 눈동자**의 스킬 레벨+3\n최대 Lv.15까지 상승"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "거머쥔 역전의 승리",
+                                                                       "descriptionRaw":  "네페르가 {LINK#N11220002}\u003ccolor=#FFD780FF\u003e환영극\u003c/color\u003e{/LINK} 발동 시, 자신의 제2단 공격 피해가 네페르 원소 마스터리의 85%에 해당하는 \u003ccolor=#99FF88FF\u003e풀 원소 범위 피해\u003c/color\u003e로 전환된다. 또한, 환영극 공격 종료 시, 네페르 원소 마스터리의 120%에 해당하는 \u003ccolor=#99FF88FF\u003e풀 원소 범위 피해\u003c/color\u003e를 1회 준다. 상술한 피해는 모두 환영극으로 주는 달 개화 반응 피해로 간주한다.\n\n\u003ccolor=#FFD780FF\u003e달빛 징조·보름\u003c/color\u003e\n네페르가 주는 달빛 개화 반응 피해가 15% {LINK#N11190007}\u003ccolor=#FFD780FF\u003e승격\u003c/color\u003e{/LINK}된다",
+                                                                       "description":  "네페르가 **환영극** 발동 시, 자신의 제2단 공격 피해가 네페르 원소 마스터리의 85%에 해당하는 풀 원소 범위 피해로 전환된다. 또한, 환영극 공격 종료 시, 네페르 원소 마스터리의 120%에 해당하는 풀 원소 범위 피해를 1회 준다. 상술한 피해는 모두 환영극으로 주는 달 개화 반응 피해로 간주한다.\n\n달빛 징조·보름\n네페르가 주는 달빛 개화 반응 피해가 15% **승격**된다"
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "계획은 성공의 시작",
+                                                                       "descriptionRaw":  "네페르의 {LINK#N11220002}\u003ccolor=#FFD780FF\u003e환영극\u003c/color\u003e{/LINK}으로 주는 달 개화 반응의 기본 피해가 네페르 원소 마스터리의 60%만큼 증가한다. 해당 효과도 {LINK#N11220003}\u003ccolor=#FFD780FF\u003e「기만의 장막」\u003c/color\u003e{/LINK} 보너스의 영향을 받는다",
+                                                                       "description":  "네페르의 **환영극**으로 주는 달 개화 반응의 기본 피해가 네페르 원소 마스터리의 60%만큼 증가한다. 해당 효과도 **「기만의 장막」** 보너스의 영향을 받는다"
+                                                                   }
+                                                        },
+                                     "elementText":  "풀",
+                                     "fullname":  null,
+                                     "weaponText":  "법구",
+                                     "name":  "네페르",
+                                     "substatText":  "치명타 피해",
+                                     "region":  "노드크라이",
+                                     "gender":  "여성"
+                                 },
                        "aloy":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6357,8 +6509,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "「구름 사이에 그대가 보이네」",
-                                                                        "descriptionRaw":  "고유 특성 「사방 봉인검의 점괘」의 원소 전환 발동 후, 남연이 이번 원소전투 스킬 \u003ccolor=#FFD780FF\u003e현조의 날갯짓\u003c/color\u003e의 달빛 제비 고리를 적에게 투척 시, 추가로 달빛 제비 고리를 1개 더 투척한다.\n고유 특성 「사방 봉인검의 점괘」를 해금해야 한다",
-                                                                        "description":  "고유 특성 「사방 봉인검의 점괘」의 원소 전환 발동 후, 남연이 이번 원소전투 스킬 현조의 날갯짓의 달빛 제비 고리를 적에게 투척 시, 추가로 달빛 제비 고리를 1개 더 투척한다.\n고유 특성 「사방 봉인검의 점괘」를 해금해야 한다"
+                                                                        "descriptionRaw":  "돌파 특성 「사방 봉인검의 점괘」의 원소 전환 발동 후, 남연이 이번 원소전투 스킬 \u003ccolor=#FFD780FF\u003e현조의 날갯짓\u003c/color\u003e의 달빛 제비 고리를 적에게 투척 시, 추가로 달빛 제비 고리를 1개 더 투척한다.\n돌파 특성 「사방 봉인검의 점괘」를 해금해야 한다",
+                                                                        "description":  "돌파 특성 「사방 봉인검의 점괘」의 원소 전환 발동 후, 남연이 이번 원소전투 스킬 현조의 날갯짓의 달빛 제비 고리를 적에게 투척 시, 추가로 달빛 제비 고리를 1개 더 투척한다.\n돌파 특성 「사방 봉인검의 점괘」를 해금해야 한다"
                                                                     }
                                                          },
                                       "elementText":  "바람",
@@ -6504,8 +6656,8 @@
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "로즈마리 비밀 레시피",
-                                                                           "descriptionRaw":  "{LINK#P1122101}\u003ccolor=#FFD780FF\u003e식이요법\u003c/color\u003e{/LINK}의 지속 시간이 6초 연장된다. 지속 시간 동안 \u003ccolor=#FFD780FF\u003e식이요법\u003c/color\u003e을 통해 치유 발동 시, 일정 확률로 치유량이 100% 증가하고 에스코피에가 원소 에너지를 2pt 회복한다. 확률은 에스코피에 자신의 치명타 확률과 동일하다. 한 번의 \u003ccolor=#FFD780FF\u003e식이요법\u003c/color\u003e 지속 시간 동안 해당 효과는 최대 7회 발동된다.\n고유 특성 「밥이 보약」을 해금해야 한다",
-                                                                           "description":  "**식이요법**의 지속 시간이 6초 연장된다. 지속 시간 동안 식이요법을 통해 치유 발동 시, 일정 확률로 치유량이 100% 증가하고 에스코피에가 원소 에너지를 2pt 회복한다. 확률은 에스코피에 자신의 치명타 확률과 동일하다. 한 번의 식이요법 지속 시간 동안 해당 효과는 최대 7회 발동된다.\n고유 특성 「밥이 보약」을 해금해야 한다"
+                                                                           "descriptionRaw":  "{LINK#P1122101}\u003ccolor=#FFD780FF\u003e식이요법\u003c/color\u003e{/LINK}의 지속 시간이 6초 연장된다. 지속 시간 동안 \u003ccolor=#FFD780FF\u003e식이요법\u003c/color\u003e을 통해 치유 발동 시, 일정 확률로 치유량이 100% 증가하고 에스코피에가 원소 에너지를 2pt 회복한다. 확률은 에스코피에 자신의 치명타 확률과 동일하다. 한 번의 \u003ccolor=#FFD780FF\u003e식이요법\u003c/color\u003e 지속 시간 동안 해당 효과는 최대 7회 발동된다.\n돌파 특성 「밥이 보약」을 해금해야 한다",
+                                                                           "description":  "**식이요법**의 지속 시간이 6초 연장된다. 지속 시간 동안 식이요법을 통해 치유 발동 시, 일정 확률로 치유량이 100% 증가하고 에스코피에가 원소 에너지를 2pt 회복한다. 확률은 에스코피에 자신의 치명타 확률과 동일하다. 한 번의 식이요법 지속 시간 동안 해당 효과는 최대 7회 발동된다.\n돌파 특성 「밥이 보약」을 해금해야 한다"
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "캐러멜화의 마법",
@@ -6524,8 +6676,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "미각을 깨우는 식전 공연",
-                                                                           "descriptionRaw":  "파티 내 캐릭터 4명의 원소 타입이 모두 \u003ccolor=#80C0FFFF\u003e물 원소\u003c/color\u003e 또는 \u003ccolor=#99FFFFFF\u003e얼음 원소\u003c/color\u003e일 경우, 에스코피에의 원소전투 스킬 \u003ccolor=#FFD780FF\u003e{LINK#S11122}저온 조리법{/LINK}\u003c/color\u003e 또는 원소폭발 \u003ccolor=#FFD780FF\u003e{LINK#S11125}현란한 칼솜씨{/LINK}\u003c/color\u003e 발동 후, 15초 동안 주변에 있는 파티 내 모든 캐릭터가 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 줄 시의 치명타 피해가 60% 증가한다.\n고유 특성 「영감의 조미료」를 해금해야 한다",
-                                                                           "description":  "파티 내 캐릭터 4명의 원소 타입이 모두 물 원소 또는 얼음 원소일 경우, 에스코피에의 원소전투 스킬 **저온 조리법** 또는 원소폭발 **현란한 칼솜씨** 발동 후, 15초 동안 주변에 있는 파티 내 모든 캐릭터가 얼음 원소 피해를 줄 시의 치명타 피해가 60% 증가한다.\n고유 특성 「영감의 조미료」를 해금해야 한다"
+                                                                           "descriptionRaw":  "파티 내 캐릭터 4명의 원소 타입이 모두 \u003ccolor=#80C0FFFF\u003e물 원소\u003c/color\u003e 또는 \u003ccolor=#99FFFFFF\u003e얼음 원소\u003c/color\u003e일 경우, 에스코피에의 원소전투 스킬 \u003ccolor=#FFD780FF\u003e{LINK#S11122}저온 조리법{/LINK}\u003c/color\u003e 또는 원소폭발 \u003ccolor=#FFD780FF\u003e{LINK#S11125}현란한 칼솜씨{/LINK}\u003c/color\u003e 발동 후, 15초 동안 주변에 있는 파티 내 모든 캐릭터가 \u003ccolor=#99FFFFFF\u003e얼음 원소 피해\u003c/color\u003e를 줄 시의 치명타 피해가 60% 증가한다.\n돌파 특성 「영감의 조미료」를 해금해야 한다",
+                                                                           "description":  "파티 내 캐릭터 4명의 원소 타입이 모두 물 원소 또는 얼음 원소일 경우, 에스코피에의 원소전투 스킬 **저온 조리법** 또는 원소폭발 **현란한 칼솜씨** 발동 후, 15초 동안 주변에 있는 파티 내 모든 캐릭터가 얼음 원소 피해를 줄 시의 치명타 피해가 60% 증가한다.\n돌파 특성 「영감의 조미료」를 해금해야 한다"
                                                                        }
                                                             },
                                          "elementText":  "얼음",
@@ -6745,8 +6897,8 @@
                                         "constellations":  {
                                                                "c2":  {
                                                                           "name":  "「지금부터 긴 밤의 위험에 맞선다」",
-                                                                          "descriptionRaw":  "고유 특성 「밤을 가르는 불꽃」의 효과를 강화한다: 주변에 있는 파티 내 캐릭터가 적에게 \u003ccolor=#FFACFFFF\u003e번개 원소 관련 반응\u003c/color\u003e을 발동한 후, 클로린드 공격력의 30%를 기반으로 클로린드의 일반 공격과 \u003ccolor=#FFD780FF\u003e곧 꺼질 여광\u003c/color\u003e이 주는 \u003ccolor=#FFACFFFF\u003e번개 원소 피해\u003c/color\u003e가 증가한다. 지속 시간: 15초, 최대 중첩수: 3스택. 스택마다 독립적으로 계산하며 3스택 상태 시, 클로린드의 경직 저항력이 증가한다. 해당 방식으로 클로린드의 상술한 공격이 주는 피해가 최대 2700pt 증가한다.\n고유 특성 「밤을 가르는 불꽃」을 해금해야 한다",
-                                                                          "description":  "고유 특성 「밤을 가르는 불꽃」의 효과를 강화한다: 주변에 있는 파티 내 캐릭터가 적에게 번개 원소 관련 반응을 발동한 후, 클로린드 공격력의 30%를 기반으로 클로린드의 일반 공격과 곧 꺼질 여광이 주는 번개 원소 피해가 증가한다. 지속 시간: 15초, 최대 중첩수: 3스택. 스택마다 독립적으로 계산하며 3스택 상태 시, 클로린드의 경직 저항력이 증가한다. 해당 방식으로 클로린드의 상술한 공격이 주는 피해가 최대 2700pt 증가한다.\n고유 특성 「밤을 가르는 불꽃」을 해금해야 한다"
+                                                                          "descriptionRaw":  "돌파 특성 「밤을 가르는 불꽃」의 효과를 강화한다: 주변에 있는 파티 내 캐릭터가 적에게 \u003ccolor=#FFACFFFF\u003e번개 원소 관련 반응\u003c/color\u003e을 발동한 후, 클로린드 공격력의 30%를 기반으로 클로린드의 일반 공격과 \u003ccolor=#FFD780FF\u003e곧 꺼질 여광\u003c/color\u003e이 주는 \u003ccolor=#FFACFFFF\u003e번개 원소 피해\u003c/color\u003e가 증가한다. 지속 시간: 15초, 최대 중첩수: 3스택. 스택마다 독립적으로 계산하며 3스택 상태 시, 클로린드의 경직 저항력이 증가한다. 해당 방식으로 클로린드의 상술한 공격이 주는 피해가 최대 2700pt 증가한다.\n돌파 특성 「밤을 가르는 불꽃」을 해금해야 한다",
+                                                                          "description":  "돌파 특성 「밤을 가르는 불꽃」의 효과를 강화한다: 주변에 있는 파티 내 캐릭터가 적에게 번개 원소 관련 반응을 발동한 후, 클로린드 공격력의 30%를 기반으로 클로린드의 일반 공격과 곧 꺼질 여광이 주는 번개 원소 피해가 증가한다. 지속 시간: 15초, 최대 중첩수: 3스택. 스택마다 독립적으로 계산하며 3스택 상태 시, 클로린드의 경직 저항력이 증가한다. 해당 방식으로 클로린드의 상술한 공격이 주는 피해가 최대 2700pt 증가한다.\n돌파 특성 「밤을 가르는 불꽃」을 해금해야 한다"
                                                                       },
                                                                "c4":  {
                                                                           "name":  "「눈물, 생명, 사랑을 간직하며」",
@@ -6909,8 +7061,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "별하늘의 꽃비",
-                                                                       "descriptionRaw":  "「황금잔의 선물」 효과를 부여받은 캐릭터가 적에게 \u003ccolor=#80C0FFFF\u003e물 원소 피해\u003c/color\u003e를 준 후, 해당 적의 \u003ccolor=#80C0FFFF\u003e물 원소 내성\u003c/color\u003e이 35% 감소한다. 지속 시간: 10초. 적에게 개화 또는 달 개화 반응 피해를 준 후, 해당 적의 \u003ccolor=#99FF88FF\u003e풀 원소 내성\u003c/color\u003e이 35% 감소한다. 지속 시간: 10초.\n고유 특성 「꽃보라가 맴도는 정원」을 해금해야 한다",
-                                                                       "description":  "「황금잔의 선물」 효과를 부여받은 캐릭터가 적에게 물 원소 피해를 준 후, 해당 적의 물 원소 내성이 35% 감소한다. 지속 시간: 10초. 적에게 개화 또는 달 개화 반응 피해를 준 후, 해당 적의 풀 원소 내성이 35% 감소한다. 지속 시간: 10초.\n고유 특성 「꽃보라가 맴도는 정원」을 해금해야 한다"
+                                                                       "descriptionRaw":  "「황금잔의 선물」 효과를 부여받은 캐릭터가 적에게 \u003ccolor=#80C0FFFF\u003e물 원소 피해\u003c/color\u003e를 준 후, 해당 적의 \u003ccolor=#80C0FFFF\u003e물 원소 내성\u003c/color\u003e이 35% 감소한다. 지속 시간: 10초. 적에게 개화 또는 달 개화 반응 피해를 준 후, 해당 적의 \u003ccolor=#99FF88FF\u003e풀 원소 내성\u003c/color\u003e이 35% 감소한다. 지속 시간: 10초.\n돌파 특성 「꽃보라가 맴도는 정원」을 해금해야 한다",
+                                                                       "description":  "「황금잔의 선물」 효과를 부여받은 캐릭터가 적에게 물 원소 피해를 준 후, 해당 적의 물 원소 내성이 35% 감소한다. 지속 시간: 10초. 적에게 개화 또는 달 개화 반응 피해를 준 후, 해당 적의 풀 원소 내성이 35% 감소한다. 지속 시간: 10초.\n돌파 특성 「꽃보라가 맴도는 정원」을 해금해야 한다"
                                                                    },
                                                             "c4":  {
                                                                        "name":  "잔물결의 음절",
@@ -6950,8 +7102,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "총구·피어오르는 연기",
-                                                                        "descriptionRaw":  "차스카 등장 시, 고유 특성 「총알 트릭」의 「빛나는 추적」을 1스택 획득한다. 해당 효과는 고유 특성 「총알 트릭」을 해금해야 한다.\n또한, 원소전투 스킬 \u003ccolor=#FFD780FF\u003e영혼 올가미\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e 발동 시, 차스카의 \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e이 적에게 명중한 경우, \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e의 원소 타입에 따라 차스카 공격력의 400%에 해당하는 상응하는 원소 범위 피해를 준다. 해당 피해는 강공격 피해로 간주한다. \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e을 발동할 때마다 해당 효과는 최대 1회 발동된다",
-                                                                        "description":  "차스카 등장 시, 고유 특성 「총알 트릭」의 「빛나는 추적」을 1스택 획득한다. 해당 효과는 고유 특성 「총알 트릭」을 해금해야 한다.\n또한, 원소전투 스킬 영혼 올가미의 다중 조준 발동 시, 차스카의 빛나는 그림자 추적탄이 적에게 명중한 경우, 빛나는 그림자 추적탄의 원소 타입에 따라 차스카 공격력의 400%에 해당하는 상응하는 원소 범위 피해를 준다. 해당 피해는 강공격 피해로 간주한다. 다중 조준을 발동할 때마다 해당 효과는 최대 1회 발동된다"
+                                                                        "descriptionRaw":  "차스카 등장 시, 돌파 특성 「총알 트릭」의 「빛나는 추적」을 1스택 획득한다. 해당 효과는 돌파 특성 「총알 트릭」을 해금해야 한다.\n또한, 원소전투 스킬 \u003ccolor=#FFD780FF\u003e영혼 올가미\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e 발동 시, 차스카의 \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e이 적에게 명중한 경우, \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e의 원소 타입에 따라 차스카 공격력의 400%에 해당하는 상응하는 원소 범위 피해를 준다. 해당 피해는 강공격 피해로 간주한다. \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e을 발동할 때마다 해당 효과는 최대 1회 발동된다",
+                                                                        "description":  "차스카 등장 시, 돌파 특성 「총알 트릭」의 「빛나는 추적」을 1스택 획득한다. 해당 효과는 돌파 특성 「총알 트릭」을 해금해야 한다.\n또한, 원소전투 스킬 영혼 올가미의 다중 조준 발동 시, 차스카의 빛나는 그림자 추적탄이 적에게 명중한 경우, 빛나는 그림자 추적탄의 원소 타입에 따라 차스카 공격력의 400%에 해당하는 상응하는 원소 범위 피해를 준다. 해당 피해는 강공격 피해로 간주한다. 다중 조준을 발동할 때마다 해당 효과는 최대 1회 발동된다"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "불꽃·신속한 사격",
@@ -6970,13 +7122,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "결투·투쟁의 영광",
-                                                                        "descriptionRaw":  "차스카의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e에 필요한 차지 시간이 감소한다. 또한 고유 특성 「총알 트릭」의 「결속 전환」 발동 후, 차스카가 「수확」 상태를 획득한다. 이어지는 3초 동안 차스카의 다음번 원소전투 스킬 \u003ccolor=#FFD780FF\u003e영혼 올가미\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e 발동 시 차지가 즉시 완료되고, 이번 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e그림자 추적탄\u003c/color\u003e과 \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e의 치명타 피해가 120% 증가한다. 3초마다 「수확」 효과를 최대 1회 획득할 수 있다.\n\n상술한 효과는 고유 특성 「총알 트릭」을 해금해야 한다",
-                                                                        "description":  "차스카의 다중 조준에 필요한 차지 시간이 감소한다. 또한 고유 특성 「총알 트릭」의 「결속 전환」 발동 후, 차스카가 「수확」 상태를 획득한다. 이어지는 3초 동안 차스카의 다음번 원소전투 스킬 영혼 올가미의 다중 조준 발동 시 차지가 즉시 완료되고, 이번 다중 조준의 그림자 추적탄과 빛나는 그림자 추적탄의 치명타 피해가 120% 증가한다. 3초마다 「수확」 효과를 최대 1회 획득할 수 있다.\n\n상술한 효과는 고유 특성 「총알 트릭」을 해금해야 한다"
+                                                                        "descriptionRaw":  "차스카의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e에 필요한 차지 시간이 감소한다. 또한 돌파 특성 「총알 트릭」의 「결속 전환」 발동 후, 차스카가 「수확」 상태를 획득한다. 이어지는 3초 동안 차스카의 다음번 원소전투 스킬 \u003ccolor=#FFD780FF\u003e영혼 올가미\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e 발동 시 차지가 즉시 완료되고, 이번 \u003ccolor=#FFD780FF\u003e다중 조준\u003c/color\u003e의 \u003ccolor=#FFD780FF\u003e그림자 추적탄\u003c/color\u003e과 \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e의 치명타 피해가 120% 증가한다. 3초마다 「수확」 효과를 최대 1회 획득할 수 있다.\n\n상술한 효과는 돌파 특성 「총알 트릭」을 해금해야 한다",
+                                                                        "description":  "차스카의 다중 조준에 필요한 차지 시간이 감소한다. 또한 돌파 특성 「총알 트릭」의 「결속 전환」 발동 후, 차스카가 「수확」 상태를 획득한다. 이어지는 3초 동안 차스카의 다음번 원소전투 스킬 영혼 올가미의 다중 조준 발동 시 차지가 즉시 완료되고, 이번 다중 조준의 그림자 추적탄과 빛나는 그림자 추적탄의 치명타 피해가 120% 증가한다. 3초마다 「수확」 효과를 최대 1회 획득할 수 있다.\n\n상술한 효과는 돌파 특성 「총알 트릭」을 해금해야 한다"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "탄창·회전하는 실린더",
-                                                                        "descriptionRaw":  "고유 특성 「총알 트릭」의 「결속 전환」 발동 시, 탄창에 장전된 두 번째 \u003ccolor=#FFD780FF\u003e그림자 추적탄\u003c/color\u003e이 \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e으로 추가 전환된다.\n「결속 전환」 발동 확률이 증가한다: 파티 내에 원소 전환 조건에 부합하는 원소 타입의 캐릭터가 있을 경우 「결속 전환」의 발동 확률이 33.3% 증가해 최대 100%까지 증가한다.\n\n고유 특성 「총알 트릭」을 해금해야 한다.\n또한 전투 상태가 아닌 상황에서 차스카의 밤혼 가호 상태가 소모하는 밤혼과 열소가 30% 감소한다",
-                                                                        "description":  "고유 특성 「총알 트릭」의 「결속 전환」 발동 시, 탄창에 장전된 두 번째 그림자 추적탄이 빛나는 그림자 추적탄으로 추가 전환된다.\n「결속 전환」 발동 확률이 증가한다: 파티 내에 원소 전환 조건에 부합하는 원소 타입의 캐릭터가 있을 경우 「결속 전환」의 발동 확률이 33.3% 증가해 최대 100%까지 증가한다.\n\n고유 특성 「총알 트릭」을 해금해야 한다.\n또한 전투 상태가 아닌 상황에서 차스카의 밤혼 가호 상태가 소모하는 밤혼과 열소가 30% 감소한다"
+                                                                        "descriptionRaw":  "돌파 특성 「총알 트릭」의 「결속 전환」 발동 시, 탄창에 장전된 두 번째 \u003ccolor=#FFD780FF\u003e그림자 추적탄\u003c/color\u003e이 \u003ccolor=#FFD780FF\u003e빛나는 그림자 추적탄\u003c/color\u003e으로 추가 전환된다.\n「결속 전환」 발동 확률이 증가한다: 파티 내에 원소 전환 조건에 부합하는 원소 타입의 캐릭터가 있을 경우 「결속 전환」의 발동 확률이 33.3% 증가해 최대 100%까지 증가한다.\n\n돌파 특성 「총알 트릭」을 해금해야 한다.\n또한 전투 상태가 아닌 상황에서 차스카의 밤혼 가호 상태가 소모하는 밤혼과 열소가 30% 감소한다",
+                                                                        "description":  "돌파 특성 「총알 트릭」의 「결속 전환」 발동 시, 탄창에 장전된 두 번째 그림자 추적탄이 빛나는 그림자 추적탄으로 추가 전환된다.\n「결속 전환」 발동 확률이 증가한다: 파티 내에 원소 전환 조건에 부합하는 원소 타입의 캐릭터가 있을 경우 「결속 전환」의 발동 확률이 33.3% 증가해 최대 100%까지 증가한다.\n\n돌파 특성 「총알 트릭」을 해금해야 한다.\n또한 전투 상태가 아닌 상황에서 차스카의 밤혼 가호 상태가 소모하는 밤혼과 열소가 30% 감소한다"
                                                                     }
                                                          },
                                       "elementText":  "바람",
@@ -7587,9 +7739,9 @@
                                                                         ]
                                                          },
                                                   "r4":  {
-                                                             "description":  "원소전투 스킬 발동 후, 20초 동안 장착 캐릭터의 원소 마스터리가 175ptpt 증가한다",
+                                                             "description":  "원소전투 스킬 발동 후, 20초 동안 장착 캐릭터의 원소 마스터리가 175pt 증가한다",
                                                              "values":  [
-                                                                            "175pt"
+                                                                            "175"
                                                                         ]
                                                          },
                                                   "substatText":  "원소 충전 효율",
@@ -10222,6 +10374,53 @@
                                                     },
                                              "effectName":  "침착"
                                          },
+                    "reliquaryoftruth":  {
+                                             "r3":  {
+                                                        "description":  "치명타 확률이 12% 증가한다. 원소전투 스킬 발동 시, 장착 캐릭터가 「거짓의 비밀」 효과를 획득한다: 원소 마스터리가 120pt 증가한다, 지속 시간: 12초. 장착 캐릭터가 적에게 달 개화 반응 피해를 줄 시, 장착 캐릭터가 「진실의 달」 효과를 획득한다: 치명타 피해가 36% 증가한다, 지속 시간: 4초. 「거짓의 비밀」 효과와 「진실의 달」 효과가 동시에 존재할 경우, 해당 효과가 각각 50% 증가한다",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "120",
+                                                                       "36%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "치명타 확률이 16% 증가한다. 원소전투 스킬 발동 시, 장착 캐릭터가 「거짓의 비밀」 효과를 획득한다: 원소 마스터리가 160pt 증가한다, 지속 시간: 12초. 장착 캐릭터가 적에게 달 개화 반응 피해를 줄 시, 장착 캐릭터가 「진실의 달」 효과를 획득한다: 치명타 피해가 48% 증가한다, 지속 시간: 4초. 「거짓의 비밀」 효과와 「진실의 달」 효과가 동시에 존재할 경우, 해당 효과가 각각 50% 증가한다",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "160",
+                                                                       "48%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "치명타 확률이 10% 증가한다. 원소전투 스킬 발동 시, 장착 캐릭터가 「거짓의 비밀」 효과를 획득한다: 원소 마스터리가 100pt 증가한다, 지속 시간: 12초. 장착 캐릭터가 적에게 달 개화 반응 피해를 줄 시, 장착 캐릭터가 「진실의 달」 효과를 획득한다: 치명타 피해가 30% 증가한다, 지속 시간: 4초. 「거짓의 비밀」 효과와 「진실의 달」 효과가 동시에 존재할 경우, 해당 효과가 각각 50% 증가한다",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "100",
+                                                                       "30%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "치명타 확률이 14% 증가한다. 원소전투 스킬 발동 시, 장착 캐릭터가 「거짓의 비밀」 효과를 획득한다: 원소 마스터리가 140pt 증가한다, 지속 시간: 12초. 장착 캐릭터가 적에게 달 개화 반응 피해를 줄 시, 장착 캐릭터가 「진실의 달」 효과를 획득한다: 치명타 피해가 42% 증가한다, 지속 시간: 4초. 「거짓의 비밀」 효과와 「진실의 달」 효과가 동시에 존재할 경우, 해당 효과가 각각 50% 증가한다",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "140",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "치명타 피해",
+                                             "weaponText":  "법구",
+                                             "name":  "진실의 함",
+                                             "effectTemplateRaw":  "치명타 확률이 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e 증가한다. 원소전투 스킬 발동 시, 장착 캐릭터가 「거짓의 비밀」 효과를 획득한다: 원소 마스터리가 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003ept 증가한다, 지속 시간: 12초. 장착 캐릭터가 적에게 달 개화 반응 피해를 줄 시, 장착 캐릭터가 「진실의 달」 효과를 획득한다: 치명타 피해가 \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e 증가한다, 지속 시간: 4초. 「거짓의 비밀」 효과와 「진실의 달」 효과가 동시에 존재할 경우, 해당 효과가 각각 50% 증가한다",
+                                             "r1":  {
+                                                        "description":  "치명타 확률이 8% 증가한다. 원소전투 스킬 발동 시, 장착 캐릭터가 「거짓의 비밀」 효과를 획득한다: 원소 마스터리가 80pt 증가한다, 지속 시간: 12초. 장착 캐릭터가 적에게 달 개화 반응 피해를 줄 시, 장착 캐릭터가 「진실의 달」 효과를 획득한다: 치명타 피해가 24% 증가한다, 지속 시간: 4초. 「거짓의 비밀」 효과와 「진실의 달」 효과가 동시에 존재할 경우, 해당 효과가 각각 50% 증가한다",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "80",
+                                                                       "24%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "거짓 속 진실"
+                                         },
                     "keyofkhajnisut":  {
                                            "r3":  {
                                                       "description":  "HP가 30% 증가한다. 원소전투 스킬이 적을 명중하면 20초 동안 지속되는 「웅장한 시편」 효과를 획득한다: 장착한 캐릭터 HP 최대치의 0.18%만큼 원소 마스터리를 획득한다. 해당 효과는 0.3초마다 최대 1회 발동할 수 있다. 최대 중첩수: 3스택. 해당 효과가 3스택 중첩 또는 3스택 중첩 지속 시간이 갱신되면 장착한 캐릭터 HP 최대치의 0.3%만큼 근처 파티 내 모든 캐릭터의 원소 마스터리가 증가한다. 지속 시간: 20초",
@@ -11715,6 +11914,48 @@
                                                    },
                                             "effectName":  "거울과 연기의 수수께끼"
                                         },
+                    "dawningfrost":  {
+                                         "r3":  {
+                                                    "description":  "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 108pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 72pt 증가한다",
+                                                    "values":  [
+                                                                   "108",
+                                                                   "72"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 144pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 96pt 증가한다",
+                                                    "values":  [
+                                                                   "144",
+                                                                   "96"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 90pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 60pt 증가한다",
+                                                    "values":  [
+                                                                   "90",
+                                                                   "60"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 126pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 84pt 증가한다",
+                                                    "values":  [
+                                                                   "126",
+                                                                   "84"
+                                                               ]
+                                                },
+                                         "substatText":  "치명타 피해",
+                                         "weaponText":  "법구",
+                                         "name":  "서릿빛 새벽",
+                                         "effectTemplateRaw":  "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003ept 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003ept 증가한다",
+                                         "r1":  {
+                                                    "description":  "강공격이 적에게 명중 후 10초 동안 원소 마스터리가 72pt 증가한다. 원소전투 스킬이 적에게 명중 후 10초 동안 원소 마스터리가 48pt 증가한다",
+                                                    "values":  [
+                                                                   "72",
+                                                                   "48"
+                                                               ]
+                                                },
+                                         "effectName":  "새벽의 태몽"
+                                     },
                     "cinnabarspindle":  {
                                             "r3":  {
                                                        "description":  "원소전투 스킬 피해량이 방어력의 60%만큼 증가한다. 해당 효과는 1.5초마다 최대 1회 발동되며, 원소전투 스킬로 피해를 준 다음 0.1초 후에 효과가 사라진다",
@@ -12653,6 +12894,48 @@
                                               },
                                        "effectName":  "직설"
                                    },
+                    "sacrificersstaff":  {
+                                             "r3":  {
+                                                        "description":  "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 12%, 원소 충전 효율이 9% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "9%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 16%, 원소 충전 효율이 12% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "12%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 10%, 원소 충전 효율이 7.5% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "7.5%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 14%, 원소 충전 효율이 10.5% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "10.5%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "치명타 확률",
+                                             "weaponText":  "장병기",
+                                             "name":  "신성한 제사의 지팡이",
+                                             "effectTemplateRaw":  "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, 원소 충전 효율이 \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+                                             "r1":  {
+                                                        "description":  "원소전투 스킬이 적에게 명중 후 6초 동안 공격력이 8%, 원소 충전 효율이 6% 증가한다. 해당 효과 최대 중첩수: 3스택. 장착 캐릭터가 대기 상태일 때도 발동된다",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "6%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "아직 물들지 않은 갈망"
+                                         },
                     "flowingpurity":  {
                                           "r3":  {
                                                      "description":  "원소전투 스킬 발동 시, 모든 원소 피해 보너스가 12% 증가한다. 지속 시간: 15초. 또한 HP 최대치의 24%에 해당하는 생명의 계약을 부여한다. 해당 효과는 10초마다 최대 1회 발동된다. 생명의 계약이 사라질 때, 1000pt당 모든 원소 피해 보너스가 3%씩 증가한다. 해당 방식으로 최대 18% 증가한다. 지속 시간: 15초",
@@ -17080,6 +17363,10 @@
                                                },
                     "bubblerseahorse":  {
                                             "name":  "수컷 방울 해마",
+                                            "specialname":  null
+                                        },
+                    "frostnightherra":  {
+                                            "name":  "서리밤 하늘 영주",
                                             "specialname":  null
                                         },
                     "bitingcoldwayobmanifestation":  {

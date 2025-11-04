@@ -27,14 +27,6 @@
                                                                                "Pazar"
                                                                            ]
                                                         },
-                    "domainofforgerysubmergedvalleyi":  {
-                                                            "entranceName":  "Sesilya Bahçesi",
-                                                            "daysofweek":  [
-                                                                               "Salı",
-                                                                               "Cuma",
-                                                                               "Pazar"
-                                                                           ]
-                                                        },
                     "domainofmasteryfullmooni":  {
                                                      "entranceName":  "Cehalet Kulesi",
                                                      "daysofweek":  [
@@ -99,6 +91,14 @@
                                                                       "Pazar"
                                                                   ]
                                                },
+                    "domainofmasteryfallencityi":  {
+                                                       "entranceName":  "Işıksız Başkent",
+                                                       "daysofweek":  [
+                                                                          "Pazartesi",
+                                                                          "Perşembe",
+                                                                          "Pazar"
+                                                                      ]
+                                                   },
                     "domainofforgeryartisanshipi":  {
                                                         "entranceName":  "Derin Dalgaların Yankıları",
                                                         "daysofweek":  [
@@ -163,14 +163,14 @@
                                                                                  "Pazar"
                                                                              ]
                                                           },
-                    "domainofforgerysandburiali":  {
-                                                       "entranceName":  "Dalgalı Kum Bahçesi",
-                                                       "daysofweek":  [
-                                                                          "Çarşamba",
-                                                                          "Cumartesi",
-                                                                          "Pazar"
-                                                                      ]
-                                                   },
+                    "domainofforgerysubmergedvalleyi":  {
+                                                            "entranceName":  "Sesilya Bahçesi",
+                                                            "daysofweek":  [
+                                                                               "Salı",
+                                                                               "Cuma",
+                                                                               "Pazar"
+                                                                           ]
+                                                        },
                     "domainofmasterychimingrecitationi":  {
                                                               "entranceName":  "Unutulmuş Solgun İhtişam",
                                                               "daysofweek":  [
@@ -235,6 +235,30 @@
                                                                             "Pazar"
                                                                         ]
                                                      },
+                    "domainofforgerysandburiali":  {
+                                                       "entranceName":  "Dalgalı Kum Bahçesi",
+                                                       "daysofweek":  [
+                                                                          "Çarşamba",
+                                                                          "Cumartesi",
+                                                                          "Pazar"
+                                                                      ]
+                                                   },
+                    "domainofforgeryprayerssungi":  {
+                                                        "entranceName":  "Kayıp Ay Avlusu",
+                                                        "daysofweek":  [
+                                                                           "Salı",
+                                                                           "Cuma",
+                                                                           "Pazar"
+                                                                       ]
+                                                    },
+                    "domainofmasteryoverturnedroosti":  {
+                                                            "entranceName":  "Işıksız Başkent",
+                                                            "daysofweek":  [
+                                                                               "Çarşamba",
+                                                                               "Cumartesi",
+                                                                               "Pazar"
+                                                                           ]
+                                                        },
                     "domainofforgeryscryingshadowsi":  {
                                                            "entranceName":  "Kadim Gözetleme Kulesi",
                                                            "daysofweek":  [
@@ -275,6 +299,14 @@
                                                                                  "Pazar"
                                                                              ]
                                                           },
+                    "domainofmasteryshadowedlegacyi":  {
+                                                           "entranceName":  "Işıksız Başkent",
+                                                           "daysofweek":  [
+                                                                              "Salı",
+                                                                              "Cuma",
+                                                                              "Pazar"
+                                                                          ]
+                                                       },
                     "domainofmasteryadmonishingengravingi":  {
                                                                  "entranceName":  "Unutulmuş Solgun İhtişam",
                                                                  "daysofweek":  [
@@ -283,6 +315,14 @@
                                                                                     "Pazar"
                                                                                 ]
                                                              },
+                    "domainofforgeryradiantsplendori":  {
+                                                            "entranceName":  "Kayıp Ay Avlusu",
+                                                            "daysofweek":  [
+                                                                               "Pazartesi",
+                                                                               "Perşembe",
+                                                                               "Pazar"
+                                                                           ]
+                                                        },
                     "domainofforgeryattentiveobservationi":  {
                                                                  "entranceName":  "Kadim Gözetleme Kulesi",
                                                                  "daysofweek":  [
@@ -293,18 +333,21 @@
                                                              }
                 },
     "materials":  {
+                      "sunsettia":  {
+                                        "name":  "Güneriği"
+                                    },
                       "sandbearerwood":  {
                                              "name":  "Kum Ağacı Kütüğü"
                                          },
-                      "cultivationareaexpansionii":  {
-                                                         "name":  "Yetiştirme Alanı Genişlemesi (II)"
-                                                     },
+                      "mora":  {
+                                   "name":  "Mora"
+                               },
                       "varunadalazuritesliver":  {
                                                      "name":  "Varunada Lazuriti Tozu"
                                                  },
-                      "birchwood":  {
-                                        "name":  "Huş Ağacı Kütüğü"
-                                    },
+                      "guidetofreedom":  {
+                                             "name":  "Özgürlük Rehberi"
+                                         },
                       "improvedalchemycauldronii":  {
                                                         "name":  "Geliştirilmiş Simya Kazanı (II)"
                                                     },
@@ -341,9 +384,9 @@
                       "ainostoolboxempty":  {
                                                 "name":  "Aino\u0027nun Alet Çantası (Boş)"
                                             },
-                      "sheathofthesecretsource":  {
-                                                      "name":  "Gizli Kaynak Yuvası"
-                                                  },
+                      "electroculus":  {
+                                           "name":  "Elektrik Özü"
+                                       },
                       "flashingmaintenancemekbait":  {
                                                          "name":  "Parlayan Teknisyen Meka Yemi"
                                                      },
@@ -359,6 +402,9 @@
                       "brownshirakodai":  {
                                               "name":  "Kahverengi Kırlangıç Balığı"
                                           },
+                      "geoculus":  {
+                                       "name":  "Toprak Özü"
+                                   },
                       "philosophiesofjustice":  {
                                                     "name":  "Adalet Felsefesi"
                                                 },
@@ -440,9 +486,9 @@
                       "shardofashatteredwill":  {
                                                     "name":  "Parçalanmış İradenin Parçası"
                                                 },
-                      "brilliantdiamondchunk":  {
-                                                    "name":  "Elmas Parçası"
-                                                },
+                      "dragonheirsfalsefin":  {
+                                                  "name":  "Ejdervarisinin Sahte Yüzgeci"
+                                              },
                       "yellowobsidianring":  {
                                                  "name":  "Sarı Obsidiyen Halka"
                                              },
@@ -455,6 +501,9 @@
                       "springofpuresacreddewdrop":  {
                                                         "name":  "Saf Kutsal Çiy Damlası Kaynağı"
                                                     },
+                      "radiantantler":  {
+                                            "name":  "Görkemli Boynuz"
+                                        },
                       "loachpearl":  {
                                          "name":  "Çopra İncisi"
                                      },
@@ -563,6 +612,9 @@
                       "brilliantdiamondsliver":  {
                                                      "name":  "Elmas Tozu"
                                                  },
+                      "lumenspar":  {
+                                        "name":  "Lümen Kristali"
+                                    },
                       "zaytunpeach":  {
                                           "name":  "Zaytun Şeftalisi"
                                       },
@@ -623,6 +675,9 @@
                       "aureateradianceofthefarnorthscions":  {
                                                                  "name":  "Uzak Kuzeyin Çocuklarının Yaldızlı İhtişamı"
                                                              },
+                      "pyroculus":  {
+                                        "name":  "Ateş Özü"
+                                    },
                       "dakasbell":  {
                                         "name":  "Daka\u0027nın Çanı"
                                     },
@@ -869,6 +924,9 @@
                       "witheringpurpurbloom":  {
                                                    "name":  "Solan Mor Yapraklar"
                                                },
+                      "lunoculus":  {
+                                        "name":  "Ay Özü"
+                                    },
                       "cakefortraveler":  {
                                               "name":  "Gezginin Pastası"
                                           },
@@ -899,6 +957,9 @@
                       "shuttleofodara":  {
                                              "name":  "Odara Aracı"
                                          },
+                      "lazuriteaxemarlin":  {
+                                                "name":  "Lazurit Balta Balığı"
+                                            },
                       "northlandercatalystbillet":  {
                                                         "name":  "Kuzey Diyarı Katalizör Prototipi"
                                                     },
@@ -1013,9 +1074,6 @@
                       "shivadajadesliver":  {
                                                 "name":  "Shivada Yeşimi Tozu"
                                             },
-                      "guidetofreedom":  {
-                                             "name":  "Özgürlük Rehberi"
-                                         },
                       "heartofthesecretsource":  {
                                                      "name":  "Gizli Kaynağın Kalbi"
                                                  },
@@ -1163,6 +1221,9 @@
                       "tourbillondevice":  {
                                                "name":  "\"Tourbillon Cihazı\""
                                            },
+                      "chronicleexp":  {
+                                           "name":  "Günce TP"
+                                       },
                       "maintenancemekinitialconfiguration":  {
                                                                  "name":  "Teknisyen Meka: İlk Ayarlama"
                                                              },
@@ -1214,6 +1275,9 @@
                       "cultivationareaexpansioniv":  {
                                                          "name":  "Yetiştirme Alanı Genişlemesi (IV)"
                                                      },
+                      "crimsonagatedisplay":  {
+                                                  "name":  "Kızıl Akik (Görüntü)"
+                                              },
                       "shivadajadechunk":  {
                                                "name":  "Shivada Yeşimi Parçası"
                                            },
@@ -1319,6 +1383,9 @@
                       "teachingsofequity":  {
                                                 "name":  "Eşitlik Öğretisi"
                                             },
+                      "dendroculus":  {
+                                          "name":  "Doğa Özü"
+                                      },
                       "guidetoconflict":  {
                                               "name":  "Çatışma Rehberi"
                                           },
@@ -1367,6 +1434,9 @@
                       "unfadingsilkygrace":  {
                                                  "name":  "Solmayan İpeksi Zarafet"
                                              },
+                      "spiritcarp":  {
+                                         "name":  "Ruh Sazanı"
+                                     },
                       "ironchunk":  {
                                         "name":  "Demir Parçası"
                                     },
@@ -1388,9 +1458,12 @@
                       "scorchedstarshroom":  {
                                                  "name":  "Yanık Yıldız Mantarı"
                                              },
-                      "sunsettia":  {
-                                        "name":  "Güneriği"
-                                    },
+                      "keysigil":  {
+                                       "name":  "Anahtar Mührü"
+                                   },
+                      "anemoculus":  {
+                                         "name":  "Rüzgar Özü"
+                                     },
                       "prithivatopazfragment":  {
                                                     "name":  "Prithiva Topazı Kırıntısı"
                                                 },
@@ -1400,6 +1473,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027nin Bilgeliği"
                                           },
+                      "lumenstoneore":  {
+                                            "name":  "Lümentaşı Cevheri"
+                                        },
                       "dustofenlightenment":  {
                                                   "name":  "Aydınlanma Tozu"
                                               },
@@ -1424,9 +1500,9 @@
                       "empowereddragontooth":  {
                                                    "name":  "Güçlendirilmiş Ejder Dişi"
                                                },
-                      "keysigil":  {
-                                       "name":  "Anahtar Mührü"
-                                   },
+                      "chroniclesoftherealms":  {
+                                                    "name":  "Alemlerin Güncesi"
+                                                },
                       "goldenbranchofadistantsea":  {
                                                         "name":  "Uzak Denizlerin Altın Dalı"
                                                     },
@@ -1616,6 +1692,9 @@
                       "teachingsoftransience":  {
                                                     "name":  "Fani Dünya Öğretisi"
                                                 },
+                      "dandelionbookmark":  {
+                                                "name":  "Karahindiba Ayracı"
+                                            },
                       "riftcore":  {
                                        "name":  "Yarık Çekirdeği"
                                    },
@@ -1628,9 +1707,9 @@
                       "winegobletofthepristinesea":  {
                                                          "name":  "Saf Denizin Şarap Kadehi"
                                                      },
-                      "sugar":  {
-                                    "name":  "Şeker"
-                                },
+                      "moonchasecharm":  {
+                                             "name":  "Ay Tutkusu Tılsımı"
+                                         },
                       "afterglowoflongnightflint":  {
                                                         "name":  "Uzun Gece Ateşinin Kalıntısı"
                                                     },
@@ -1679,6 +1758,9 @@
                       "vayudaturquoisesliver":  {
                                                     "name":  "Vayuda Turkuazı Tozu"
                                                 },
+                      "recordedintel":  {
+                                            "name":  "Kaydedilen İstihbarat"
+                                        },
                       "concealedclaw":  {
                                             "name":  "Gizli Pençe"
                                         },
@@ -1748,6 +1830,9 @@
                       "pedunculateoakwood":  {
                                                  "name":  "Saplı Meşe Kütüğü"
                                              },
+                      "sharparrowhead":  {
+                                             "name":  "Sivri Ok Başı"
+                                         },
                       "ashenaratikuwood":  {
                                                "name":  "Gri Aratiku Kütüğü"
                                            },
@@ -1781,9 +1866,9 @@
                       "greenobsidianfragment":  {
                                                     "name":  "Yeşil Obsidiyen Parçası"
                                                 },
-                      "sharparrowhead":  {
-                                             "name":  "Sivri Ok Başı"
-                                         },
+                      "crimsonagate":  {
+                                           "name":  "Kızıl Akik"
+                                       },
                       "nightwindsmysticrevelation":  {
                                                          "name":  "Gece Rüzgarının Mistik İlhamı"
                                                      },
@@ -1832,6 +1917,9 @@
                       "improvedalchemycauldroniv":  {
                                                         "name":  "Geliştirilmiş Simya Kazanı (IV)"
                                                     },
+                      "sheathofthesecretsource":  {
+                                                      "name":  "Gizli Kaynak Yuvası"
+                                                  },
                       "glowinggem":  {
                                          "name":  "Parlayan Mücevher"
                                      },
@@ -2021,9 +2109,9 @@
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Decarabian\u0027ın Rüya Parçası"
                                                            },
-                      "dandelionbookmark":  {
-                                                "name":  "Karahindiba Ayracı"
-                                            },
+                      "brilliantdiamondchunk":  {
+                                                    "name":  "Elmas Parçası"
+                                                },
                       "enhancementore":  {
                                              "name":  "Geliştirme Cevheri"
                                          },
@@ -2063,9 +2151,9 @@
                       "darkstatuette":  {
                                             "name":  "Kara Heykelcik"
                                         },
-                      "dragonheirsfalsefin":  {
-                                                  "name":  "Ejdervarisinin Sahte Yüzgeci"
-                                              },
+                      "sugar":  {
+                                    "name":  "Şeker"
+                                },
                       "bigprettycrystal":  {
                                                "name":  "Güzel Kristal (Büyük)"
                                            },
@@ -2087,6 +2175,9 @@
                       "scoopoftaintedwater":  {
                                                   "name":  "Kirli Su Birikintisi"
                                               },
+                      "birchwood":  {
+                                        "name":  "Huş Ağacı Kütüğü"
+                                    },
                       "coldcrackedshellshard":  {
                                                     "name":  "Soğuktan Çatlamış Kabuk Parçası"
                                                 },
@@ -2180,9 +2271,9 @@
                       "plumeofthechangingwinds":  {
                                                       "name":  "Değişen Rüzgarların Tüyü"
                                                   },
-                      "lazuriteaxemarlin":  {
-                                                "name":  "Lazurit Balta Balığı"
-                                            },
+                      "hydroculus":  {
+                                         "name":  "Su Özü"
+                                     },
                       "blazingsacrificialheartssplendor":  {
                                                                "name":  "Alevli Fedakar Kalbin İhtişamı"
                                                            },
@@ -2405,9 +2496,9 @@
                       "waterthatfailedtotranscend":  {
                                                          "name":  "Aşamayan Su"
                                                      },
-                      "mora":  {
-                                   "name":  "Mora"
-                               },
+                      "cultivationareaexpansionii":  {
+                                                         "name":  "Yetiştirme Alanı Genişlemesi (II)"
+                                                     },
                       "precisiondriveshaft":  {
                                                   "name":  "Hassas Aks"
                                               },
@@ -2710,8 +2801,8 @@
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Terzinin Üç Görgü Kuralı",
-                                                                        "descriptionRaw":  "\"Terzi İşi\" Pasif Yeteneğinin iki farklı takip etkisinden herhangi biri tetiklendikten sonra 8sn boyunca, mevcut aktif karakterinin Normal, Yüklü veya Havadan Saldırıları yakındaki bir düşmana vurduğunda, isabet alan düşmanın yanına daha basit bir kukla canavar makinası olan \"Kinu\" çağrılır. Bu şekilde her 1 saniyede 1 Kinu çağrılabilir ve \"Terzi İşi\" Pasif Yeteneğinin Anı Yakala veya Terzilik etkileri tetiklenerek en fazla 3 Kinu çağrılabilir. Yukarıdaki etki her 15 saniyede bir defa tetiklenebilir.\n\"Terzi İşi\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "\"Terzi İşi\" Pasif Yeteneğinin iki farklı takip etkisinden herhangi biri tetiklendikten sonra 8sn boyunca, mevcut aktif karakterinin Normal, Yüklü veya Havadan Saldırıları yakındaki bir düşmana vurduğunda, isabet alan düşmanın yanına daha basit bir kukla canavar makinası olan \"Kinu\" çağrılır. Bu şekilde her 1 saniyede 1 Kinu çağrılabilir ve \"Terzi İşi\" Pasif Yeteneğinin Anı Yakala veya Terzilik etkileri tetiklenerek en fazla 3 Kinu çağrılabilir. Yukarıdaki etki her 15 saniyede bir defa tetiklenebilir.\n\"Terzi İşi\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "\"Terzi İşi\" Yükseltme Yeteneğinin iki farklı takip etkisinden herhangi biri tetiklendikten sonra 8sn boyunca, mevcut aktif karakterinin Normal, Yüklü veya Havadan Saldırıları yakındaki bir düşmana vurduğunda, isabet alan düşmanın yanına daha basit bir kukla canavar makinası olan \"Kinu\" çağrılır. Bu şekilde her 1 saniyede 1 Kinu çağrılabilir ve \"Terzi İşi\" Pasif Yeteneğinin Anı Yakala veya Terzilik etkileri tetiklenerek en fazla 3 Kinu çağrılabilir. Yukarıdaki etki her 15 saniyede bir defa tetiklenebilir.\n\"Terzi İşi\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "\"Terzi İşi\" Yükseltme Yeteneğinin iki farklı takip etkisinden herhangi biri tetiklendikten sonra 8sn boyunca, mevcut aktif karakterinin Normal, Yüklü veya Havadan Saldırıları yakındaki bir düşmana vurduğunda, isabet alan düşmanın yanına daha basit bir kukla canavar makinası olan \"Kinu\" çağrılır. Bu şekilde her 1 saniyede 1 Kinu çağrılabilir ve \"Terzi İşi\" Pasif Yeteneğinin Anı Yakala veya Terzilik etkileri tetiklenerek en fazla 3 Kinu çağrılabilir. Yukarıdaki etki her 15 saniyede bir defa tetiklenebilir.\n\"Terzi İşi\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     },
                                                              "c3":  {
                                                                         "name":  "Dört Sırmalı Süsleme",
@@ -2725,13 +2816,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Tek ve Esas Hedef",
-                                                                        "descriptionRaw":  "\"Terzi İşi\" Pasif Yeteneğinin bir takip etkisi tetiklendiğinde Chiori\u0027nin kendi \u003ccolor=#FFD780FF\u003eHasode Darbesi\u003c/color\u003e becerisinin Bekleme Süresi 12sn azalır. \"Terzi İşi\" Pasif Yeteneğinin açılmış olması gerekir.\nBuna ek olarak, Chiori\u0027nin kendi Normal Saldırılarının verdiği Hasar, Savunmasının %235\u0027i kadar artar.",
-                                                                        "description":  "\"Terzi İşi\" Pasif Yeteneğinin bir takip etkisi tetiklendiğinde Chiori\u0027nin kendi Hasode Darbesi becerisinin Bekleme Süresi 12sn azalır. \"Terzi İşi\" Pasif Yeteneğinin açılmış olması gerekir.\nBuna ek olarak, Chiori\u0027nin kendi Normal Saldırılarının verdiği Hasar, Savunmasının %235\u0027i kadar artar."
+                                                                        "descriptionRaw":  "\"Terzi İşi\" Yükseltme Yeteneğinin bir takip etkisi tetiklendiğinde Chiori\u0027nin kendi \u003ccolor=#FFD780FF\u003eHasode Darbesi\u003c/color\u003e becerisinin Bekleme Süresi 12sn azalır. \"Terzi İşi\" Yükseltme Yeteneğinin açılmış olması gerekir.\nBuna ek olarak, Chiori\u0027nin kendi Normal Saldırılarının verdiği Hasar, Savunmasının %235\u0027i kadar artar.",
+                                                                        "description":  "\"Terzi İşi\" Yükseltme Yeteneğinin bir takip etkisi tetiklendiğinde Chiori\u0027nin kendi Hasode Darbesi becerisinin Bekleme Süresi 12sn azalır. \"Terzi İşi\" Yükseltme Yeteneğinin açılmış olması gerekir.\nBuna ek olarak, Chiori\u0027nin kendi Normal Saldırılarının verdiği Hasar, Savunmasının %235\u0027i kadar artar."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "İpek Ustalığı İlminin Altı Yolu",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eHasode Darbesi\u003c/color\u003e ile çağrılan kukla canavar makinası \"Tamoto\"nun Etki Alanı %50 artar.\nBuna ek olarak grupta Chiori dışında bir \u003ccolor=#FFE699FF\u003eToprak\u003c/color\u003e karakteri olması halinde, Hasode Darbesi hareketi tamamlandığında şu etkiler tetiklenir:\n·Bir tane daha Tamoto çağrılır. Chiori\u0027nin bu yöntemle çağırdığı veya Toprak Yapılardan gelen yalnızca 1 ek Tamoto aynı anda var olabilir.\n·\"Son Dokunuş\" Pasif Yeteneğini tetikler. \"Son Dokunuş\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "Hasode Darbesi ile çağrılan kukla canavar makinası \"Tamoto\"nun Etki Alanı %50 artar.\nBuna ek olarak grupta Chiori dışında bir Toprak karakteri olması halinde, Hasode Darbesi hareketi tamamlandığında şu etkiler tetiklenir:\n·Bir tane daha Tamoto çağrılır. Chiori\u0027nin bu yöntemle çağırdığı veya Toprak Yapılardan gelen yalnızca 1 ek Tamoto aynı anda var olabilir.\n·\"Son Dokunuş\" Pasif Yeteneğini tetikler. \"Son Dokunuş\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eHasode Darbesi\u003c/color\u003e ile çağrılan kukla canavar makinası \"Tamoto\"nun Etki Alanı %50 artar.\nBuna ek olarak grupta Chiori dışında bir \u003ccolor=#FFE699FF\u003eToprak\u003c/color\u003e karakteri olması halinde, Hasode Darbesi hareketi tamamlandığında şu etkiler tetiklenir:\n·Bir tane daha Tamoto çağrılır. Chiori\u0027nin bu yöntemle çağırdığı veya Toprak Yapılarından gelen yalnızca 1 ek Tamoto aynı anda var olabilir.\n·\"Son Dokunuş\" Yükseltme Yeteneğini tetikler. \"Son Dokunuş\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "Hasode Darbesi ile çağrılan kukla canavar makinası \"Tamoto\"nun Etki Alanı %50 artar.\nBuna ek olarak grupta Chiori dışında bir Toprak karakteri olması halinde, Hasode Darbesi hareketi tamamlandığında şu etkiler tetiklenir:\n·Bir tane daha Tamoto çağrılır. Chiori\u0027nin bu yöntemle çağırdığı veya Toprak Yapılarından gelen yalnızca 1 ek Tamoto aynı anda var olabilir.\n·\"Son Dokunuş\" Yükseltme Yeteneğini tetikler. \"Son Dokunuş\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     }
                                                          },
                                       "elementText":  "Toprak",
@@ -2787,8 +2878,8 @@
                                           "constellations":  {
                                                                  "c2":  {
                                                                             "name":  "\"Tüm Ödüller ve Cezalar Bendendir...\"",
-                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKan Borcu Fermanları\u003c/color\u003e ilk uygulandığında Kan Borcu Vadesi olur.\nArlecchino bir Vade geri aldığında önünde Saldırısının %900\u0027ü kadar \u003ccolor=#FF9999FF\u003eAteş Alan Hasarı\u003c/color\u003e veren ve 15 saniyeliğine Arlecchino\u0027nun Tüm Element Direnci ve Fiziksel Direncini %20 artıran bir Uğursuz Ayın Kanlı Ateşi çıkarır. Bu etki her 10 saniyede bir tetiklenebilir.\n\"Yalnızca Acı Telafi Edebilir\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                            "description":  "Kan Borcu Fermanları ilk uygulandığında Kan Borcu Vadesi olur.\nArlecchino bir Vade geri aldığında önünde Saldırısının %900\u0027ü kadar Ateş Alan Hasarı veren ve 15 saniyeliğine Arlecchino\u0027nun Tüm Element Direnci ve Fiziksel Direncini %20 artıran bir Uğursuz Ayın Kanlı Ateşi çıkarır. Bu etki her 10 saniyede bir tetiklenebilir.\n\"Yalnızca Acı Telafi Edebilir\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKan Borcu Fermanları\u003c/color\u003e ilk uygulandığında Kan Borcu Vadesi olur.\nArlecchino bir Vade geri aldığında önünde Saldırısının %900\u0027ü kadar \u003ccolor=#FF9999FF\u003eAteş Alan Hasarı\u003c/color\u003e veren ve 15 saniyeliğine Arlecchino\u0027nun Tüm Element Direnci ve Fiziksel Direncini %20 artıran bir Uğursuz Ayın Kanlı Ateşi çıkarır. Bu etki her 10 saniyede bir tetiklenebilir.\n\"Yalnızca Acı Telafi Edebilir\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                            "description":  "Kan Borcu Fermanları ilk uygulandığında Kan Borcu Vadesi olur.\nArlecchino bir Vade geri aldığında önünde Saldırısının %900\u0027ü kadar Ateş Alan Hasarı veren ve 15 saniyeliğine Arlecchino\u0027nun Tüm Element Direnci ve Fiziksel Direncini %20 artıran bir Uğursuz Ayın Kanlı Ateşi çıkarır. Bu etki her 10 saniyede bir tetiklenebilir.\n\"Yalnızca Acı Telafi Edebilir\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                         },
                                                                  "c4":  {
                                                                             "name":  "\"Bundan Böyle Birbirinizi Sevip Koruyun...\"",
@@ -3038,8 +3129,8 @@
                                                                             },
                                                                      "c4":  {
                                                                                 "name":  "Şekerli Ot",
-                                                                                "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eNilüfer Lambası\u003c/color\u003e, Nilüfer Işığı Dönüşümünü tetikledikten sonra \"Aşırı Büyüyen Yeşillikler\" Pasif Yeteneğinden 5 kademe Nilüfer Işığı Taşkını etkisi elde eder.\nÖncelikle bu Pasif Yeteneğin açılmış olması gerekir.",
-                                                                                "description":  "Nilüfer Lambası, Nilüfer Işığı Dönüşümünü tetikledikten sonra \"Aşırı Büyüyen Yeşillikler\" Pasif Yeteneğinden 5 kademe Nilüfer Işığı Taşkını etkisi elde eder.\nÖncelikle bu Pasif Yeteneğin açılmış olması gerekir."
+                                                                                "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eNilüfer Lambası\u003c/color\u003e, Nilüfer Işığı Dönüşümünü tetikledikten sonra \"Aşırı Büyüyen Yeşillikler\" Yükseltme Yeteneğinden 5 kademe Nilüfer Işığı Taşkını etkisi elde eder.\n\"Aşırı Büyüyen Yeşillikler\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                                "description":  "Nilüfer Lambası, Nilüfer Işığı Dönüşümünü tetikledikten sonra \"Aşırı Büyüyen Yeşillikler\" Yükseltme Yeteneğinden 5 kademe Nilüfer Işığı Taşkını etkisi elde eder.\n\"Aşırı Büyüyen Yeşillikler\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                             },
                                                                      "c3":  {
                                                                                 "name":  "Dönen Otlar",
@@ -3104,6 +3195,16 @@
                                          "region":  "Snezhnaya",
                                          "gender":  "erkek"
                                      },
+                       "manekin":  {
+                                       "constellations":  null,
+                                       "elementText":  "Yok",
+                                       "fullname":  null,
+                                       "weaponText":  "Kılıç",
+                                       "name":  "Manekin",
+                                       "substatText":  "Saldırı",
+                                       "region":  "",
+                                       "gender":  "erkek"
+                                   },
                        "charlotte":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -3215,8 +3316,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "\"Ruhların En Mutlusu Endişe Nedir Bilir Mi?\"",
-                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eZıplayan Hidroterapi\u003c/color\u003e becerisiyle oluşan Canlandıran Baloncuk 3 defa daha seker ve ilk 3 sekme sırasında büyük Baloncuklar küçülmez.\n\"Bol Bol İstirahat\" Pasif Yeteneği güçlenir: Baloncuk her sektiğinde 1 kademe Toparlanma eklenir ve Toparlanma kademelerinin verdiği Hasar bonusu değerleri şu şekilde değişir: Sigewinne\u0027in 30.000\u0027in üzerindeki her 1.000 Maks. Canı için Hasar 100 artar. Element Becerileri için bu şekilde en fazla 3.500 Hasar artışı kazanılabilir. \"Bol Bol İstirahat\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                           "description":  "Zıplayan Hidroterapi becerisiyle oluşan Canlandıran Baloncuk 3 defa daha seker ve ilk 3 sekme sırasında büyük Baloncuklar küçülmez.\n\"Bol Bol İstirahat\" Pasif Yeteneği güçlenir: Baloncuk her sektiğinde 1 kademe Toparlanma eklenir ve Toparlanma kademelerinin verdiği Hasar bonusu değerleri şu şekilde değişir: Sigewinne\u0027in 30.000\u0027in üzerindeki her 1.000 Maks. Canı için Hasar 100 artar. Element Becerileri için bu şekilde en fazla 3.500 Hasar artışı kazanılabilir. \"Bol Bol İstirahat\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                           "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eZıplayan Hidroterapi\u003c/color\u003e becerisiyle oluşan Canlandıran Baloncuk 3 defa daha seker ve ilk 3 sekme sırasında büyük Baloncuklar küçülmez.\n\"Bol Bol İstirahat\" Yükseltme Yeteneği güçlenir: Baloncuk her sektiğinde 1 kademe Toparlanma eklenir ve Toparlanma kademelerinin verdiği Hasar bonusu değerleri şu şekilde değişir: Sigewinne\u0027in 30.000\u0027in üzerindeki her 1.000 Maks. Canı için Hasar 100 artar. Element Becerileri için bu şekilde en fazla 3.500 Hasar artışı kazanılabilir. \"Bol Bol İstirahat\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                           "description":  "Zıplayan Hidroterapi becerisiyle oluşan Canlandıran Baloncuk 3 defa daha seker ve ilk 3 sekme sırasında büyük Baloncuklar küçülmez.\n\"Bol Bol İstirahat\" Yükseltme Yeteneği güçlenir: Baloncuk her sektiğinde 1 kademe Toparlanma eklenir ve Toparlanma kademelerinin verdiği Hasar bonusu değerleri şu şekilde değişir: Sigewinne\u0027in 30.000\u0027in üzerindeki her 1.000 Maks. Canı için Hasar 100 artar. Element Becerileri için bu şekilde en fazla 3.500 Hasar artışı kazanılabilir. \"Bol Bol İstirahat\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                        }
                                                             },
                                          "elementText":  "Su",
@@ -3523,8 +3624,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Bölünen Akış",
-                                                                       "descriptionRaw":  "{LINK#N11130008}\u003ccolor=#FFD780FF\u003eUnutulmaya Dönüş\u003c/color\u003e{/LINK} Pasif Yeteneğinin etkilerini geliştirir. Her Ölümün Kıyısı kademesi Skirk\u0027ün Saldırısını %10/%20/%40 artırır.\nUnutulmaya Dönüş Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                       "description":  "**Unutulmaya Dönüş** Pasif Yeteneğinin etkilerini geliştirir. Her Ölümün Kıyısı kademesi Skirk\u0027ün Saldırısını %10/%20/%40 artırır.\nUnutulmaya Dönüş Pasif Yeteneğinin açılmış olması gerekir."
+                                                                       "descriptionRaw":  "{LINK#N11130008}\u003ccolor=#FFD780FF\u003eUnutulmaya Dönüş\u003c/color\u003e{/LINK} Yükseltme Yeteneğinin etkilerini geliştirir. Her Ölümün Kıyısı kademesi Skirk\u0027ün Saldırısını %10/%20/%40 artırır.\nUnutulmaya Dönüş Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                       "description":  "**Unutulmaya Dönüş** Yükseltme Yeteneğinin etkilerini geliştirir. Her Ölümün Kıyısı kademesi Skirk\u0027ün Saldırısını %10/%20/%40 artırır.\nUnutulmaya Dönüş Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                    },
                                                             "c3":  {
                                                                        "name":  "Kaderdeki Günah",
@@ -3538,13 +3639,13 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "Kaynağa Dönüş",
-                                                                       "descriptionRaw":  "Skirk, {LINK#N11130007}\u003ccolor=#FFD780FF\u003eAkıl Almaz Mantık\u003c/color\u003e{/LINK} Pasif Yeteneği ile soğurduğu her Boşluk Yarığı için 15sn boyunca 1 Yıkım: Koparma kademesi kazanır. Skirk bu kademeleri tüketerek ortak saldırılar yapabilir ve {LINK#N11130006}\u003ccolor=#FFD780FF\u003eYedi Aşamalı Parıltı\u003c/color\u003e{/LINK} modundayken daha az Hasar alır. Bu kademeler 15sn sürer ve her kademenin süresi birbirinden bağımsızdır. (3 kademeye kadar birikebilir)\n\"Akıl Almaz Mantık\" Pasif Yeteneğinin açılmış olması gerekir.\n\n\u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e\n·Skirk, \u003ccolor=#FFD780FF\u003eYıkım: Harap Etme\u003c/color\u003e Element Patlamasını kullandığında tüm \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademelerini tüketerek bir ortak saldırı yapar. Her \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademesi, Skirk\u0027ün Saldırısının %750\u0027si kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e verir. Bu Hasar, Element Patlaması Hasarı sayılır.\n·Skirk, Yedi Aşamalı Parıltı modundayken Normal Saldırı yaptığı zaman 3. veya 5. seri saldırısı düşmana isabet ettiğinde 1 \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademesi tüketerek 3 ortak saldırı yapar. Her ortak saldırı, Skirk\u0027ün Saldırısının %180\u0027i kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e verir. Bu Hasar, Normal Saldırı Hasarı sayılır.\n·Skirk Yedi Aşamalı Parıltı modundayken Hasar aldığında 1 \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademesi tüketerek bu saldırıdan alınan Hasarı %80 azaltır ve yakındaki düşmanlara 3 saldırı yapar, her biri Skirk\u0027ün Saldırısının %180\u0027i kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır.",
-                                                                       "description":  "Skirk, **Akıl Almaz Mantık** Pasif Yeteneği ile soğurduğu her Boşluk Yarığı için 15sn boyunca 1 Yıkım: Koparma kademesi kazanır. Skirk bu kademeleri tüketerek ortak saldırılar yapabilir ve **Yedi Aşamalı Parıltı** modundayken daha az Hasar alır. Bu kademeler 15sn sürer ve her kademenin süresi birbirinden bağımsızdır. (3 kademeye kadar birikebilir)\n\"Akıl Almaz Mantık\" Pasif Yeteneğinin açılmış olması gerekir.\n\nYıkım: Koparma\n·Skirk, Yıkım: Harap Etme Element Patlamasını kullandığında tüm Yıkım: Koparma kademelerini tüketerek bir ortak saldırı yapar. Her Yıkım: Koparma kademesi, Skirk\u0027ün Saldırısının %750\u0027si kadar Buz Hasarı verir. Bu Hasar, Element Patlaması Hasarı sayılır.\n·Skirk, Yedi Aşamalı Parıltı modundayken Normal Saldırı yaptığı zaman 3. veya 5. seri saldırısı düşmana isabet ettiğinde 1 Yıkım: Koparma kademesi tüketerek 3 ortak saldırı yapar. Her ortak saldırı, Skirk\u0027ün Saldırısının %180\u0027i kadar Buz Hasarı verir. Bu Hasar, Normal Saldırı Hasarı sayılır.\n·Skirk Yedi Aşamalı Parıltı modundayken Hasar aldığında 1 Yıkım: Koparma kademesi tüketerek bu saldırıdan alınan Hasarı %80 azaltır ve yakındaki düşmanlara 3 saldırı yapar, her biri Skirk\u0027ün Saldırısının %180\u0027i kadar Buz Hasarı verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır."
+                                                                       "descriptionRaw":  "Skirk, {LINK#N11130007}\u003ccolor=#FFD780FF\u003eAkıl Almaz Mantık\u003c/color\u003e{/LINK} Yükseltme Yeteneği ile soğurduğu her Boşluk Yarığı için 15sn boyunca 1 Yıkım: Koparma kademesi kazanır. Skirk bu kademeleri tüketerek ortak saldırılar yapabilir ve {LINK#N11130006}\u003ccolor=#FFD780FF\u003eYedi Aşamalı Parıltı\u003c/color\u003e{/LINK} modundayken daha az Hasar alır. Bu kademeler 15sn sürer ve her kademenin süresi birbirinden bağımsızdır. (3 kademeye kadar birikebilir)\n\"Akıl Almaz Mantık\" Yükseltme Yeteneğinin açılmış olması gerekir.\n\n\u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e\n·Skirk, \u003ccolor=#FFD780FF\u003eYıkım: Harap Etme\u003c/color\u003e Element Patlamasını kullandığında tüm \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademelerini tüketerek bir ortak saldırı yapar. Her \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademesi, Skirk\u0027ün Saldırısının %750\u0027si kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e verir. Bu Hasar, Element Patlaması Hasarı sayılır.\n·Skirk, Yedi Aşamalı Parıltı modundayken Normal Saldırı yaptığı zaman 3. veya 5. seri saldırısı düşmana isabet ettiğinde 1 \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademesi tüketerek 3 ortak saldırı yapar. Her ortak saldırı, Skirk\u0027ün Saldırısının %180\u0027i kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e verir. Bu Hasar, Normal Saldırı Hasarı sayılır.\n·Skirk Yedi Aşamalı Parıltı modundayken Hasar aldığında 1 \u003ccolor=#FFD780FF\u003eYıkım: Koparma\u003c/color\u003e kademesi tüketerek bu saldırıdan alınan Hasarı %80 azaltır ve yakındaki düşmanlara 3 saldırı yapar, her biri Skirk\u0027ün Saldırısının %180\u0027i kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır.",
+                                                                       "description":  "Skirk, **Akıl Almaz Mantık** Yükseltme Yeteneği ile soğurduğu her Boşluk Yarığı için 15sn boyunca 1 Yıkım: Koparma kademesi kazanır. Skirk bu kademeleri tüketerek ortak saldırılar yapabilir ve **Yedi Aşamalı Parıltı** modundayken daha az Hasar alır. Bu kademeler 15sn sürer ve her kademenin süresi birbirinden bağımsızdır. (3 kademeye kadar birikebilir)\n\"Akıl Almaz Mantık\" Yükseltme Yeteneğinin açılmış olması gerekir.\n\nYıkım: Koparma\n·Skirk, Yıkım: Harap Etme Element Patlamasını kullandığında tüm Yıkım: Koparma kademelerini tüketerek bir ortak saldırı yapar. Her Yıkım: Koparma kademesi, Skirk\u0027ün Saldırısının %750\u0027si kadar Buz Hasarı verir. Bu Hasar, Element Patlaması Hasarı sayılır.\n·Skirk, Yedi Aşamalı Parıltı modundayken Normal Saldırı yaptığı zaman 3. veya 5. seri saldırısı düşmana isabet ettiğinde 1 Yıkım: Koparma kademesi tüketerek 3 ortak saldırı yapar. Her ortak saldırı, Skirk\u0027ün Saldırısının %180\u0027i kadar Buz Hasarı verir. Bu Hasar, Normal Saldırı Hasarı sayılır.\n·Skirk Yedi Aşamalı Parıltı modundayken Hasar aldığında 1 Yıkım: Koparma kademesi tüketerek bu saldırıdan alınan Hasarı %80 azaltır ve yakındaki düşmanlara 3 saldırı yapar, her biri Skirk\u0027ün Saldırısının %180\u0027i kadar Buz Hasarı verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır."
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Derinlere Düşüş",
-                                                                       "descriptionRaw":  "{LINK#N11130007}\u003ccolor=#FFD780FF\u003eAkıl Almaz Mantık\u003c/color\u003e{/LINK} Pasif Yeteneğinin etkilerini geliştirir: Skirk\u0027ün soğurduğu her Boşluk Yarığı, yakındaki düşmanlara saldıran ve Skirk\u0027ün Saldırısının %500\u0027ü kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e veren kristal bir kılıç çağırır. Bu Hasar, Yüklü Saldırı Hasarı sayılır.\nAkıl Almaz Mantık Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                       "description":  "**Akıl Almaz Mantık** Pasif Yeteneğinin etkilerini geliştirir: Skirk\u0027ün soğurduğu her Boşluk Yarığı, yakındaki düşmanlara saldıran ve Skirk\u0027ün Saldırısının %500\u0027ü kadar Buz Hasarı veren kristal bir kılıç çağırır. Bu Hasar, Yüklü Saldırı Hasarı sayılır.\nAkıl Almaz Mantık Pasif Yeteneğinin açılmış olması gerekir."
+                                                                       "descriptionRaw":  "{LINK#N11130007}\u003ccolor=#FFD780FF\u003eAkıl Almaz Mantık\u003c/color\u003e{/LINK} Yükseltme Yeteneğinin etkilerini geliştirir: Skirk\u0027ün soğurduğu her Boşluk Yarığı, yakındaki düşmanlara saldıran ve Skirk\u0027ün Saldırısının %500\u0027ü kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e veren kristal bir kılıç çağırır. Bu Hasar, Yüklü Saldırı Hasarı sayılır.\nAkıl Almaz Mantık Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                       "description":  "**Akıl Almaz Mantık** Yükseltme Yeteneğinin etkilerini geliştirir: Skirk\u0027ün soğurduğu her Boşluk Yarığı, yakındaki düşmanlara saldıran ve Skirk\u0027ün Saldırısının %500\u0027ü kadar Buz Hasarı veren kristal bir kılıç çağırır. Bu Hasar, Yüklü Saldırı Hasarı sayılır.\nAkıl Almaz Mantık Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                    }
                                                         },
                                      "elementText":  "Buz",
@@ -3559,8 +3660,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Tembelliktir Baş Düşman!",
-                                                                        "descriptionRaw":  "Iansan, \u003ccolor=#FFD780FF\u003eGücün Üç Prensibi\u003c/color\u003e Element Patlamasını kullandığında 15 saniyeliğine \"Gelişmiş Direnç Antrenmanı\" Pasif Yeteneğinden gelen Hassas Hareket etkisini de kazanır. Ayrıca Hassas Hareket etkinken Iansan savaş alanında değilse mevcut aktif karakterinin Saldırısı %30 artar. Bu etkiyi kullanmak için \"Gelişmiş Direnç Antrenmanı\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "Iansan, Gücün Üç Prensibi Element Patlamasını kullandığında 15 saniyeliğine \"Gelişmiş Direnç Antrenmanı\" Pasif Yeteneğinden gelen Hassas Hareket etkisini de kazanır. Ayrıca Hassas Hareket etkinken Iansan savaş alanında değilse mevcut aktif karakterinin Saldırısı %30 artar. Bu etkiyi kullanmak için \"Gelişmiş Direnç Antrenmanı\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "Iansan, \u003ccolor=#FFD780FF\u003eGücün Üç Prensibi\u003c/color\u003e Element Patlamasını kullandığında 15 saniyeliğine \"Gelişmiş Direnç Antrenmanı\" Yükseltme Yeteneğinden gelen Hassas Hareket etkisini de kazanır. Ayrıca Hassas Hareket etkinken Iansan savaş alanında değilse mevcut aktif karakterinin Saldırısı %30 artar. Bu etkiyi kullanmak için \"Gelişmiş Direnç Antrenmanı\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "Iansan, Gücün Üç Prensibi Element Patlamasını kullandığında 15 saniyeliğine \"Gelişmiş Direnç Antrenmanı\" Yükseltme Yeteneğinden gelen Hassas Hareket etkisini de kazanır. Ayrıca Hassas Hareket etkinken Iansan savaş alanında değilse mevcut aktif karakterinin Saldırısı %30 artar. Bu etkiyi kullanmak için \"Gelişmiş Direnç Antrenmanı\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Yavaş Ama İstikrarlı Olan Kazanır",
@@ -3578,7 +3679,7 @@
                                                                         "description":  "Gücün Üç Prensibi Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
                                                                     },
                                                              "c6":  {
-                                                                        "name":  "Bereket Kolektifi Öğretileri",
+                                                                        "name":  "Bereket Kolektifi Öğretisi",
                                                                         "descriptionRaw":  "Kinetik Enerji Ölçeğinin süresi 3sn artar.\nBuna ek olarak Iansan, Gece Ruhu puanı yenilediğinde maksimumun üzerinde Gece Ruhu puanı yenilerse Ekstrem Kuvvet etkisini kazanır. Bu etki, 3 saniyeliğine mevcut aktif karakterinin verdiği Hasarı %25 artırır.",
                                                                         "description":  "Kinetik Enerji Ölçeğinin süresi 3sn artar.\nBuna ek olarak Iansan, Gece Ruhu puanı yenilediğinde maksimumun üzerinde Gece Ruhu puanı yenilerse Ekstrem Kuvvet etkisini kazanır. Bu etki, 3 saniyeliğine mevcut aktif karakterinin verdiği Hasarı %25 artırır."
                                                                     },
@@ -3605,8 +3706,8 @@
                                                                       },
                                                                "c4":  {
                                                                           "name":  "Yonban: Bahara Doğru",
-                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eHanega: Rüzgar Şarkısı\u003c/color\u003e becerisini kullanırken \"Yeşim Kaplı Çiçek\" Pasif Yeteneği tetiklenirse karakter, temas ettiği Element türüne göre güçlendirmeler ve tetiklenmemiş rastgele bir güçlendirme kazanır. Aynı anda bu türden en fazla ilgili 3 element güçlendirmesi bulunabilir.\n\"Yeşim Kaplı Çiçek\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                          "description":  "Hanega: Rüzgar Şarkısı becerisini kullanırken \"Yeşim Kaplı Çiçek\" Pasif Yeteneği tetiklenirse karakter, temas ettiği Element türüne göre güçlendirmeler ve tetiklenmemiş rastgele bir güçlendirme kazanır. Aynı anda bu türden en fazla ilgili 3 element güçlendirmesi bulunabilir.\n\"Yeşim Kaplı Çiçek\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eHanega: Rüzgar Şarkısı\u003c/color\u003e becerisini kullanırken \"Yeşim Kaplı Çiçek\" Yükseltme Yeteneği tetiklenirse karakter, temas ettiği Element türüne göre güçlendirmeler ve tetiklenmemiş rastgele bir güçlendirme kazanır. Aynı anda bu türden en fazla ilgili 3 element güçlendirmesi bulunabilir.\n\"Yeşim Kaplı Çiçek\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                          "description":  "Hanega: Rüzgar Şarkısı becerisini kullanırken \"Yeşim Kaplı Çiçek\" Yükseltme Yeteneği tetiklenirse karakter, temas ettiği Element türüne göre güçlendirmeler ve tetiklenmemiş rastgele bir güçlendirme kazanır. Aynı anda bu türden en fazla ilgili 3 element güçlendirmesi bulunabilir.\n\"Yeşim Kaplı Çiçek\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                       },
                                                                "c3":  {
                                                                           "name":  "Sanban: Kasım Çiçeği Kusemai",
@@ -3625,8 +3726,8 @@
                                                                       },
                                                                "c1":  {
                                                                           "name":  "Shoban: Gösterişli Tüy",
-                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAkım Harmonisi\u003c/color\u003e durumundayken Avare\u0027nin Kuugo: Fushoudan ve Kuugo: Toufukai Saldırı Hızı %10 artar.\nEk olarak Bora Rüyası Pasif Yeteneği tarafından ateşlenen rüzgar okları, Avare\u0027nin Saldırısının %25\u0027i kadar ek Hasar verir. \"Bora Rüyası\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                          "description":  "Akım Harmonisi durumundayken Avare\u0027nin Kuugo: Fushoudan ve Kuugo: Toufukai Saldırı Hızı %10 artar.\nEk olarak Bora Rüyası Pasif Yeteneği tarafından ateşlenen rüzgar okları, Avare\u0027nin Saldırısının %25\u0027i kadar ek Hasar verir. \"Bora Rüyası\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                          "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAkım Harmonisi\u003c/color\u003e durumundayken Avare\u0027nin Kuugo: Fushoudan ve Kuugo: Toufukai Saldırı Hızı %10 artar.\nEk olarak Bora Rüyası Yükseltme Yeteneği tarafından ateşlenen rüzgar okları, Avare\u0027nin Saldırısının %25\u0027i kadar ek Hasar verir. \"Bora Rüyası\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                          "description":  "Akım Harmonisi durumundayken Avare\u0027nin Kuugo: Fushoudan ve Kuugo: Toufukai Saldırı Hızı %10 artar.\nEk olarak Bora Rüyası Yükseltme Yeteneği tarafından ateşlenen rüzgar okları, Avare\u0027nin Saldırısının %25\u0027i kadar ek Hasar verir. \"Bora Rüyası\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                       }
                                                            },
                                         "elementText":  "Rüzgar",
@@ -3764,8 +3865,8 @@
                                    "constellations":  {
                                                           "c2":  {
                                                                      "name":  "İsabetli Atış Duası",
-                                                                     "descriptionRaw":  "Ifa Gece Ruhunun Lütfu durumundayken grubun sahip olduğu toplam Gece Ruhu puanı 60\u0027ın üzerindeyse, 60\u0027ın üzerindeki her 1 puan başına Ifa fazladan 4 {LINK#N11130002}\u003ccolor=#FFD780FF\u003eKurtarma Kiti\u003c/color\u003e{/LINK} puanı kazanır.\nEk olarak, Ifa\u0027nın Kurtarma Kiti sınırı 50 artar.\n{LINK#P1132101}\u003ccolor=#FFD780FF\u003eSaha Doktorunun Gayreti\u003c/color\u003e{/LINK} Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                     "description":  "Ifa Gece Ruhunun Lütfu durumundayken grubun sahip olduğu toplam Gece Ruhu puanı 60\u0027ın üzerindeyse, 60\u0027ın üzerindeki her 1 puan başına Ifa fazladan 4 **Kurtarma Kiti** puanı kazanır.\nEk olarak, Ifa\u0027nın Kurtarma Kiti sınırı 50 artar.\n**Saha Doktorunun Gayreti** Pasif Yeteneğinin açılmış olması gerekir."
+                                                                     "descriptionRaw":  "Ifa Gece Ruhunun Lütfu durumundayken grubun sahip olduğu toplam Gece Ruhu puanı 60\u0027ın üzerindeyse, 60\u0027ın üzerindeki her 1 puan başına Ifa fazladan 4 {LINK#N11130002}\u003ccolor=#FFD780FF\u003eKurtarma Kiti\u003c/color\u003e{/LINK} puanı kazanır.\nEk olarak, Ifa\u0027nın Kurtarma Kiti sınırı 50 artar.\n{LINK#P1132101}\u003ccolor=#FFD780FF\u003eSaha Doktorunun Gayreti\u003c/color\u003e{/LINK} Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                     "description":  "Ifa Gece Ruhunun Lütfu durumundayken grubun sahip olduğu toplam Gece Ruhu puanı 60\u0027ın üzerindeyse, 60\u0027ın üzerindeki her 1 puan başına Ifa fazladan 4 **Kurtarma Kiti** puanı kazanır.\nEk olarak, Ifa\u0027nın Kurtarma Kiti sınırı 50 artar.\n**Saha Doktorunun Gayreti** Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                  },
                                                           "c4":  {
                                                                      "name":  "Yitik Suretin Dönüşümü",
@@ -3924,6 +4025,16 @@
                                                 "region":  "Inazuma",
                                                 "gender":  "kadın"
                                             },
+                       "manekina":  {
+                                        "constellations":  null,
+                                        "elementText":  "Yok",
+                                        "fullname":  null,
+                                        "weaponText":  "Kılıç",
+                                        "name":  "Manekina",
+                                        "substatText":  "Saldırı",
+                                        "region":  "",
+                                        "gender":  "kadın"
+                                    },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3933,8 +4044,8 @@
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Liderin Azmi",
-                                                                         "descriptionRaw":  "\"Kiongozi\" Pasif Yeteneğinin etkilerini geliştirir:\n\u003ccolor=#FFD780FF\u003eGöklerin Yandığı Vakit\u003c/color\u003e Element Patlaması kullandıktan sonra kazanılan Hasar artışı zamanla azalmaz ve ilave %10 Hasar Bonusu kazanılır.\n\"Kiongozi\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                         "description":  "\"Kiongozi\" Pasif Yeteneğinin etkilerini geliştirir:\nGöklerin Yandığı Vakit Element Patlaması kullandıktan sonra kazanılan Hasar artışı zamanla azalmaz ve ilave %10 Hasar Bonusu kazanılır.\n\"Kiongozi\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                         "descriptionRaw":  "\"Kiongozi\" Yükseltme Yeteneğinin etkilerini geliştirir:\n\u003ccolor=#FFD780FF\u003eGöklerin Yandığı Vakit\u003c/color\u003e Element Patlaması kullandıktan sonra kazanılan Hasar artışı zamanla azalmaz ve ilave %10 Hasar Bonusu kazanılır.\n\"Kiongozi\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                         "description":  "\"Kiongozi\" Yükseltme Yeteneğinin etkilerini geliştirir:\nGöklerin Yandığı Vakit Element Patlaması kullandıktan sonra kazanılan Hasar artışı zamanla azalmaz ve ilave %10 Hasar Bonusu kazanılır.\n\"Kiongozi\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Güneş Yanarken",
@@ -3994,8 +4105,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Sönmeyen Tutku",
-                                                                        "descriptionRaw":  "\"Güreş Takımının Üçlü Sıçrayışı!\" Pasif Yeteneğinin etkileri geliştirilir:\nVaresa, \"Gürleyen Kasırga Patlaması\" Özel Havadan Saldırısını kullanırken 5 saniyeliğine \"Gökkuşağı Çarpışması\" etkisini kazanır.\n\"Gökkuşağı Çarpışması\" etkinken Varesa\u0027nın Havadan Saldırısının yere vuruş Hasarı, Varesa\u0027nın Ateşli Tutku durumunda olup olmaması fark etmeksizin Saldırısının %180\u0027i kadar artar. Bu etkiyi kullanmak için \"Güreş Takımının Üçlü Sıçrayışı!\" Pasif Yeteneğinin açılmış olması gerekir.\n\nAyrıca Varesa Gece Ruhunun Lütfu durumundaki Ani Taarruz modundayken %30 daha az Gece Ruhu puanı veya Filojiston tüketir.",
-                                                                        "description":  "\"Güreş Takımının Üçlü Sıçrayışı!\" Pasif Yeteneğinin etkileri geliştirilir:\nVaresa, \"Gürleyen Kasırga Patlaması\" Özel Havadan Saldırısını kullanırken 5 saniyeliğine \"Gökkuşağı Çarpışması\" etkisini kazanır.\n\"Gökkuşağı Çarpışması\" etkinken Varesa\u0027nın Havadan Saldırısının yere vuruş Hasarı, Varesa\u0027nın Ateşli Tutku durumunda olup olmaması fark etmeksizin Saldırısının %180\u0027i kadar artar. Bu etkiyi kullanmak için \"Güreş Takımının Üçlü Sıçrayışı!\" Pasif Yeteneğinin açılmış olması gerekir.\n\nAyrıca Varesa Gece Ruhunun Lütfu durumundaki Ani Taarruz modundayken %30 daha az Gece Ruhu puanı veya Filojiston tüketir."
+                                                                        "descriptionRaw":  "\"Güreş Takımının Üçlü Sıçrayışı!\" Yükseltme Yeteneğinin etkileri geliştirilir:\nVaresa, \"Gürleyen Kasırga Patlaması\" Özel Havadan Saldırısını kullanırken 5 saniyeliğine \"Gökkuşağı Çarpışması\" etkisini kazanır.\n\"Gökkuşağı Çarpışması\" etkinken Varesa\u0027nın Havadan Saldırısının yere vuruş Hasarı, Varesa\u0027nın Ateşli Tutku durumunda olup olmaması fark etmeksizin Saldırısının %180\u0027i kadar artar. Bu etkiyi kullanmak için \"Güreş Takımının Üçlü Sıçrayışı!\" Yükseltme Yeteneğinin açılmış olması gerekir.\n\nAyrıca Varesa Gece Ruhunun Lütfu durumundaki Ani Taarruz modundayken %30 daha az Gece Ruhu puanı veya Filojiston tüketir.",
+                                                                        "description":  "\"Güreş Takımının Üçlü Sıçrayışı!\" Yükseltme Yeteneğinin etkileri geliştirilir:\nVaresa, \"Gürleyen Kasırga Patlaması\" Özel Havadan Saldırısını kullanırken 5 saniyeliğine \"Gökkuşağı Çarpışması\" etkisini kazanır.\n\"Gökkuşağı Çarpışması\" etkinken Varesa\u0027nın Havadan Saldırısının yere vuruş Hasarı, Varesa\u0027nın Ateşli Tutku durumunda olup olmaması fark etmeksizin Saldırısının %180\u0027i kadar artar. Bu etkiyi kullanmak için \"Güreş Takımının Üçlü Sıçrayışı!\" Yükseltme Yeteneğinin açılmış olması gerekir.\n\nAyrıca Varesa Gece Ruhunun Lütfu durumundaki Ani Taarruz modundayken %30 daha az Gece Ruhu puanı veya Filojiston tüketir."
                                                                     }
                                                          },
                                       "elementText":  "Elektrik",
@@ -4153,13 +4264,13 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Kıyafet: Adalet Terazisi",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKutsal Ayin: Kurt Çevikliği\u003c/color\u003e kullandıktan veya \"Tüy Yargısı\" Pasif Yeteneğinin Hakim etkisini tetikledikten sonra Cyno, \"Çakal Günü\" etkisinden 4 kademe biriktirir. Düşmanlara Normal Saldırı ile vurduğunda bir Yaban Yıldırımı atmak için 1 \"Çakal Günü\" kademesi harcar.\n\"Çakal Günü\" 8 saniye sürer. 8 kademeye kadar birikebilir. Sadık Öncü sona erdiğinde iptal olur.\nHer 0,4 saniyede 1 Yaban Yıldırımı atılabilir.\n\"Tüy Yargısı\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                      "description":  "Kutsal Ayin: Kurt Çevikliği kullandıktan veya \"Tüy Yargısı\" Pasif Yeteneğinin Hakim etkisini tetikledikten sonra Cyno, \"Çakal Günü\" etkisinden 4 kademe biriktirir. Düşmanlara Normal Saldırı ile vurduğunda bir Yaban Yıldırımı atmak için 1 \"Çakal Günü\" kademesi harcar.\n\"Çakal Günü\" 8 saniye sürer. 8 kademeye kadar birikebilir. Sadık Öncü sona erdiğinde iptal olur.\nHer 0,4 saniyede 1 Yaban Yıldırımı atılabilir.\n\"Tüy Yargısı\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKutsal Ayin: Kurt Çevikliği\u003c/color\u003e kullandıktan veya \"Tüy Yargısı\" Yükseltme Yeteneğinin Hakim etkisini tetikledikten sonra Cyno, \"Çakal Günü\" etkisinden 4 kademe biriktirir. Düşmanlara Normal Saldırı ile vurduğunda bir Yaban Yıldırımı atmak için 1 \"Çakal Günü\" kademesi harcar.\n\"Çakal Günü\" 8 saniye sürer. 8 kademeye kadar birikebilir. Sadık Öncü sona erdiğinde iptal olur.\nHer 0,4 saniyede 1 Yaban Yıldırımı atılabilir.\n\"Tüy Yargısı\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                      "description":  "Kutsal Ayin: Kurt Çevikliği kullandıktan veya \"Tüy Yargısı\" Yükseltme Yeteneğinin Hakim etkisini tetikledikten sonra Cyno, \"Çakal Günü\" etkisinden 4 kademe biriktirir. Düşmanlara Normal Saldırı ile vurduğunda bir Yaban Yıldırımı atmak için 1 \"Çakal Günü\" kademesi harcar.\n\"Çakal Günü\" 8 saniye sürer. 8 kademeye kadar birikebilir. Sadık Öncü sona erdiğinde iptal olur.\nHer 0,4 saniyede 1 Yaban Yıldırımı atılabilir.\n\"Tüy Yargısı\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Yazgı: Ebedi Nöbet",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKutsal Ayin: Kurt Çevikliği\u003c/color\u003e kullanıldıktan sonra 10 saniyeliğine Cyno\u0027nun Normal Saldırı Hızı %20 artar. Tüy Yargısı Pasif Yeteneğinin Hakim etkisi \u003ccolor=#FFD780FF\u003eSaklı Ayin: Ahir Rehberi\u003c/color\u003e sırasında tetiklenirse bu artışın süresi yenilenir.\n\"Tüy Yargısı\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                      "description":  "Kutsal Ayin: Kurt Çevikliği kullanıldıktan sonra 10 saniyeliğine Cyno\u0027nun Normal Saldırı Hızı %20 artar. Tüy Yargısı Pasif Yeteneğinin Hakim etkisi Saklı Ayin: Ahir Rehberi sırasında tetiklenirse bu artışın süresi yenilenir.\n\"Tüy Yargısı\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKutsal Ayin: Kurt Çevikliği\u003c/color\u003e kullanıldıktan sonra 10 saniyeliğine Cyno\u0027nun Normal Saldırı Hızı %20 artar. Tüy Yargısı Yükseltme Yeteneğinin Hakim etkisi \u003ccolor=#FFD780FF\u003eSaklı Ayin: Ahir Rehberi\u003c/color\u003e sırasında tetiklenirse bu artışın süresi yenilenir.\n\"Tüy Yargısı\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                      "description":  "Kutsal Ayin: Kurt Çevikliği kullanıldıktan sonra 10 saniyeliğine Cyno\u0027nun Normal Saldırı Hızı %20 artar. Tüy Yargısı Yükseltme Yeteneğinin Hakim etkisi Saklı Ayin: Ahir Rehberi sırasında tetiklenirse bu artışın süresi yenilenir.\n\"Tüy Yargısı\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                   }
                                                        },
                                     "elementText":  "Elektrik",
@@ -4256,13 +4367,13 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Küstahlara Esaret",
-                                                                             "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKara Altın Kurt Isırığı\u003c/color\u003e kullanıldığında, \"Her Günahın Bir Bedeli Var\" Pasif Yeteneği ile kazanılan Kovuşturma Emri kademeleri, bu yeteneğin Hasarını %40 artırır.\n\"Her Günahın Bir Bedeli Var\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                             "description":  "Kara Altın Kurt Isırığı kullanıldığında, \"Her Günahın Bir Bedeli Var\" Pasif Yeteneği ile kazanılan Kovuşturma Emri kademeleri, bu yeteneğin Hasarını %40 artırır.\n\"Her Günahın Bir Bedeli Var\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                             "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKara Altın Kurt Isırığı\u003c/color\u003e kullanıldığında, \"Her Günahın Bir Bedeli Var\" Yükseltme Yeteneği ile kazanılan Kovuşturma Emri kademeleri, bu yeteneğin Hasarını %40 artırır.\n\"Her Günahın Bir Bedeli Var\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                             "description":  "Kara Altın Kurt Isırığı kullanıldığında, \"Her Günahın Bir Bedeli Var\" Yükseltme Yeteneği ile kazanılan Kovuşturma Emri kademeleri, bu yeteneğin Hasarını %40 artırır.\n\"Her Günahın Bir Bedeli Var\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Mazlumlara Kefaret",
-                                                                             "descriptionRaw":  "Wriothesley\u0027nin Azar: Sıçrayan Yumruk ile yenilediği Can, Maks. Canının %50\u0027sine kadar yükselir. \"Adalet Yerini Bulacak\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca Wriothesley\u0027nin Maks. Canından daha fazla iyileşmesi halinde, savaş alanında olup olmamasına göre şu etkiler meydana gelir. Wriothesley eğer savaş alanındaysa 4 saniyeliğine Saldırı Hızı %20 artar, savaş alanında değilse 6 saniyeliğine tüm grup üyelerinin Saldırı Hızı %10 artar. Bu iki Saldırı Hızı artırma yöntemi birbirine eklenmez.",
-                                                                             "description":  "Wriothesley\u0027nin Azar: Sıçrayan Yumruk ile yenilediği Can, Maks. Canının %50\u0027sine kadar yükselir. \"Adalet Yerini Bulacak\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca Wriothesley\u0027nin Maks. Canından daha fazla iyileşmesi halinde, savaş alanında olup olmamasına göre şu etkiler meydana gelir. Wriothesley eğer savaş alanındaysa 4 saniyeliğine Saldırı Hızı %20 artar, savaş alanında değilse 6 saniyeliğine tüm grup üyelerinin Saldırı Hızı %10 artar. Bu iki Saldırı Hızı artırma yöntemi birbirine eklenmez."
+                                                                             "descriptionRaw":  "Wriothesley\u0027nin Azar: Sıçrayan Yumruk ile yenilediği Can, Maks. Canının %50\u0027sine kadar yükselir. \"Adalet Yerini Bulacak\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca Wriothesley\u0027nin Maks. Canından daha fazla iyileşmesi halinde, savaş alanında olup olmamasına göre şu etkiler meydana gelir. Wriothesley eğer savaş alanındaysa 4 saniyeliğine Saldırı Hızı %20 artar, savaş alanında değilse 6 saniyeliğine tüm grup üyelerinin Saldırı Hızı %10 artar. Bu iki Saldırı Hızı artırma yöntemi birbirine eklenmez.",
+                                                                             "description":  "Wriothesley\u0027nin Azar: Sıçrayan Yumruk ile yenilediği Can, Maks. Canının %50\u0027sine kadar yükselir. \"Adalet Yerini Bulacak\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca Wriothesley\u0027nin Maks. Canından daha fazla iyileşmesi halinde, savaş alanında olup olmamasına göre şu etkiler meydana gelir. Wriothesley eğer savaş alanındaysa 4 saniyeliğine Saldırı Hızı %20 artar, savaş alanında değilse 6 saniyeliğine tüm grup üyelerinin Saldırı Hızı %10 artar. Bu iki Saldırı Hızı artırma yöntemi birbirine eklenmez."
                                                                          },
                                                                   "c3":  {
                                                                              "name":  "Sahtekarlara Ukubet",
@@ -4276,13 +4387,13 @@
                                                                          },
                                                                   "c6":  {
                                                                              "name":  "Masumlara Hürmet",
-                                                                             "descriptionRaw":  "Azar: Sıçrayan Yumruk Kritik Oranı %10, Kritik Hasarı %80 artar. Ayrıca Azar: Sıçrayan Yumruğun Temel Hasarının %100\u0027ü kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e veren ek bir sarkıt ortaya çıkarır. Bu şekilde verilen Hasar, Yüklü Saldırı Hasarı sayılır.\n\"Adalet Yerini Bulacak\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                             "description":  "Azar: Sıçrayan Yumruk Kritik Oranı %10, Kritik Hasarı %80 artar. Ayrıca Azar: Sıçrayan Yumruğun Temel Hasarının %100\u0027ü kadar Buz Hasarı veren ek bir sarkıt ortaya çıkarır. Bu şekilde verilen Hasar, Yüklü Saldırı Hasarı sayılır.\n\"Adalet Yerini Bulacak\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                             "descriptionRaw":  "Azar: Sıçrayan Yumruk Kritik Oranı %10, Kritik Hasarı %80 artar. Ayrıca Azar: Sıçrayan Yumruğun Temel Hasarının %100\u0027ü kadar \u003ccolor=#99FFFFFF\u003eBuz Hasarı\u003c/color\u003e veren ek bir sarkıt ortaya çıkarır. Bu şekilde verilen Hasar, Yüklü Saldırı Hasarı sayılır.\n\"Adalet Yerini Bulacak\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                             "description":  "Azar: Sıçrayan Yumruk Kritik Oranı %10, Kritik Hasarı %80 artar. Ayrıca Azar: Sıçrayan Yumruğun Temel Hasarının %100\u0027ü kadar Buz Hasarı veren ek bir sarkıt ortaya çıkarır. Bu şekilde verilen Hasar, Yüklü Saldırı Hasarı sayılır.\n\"Adalet Yerini Bulacak\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Kötülere Eziyet",
-                                                                             "descriptionRaw":  "\"Adalet Yerini Bulacak\" Pasif Yeteneği ile tetiklenen Şefkatli Azar aşağıdaki şekilde değişir:\nWriothesley\u0027nin Canı %60\u0027ın altına düştüğünde veya \u003ccolor=#FFD780FF\u003eBuzdiş Saldırısı\u003c/color\u003e becerisinin neden olduğu Ürperten Ceza durumundayken beşinci Püskürtücü Yumruk saldırısı isabet ettiğinde bir Şefkatli Azar oluşturur. Her 2,5 saniyede bir Şefkatli Azar etkisi kazanılabilir.\n\nAyrıca Azar: Sıçrayan Yumruk şu etkileri kazanır:\n·Kazanılan Hasar Bonusu %200 artar.\n·Wriothesley Ürperten Ceza durumundayken isabet ettiğinde bu durumun süresi 4 saniye uzar. Bu uzatma her bir Ürperten Ceza durumu için bir defa meydana gelebilir.\n\n\"Adalet Yerini Bulacak\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                             "description":  "\"Adalet Yerini Bulacak\" Pasif Yeteneği ile tetiklenen Şefkatli Azar aşağıdaki şekilde değişir:\nWriothesley\u0027nin Canı %60\u0027ın altına düştüğünde veya Buzdiş Saldırısı becerisinin neden olduğu Ürperten Ceza durumundayken beşinci Püskürtücü Yumruk saldırısı isabet ettiğinde bir Şefkatli Azar oluşturur. Her 2,5 saniyede bir Şefkatli Azar etkisi kazanılabilir.\n\nAyrıca Azar: Sıçrayan Yumruk şu etkileri kazanır:\n·Kazanılan Hasar Bonusu %200 artar.\n·Wriothesley Ürperten Ceza durumundayken isabet ettiğinde bu durumun süresi 4 saniye uzar. Bu uzatma her bir Ürperten Ceza durumu için bir defa meydana gelebilir.\n\n\"Adalet Yerini Bulacak\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                             "descriptionRaw":  "\"Adalet Yerini Bulacak\" Yükseltme Yeteneği ile tetiklenen Şefkatli Azar aşağıdaki şekilde değişir:\nWriothesley\u0027nin Canı %60\u0027ın altına düştüğünde veya \u003ccolor=#FFD780FF\u003eBuzdiş Saldırısı\u003c/color\u003e becerisinin neden olduğu Ürperten Ceza durumundayken beşinci Püskürtücü Yumruk saldırısı isabet ettiğinde bir Şefkatli Azar oluşturur. Her 2,5 saniyede bir Şefkatli Azar etkisi kazanılabilir.\n\nAyrıca Azar: Sıçrayan Yumruk şu etkileri kazanır:\n·Kazanılan Hasar Bonusu %200 artar.\n·Wriothesley Ürperten Ceza durumundayken isabet ettiğinde bu durumun süresi 4 saniye uzar. Bu uzatma her bir Ürperten Ceza durumu için bir defa meydana gelebilir.\n\n\"Adalet Yerini Bulacak\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                             "description":  "\"Adalet Yerini Bulacak\" Yükseltme Yeteneği ile tetiklenen Şefkatli Azar aşağıdaki şekilde değişir:\nWriothesley\u0027nin Canı %60\u0027ın altına düştüğünde veya Buzdiş Saldırısı becerisinin neden olduğu Ürperten Ceza durumundayken beşinci Püskürtücü Yumruk saldırısı isabet ettiğinde bir Şefkatli Azar oluşturur. Her 2,5 saniyede bir Şefkatli Azar etkisi kazanılabilir.\n\nAyrıca Azar: Sıçrayan Yumruk şu etkileri kazanır:\n·Kazanılan Hasar Bonusu %200 artar.\n·Wriothesley Ürperten Ceza durumundayken isabet ettiğinde bu durumun süresi 4 saniye uzar. Bu uzatma her bir Ürperten Ceza durumu için bir defa meydana gelebilir.\n\n\"Adalet Yerini Bulacak\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                          }
                                                               },
                                            "elementText":  "Buz",
@@ -4445,8 +4556,8 @@
                                                                            },
                                                                     "c1":  {
                                                                                "name":  "Yükselen Göl",
-                                                                               "descriptionRaw":  "Gezgin, bir Kaynak Suyu Damlacığı aldığında 2 Enerji yeniler.\n\"Saf Sular\" Pasif Yeteneğini gerektirir.",
-                                                                               "description":  "Gezgin, bir Kaynak Suyu Damlacığı aldığında 2 Enerji yeniler.\n\"Saf Sular\" Pasif Yeteneğini gerektirir."
+                                                                               "descriptionRaw":  "Gezgin, bir Kaynak Suyu Damlacığı aldığında 2 Enerji yeniler.\n\"Saf Sular\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                               "description":  "Gezgin, bir Kaynak Suyu Damlacığı aldığında 2 Enerji yeniler.\n\"Saf Sular\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                            }
                                                                 }
                                          },
@@ -4577,8 +4688,8 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Adli Uyarı",
-                                                                             "descriptionRaw":  "\"Kadim Deniz İktidarının Varisi\" Pasif Yeteneği gelişir: Her Kadim Ejder İhtişamı kademesi, Yüklü Saldırı: Adil Yargının Kritik Hasarını %14 artırır. Bu şekilde en fazla %42 artış elde edilebilir.\n\"Kadim Deniz İktidarının Varisi\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                             "description":  "\"Kadim Deniz İktidarının Varisi\" Pasif Yeteneği gelişir: Her Kadim Ejder İhtişamı kademesi, Yüklü Saldırı: Adil Yargının Kritik Hasarını %14 artırır. Bu şekilde en fazla %42 artış elde edilebilir.\n\"Kadim Deniz İktidarının Varisi\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                             "descriptionRaw":  "\"Kadim Deniz İktidarının Varisi\" Yükseltme Yeteneği gelişir: Her Kadim Ejder İhtişamı kademesi, Yüklü Saldırı: Adil Yargının Kritik Hasarını %14 artırır. Bu şekilde en fazla %42 artış elde edilebilir.\n\"Kadim Deniz İktidarının Varisi\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                             "description":  "\"Kadim Deniz İktidarının Varisi\" Yükseltme Yeteneği gelişir: Her Kadim Ejder İhtişamı kademesi, Yüklü Saldırı: Adil Yargının Kritik Hasarını %14 artırır. Bu şekilde en fazla %42 artış elde edilebilir.\n\"Kadim Deniz İktidarının Varisi\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Merhamet Tacı",
@@ -4602,8 +4713,8 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Saygıdeğer Kurum",
-                                                                             "descriptionRaw":  "Neuvillette savaş alanına geldikten sonra \"Kadim Deniz İktidarının Varisi\" Pasif Yeteneğinden 1 Kadim Ejder İhtişamı kademesi kazanır. \"Kadim Deniz İktidarının Varisi\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca, Yüklü Saldırı Güçlendirmesi: Hukuki Değerlendirme ve Yüklü Saldırı: Adil Yargı kullanırken müdahaleye karşı direnci artar.",
-                                                                             "description":  "Neuvillette savaş alanına geldikten sonra \"Kadim Deniz İktidarının Varisi\" Pasif Yeteneğinden 1 Kadim Ejder İhtişamı kademesi kazanır. \"Kadim Deniz İktidarının Varisi\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca, Yüklü Saldırı Güçlendirmesi: Hukuki Değerlendirme ve Yüklü Saldırı: Adil Yargı kullanırken müdahaleye karşı direnci artar."
+                                                                             "descriptionRaw":  "Neuvillette savaş alanına geldikten sonra \"Kadim Deniz İktidarının Varisi\" Yükseltme Yeteneğinden 1 Kadim Ejder İhtişamı kademesi kazanır. \"Kadim Deniz İktidarının Varisi\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca, Yüklü Saldırı Güçlendirmesi: Hukuki Değerlendirme ve Yüklü Saldırı: Adil Yargı kullanırken müdahaleye karşı direnci artar.",
+                                                                             "description":  "Neuvillette savaş alanına geldikten sonra \"Kadim Deniz İktidarının Varisi\" Yükseltme Yeteneğinden 1 Kadim Ejder İhtişamı kademesi kazanır. \"Kadim Deniz İktidarının Varisi\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca, Yüklü Saldırı Güçlendirmesi: Hukuki Değerlendirme ve Yüklü Saldırı: Adil Yargı kullanırken müdahaleye karşı direnci artar."
                                                                          }
                                                               },
                                            "elementText":  "Su",
@@ -4638,13 +4749,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Derin Pınarların Kasidesi",
-                                                                        "descriptionRaw":  "Pasif Yetenek Gece Gölgesi Sinestezisi ile Süper Duyu tetiklendikten sonra 9 saniyeliğine aktif karakterinin Saldırısı %10 artar. En fazla 3 kademe birikir, her kademenin süresi birbirinden bağımsızdır.\nAyrıca, Element Patlaması \u003ccolor=#FFD780FF\u003eKaranlık Seslerin Yankıları\u003c/color\u003e kullandığında \"Süper Duyu\" ile eşdeğer bir etki tetiklenir ve orijinal Hasarın %200\u0027ü kadar Hasar verir.\n\"Gece Gölgesi Sinestezisi\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "Pasif Yetenek Gece Gölgesi Sinestezisi ile Süper Duyu tetiklendikten sonra 9 saniyeliğine aktif karakterinin Saldırısı %10 artar. En fazla 3 kademe birikir, her kademenin süresi birbirinden bağımsızdır.\nAyrıca, Element Patlaması Karanlık Seslerin Yankıları kullandığında \"Süper Duyu\" ile eşdeğer bir etki tetiklenir ve orijinal Hasarın %200\u0027ü kadar Hasar verir.\n\"Gece Gölgesi Sinestezisi\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "\"Gece Gölgesi Sinestezisi\" Yükseltme Yeteneği ile Süper Duyu tetiklendikten sonra 9 saniyeliğine aktif karakterinin Saldırısı %10 artar. 3 kademeye kadar birikebilir, her kademenin süresi birbirinden bağımsızdır.\nAyrıca, Element Patlaması \u003ccolor=#FFD780FF\u003eKaranlık Seslerin Yankıları\u003c/color\u003e kullandığında \"Süper Duyu\" ile eşdeğer bir etki tetiklenir ve orijinal Hasarın %200\u0027ü kadar Hasar verir.\n\"Gece Gölgesi Sinestezisi\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "\"Gece Gölgesi Sinestezisi\" Yükseltme Yeteneği ile Süper Duyu tetiklendikten sonra 9 saniyeliğine aktif karakterinin Saldırısı %10 artar. 3 kademeye kadar birikebilir, her kademenin süresi birbirinden bağımsızdır.\nAyrıca, Element Patlaması Karanlık Seslerin Yankıları kullandığında \"Süper Duyu\" ile eşdeğer bir etki tetiklenir ve orijinal Hasarın %200\u0027ü kadar Hasar verir.\n\"Gece Gölgesi Sinestezisi\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Sisli Ormandaki İzler",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eGece Sapanı\u003c/color\u003e Element Becerisinin \u003ccolor=#FFD780FF\u003eRuh Küresi\u003c/color\u003e 2 defa daha sekebilir.\nAyrıca \u003ccolor=#FFD780FF\u003eRuh Küresi\u003c/color\u003e bir düşmana isabet ettikten sonra 12 saniyeliğine Gece Gelgiti etkisi uygular. Gece Gelgiti etkisindeki düşmanların \"Gece Gölgesi Sinestezisi\" Pasif Yeteneği tarafından tetiklenen Süper Duyudan aldıkları Hasar %50 artar. Bu etkiyi tetiklemek için \"Gece Gölgesi Sinestezisi\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "Gece Sapanı Element Becerisinin Ruh Küresi 2 defa daha sekebilir.\nAyrıca Ruh Küresi bir düşmana isabet ettikten sonra 12 saniyeliğine Gece Gelgiti etkisi uygular. Gece Gelgiti etkisindeki düşmanların \"Gece Gölgesi Sinestezisi\" Pasif Yeteneği tarafından tetiklenen Süper Duyudan aldıkları Hasar %50 artar. Bu etkiyi tetiklemek için \"Gece Gölgesi Sinestezisi\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eGece Sapanı\u003c/color\u003e Element Becerisinin \u003ccolor=#FFD780FF\u003eRuh Küresi\u003c/color\u003e 2 defa daha sekebilir.\nAyrıca \u003ccolor=#FFD780FF\u003eRuh Küresi\u003c/color\u003e bir düşmana isabet ettikten sonra 12 saniyeliğine Gece Gelgiti etkisi uygular. Gece Gelgiti etkisindeki düşmanların \"Gece Gölgesi Sinestezisi\" Yükseltme Yeteneği tarafından tetiklenen Süper Duyudan aldıkları Hasar %50 artar. \"Gece Gölgesi Sinestezisi\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "Gece Sapanı Element Becerisinin Ruh Küresi 2 defa daha sekebilir.\nAyrıca Ruh Küresi bir düşmana isabet ettikten sonra 12 saniyeliğine Gece Gelgiti etkisi uygular. Gece Gelgiti etkisindeki düşmanların \"Gece Gölgesi Sinestezisi\" Yükseltme Yeteneği tarafından tetiklenen Süper Duyudan aldıkları Hasar %50 artar. \"Gece Gölgesi Sinestezisi\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     }
                                                          },
                                       "elementText":  "Elektrik",
@@ -4659,13 +4770,13 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Mualani Bütün Gücüyle Saldırıyor!",
-                                                                         "descriptionRaw":  "Mualani, Gece Ruhunun Lütfu durumuna girdiğinde \u003ccolor=#FFD780FF\u003eDalgakıran Köpek Balığı\u003c/color\u003e becerisinden 2 kademe Dalga Momentumu kazanır. Şamandıra aldığında ise 1 kademe kazanır.\nAyrıca Mualani bir Gece Ruhunun Lütfu durumunda 2 Şamandıra aldığında 2 saniye boyunca ilave 12 Gece Ruhu puanı yeniler. Bu etki için \"Isıya Dayanıklı Tatlı Su Şamandırası\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                         "description":  "Mualani, Gece Ruhunun Lütfu durumuna girdiğinde Dalgakıran Köpek Balığı becerisinden 2 kademe Dalga Momentumu kazanır. Şamandıra aldığında ise 1 kademe kazanır.\nAyrıca Mualani bir Gece Ruhunun Lütfu durumunda 2 Şamandıra aldığında 2 saniye boyunca ilave 12 Gece Ruhu puanı yeniler. Bu etki için \"Isıya Dayanıklı Tatlı Su Şamandırası\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                         "descriptionRaw":  "Mualani, Gece Ruhunun Lütfu durumuna girdiğinde \u003ccolor=#FFD780FF\u003eDalgakıran Köpek Balığı\u003c/color\u003e becerisinden 2 kademe Dalga Momentumu kazanır. Şamandıra aldığında ise 1 kademe kazanır.\nAyrıca Mualani bir Gece Ruhunun Lütfu durumunda 2 Şamandıra aldığında 2 saniye boyunca ilave 12 Gece Ruhu puanı yeniler. \"Isıya Dayanıklı Tatlı Su Şamandırası\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                         "description":  "Mualani, Gece Ruhunun Lütfu durumuna girdiğinde Dalgakıran Köpek Balığı becerisinden 2 kademe Dalga Momentumu kazanır. Şamandıra aldığında ise 1 kademe kazanır.\nAyrıca Mualani bir Gece Ruhunun Lütfu durumunda 2 Şamandıra aldığında 2 saniye boyunca ilave 12 Gece Ruhu puanı yeniler. \"Isıya Dayanıklı Tatlı Su Şamandırası\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Camgöz\u0027ün Şamandıra İştahı",
-                                                                         "descriptionRaw":  "Mualani bir Şamandıra aldığında 8 Enerji yeniler. \"Isıya Dayanıklı Tatlı Su Şamandırası\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca \u003ccolor=#FFD780FF\u003eFırtınapatlatan Atışı\u003c/color\u003e becerisinin verdiği Hasar %75 artar.",
-                                                                         "description":  "Mualani bir Şamandıra aldığında 8 Enerji yeniler. \"Isıya Dayanıklı Tatlı Su Şamandırası\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca Fırtınapatlatan Atışı becerisinin verdiği Hasar %75 artar."
+                                                                         "descriptionRaw":  "Mualani bir Şamandıra aldığında 8 Enerji yeniler. \"Isıya Dayanıklı Tatlı Su Şamandırası\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca \u003ccolor=#FFD780FF\u003eFırtınapatlatan Atışı\u003c/color\u003e becerisinin verdiği Hasar %75 artar.",
+                                                                         "description":  "Mualani bir Şamandıra aldığında 8 Enerji yeniler. \"Isıya Dayanıklı Tatlı Su Şamandırası\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca Fırtınapatlatan Atışı becerisinin verdiği Hasar %75 artar."
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Coşkulu Denizlerde Sörf",
@@ -4700,8 +4811,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Tepe ve Çalılık Boyunca",
-                                                                        "descriptionRaw":  "\"Yandan Uçan Yapraklar\" Pasif Yeteneği şu şekilde değiştirilir:\n\u003ccolor=#FFD780FF\u003eYaprak Tacı\u003c/color\u003e, geri döndüğünde karaktere Yandan Uçan Yapraklar yeteneğinden gelen Filiz etkisini verir ve 3 saniyeliğine yakındaki düşmanlara Collei\u0027in Saldırısının %40\u0027ı değerinde \u003ccolor=#99FF88FF\u003eDoğa Hasarı\u003c/color\u003e verir.\n\u003ccolor=#FFD780FF\u003eDoğa Temizliği\u003c/color\u003e kullanıldıktan sonra mevcut Filiz etkisi sona erinceye kadar eğer grup üyelerinden biri Yanma, Hızlanma, Şiddetlenme, Yayılma, Çiçeklenme, Aşırı Çiçeklenme, Ay Çiçeklenmesi veya Filizlenme tepkimelerini tetiklerse Filiz etkisi 3sn uzar.\nFiliz etkisi bu şekilde sadece bir kez uzatılabilir. Mevcut Filiz etkisi devam ederken başka bir Filiz etkisi tetiklenirse, ilk etki kaldırılır. Filizin verdiği Hasar, Element Becerisi Hasarı sayılır.\n\"Yandan Uçan Yapraklar\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "\"Yandan Uçan Yapraklar\" Pasif Yeteneği şu şekilde değiştirilir:\nYaprak Tacı, geri döndüğünde karaktere Yandan Uçan Yapraklar yeteneğinden gelen Filiz etkisini verir ve 3 saniyeliğine yakındaki düşmanlara Collei\u0027in Saldırısının %40\u0027ı değerinde Doğa Hasarı verir.\nDoğa Temizliği kullanıldıktan sonra mevcut Filiz etkisi sona erinceye kadar eğer grup üyelerinden biri Yanma, Hızlanma, Şiddetlenme, Yayılma, Çiçeklenme, Aşırı Çiçeklenme, Ay Çiçeklenmesi veya Filizlenme tepkimelerini tetiklerse Filiz etkisi 3sn uzar.\nFiliz etkisi bu şekilde sadece bir kez uzatılabilir. Mevcut Filiz etkisi devam ederken başka bir Filiz etkisi tetiklenirse, ilk etki kaldırılır. Filizin verdiği Hasar, Element Becerisi Hasarı sayılır.\n\"Yandan Uçan Yapraklar\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "\"Yandan Uçan Yapraklar\" Yükseltme Yeteneği şu şekilde değiştirilir:\n\u003ccolor=#FFD780FF\u003eYaprak Tacı\u003c/color\u003e, geri döndüğünde karaktere Yandan Uçan Yapraklar yeteneğinden gelen Filiz etkisini verir ve 3 saniyeliğine yakındaki düşmanlara Collei\u0027in Saldırısının %40\u0027ı değerinde \u003ccolor=#99FF88FF\u003eDoğa Hasarı\u003c/color\u003e verir.\n\u003ccolor=#FFD780FF\u003eDoğa Temizliği\u003c/color\u003e kullanıldıktan sonra mevcut Filiz etkisi sona erinceye kadar eğer grup üyelerinden biri Yanma, Hızlanma, Şiddetlenme, Yayılma, Çiçeklenme, Aşırı Çiçeklenme, Ay Çiçeklenmesi veya Filizlenme tepkimelerini tetiklerse Filiz etkisi 3sn uzar.\nFiliz etkisi bu şekilde sadece bir kez uzatılabilir. Mevcut Filiz etkisi devam ederken başka bir Filiz etkisi tetiklenirse, ilk etki kaldırılır. Filizin verdiği Hasar, Element Becerisi Hasarı sayılır.\n\"Yandan Uçan Yapraklar\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "\"Yandan Uçan Yapraklar\" Yükseltme Yeteneği şu şekilde değiştirilir:\nYaprak Tacı, geri döndüğünde karaktere Yandan Uçan Yapraklar yeteneğinden gelen Filiz etkisini verir ve 3 saniyeliğine yakındaki düşmanlara Collei\u0027in Saldırısının %40\u0027ı değerinde Doğa Hasarı verir.\nDoğa Temizliği kullanıldıktan sonra mevcut Filiz etkisi sona erinceye kadar eğer grup üyelerinden biri Yanma, Hızlanma, Şiddetlenme, Yayılma, Çiçeklenme, Aşırı Çiçeklenme, Ay Çiçeklenmesi veya Filizlenme tepkimelerini tetiklerse Filiz etkisi 3sn uzar.\nFiliz etkisi bu şekilde sadece bir kez uzatılabilir. Mevcut Filiz etkisi devam ederken başka bir Filiz etkisi tetiklenirse, ilk etki kaldırılır. Filizin verdiği Hasar, Element Becerisi Hasarı sayılır.\n\"Yandan Uçan Yapraklar\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Ormandan Gelen Hediye",
@@ -4782,8 +4893,8 @@
                                     "constellations":  {
                                                            "c2":  {
                                                                       "name":  "Yoldaşın Girişi",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKırağı Girdabının\u003c/color\u003e Dondurucu Oku bir düşmana ilk defa isabet ettiğinde veya Kutup Yıldızı Fişeği düşmanlara isabet ettiğinde \"Bastırıcı Ok Yağmuru\" Pasif Yeteneği ile 1 Dedektör kademesi oluşur.\n\"Bastırıcı Ok Yağmuru\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                      "description":  "Kırağı Girdabının Dondurucu Oku bir düşmana ilk defa isabet ettiğinde veya Kutup Yıldızı Fişeği düşmanlara isabet ettiğinde \"Bastırıcı Ok Yağmuru\" Pasif Yeteneği ile 1 Dedektör kademesi oluşur.\n\"Bastırıcı Ok Yağmuru\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKırağı Girdabının\u003c/color\u003e Dondurucu Oku bir düşmana ilk defa isabet ettiğinde veya Kutup Yıldızı Fişeği düşmanlara isabet ettiğinde \"Bastırıcı Ok Yağmuru\" Yükseltme Yeteneği ile 1 Dedektör kademesi oluşur.\n\"Bastırıcı Ok Yağmuru\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                      "description":  "Kırağı Girdabının Dondurucu Oku bir düşmana ilk defa isabet ettiğinde veya Kutup Yıldızı Fişeği düşmanlara isabet ettiğinde \"Bastırıcı Ok Yağmuru\" Yükseltme Yeteneği ile 1 Dedektör kademesi oluşur.\n\"Bastırıcı Ok Yağmuru\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Tezatlık Kasidesi",
@@ -4802,8 +4913,8 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Yoldaş Yardımı",
-                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKırağı Girdabının\u003c/color\u003e Ruh Esintisinin kazanabileceği Dedektör kademesi sınırı 1 artar. \"Bastırıcı Ok Yağmuru\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca Ruh Esintisinden etkilenen aktif karakterler %60 daha fazla Fiziksel Kritik Hasar verir.",
-                                                                      "description":  "Kırağı Girdabının Ruh Esintisinin kazanabileceği Dedektör kademesi sınırı 1 artar. \"Bastırıcı Ok Yağmuru\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca Ruh Esintisinden etkilenen aktif karakterler %60 daha fazla Fiziksel Kritik Hasar verir."
+                                                                      "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKırağı Girdabının\u003c/color\u003e Ruh Esintisinin kazanabileceği Dedektör kademesi sınırı 1 artar. \"Bastırıcı Ok Yağmuru\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca Ruh Esintisinden etkilenen aktif karakterler %60 daha fazla Fiziksel Kritik Hasar verir.",
+                                                                      "description":  "Kırağı Girdabının Ruh Esintisinin kazanabileceği Dedektör kademesi sınırı 1 artar. \"Bastırıcı Ok Yağmuru\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca Ruh Esintisinden etkilenen aktif karakterler %60 daha fazla Fiziksel Kritik Hasar verir."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Faktör Birleşimi",
@@ -4843,8 +4954,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Uğurlu Canavar Sureti",
-                                                                        "descriptionRaw":  "Puldelen Topu bir düşmana isabet ettiğinde düşmanlar arasında bir defa seker ve Kinich\u0027in Saldırısının %700\u0027ü kadar \u003ccolor=#99FF88FF\u003eDoğa Hasarı\u003c/color\u003e verir.\nEğer bu Puldelen Topu, \"Alev Ruhu Sözleşmesi\" Pasif Yeteneğinin veya \"Kaplan Böceği Avucu\" Takımyıldızının Topa verdiği güçlendirmeleri tetiklerse söz konusu güçlendirmeler seken saldırıya da uygulanır.",
-                                                                        "description":  "Puldelen Topu bir düşmana isabet ettiğinde düşmanlar arasında bir defa seker ve Kinich\u0027in Saldırısının %700\u0027ü kadar Doğa Hasarı verir.\nEğer bu Puldelen Topu, \"Alev Ruhu Sözleşmesi\" Pasif Yeteneğinin veya \"Kaplan Böceği Avucu\" Takımyıldızının Topa verdiği güçlendirmeleri tetiklerse söz konusu güçlendirmeler seken saldırıya da uygulanır."
+                                                                        "descriptionRaw":  "Puldelen Topu bir düşmana isabet ettiğinde düşmanlar arasında bir defa seker ve Kinich\u0027in Saldırısının %700\u0027ü kadar \u003ccolor=#99FF88FF\u003eDoğa Hasarı\u003c/color\u003e verir.\nEğer bu Puldelen Topu, \"Alev Ruhu Sözleşmesi\" Yükseltme Yeteneğinin veya \"Kaplan Böceği Avucu\" Takımyıldızının Topa verdiği güçlendirmeleri tetiklerse söz konusu güçlendirmeler seken saldırıya da uygulanır.",
+                                                                        "description":  "Puldelen Topu bir düşmana isabet ettiğinde düşmanlar arasında bir defa seker ve Kinich\u0027in Saldırısının %700\u0027ü kadar Doğa Hasarı verir.\nEğer bu Puldelen Topu, \"Alev Ruhu Sözleşmesi\" Yükseltme Yeteneğinin veya \"Kaplan Böceği Avucu\" Takımyıldızının Topa verdiği güçlendirmeleri tetiklerse söz konusu güçlendirmeler seken saldırıya da uygulanır."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Papağan Gagası",
@@ -4864,8 +4975,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Papirüse Yazılı Yasaklı Sırlar",
-                                                                        "descriptionRaw":  "Aşağıdaki koşullar karşılandığında Sethos 10sn boyunca %15 \u003ccolor=#FFACFFFF\u003eElektrik Hasarı Bonusu\u003c/color\u003e kazanır (2 kademeye kadar birikebilir, kademelerin süresi bağımsızdır):\n·Hedefli Atışlar aracılığıyla Element Enerjisi tüketmek; bu koşulun tetiklenmesi için önce \"Kara Çaylağın Sırrı\" Pasif Yeteneğinin açılmış olması gerekir.\n·\u003ccolor=#FFD780FF\u003eKadim Ayin: Gürleyen Kumlar\u003c/color\u003e aracılığıyla Element Tepkimeleri tetikleyerek Element Enerjisi yenilemek.\n·\u003ccolor=#FFD780FF\u003eSaklı Ayin: Gölgedelen Alacakaranlık\u003c/color\u003e kullanmak.",
-                                                                        "description":  "Aşağıdaki koşullar karşılandığında Sethos 10sn boyunca %15 Elektrik Hasarı Bonusu kazanır (2 kademeye kadar birikebilir, kademelerin süresi bağımsızdır):\n·Hedefli Atışlar aracılığıyla Element Enerjisi tüketmek; bu koşulun tetiklenmesi için önce \"Kara Çaylağın Sırrı\" Pasif Yeteneğinin açılmış olması gerekir.\n·Kadim Ayin: Gürleyen Kumlar aracılığıyla Element Tepkimeleri tetikleyerek Element Enerjisi yenilemek.\n·Saklı Ayin: Gölgedelen Alacakaranlık kullanmak."
+                                                                        "descriptionRaw":  "Aşağıdaki koşullar karşılandığında Sethos 10sn boyunca %15 \u003ccolor=#FFACFFFF\u003eElektrik Hasarı Bonusu\u003c/color\u003e kazanır (2 kademeye kadar birikebilir, kademelerin süresi bağımsızdır):\n·Hedefli Atışlar aracılığıyla Element Enerjisi tüketmek; bu koşulun tetiklenmesi için \"Kara Çaylağın Sırrı\" Yükseltme Yeteneğinin açılmış olması gerekir.\n·\u003ccolor=#FFD780FF\u003eKadim Ayin: Gürleyen Kumlar\u003c/color\u003e aracılığıyla Element Tepkimeleri tetikleyerek Element Enerjisi yenilemek.\n·\u003ccolor=#FFD780FF\u003eSaklı Ayin: Gölgedelen Alacakaranlık\u003c/color\u003e kullanmak.",
+                                                                        "description":  "Aşağıdaki koşullar karşılandığında Sethos 10sn boyunca %15 Elektrik Hasarı Bonusu kazanır (2 kademeye kadar birikebilir, kademelerin süresi bağımsızdır):\n·Hedefli Atışlar aracılığıyla Element Enerjisi tüketmek; bu koşulun tetiklenmesi için \"Kara Çaylağın Sırrı\" Yükseltme Yeteneğinin açılmış olması gerekir.\n·Kadim Ayin: Gürleyen Kumlar aracılığıyla Element Tepkimeleri tetikleyerek Element Enerjisi yenilemek.\n·Saklı Ayin: Gölgedelen Alacakaranlık kullanmak."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Uğurlu Tüyler",
@@ -4884,8 +4995,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Sürgün Güneş Tapınağının Büyük Kitabı",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eGölgedelen Atışı\u003c/color\u003e bir düşmana isabet ettiğinde, \"Kara Çaylağın Sırrı\" Pasif Yeteneği tarafından tüketilen Element Enerjisi iade edilir. Bu etki her 15 saniyede bir tetiklenebilir. \"Kara Çaylağın Sırrı\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "Gölgedelen Atışı bir düşmana isabet ettiğinde, \"Kara Çaylağın Sırrı\" Pasif Yeteneği tarafından tüketilen Element Enerjisi iade edilir. Bu etki her 15 saniyede bir tetiklenebilir. \"Kara Çaylağın Sırrı\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eGölgedelen Atışı\u003c/color\u003e bir düşmana isabet ettiğinde, \"Kara Çaylağın Sırrı\" Yükseltme Yeteneği tarafından tüketilen Element Enerjisi iade edilir. Bu etki her 15 saniyede bir tetiklenebilir. \"Kara Çaylağın Sırrı\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "Gölgedelen Atışı bir düşmana isabet ettiğinde, \"Kara Çaylağın Sırrı\" Yükseltme Yeteneği tarafından tüketilen Element Enerjisi iade edilir. Bu etki her 15 saniyede bir tetiklenebilir. \"Kara Çaylağın Sırrı\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Mühürlü Tapınağın İlahisi",
@@ -5154,8 +5265,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Kalp Yutanın Izdırabı",
-                                                                         "descriptionRaw":  "Citlali 125 Element Ustalığı kazanır, Opal Kalkan ile korunan veya Itzpapa tarafından takip edilen diğer karakterler ise 250 Element Ustalığı kazanır.\nBuna ek olarak Citlali, \u003ccolor=#FFD780FF\u003eŞafak Ayazının Karanlık Yıldızı\u003c/color\u003e Element Becerisini kullandığında yakındaki aktif karakterler de Opal Kalkan kazanır.\n\nAyrıca \"Mamaloaco\u0027nun Soğuk Yağmurları\" Pasif Yeteneğinin etkileri gelişir:\nItzpapa alandayken yakındaki grup üyeleri Donma veya Erime tetiklediğinde bu tepkimelerden etkilenen düşmanların 12 saniye boyunca \u003ccolor=#FF9999FF\u003eAteş\u003c/color\u003e ve \u003ccolor=#80C0FFFF\u003eSu\u003c/color\u003e Dirençleri fazladan %20 daha azalır. Bu etkinin uygulanması için \"Mamaloaco\u0027nun Soğuk Yağmurları\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                         "description":  "Citlali 125 Element Ustalığı kazanır, Opal Kalkan ile korunan veya Itzpapa tarafından takip edilen diğer karakterler ise 250 Element Ustalığı kazanır.\nBuna ek olarak Citlali, Şafak Ayazının Karanlık Yıldızı Element Becerisini kullandığında yakındaki aktif karakterler de Opal Kalkan kazanır.\n\nAyrıca \"Mamaloaco\u0027nun Soğuk Yağmurları\" Pasif Yeteneğinin etkileri gelişir:\nItzpapa alandayken yakındaki grup üyeleri Donma veya Erime tetiklediğinde bu tepkimelerden etkilenen düşmanların 12 saniye boyunca Ateş ve Su Dirençleri fazladan %20 daha azalır. Bu etkinin uygulanması için \"Mamaloaco\u0027nun Soğuk Yağmurları\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                         "descriptionRaw":  "Citlali 125 Element Ustalığı kazanır, Opal Kalkan ile korunan veya Itzpapa tarafından takip edilen diğer karakterler ise 250 Element Ustalığı kazanır.\nBuna ek olarak Citlali, \u003ccolor=#FFD780FF\u003eŞafak Ayazının Karanlık Yıldızı\u003c/color\u003e Element Becerisini kullandığında yakındaki aktif karakterler de Opal Kalkan kazanır.\n\nAyrıca \"Mamaloaco\u0027nun Soğuk Yağmurları\" Yükseltme Yeteneğinin etkileri gelişir:\nItzpapa alandayken yakındaki grup üyeleri Donma veya Erime tetiklediğinde bu tepkimelerden etkilenen düşmanların 12 saniye boyunca \u003ccolor=#FF9999FF\u003eAteş\u003c/color\u003e ve \u003ccolor=#80C0FFFF\u003eSu\u003c/color\u003e Dirençleri fazladan %20 daha azalır. Bu etkinin uygulanması için \"Mamaloaco\u0027nun Soğuk Yağmurları\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                         "description":  "Citlali 125 Element Ustalığı kazanır, Opal Kalkan ile korunan veya Itzpapa tarafından takip edilen diğer karakterler ise 250 Element Ustalığı kazanır.\nBuna ek olarak Citlali, Şafak Ayazının Karanlık Yıldızı Element Becerisini kullandığında yakındaki aktif karakterler de Opal Kalkan kazanır.\n\nAyrıca \"Mamaloaco\u0027nun Soğuk Yağmurları\" Yükseltme Yeteneğinin etkileri gelişir:\nItzpapa alandayken yakındaki grup üyeleri Donma veya Erime tetiklediğinde bu tepkimelerden etkilenen düşmanların 12 saniye boyunca Ateş ve Su Dirençleri fazladan %20 daha azalır. Bu etkinin uygulanması için \"Mamaloaco\u0027nun Soğuk Yağmurları\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Ölüme Meydan Okuyanın Ruh Kafatası",
@@ -5384,8 +5495,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Ön Cephenin Kararlılığı",
-                                                                           "descriptionRaw":  "\"Eş Güdümlü Taktikler\" durumuna sahip olan aktif karakter (Chevreuse hariç) Yüksek Voltaj tepkimesini tetiklediğinde 6 Enerji yeniler. Bu etki her 10 saniyede bir tetiklenebilir.\n\"Öncülerin Eş Güdümlü Taktikleri\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                           "description":  "\"Eş Güdümlü Taktikler\" durumuna sahip olan aktif karakter (Chevreuse hariç) Yüksek Voltaj tepkimesini tetiklediğinde 6 Enerji yeniler. Bu etki her 10 saniyede bir tetiklenebilir.\n\"Öncülerin Eş Güdümlü Taktikleri\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                           "descriptionRaw":  "\"Eş Güdümlü Taktikler\" durumuna sahip olan aktif karakter (Chevreuse hariç) Yüksek Voltaj tepkimesini tetiklediğinde 6 Enerji yeniler. Bu etki her 10 saniyede bir tetiklenebilir.\n\"Öncülerin Eş Güdümlü Taktikleri\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                           "description":  "\"Eş Güdümlü Taktikler\" durumuna sahip olan aktif karakter (Chevreuse hariç) Yüksek Voltaj tepkimesini tetiklediğinde 6 Enerji yeniler. Bu etki her 10 saniyede bir tetiklenebilir.\n\"Öncülerin Eş Güdümlü Taktikleri\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                        }
                                                             },
                                          "elementText":  "Ateş",
@@ -5765,8 +5876,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Dünyadan Uzak",
-                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eŞafaktaki Beyaz Bulutlar\u003c/color\u003e tarafından oluşturulan bir Göğe Uzanan Merdiven kullandıktan sonra 15sn boyunca Xianyun\u0027un Saldırısı %20 artar.\nAyrıca \"Kendi Diyarında Bir Adeptus\" Pasif Yeteneğinin etkileri güçlenir: \u003ccolor=#FFD780FF\u003eAlacakaranlıkta Beliren Yıldızlar\u003c/color\u003e tarafından oluşturulan Hasır Yıldızın Adeptus Yardımı kademeleri olduğunda, yakındaki aktif karakterlerin Havadan Saldırı şok dalgası Hasarı Xianyun\u0027un Saldırısının %400\u0027ü kadar artar. Bu şekilde kazanılabilecek en fazla Hasar artışı 18.000\u0027dir.\nHer bir Havadan Saldırı şok dalgası Hasarı, bu Hasar artışı etkisini sadece bir düşmana uygulayabilir. Bu etkiyi her karakter 0,4 saniyede bir tetikleyebilir.\n\"Kendi Diyarında Bir Adeptus\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                         "description":  "Şafaktaki Beyaz Bulutlar tarafından oluşturulan bir Göğe Uzanan Merdiven kullandıktan sonra 15sn boyunca Xianyun\u0027un Saldırısı %20 artar.\nAyrıca \"Kendi Diyarında Bir Adeptus\" Pasif Yeteneğinin etkileri güçlenir: Alacakaranlıkta Beliren Yıldızlar tarafından oluşturulan Hasır Yıldızın Adeptus Yardımı kademeleri olduğunda, yakındaki aktif karakterlerin Havadan Saldırı şok dalgası Hasarı Xianyun\u0027un Saldırısının %400\u0027ü kadar artar. Bu şekilde kazanılabilecek en fazla Hasar artışı 18.000\u0027dir.\nHer bir Havadan Saldırı şok dalgası Hasarı, bu Hasar artışı etkisini sadece bir düşmana uygulayabilir. Bu etkiyi her karakter 0,4 saniyede bir tetikleyebilir.\n\"Kendi Diyarında Bir Adeptus\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                         "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eŞafaktaki Beyaz Bulutlar\u003c/color\u003e tarafından oluşturulan bir Göğe Uzanan Merdiven kullandıktan sonra 15sn boyunca Xianyun\u0027un Saldırısı %20 artar.\nAyrıca \"Kendi Diyarında Bir Adeptus\" Yükseltme Yeteneğinin etkileri güçlenir: \u003ccolor=#FFD780FF\u003eAlacakaranlıkta Beliren Yıldızlar\u003c/color\u003e tarafından oluşturulan Hasır Yıldızın Adeptus Yardımı kademeleri olduğunda, yakındaki aktif karakterlerin Havadan Saldırı şok dalgası Hasarı Xianyun\u0027un Saldırısının %400\u0027ü kadar artar. Bu şekilde kazanılabilecek en fazla Hasar artışı 18.000\u0027dir.\nHer bir Havadan Saldırı şok dalgası Hasarı, bu Hasar artışı etkisini sadece bir düşmana uygulayabilir. Bu etkiyi her karakter 0,4 saniyede bir tetikleyebilir.\n\"Kendi Diyarında Bir Adeptus\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                         "description":  "Şafaktaki Beyaz Bulutlar tarafından oluşturulan bir Göğe Uzanan Merdiven kullandıktan sonra 15sn boyunca Xianyun\u0027un Saldırısı %20 artar.\nAyrıca \"Kendi Diyarında Bir Adeptus\" Yükseltme Yeteneğinin etkileri güçlenir: Alacakaranlıkta Beliren Yıldızlar tarafından oluşturulan Hasır Yıldızın Adeptus Yardımı kademeleri olduğunda, yakındaki aktif karakterlerin Havadan Saldırı şok dalgası Hasarı Xianyun\u0027un Saldırısının %400\u0027ü kadar artar. Bu şekilde kazanılabilecek en fazla Hasar artışı 18.000\u0027dir.\nHer bir Havadan Saldırı şok dalgası Hasarı, bu Hasar artışı etkisini sadece bir düşmana uygulayabilir. Bu etkiyi her karakter 0,4 saniyede bir tetikleyebilir.\n\"Kendi Diyarında Bir Adeptus\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Gizemli Darı Gurmesi",
@@ -5847,8 +5958,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Göldeki Işık Üst Notası",
-                                                                        "descriptionRaw":  "\"Artakalan Koku\" Pasif Yeteneğinin oluşturduğu \u003ccolor=#FFD780FF\u003eKoku Damıtma\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eAroma Yorumlama\u003c/color\u003e veya Berrak Çiy Kolonyası etkileri düşmana isabet ettiğinde 10sn boyunca düşmanın \u003ccolor=#99FF88FF\u003eDoğa Direnci\u003c/color\u003e %30 azalır. \"Artakalan Koku\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "\"Artakalan Koku\" Pasif Yeteneğinin oluşturduğu Koku Damıtma, Aroma Yorumlama veya Berrak Çiy Kolonyası etkileri düşmana isabet ettiğinde 10sn boyunca düşmanın Doğa Direnci %30 azalır. \"Artakalan Koku\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "\"Artakalan Koku\" Yükseltme Yeteneğinin oluşturduğu \u003ccolor=#FFD780FF\u003eKoku Damıtma\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eAroma Yorumlama\u003c/color\u003e veya Berrak Çiy Kolonyası etkileri düşmana isabet ettiğinde 10sn boyunca düşmanın \u003ccolor=#99FF88FF\u003eDoğa Direnci\u003c/color\u003e %30 azalır. \"Artakalan Koku\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "\"Artakalan Koku\" Yükseltme Yeteneğinin oluşturduğu Koku Damıtma, Aroma Yorumlama veya Berrak Çiy Kolonyası etkileri düşmana isabet ettiğinde 10sn boyunca düşmanın Doğa Direnci %30 azalır. \"Artakalan Koku\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Lumidouce Kalp Notası",
@@ -5872,8 +5983,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Hafif Koku Özütleme",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKoku Damıtma\u003c/color\u003e becerisi ve \"Artakalan Koku\" Pasif Yeteneğinin Berrak Çiy Kolonyası etkisi ile verilen Hasar %20 artar. Berrak Çiy Kolonyası Hasar artışını alabilmek için önce \"Artakalan Koku\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca yakındaki grup üyeleri düşman üzerinde Yanma tepkimesi tetiklediğinde veya Yanma etkisindeki düşmanlara \u003ccolor=#99FF88FF\u003eDoğa Hasarı\u003c/color\u003e verdiğinde fazladan bir \u003ccolor=#FFD780FF\u003eKoku\u003c/color\u003e daha oluşur. Bu etki her 2,9 saniyede bir tetiklenebilir.",
-                                                                        "description":  "Koku Damıtma becerisi ve \"Artakalan Koku\" Pasif Yeteneğinin Berrak Çiy Kolonyası etkisi ile verilen Hasar %20 artar. Berrak Çiy Kolonyası Hasar artışını alabilmek için önce \"Artakalan Koku\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca yakındaki grup üyeleri düşman üzerinde Yanma tepkimesi tetiklediğinde veya Yanma etkisindeki düşmanlara Doğa Hasarı verdiğinde fazladan bir Koku daha oluşur. Bu etki her 2,9 saniyede bir tetiklenebilir."
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKoku Damıtma\u003c/color\u003e becerisi ve \"Artakalan Koku\" Yükseltme Yeteneğinin Berrak Çiy Kolonyası etkisi ile verilen Hasar %20 artar. Berrak Çiy Kolonyası Hasar artışını alabilmek için önce \"Artakalan Koku\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca yakındaki grup üyeleri düşman üzerinde Yanma tepkimesi tetiklediğinde veya Yanma etkisindeki düşmanlara \u003ccolor=#99FF88FF\u003eDoğa Hasarı\u003c/color\u003e verdiğinde fazladan bir \u003ccolor=#FFD780FF\u003eKoku\u003c/color\u003e daha oluşur. Bu etki her 2,9 saniyede bir tetiklenebilir.",
+                                                                        "description":  "Koku Damıtma becerisi ve \"Artakalan Koku\" Yükseltme Yeteneğinin Berrak Çiy Kolonyası etkisi ile verilen Hasar %20 artar. Berrak Çiy Kolonyası Hasar artışını alabilmek için önce \"Artakalan Koku\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca yakındaki grup üyeleri düşman üzerinde Yanma tepkimesi tetiklediğinde veya Yanma etkisindeki düşmanlara Doğa Hasarı verdiğinde fazladan bir Koku daha oluşur. Bu etki her 2,9 saniyede bir tetiklenebilir."
                                                                     }
                                                          },
                                       "elementText":  "Doğa",
@@ -6246,6 +6357,47 @@
                                      "region":  "Fontaine",
                                      "gender":  "erkek"
                                  },
+                       "nefer":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Gözlem Stratejiyi Destekler",
+                                                                       "descriptionRaw":  "{LINK#P1222101}\u003ccolor=#FFD780FF\u003eAy Işığına Bahis\u003c/color\u003e{/LINK} Yükseltme Yeteneğinin etkilerini geliştirir: {LINK#N11220003}\u003ccolor=#FFD780FF\u003eYanılgı Perdesi\u003c/color\u003e{/LINK} süresini 5sn uzatır ve kademe sınırını 5\u0027e yükseltir; ayrıca {LINK#N11220002}\u003ccolor=#FFD780FF\u003eHayali Performansın\u003c/color\u003e{/LINK} verdiği Hasar, orijinal Hasarının %140\u0027ına kadar artabilir. Nefer \u003ccolor=#FFD780FF\u003e{LINK#S11222}Senet Stratejisi: Binbir Gece Dansı{/LINK}\u003c/color\u003e Element Becerisini kullandığında anında 2 kademe Yanılgı Perdesi kazanır. Ayrıca Yanılgı Perdesi 5 kademeye ulaştığında beşinci kademenin süresi yenilenir ve 8 saniyeliğine Nefer\u0027ın Element Ustalığı 200 artar.\n\"Ay Işığına Bahis\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                       "description":  "**Ay Işığına Bahis** Yükseltme Yeteneğinin etkilerini geliştirir: **Yanılgı Perdesi** süresini 5sn uzatır ve kademe sınırını 5\u0027e yükseltir; ayrıca **Hayali Performansın** verdiği Hasar, orijinal Hasarının %140\u0027ına kadar artabilir. Nefer **Senet Stratejisi: Binbir Gece Dansı** Element Becerisini kullandığında anında 2 kademe Yanılgı Perdesi kazanır. Ayrıca Yanılgı Perdesi 5 kademeye ulaştığında beşinci kademenin süresi yenilenir ve 8 saniyeliğine Nefer\u0027ın Element Ustalığı 200 artar.\n\"Ay Işığına Bahis\" Yükseltme Yeteneğinin açılmış olması gerekir."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Sanrı Mantığı Hapseder",
+                                                                       "descriptionRaw":  "Nefer alandayken ve {LINK#N11220001}\u003ccolor=#FFD780FF\u003eGölge Dansı\u003c/color\u003e{/LINK} durumundayken %25 daha hızlı Taze Çiy kazanırsın.\nAyrıca Nefer Gölge Dansı durumundayken yakındaki düşmanların \u003ccolor=#99FF88FF\u003eDoğa Direnci\u003c/color\u003e %20 düşer. Nefer Gölge Dansı durumundan çıktıktan veya düşmanlardan belirli bir mesafe uzak kaldıktan 4,5 saniye sonra bu etki kaldırılır.",
+                                                                       "description":  "Nefer alandayken ve **Gölge Dansı** durumundayken %25 daha hızlı Taze Çiy kazanırsın.\nAyrıca Nefer Gölge Dansı durumundayken yakındaki düşmanların Doğa Direnci %20 düşer. Nefer Gölge Dansı durumundan çıktıktan veya düşmanlardan belirli bir mesafe uzak kaldıktan 4,5 saniye sonra bu etki kaldırılır."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Aldatmaca Gerçeği Gizler",
+                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e{LINK#S11222}Senet Stratejisi: Binbir Gece Dansı{/LINK}\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                       "description":  "**Senet Stratejisi: Binbir Gece Dansı** Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Uçlarda Fırsatlar Bekler",
+                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e{LINK#S11225}Kutsal Yemin: Gerçek Gözün Yanılsaması{/LINK}\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                       "description":  "**Kutsal Yemin: Gerçek Gözün Yanılsaması** Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Rüzgar Tersine Estiğinde Zafer Gelir",
+                                                                       "descriptionRaw":  "Nefer {LINK#N11220002}\u003ccolor=#FFD780FF\u003eHayali Performans\u003c/color\u003e{/LINK} gerçekleştirdiğinde kendi verdiği ikinci aşama Hasar değişerek Element Ustalığının %85\u0027i kadar \u003ccolor=#99FF88FF\u003eDoğa Alan Hasarı\u003c/color\u003e verir. Ayrıca Hayali Performans saldırıları sona erdiğinde Nefer\u0027ın Element Ustalığının %120\u0027si kadar \u003ccolor=#99FF88FF\u003eDoğa Alan Hasarı\u003c/color\u003e veren ek bir saldırı gerçekleşir. Yukarıda bahsedilen tüm Hasarlar, Hayali Performans tarafından verilen Ay Çiçeklenmesi Hasarı sayılır.\n\n\u003ccolor=#FFD780FF\u003eAy Sembolü: Yükselen Parıltı\u003c/color\u003e\nNefer\u0027ın Ay Çiçeklenmesi Hasarı %15 {LINK#N11190007}\u003ccolor=#FFD780FF\u003eartar\u003c/color\u003e{/LINK}.",
+                                                                       "description":  "Nefer **Hayali Performans** gerçekleştirdiğinde kendi verdiği ikinci aşama Hasar değişerek Element Ustalığının %85\u0027i kadar Doğa Alan Hasarı verir. Ayrıca Hayali Performans saldırıları sona erdiğinde Nefer\u0027ın Element Ustalığının %120\u0027si kadar Doğa Alan Hasarı veren ek bir saldırı gerçekleşir. Yukarıda bahsedilen tüm Hasarlar, Hayali Performans tarafından verilen Ay Çiçeklenmesi Hasarı sayılır.\n\nAy Sembolü: Yükselen Parıltı\nNefer\u0027ın Ay Çiçeklenmesi Hasarı %15 **artar**."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Planlama Başarı Getirir",
+                                                                       "descriptionRaw":  "Nefer\u0027ın {LINK#N11220002}\u003ccolor=#FFD780FF\u003eHayali Performansı\u003c/color\u003e{/LINK} tarafından tetiklenen Ay Çiçeklenmesi tepkimelerinin Temel Hasarı, Nefer\u0027ın Element Ustalığının %60\u0027ı kadar artar. Bu etki {LINK#N11220003}\u003ccolor=#FFD780FF\u003eYanılgı Perdesi\u003c/color\u003e{/LINK} ile de güçlenir.",
+                                                                       "description":  "Nefer\u0027ın **Hayali Performansı** tarafından tetiklenen Ay Çiçeklenmesi tepkimelerinin Temel Hasarı, Nefer\u0027ın Element Ustalığının %60\u0027ı kadar artar. Bu etki **Yanılgı Perdesi** ile de güçlenir."
+                                                                   }
+                                                        },
+                                     "elementText":  "Doğa",
+                                     "fullname":  null,
+                                     "weaponText":  "Katalizör",
+                                     "name":  "Nefer",
+                                     "substatText":  "Kritik Hasar",
+                                     "region":  "Nod-Krai",
+                                     "gender":  "kadın"
+                                 },
                        "aloy":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6357,8 +6509,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "\"Bulutlar Arasında Yürürcesine\"",
-                                                                        "descriptionRaw":  "\"Mühürleyen Dört Fal Tılsımı\" Pasif Yeteneği ile Element Emilimi tetiklendiğinde Lan Yan\u0027ın bir sonraki \u003ccolor=#FFD780FF\u003eKırlangıç Ruhu Dansı\u003c/color\u003e Element Becerisi kullanımında düşmana fırlatılan bir Ay Tüyü Halkası daha oluşur.\n\"Mühürleyen Dört Fal Tılsımı\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "\"Mühürleyen Dört Fal Tılsımı\" Pasif Yeteneği ile Element Emilimi tetiklendiğinde Lan Yan\u0027ın bir sonraki Kırlangıç Ruhu Dansı Element Becerisi kullanımında düşmana fırlatılan bir Ay Tüyü Halkası daha oluşur.\n\"Mühürleyen Dört Fal Tılsımı\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "\"Mühürleyen Dört Fal Tılsımı\" Yükseltme Yeteneği ile Element Emilimi tetiklendiğinde Lan Yan\u0027ın bir sonraki \u003ccolor=#FFD780FF\u003eKırlangıç Ruhu Dansı\u003c/color\u003e Element Becerisi kullanımında düşmana fırlatılan bir Ay Tüyü Halkası daha oluşur.\n\"Mühürleyen Dört Fal Tılsımı\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "\"Mühürleyen Dört Fal Tılsımı\" Yükseltme Yeteneği ile Element Emilimi tetiklendiğinde Lan Yan\u0027ın bir sonraki Kırlangıç Ruhu Dansı Element Becerisi kullanımında düşmana fırlatılan bir Ay Tüyü Halkası daha oluşur.\n\"Mühürleyen Dört Fal Tılsımı\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     }
                                                          },
                                       "elementText":  "Rüzgar",
@@ -6504,8 +6656,8 @@
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "Gizli Biberiye Tarifi",
-                                                                           "descriptionRaw":  "{LINK#P1122101}\u003ccolor=#FFD780FF\u003eŞifa Diyeti\u003c/color\u003e{/LINK} 6 saniye daha uzun sürer. \u003ccolor=#FFD780FF\u003eŞifa Diyeti\u003c/color\u003e etkinken iyileştirme tetiklendiğinde Escoffier fazladan %100 Can iyileştirme ve 2 Enerji yenileme şansı kazanır. Bu şans, Escoffier\u0027nin Kritik Oranına denktir. Tek bir \u003ccolor=#FFD780FF\u003eŞifa Diyeti\u003c/color\u003e süresince bu etki 7 defa tetiklenebilir.\n\"Can Boğazdan Gelir\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                           "description":  "**Şifa Diyeti** 6 saniye daha uzun sürer. Şifa Diyeti etkinken iyileştirme tetiklendiğinde Escoffier fazladan %100 Can iyileştirme ve 2 Enerji yenileme şansı kazanır. Bu şans, Escoffier\u0027nin Kritik Oranına denktir. Tek bir Şifa Diyeti süresince bu etki 7 defa tetiklenebilir.\n\"Can Boğazdan Gelir\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                           "descriptionRaw":  "{LINK#P1122101}\u003ccolor=#FFD780FF\u003eŞifa Diyeti\u003c/color\u003e{/LINK} 6 saniye daha uzun sürer. \u003ccolor=#FFD780FF\u003eŞifa Diyeti\u003c/color\u003e etkinken iyileştirme tetiklendiğinde Escoffier fazladan %100 Can iyileştirme ve 2 Enerji yenileme şansı kazanır. Bu şans, Escoffier\u0027nin Kritik Oranına denktir. Tek bir \u003ccolor=#FFD780FF\u003eŞifa Diyeti\u003c/color\u003e süresince bu etki 7 defa tetiklenebilir.\n\"Can Boğazdan Gelir\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                           "description":  "**Şifa Diyeti** 6 saniye daha uzun sürer. Şifa Diyeti etkinken iyileştirme tetiklendiğinde Escoffier fazladan %100 Can iyileştirme ve 2 Enerji yenileme şansı kazanır. Bu şans, Escoffier\u0027nin Kritik Oranına denktir. Tek bir Şifa Diyeti süresince bu etki 7 defa tetiklenebilir.\n\"Can Boğazdan Gelir\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "Pastacının Karamel Büyüsü",
@@ -6524,8 +6676,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Damakları Şenlendiren Açılış Dansı",
-                                                                           "descriptionRaw":  "4 grup üyesi de \u003ccolor=#80C0FFFF\u003eSu\u003c/color\u003e veya \u003ccolor=#99FFFFFF\u003eBuz\u003c/color\u003e elementindense Escoffier \u003ccolor=#FFD780FF\u003e{LINK#S11122}Kısık Ateşte Pişirme{/LINK}\u003c/color\u003e Element Becerisi veya \u003ccolor=#FFD780FF\u003e{LINK#S11125}Ahenkli Kesikler{/LINK}\u003c/color\u003e Element Patlamasını kullandıktan sonra 15sn boyunca yakındaki tüm grup üyelerinin \u003ccolor=#99FFFFFF\u003eBuz Hasarının\u003c/color\u003e Kritik Hasarı %60 artar.\n\"İlham Veren Aromalar\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                           "description":  "4 grup üyesi de Su veya Buz elementindense Escoffier **Kısık Ateşte Pişirme** Element Becerisi veya **Ahenkli Kesikler** Element Patlamasını kullandıktan sonra 15sn boyunca yakındaki tüm grup üyelerinin Buz Hasarının Kritik Hasarı %60 artar.\n\"İlham Veren Aromalar\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                           "descriptionRaw":  "4 grup üyesi de \u003ccolor=#80C0FFFF\u003eSu\u003c/color\u003e veya \u003ccolor=#99FFFFFF\u003eBuz\u003c/color\u003e elementindense Escoffier \u003ccolor=#FFD780FF\u003e{LINK#S11122}Kısık Ateşte Pişirme{/LINK}\u003c/color\u003e Element Becerisi veya \u003ccolor=#FFD780FF\u003e{LINK#S11125}Ahenkli Kesikler{/LINK}\u003c/color\u003e Element Patlamasını kullandıktan sonra 15sn boyunca yakındaki tüm grup üyelerinin \u003ccolor=#99FFFFFF\u003eBuz Hasarının\u003c/color\u003e Kritik Hasarı %60 artar.\n\"İlham Veren Aromalar\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                           "description":  "4 grup üyesi de Su veya Buz elementindense Escoffier **Kısık Ateşte Pişirme** Element Becerisi veya **Ahenkli Kesikler** Element Patlamasını kullandıktan sonra 15sn boyunca yakındaki tüm grup üyelerinin Buz Hasarının Kritik Hasarı %60 artar.\n\"İlham Veren Aromalar\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                        }
                                                             },
                                          "elementText":  "Buz",
@@ -6745,8 +6897,8 @@
                                         "constellations":  {
                                                                "c2":  {
                                                                           "name":  "\"Uzun Gecenin Tehlikeleriyle Yüzleştim\"",
-                                                                          "descriptionRaw":  "\"Karanlığı Yaran Alev\" Pasif Yeteneği güçlenir: Yakındaki bir grup üyesi düşman üzerinde \u003ccolor=#FFACFFFF\u003eElektrikle ilgili bir tepkime\u003c/color\u003e tetiklediğinde 15sn boyunca Clorinde\u0027in Normal Saldırıları ve \u003ccolor=#FFD780FF\u003eSon Parıltı\u003c/color\u003e ile verilen \u003ccolor=#FFACFFFF\u003eElektrik Hasarı\u003c/color\u003e Clorinde\u0027in Saldırısının %30\u0027u kadar artar. En fazla 3 kademeye kadar birikir, her kademenin süresi birbirinden bağımsızdır. 3 kademe biriktiğinde Clorinde\u0027in müdahaleye karşı olan direnci artar. Bu saldırılar için kazanılabilecek Maksimum Hasar artışı 2.700 olabilir.\n\"Karanlığı Yaran Alev\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                          "description":  "\"Karanlığı Yaran Alev\" Pasif Yeteneği güçlenir: Yakındaki bir grup üyesi düşman üzerinde Elektrikle ilgili bir tepkime tetiklediğinde 15sn boyunca Clorinde\u0027in Normal Saldırıları ve Son Parıltı ile verilen Elektrik Hasarı Clorinde\u0027in Saldırısının %30\u0027u kadar artar. En fazla 3 kademeye kadar birikir, her kademenin süresi birbirinden bağımsızdır. 3 kademe biriktiğinde Clorinde\u0027in müdahaleye karşı olan direnci artar. Bu saldırılar için kazanılabilecek Maksimum Hasar artışı 2.700 olabilir.\n\"Karanlığı Yaran Alev\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                          "descriptionRaw":  "\"Karanlığı Yaran Alev\" Yükseltme Yeteneği güçlenir: Yakındaki bir grup üyesi düşman üzerinde \u003ccolor=#FFACFFFF\u003eElektrikle ilgili bir tepkime\u003c/color\u003e tetiklediğinde 15sn boyunca Clorinde\u0027in Normal Saldırıları ve \u003ccolor=#FFD780FF\u003eSon Parıltı\u003c/color\u003e ile verilen \u003ccolor=#FFACFFFF\u003eElektrik Hasarı\u003c/color\u003e Clorinde\u0027in Saldırısının %30\u0027u kadar artar. 3 kademeye kadar birikebilir, her kademenin süresi birbirinden bağımsızdır. 3 kademe biriktiğinde Clorinde\u0027in müdahaleye karşı direnci artar. Bu saldırılar için kazanılabilecek Maksimum Hasar artışı 2.700 olabilir.\n\"Karanlığı Yaran Alev\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                          "description":  "\"Karanlığı Yaran Alev\" Yükseltme Yeteneği güçlenir: Yakındaki bir grup üyesi düşman üzerinde Elektrikle ilgili bir tepkime tetiklediğinde 15sn boyunca Clorinde\u0027in Normal Saldırıları ve Son Parıltı ile verilen Elektrik Hasarı Clorinde\u0027in Saldırısının %30\u0027u kadar artar. 3 kademeye kadar birikebilir, her kademenin süresi birbirinden bağımsızdır. 3 kademe biriktiğinde Clorinde\u0027in müdahaleye karşı direnci artar. Bu saldırılar için kazanılabilecek Maksimum Hasar artışı 2.700 olabilir.\n\"Karanlığı Yaran Alev\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                       },
                                                                "c4":  {
                                                                           "name":  "\"Gözyaşı, Hayat ve Aşk Adına\"",
@@ -6909,8 +7061,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "Yıldızlı Göğün Çiçek Yağmuru",
-                                                                       "descriptionRaw":  "Altın Kadeh etkisindeki karakterler, düşmanlara \u003ccolor=#80C0FFFF\u003eSu Hasarı\u003c/color\u003e verdikten sonra 10 saniyeliğine düşmanların \u003ccolor=#80C0FFFF\u003eSu Direnci\u003c/color\u003e %35 azalır. Sonrasında tetiklenen Çiçeklenme veya Ay Çiçeklenmesi tepkimeleri düşmanlara Hasar verdiğinde 10 saniyeliğine düşmanların \u003ccolor=#99FF88FF\u003eDoğa Direncini\u003c/color\u003e %35 azaltır.\n\"Çiçek Dansı Bahçesi\" Yeteneğinin açılmış olması gerekir.",
-                                                                       "description":  "Altın Kadeh etkisindeki karakterler, düşmanlara Su Hasarı verdikten sonra 10 saniyeliğine düşmanların Su Direnci %35 azalır. Sonrasında tetiklenen Çiçeklenme veya Ay Çiçeklenmesi tepkimeleri düşmanlara Hasar verdiğinde 10 saniyeliğine düşmanların Doğa Direncini %35 azaltır.\n\"Çiçek Dansı Bahçesi\" Yeteneğinin açılmış olması gerekir."
+                                                                       "descriptionRaw":  "Altın Kadeh etkisindeki karakterler, düşmanlara \u003ccolor=#80C0FFFF\u003eSu Hasarı\u003c/color\u003e verdikten sonra 10 saniyeliğine düşmanların \u003ccolor=#80C0FFFF\u003eSu Direnci\u003c/color\u003e %35 azalır. Sonrasında tetiklenen Çiçeklenme veya Ay Çiçeklenmesi tepkimeleri düşmanlara Hasar verdiğinde 10 saniyeliğine düşmanların \u003ccolor=#99FF88FF\u003eDoğa Direncini\u003c/color\u003e %35 azaltır.\n\"Çiçek Dansı Bahçesi\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                       "description":  "Altın Kadeh etkisindeki karakterler, düşmanlara Su Hasarı verdikten sonra 10 saniyeliğine düşmanların Su Direnci %35 azalır. Sonrasında tetiklenen Çiçeklenme veya Ay Çiçeklenmesi tepkimeleri düşmanlara Hasar verdiğinde 10 saniyeliğine düşmanların Doğa Direncini %35 azaltır.\n\"Çiçek Dansı Bahçesi\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Sürtünmeli Ritim",
@@ -6950,8 +7102,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Namlu, Kavuran Duman",
-                                                                        "descriptionRaw":  "Chasca alana çıktığında \"Mermi Numarası\" Pasif Yeteneğinden 1 kademe \"Parlak Gölge Ruhu\" elde eder. \"Mermi Numarası\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca, \u003ccolor=#FFD780FF\u003eRuh Dizginleri, Gölge Avı\u003c/color\u003e Becerisinin \u003ccolor=#FFD780FF\u003eÇoklu Hedefleme\u003c/color\u003e ile ateşlenen \u003ccolor=#FFD780FF\u003eParıltılı Gölge Avı Mermileri\u003c/color\u003e düşmanlara isabet ettiğinde, bu mermilerin Element Türünde Chasca\u0027nın Saldırısının %400\u0027ü kadar Alan Hasarı verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır. Bu etki Chasca her \u003ccolor=#FFD780FF\u003eÇoklu Hedefleme\u003c/color\u003e kullandığında bir defa tetiklenebilir.",
-                                                                        "description":  "Chasca alana çıktığında \"Mermi Numarası\" Pasif Yeteneğinden 1 kademe \"Parlak Gölge Ruhu\" elde eder. \"Mermi Numarası\" Pasif Yeteneğinin açılmış olması gerekir.\nAyrıca, Ruh Dizginleri, Gölge Avı Becerisinin Çoklu Hedefleme ile ateşlenen Parıltılı Gölge Avı Mermileri düşmanlara isabet ettiğinde, bu mermilerin Element Türünde Chasca\u0027nın Saldırısının %400\u0027ü kadar Alan Hasarı verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır. Bu etki Chasca her Çoklu Hedefleme kullandığında bir defa tetiklenebilir."
+                                                                        "descriptionRaw":  "Chasca alana çıktığında \"Mermi Numarası\" Yükseltme Yeteneğinden 1 kademe \"Parlak Gölge Ruhu\" elde eder. \"Mermi Numarası\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca, \u003ccolor=#FFD780FF\u003eRuh Dizginleri, Gölge Avı\u003c/color\u003e Becerisinin \u003ccolor=#FFD780FF\u003eÇoklu Hedefleme\u003c/color\u003e ile ateşlenen \u003ccolor=#FFD780FF\u003eParıltılı Gölge Avı Mermileri\u003c/color\u003e düşmanlara isabet ettiğinde, bu mermilerin Element Türünde Chasca\u0027nın Saldırısının %400\u0027ü kadar Alan Hasarı verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır. Bu etki Chasca her \u003ccolor=#FFD780FF\u003eÇoklu Hedefleme\u003c/color\u003e kullandığında bir defa tetiklenebilir.",
+                                                                        "description":  "Chasca alana çıktığında \"Mermi Numarası\" Yükseltme Yeteneğinden 1 kademe \"Parlak Gölge Ruhu\" elde eder. \"Mermi Numarası\" Yükseltme Yeteneğinin açılmış olması gerekir.\nAyrıca, Ruh Dizginleri, Gölge Avı Becerisinin Çoklu Hedefleme ile ateşlenen Parıltılı Gölge Avı Mermileri düşmanlara isabet ettiğinde, bu mermilerin Element Türünde Chasca\u0027nın Saldırısının %400\u0027ü kadar Alan Hasarı verir. Bu Hasar, Yüklü Saldırı Hasarı sayılır. Bu etki Chasca her Çoklu Hedefleme kullandığında bir defa tetiklenebilir."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Kıvılcımlar, Ani Atış",
@@ -6970,13 +7122,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Yüzleşme, Savaşın İhtişamı",
-                                                                        "descriptionRaw":  "Chasca\u0027nın \u003ccolor=#FFD780FF\u003eÇoklu Hedeflemesinin\u003c/color\u003e yüklenme süresi azalır ve \"Mermi Numarası\" Pasif Yeteneğinin \"Ruh Bağlama Dönüşümü\" tetiklendikten sonra Chasca, \"Ölümcül Darbe\" durumu kazanır: Sonraki 3 saniye boyunca Chasca\u0027nın \u003ccolor=#FFD780FF\u003eRuh Dizginleri, Gölge Avı\u003c/color\u003e Becerisinin \u003ccolor=#FFD780FF\u003eÇoklu Hedeflemesini\u003c/color\u003e kullandığı bir sonraki sefer mermiler hemen yüklenir ve \u003ccolor=#FFD780FF\u003eÇoklu Hedeflemesinin\u003c/color\u003e \u003ccolor=#FFD780FF\u003eGölge Avı Mermileri\u003c/color\u003e ile \u003ccolor=#FFD780FF\u003eParıltılı Gölge Avı Mermilerinin\u003c/color\u003e o seferlik Kritik Hasarı %120 artar. Her 3 saniyede 1 \"Ölümcül Darbe\" etkisi kazanılabilir.\n\nBu etkiyi elde etmek için \"Mermi Numarası\" Pasif Yeteneğinin açılmış olması gerekir.",
-                                                                        "description":  "Chasca\u0027nın Çoklu Hedeflemesinin yüklenme süresi azalır ve \"Mermi Numarası\" Pasif Yeteneğinin \"Ruh Bağlama Dönüşümü\" tetiklendikten sonra Chasca, \"Ölümcül Darbe\" durumu kazanır: Sonraki 3 saniye boyunca Chasca\u0027nın Ruh Dizginleri, Gölge Avı Becerisinin Çoklu Hedeflemesini kullandığı bir sonraki sefer mermiler hemen yüklenir ve Çoklu Hedeflemesinin Gölge Avı Mermileri ile Parıltılı Gölge Avı Mermilerinin o seferlik Kritik Hasarı %120 artar. Her 3 saniyede 1 \"Ölümcül Darbe\" etkisi kazanılabilir.\n\nBu etkiyi elde etmek için \"Mermi Numarası\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                        "descriptionRaw":  "Chasca\u0027nın \u003ccolor=#FFD780FF\u003eÇoklu Hedeflemesinin\u003c/color\u003e yüklenme süresi azalır ve \"Mermi Numarası\" Yükseltme Yeteneğinin \"Ruh Bağlama Dönüşümü\" tetiklendikten sonra Chasca, \"Ölümcül Darbe\" durumu kazanır: Sonraki 3 saniye boyunca Chasca\u0027nın \u003ccolor=#FFD780FF\u003eRuh Dizginleri, Gölge Avı\u003c/color\u003e Becerisinin \u003ccolor=#FFD780FF\u003eÇoklu Hedeflemesini\u003c/color\u003e kullandığı bir sonraki sefer mermiler hemen yüklenir ve \u003ccolor=#FFD780FF\u003eÇoklu Hedeflemesinin\u003c/color\u003e \u003ccolor=#FFD780FF\u003eGölge Avı Mermileri\u003c/color\u003e ile \u003ccolor=#FFD780FF\u003eParıltılı Gölge Avı Mermilerinin\u003c/color\u003e o seferlik Kritik Hasarı %120 artar. Her 3 saniyede 1 \"Ölümcül Darbe\" etkisi kazanılabilir.\n\nBu etkiyi elde etmek için \"Mermi Numarası\" Yükseltme Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "Chasca\u0027nın Çoklu Hedeflemesinin yüklenme süresi azalır ve \"Mermi Numarası\" Yükseltme Yeteneğinin \"Ruh Bağlama Dönüşümü\" tetiklendikten sonra Chasca, \"Ölümcül Darbe\" durumu kazanır: Sonraki 3 saniye boyunca Chasca\u0027nın Ruh Dizginleri, Gölge Avı Becerisinin Çoklu Hedeflemesini kullandığı bir sonraki sefer mermiler hemen yüklenir ve Çoklu Hedeflemesinin Gölge Avı Mermileri ile Parıltılı Gölge Avı Mermilerinin o seferlik Kritik Hasarı %120 artar. Her 3 saniyede 1 \"Ölümcül Darbe\" etkisi kazanılabilir.\n\nBu etkiyi elde etmek için \"Mermi Numarası\" Yükseltme Yeteneğinin açılmış olması gerekir."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Silindir, Huzursuz Rulet",
-                                                                        "descriptionRaw":  "\"Mermi Numarası\" Pasif Yeteneğinin \"Ruh Bağlama Dönüşümü\" tetiklendiğinde silindire yüklenen 2. \u003ccolor=#FFD780FF\u003eGölge Avı Mermisi\u003c/color\u003e bir \u003ccolor=#FFD780FF\u003eParıltılı Gölge Avı Mermisine\u003c/color\u003e dönüşür.\n\"Ruh Bağlama Dönüşümü\"nün tetiklenme olasılığı artar. Eğer Element Dönüşümü Türü şartlarını karşılayan grup üyeleri varsa \"Ruh Bağlama Dönüşümü\"nün tetiklenme olasılığı %33,3 artar, en fazla %100 olur.\n\n\"Mermi Numarası\" Pasif Yeteneğinin açılmış olması gerekir.\n\nAyrıca Chasca savaşta değilken Gece Ruhunun Lütfu sırasındaki Gece Ruhu puanı ve Filojiston tüketimi %30 azalır.",
-                                                                        "description":  "\"Mermi Numarası\" Pasif Yeteneğinin \"Ruh Bağlama Dönüşümü\" tetiklendiğinde silindire yüklenen 2. Gölge Avı Mermisi bir Parıltılı Gölge Avı Mermisine dönüşür.\n\"Ruh Bağlama Dönüşümü\"nün tetiklenme olasılığı artar. Eğer Element Dönüşümü Türü şartlarını karşılayan grup üyeleri varsa \"Ruh Bağlama Dönüşümü\"nün tetiklenme olasılığı %33,3 artar, en fazla %100 olur.\n\n\"Mermi Numarası\" Pasif Yeteneğinin açılmış olması gerekir.\n\nAyrıca Chasca savaşta değilken Gece Ruhunun Lütfu sırasındaki Gece Ruhu puanı ve Filojiston tüketimi %30 azalır."
+                                                                        "descriptionRaw":  "\"Mermi Numarası\" Yükseltme Yeteneğinin \"Ruh Bağlama Dönüşümü\" tetiklendiğinde silindire yüklenen 2. \u003ccolor=#FFD780FF\u003eGölge Avı Mermisi\u003c/color\u003e bir \u003ccolor=#FFD780FF\u003eParıltılı Gölge Avı Mermisine\u003c/color\u003e dönüşür.\n\"Ruh Bağlama Dönüşümü\"nün tetiklenme olasılığı artar. Eğer Element Dönüşümü Türü şartlarını karşılayan grup üyeleri varsa \"Ruh Bağlama Dönüşümü\"nün tetiklenme olasılığı %33,3 artar, en fazla %100 olur.\n\n\"Mermi Numarası\" Yükseltme Yeteneğinin açılmış olması gerekir.\n\nAyrıca Chasca savaşta değilken Gece Ruhunun Lütfu sırasındaki Gece Ruhu puanı ve Filojiston tüketimi %30 azalır.",
+                                                                        "description":  "\"Mermi Numarası\" Yükseltme Yeteneğinin \"Ruh Bağlama Dönüşümü\" tetiklendiğinde silindire yüklenen 2. Gölge Avı Mermisi bir Parıltılı Gölge Avı Mermisine dönüşür.\n\"Ruh Bağlama Dönüşümü\"nün tetiklenme olasılığı artar. Eğer Element Dönüşümü Türü şartlarını karşılayan grup üyeleri varsa \"Ruh Bağlama Dönüşümü\"nün tetiklenme olasılığı %33,3 artar, en fazla %100 olur.\n\n\"Mermi Numarası\" Yükseltme Yeteneğinin açılmış olması gerekir.\n\nAyrıca Chasca savaşta değilken Gece Ruhunun Lütfu sırasındaki Gece Ruhu puanı ve Filojiston tüketimi %30 azalır."
                                                                     }
                                                          },
                                       "elementText":  "Rüzgar",
@@ -10222,6 +10374,53 @@
                                                     },
                                              "effectName":  "Soğukkanlı"
                                          },
+                    "reliquaryoftruth":  {
+                                             "r3":  {
+                                                        "description":  "Kritik Oranı %12 artar. Kuşanan karakter bir Element Becerisi kullandığında Yalanların Sırrı etkisini kazanır: 12 saniyeliğine Element Ustalığı 120 artar. Kuşanan karakter bir düşmana Ay Çiçeklenmesi Hasarı verdiğinde Hakikat Ayı etkisini kazanır: 4 saniyeliğine Kritik Hasarı %36 artar. Yalanların Sırrı ve Hakikat Ayı etkileri aynı anda aktif olduğunda iki etki de %50 güçlenir.",
+                                                        "values":  [
+                                                                       "%12",
+                                                                       "120",
+                                                                       "%36"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Kritik Oranı %16 artar. Kuşanan karakter bir Element Becerisi kullandığında Yalanların Sırrı etkisini kazanır: 12 saniyeliğine Element Ustalığı 160 artar. Kuşanan karakter bir düşmana Ay Çiçeklenmesi Hasarı verdiğinde Hakikat Ayı etkisini kazanır: 4 saniyeliğine Kritik Hasarı %48 artar. Yalanların Sırrı ve Hakikat Ayı etkileri aynı anda aktif olduğunda iki etki de %50 güçlenir.",
+                                                        "values":  [
+                                                                       "%16",
+                                                                       "160",
+                                                                       "%48"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Kritik Oranı %10 artar. Kuşanan karakter bir Element Becerisi kullandığında Yalanların Sırrı etkisini kazanır: 12 saniyeliğine Element Ustalığı 100 artar. Kuşanan karakter bir düşmana Ay Çiçeklenmesi Hasarı verdiğinde Hakikat Ayı etkisini kazanır: 4 saniyeliğine Kritik Hasarı %30 artar. Yalanların Sırrı ve Hakikat Ayı etkileri aynı anda aktif olduğunda iki etki de %50 güçlenir.",
+                                                        "values":  [
+                                                                       "%10",
+                                                                       "100",
+                                                                       "%30"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Kritik Oranı %14 artar. Kuşanan karakter bir Element Becerisi kullandığında Yalanların Sırrı etkisini kazanır: 12 saniyeliğine Element Ustalığı 140 artar. Kuşanan karakter bir düşmana Ay Çiçeklenmesi Hasarı verdiğinde Hakikat Ayı etkisini kazanır: 4 saniyeliğine Kritik Hasarı %42 artar. Yalanların Sırrı ve Hakikat Ayı etkileri aynı anda aktif olduğunda iki etki de %50 güçlenir.",
+                                                        "values":  [
+                                                                       "%14",
+                                                                       "140",
+                                                                       "%42"
+                                                                   ]
+                                                    },
+                                             "substatText":  "Kritik Hasar",
+                                             "weaponText":  "Katalizör",
+                                             "name":  "Hakikat Kutusu",
+                                             "effectTemplateRaw":  "Kritik Oranı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Kuşanan karakter bir Element Becerisi kullandığında Yalanların Sırrı etkisini kazanır: 12 saniyeliğine Element Ustalığı \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artar. Kuşanan karakter bir düşmana Ay Çiçeklenmesi Hasarı verdiğinde Hakikat Ayı etkisini kazanır: 4 saniyeliğine Kritik Hasarı \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e artar. Yalanların Sırrı ve Hakikat Ayı etkileri aynı anda aktif olduğunda iki etki de %50 güçlenir.",
+                                             "r1":  {
+                                                        "description":  "Kritik Oranı %8 artar. Kuşanan karakter bir Element Becerisi kullandığında Yalanların Sırrı etkisini kazanır: 12 saniyeliğine Element Ustalığı 80 artar. Kuşanan karakter bir düşmana Ay Çiçeklenmesi Hasarı verdiğinde Hakikat Ayı etkisini kazanır: 4 saniyeliğine Kritik Hasarı %24 artar. Yalanların Sırrı ve Hakikat Ayı etkileri aynı anda aktif olduğunda iki etki de %50 güçlenir.",
+                                                        "values":  [
+                                                                       "%8",
+                                                                       "80",
+                                                                       "%24"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Sahteliğin Özü"
+                                         },
                     "keyofkhajnisut":  {
                                            "r3":  {
                                                       "description":  "Can %30 artar. Element Becerisi düşmanlara vurduğunda 20 saniyeliğine Büyük İlahi etkisi kazanılır. Bu etki, kuşanan karakterin Maks. Canının %0,18\u0027i kadar Element Ustalığını artırır. Her 0,3 saniyede bir tetiklenebilir. 3 kademeye kadar birikebilir. 3 kademe biriktikten veya üçüncü kademenin süresi yenilendikten sonra 20 saniyeliğine yakındaki tüm grup üyelerinin Element Ustalığı, kuşanan karakterin Maks. Canının %0,3\u0027ü kadar artar.",
@@ -10964,7 +11163,7 @@
                                            },
                     "nightweaverslookingglass":  {
                                                      "r3":  {
-                                                                "description":  "Kuşanan karakter, Element Becerisiyle Su ya da Doğa Hasarı verdiğinde Uzak Kuzeyin Duası etkisini kazanır: 4,5sn boyunca Element Ustalığı 90 artar. Yakındaki bir grup üyesi Ay Çiçeklenmesi tepkimesi tetiklediğinde kuşanan karakter Yeni Ay Mısrası etkisini kazanır: 10sn boyunca Element Becerisi 90 artar. Uzak Kuzeyin Duası ve Yeni Ay Mısrası etkileri aynı anda var olduğunda yakındaki tüm grup üyelerinin Çiçeklenme Hasarı %180 artar, Aşırı Çiçeklenme ve Filizlenme Hasarı %120 artar, Ay Çiçeklenmesi Hasarı ise %60 artar. Bu etki birikemez. Bahsi geçen tüm etkiler, kuşanan karakter alanda olmasa da tetiklenebilir.",
+                                                                "description":  "Kuşanan karakter, Element Becerisiyle Su ya da Doğa Hasarı verdiğinde Uzak Kuzeyin Duası etkisini kazanır: 4,5sn boyunca Element Ustalığı 90 artar. Yakındaki bir grup üyesi Ay Çiçeklenmesi tepkimesi tetiklediğinde kuşanan karakter Yeni Ay Mısrası etkisi kazanır: 10sn boyunca Element Becerisi 90 artar. Uzak Kuzeyin Duası ve Yeni Ay Mısrası etkileri aynı anda var olduğunda yakındaki tüm grup üyelerinin Çiçeklenme Hasarı %180 artar, Aşırı Çiçeklenme ve Filizlenme Hasarı %120 artar, Ay Çiçeklenmesi Hasarı ise %60 artar. Bu etki birikemez. Bahsi geçen tüm etkiler, kuşanan karakter alanda olmasa da tetiklenebilir.",
                                                                 "values":  [
                                                                                "90",
                                                                                "90",
@@ -11715,6 +11914,48 @@
                                                    },
                                             "effectName":  "Gizemli Kandırmaca"
                                         },
+                    "dawningfrost":  {
+                                         "r3":  {
+                                                    "description":  "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 108 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 72 artar.",
+                                                    "values":  [
+                                                                   "108",
+                                                                   "72"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 144 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 96 artar.",
+                                                    "values":  [
+                                                                   "144",
+                                                                   "96"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 90 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 60 artar.",
+                                                    "values":  [
+                                                                   "90",
+                                                                   "60"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 126 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 84 artar.",
+                                                    "values":  [
+                                                                   "126",
+                                                                   "84"
+                                                               ]
+                                                },
+                                         "substatText":  "Kritik Hasar",
+                                         "weaponText":  "Katalizör",
+                                         "name":  "Sabah Ayazı",
+                                         "effectTemplateRaw":  "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artar.",
+                                         "r1":  {
+                                                    "description":  "Bir Yüklü Saldırı bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 72 artar. Bir Element Becerisi bir düşmana isabet ettikten sonra 10 saniyeliğine Element Ustalığı 48 artar.",
+                                                    "values":  [
+                                                                   "72",
+                                                                   "48"
+                                                               ]
+                                                },
+                                         "effectName":  "Gece Rüyaları"
+                                     },
                     "cinnabarspindle":  {
                                             "r3":  {
                                                        "description":  "Element Becerisi Hasarı, Savunmanın %60\u0027ı kadar artar. Bu etki sadece 1,5 saniyede bir uygulanabilir ve Element Becerisi Hasar verdikten 0,1 saniye sonra sıfırlanır.",
@@ -12653,6 +12894,48 @@
                                               },
                                        "effectName":  "Kesin Sonuç"
                                    },
+                    "sacrificersstaff":  {
+                                             "r3":  {
+                                                        "description":  "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %12, Enerji Yüklemesi %9 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                        "values":  [
+                                                                       "%12",
+                                                                       "%9"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %16, Enerji Yüklemesi %12 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                        "values":  [
+                                                                       "%16",
+                                                                       "%12"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %10, Enerji Yüklemesi %7,5 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                        "values":  [
+                                                                       "%10",
+                                                                       "%7,5"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %14, Enerji Yüklemesi %10,5 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                        "values":  [
+                                                                       "%14",
+                                                                       "%10,5"
+                                                                   ]
+                                                    },
+                                             "substatText":  "Kritik Oranı",
+                                             "weaponText":  "Mızrak",
+                                             "name":  "Kutsal Adak Asası",
+                                             "effectTemplateRaw":  "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, Enerji Yüklemesi \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                             "r1":  {
+                                                        "description":  "Bir Element Becerisi bir düşmana isabet ettikten sonra 6sn boyunca Saldırı %8, Enerji Yüklemesi %6 artar. 3 kademeye kadar birikebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                        "values":  [
+                                                                       "%8",
+                                                                       "%6"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Lekesiz Arzu"
+                                         },
                     "flowingpurity":  {
                                           "r3":  {
                                                      "description":  "Bir Element Becerisi kullanıldığında 15 saniyeliğine Tüm Element Hasarları %12 artar ve Maks. Canın %24\u0027ü oranında bir Hayat Bağı kazanılır. Bu etki her 10 saniyede bir tetiklenebilir. Hayat Bağı sona erdiğinde bu süreçte emilen her 1,000 Can için Tüm Element Hasarları %3 artar. Bu şekilde en fazla %18 Hasar artışı kazanılabilir. Bu etki 15 saniye sürer.",
@@ -17075,6 +17358,10 @@
                                                },
                     "bubblerseahorse":  {
                                             "name":  "Kabarcıklı Denizatı",
+                                            "specialname":  null
+                                        },
+                    "frostnightherra":  {
+                                            "name":  "Donuk Gecenin Efendisi",
                                             "specialname":  null
                                         },
                     "bitingcoldwayobmanifestation":  {

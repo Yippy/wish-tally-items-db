@@ -27,14 +27,6 @@
                                                                                "วันอาทิตย์"
                                                                            ]
                                                         },
-                    "domainofforgerysubmergedvalleyi":  {
-                                                            "entranceName":  "สวนดอก Cecilia",
-                                                            "daysofweek":  [
-                                                                               "วันอังคาร",
-                                                                               "วันศุกร์",
-                                                                               "วันอาทิตย์"
-                                                                           ]
-                                                        },
                     "domainofmasteryfullmooni":  {
                                                      "entranceName":  "โถงเบาปัญญา",
                                                      "daysofweek":  [
@@ -99,6 +91,14 @@
                                                                       "วันอาทิตย์"
                                                                   ]
                                                },
+                    "domainofmasteryfallencityi":  {
+                                                       "entranceName":  "นครเร้นที่ไร้แสง",
+                                                       "daysofweek":  [
+                                                                          "วันจันทร์",
+                                                                          "วันพฤหัสบดี",
+                                                                          "วันอาทิตย์"
+                                                                      ]
+                                                   },
                     "domainofforgeryartisanshipi":  {
                                                         "entranceName":  "เสียงสะท้อนของกระแสน้ำลึก",
                                                         "daysofweek":  [
@@ -163,14 +163,14 @@
                                                                                  "วันอาทิตย์"
                                                                              ]
                                                           },
-                    "domainofforgerysandburiali":  {
-                                                       "entranceName":  "โถงแห่งห้วงทราย",
-                                                       "daysofweek":  [
-                                                                          "วันพุธ",
-                                                                          "วันเสาร์",
-                                                                          "วันอาทิตย์"
-                                                                      ]
-                                                   },
+                    "domainofforgerysubmergedvalleyi":  {
+                                                            "entranceName":  "สวนดอก Cecilia",
+                                                            "daysofweek":  [
+                                                                               "วันอังคาร",
+                                                                               "วันศุกร์",
+                                                                               "วันอาทิตย์"
+                                                                           ]
+                                                        },
                     "domainofmasterychimingrecitationi":  {
                                                               "entranceName":  "ความรุ่งโรจน์ซีดจางที่ถูกลืม",
                                                               "daysofweek":  [
@@ -235,6 +235,30 @@
                                                                             "วันอาทิตย์"
                                                                         ]
                                                      },
+                    "domainofforgerysandburiali":  {
+                                                       "entranceName":  "โถงแห่งห้วงทราย",
+                                                       "daysofweek":  [
+                                                                          "วันพุธ",
+                                                                          "วันเสาร์",
+                                                                          "วันอาทิตย์"
+                                                                      ]
+                                                   },
+                    "domainofforgeryprayerssungi":  {
+                                                        "entranceName":  "วิหารจันทราที่สาบสูญ",
+                                                        "daysofweek":  [
+                                                                           "วันอังคาร",
+                                                                           "วันศุกร์",
+                                                                           "วันอาทิตย์"
+                                                                       ]
+                                                    },
+                    "domainofmasteryoverturnedroosti":  {
+                                                            "entranceName":  "นครเร้นที่ไร้แสง",
+                                                            "daysofweek":  [
+                                                                               "วันพุธ",
+                                                                               "วันเสาร์",
+                                                                               "วันอาทิตย์"
+                                                                           ]
+                                                        },
                     "domainofforgeryscryingshadowsi":  {
                                                            "entranceName":  "หอสังเกตการณ์โบราณ",
                                                            "daysofweek":  [
@@ -275,6 +299,14 @@
                                                                                  "วันอาทิตย์"
                                                                              ]
                                                           },
+                    "domainofmasteryshadowedlegacyi":  {
+                                                           "entranceName":  "นครเร้นที่ไร้แสง",
+                                                           "daysofweek":  [
+                                                                              "วันอังคาร",
+                                                                              "วันศุกร์",
+                                                                              "วันอาทิตย์"
+                                                                          ]
+                                                       },
                     "domainofmasteryadmonishingengravingi":  {
                                                                  "entranceName":  "ความรุ่งโรจน์ซีดจางที่ถูกลืม",
                                                                  "daysofweek":  [
@@ -283,6 +315,14 @@
                                                                                     "วันอาทิตย์"
                                                                                 ]
                                                              },
+                    "domainofforgeryradiantsplendori":  {
+                                                            "entranceName":  "วิหารจันทราที่สาบสูญ",
+                                                            "daysofweek":  [
+                                                                               "วันจันทร์",
+                                                                               "วันพฤหัสบดี",
+                                                                               "วันอาทิตย์"
+                                                                           ]
+                                                        },
                     "domainofforgeryattentiveobservationi":  {
                                                                  "entranceName":  "หอสังเกตการณ์โบราณ",
                                                                  "daysofweek":  [
@@ -293,18 +333,21 @@
                                                              }
                 },
     "materials":  {
+                      "sunsettia":  {
+                                        "name":  "Sunsettia"
+                                    },
                       "sandbearerwood":  {
                                              "name":  "ไม้เนื้อทราย"
                                          },
-                      "cultivationareaexpansionii":  {
-                                                         "name":  "ส่วนขยายพื้นที่เพาะปลูก 2"
-                                                     },
+                      "mora":  {
+                                   "name":  "Mora"
+                               },
                       "varunadalazuritesliver":  {
                                                      "name":  "Varunada Lazurite Sliver"
                                                  },
-                      "birchwood":  {
-                                        "name":  "ไม้เบิร์ช"
-                                    },
+                      "guidetofreedom":  {
+                                             "name":  "Guide to Freedom"
+                                         },
                       "improvedalchemycauldronii":  {
                                                         "name":  "อัปเกรดหม้อแปรธาตุ 2"
                                                     },
@@ -341,9 +384,9 @@
                       "ainostoolboxempty":  {
                                                 "name":  "กล่องเครื่องมือของ Aino (ว่างเปล่า)"
                                             },
-                      "sheathofthesecretsource":  {
-                                                      "name":  "Sheath of the Secret Source"
-                                                  },
+                      "electroculus":  {
+                                           "name":  "Electroculus"
+                                       },
                       "flashingmaintenancemekbait":  {
                                                          "name":  "เหยื่อกะพริบล่อจักรกลบำรุงรักษา"
                                                      },
@@ -359,6 +402,9 @@
                       "brownshirakodai":  {
                                               "name":  "Brown Shirakodai"
                                           },
+                      "geoculus":  {
+                                       "name":  "Geoculus"
+                                   },
                       "philosophiesofjustice":  {
                                                     "name":  "Philosophies of Justice"
                                                 },
@@ -440,9 +486,9 @@
                       "shardofashatteredwill":  {
                                                     "name":  "Shard of a Shattered Will"
                                                 },
-                      "brilliantdiamondchunk":  {
-                                                    "name":  "Brilliant Diamond Chunk"
-                                                },
+                      "dragonheirsfalsefin":  {
+                                                  "name":  "Dragonheir\u0027s False Fin"
+                                              },
                       "yellowobsidianring":  {
                                                  "name":  "Yellow Obsidian Ring"
                                              },
@@ -455,6 +501,9 @@
                       "springofpuresacreddewdrop":  {
                                                         "name":  "Spring of Pure Sacred Dewdrop"
                                                     },
+                      "radiantantler":  {
+                                            "name":  "Radiant Antler"
+                                        },
                       "loachpearl":  {
                                          "name":  "Loach Pearl"
                                      },
@@ -563,6 +612,9 @@
                       "brilliantdiamondsliver":  {
                                                      "name":  "Brilliant Diamond Sliver"
                                                  },
+                      "lumenspar":  {
+                                        "name":  "Lumenspar"
+                                    },
                       "zaytunpeach":  {
                                           "name":  "Zaytun Peach"
                                       },
@@ -623,6 +675,9 @@
                       "aureateradianceofthefarnorthscions":  {
                                                                  "name":  "Aureate Radiance of the Far-North Scions"
                                                              },
+                      "pyroculus":  {
+                                        "name":  "Pyroculus"
+                                    },
                       "dakasbell":  {
                                         "name":  "Daka\u0027s Bell"
                                     },
@@ -869,6 +924,9 @@
                       "witheringpurpurbloom":  {
                                                    "name":  "Withering Purpurbloom"
                                                },
+                      "lunoculus":  {
+                                        "name":  "Lunoculus"
+                                    },
                       "cakefortraveler":  {
                                               "name":  "เค้กสำหรับนักเดินทาง"
                                           },
@@ -899,6 +957,9 @@
                       "shuttleofodara":  {
                                              "name":  "Shuttle of Odara"
                                          },
+                      "lazuriteaxemarlin":  {
+                                                "name":  "Lazurite Axe Marlin"
+                                            },
                       "northlandercatalystbillet":  {
                                                         "name":  "Northlander Catalyst Billet"
                                                     },
@@ -1013,9 +1074,6 @@
                       "shivadajadesliver":  {
                                                 "name":  "Shivada Jade Sliver"
                                             },
-                      "guidetofreedom":  {
-                                             "name":  "Guide to Freedom"
-                                         },
                       "heartofthesecretsource":  {
                                                      "name":  "Heart of the Secret Source"
                                                  },
@@ -1163,6 +1221,9 @@
                       "tourbillondevice":  {
                                                "name":  "\"Tourbillon Device\""
                                            },
+                      "chronicleexp":  {
+                                           "name":  "EXP บันทึก"
+                                       },
                       "maintenancemekinitialconfiguration":  {
                                                                  "name":  "จักรกลบำรุงรักษา - รุ่นความสามารถเริ่มต้น"
                                                              },
@@ -1214,6 +1275,9 @@
                       "cultivationareaexpansioniv":  {
                                                          "name":  "ส่วนขยายพื้นที่เพาะปลูก 4"
                                                      },
+                      "crimsonagatedisplay":  {
+                                                  "name":  "Crimson Agate (Display)"
+                                              },
                       "shivadajadechunk":  {
                                                "name":  "Shivada Jade Chunk"
                                            },
@@ -1319,6 +1383,9 @@
                       "teachingsofequity":  {
                                                 "name":  "Teachings of Equity"
                                             },
+                      "dendroculus":  {
+                                          "name":  "Dendroculus"
+                                      },
                       "guidetoconflict":  {
                                               "name":  "Guide to Conflict"
                                           },
@@ -1367,6 +1434,9 @@
                       "unfadingsilkygrace":  {
                                                  "name":  "Unfading Silky Grace"
                                              },
+                      "spiritcarp":  {
+                                         "name":  "ปลาคาร์ปวิญญาณ"
+                                     },
                       "ironchunk":  {
                                         "name":  "Iron Chunk"
                                     },
@@ -1388,9 +1458,12 @@
                       "scorchedstarshroom":  {
                                                  "name":  "Starshroom ที่ไหม้เกรียม"
                                              },
-                      "sunsettia":  {
-                                        "name":  "Sunsettia"
-                                    },
+                      "keysigil":  {
+                                       "name":  "Key Sigil"
+                                   },
+                      "anemoculus":  {
+                                         "name":  "Anemoculus"
+                                     },
                       "prithivatopazfragment":  {
                                                     "name":  "Prithiva Topaz Fragment"
                                                 },
@@ -1400,6 +1473,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027s Wisdom"
                                           },
+                      "lumenstoneore":  {
+                                            "name":  "Lumenstone Ore"
+                                        },
                       "dustofenlightenment":  {
                                                   "name":  "Dust of Enlightenment"
                                               },
@@ -1424,9 +1500,9 @@
                       "empowereddragontooth":  {
                                                    "name":  "เขี้ยวมังกรที่ดูดซับพลังแล้ว"
                                                },
-                      "keysigil":  {
-                                       "name":  "Key Sigil"
-                                   },
+                      "chroniclesoftherealms":  {
+                                                    "name":  "บันทึกข้ามภพ"
+                                                },
                       "goldenbranchofadistantsea":  {
                                                         "name":  "Golden Branch of a Distant Sea"
                                                     },
@@ -1616,6 +1692,9 @@
                       "teachingsoftransience":  {
                                                     "name":  "Teachings of Transience"
                                                 },
+                      "dandelionbookmark":  {
+                                                "name":  "Dandelion Bookmark"
+                                            },
                       "riftcore":  {
                                        "name":  "Rift Core"
                                    },
@@ -1628,9 +1707,9 @@
                       "winegobletofthepristinesea":  {
                                                          "name":  "Wine Goblet of the Pristine Sea"
                                                      },
-                      "sugar":  {
-                                    "name":  "Sugar"
-                                },
+                      "moonchasecharm":  {
+                                             "name":  "Moonchase Charm"
+                                         },
                       "afterglowoflongnightflint":  {
                                                         "name":  "Afterglow of Long Night Flint"
                                                     },
@@ -1679,6 +1758,9 @@
                       "vayudaturquoisesliver":  {
                                                     "name":  "Vayuda Turquoise Sliver"
                                                 },
+                      "recordedintel":  {
+                                            "name":  "ข่าวกรองที่บันทึกไว้"
+                                        },
                       "concealedclaw":  {
                                             "name":  "Concealed Claw"
                                         },
@@ -1748,6 +1830,9 @@
                       "pedunculateoakwood":  {
                                                  "name":  "ไม้โอ๊กฤดูร้อน"
                                              },
+                      "sharparrowhead":  {
+                                             "name":  "Sharp Arrowhead"
+                                         },
                       "ashenaratikuwood":  {
                                                "name":  "ไม้ Ashen Aratiku"
                                            },
@@ -1781,9 +1866,9 @@
                       "greenobsidianfragment":  {
                                                     "name":  "Green Obsidian Fragment"
                                                 },
-                      "sharparrowhead":  {
-                                             "name":  "Sharp Arrowhead"
-                                         },
+                      "crimsonagate":  {
+                                           "name":  "Crimson Agate"
+                                       },
                       "nightwindsmysticrevelation":  {
                                                          "name":  "Night-Wind\u0027s Mystic Revelation"
                                                      },
@@ -1832,6 +1917,9 @@
                       "improvedalchemycauldroniv":  {
                                                         "name":  "อัปเกรดหม้อแปรธาตุ 4"
                                                     },
+                      "sheathofthesecretsource":  {
+                                                      "name":  "Sheath of the Secret Source"
+                                                  },
                       "glowinggem":  {
                                          "name":  "Glowing Gem"
                                      },
@@ -2021,9 +2109,9 @@
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Scattered Piece of Decarabian\u0027s Dream"
                                                            },
-                      "dandelionbookmark":  {
-                                                "name":  "Dandelion Bookmark"
-                                            },
+                      "brilliantdiamondchunk":  {
+                                                    "name":  "Brilliant Diamond Chunk"
+                                                },
                       "enhancementore":  {
                                              "name":  "Enhancement Ore"
                                          },
@@ -2063,9 +2151,9 @@
                       "darkstatuette":  {
                                             "name":  "Dark Statuette"
                                         },
-                      "dragonheirsfalsefin":  {
-                                                  "name":  "Dragonheir\u0027s False Fin"
-                                              },
+                      "sugar":  {
+                                    "name":  "Sugar"
+                                },
                       "bigprettycrystal":  {
                                                "name":  "Big Pretty Crystal"
                                            },
@@ -2087,6 +2175,9 @@
                       "scoopoftaintedwater":  {
                                                   "name":  "Scoop of Tainted Water"
                                               },
+                      "birchwood":  {
+                                        "name":  "ไม้เบิร์ช"
+                                    },
                       "coldcrackedshellshard":  {
                                                     "name":  "Cold-Cracked Shellshard"
                                                 },
@@ -2180,9 +2271,9 @@
                       "plumeofthechangingwinds":  {
                                                       "name":  "Plume of the Changing Winds"
                                                   },
-                      "lazuriteaxemarlin":  {
-                                                "name":  "Lazurite Axe Marlin"
-                                            },
+                      "hydroculus":  {
+                                         "name":  "Hydroculus"
+                                     },
                       "blazingsacrificialheartssplendor":  {
                                                                "name":  "Blazing Sacrificial Heart\u0027s Splendor"
                                                            },
@@ -2405,9 +2496,9 @@
                       "waterthatfailedtotranscend":  {
                                                          "name":  "Water That Failed To Transcend"
                                                      },
-                      "mora":  {
-                                   "name":  "Mora"
-                               },
+                      "cultivationareaexpansionii":  {
+                                                         "name":  "ส่วนขยายพื้นที่เพาะปลูก 2"
+                                                     },
                       "precisiondriveshaft":  {
                                                   "name":  "Precision Drive Shaft"
                                               },
@@ -2710,8 +2801,8 @@
                                                                     },
                                                              "c4":  {
                                                                         "name":  "A Tailor\u0027s Three Courtesies",
-                                                                        "descriptionRaw":  "ภายใน 8 วินาที หลังจากทำให้เกิดเอฟเฟกต์ต่อเนื่องของพรสวรรค์ติดตัว \"Tailor-Made\" เมื่อตัวละครของตัวเองในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นโจมตีปกติ, ชาร์จโจมตี หรือโจมตีพุ่งลงจากอากาศโดนศัตรูโดยรอบ จะเรียกตุ๊กตาจักรกลอัตโนมัติ \"Kinu\" ออกมาหนึ่งตัวใกล้กับศัตรู ซึ่งในทุก 1 วินาที จะสามารถเรียก Kinu ด้วยวิธีข้างต้นได้สูงสุดหนึ่งตัว โดยในช่วงเวลาหนึ่งครั้งของเอฟเฟกต์ Seize the Moment หรือ Tailoring ของพรสวรรค์ติดตัว \"Tailor-Made\" จะสามารถเรียก Kinu ด้วยวิธีดังกล่าวออกมาได้สูงสุด 3 ตัว และเอฟเฟกต์ข้างต้นนี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที\nจำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Tailor-Made\" ก่อน",
-                                                                        "description":  "ภายใน 8 วินาที หลังจากทำให้เกิดเอฟเฟกต์ต่อเนื่องของพรสวรรค์ติดตัว \"Tailor-Made\" เมื่อตัวละครของตัวเองในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นโจมตีปกติ, ชาร์จโจมตี หรือโจมตีพุ่งลงจากอากาศโดนศัตรูโดยรอบ จะเรียกตุ๊กตาจักรกลอัตโนมัติ \"Kinu\" ออกมาหนึ่งตัวใกล้กับศัตรู ซึ่งในทุก 1 วินาที จะสามารถเรียก Kinu ด้วยวิธีข้างต้นได้สูงสุดหนึ่งตัว โดยในช่วงเวลาหนึ่งครั้งของเอฟเฟกต์ Seize the Moment หรือ Tailoring ของพรสวรรค์ติดตัว \"Tailor-Made\" จะสามารถเรียก Kinu ด้วยวิธีดังกล่าวออกมาได้สูงสุด 3 ตัว และเอฟเฟกต์ข้างต้นนี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที\nจำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Tailor-Made\" ก่อน"
+                                                                        "descriptionRaw":  "ภายใน 8 วินาที หลังจากทำให้เกิดเอฟเฟกต์ต่อเนื่องของพรสวรรค์เพิ่มเติม \"Tailor-Made\" เมื่อตัวละครของตัวเองในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นโจมตีปกติ, ชาร์จโจมตี หรือโจมตีพุ่งลงจากอากาศโดนศัตรูโดยรอบ จะเรียกตุ๊กตาจักรกลอัตโนมัติ \"Kinu\" ออกมาหนึ่งตัวใกล้กับศัตรู ซึ่งในทุก 1 วินาที จะสามารถเรียก Kinu ด้วยวิธีข้างต้นได้สูงสุดหนึ่งตัว โดยในช่วงเวลาต่อเนื่องหนึ่งครั้งของเอฟเฟกต์ Seize the Moment หรือ Tailoring ของพรสวรรค์เพิ่มเติม \"Tailor-Made\" จะสามารถเรียก Kinu ด้วยวิธีดังกล่าวออกมาได้สูงสุด 3 ตัว และเอฟเฟกต์ข้างต้นนี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที\nจำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Tailor-Made\" ก่อน",
+                                                                        "description":  "ภายใน 8 วินาที หลังจากทำให้เกิดเอฟเฟกต์ต่อเนื่องของพรสวรรค์เพิ่มเติม \"Tailor-Made\" เมื่อตัวละครของตัวเองในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นโจมตีปกติ, ชาร์จโจมตี หรือโจมตีพุ่งลงจากอากาศโดนศัตรูโดยรอบ จะเรียกตุ๊กตาจักรกลอัตโนมัติ \"Kinu\" ออกมาหนึ่งตัวใกล้กับศัตรู ซึ่งในทุก 1 วินาที จะสามารถเรียก Kinu ด้วยวิธีข้างต้นได้สูงสุดหนึ่งตัว โดยในช่วงเวลาต่อเนื่องหนึ่งครั้งของเอฟเฟกต์ Seize the Moment หรือ Tailoring ของพรสวรรค์เพิ่มเติม \"Tailor-Made\" จะสามารถเรียก Kinu ด้วยวิธีดังกล่าวออกมาได้สูงสุด 3 ตัว และเอฟเฟกต์ข้างต้นนี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที\nจำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Tailor-Made\" ก่อน"
                                                                     },
                                                              "c3":  {
                                                                         "name":  "Four Brocade Embellishments",
@@ -2725,13 +2816,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Sole Principle Pursuit",
-                                                                        "descriptionRaw":  "หลังจากทำให้เกิดเอฟเฟกต์ต่อเนื่องของพรสวรรค์ติดตัว \"Tailor-Made\" ช่วงเวลาคูลดาวน์ของ \u003ccolor=#FFD780FF\u003eFluttering Hasode\u003c/color\u003e ของ Chiori เองจะลดลง 12 วินาที ต้องปลดล็อกพรสวรรค์ติดตัว \"Tailor-Made\" ก่อน\nนอกจากนี้ จะเพิ่มความเสียหายการโจมตีปกติของ Chiori โดยค่าที่เพิ่มจะเท่ากับ 235% ของพลังป้องกันของ Chiori",
-                                                                        "description":  "หลังจากทำให้เกิดเอฟเฟกต์ต่อเนื่องของพรสวรรค์ติดตัว \"Tailor-Made\" ช่วงเวลาคูลดาวน์ของ Fluttering Hasode ของ Chiori เองจะลดลง 12 วินาที ต้องปลดล็อกพรสวรรค์ติดตัว \"Tailor-Made\" ก่อน\nนอกจากนี้ จะเพิ่มความเสียหายการโจมตีปกติของ Chiori โดยค่าที่เพิ่มจะเท่ากับ 235% ของพลังป้องกันของ Chiori"
+                                                                        "descriptionRaw":  "หลังจากทำให้เกิดเอฟเฟกต์ต่อเนื่องของพรสวรรค์เพิ่มเติม \"Tailor-Made\" ช่วงเวลาคูลดาวน์ของ \u003ccolor=#FFD780FF\u003eFluttering Hasode\u003c/color\u003e ของ Chiori เองจะลดลง 12 วินาที ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Tailor-Made\" ก่อน\nนอกจากนี้ จะเพิ่มความเสียหายการโจมตีปกติของ Chiori โดยค่าที่เพิ่มจะเท่ากับ 235% ของพลังป้องกันของ Chiori",
+                                                                        "description":  "หลังจากทำให้เกิดเอฟเฟกต์ต่อเนื่องของพรสวรรค์เพิ่มเติม \"Tailor-Made\" ช่วงเวลาคูลดาวน์ของ Fluttering Hasode ของ Chiori เองจะลดลง 12 วินาที ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Tailor-Made\" ก่อน\nนอกจากนี้ จะเพิ่มความเสียหายการโจมตีปกติของ Chiori โดยค่าที่เพิ่มจะเท่ากับ 235% ของพลังป้องกันของ Chiori"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Six Paths of Sage Silkcraft",
-                                                                        "descriptionRaw":  "ระยะการโจมตีของตุ๊กตาจักรกลอัตโนมัติ \"Tamoto\" ของ \u003ccolor=#FFD780FF\u003eFluttering Hasode\u003c/color\u003e เพิ่มขึ้น 50%\nนอกจากนี้ หากมีตัวละคร\u003ccolor=#FFE699FF\u003eธาตุหิน\u003c/color\u003eที่ไม่ใช่ Chiori อยู่ในทีม เมื่อสิ้นสุดการพุ่งโจมตีของ Fluttering Hasode จะทำให้เกิดเอฟเฟกต์ต่อไปนี้:\n·เรียก Tamoto ออกมาเพิ่มเติมหนึ่งตัว Tamoto ของ Chiori ที่ถูกเรียกออกมาด้วยวิธีนี้ และ Tamoto ของ Chiori ที่เกิดจากการมีวัตถุที่สร้างขึ้นจากธาตุหิน จะสามารถคงอยู่พร้อมกันได้สูงสุดเพียงหนึ่งตัว;\n·ใช้พรสวรรค์ติดตัว \"The Finishing Touch\" โดยเอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"The Finishing Touch\" ก่อน",
-                                                                        "description":  "ระยะการโจมตีของตุ๊กตาจักรกลอัตโนมัติ \"Tamoto\" ของ Fluttering Hasode เพิ่มขึ้น 50%\nนอกจากนี้ หากมีตัวละครธาตุหินที่ไม่ใช่ Chiori อยู่ในทีม เมื่อสิ้นสุดการพุ่งโจมตีของ Fluttering Hasode จะทำให้เกิดเอฟเฟกต์ต่อไปนี้:\n·เรียก Tamoto ออกมาเพิ่มเติมหนึ่งตัว Tamoto ของ Chiori ที่ถูกเรียกออกมาด้วยวิธีนี้ และ Tamoto ของ Chiori ที่เกิดจากการมีวัตถุที่สร้างขึ้นจากธาตุหิน จะสามารถคงอยู่พร้อมกันได้สูงสุดเพียงหนึ่งตัว;\n·ใช้พรสวรรค์ติดตัว \"The Finishing Touch\" โดยเอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"The Finishing Touch\" ก่อน"
+                                                                        "descriptionRaw":  "ระยะการโจมตีของตุ๊กตาจักรกลอัตโนมัติ \"Tamoto\" ของ \u003ccolor=#FFD780FF\u003eFluttering Hasode\u003c/color\u003e เพิ่มขึ้น 50%\nนอกจากนี้ หากมีตัวละคร\u003ccolor=#FFE699FF\u003eธาตุหิน\u003c/color\u003eที่ไม่ใช่ Chiori อยู่ในทีม เมื่อสิ้นสุดการพุ่งโจมตีของ Fluttering Hasode จะทำให้เกิดเอฟเฟกต์ต่อไปนี้:\n·เรียก Tamoto ออกมาเพิ่มเติมหนึ่งตัว Tamoto ของ Chiori ที่ถูกเรียกออกมาด้วยวิธีนี้ และ Tamoto ของ Chiori ที่เกิดจากการมีวัตถุที่สร้างขึ้นจากธาตุหิน จะสามารถคงอยู่พร้อมกันได้สูงสุดเพียงหนึ่งตัว;\n·เปิดใช้พรสวรรค์เพิ่มเติม \"The Finishing Touch\" โดยเอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"The Finishing Touch\" ก่อน",
+                                                                        "description":  "ระยะการโจมตีของตุ๊กตาจักรกลอัตโนมัติ \"Tamoto\" ของ Fluttering Hasode เพิ่มขึ้น 50%\nนอกจากนี้ หากมีตัวละครธาตุหินที่ไม่ใช่ Chiori อยู่ในทีม เมื่อสิ้นสุดการพุ่งโจมตีของ Fluttering Hasode จะทำให้เกิดเอฟเฟกต์ต่อไปนี้:\n·เรียก Tamoto ออกมาเพิ่มเติมหนึ่งตัว Tamoto ของ Chiori ที่ถูกเรียกออกมาด้วยวิธีนี้ และ Tamoto ของ Chiori ที่เกิดจากการมีวัตถุที่สร้างขึ้นจากธาตุหิน จะสามารถคงอยู่พร้อมกันได้สูงสุดเพียงหนึ่งตัว;\n·เปิดใช้พรสวรรค์เพิ่มเติม \"The Finishing Touch\" โดยเอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"The Finishing Touch\" ก่อน"
                                                                     }
                                                          },
                                       "elementText":  "หิน",
@@ -2787,8 +2878,8 @@
                                           "constellations":  {
                                                                  "c2":  {
                                                                             "name":  "\"All Rewards and Retribution, Mine to Bestow...\"",
-                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eBlood-Debt Directive\u003c/color\u003e จะกลายเป็น Blood-Debt Due ตั้งแต่แรก\nเมื่อ Arlecchino ดูดซับ Blood-Debt Due จะเรียก Balemoon Bloodfire ออกมาด้านหน้า สร้าง\u003ccolor=#FF9999FF\u003eความเสียหายไฟวงกว้าง\u003c/color\u003eที่มีค่าเท่ากับ 900% ของพลังโจมตีของเธอ และเพิ่มความต้านทานธาตุทั้งหมดและความต้านทานกายภาพของเธอขึ้น 20% เป็นเวลา 15 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที\nต้องปลดล็อกพรสวรรค์ติดตัว \"Agony Alone May Be Repaid\" ก่อน",
-                                                                            "description":  "Blood-Debt Directive จะกลายเป็น Blood-Debt Due ตั้งแต่แรก\nเมื่อ Arlecchino ดูดซับ Blood-Debt Due จะเรียก Balemoon Bloodfire ออกมาด้านหน้า สร้างความเสียหายไฟวงกว้างที่มีค่าเท่ากับ 900% ของพลังโจมตีของเธอ และเพิ่มความต้านทานธาตุทั้งหมดและความต้านทานกายภาพของเธอขึ้น 20% เป็นเวลา 15 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที\nต้องปลดล็อกพรสวรรค์ติดตัว \"Agony Alone May Be Repaid\" ก่อน"
+                                                                            "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eBlood-Debt Directive\u003c/color\u003e จะกลายเป็น Blood-Debt Due ตั้งแต่แรก\nเมื่อ Arlecchino ดูดซับ Blood-Debt Due จะเรียก Balemoon Bloodfire ออกมาด้านหน้า สร้าง\u003ccolor=#FF9999FF\u003eความเสียหายไฟวงกว้าง\u003c/color\u003eที่มีค่าเท่ากับ 900% ของพลังโจมตีของเธอ และเพิ่มความต้านทานธาตุทั้งหมดและความต้านทานกายภาพของเธอขึ้น 20% เป็นเวลา 15 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Agony Alone May Be Repaid\" ก่อน",
+                                                                            "description":  "Blood-Debt Directive จะกลายเป็น Blood-Debt Due ตั้งแต่แรก\nเมื่อ Arlecchino ดูดซับ Blood-Debt Due จะเรียก Balemoon Bloodfire ออกมาด้านหน้า สร้างความเสียหายไฟวงกว้างที่มีค่าเท่ากับ 900% ของพลังโจมตีของเธอ และเพิ่มความต้านทานธาตุทั้งหมดและความต้านทานกายภาพของเธอขึ้น 20% เป็นเวลา 15 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Agony Alone May Be Repaid\" ก่อน"
                                                                         },
                                                                  "c4":  {
                                                                             "name":  "\"You Shall Love and Protect Each Other Henceforth...\"",
@@ -3038,8 +3129,8 @@
                                                                             },
                                                                      "c4":  {
                                                                                 "name":  "Treacle Grass",
-                                                                                "descriptionRaw":  "หลังจาก \u003ccolor=#FFD780FF\u003eLea Lotus Lamp\u003c/color\u003e เกิด Lotuslight Transfiguration จะได้รับเอฟเฟกต์ Overflowing Lotuslight 5 ชั้น จากพรสวรรค์ติดตัว \"Verdant Overgrowth\"\nต้องปลดล็อกพรสวรรค์ติดตัว \"Verdant Overgrowth\" ก่อน",
-                                                                                "description":  "หลังจาก Lea Lotus Lamp เกิด Lotuslight Transfiguration จะได้รับเอฟเฟกต์ Overflowing Lotuslight 5 ชั้น จากพรสวรรค์ติดตัว \"Verdant Overgrowth\"\nต้องปลดล็อกพรสวรรค์ติดตัว \"Verdant Overgrowth\" ก่อน"
+                                                                                "descriptionRaw":  "หลังจาก \u003ccolor=#FFD780FF\u003eLea Lotus Lamp\u003c/color\u003e เกิด Lotuslight Transfiguration จะได้รับเอฟเฟกต์ Overflowing Lotuslight 5 ชั้น จากพรสวรรค์เพิ่มเติม \"Verdant Overgrowth\"\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Verdant Overgrowth\" ก่อน",
+                                                                                "description":  "หลังจาก Lea Lotus Lamp เกิด Lotuslight Transfiguration จะได้รับเอฟเฟกต์ Overflowing Lotuslight 5 ชั้น จากพรสวรรค์เพิ่มเติม \"Verdant Overgrowth\"\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Verdant Overgrowth\" ก่อน"
                                                                             },
                                                                      "c3":  {
                                                                                 "name":  "Whirling Weeds",
@@ -3104,6 +3195,16 @@
                                          "region":  "Snezhnaya",
                                          "gender":  "ชาย"
                                      },
+                       "manekin":  {
+                                       "constellations":  null,
+                                       "elementText":  "ไม่มี",
+                                       "fullname":  null,
+                                       "weaponText":  "ดาบ",
+                                       "name":  "หุ่นแดนอัศจรรย์ - ชาย",
+                                       "substatText":  "พลังโจมตี",
+                                       "region":  "",
+                                       "gender":  "ชาย"
+                                   },
                        "charlotte":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -3215,8 +3316,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "\"Can the Happiest of Spirits Understand Anxiety?\"",
-                                                                           "descriptionRaw":  "ลูกบอลน้ำบำบัดของ \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e สามารถกระดอนเพิ่มเติมได้อีก 3 ครั้ง; และการกระดอน 3 ครั้งแรกจะไม่ทำให้ลูกบอลน้ำขนาดใหญ่หดเล็กลง\nนอกจากนี้ เอฟเฟกต์ของพรสวรรค์ติดตัว \"Requires Appropriate Rest\" จะเพิ่มขึ้น: เมื่อลูกบอลน้ำบำบัดกระดอน จะมอบค่าการพักฟื้น 1 ชั้นให้กับ Sigewinne และทำให้ความเสียหายที่เกิดจากค่าการพักฟื้น เปลี่ยนเป็น: ทุก 1,000 หน่วย ที่เกินมาจากพลังชีวิตสูงสุด 30,000 หน่วยของ Sigewinne จะเพิ่มความเสียหาย 100 หน่วย โดยสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้สูงสุด 3,500 หน่วย เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Requires Appropriate Rest\" ก่อน",
-                                                                           "description":  "ลูกบอลน้ำบำบัดของ Rebound Hydrotherapy สามารถกระดอนเพิ่มเติมได้อีก 3 ครั้ง; และการกระดอน 3 ครั้งแรกจะไม่ทำให้ลูกบอลน้ำขนาดใหญ่หดเล็กลง\nนอกจากนี้ เอฟเฟกต์ของพรสวรรค์ติดตัว \"Requires Appropriate Rest\" จะเพิ่มขึ้น: เมื่อลูกบอลน้ำบำบัดกระดอน จะมอบค่าการพักฟื้น 1 ชั้นให้กับ Sigewinne และทำให้ความเสียหายที่เกิดจากค่าการพักฟื้น เปลี่ยนเป็น: ทุก 1,000 หน่วย ที่เกินมาจากพลังชีวิตสูงสุด 30,000 หน่วยของ Sigewinne จะเพิ่มความเสียหาย 100 หน่วย โดยสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้สูงสุด 3,500 หน่วย เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Requires Appropriate Rest\" ก่อน"
+                                                                           "descriptionRaw":  "ลูกบอลน้ำบำบัดของ \u003ccolor=#FFD780FF\u003eRebound Hydrotherapy\u003c/color\u003e สามารถกระดอนเพิ่มเติมได้อีก 3 ครั้ง; และการกระดอน 3 ครั้งแรกจะไม่ทำให้ลูกบอลน้ำขนาดใหญ่หดเล็กลง\nนอกจากนี้ เอฟเฟกต์ของพรสวรรค์เพิ่มเติม \"Requires Appropriate Rest\" จะเพิ่มขึ้น: เมื่อลูกบอลน้ำบำบัดกระดอน จะมอบค่าการพักฟื้น 1 ชั้นให้กับ Sigewinne และทำให้ความเสียหายที่เกิดจากค่าการพักฟื้น เปลี่ยนเป็น: ทุก 1,000 หน่วย ที่เกินมาจากพลังชีวิตสูงสุด 30,000 หน่วยของ Sigewinne จะเพิ่มความเสียหาย 100 หน่วย โดยสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้สูงสุด 3,500 หน่วย เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Requires Appropriate Rest\" ก่อน",
+                                                                           "description":  "ลูกบอลน้ำบำบัดของ Rebound Hydrotherapy สามารถกระดอนเพิ่มเติมได้อีก 3 ครั้ง; และการกระดอน 3 ครั้งแรกจะไม่ทำให้ลูกบอลน้ำขนาดใหญ่หดเล็กลง\nนอกจากนี้ เอฟเฟกต์ของพรสวรรค์เพิ่มเติม \"Requires Appropriate Rest\" จะเพิ่มขึ้น: เมื่อลูกบอลน้ำบำบัดกระดอน จะมอบค่าการพักฟื้น 1 ชั้นให้กับ Sigewinne และทำให้ความเสียหายที่เกิดจากค่าการพักฟื้น เปลี่ยนเป็น: ทุก 1,000 หน่วย ที่เกินมาจากพลังชีวิตสูงสุด 30,000 หน่วยของ Sigewinne จะเพิ่มความเสียหาย 100 หน่วย โดยสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้สูงสุด 3,500 หน่วย เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Requires Appropriate Rest\" ก่อน"
                                                                        }
                                                             },
                                          "elementText":  "น้ำ",
@@ -3523,8 +3624,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Fractured Flow",
-                                                                       "descriptionRaw":  "เอฟเฟกต์พรสวรรค์ติดตัว {LINK#N11130008}\u003ccolor=#FFD780FF\u003eReturn to Oblivion\u003c/color\u003e{/LINK} ได้รับการเสริมพลัง: เอฟเฟกต์ Death\u0027s Crossing แต่ละชั้น จะทำให้พลังโจมตีของ Skirk เพิ่มขึ้น 10%/20%/40% ตามลำดับ\nต้องปลดล็อกพรสวรรค์ติดตัว Return to Oblivion ก่อน",
-                                                                       "description":  "เอฟเฟกต์พรสวรรค์ติดตัว **Return to Oblivion** ได้รับการเสริมพลัง: เอฟเฟกต์ Death\u0027s Crossing แต่ละชั้น จะทำให้พลังโจมตีของ Skirk เพิ่มขึ้น 10%/20%/40% ตามลำดับ\nต้องปลดล็อกพรสวรรค์ติดตัว Return to Oblivion ก่อน"
+                                                                       "descriptionRaw":  "เอฟเฟกต์พรสวรรค์เพิ่มเติม {LINK#N11130008}\u003ccolor=#FFD780FF\u003eReturn to Oblivion\u003c/color\u003e{/LINK} ได้รับการเสริมพลัง: เอฟเฟกต์ Death\u0027s Crossing แต่ละชั้น จะทำให้พลังโจมตีของ Skirk เพิ่มขึ้น 10%/20%/40% ตามลำดับ\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Return to Oblivion\" ก่อน",
+                                                                       "description":  "เอฟเฟกต์พรสวรรค์เพิ่มเติม **Return to Oblivion** ได้รับการเสริมพลัง: เอฟเฟกต์ Death\u0027s Crossing แต่ละชั้น จะทำให้พลังโจมตีของ Skirk เพิ่มขึ้น 10%/20%/40% ตามลำดับ\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Return to Oblivion\" ก่อน"
                                                                    },
                                                             "c3":  {
                                                                        "name":  "Serendipitous Sin",
@@ -3538,13 +3639,13 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "To the Source",
-                                                                       "descriptionRaw":  "ทุกครั้งที่ Skirk ดูดซับรอยแยกมิติ 1 อันจากเอฟเฟกต์ของพรสวรรค์ติดตัว {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK} จะได้รับเอฟเฟกต์ Havoc: Sever 1 ชั้น โดย Skirk สามารถใช้เอฟเฟกต์นี้ทำการโจมตีร่วมได้ และลดความเสียหายที่ได้รับในโหมด {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSeven-Phase Flash\u003c/color\u003e{/LINK} ลง เอฟเฟกต์นี้จะคงอยู่เป็นเวลา 15 วินาที ซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะคิดช่วงเวลาต่อเนื่องแยกกัน\nต้องปลดล็อกพรสวรรค์ติดตัว \"Reason Beyond Reason\" ก่อน\n\n\u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e\n·เมื่อปล่อยท่าไม้ตาย \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e จะใช้ \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e ทั้งหมดที่มีเพื่อโจมตีร่วม ซึ่งแต่ละชั้นของ \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e จะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003e เท่ากับ 750% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากท่าไม้ตาย;\n·เมื่อ Skirk ทำการโจมตีปกติเมื่ออยู่ในโหมด Seven-Phase Flash หากการโจมตีครั้งที่สามหรือครั้งที่ห้าถูกศัตรู จะใช้ \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e 1 ชั้น เพื่อปล่อยการโจมตีร่วม 3 ครั้ง ซึ่งการโจมตีแต่ละครั้งจะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003e เท่ากับ 180% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากการโจมตีปกติ;\n·เมื่อ Skirk ได้รับความเสียหาย ในขณะที่อยู่ในโหมด Seven-Phase Flash จะใช้ \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e 1 ชั้น เพื่อลดความเสียหายที่ได้รับในครั้งนี้ลง 80% และทำการโจมตีศัตรูที่อยู่ในบริเวณใกล้เคียง 3 ครั้ง โดยการโจมตีแต่ละครั้งจะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003e เท่ากับ 180% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากการชาร์จโจมตี",
-                                                                       "description":  "ทุกครั้งที่ Skirk ดูดซับรอยแยกมิติ 1 อันจากเอฟเฟกต์ของพรสวรรค์ติดตัว **Reason Beyond Reason** จะได้รับเอฟเฟกต์ Havoc: Sever 1 ชั้น โดย Skirk สามารถใช้เอฟเฟกต์นี้ทำการโจมตีร่วมได้ และลดความเสียหายที่ได้รับในโหมด **Seven-Phase Flash** ลง เอฟเฟกต์นี้จะคงอยู่เป็นเวลา 15 วินาที ซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะคิดช่วงเวลาต่อเนื่องแยกกัน\nต้องปลดล็อกพรสวรรค์ติดตัว \"Reason Beyond Reason\" ก่อน\n\nHavoc: Sever\n·เมื่อปล่อยท่าไม้ตาย Havoc: Ruin จะใช้ Havoc: Sever ทั้งหมดที่มีเพื่อโจมตีร่วม ซึ่งแต่ละชั้นของ Havoc: Sever จะสร้างความเสียหายน้ำแข็ง เท่ากับ 750% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากท่าไม้ตาย;\n·เมื่อ Skirk ทำการโจมตีปกติเมื่ออยู่ในโหมด Seven-Phase Flash หากการโจมตีครั้งที่สามหรือครั้งที่ห้าถูกศัตรู จะใช้ Havoc: Sever 1 ชั้น เพื่อปล่อยการโจมตีร่วม 3 ครั้ง ซึ่งการโจมตีแต่ละครั้งจะสร้างความเสียหายน้ำแข็ง เท่ากับ 180% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากการโจมตีปกติ;\n·เมื่อ Skirk ได้รับความเสียหาย ในขณะที่อยู่ในโหมด Seven-Phase Flash จะใช้ Havoc: Sever 1 ชั้น เพื่อลดความเสียหายที่ได้รับในครั้งนี้ลง 80% และทำการโจมตีศัตรูที่อยู่ในบริเวณใกล้เคียง 3 ครั้ง โดยการโจมตีแต่ละครั้งจะสร้างความเสียหายน้ำแข็ง เท่ากับ 180% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากการชาร์จโจมตี"
+                                                                       "descriptionRaw":  "ทุกครั้งที่ Skirk ดูดซับรอยแยกมิติ 1 อันจากเอฟเฟกต์ของพรสวรรค์เพิ่มเติม {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK} จะได้รับเอฟเฟกต์ Havoc: Sever 1 ชั้น โดย Skirk สามารถใช้เอฟเฟกต์นี้ทำการโจมตีร่วมได้ และลดความเสียหายที่ได้รับในโหมด {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSeven-Phase Flash\u003c/color\u003e{/LINK} ลง เอฟเฟกต์นี้จะคงอยู่เป็นเวลา 15 วินาที ซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะคิดช่วงเวลาต่อเนื่องแยกกัน\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Reason Beyond Reason\" ก่อน\n\n\u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e\n·เมื่อปล่อยท่าไม้ตาย \u003ccolor=#FFD780FF\u003eHavoc: Ruin\u003c/color\u003e จะใช้ \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e ทั้งหมดที่มีเพื่อโจมตีร่วม ซึ่งแต่ละชั้นของ \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e จะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003e เท่ากับ 750% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากท่าไม้ตาย;\n·เมื่อ Skirk ทำการโจมตีปกติเมื่ออยู่ในโหมด Seven-Phase Flash หากการโจมตีครั้งที่สามหรือครั้งที่ห้าถูกศัตรู จะใช้ \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e 1 ชั้น เพื่อปล่อยการโจมตีร่วม 3 ครั้ง ซึ่งการโจมตีแต่ละครั้งจะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003e เท่ากับ 180% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากการโจมตีปกติ;\n·เมื่อ Skirk ได้รับความเสียหาย ในขณะที่อยู่ในโหมด Seven-Phase Flash จะใช้ \u003ccolor=#FFD780FF\u003eHavoc: Sever\u003c/color\u003e 1 ชั้น เพื่อลดความเสียหายที่ได้รับในครั้งนี้ลง 80% และทำการโจมตีศัตรูที่อยู่ในบริเวณใกล้เคียง 3 ครั้ง โดยการโจมตีแต่ละครั้งจะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003e เท่ากับ 180% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากการชาร์จโจมตี",
+                                                                       "description":  "ทุกครั้งที่ Skirk ดูดซับรอยแยกมิติ 1 อันจากเอฟเฟกต์ของพรสวรรค์เพิ่มเติม **Reason Beyond Reason** จะได้รับเอฟเฟกต์ Havoc: Sever 1 ชั้น โดย Skirk สามารถใช้เอฟเฟกต์นี้ทำการโจมตีร่วมได้ และลดความเสียหายที่ได้รับในโหมด **Seven-Phase Flash** ลง เอฟเฟกต์นี้จะคงอยู่เป็นเวลา 15 วินาที ซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะคิดช่วงเวลาต่อเนื่องแยกกัน\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Reason Beyond Reason\" ก่อน\n\nHavoc: Sever\n·เมื่อปล่อยท่าไม้ตาย Havoc: Ruin จะใช้ Havoc: Sever ทั้งหมดที่มีเพื่อโจมตีร่วม ซึ่งแต่ละชั้นของ Havoc: Sever จะสร้างความเสียหายน้ำแข็ง เท่ากับ 750% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากท่าไม้ตาย;\n·เมื่อ Skirk ทำการโจมตีปกติเมื่ออยู่ในโหมด Seven-Phase Flash หากการโจมตีครั้งที่สามหรือครั้งที่ห้าถูกศัตรู จะใช้ Havoc: Sever 1 ชั้น เพื่อปล่อยการโจมตีร่วม 3 ครั้ง ซึ่งการโจมตีแต่ละครั้งจะสร้างความเสียหายน้ำแข็ง เท่ากับ 180% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากการโจมตีปกติ;\n·เมื่อ Skirk ได้รับความเสียหาย ในขณะที่อยู่ในโหมด Seven-Phase Flash จะใช้ Havoc: Sever 1 ชั้น เพื่อลดความเสียหายที่ได้รับในครั้งนี้ลง 80% และทำการโจมตีศัตรูที่อยู่ในบริเวณใกล้เคียง 3 ครั้ง โดยการโจมตีแต่ละครั้งจะสร้างความเสียหายน้ำแข็ง เท่ากับ 180% ของพลังโจมตีของ Skirk โดยจะถูกนับว่าเป็นความเสียหายจากการชาร์จโจมตี"
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Far to Fall",
-                                                                       "descriptionRaw":  "เอฟเฟกต์พรสวรรค์ติดตัว {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK} ได้รับการเสริมพลัง: ทุกครั้งที่ดูดซับรอยแยกมิติ 1 อัน จะเรียกดาบคริสตัลหนึ่งเล่มออกมาโจมตีศัตรูที่อยู่ใกล้เคียง โดยจะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003eเท่ากับ 500% ของพลังโจมตีของ Skirk ซึ่งความเสียหายนี้จะนับเป็นความเสียหายชาร์จโจมตี\nต้องปลดล็อกพรสวรรค์ติดตัว Reason Beyond Reason ก่อน",
-                                                                       "description":  "เอฟเฟกต์พรสวรรค์ติดตัว **Reason Beyond Reason** ได้รับการเสริมพลัง: ทุกครั้งที่ดูดซับรอยแยกมิติ 1 อัน จะเรียกดาบคริสตัลหนึ่งเล่มออกมาโจมตีศัตรูที่อยู่ใกล้เคียง โดยจะสร้างความเสียหายน้ำแข็งเท่ากับ 500% ของพลังโจมตีของ Skirk ซึ่งความเสียหายนี้จะนับเป็นความเสียหายชาร์จโจมตี\nต้องปลดล็อกพรสวรรค์ติดตัว Reason Beyond Reason ก่อน"
+                                                                       "descriptionRaw":  "เอฟเฟกต์พรสวรรค์เพิ่มเติม {LINK#N11130007}\u003ccolor=#FFD780FF\u003eReason Beyond Reason\u003c/color\u003e{/LINK} ได้รับการเสริมพลัง: ทุกครั้งที่ดูดซับรอยแยกมิติ 1 อัน จะเรียกดาบคริสตัลหนึ่งเล่มออกมาโจมตีศัตรูที่อยู่ใกล้เคียง โดยจะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003eเท่ากับ 500% ของพลังโจมตีของ Skirk ซึ่งความเสียหายนี้จะนับเป็นความเสียหายชาร์จโจมตี\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Reason Beyond Reason\" ก่อน",
+                                                                       "description":  "เอฟเฟกต์พรสวรรค์เพิ่มเติม **Reason Beyond Reason** ได้รับการเสริมพลัง: ทุกครั้งที่ดูดซับรอยแยกมิติ 1 อัน จะเรียกดาบคริสตัลหนึ่งเล่มออกมาโจมตีศัตรูที่อยู่ใกล้เคียง โดยจะสร้างความเสียหายน้ำแข็งเท่ากับ 500% ของพลังโจมตีของ Skirk ซึ่งความเสียหายนี้จะนับเป็นความเสียหายชาร์จโจมตี\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Reason Beyond Reason\" ก่อน"
                                                                    }
                                                         },
                                      "elementText":  "น้ำแข็ง",
@@ -3559,8 +3660,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Laziness is the Enemy!",
-                                                                        "descriptionRaw":  "เมื่อใช้ท่าไม้ตาย \u003ccolor=#FFD780FF\u003eThe Three Principles of Power\u003c/color\u003e Iansan จะได้รับเอฟเฟกต์ \"Precise Movement\" จากพรสวรรค์ติดตัว \"Enhanced Resistance Training\" เป็นเวลา 15 วินาที; นอกจากนี้ ในช่วงเวลาต่อเนื่องของเอฟเฟกต์ \"Precise Movement\" หาก Iansan อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ จะยังคงทำให้พลังโจมตีของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นของทีมตัวเองเพิ่มขึ้น 30% โดยที่เอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์ติดตัว \"Enhanced Resistance Training\" ก่อน",
-                                                                        "description":  "เมื่อใช้ท่าไม้ตาย The Three Principles of Power Iansan จะได้รับเอฟเฟกต์ \"Precise Movement\" จากพรสวรรค์ติดตัว \"Enhanced Resistance Training\" เป็นเวลา 15 วินาที; นอกจากนี้ ในช่วงเวลาต่อเนื่องของเอฟเฟกต์ \"Precise Movement\" หาก Iansan อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ จะยังคงทำให้พลังโจมตีของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นของทีมตัวเองเพิ่มขึ้น 30% โดยที่เอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์ติดตัว \"Enhanced Resistance Training\" ก่อน"
+                                                                        "descriptionRaw":  "เมื่อใช้ท่าไม้ตาย \u003ccolor=#FFD780FF\u003eThe Three Principles of Power\u003c/color\u003e แล้ว Iansan จะได้รับเอฟเฟกต์ \"Precise Movement\" จากพรสวรรค์เพิ่มเติม \"Enhanced Resistance Training\" เป็นเวลา 15 วินาที; นอกจากนี้ ในช่วงเวลาต่อเนื่องของเอฟเฟกต์ \"Precise Movement\" หาก Iansan อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ จะยังคงทำให้พลังโจมตีของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นของทีมตัวเองเพิ่มขึ้น 30% โดยที่เอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Enhanced Resistance Training\" ก่อน",
+                                                                        "description":  "เมื่อใช้ท่าไม้ตาย The Three Principles of Power แล้ว Iansan จะได้รับเอฟเฟกต์ \"Precise Movement\" จากพรสวรรค์เพิ่มเติม \"Enhanced Resistance Training\" เป็นเวลา 15 วินาที; นอกจากนี้ ในช่วงเวลาต่อเนื่องของเอฟเฟกต์ \"Precise Movement\" หาก Iansan อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ จะยังคงทำให้พลังโจมตีของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นของทีมตัวเองเพิ่มขึ้น 30% โดยที่เอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Enhanced Resistance Training\" ก่อน"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Slow and Steady Wins the Race",
@@ -3605,8 +3706,8 @@
                                                                       },
                                                                "c4":  {
                                                                           "name":  "Yonban: Set Adrift Into Spring",
-                                                                          "descriptionRaw":  "เมื่อใช้ \u003ccolor=#FFD780FF\u003eHanega: Song of the Wind\u003c/color\u003e หากทำให้เกิดพรสวรรค์ติดตัว \"Jade-Claimed Flower\" จะได้รับเอฟเฟกต์เสริมพลังโดยขึ้นกับชนิดของธาตุที่สัมผัส และจะสุ่มได้รับเอฟเฟกต์เสริมพลัง 1 ชนิด ที่ยังไม่ได้รับในครั้งนี้อีกด้วย โดยในช่วงเวลาเดียวกัน จะได้รับเอฟเฟกต์เสริมพลัง จากธาตุที่เกี่ยวข้องได้มากสุด 3 ชนิด\nต้องปลดล็อกพรสวรรค์ติดตัว \"Jade-Claimed Flower\" ก่อน",
-                                                                          "description":  "เมื่อใช้ Hanega: Song of the Wind หากทำให้เกิดพรสวรรค์ติดตัว \"Jade-Claimed Flower\" จะได้รับเอฟเฟกต์เสริมพลังโดยขึ้นกับชนิดของธาตุที่สัมผัส และจะสุ่มได้รับเอฟเฟกต์เสริมพลัง 1 ชนิด ที่ยังไม่ได้รับในครั้งนี้อีกด้วย โดยในช่วงเวลาเดียวกัน จะได้รับเอฟเฟกต์เสริมพลัง จากธาตุที่เกี่ยวข้องได้มากสุด 3 ชนิด\nต้องปลดล็อกพรสวรรค์ติดตัว \"Jade-Claimed Flower\" ก่อน"
+                                                                          "descriptionRaw":  "เมื่อใช้ \u003ccolor=#FFD780FF\u003eHanega: Song of the Wind\u003c/color\u003e หากทำให้เกิดพรสวรรค์เพิ่มเติม \"Jade-Claimed Flower\" จะได้รับเอฟเฟกต์เสริมพลังโดยขึ้นกับประเภทของธาตุที่สัมผัส และจะสุ่มได้รับเอฟเฟกต์เสริมพลัง 1 ชนิด ที่ยังไม่ได้รับในครั้งนี้อีกด้วย โดยในช่วงเวลาเดียวกัน จะได้รับเอฟเฟกต์เสริมพลัง จากธาตุที่เกี่ยวข้องได้มากสุด 3 ชนิด\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Jade-Claimed Flower\" ก่อน",
+                                                                          "description":  "เมื่อใช้ Hanega: Song of the Wind หากทำให้เกิดพรสวรรค์เพิ่มเติม \"Jade-Claimed Flower\" จะได้รับเอฟเฟกต์เสริมพลังโดยขึ้นกับประเภทของธาตุที่สัมผัส และจะสุ่มได้รับเอฟเฟกต์เสริมพลัง 1 ชนิด ที่ยังไม่ได้รับในครั้งนี้อีกด้วย โดยในช่วงเวลาเดียวกัน จะได้รับเอฟเฟกต์เสริมพลัง จากธาตุที่เกี่ยวข้องได้มากสุด 3 ชนิด\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Jade-Claimed Flower\" ก่อน"
                                                                       },
                                                                "c3":  {
                                                                           "name":  "Sanban: Moonflower Kusemai",
@@ -3625,8 +3726,8 @@
                                                                       },
                                                                "c1":  {
                                                                           "name":  "Shoban: Ostentatious Plumage",
-                                                                          "descriptionRaw":  "เมื่ออยู่ในสถานะ \u003ccolor=#FFD780FF\u003eWindfavored\u003c/color\u003e ความเร็วในการโจมตีของ Kuugo: Fushoudan และ Kuugo: Toufukai ของผู้พเนจร จะเพิ่มขึ้น 10%\nนอกจากนี้ ธนูลมที่พรสวรรค์ติดตัว \"Gales of Reverie\" ยิงออกมา จะสามารถทำให้เกิดความเสียหายเพิ่มเติมอีก 25% ของพลังโจมตี โดยที่เอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์ติดตัว \"Gales of Reverie\" ก่อน",
-                                                                          "description":  "เมื่ออยู่ในสถานะ Windfavored ความเร็วในการโจมตีของ Kuugo: Fushoudan และ Kuugo: Toufukai ของผู้พเนจร จะเพิ่มขึ้น 10%\nนอกจากนี้ ธนูลมที่พรสวรรค์ติดตัว \"Gales of Reverie\" ยิงออกมา จะสามารถทำให้เกิดความเสียหายเพิ่มเติมอีก 25% ของพลังโจมตี โดยที่เอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์ติดตัว \"Gales of Reverie\" ก่อน"
+                                                                          "descriptionRaw":  "เมื่ออยู่ในสถานะ \u003ccolor=#FFD780FF\u003eWindfavored\u003c/color\u003e ความเร็วในการโจมตีของ Kuugo: Fushoudan และ Kuugo: Toufukai ของผู้พเนจร จะเพิ่มขึ้น 10%\nนอกจากนี้ ธนูลมที่พรสวรรค์เพิ่มเติม \"Gales of Reverie\" ยิงออกมา จะสามารถทำให้เกิดความเสียหายเพิ่มเติมอีก 25% ของพลังโจมตี โดยที่เอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Gales of Reverie\" ก่อน",
+                                                                          "description":  "เมื่ออยู่ในสถานะ Windfavored ความเร็วในการโจมตีของ Kuugo: Fushoudan และ Kuugo: Toufukai ของผู้พเนจร จะเพิ่มขึ้น 10%\nนอกจากนี้ ธนูลมที่พรสวรรค์เพิ่มเติม \"Gales of Reverie\" ยิงออกมา จะสามารถทำให้เกิดความเสียหายเพิ่มเติมอีก 25% ของพลังโจมตี โดยที่เอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Gales of Reverie\" ก่อน"
                                                                       }
                                                            },
                                         "elementText":  "ลม",
@@ -3764,8 +3865,8 @@
                                    "constellations":  {
                                                           "c2":  {
                                                                      "name":  "Guiding Spirit of Ballistic Prayer",
-                                                                     "descriptionRaw":  "เมื่อ Ifa อยู่ในสถานะพรวิญญาณราตรี ค่าวิญญาณราตรีทุก 1 หน่วย ที่เกินมาจาก 60 หน่วย ของค่าวิญญาณราตรีโดยรวมในปัจจุบันของตัวละครทั้งหมดในทีม จะทำให้ Ifa ได้รับ {LINK#N11130002}\u003ccolor=#FFD780FF\u003eRescue Essentials\u003c/color\u003e{/LINK} เพิ่มเติม 4 หน่วย\nนอกจากนี้ ขีดจำกัดสูงสุดของ Rescue Essentials ของ Ifa จะเพิ่มขึ้น 50 หน่วย\nต้องปลดล็อกพรสวรรค์ติดตัว {LINK#P1132101}\u003ccolor=#FFD780FF\u003eField Medic\u0027s Vision\u003c/color\u003e{/LINK} ก่อน",
-                                                                     "description":  "เมื่อ Ifa อยู่ในสถานะพรวิญญาณราตรี ค่าวิญญาณราตรีทุก 1 หน่วย ที่เกินมาจาก 60 หน่วย ของค่าวิญญาณราตรีโดยรวมในปัจจุบันของตัวละครทั้งหมดในทีม จะทำให้ Ifa ได้รับ **Rescue Essentials** เพิ่มเติม 4 หน่วย\nนอกจากนี้ ขีดจำกัดสูงสุดของ Rescue Essentials ของ Ifa จะเพิ่มขึ้น 50 หน่วย\nต้องปลดล็อกพรสวรรค์ติดตัว **Field Medic\u0027s Vision** ก่อน"
+                                                                     "descriptionRaw":  "เมื่อ Ifa อยู่ในสถานะพรวิญญาณราตรี ค่าวิญญาณราตรีทุก 1 หน่วย ที่เกินมาจาก 60 หน่วย ของค่าวิญญาณราตรีโดยรวมในปัจจุบันของตัวละครทั้งหมดในทีม จะทำให้ Ifa ได้รับ {LINK#N11130002}\u003ccolor=#FFD780FF\u003eRescue Essentials\u003c/color\u003e{/LINK} เพิ่มเติม 4 หน่วย\nนอกจากนี้ ขีดจำกัดสูงสุดของ Rescue Essentials ของ Ifa จะเพิ่มขึ้น 50 หน่วย\nต้องปลดล็อกพรสวรรค์เพิ่มเติม {LINK#P1132101}\u003ccolor=#FFD780FF\u003e\"Field Medic\u0027s Vision\"\u003c/color\u003e{/LINK} ก่อน",
+                                                                     "description":  "เมื่อ Ifa อยู่ในสถานะพรวิญญาณราตรี ค่าวิญญาณราตรีทุก 1 หน่วย ที่เกินมาจาก 60 หน่วย ของค่าวิญญาณราตรีโดยรวมในปัจจุบันของตัวละครทั้งหมดในทีม จะทำให้ Ifa ได้รับ **Rescue Essentials** เพิ่มเติม 4 หน่วย\nนอกจากนี้ ขีดจำกัดสูงสุดของ Rescue Essentials ของ Ifa จะเพิ่มขึ้น 50 หน่วย\nต้องปลดล็อกพรสวรรค์เพิ่มเติม **\"Field Medic\u0027s Vision\"** ก่อน"
                                                                  },
                                                           "c4":  {
                                                                      "name":  "Decayed Vessel\u0027s Permutation",
@@ -3924,6 +4025,16 @@
                                                 "region":  "Inazuma",
                                                 "gender":  "ผู้หญิง"
                                             },
+                       "manekina":  {
+                                        "constellations":  null,
+                                        "elementText":  "ไม่มี",
+                                        "fullname":  null,
+                                        "weaponText":  "ดาบ",
+                                        "name":  "หุ่นแดนอัศจรรย์ - หญิง",
+                                        "substatText":  "พลังโจมตี",
+                                        "region":  "",
+                                        "gender":  "ผู้หญิง"
+                                    },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3933,8 +4044,8 @@
                                                                      },
                                                               "c4":  {
                                                                          "name":  "The Leader\u0027s Resolve",
-                                                                         "descriptionRaw":  "เอฟเฟกต์พรสวรรค์ติดตัว \"Kiongozi\" เพิ่มขึ้น:\nเอฟเฟกต์การเพิ่มความเสียหายหลังจากปล่อยท่าไม้ตาย \u003ccolor=#FFD780FF\u003eHour of Burning Skies\u003c/color\u003e จะไม่ลดลงตามเวลาอีกต่อไป และจะได้รับโบนัสความเสียหายเพิ่มเติมอีก 10%\nต้องปลดล็อกพรสวรรค์ติดตัว \"Kiongozi\" ก่อน",
-                                                                         "description":  "เอฟเฟกต์พรสวรรค์ติดตัว \"Kiongozi\" เพิ่มขึ้น:\nเอฟเฟกต์การเพิ่มความเสียหายหลังจากปล่อยท่าไม้ตาย Hour of Burning Skies จะไม่ลดลงตามเวลาอีกต่อไป และจะได้รับโบนัสความเสียหายเพิ่มเติมอีก 10%\nต้องปลดล็อกพรสวรรค์ติดตัว \"Kiongozi\" ก่อน"
+                                                                         "descriptionRaw":  "เอฟเฟกต์พรสวรรค์เพิ่มเติม \"Kiongozi\" เพิ่มขึ้น:\nเอฟเฟกต์การเพิ่มความเสียหายหลังจากปล่อยท่าไม้ตาย \u003ccolor=#FFD780FF\u003eHour of Burning Skies\u003c/color\u003e จะไม่ลดลงตามเวลาอีกต่อไป และจะได้รับโบนัสความเสียหายเพิ่มเติมอีก 10%\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Kiongozi\" ก่อน",
+                                                                         "description":  "เอฟเฟกต์พรสวรรค์เพิ่มเติม \"Kiongozi\" เพิ่มขึ้น:\nเอฟเฟกต์การเพิ่มความเสียหายหลังจากปล่อยท่าไม้ตาย Hour of Burning Skies จะไม่ลดลงตามเวลาอีกต่อไป และจะได้รับโบนัสความเสียหายเพิ่มเติมอีก 10%\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Kiongozi\" ก่อน"
                                                                      },
                                                               "c3":  {
                                                                          "name":  "The Burning Sun",
@@ -3994,8 +4105,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Undying Passion",
-                                                                        "descriptionRaw":  "เอฟเฟกต์ของพรสวรรค์ติดตัว \"Tag-Team Triple Jump!\" ได้รับการเสริมพลัง:\nเมื่อทำการโจมตีพุ่งลงจากอากาศพิเศษ - \"Thunderous Tornado Eruption\" Varesa จะได้รับ \"Rainbow Crash\" เป็นเวลา 5 วินาที;\nภายในช่วงเวลาต่อเนื่องของ \"Rainbow Crash\" ไม่ว่า Varesa จะอยู่ในสถานะฮึกเหิมร้อนแรงหรือไม่ เมื่อทำการโจมตีพุ่งลงจากอากาศ ความเสียหายพุ่งถึงพื้นจะเปลี่ยนเป็นสร้างความเสียหายเพิ่มเติม 180% ของพลังโจมตี โดยที่เอฟเฟกต์นี้จะต้องปลดล็อกพรสวรรค์ติดตัว \"Tag-Team Triple Jump!\" ก่อน\n\nนอกจากนี้ เมื่อ Varesa อยู่ในโหมด \"จู่โจมดุดัน\" ขณะอยู่ในสถานะพรวิญญาณราตรี การใช้ค่าวิญญาณราตรี หรือโฟลจิสตันจะลดลง 30%",
-                                                                        "description":  "เอฟเฟกต์ของพรสวรรค์ติดตัว \"Tag-Team Triple Jump!\" ได้รับการเสริมพลัง:\nเมื่อทำการโจมตีพุ่งลงจากอากาศพิเศษ - \"Thunderous Tornado Eruption\" Varesa จะได้รับ \"Rainbow Crash\" เป็นเวลา 5 วินาที;\nภายในช่วงเวลาต่อเนื่องของ \"Rainbow Crash\" ไม่ว่า Varesa จะอยู่ในสถานะฮึกเหิมร้อนแรงหรือไม่ เมื่อทำการโจมตีพุ่งลงจากอากาศ ความเสียหายพุ่งถึงพื้นจะเปลี่ยนเป็นสร้างความเสียหายเพิ่มเติม 180% ของพลังโจมตี โดยที่เอฟเฟกต์นี้จะต้องปลดล็อกพรสวรรค์ติดตัว \"Tag-Team Triple Jump!\" ก่อน\n\nนอกจากนี้ เมื่อ Varesa อยู่ในโหมด \"จู่โจมดุดัน\" ขณะอยู่ในสถานะพรวิญญาณราตรี การใช้ค่าวิญญาณราตรี หรือโฟลจิสตันจะลดลง 30%"
+                                                                        "descriptionRaw":  "เอฟเฟกต์ของพรสวรรค์เพิ่มเติม \"Tag-Team Triple Jump!\" ได้รับการเสริมพลัง:\nเมื่อทำการโจมตีพุ่งลงจากอากาศพิเศษ - \"Thunderous Tornado Eruption\" Varesa จะได้รับ \"Rainbow Crash\" เป็นเวลา 5 วินาที;\nภายในช่วงเวลาต่อเนื่องของ \"Rainbow Crash\" ไม่ว่า Varesa จะอยู่ในสถานะฮึกเหิมร้อนแรงหรือไม่ เมื่อทำการโจมตีพุ่งลงจากอากาศ ความเสียหายพุ่งถึงพื้นจะเปลี่ยนเป็นสร้างความเสียหายเพิ่มเติม 180% ของพลังโจมตี โดยที่เอฟเฟกต์นี้จะต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Tag-Team Triple Jump!\" ก่อน\n\nนอกจากนี้ เมื่อ Varesa อยู่ในโหมด \"จู่โจมดุดัน\" ขณะอยู่ในสถานะพรวิญญาณราตรี การใช้ค่าวิญญาณราตรี หรือโฟลจิสตันจะลดลง 30%",
+                                                                        "description":  "เอฟเฟกต์ของพรสวรรค์เพิ่มเติม \"Tag-Team Triple Jump!\" ได้รับการเสริมพลัง:\nเมื่อทำการโจมตีพุ่งลงจากอากาศพิเศษ - \"Thunderous Tornado Eruption\" Varesa จะได้รับ \"Rainbow Crash\" เป็นเวลา 5 วินาที;\nภายในช่วงเวลาต่อเนื่องของ \"Rainbow Crash\" ไม่ว่า Varesa จะอยู่ในสถานะฮึกเหิมร้อนแรงหรือไม่ เมื่อทำการโจมตีพุ่งลงจากอากาศ ความเสียหายพุ่งถึงพื้นจะเปลี่ยนเป็นสร้างความเสียหายเพิ่มเติม 180% ของพลังโจมตี โดยที่เอฟเฟกต์นี้จะต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Tag-Team Triple Jump!\" ก่อน\n\nนอกจากนี้ เมื่อ Varesa อยู่ในโหมด \"จู่โจมดุดัน\" ขณะอยู่ในสถานะพรวิญญาณราตรี การใช้ค่าวิญญาณราตรี หรือโฟลจิสตันจะลดลง 30%"
                                                                     }
                                                          },
                                       "elementText":  "ไฟฟ้า",
@@ -4153,13 +4264,13 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Raiment: Just Scales",
-                                                                      "descriptionRaw":  "หลังจากใช้ \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e หรือทำให้เกิดเอฟเฟกต์ \"Judication\" ของพรสวรรค์ติดตัว \"Featherfall Judgment\" Cyno จะได้รับเอฟเฟกต์ \"Day of the Jackal\" 4 ชั้น โดยเมื่อการโจมตีปกติของ Cyno ถูกศัตรู จะใช้เอฟเฟกต์ Day of the Jackal หนึ่งชั้น และปล่อย Duststalker Bolt ออกมาหนึ่งอัน\nDay of the Jackal จะคงอยู่เป็นเวลา 8 วินาที ซ้อนทับได้มากสุด 8 ชั้น และจะถูกลบล้างหลังจากที่สภาวะ Pactsworn Pathclearer ของ Sacred Rite: Wolf\u0027s Swiftness สิ้นสุดลง\nในทุก 0.4 วินาที จะสามารถปล่อย Duststalker Bolt ออกมาด้วยวิธีนี้ได้มากสุดหนึ่งอัน\nต้องปลดล็อกพรสวรรค์ติดตัว \"Featherfall Judgment\" ก่อน",
-                                                                      "description":  "หลังจากใช้ Sacred Rite: Wolf\u0027s Swiftness หรือทำให้เกิดเอฟเฟกต์ \"Judication\" ของพรสวรรค์ติดตัว \"Featherfall Judgment\" Cyno จะได้รับเอฟเฟกต์ \"Day of the Jackal\" 4 ชั้น โดยเมื่อการโจมตีปกติของ Cyno ถูกศัตรู จะใช้เอฟเฟกต์ Day of the Jackal หนึ่งชั้น และปล่อย Duststalker Bolt ออกมาหนึ่งอัน\nDay of the Jackal จะคงอยู่เป็นเวลา 8 วินาที ซ้อนทับได้มากสุด 8 ชั้น และจะถูกลบล้างหลังจากที่สภาวะ Pactsworn Pathclearer ของ Sacred Rite: Wolf\u0027s Swiftness สิ้นสุดลง\nในทุก 0.4 วินาที จะสามารถปล่อย Duststalker Bolt ออกมาด้วยวิธีนี้ได้มากสุดหนึ่งอัน\nต้องปลดล็อกพรสวรรค์ติดตัว \"Featherfall Judgment\" ก่อน"
+                                                                      "descriptionRaw":  "หลังจากใช้ \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e หรือทำให้เกิดเอฟเฟกต์ \"Judication\" ของพรสวรรค์เพิ่มเติม \"Featherfall Judgment\" Cyno จะได้รับเอฟเฟกต์ \"Day of the Jackal\" 4 ชั้น โดยเมื่อการโจมตีปกติของ Cyno ถูกศัตรู จะใช้เอฟเฟกต์ Day of the Jackal หนึ่งชั้น และปล่อย Duststalker Bolt ออกมาหนึ่งอัน\nDay of the Jackal จะคงอยู่เป็นเวลา 8 วินาที ซ้อนทับได้มากสุด 8 ชั้น และจะถูกลบล้างหลังจากที่สถานะ Pactsworn Pathclearer ของ Sacred Rite: Wolf\u0027s Swiftness สิ้นสุดลง\nในทุก 0.4 วินาที จะสามารถปล่อย Duststalker Bolt ออกมาด้วยวิธีนี้ได้มากสุดหนึ่งอัน\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Featherfall Judgment\" ก่อน",
+                                                                      "description":  "หลังจากใช้ Sacred Rite: Wolf\u0027s Swiftness หรือทำให้เกิดเอฟเฟกต์ \"Judication\" ของพรสวรรค์เพิ่มเติม \"Featherfall Judgment\" Cyno จะได้รับเอฟเฟกต์ \"Day of the Jackal\" 4 ชั้น โดยเมื่อการโจมตีปกติของ Cyno ถูกศัตรู จะใช้เอฟเฟกต์ Day of the Jackal หนึ่งชั้น และปล่อย Duststalker Bolt ออกมาหนึ่งอัน\nDay of the Jackal จะคงอยู่เป็นเวลา 8 วินาที ซ้อนทับได้มากสุด 8 ชั้น และจะถูกลบล้างหลังจากที่สถานะ Pactsworn Pathclearer ของ Sacred Rite: Wolf\u0027s Swiftness สิ้นสุดลง\nในทุก 0.4 วินาที จะสามารถปล่อย Duststalker Bolt ออกมาด้วยวิธีนี้ได้มากสุดหนึ่งอัน\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Featherfall Judgment\" ก่อน"
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Ordinance: Unceasing Vigil",
-                                                                      "descriptionRaw":  "หลังจากใช้ \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e ความเร็วการโจมตีปกติของ Cyno จะเพิ่มขึ้น 20% เป็นเวลา 10 วินาที และหากทำให้เกิดเอฟเฟกต์ Judication ของพรสวรรค์ติดตัว \"Featherfall Judgment\" ระหว่างช่วงเวลาของ \u003ccolor=#FFD780FF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e ระยะต่อเนื่องของความสามารถที่เพิ่มขึ้นมาจะถูกรีเฟรช\nต้องปลดล็อกพรสวรรค์ติดตัว \"Featherfall Judgment\" ก่อน",
-                                                                      "description":  "หลังจากใช้ Sacred Rite: Wolf\u0027s Swiftness ความเร็วการโจมตีปกติของ Cyno จะเพิ่มขึ้น 20% เป็นเวลา 10 วินาที และหากทำให้เกิดเอฟเฟกต์ Judication ของพรสวรรค์ติดตัว \"Featherfall Judgment\" ระหว่างช่วงเวลาของ Secret Rite: Chasmic Soulfarer ระยะต่อเนื่องของความสามารถที่เพิ่มขึ้นมาจะถูกรีเฟรช\nต้องปลดล็อกพรสวรรค์ติดตัว \"Featherfall Judgment\" ก่อน"
+                                                                      "descriptionRaw":  "หลังจากใช้ \u003ccolor=#FFD780FF\u003eSacred Rite: Wolf\u0027s Swiftness\u003c/color\u003e ความเร็วในการโจมตีปกติของ Cyno จะเพิ่มขึ้น 20% เป็นเวลา 10 วินาที และหากทำให้เกิดเอฟเฟกต์ Judication ของพรสวรรค์เพิ่มเติม \"Featherfall Judgment\" ระหว่างช่วงเวลาของ \u003ccolor=#FFD780FF\u003eSecret Rite: Chasmic Soulfarer\u003c/color\u003e ระยะต่อเนื่องของความสามารถที่เพิ่มขึ้นมาจะถูกรีเฟรช\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Featherfall Judgment\" ก่อน",
+                                                                      "description":  "หลังจากใช้ Sacred Rite: Wolf\u0027s Swiftness ความเร็วในการโจมตีปกติของ Cyno จะเพิ่มขึ้น 20% เป็นเวลา 10 วินาที และหากทำให้เกิดเอฟเฟกต์ Judication ของพรสวรรค์เพิ่มเติม \"Featherfall Judgment\" ระหว่างช่วงเวลาของ Secret Rite: Chasmic Soulfarer ระยะต่อเนื่องของความสามารถที่เพิ่มขึ้นมาจะถูกรีเฟรช\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Featherfall Judgment\" ก่อน"
                                                                   }
                                                        },
                                     "elementText":  "ไฟฟ้า",
@@ -4256,13 +4367,13 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Shackles for the Arrogant",
-                                                                             "descriptionRaw":  "เมื่อปล่อย \u003ccolor=#FFD780FF\u003eDarkgold Wolfbite\u003c/color\u003e เอฟเฟกต์ \"Prosecution Edict\" แต่ละชั้นของพรสวรรค์ติดตัว \"There Shall Be a Reckoning for Sin\" จะทำให้ความเสียหายที่สร้างเพิ่มขึ้น 40%\nต้องปลดล็อกพรสวรรค์ติดตัว \"There Shall Be a Reckoning for Sin\" ก่อน",
-                                                                             "description":  "เมื่อปล่อย Darkgold Wolfbite เอฟเฟกต์ \"Prosecution Edict\" แต่ละชั้นของพรสวรรค์ติดตัว \"There Shall Be a Reckoning for Sin\" จะทำให้ความเสียหายที่สร้างเพิ่มขึ้น 40%\nต้องปลดล็อกพรสวรรค์ติดตัว \"There Shall Be a Reckoning for Sin\" ก่อน"
+                                                                             "descriptionRaw":  "เมื่อปล่อย \u003ccolor=#FFD780FF\u003eDarkgold Wolfbite\u003c/color\u003e เอฟเฟกต์ \"Prosecution Edict\" แต่ละชั้นของพรสวรรค์เพิ่มเติม \"There Shall Be a Reckoning for Sin\" จะทำให้ความเสียหายที่สร้างเพิ่มขึ้น 40%\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"There Shall Be a Reckoning for Sin\" ก่อน",
+                                                                             "description":  "เมื่อปล่อย Darkgold Wolfbite เอฟเฟกต์ \"Prosecution Edict\" แต่ละชั้นของพรสวรรค์เพิ่มเติม \"There Shall Be a Reckoning for Sin\" จะทำให้ความเสียหายที่สร้างเพิ่มขึ้น 40%\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"There Shall Be a Reckoning for Sin\" ก่อน"
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Redemption for the Suffering",
-                                                                             "descriptionRaw":  "Rebuke: Vaulting Fist จะฟื้นฟูพลังชีวิตให้ Wriothesley เพิ่มขึ้นเป็น 50% ของพลังชีวิตสูงสุด ต้องปลดล็อกพรสวรรค์ติดตัว \"There Shall Be a Plea for Justice\" ก่อน\nนอกจากนี้ เมื่อ Wriothesley ได้รับการรักษา หากปริมาณการรักษามากเกินไป การรักษาที่เอ่อล้นจะทำให้เกิดเอฟเฟกต์ที่แตกต่างกัน โดยขึ้นอยู่กับว่า Wriothesley อยู่ในการต่อสู้หรือไม่: หากอยู่ในการต่อสู้ ความเร็วในการโจมตีของ Wriothesley จะเพิ่มขึ้น 20% เป็นเวลา 4 วินาที หากอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ความเร็วในการโจมตีของสมาชิกทั้งหมดในทีมตัวเองจะเพิ่มขึ้น 10% เป็นเวลา 6 วินาที เอฟเฟกต์เพิ่มความเร็วในการโจมตีทั้งสองประเภทข้างต้นไม่สามารถซ้อนทับกันได้",
-                                                                             "description":  "Rebuke: Vaulting Fist จะฟื้นฟูพลังชีวิตให้ Wriothesley เพิ่มขึ้นเป็น 50% ของพลังชีวิตสูงสุด ต้องปลดล็อกพรสวรรค์ติดตัว \"There Shall Be a Plea for Justice\" ก่อน\nนอกจากนี้ เมื่อ Wriothesley ได้รับการรักษา หากปริมาณการรักษามากเกินไป การรักษาที่เอ่อล้นจะทำให้เกิดเอฟเฟกต์ที่แตกต่างกัน โดยขึ้นอยู่กับว่า Wriothesley อยู่ในการต่อสู้หรือไม่: หากอยู่ในการต่อสู้ ความเร็วในการโจมตีของ Wriothesley จะเพิ่มขึ้น 20% เป็นเวลา 4 วินาที หากอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ความเร็วในการโจมตีของสมาชิกทั้งหมดในทีมตัวเองจะเพิ่มขึ้น 10% เป็นเวลา 6 วินาที เอฟเฟกต์เพิ่มความเร็วในการโจมตีทั้งสองประเภทข้างต้นไม่สามารถซ้อนทับกันได้"
+                                                                             "descriptionRaw":  "Rebuke: Vaulting Fist จะฟื้นฟูพลังชีวิตให้ Wriothesley เพิ่มขึ้นเป็น 50% ของพลังชีวิตสูงสุด ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"There Shall Be a Plea for Justice\" ก่อน\nนอกจากนี้ เมื่อ Wriothesley ได้รับการรักษา หากปริมาณการรักษามากเกินไป การรักษาที่เอ่อล้นจะทำให้เกิดเอฟเฟกต์ที่แตกต่างกัน โดยขึ้นอยู่กับว่า Wriothesley อยู่ในการต่อสู้หรือไม่: หากอยู่ในการต่อสู้ ความเร็วในการโจมตีของ Wriothesley จะเพิ่มขึ้น 20% เป็นเวลา 4 วินาที หากอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ความเร็วในการโจมตีของสมาชิกทั้งหมดในทีมตัวเองจะเพิ่มขึ้น 10% เป็นเวลา 6 วินาที เอฟเฟกต์เพิ่มความเร็วในการโจมตีทั้งสองประเภทข้างต้นไม่สามารถซ้อนทับกันได้",
+                                                                             "description":  "Rebuke: Vaulting Fist จะฟื้นฟูพลังชีวิตให้ Wriothesley เพิ่มขึ้นเป็น 50% ของพลังชีวิตสูงสุด ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"There Shall Be a Plea for Justice\" ก่อน\nนอกจากนี้ เมื่อ Wriothesley ได้รับการรักษา หากปริมาณการรักษามากเกินไป การรักษาที่เอ่อล้นจะทำให้เกิดเอฟเฟกต์ที่แตกต่างกัน โดยขึ้นอยู่กับว่า Wriothesley อยู่ในการต่อสู้หรือไม่: หากอยู่ในการต่อสู้ ความเร็วในการโจมตีของ Wriothesley จะเพิ่มขึ้น 20% เป็นเวลา 4 วินาที หากอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ความเร็วในการโจมตีของสมาชิกทั้งหมดในทีมตัวเองจะเพิ่มขึ้น 10% เป็นเวลา 6 วินาที เอฟเฟกต์เพิ่มความเร็วในการโจมตีทั้งสองประเภทข้างต้นไม่สามารถซ้อนทับกันได้"
                                                                          },
                                                                   "c3":  {
                                                                              "name":  "Punishment for the Frauds",
@@ -4276,13 +4387,13 @@
                                                                          },
                                                                   "c6":  {
                                                                              "name":  "Esteem for the Innocent",
-                                                                             "descriptionRaw":  "Rebuke: Vaulting Fist จะมีอัตราคริเพิ่มขึ้น 10% และมีความแรงคริเพิ่มขึ้น 80% และสามารถสร้างแท่งน้ำแข็งเพิ่มเติม โดยจะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003e 100% ของความเสียหายพื้นฐานของ Rebuke: Vaulting Fist ความเสียหายที่สร้างด้วยวิธีนี้ จะถือว่าเป็นความเสียหายชาร์จโจมตี\nต้องปลดล็อกพรสวรรค์ติดตัว \"There Shall Be a Plea for Justice\" ก่อน",
-                                                                             "description":  "Rebuke: Vaulting Fist จะมีอัตราคริเพิ่มขึ้น 10% และมีความแรงคริเพิ่มขึ้น 80% และสามารถสร้างแท่งน้ำแข็งเพิ่มเติม โดยจะสร้างความเสียหายน้ำแข็ง 100% ของความเสียหายพื้นฐานของ Rebuke: Vaulting Fist ความเสียหายที่สร้างด้วยวิธีนี้ จะถือว่าเป็นความเสียหายชาร์จโจมตี\nต้องปลดล็อกพรสวรรค์ติดตัว \"There Shall Be a Plea for Justice\" ก่อน"
+                                                                             "descriptionRaw":  "Rebuke: Vaulting Fist จะมีอัตราคริเพิ่มขึ้น 10% และมีความแรงคริเพิ่มขึ้น 80% และสามารถสร้างแท่งน้ำแข็งเพิ่มเติม โดยจะสร้าง\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003e 100% ของความเสียหายพื้นฐานของ Rebuke: Vaulting Fist ความเสียหายที่สร้างด้วยวิธีนี้ จะถือว่าเป็นความเสียหายชาร์จโจมตี\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"There Shall Be a Plea for Justice\" ก่อน",
+                                                                             "description":  "Rebuke: Vaulting Fist จะมีอัตราคริเพิ่มขึ้น 10% และมีความแรงคริเพิ่มขึ้น 80% และสามารถสร้างแท่งน้ำแข็งเพิ่มเติม โดยจะสร้างความเสียหายน้ำแข็ง 100% ของความเสียหายพื้นฐานของ Rebuke: Vaulting Fist ความเสียหายที่สร้างด้วยวิธีนี้ จะถือว่าเป็นความเสียหายชาร์จโจมตี\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"There Shall Be a Plea for Justice\" ก่อน"
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Terror for the Evildoers",
-                                                                             "descriptionRaw":  "\"Gracious Rebuke\" ของพรสวรรค์ติดตัว \"There Shall Be a Plea for Justice\" จะเปลี่ยนเป็น:\nขณะที่ค่าพลังชีวิตของ Wriothesley ต่ำกว่า 60% หรือในระหว่างช่วงเวลาคงอยู่ของ Chilling Penalty ที่เกิดจาก \u003ccolor=#FFD780FF\u003eIcefang Rush\u003c/color\u003e นั้น เมื่อ Repelling Fist ขั้นที่ห้าโจมตีโดนเป้าหมาย จะได้รับ \"Gracious Rebuke\" และจะได้รับเอฟเฟกต์ของ \"Gracious Rebuke\" มากสุดหนึ่งครั้งในทุก 2.5 วินาที\n\nนอกจากนี้ Rebuke: Vaulting Fist จะได้รับการเสริมพลังต่อไปนี้:\n·ความเสียหายที่สร้างจะเพิ่มขึ้นอีกขั้นเป็น 200%\n·เมื่อโจมตีโดนเป้าหมาย หากอยู่ในสถานะ Chilling Penalty ระยะเวลาของสถานะนี้ จะเพิ่มขึ้น 4 วินาที ระหว่างช่วงเวลาคงอยู่หนึ่งครั้งของ Chilling Penalty จะสามารถยืดเวลาด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง\n\nต้องปลดล็อกพรสวรรค์ติดตัว \"There Shall Be a Plea for Justice\" ก่อน",
-                                                                             "description":  "\"Gracious Rebuke\" ของพรสวรรค์ติดตัว \"There Shall Be a Plea for Justice\" จะเปลี่ยนเป็น:\nขณะที่ค่าพลังชีวิตของ Wriothesley ต่ำกว่า 60% หรือในระหว่างช่วงเวลาคงอยู่ของ Chilling Penalty ที่เกิดจาก Icefang Rush นั้น เมื่อ Repelling Fist ขั้นที่ห้าโจมตีโดนเป้าหมาย จะได้รับ \"Gracious Rebuke\" และจะได้รับเอฟเฟกต์ของ \"Gracious Rebuke\" มากสุดหนึ่งครั้งในทุก 2.5 วินาที\n\nนอกจากนี้ Rebuke: Vaulting Fist จะได้รับการเสริมพลังต่อไปนี้:\n·ความเสียหายที่สร้างจะเพิ่มขึ้นอีกขั้นเป็น 200%\n·เมื่อโจมตีโดนเป้าหมาย หากอยู่ในสถานะ Chilling Penalty ระยะเวลาของสถานะนี้ จะเพิ่มขึ้น 4 วินาที ระหว่างช่วงเวลาคงอยู่หนึ่งครั้งของ Chilling Penalty จะสามารถยืดเวลาด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง\n\nต้องปลดล็อกพรสวรรค์ติดตัว \"There Shall Be a Plea for Justice\" ก่อน"
+                                                                             "descriptionRaw":  "\"Gracious Rebuke\" ของพรสวรรค์เพิ่มเติม \"There Shall Be a Plea for Justice\" จะเปลี่ยนเป็น:\nขณะที่ค่าพลังชีวิตของ Wriothesley ต่ำกว่า 60% หรือในระหว่างช่วงเวลาคงอยู่ของ Chilling Penalty ที่เกิดจาก \u003ccolor=#FFD780FF\u003eIcefang Rush\u003c/color\u003e เมื่อ Repelling Fist ขั้นที่ห้าโจมตีโดนเป้าหมาย จะได้รับ \"Gracious Rebuke\" และจะได้รับเอฟเฟกต์ของ \"Gracious Rebuke\" มากสุดหนึ่งครั้งในทุก 2.5 วินาที\n\nนอกจากนี้ Rebuke: Vaulting Fist จะได้รับการเสริมพลังต่อไปนี้:\n·ความเสียหายที่สร้างจะเพิ่มขึ้นอีกขั้นเป็น 200%;\n·เมื่อโจมตีโดนเป้าหมาย หากอยู่ในสถานะ Chilling Penalty ระยะเวลาของสถานะนี้ จะเพิ่มขึ้น 4 วินาที ระหว่างช่วงเวลาคงอยู่หนึ่งครั้งของ Chilling Penalty จะสามารถยืดเวลาด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง\n\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"There Shall Be a Plea for Justice\" ก่อน",
+                                                                             "description":  "\"Gracious Rebuke\" ของพรสวรรค์เพิ่มเติม \"There Shall Be a Plea for Justice\" จะเปลี่ยนเป็น:\nขณะที่ค่าพลังชีวิตของ Wriothesley ต่ำกว่า 60% หรือในระหว่างช่วงเวลาคงอยู่ของ Chilling Penalty ที่เกิดจาก Icefang Rush เมื่อ Repelling Fist ขั้นที่ห้าโจมตีโดนเป้าหมาย จะได้รับ \"Gracious Rebuke\" และจะได้รับเอฟเฟกต์ของ \"Gracious Rebuke\" มากสุดหนึ่งครั้งในทุก 2.5 วินาที\n\nนอกจากนี้ Rebuke: Vaulting Fist จะได้รับการเสริมพลังต่อไปนี้:\n·ความเสียหายที่สร้างจะเพิ่มขึ้นอีกขั้นเป็น 200%;\n·เมื่อโจมตีโดนเป้าหมาย หากอยู่ในสถานะ Chilling Penalty ระยะเวลาของสถานะนี้ จะเพิ่มขึ้น 4 วินาที ระหว่างช่วงเวลาคงอยู่หนึ่งครั้งของ Chilling Penalty จะสามารถยืดเวลาด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง\n\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"There Shall Be a Plea for Justice\" ก่อน"
                                                                          }
                                                               },
                                            "elementText":  "น้ำแข็ง",
@@ -4445,8 +4556,8 @@
                                                                            },
                                                                     "c1":  {
                                                                                "name":  "Swelling Lake",
-                                                                               "descriptionRaw":  "หลังจากนักเดินทางเก็บ Sourcewater Droplet แล้ว จะฟื้นฟูพลังงานธาตุ 2 หน่วย\nต้องปลดล็อกพรสวรรค์ติดตัว \"Spotless Waters\" ก่อน",
-                                                                               "description":  "หลังจากนักเดินทางเก็บ Sourcewater Droplet แล้ว จะฟื้นฟูพลังงานธาตุ 2 หน่วย\nต้องปลดล็อกพรสวรรค์ติดตัว \"Spotless Waters\" ก่อน"
+                                                                               "descriptionRaw":  "หลังจากนักเดินทางเก็บ Sourcewater Droplet แล้ว จะฟื้นฟูพลังงานธาตุ 2 หน่วย\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Spotless Waters\" ก่อน",
+                                                                               "description":  "หลังจากนักเดินทางเก็บ Sourcewater Droplet แล้ว จะฟื้นฟูพลังงานธาตุ 2 หน่วย\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Spotless Waters\" ก่อน"
                                                                            }
                                                                 }
                                          },
@@ -4577,8 +4688,8 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Juridical Exhortation",
-                                                                             "descriptionRaw":  "พรสวรรค์ติดตัว \"Heir to the Ancient Sea\u0027s Authority\" ได้รับการเสริมพลัง: แต่ละชั้นของ \"Past Draconic Glories\" จะทำให้ความแรงคริของการชาร์จโจมตี: Equitable Judgment เพิ่มขึ้น 14% โดยสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 42%\nต้องปลดล็อกพรสวรรค์ติดตัว \"Heir to the Ancient Sea\u0027s Authority\" ก่อน",
-                                                                             "description":  "พรสวรรค์ติดตัว \"Heir to the Ancient Sea\u0027s Authority\" ได้รับการเสริมพลัง: แต่ละชั้นของ \"Past Draconic Glories\" จะทำให้ความแรงคริของการชาร์จโจมตี: Equitable Judgment เพิ่มขึ้น 14% โดยสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 42%\nต้องปลดล็อกพรสวรรค์ติดตัว \"Heir to the Ancient Sea\u0027s Authority\" ก่อน"
+                                                                             "descriptionRaw":  "พรสวรรค์เพิ่มเติม \"Heir to the Ancient Sea\u0027s Authority\" ได้รับการเสริมพลัง: แต่ละชั้นของ \"Past Draconic Glories\" จะทำให้ความแรงคริของการชาร์จโจมตี: Equitable Judgment เพิ่มขึ้น 14% โดยสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 42%\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Heir to the Ancient Sea\u0027s Authority\" ก่อน",
+                                                                             "description":  "พรสวรรค์เพิ่มเติม \"Heir to the Ancient Sea\u0027s Authority\" ได้รับการเสริมพลัง: แต่ละชั้นของ \"Past Draconic Glories\" จะทำให้ความแรงคริของการชาร์จโจมตี: Equitable Judgment เพิ่มขึ้น 14% โดยสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 42%\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Heir to the Ancient Sea\u0027s Authority\" ก่อน"
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Crown of Commiseration",
@@ -4602,8 +4713,8 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Venerable Institution",
-                                                                             "descriptionRaw":  "เมื่อ Neuvillette เข้าสู่การต่อสู้ จะได้รับ \"Past Draconic Glories\" ของพรสวรรค์ติดตัว \"Heir to the Ancient Sea\u0027s Authority\" 1 ชั้น โดยต้องปลดล็อกพรสวรรค์ติดตัว \"Heir to the Ancient Sea\u0027s Authority\" ก่อน\nนอกจากนี้ เมื่อใช้การชาร์จโจมตี: Legal Evaluation หรือชาร์จโจมตี: Equitable Judgment จะเพิ่มความสามารถในการต้านทานการหยุดชะงักของ Neuvillette",
-                                                                             "description":  "เมื่อ Neuvillette เข้าสู่การต่อสู้ จะได้รับ \"Past Draconic Glories\" ของพรสวรรค์ติดตัว \"Heir to the Ancient Sea\u0027s Authority\" 1 ชั้น โดยต้องปลดล็อกพรสวรรค์ติดตัว \"Heir to the Ancient Sea\u0027s Authority\" ก่อน\nนอกจากนี้ เมื่อใช้การชาร์จโจมตี: Legal Evaluation หรือชาร์จโจมตี: Equitable Judgment จะเพิ่มความสามารถในการต้านทานการหยุดชะงักของ Neuvillette"
+                                                                             "descriptionRaw":  "เมื่อ Neuvillette เข้าสู่การต่อสู้ จะได้รับ \"Past Draconic Glories\" ของพรสวรรค์เพิ่มเติม \"Heir to the Ancient Sea\u0027s Authority\" 1 ชั้น โดยต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Heir to the Ancient Sea\u0027s Authority\" ก่อน\nนอกจากนี้ เมื่อใช้การชาร์จโจมตี: Legal Evaluation หรือชาร์จโจมตี: Equitable Judgment จะเพิ่มความสามารถในการต้านทานการหยุดชะงักของ Neuvillette",
+                                                                             "description":  "เมื่อ Neuvillette เข้าสู่การต่อสู้ จะได้รับ \"Past Draconic Glories\" ของพรสวรรค์เพิ่มเติม \"Heir to the Ancient Sea\u0027s Authority\" 1 ชั้น โดยต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Heir to the Ancient Sea\u0027s Authority\" ก่อน\nนอกจากนี้ เมื่อใช้การชาร์จโจมตี: Legal Evaluation หรือชาร์จโจมตี: Equitable Judgment จะเพิ่มความสามารถในการต้านทานการหยุดชะงักของ Neuvillette"
                                                                          }
                                                               },
                                            "elementText":  "น้ำ",
@@ -4638,13 +4749,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Ode to Deep Springs",
-                                                                        "descriptionRaw":  "หลังจากทำให้เกิด \"Hypersense\" ของพรสวรรค์ติดตัว \"Nightshade Synesthesia\" จะทำให้พลังโจมตีของตัวละครในทีมของตนเอง ที่เข้าร่วมการต่อสู้ในขณะนั้นเพิ่มขึ้น 10% เป็นเวลา 9 วินาที เอฟเฟกต์นี้ซ้อนทับได้มากสุด 3 ชั้น และแต่ละชั้นจะคำนวณระยะเวลาแยกกัน\nนอกจากนี้ เมื่อปล่อยท่าไม้ตาย \u003ccolor=#FFD780FF\u003eDark Voices Echo\u003c/color\u003e จะทำให้เกิดเอฟเฟกต์ที่เทียบเท่ากับ \"Hypersense\" หนึ่งครั้ง สร้างความเสียหาย 200% ของความเสียหายเดิม\nเอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Nightshade Synesthesia\" ก่อน",
-                                                                        "description":  "หลังจากทำให้เกิด \"Hypersense\" ของพรสวรรค์ติดตัว \"Nightshade Synesthesia\" จะทำให้พลังโจมตีของตัวละครในทีมของตนเอง ที่เข้าร่วมการต่อสู้ในขณะนั้นเพิ่มขึ้น 10% เป็นเวลา 9 วินาที เอฟเฟกต์นี้ซ้อนทับได้มากสุด 3 ชั้น และแต่ละชั้นจะคำนวณระยะเวลาแยกกัน\nนอกจากนี้ เมื่อปล่อยท่าไม้ตาย Dark Voices Echo จะทำให้เกิดเอฟเฟกต์ที่เทียบเท่ากับ \"Hypersense\" หนึ่งครั้ง สร้างความเสียหาย 200% ของความเสียหายเดิม\nเอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Nightshade Synesthesia\" ก่อน"
+                                                                        "descriptionRaw":  "หลังจากทำให้เกิด \"Hypersense\" ของพรสวรรค์เพิ่มเติม \"Nightshade Synesthesia\" จะทำให้พลังโจมตีของตัวละครในทีมของตนเอง ที่เข้าร่วมการต่อสู้ในขณะนั้นเพิ่มขึ้น 10% เป็นเวลา 9 วินาที เอฟเฟกต์นี้ซ้อนทับได้มากสุด 3 ชั้น และแต่ละชั้นจะคำนวณระยะเวลาแยกกัน\nนอกจากนี้ เมื่อปล่อยท่าไม้ตาย \u003ccolor=#FFD780FF\u003eDark Voices Echo\u003c/color\u003e จะทำให้เกิดเอฟเฟกต์ที่เทียบเท่ากับ \"Hypersense\" หนึ่งครั้ง สร้างความเสียหาย 200% ของความเสียหายเดิม\nเอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Nightshade Synesthesia\" ก่อน",
+                                                                        "description":  "หลังจากทำให้เกิด \"Hypersense\" ของพรสวรรค์เพิ่มเติม \"Nightshade Synesthesia\" จะทำให้พลังโจมตีของตัวละครในทีมของตนเอง ที่เข้าร่วมการต่อสู้ในขณะนั้นเพิ่มขึ้น 10% เป็นเวลา 9 วินาที เอฟเฟกต์นี้ซ้อนทับได้มากสุด 3 ชั้น และแต่ละชั้นจะคำนวณระยะเวลาแยกกัน\nนอกจากนี้ เมื่อปล่อยท่าไม้ตาย Dark Voices Echo จะทำให้เกิดเอฟเฟกต์ที่เทียบเท่ากับ \"Hypersense\" หนึ่งครั้ง สร้างความเสียหาย 200% ของความเสียหายเดิม\nเอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Nightshade Synesthesia\" ก่อน"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Trails Amidst the Forest Fog",
-                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eลูกแก้ววิญญาณ\u003c/color\u003eของสกิลธาตุ \u003ccolor=#FFD780FF\u003eNight\u0027s Sling\u003c/color\u003e สามารถกระดอนเพิ่มเติมอีก 2 ครั้ง\nนอกจากนี้ หลังจาก\u003ccolor=#FFD780FF\u003eลูกแก้ววิญญาณ\u003c/color\u003eโจมตีโดนศัตรู จะทำให้ศัตรูดังกล่าวได้รับเอฟเฟกต์ \"สนธยาราตรี\" เป็นเวลา 12 วินาที; ศัตรูที่ได้รับผลกระทบจากเอฟเฟกต์ \"สนธยาราตรี\" จะได้รับความเสียหายเพิ่มขึ้น 50% จากเอฟเฟกต์ \"Hypersense\" ของพรสวรรค์ติดตัว \"Nightshade Synesthesia\" โดยเอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Nightshade Synesthesia\" ก่อน",
-                                                                        "description":  "ลูกแก้ววิญญาณของสกิลธาตุ Night\u0027s Sling สามารถกระดอนเพิ่มเติมอีก 2 ครั้ง\nนอกจากนี้ หลังจากลูกแก้ววิญญาณโจมตีโดนศัตรู จะทำให้ศัตรูดังกล่าวได้รับเอฟเฟกต์ \"สนธยาราตรี\" เป็นเวลา 12 วินาที; ศัตรูที่ได้รับผลกระทบจากเอฟเฟกต์ \"สนธยาราตรี\" จะได้รับความเสียหายเพิ่มขึ้น 50% จากเอฟเฟกต์ \"Hypersense\" ของพรสวรรค์ติดตัว \"Nightshade Synesthesia\" โดยเอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Nightshade Synesthesia\" ก่อน"
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eลูกแก้ววิญญาณ\u003c/color\u003eของสกิลธาตุ \u003ccolor=#FFD780FF\u003eNight\u0027s Sling\u003c/color\u003e สามารถกระดอนเพิ่มเติมอีก 2 ครั้ง\nนอกจากนี้ หลังจาก\u003ccolor=#FFD780FF\u003eลูกแก้ววิญญาณ\u003c/color\u003eโจมตีโดนศัตรู จะทำให้ศัตรูดังกล่าวได้รับเอฟเฟกต์ \"สนธยาราตรี\" เป็นเวลา 12 วินาที; ศัตรูที่ได้รับผลกระทบจากเอฟเฟกต์ \"สนธยาราตรี\" จะได้รับความเสียหายเพิ่มขึ้น 50% จากเอฟเฟกต์ \"Hypersense\" ของพรสวรรค์เพิ่มเติม \"Nightshade Synesthesia\" โดยเอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Nightshade Synesthesia\" ก่อน",
+                                                                        "description":  "ลูกแก้ววิญญาณของสกิลธาตุ Night\u0027s Sling สามารถกระดอนเพิ่มเติมอีก 2 ครั้ง\nนอกจากนี้ หลังจากลูกแก้ววิญญาณโจมตีโดนศัตรู จะทำให้ศัตรูดังกล่าวได้รับเอฟเฟกต์ \"สนธยาราตรี\" เป็นเวลา 12 วินาที; ศัตรูที่ได้รับผลกระทบจากเอฟเฟกต์ \"สนธยาราตรี\" จะได้รับความเสียหายเพิ่มขึ้น 50% จากเอฟเฟกต์ \"Hypersense\" ของพรสวรรค์เพิ่มเติม \"Nightshade Synesthesia\" โดยเอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Nightshade Synesthesia\" ก่อน"
                                                                     }
                                                          },
                                       "elementText":  "ไฟฟ้า",
@@ -4659,13 +4770,13 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Mualani, Going All Out!",
-                                                                         "descriptionRaw":  "เมื่อเข้าสู่สถานะพรวิญญาณราตรี Mualani จะได้รับโมเมนตัมคลื่นของ \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e 2 ชั้น; เมื่อ Mualani ได้รับบอลลอย จะได้รับโมเมนตัมคลื่น 1 ชั้น\nนอกจากนี้ ภายใน 2 วินาที หลังจาก Mualani ได้รับบอลลอย 2 อันในช่วงเวลาพรวิญญาณราตรีหนึ่งครั้ง จะฟื้นฟูค่าวิญญาณราตรีเพิ่มเติมอีก 12 หน่วย เอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Heat-Resistant Freshwater Floater\" ก่อน",
-                                                                         "description":  "เมื่อเข้าสู่สถานะพรวิญญาณราตรี Mualani จะได้รับโมเมนตัมคลื่นของ Surfshark Wavebreaker 2 ชั้น; เมื่อ Mualani ได้รับบอลลอย จะได้รับโมเมนตัมคลื่น 1 ชั้น\nนอกจากนี้ ภายใน 2 วินาที หลังจาก Mualani ได้รับบอลลอย 2 อันในช่วงเวลาพรวิญญาณราตรีหนึ่งครั้ง จะฟื้นฟูค่าวิญญาณราตรีเพิ่มเติมอีก 12 หน่วย เอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Heat-Resistant Freshwater Floater\" ก่อน"
+                                                                         "descriptionRaw":  "เมื่อเข้าสู่สถานะพรวิญญาณราตรี Mualani จะได้รับโมเมนตัมคลื่นของ \u003ccolor=#FFD780FF\u003eSurfshark Wavebreaker\u003c/color\u003e 2 ชั้น; เมื่อ Mualani ได้รับบอลลอย จะได้รับโมเมนตัมคลื่น 1 ชั้น\nนอกจากนี้ ภายใน 2 วินาที หลังจาก Mualani ได้รับบอลลอย 2 อันในช่วงเวลาพรวิญญาณราตรีหนึ่งครั้ง จะฟื้นฟูค่าวิญญาณราตรีเพิ่มเติมอีก 12 หน่วย เอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Heat-Resistant Freshwater Floater\" ก่อน",
+                                                                         "description":  "เมื่อเข้าสู่สถานะพรวิญญาณราตรี Mualani จะได้รับโมเมนตัมคลื่นของ Surfshark Wavebreaker 2 ชั้น; เมื่อ Mualani ได้รับบอลลอย จะได้รับโมเมนตัมคลื่น 1 ชั้น\nนอกจากนี้ ภายใน 2 วินาที หลังจาก Mualani ได้รับบอลลอย 2 อันในช่วงเวลาพรวิญญาณราตรีหนึ่งครั้ง จะฟื้นฟูค่าวิญญาณราตรีเพิ่มเติมอีก 12 หน่วย เอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Heat-Resistant Freshwater Floater\" ก่อน"
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Sharky Eats Puffies",
-                                                                         "descriptionRaw":  "เมื่อได้รับบอลลอย Mualani จะฟื้นฟูพลังงานธาตุ 8 หน่วย; เอฟเฟกต์นี้ต้องปลดล็อก พรสวรรค์ติดตัว \"Heat-Resistant Freshwater Floater\" ก่อน\nนอกจากนี้ \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e จะสร้างความเสียหายเพิ่มขึ้น 75%",
-                                                                         "description":  "เมื่อได้รับบอลลอย Mualani จะฟื้นฟูพลังงานธาตุ 8 หน่วย; เอฟเฟกต์นี้ต้องปลดล็อก พรสวรรค์ติดตัว \"Heat-Resistant Freshwater Floater\" ก่อน\nนอกจากนี้ Boomsharka-laka จะสร้างความเสียหายเพิ่มขึ้น 75%"
+                                                                         "descriptionRaw":  "เมื่อได้รับบอลลอย Mualani จะฟื้นฟูพลังงานธาตุ 8 หน่วย; เอฟเฟกต์นี้ต้องปลดล็อก พรสวรรค์เพิ่มเติม \"Heat-Resistant Freshwater Floater\" ก่อน\nนอกจากนี้ \u003ccolor=#FFD780FF\u003eBoomsharka-laka\u003c/color\u003e จะสร้างความเสียหายเพิ่มขึ้น 75%",
+                                                                         "description":  "เมื่อได้รับบอลลอย Mualani จะฟื้นฟูพลังงานธาตุ 8 หน่วย; เอฟเฟกต์นี้ต้องปลดล็อก พรสวรรค์เพิ่มเติม \"Heat-Resistant Freshwater Floater\" ก่อน\nนอกจากนี้ Boomsharka-laka จะสร้างความเสียหายเพิ่มขึ้น 75%"
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Surfing Atop Joyous Seas",
@@ -4700,8 +4811,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Through Hill and Copse",
-                                                                        "descriptionRaw":  "พรสวรรค์ติดตัว Floral Sidewinder เปลี่ยนเป็น:\nเมื่อ \u003ccolor=#FFD780FF\u003eFloral Ring\u003c/color\u003e ย้อนกลับมา จะมอบเอฟเฟกต์ \"Sprout\" ของพรสวรรค์ติดตัว \"Floral Sidewinder\" ให้แก่ตัวละคร ซึ่งจะสร้าง\u003ccolor=#99FF88FF\u003eความเสียหายไม้\u003c/color\u003eเป็น 40% ของพลังโจมตีของ Collei แก่ศัตรูที่อยู่รอบตัวอย่างต่อเนื่อง เป็นเวลา 3 วินาที\nช่วงเวลาตั้งแต่ตอนที่ใช้ \u003ccolor=#FFD780FF\u003eFloral Brush\u003c/color\u003e ไปจนถึงก่อนตอนที่เอฟเฟกต์ Sprout ของครั้งนั้น ๆ หายไป หากตัวละครในทีมของตนเองทำให้เกิดปฏิกิริยาติดไฟ, ปลุกเร้า, บีบอัด, แพร่ขยาย, งอกเงย, ไฮเปอร์บลูม, เบ่งบาน หรืองอกเงยจันทรา จะทำให้ช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout ในครั้งนี้ยาวนานขึ้น 3 วินาที\nช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout จะสามารถเพิ่มด้วยวิธีนี้ได้เพียงครั้งเดียวเท่านั้น; เมื่อเกิดเอฟเฟกต์ Sprout ขึ้นซ้ำอีกครั้งในระหว่างช่วงเวลาต่อเนื่อง จะเป็นการลบล้างเอฟเฟกต์เดิมที่มีอยู่ โดยความเสียหายที่เอฟเฟกต์ Sprout สร้าง จะถูกนับเป็นความเสียหายสกิลธาตุ\nต้องปลดล็อกพรสวรรค์ติดตัว \"Floral Sidewinder\" ก่อน",
-                                                                        "description":  "พรสวรรค์ติดตัว Floral Sidewinder เปลี่ยนเป็น:\nเมื่อ Floral Ring ย้อนกลับมา จะมอบเอฟเฟกต์ \"Sprout\" ของพรสวรรค์ติดตัว \"Floral Sidewinder\" ให้แก่ตัวละคร ซึ่งจะสร้างความเสียหายไม้เป็น 40% ของพลังโจมตีของ Collei แก่ศัตรูที่อยู่รอบตัวอย่างต่อเนื่อง เป็นเวลา 3 วินาที\nช่วงเวลาตั้งแต่ตอนที่ใช้ Floral Brush ไปจนถึงก่อนตอนที่เอฟเฟกต์ Sprout ของครั้งนั้น ๆ หายไป หากตัวละครในทีมของตนเองทำให้เกิดปฏิกิริยาติดไฟ, ปลุกเร้า, บีบอัด, แพร่ขยาย, งอกเงย, ไฮเปอร์บลูม, เบ่งบาน หรืองอกเงยจันทรา จะทำให้ช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout ในครั้งนี้ยาวนานขึ้น 3 วินาที\nช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout จะสามารถเพิ่มด้วยวิธีนี้ได้เพียงครั้งเดียวเท่านั้น; เมื่อเกิดเอฟเฟกต์ Sprout ขึ้นซ้ำอีกครั้งในระหว่างช่วงเวลาต่อเนื่อง จะเป็นการลบล้างเอฟเฟกต์เดิมที่มีอยู่ โดยความเสียหายที่เอฟเฟกต์ Sprout สร้าง จะถูกนับเป็นความเสียหายสกิลธาตุ\nต้องปลดล็อกพรสวรรค์ติดตัว \"Floral Sidewinder\" ก่อน"
+                                                                        "descriptionRaw":  "พรสวรรค์เพิ่มเติม Floral Sidewinder เปลี่ยนเป็น:\nเมื่อ \u003ccolor=#FFD780FF\u003eFloral Ring\u003c/color\u003e ย้อนกลับมา จะมอบเอฟเฟกต์ \"Sprout\" ของพรสวรรค์เพิ่มเติม \"Floral Sidewinder\" ให้แก่ตัวละคร ซึ่งจะสร้าง\u003ccolor=#99FF88FF\u003eความเสียหายไม้\u003c/color\u003eเป็น 40% ของพลังโจมตีของ Collei แก่ศัตรูที่อยู่รอบตัวอย่างต่อเนื่อง เป็นเวลา 3 วินาที\nช่วงเวลาตั้งแต่ตอนที่ใช้ \u003ccolor=#FFD780FF\u003eFloral Brush\u003c/color\u003e ไปจนถึงก่อนตอนที่เอฟเฟกต์ Sprout ของครั้งนั้น ๆ หายไป หากตัวละครในทีมของตนเองทำให้เกิดปฏิกิริยาติดไฟ, ปลุกเร้า, บีบอัด, แพร่ขยาย, งอกเงย, ไฮเปอร์บลูม, เบ่งบาน หรืองอกเงยจันทรา จะทำให้ช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout ในครั้งนี้ยาวนานขึ้น 3 วินาที\nช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout จะสามารถเพิ่มด้วยวิธีนี้ได้เพียงครั้งเดียวเท่านั้น; เมื่อเกิดเอฟเฟกต์ Sprout ขึ้นซ้ำอีกครั้งในระหว่างช่วงเวลาต่อเนื่อง จะเป็นการลบล้างเอฟเฟกต์เดิมที่มีอยู่ โดยความเสียหายที่เอฟเฟกต์ Sprout สร้าง จะถูกนับเป็นความเสียหายสกิลธาตุ\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Floral Sidewinder\" ก่อน",
+                                                                        "description":  "พรสวรรค์เพิ่มเติม Floral Sidewinder เปลี่ยนเป็น:\nเมื่อ Floral Ring ย้อนกลับมา จะมอบเอฟเฟกต์ \"Sprout\" ของพรสวรรค์เพิ่มเติม \"Floral Sidewinder\" ให้แก่ตัวละคร ซึ่งจะสร้างความเสียหายไม้เป็น 40% ของพลังโจมตีของ Collei แก่ศัตรูที่อยู่รอบตัวอย่างต่อเนื่อง เป็นเวลา 3 วินาที\nช่วงเวลาตั้งแต่ตอนที่ใช้ Floral Brush ไปจนถึงก่อนตอนที่เอฟเฟกต์ Sprout ของครั้งนั้น ๆ หายไป หากตัวละครในทีมของตนเองทำให้เกิดปฏิกิริยาติดไฟ, ปลุกเร้า, บีบอัด, แพร่ขยาย, งอกเงย, ไฮเปอร์บลูม, เบ่งบาน หรืองอกเงยจันทรา จะทำให้ช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout ในครั้งนี้ยาวนานขึ้น 3 วินาที\nช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout จะสามารถเพิ่มด้วยวิธีนี้ได้เพียงครั้งเดียวเท่านั้น; เมื่อเกิดเอฟเฟกต์ Sprout ขึ้นซ้ำอีกครั้งในระหว่างช่วงเวลาต่อเนื่อง จะเป็นการลบล้างเอฟเฟกต์เดิมที่มีอยู่ โดยความเสียหายที่เอฟเฟกต์ Sprout สร้าง จะถูกนับเป็นความเสียหายสกิลธาตุ\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Floral Sidewinder\" ก่อน"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Gift of the Woods",
@@ -4782,8 +4893,8 @@
                                     "constellations":  {
                                                            "c2":  {
                                                                       "name":  "Chaperone\u0027s Ingress",
-                                                                      "descriptionRaw":  "เมื่อ Flowfrost Arrow ของ \u003ccolor=#FFD780FF\u003eStarfrost Swirl\u003c/color\u003e ถูกศัตรูเป็นครั้งแรก หรือเมื่อ Rimestar Flare ถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Detector ของพรสวรรค์ติดตัว \"Suppressive Barrage\" 1 ชั้น\nต้องปลดล็อกพรสวรรค์ติดตัว \"Suppressive Barrage\" ก่อน",
-                                                                      "description":  "เมื่อ Flowfrost Arrow ของ Starfrost Swirl ถูกศัตรูเป็นครั้งแรก หรือเมื่อ Rimestar Flare ถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Detector ของพรสวรรค์ติดตัว \"Suppressive Barrage\" 1 ชั้น\nต้องปลดล็อกพรสวรรค์ติดตัว \"Suppressive Barrage\" ก่อน"
+                                                                      "descriptionRaw":  "เมื่อ Flowfrost Arrow ของ \u003ccolor=#FFD780FF\u003eStarfrost Swirl\u003c/color\u003e ถูกศัตรูเป็นครั้งแรก หรือเมื่อ Rimestar Flare ถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Detector ของพรสวรรค์เพิ่มเติม \"Suppressive Barrage\" 1 ชั้น\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Suppressive Barrage\" ก่อน",
+                                                                      "description":  "เมื่อ Flowfrost Arrow ของ Starfrost Swirl ถูกศัตรูเป็นครั้งแรก หรือเมื่อ Rimestar Flare ถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Detector ของพรสวรรค์เพิ่มเติม \"Suppressive Barrage\" 1 ชั้น\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Suppressive Barrage\" ก่อน"
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Sunfrost Encomium",
@@ -4802,8 +4913,8 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Companion\u0027s Counsel",
-                                                                      "descriptionRaw":  "เอฟเฟกต์ Detector จากสถานะ Soulwind ของ \u003ccolor=#FFD780FF\u003eStarfrost Swirl\u003c/color\u003e มีขีดจำกัดจำนวนการซ้อนทับเพิ่มขึ้น 1 ชั้น (ต้องปลดล็อกพรสวรรค์ติดตัว \"Suppressive Barrage\" ก่อน)\nนอกจากนี้ ความแรงคริของความเสียหายกายภาพ ที่ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นสร้างภายใต้สถานะ Soulwind จะเพิ่มขึ้น 60%",
-                                                                      "description":  "เอฟเฟกต์ Detector จากสถานะ Soulwind ของ Starfrost Swirl มีขีดจำกัดจำนวนการซ้อนทับเพิ่มขึ้น 1 ชั้น (ต้องปลดล็อกพรสวรรค์ติดตัว \"Suppressive Barrage\" ก่อน)\nนอกจากนี้ ความแรงคริของความเสียหายกายภาพ ที่ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นสร้างภายใต้สถานะ Soulwind จะเพิ่มขึ้น 60%"
+                                                                      "descriptionRaw":  "เอฟเฟกต์ Detector จากสถานะ Soulwind ของ \u003ccolor=#FFD780FF\u003eStarfrost Swirl\u003c/color\u003e มีขีดจำกัดจำนวนการซ้อนทับเพิ่มขึ้น 1 ชั้น (ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Suppressive Barrage\" ก่อน)\nนอกจากนี้ ความแรงคริของความเสียหายกายภาพ ที่ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นสร้างภายใต้สถานะ Soulwind จะเพิ่มขึ้น 60%",
+                                                                      "description":  "เอฟเฟกต์ Detector จากสถานะ Soulwind ของ Starfrost Swirl มีขีดจำกัดจำนวนการซ้อนทับเพิ่มขึ้น 1 ชั้น (ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Suppressive Barrage\" ก่อน)\nนอกจากนี้ ความแรงคริของความเสียหายกายภาพ ที่ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นสร้างภายใต้สถานะ Soulwind จะเพิ่มขึ้น 60%"
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Factor Confluence",
@@ -4843,8 +4954,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Auspicious Beast\u0027s Shape",
-                                                                        "descriptionRaw":  "หลังจาก Scalespiker Cannon โจมตีโดนศัตรู จะทำการกระดอนระหว่างศัตรูหนึ่งครั้ง สร้าง\u003ccolor=#99FF88FF\u003eความเสียหายไม้\u003c/color\u003eเทียบเท่ากับ 700% ของพลังโจมตีของ Kinich\nหาก Scalespiker Cannon ในครั้งนี้ ทำให้เกิดเอฟเฟกต์บัฟของพรสวรรค์ติดตัว \"Flame Spirit Pact\" หรือกลุ่มดาว \"Tiger Beetle\u0027s Palm\" ให้กับ Scalespiker Cannon การโจมตีแบบกระดอนของมัน จะได้รับบัฟของเอฟเฟกต์ที่เกี่ยวข้องด้วย",
-                                                                        "description":  "หลังจาก Scalespiker Cannon โจมตีโดนศัตรู จะทำการกระดอนระหว่างศัตรูหนึ่งครั้ง สร้างความเสียหายไม้เทียบเท่ากับ 700% ของพลังโจมตีของ Kinich\nหาก Scalespiker Cannon ในครั้งนี้ ทำให้เกิดเอฟเฟกต์บัฟของพรสวรรค์ติดตัว \"Flame Spirit Pact\" หรือกลุ่มดาว \"Tiger Beetle\u0027s Palm\" ให้กับ Scalespiker Cannon การโจมตีแบบกระดอนของมัน จะได้รับบัฟของเอฟเฟกต์ที่เกี่ยวข้องด้วย"
+                                                                        "descriptionRaw":  "หลังจาก Scalespiker Cannon โจมตีโดนศัตรู จะทำการกระดอนระหว่างศัตรูหนึ่งครั้ง สร้าง\u003ccolor=#99FF88FF\u003eความเสียหายไม้\u003c/color\u003eเทียบเท่ากับ 700% ของพลังโจมตีของ Kinich\nหาก Scalespiker Cannon ในครั้งนี้ ทำให้เกิดเอฟเฟกต์บัฟของพรสวรรค์เพิ่มเติม \"Flame Spirit Pact\" หรือกลุ่มดาว \"Tiger Beetle\u0027s Palm\" ให้กับ Scalespiker Cannon การโจมตีแบบกระดอนของมัน จะได้รับบัฟของเอฟเฟกต์ที่เกี่ยวข้องด้วย",
+                                                                        "description":  "หลังจาก Scalespiker Cannon โจมตีโดนศัตรู จะทำการกระดอนระหว่างศัตรูหนึ่งครั้ง สร้างความเสียหายไม้เทียบเท่ากับ 700% ของพลังโจมตีของ Kinich\nหาก Scalespiker Cannon ในครั้งนี้ ทำให้เกิดเอฟเฟกต์บัฟของพรสวรรค์เพิ่มเติม \"Flame Spirit Pact\" หรือกลุ่มดาว \"Tiger Beetle\u0027s Palm\" ให้กับ Scalespiker Cannon การโจมตีแบบกระดอนของมัน จะได้รับบัฟของเอฟเฟกต์ที่เกี่ยวข้องด้วย"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Parrot\u0027s Beak",
@@ -4864,8 +4975,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Papyrus Scripture of Silent Secrets",
-                                                                        "descriptionRaw":  "เมื่อบรรลุเงื่อนไขข้อใดข้อหนึ่งต่อไปนี้ \u003ccolor=#FFACFFFF\u003eโบนัสความเสียหายไฟฟ้า\u003c/color\u003eของ Sethos จะเพิ่มขึ้น 15% เป็นเวลา 10 วินาที ซึ่งจะซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน:\n·ใช้พลังงานธาตุจากการเล็งโจมตี เงื่อนไขนี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" ก่อน;\n·ฟื้นฟูพลังงานธาตุจากการทำให้เกิดปฏิกิริยาธาตุด้วย \u003ccolor=#FFD780FF\u003eAncient Rite: The Thundering Sands\u003c/color\u003e;\n·ปลดปล่อย \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e",
-                                                                        "description":  "เมื่อบรรลุเงื่อนไขข้อใดข้อหนึ่งต่อไปนี้ โบนัสความเสียหายไฟฟ้าของ Sethos จะเพิ่มขึ้น 15% เป็นเวลา 10 วินาที ซึ่งจะซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน:\n·ใช้พลังงานธาตุจากการเล็งโจมตี เงื่อนไขนี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" ก่อน;\n·ฟื้นฟูพลังงานธาตุจากการทำให้เกิดปฏิกิริยาธาตุด้วย Ancient Rite: The Thundering Sands;\n·ปลดปล่อย Secret Rite: Twilight Shadowpiercer"
+                                                                        "descriptionRaw":  "เมื่อบรรลุเงื่อนไขข้อใดข้อหนึ่งต่อไปนี้ \u003ccolor=#FFACFFFF\u003eโบนัสความเสียหายไฟฟ้า\u003c/color\u003eของ Sethos จะเพิ่มขึ้น 15% เป็นเวลา 10 วินาที ซึ่งจะซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน:\n·ใช้พลังงานธาตุจากการเล็งโจมตี เงื่อนไขนี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Black Kite\u0027s Enigma\" ก่อน;\n·ฟื้นฟูพลังงานธาตุจากการทำให้เกิดปฏิกิริยาธาตุด้วย \u003ccolor=#FFD780FF\u003eAncient Rite: The Thundering Sands\u003c/color\u003e;\n·ปลดปล่อย \u003ccolor=#FFD780FF\u003eSecret Rite: Twilight Shadowpiercer\u003c/color\u003e",
+                                                                        "description":  "เมื่อบรรลุเงื่อนไขข้อใดข้อหนึ่งต่อไปนี้ โบนัสความเสียหายไฟฟ้าของ Sethos จะเพิ่มขึ้น 15% เป็นเวลา 10 วินาที ซึ่งจะซ้อนทับได้มากสุด 2 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน:\n·ใช้พลังงานธาตุจากการเล็งโจมตี เงื่อนไขนี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Black Kite\u0027s Enigma\" ก่อน;\n·ฟื้นฟูพลังงานธาตุจากการทำให้เกิดปฏิกิริยาธาตุด้วย Ancient Rite: The Thundering Sands;\n·ปลดปล่อย Secret Rite: Twilight Shadowpiercer"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Beneficent Plumage",
@@ -4884,8 +4995,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Pylon of the Sojourning Sun Temple",
-                                                                        "descriptionRaw":  "หลังจาก\u003ccolor=#FFD780FF\u003eศรทะลวงเงา\u003c/color\u003eโจมตีถูกศัตรู จะคืนพลังงานธาตุที่ถูกใช้ไปของพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" ก่อน",
-                                                                        "description":  "หลังจากศรทะลวงเงาโจมตีถูกศัตรู จะคืนพลังงานธาตุที่ถูกใช้ไปของพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Black Kite\u0027s Enigma\" ก่อน"
+                                                                        "descriptionRaw":  "หลังจาก\u003ccolor=#FFD780FF\u003eศรทะลวงเงา\u003c/color\u003eโจมตีถูกศัตรู จะคืนพลังงานธาตุที่ถูกใช้ไปของพรสวรรค์เพิ่มเติม \"Black Kite\u0027s Enigma\" โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Black Kite\u0027s Enigma\" ก่อน",
+                                                                        "description":  "หลังจากศรทะลวงเงาโจมตีถูกศัตรู จะคืนพลังงานธาตุที่ถูกใช้ไปของพรสวรรค์เพิ่มเติม \"Black Kite\u0027s Enigma\" โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 15 วินาที จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Black Kite\u0027s Enigma\" ก่อน"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Sealed Shrine\u0027s Spiritsong",
@@ -5154,8 +5265,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Heart Devourer\u0027s Travail",
-                                                                         "descriptionRaw":  "ความชำนาญธาตุของ Citlali เพิ่มขึ้น 125 หน่วย และความชำนาญธาตุของตัวละครอื่น ๆ ที่อยู่ภายใต้การคุ้มครองของโล่โอปอลหรือถูก Itzpapa ติดตามจะเพิ่มขึ้น 250 หน่วย\nซึ่งเมื่อปล่อยสกิลธาตุ \u003ccolor=#FFD780FF\u003eDawnfrost Darkstar\u003c/color\u003e จะมอบโล่โอปอลให้กับตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น ที่อยู่ใกล้เคียงด้วยเช่นกัน;\n\nนอกจากนี้ พรสวรรค์ติดตัว \"Mamaloaco\u0027s Frigid Rain\" จะได้รับเอฟเฟกต์เพิ่มขึ้น:\nในระหว่างที่ Itzpapa คงอยู่ หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาแช่แข็งหรือละลาย ความต้านทาน\u003ccolor=#FF9999FF\u003eธาตุไฟ\u003c/color\u003eและ\u003ccolor=#80C0FFFF\u003eธาตุน้ำ\u003c/color\u003eของศัตรูได้รับผลกระทบจากปฏิกิริยาในครั้งนี้ จะลดลงอีก 20% เป็นเวลา 12 วินาที เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Mamaloaco\u0027s Frigid Rain\" ก่อน",
-                                                                         "description":  "ความชำนาญธาตุของ Citlali เพิ่มขึ้น 125 หน่วย และความชำนาญธาตุของตัวละครอื่น ๆ ที่อยู่ภายใต้การคุ้มครองของโล่โอปอลหรือถูก Itzpapa ติดตามจะเพิ่มขึ้น 250 หน่วย\nซึ่งเมื่อปล่อยสกิลธาตุ Dawnfrost Darkstar จะมอบโล่โอปอลให้กับตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น ที่อยู่ใกล้เคียงด้วยเช่นกัน;\n\nนอกจากนี้ พรสวรรค์ติดตัว \"Mamaloaco\u0027s Frigid Rain\" จะได้รับเอฟเฟกต์เพิ่มขึ้น:\nในระหว่างที่ Itzpapa คงอยู่ หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาแช่แข็งหรือละลาย ความต้านทานธาตุไฟและธาตุน้ำของศัตรูได้รับผลกระทบจากปฏิกิริยาในครั้งนี้ จะลดลงอีก 20% เป็นเวลา 12 วินาที เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์ติดตัว \"Mamaloaco\u0027s Frigid Rain\" ก่อน"
+                                                                         "descriptionRaw":  "ความชำนาญธาตุของ Citlali เพิ่มขึ้น 125 หน่วย และความชำนาญธาตุของตัวละครอื่น ๆ ที่อยู่ภายใต้การคุ้มครองของโล่โอปอลหรือถูก Itzpapa ติดตามจะเพิ่มขึ้น 250 หน่วย\nซึ่งเมื่อปล่อยสกิลธาตุ \u003ccolor=#FFD780FF\u003eDawnfrost Darkstar\u003c/color\u003e จะมอบโล่โอปอลให้กับตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น ที่อยู่ใกล้เคียงด้วยเช่นกัน;\n\nนอกจากนี้ พรสวรรค์เพิ่มเติม \"Mamaloaco\u0027s Frigid Rain\" จะได้รับเอฟเฟกต์เพิ่มขึ้น:\nในระหว่างที่ Itzpapa คงอยู่ หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาแช่แข็งหรือละลาย ความต้านทาน\u003ccolor=#FF9999FF\u003eธาตุไฟ\u003c/color\u003eและ\u003ccolor=#80C0FFFF\u003eธาตุน้ำ\u003c/color\u003eของศัตรูได้รับผลกระทบจากปฏิกิริยาในครั้งนี้ จะลดลงอีก 20% เป็นเวลา 12 วินาที เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Mamaloaco\u0027s Frigid Rain\" ก่อน",
+                                                                         "description":  "ความชำนาญธาตุของ Citlali เพิ่มขึ้น 125 หน่วย และความชำนาญธาตุของตัวละครอื่น ๆ ที่อยู่ภายใต้การคุ้มครองของโล่โอปอลหรือถูก Itzpapa ติดตามจะเพิ่มขึ้น 250 หน่วย\nซึ่งเมื่อปล่อยสกิลธาตุ Dawnfrost Darkstar จะมอบโล่โอปอลให้กับตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น ที่อยู่ใกล้เคียงด้วยเช่นกัน;\n\nนอกจากนี้ พรสวรรค์เพิ่มเติม \"Mamaloaco\u0027s Frigid Rain\" จะได้รับเอฟเฟกต์เพิ่มขึ้น:\nในระหว่างที่ Itzpapa คงอยู่ หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาแช่แข็งหรือละลาย ความต้านทานธาตุไฟและธาตุน้ำของศัตรูได้รับผลกระทบจากปฏิกิริยาในครั้งนี้ จะลดลงอีก 20% เป็นเวลา 12 วินาที เอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Mamaloaco\u0027s Frigid Rain\" ก่อน"
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Death Defier\u0027s Spirit Skull",
@@ -5384,8 +5495,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Stable Front Line\u0027s Resolve",
-                                                                           "descriptionRaw":  "เมื่อตัวละครที่อยู่ในสนามอยู่ภายใต้สถานะ \"Coordinated Tactics\" (ไม่รวมตัวของ Chevreuse เอง) ทำให้เกิดปฏิกิริยาโอเวอร์โหลด จะฟื้นฟูพลังงานธาตุ 6 หน่วย เอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 10 วินาที\nต้องปลดล็อกพรสวรรค์ติดตัว \"Vanguard\u0027s Coordinated Tactics\" ก่อน",
-                                                                           "description":  "เมื่อตัวละครที่อยู่ในสนามอยู่ภายใต้สถานะ \"Coordinated Tactics\" (ไม่รวมตัวของ Chevreuse เอง) ทำให้เกิดปฏิกิริยาโอเวอร์โหลด จะฟื้นฟูพลังงานธาตุ 6 หน่วย เอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 10 วินาที\nต้องปลดล็อกพรสวรรค์ติดตัว \"Vanguard\u0027s Coordinated Tactics\" ก่อน"
+                                                                           "descriptionRaw":  "เมื่อตัวละครที่อยู่ในสนามอยู่ภายใต้สถานะ \"Coordinated Tactics\" (ไม่รวมตัวของ Chevreuse เอง) ทำให้เกิดปฏิกิริยาโอเวอร์โหลด จะฟื้นฟูพลังงานธาตุ 6 หน่วย เอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 10 วินาที\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Vanguard\u0027s Coordinated Tactics\" ก่อน",
+                                                                           "description":  "เมื่อตัวละครที่อยู่ในสนามอยู่ภายใต้สถานะ \"Coordinated Tactics\" (ไม่รวมตัวของ Chevreuse เอง) ทำให้เกิดปฏิกิริยาโอเวอร์โหลด จะฟื้นฟูพลังงานธาตุ 6 หน่วย เอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 10 วินาที\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Vanguard\u0027s Coordinated Tactics\" ก่อน"
                                                                        }
                                                             },
                                          "elementText":  "ไฟ",
@@ -5765,8 +5876,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Aloof From the World",
-                                                                         "descriptionRaw":  "หลังจากร่ายบันไดสุราลัย \u003ccolor=#FFD780FF\u003eWhite Clouds at Dawn\u003c/color\u003e พลังโจมตีของ Xianyun จะเพิ่มขึ้น 20% เป็นเวลา 15 วินาที\nนอกจากนี้ เอฟเฟกต์พรสวรรค์ติดตัว \"Consider, the Adeptus in Her Realm\" จะเพิ่มขึ้น: เมื่อ Starwicker ของ \u003ccolor=#FFD780FF\u003eStars Gather at Dusk\u003c/color\u003e ได้รับการเสริมพลังเซียน ความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศ ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในบริเวณใกล้เคียงจะเพิ่มขึ้น 400% ของพลังโจมตีของ Xianyun วิธีนี้จะทำให้ความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศ ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในบริเวณใกล้เคียงเพิ่มขึ้นสูงสุด 18,000 หน่วย\nความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศหนึ่งครั้ง จะทำให้เกิดเอฟเฟกต์เพิ่มความเสียหายข้างต้นต่อศัตรูหนึ่งตัวเท่านั้น และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.4 วินาทีต่อหนึ่งตัว\nเอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์ติดตัว \"Consider, the Adeptus in Her Realm\" ก่อน",
-                                                                         "description":  "หลังจากร่ายบันไดสุราลัย White Clouds at Dawn พลังโจมตีของ Xianyun จะเพิ่มขึ้น 20% เป็นเวลา 15 วินาที\nนอกจากนี้ เอฟเฟกต์พรสวรรค์ติดตัว \"Consider, the Adeptus in Her Realm\" จะเพิ่มขึ้น: เมื่อ Starwicker ของ Stars Gather at Dusk ได้รับการเสริมพลังเซียน ความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศ ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในบริเวณใกล้เคียงจะเพิ่มขึ้น 400% ของพลังโจมตีของ Xianyun วิธีนี้จะทำให้ความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศ ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในบริเวณใกล้เคียงเพิ่มขึ้นสูงสุด 18,000 หน่วย\nความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศหนึ่งครั้ง จะทำให้เกิดเอฟเฟกต์เพิ่มความเสียหายข้างต้นต่อศัตรูหนึ่งตัวเท่านั้น และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.4 วินาทีต่อหนึ่งตัว\nเอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์ติดตัว \"Consider, the Adeptus in Her Realm\" ก่อน"
+                                                                         "descriptionRaw":  "หลังจากร่ายบันไดสุราลัย \u003ccolor=#FFD780FF\u003eWhite Clouds at Dawn\u003c/color\u003e พลังโจมตีของ Xianyun จะเพิ่มขึ้น 20% เป็นเวลา 15 วินาที\nนอกจากนี้ เอฟเฟกต์พรสวรรค์เพิ่มเติม \"Consider, the Adeptus in Her Realm\" จะเพิ่มขึ้น: เมื่อ Starwicker ของ \u003ccolor=#FFD780FF\u003eStars Gather at Dusk\u003c/color\u003e ได้รับการเสริมพลังเซียน ความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศ ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในบริเวณใกล้เคียงจะเพิ่มขึ้น 400% ของพลังโจมตีของ Xianyun วิธีนี้จะทำให้ความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศ ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในบริเวณใกล้เคียงเพิ่มขึ้นสูงสุด 18,000 หน่วย\nความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศหนึ่งครั้ง จะทำให้เกิดเอฟเฟกต์เพิ่มความเสียหายข้างต้นต่อศัตรูหนึ่งตัวเท่านั้น และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.4 วินาทีต่อหนึ่งตัว\nเอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Consider, the Adeptus in Her Realm\" ก่อน",
+                                                                         "description":  "หลังจากร่ายบันไดสุราลัย White Clouds at Dawn พลังโจมตีของ Xianyun จะเพิ่มขึ้น 20% เป็นเวลา 15 วินาที\nนอกจากนี้ เอฟเฟกต์พรสวรรค์เพิ่มเติม \"Consider, the Adeptus in Her Realm\" จะเพิ่มขึ้น: เมื่อ Starwicker ของ Stars Gather at Dusk ได้รับการเสริมพลังเซียน ความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศ ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในบริเวณใกล้เคียงจะเพิ่มขึ้น 400% ของพลังโจมตีของ Xianyun วิธีนี้จะทำให้ความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศ ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในบริเวณใกล้เคียงเพิ่มขึ้นสูงสุด 18,000 หน่วย\nความเสียหายพุ่งถึงพื้นจากการโจมตีพุ่งลงจากอากาศหนึ่งครั้ง จะทำให้เกิดเอฟเฟกต์เพิ่มความเสียหายข้างต้นต่อศัตรูหนึ่งตัวเท่านั้น และเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.4 วินาทีต่อหนึ่งตัว\nเอฟเฟกต์นี้ จะต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Consider, the Adeptus in Her Realm\" ก่อน"
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Mystery Millet Gourmet",
@@ -5847,8 +5958,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Lakelight Top Note",
-                                                                        "descriptionRaw":  "เมื่อ \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eAromatic Explication\u003c/color\u003e หรือ \"กลิ่นหยาดน้ำค้างบริสุทธิ์\" ที่เกิดจากพรสวรรค์ติดตัว \"Lingering Fragrance\" (ต้องปลดล็อกพรสวรรค์ติดตัวนี้ก่อน) โจมตีโดนศัตรู \u003ccolor=#99FF88FF\u003eความต้านทานไม้\u003c/color\u003eของศัตรูดังกล่าวจะลดลง 30% เป็นเวลา 10 วินาที",
-                                                                        "description":  "เมื่อ Fragrance Extraction, Aromatic Explication หรือ \"กลิ่นหยาดน้ำค้างบริสุทธิ์\" ที่เกิดจากพรสวรรค์ติดตัว \"Lingering Fragrance\" (ต้องปลดล็อกพรสวรรค์ติดตัวนี้ก่อน) โจมตีโดนศัตรู ความต้านทานไม้ของศัตรูดังกล่าวจะลดลง 30% เป็นเวลา 10 วินาที"
+                                                                        "descriptionRaw":  "เมื่อ \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eAromatic Explication\u003c/color\u003e หรือ \"กลิ่นหยาดน้ำค้างบริสุทธิ์\" ที่เกิดจากพรสวรรค์เพิ่มเติม \"Lingering Fragrance\" (ต้องปลดล็อกพรสวรรค์เพิ่มเติมนี้ก่อน) โจมตีโดนศัตรู \u003ccolor=#99FF88FF\u003eความต้านทานไม้\u003c/color\u003eของศัตรูดังกล่าวจะลดลง 30% เป็นเวลา 10 วินาที",
+                                                                        "description":  "เมื่อ Fragrance Extraction, Aromatic Explication หรือ \"กลิ่นหยาดน้ำค้างบริสุทธิ์\" ที่เกิดจากพรสวรรค์เพิ่มเติม \"Lingering Fragrance\" (ต้องปลดล็อกพรสวรรค์เพิ่มเติมนี้ก่อน) โจมตีโดนศัตรู ความต้านทานไม้ของศัตรูดังกล่าวจะลดลง 30% เป็นเวลา 10 วินาที"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Lumidouce Heart Note",
@@ -5872,8 +5983,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Light Fragrance Leaching",
-                                                                        "descriptionRaw":  "ความเสียหายที่เกิดจากกลิ่นหยาดน้ำค้างบริสุทธิ์ ของ \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e และพรสวรรค์ติดตัว \"Lingering Fragrance\" เพิ่มขึ้น 20% โดยอย่างหลังต้องปลดล็อกพรสวรรค์ติดตัว \"Lingering Fragrance\" ก่อน\nนอกจากนี้ เมื่อตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาติดไฟแก่ศัตรู หรือสร้าง\u003ccolor=#99FF88FF\u003eความเสียหายไม้\u003c/color\u003eแก่ศัตรูที่อยู่ในสถานะติดไฟ จะทำให้เกิด\u003ccolor=#FFD780FF\u003eกลิ่นหอม\u003c/color\u003eเพิ่มอีก 1 อัน โดยเอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 2.9 วินาที",
-                                                                        "description":  "ความเสียหายที่เกิดจากกลิ่นหยาดน้ำค้างบริสุทธิ์ ของ Fragrance Extraction และพรสวรรค์ติดตัว \"Lingering Fragrance\" เพิ่มขึ้น 20% โดยอย่างหลังต้องปลดล็อกพรสวรรค์ติดตัว \"Lingering Fragrance\" ก่อน\nนอกจากนี้ เมื่อตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาติดไฟแก่ศัตรู หรือสร้างความเสียหายไม้แก่ศัตรูที่อยู่ในสถานะติดไฟ จะทำให้เกิดกลิ่นหอมเพิ่มอีก 1 อัน โดยเอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 2.9 วินาที"
+                                                                        "descriptionRaw":  "ความเสียหายที่เกิดจากกลิ่นหยาดน้ำค้างบริสุทธิ์ ของ \u003ccolor=#FFD780FF\u003eFragrance Extraction\u003c/color\u003e และพรสวรรค์เพิ่มเติม \"Lingering Fragrance\" เพิ่มขึ้น 20% โดยอย่างหลังต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Lingering Fragrance\" ก่อน\nนอกจากนี้ เมื่อตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาติดไฟแก่ศัตรู หรือสร้าง\u003ccolor=#99FF88FF\u003eความเสียหายไม้\u003c/color\u003eแก่ศัตรูที่อยู่ในสถานะติดไฟ จะทำให้เกิด\u003ccolor=#FFD780FF\u003eกลิ่นหอม\u003c/color\u003eเพิ่มอีก 1 อัน โดยเอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 2.9 วินาที",
+                                                                        "description":  "ความเสียหายที่เกิดจากกลิ่นหยาดน้ำค้างบริสุทธิ์ ของ Fragrance Extraction และพรสวรรค์เพิ่มเติม \"Lingering Fragrance\" เพิ่มขึ้น 20% โดยอย่างหลังต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Lingering Fragrance\" ก่อน\nนอกจากนี้ เมื่อตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาติดไฟแก่ศัตรู หรือสร้างความเสียหายไม้แก่ศัตรูที่อยู่ในสถานะติดไฟ จะทำให้เกิดกลิ่นหอมเพิ่มอีก 1 อัน โดยเอฟเฟกต์นี้เกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 2.9 วินาที"
                                                                     }
                                                          },
                                       "elementText":  "ไม้",
@@ -6246,6 +6357,47 @@
                                      "region":  "Fontaine",
                                      "gender":  "ชาย"
                                  },
+                       "nefer":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Observation Feeds Strategy",
+                                                                       "descriptionRaw":  "เอฟเฟกต์ของพรสวรรค์เพิ่มเติม {LINK#P1222101}\u003ccolor=#FFD780FF\u003eA Wager of Moonlight\u003c/color\u003e{/LINK} ได้รับการเสริมพลัง: ช่วงเวลาต่อเนื่องของ {LINK#N11220003}\u003ccolor=#FFD780FF\u003eVeil of Falsehood\u003c/color\u003e{/LINK} เพิ่มขึ้น 5 วินาที และขีดจำกัดสูงสุดเพิ่มขึ้นเป็น 5 ชั้น อีกทั้งสามารถทำให้ {LINK#N11220002}\u003ccolor=#FFD780FF\u003ePhantasm Performance\u003c/color\u003e{/LINK} สร้างความเสียหายเป็น 140% ของความเสียหายเดิม; เมื่อ Nefer ใช้สกิลธาตุ \u003ccolor=#FFD780FF\u003e{LINK#S11222}Senet Strategy: Dance of a Thousand Nights{/LINK}\u003c/color\u003e จะได้รับ \"Veil of Falsehood\" 2 ชั้นทันที นอกจากนี้เมื่อ \"Veil of Falsehood\" ซ้อนทับถึง 5 ชั้น หรือเมื่อรีเฟรชช่วงเวลาต่อเนื่องของชั้นที่ 5 ความชำนาญธาตุของ Nefer จะเพิ่มขึ้น 200 หน่วย เป็นเวลา 8 วินาที\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"A Wager of Moonlight\" ก่อน",
+                                                                       "description":  "เอฟเฟกต์ของพรสวรรค์เพิ่มเติม **A Wager of Moonlight** ได้รับการเสริมพลัง: ช่วงเวลาต่อเนื่องของ **Veil of Falsehood** เพิ่มขึ้น 5 วินาที และขีดจำกัดสูงสุดเพิ่มขึ้นเป็น 5 ชั้น อีกทั้งสามารถทำให้ **Phantasm Performance** สร้างความเสียหายเป็น 140% ของความเสียหายเดิม; เมื่อ Nefer ใช้สกิลธาตุ **Senet Strategy: Dance of a Thousand Nights** จะได้รับ \"Veil of Falsehood\" 2 ชั้นทันที นอกจากนี้เมื่อ \"Veil of Falsehood\" ซ้อนทับถึง 5 ชั้น หรือเมื่อรีเฟรชช่วงเวลาต่อเนื่องของชั้นที่ 5 ความชำนาญธาตุของ Nefer จะเพิ่มขึ้น 200 หน่วย เป็นเวลา 8 วินาที\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"A Wager of Moonlight\" ก่อน"
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Delusion Ensnares Reason",
+                                                                       "descriptionRaw":  "เมื่อ Nefer อยู่ในสนาม และอยู่ในสถานะ {LINK#N11220001}\u003ccolor=#FFD780FF\u003eShadow Dance\u003c/color\u003e{/LINK} ความเร็วในการได้รับหยาดพฤกษาจะเพิ่มขึ้น 25%\nนอกจากนี้ ขณะที่ Nefer อยู่ในสถานะ \"Shadow Dance\" จะทำให้\u003ccolor=#99FF88FF\u003eความต้านทานไม้\u003c/color\u003eของศัตรูที่อยู่ในบริเวณใกล้เคียงลดลง 20% เมื่อ Nefer ไม่ได้อยู่ในสถานะ \"Shadow Dance\" หรืออยู่ห่างจากศัตรูในระยะหนึ่ง เอฟเฟกต์นี้จะหายไปหลังจาก 4.5 วินาที",
+                                                                       "description":  "เมื่อ Nefer อยู่ในสนาม และอยู่ในสถานะ **Shadow Dance** ความเร็วในการได้รับหยาดพฤกษาจะเพิ่มขึ้น 25%\nนอกจากนี้ ขณะที่ Nefer อยู่ในสถานะ \"Shadow Dance\" จะทำให้ความต้านทานไม้ของศัตรูที่อยู่ในบริเวณใกล้เคียงลดลง 20% เมื่อ Nefer ไม่ได้อยู่ในสถานะ \"Shadow Dance\" หรืออยู่ห่างจากศัตรูในระยะหนึ่ง เอฟเฟกต์นี้จะหายไปหลังจาก 4.5 วินาที"
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Deceit Cloaks the Truth",
+                                                                       "descriptionRaw":  "เพิ่มเลเวลสกิลของสกิลธาตุ \u003ccolor=#FFD780FF\u003e{LINK#S11222}Senet Strategy: Dance of a Thousand Nights{/LINK}\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                       "description":  "เพิ่มเลเวลสกิลของสกิลธาตุ **Senet Strategy: Dance of a Thousand Nights** ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Opportunity Hides in the Margins",
+                                                                       "descriptionRaw":  "เพิ่มเลเวลสกิลของท่าไม้ตาย \u003ccolor=#FFD780FF\u003e{LINK#S11225}Sacred Vow: True Eye\u0027s Phantasm{/LINK}\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                       "description":  "เพิ่มเลเวลสกิลของท่าไม้ตาย **Sacred Vow: True Eye\u0027s Phantasm** ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Victory Flows from the Turning of Tides",
+                                                                       "descriptionRaw":  "เมื่อ Nefer ปล่อย {LINK#N11220002}\u003ccolor=#FFD780FF\u003ePhantasm Performance\u003c/color\u003e{/LINK} ความเสียหายขั้น 2 ของเธอจะเปลี่ยนเป็น\u003ccolor=#99FF88FF\u003eความเสียหายไม้วงกว้าง\u003c/color\u003e เท่ากับ 85% ของความชำนาญธาตุของ Nefer; นอกจากนี้ เมื่อการโจมตีของ Phantasm Performance สิ้นสุดลง จะสร้าง\u003ccolor=#99FF88FF\u003eความเสียหายไม้วงกว้าง\u003c/color\u003eหนึ่งครั้ง เท่ากับ 120% ของความชำนาญธาตุของ Nefer โดยความเสียหายดังกล่าวทั้งหมดจะถูกมองว่าเป็นความเสียหายจากปฏิกิริยางอกเงยจันทราของ Phantasm Performance\n\n\u003ccolor=#FFD780FF\u003eลัคนาจันทร์ - จรัสแสง\u003c/color\u003e\nความเสียหายปฏิกิริยางอกเงยจันทราที่ Nefer สร้าง จะ{LINK#N11190007}\u003ccolor=#FFD780FF\u003eยกระดับ\u003c/color\u003e{/LINK}ขึ้น 15%",
+                                                                       "description":  "เมื่อ Nefer ปล่อย **Phantasm Performance** ความเสียหายขั้น 2 ของเธอจะเปลี่ยนเป็นความเสียหายไม้วงกว้าง เท่ากับ 85% ของความชำนาญธาตุของ Nefer; นอกจากนี้ เมื่อการโจมตีของ Phantasm Performance สิ้นสุดลง จะสร้างความเสียหายไม้วงกว้างหนึ่งครั้ง เท่ากับ 120% ของความชำนาญธาตุของ Nefer โดยความเสียหายดังกล่าวทั้งหมดจะถูกมองว่าเป็นความเสียหายจากปฏิกิริยางอกเงยจันทราของ Phantasm Performance\n\nลัคนาจันทร์ - จรัสแสง\nความเสียหายปฏิกิริยางอกเงยจันทราที่ Nefer สร้าง จะ**ยกระดับ**ขึ้น 15%"
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Planning Breeds Success",
+                                                                       "descriptionRaw":  "เพิ่มความเสียหายพื้นฐานของความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราของ {LINK#N11220002}\u003ccolor=#FFD780FF\u003ePhantasm Performance\u003c/color\u003e{/LINK} ของ Nefer โดยค่าที่เพิ่มขึ้นจะเท่ากับ 60% ของความชำนาญธาตุของ Nefer เอฟเฟกต์นี้จะได้รับโบนัสของ {LINK#N11220003}\u003ccolor=#FFD780FF\u003eVeil of Falsehood\u003c/color\u003e{/LINK} ด้วยเช่นกัน",
+                                                                       "description":  "เพิ่มความเสียหายพื้นฐานของความเสียหายที่เกิดจากปฏิกิริยางอกเงยจันทราของ **Phantasm Performance** ของ Nefer โดยค่าที่เพิ่มขึ้นจะเท่ากับ 60% ของความชำนาญธาตุของ Nefer เอฟเฟกต์นี้จะได้รับโบนัสของ **Veil of Falsehood** ด้วยเช่นกัน"
+                                                                   }
+                                                        },
+                                     "elementText":  "ไม้",
+                                     "fullname":  null,
+                                     "weaponText":  "สื่อเวท",
+                                     "name":  "Nefer",
+                                     "substatText":  "ความแรงคริ",
+                                     "region":  "Nod-Krai",
+                                     "gender":  "ผู้หญิง"
+                                 },
                        "aloy":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6357,8 +6509,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "\"As One Might Stride Betwixt the Clouds\"",
-                                                                        "descriptionRaw":  "หลังจากทำให้เกิดการแปลงธาตุจากพรสวรรค์ติดตัว \"Four Sealing Divination Charms\" แล้ว เมื่อ Lan Yan ขว้างบ่วงสะบั้นจันทราใส่ศัตรูในสกิลธาตุ \u003ccolor=#FFD780FF\u003eSwallow-Wisp Pinion Dance\u003c/color\u003e ครั้งนี้ จะขว้างบ่วงสะบั้นจันทราเพิ่มเติมอีกหนึ่งห่วง\nต้องปลดล็อกพรสวรรค์ \"Four Sealing Divination Charms\" ก่อน",
-                                                                        "description":  "หลังจากทำให้เกิดการแปลงธาตุจากพรสวรรค์ติดตัว \"Four Sealing Divination Charms\" แล้ว เมื่อ Lan Yan ขว้างบ่วงสะบั้นจันทราใส่ศัตรูในสกิลธาตุ Swallow-Wisp Pinion Dance ครั้งนี้ จะขว้างบ่วงสะบั้นจันทราเพิ่มเติมอีกหนึ่งห่วง\nต้องปลดล็อกพรสวรรค์ \"Four Sealing Divination Charms\" ก่อน"
+                                                                        "descriptionRaw":  "หลังจากทำให้เกิดการแปลงธาตุจากพรสวรรค์เพิ่มเติม \"Four Sealing Divination Charms\" แล้ว เมื่อ Lan Yan ขว้างบ่วงสะบั้นจันทราใส่ศัตรูในสกิลธาตุ \u003ccolor=#FFD780FF\u003eSwallow-Wisp Pinion Dance\u003c/color\u003e ครั้งนี้ จะขว้างบ่วงสะบั้นจันทราเพิ่มเติมอีกหนึ่งห่วง\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Four Sealing Divination Charms\" ก่อน",
+                                                                        "description":  "หลังจากทำให้เกิดการแปลงธาตุจากพรสวรรค์เพิ่มเติม \"Four Sealing Divination Charms\" แล้ว เมื่อ Lan Yan ขว้างบ่วงสะบั้นจันทราใส่ศัตรูในสกิลธาตุ Swallow-Wisp Pinion Dance ครั้งนี้ จะขว้างบ่วงสะบั้นจันทราเพิ่มเติมอีกหนึ่งห่วง\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Four Sealing Divination Charms\" ก่อน"
                                                                     }
                                                          },
                                       "elementText":  "ลม",
@@ -6504,8 +6656,8 @@
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "Secret Rosemary Recipe",
-                                                                           "descriptionRaw":  "ช่วงเวลาต่อเนื่องของ {LINK#P1122101}\u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e{/LINK} ยาวนานขึ้น 6 วินาที ในช่วงเวลาต่อเนื่อง เมื่อ \u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e ทำให้เกิดการรักษา จะมีโอกาสที่จะทำให้ปริมาณการรักษาเพิ่มขึ้น 100% และฟื้นฟูพลังงานธาตุให้กับ Escoffier 2 หน่วย โดยโอกาสนี้จะเท่ากับอัตราคริของ Escoffier เอง ในช่วงเวลาต่อเนื่องของ \u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e หนึ่งครั้ง เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 7 ครั้ง\nต้องปลดล็อกพรสวรรค์ติดตัว \"Better to Salivate Than Medicate\" ก่อน",
-                                                                           "description":  "ช่วงเวลาต่อเนื่องของ **Rehab Diet** ยาวนานขึ้น 6 วินาที ในช่วงเวลาต่อเนื่อง เมื่อ Rehab Diet ทำให้เกิดการรักษา จะมีโอกาสที่จะทำให้ปริมาณการรักษาเพิ่มขึ้น 100% และฟื้นฟูพลังงานธาตุให้กับ Escoffier 2 หน่วย โดยโอกาสนี้จะเท่ากับอัตราคริของ Escoffier เอง ในช่วงเวลาต่อเนื่องของ Rehab Diet หนึ่งครั้ง เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 7 ครั้ง\nต้องปลดล็อกพรสวรรค์ติดตัว \"Better to Salivate Than Medicate\" ก่อน"
+                                                                           "descriptionRaw":  "ช่วงเวลาต่อเนื่องของ {LINK#P1122101}\u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e{/LINK} ยาวนานขึ้น 6 วินาที ในช่วงเวลาต่อเนื่อง เมื่อ \u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e ทำให้เกิดการรักษา จะมีโอกาสที่จะทำให้ปริมาณการรักษาเพิ่มขึ้น 100% และฟื้นฟูพลังงานธาตุให้กับ Escoffier 2 หน่วย โดยโอกาสนี้จะเท่ากับอัตราคริของ Escoffier เอง ในช่วงเวลาต่อเนื่องของ \u003ccolor=#FFD780FF\u003eRehab Diet\u003c/color\u003e หนึ่งครั้ง เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 7 ครั้ง\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Better to Salivate Than Medicate\" ก่อน",
+                                                                           "description":  "ช่วงเวลาต่อเนื่องของ **Rehab Diet** ยาวนานขึ้น 6 วินาที ในช่วงเวลาต่อเนื่อง เมื่อ Rehab Diet ทำให้เกิดการรักษา จะมีโอกาสที่จะทำให้ปริมาณการรักษาเพิ่มขึ้น 100% และฟื้นฟูพลังงานธาตุให้กับ Escoffier 2 หน่วย โดยโอกาสนี้จะเท่ากับอัตราคริของ Escoffier เอง ในช่วงเวลาต่อเนื่องของ Rehab Diet หนึ่งครั้ง เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 7 ครั้ง\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Better to Salivate Than Medicate\" ก่อน"
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "The Bakery Magic of Caramel Browning",
@@ -6524,8 +6676,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Pre-Dinner Dance for Your Taste Buds",
-                                                                           "descriptionRaw":  "เมื่อตัวละคร 4 ตัวในทีม มีประเภทของธาตุเป็น\u003ccolor=#80C0FFFF\u003eธาตุน้ำ\u003c/color\u003eหรือ\u003ccolor=#99FFFFFF\u003eธาตุน้ำแข็ง\u003c/color\u003e ภายใน 15 วินาทีหลังจาก Escoffier ใช้สกิลธาตุ \u003ccolor=#FFD780FF\u003e{LINK#S11122}Low-Temperature Cooking{/LINK}\u003c/color\u003e หรือท่าไม้ตาย \u003ccolor=#FFD780FF\u003e{LINK#S11125}Scoring Cuts{/LINK}\u003c/color\u003e ความแรงคริของ\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003eที่ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียงสร้าง จะเพิ่มขึ้น 60%\nต้องปลดล็อกพรสวรรค์ติดตัว \"Inspiration-Immersed Seasoning\" ก่อน",
-                                                                           "description":  "เมื่อตัวละคร 4 ตัวในทีม มีประเภทของธาตุเป็นธาตุน้ำหรือธาตุน้ำแข็ง ภายใน 15 วินาทีหลังจาก Escoffier ใช้สกิลธาตุ **Low-Temperature Cooking** หรือท่าไม้ตาย **Scoring Cuts** ความแรงคริของความเสียหายน้ำแข็งที่ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียงสร้าง จะเพิ่มขึ้น 60%\nต้องปลดล็อกพรสวรรค์ติดตัว \"Inspiration-Immersed Seasoning\" ก่อน"
+                                                                           "descriptionRaw":  "เมื่อตัวละคร 4 ตัวในทีม มีประเภทของธาตุเป็น\u003ccolor=#80C0FFFF\u003eธาตุน้ำ\u003c/color\u003eหรือ\u003ccolor=#99FFFFFF\u003eธาตุน้ำแข็ง\u003c/color\u003e ภายใน 15 วินาทีหลังจาก Escoffier ใช้สกิลธาตุ \u003ccolor=#FFD780FF\u003e{LINK#S11122}Low-Temperature Cooking{/LINK}\u003c/color\u003e หรือท่าไม้ตาย \u003ccolor=#FFD780FF\u003e{LINK#S11125}Scoring Cuts{/LINK}\u003c/color\u003e ความแรงคริของ\u003ccolor=#99FFFFFF\u003eความเสียหายน้ำแข็ง\u003c/color\u003eที่ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียงสร้าง จะเพิ่มขึ้น 60%\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Inspiration-Immersed Seasoning\" ก่อน",
+                                                                           "description":  "เมื่อตัวละคร 4 ตัวในทีม มีประเภทของธาตุเป็นธาตุน้ำหรือธาตุน้ำแข็ง ภายใน 15 วินาทีหลังจาก Escoffier ใช้สกิลธาตุ **Low-Temperature Cooking** หรือท่าไม้ตาย **Scoring Cuts** ความแรงคริของความเสียหายน้ำแข็งที่ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียงสร้าง จะเพิ่มขึ้น 60%\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Inspiration-Immersed Seasoning\" ก่อน"
                                                                        }
                                                             },
                                          "elementText":  "น้ำแข็ง",
@@ -6745,8 +6897,8 @@
                                         "constellations":  {
                                                                "c2":  {
                                                                           "name":  "\"Now, As We Face the Perils of the Long Night\"",
-                                                                          "descriptionRaw":  "เอฟเฟกต์พรสวรรค์ติดตัว \"Dark-Shattering Flame\" ได้รับการเสริมพลัง: หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิด\u003ccolor=#FFACFFFF\u003eปฏิกิริยาเกี่ยวกับธาตุไฟฟ้า\u003c/color\u003eแก่ศัตรู การโจมตีปกติและ \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e ของ Clorinde จะทำให้\u003ccolor=#FFACFFFF\u003eความเสียหายไฟฟ้า\u003c/color\u003eเพิ่มขึ้นตามพลังโจมตี 30% ของ Clorinde เป็นเวลา 15 วินาที เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 3 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน เมื่อมีเอฟเฟกต์นี้ 3 ชั้น ความสามารถในการต้านทานการหยุดชะงักของ Clorinde จะเพิ่มขึ้น ความเสียหายที่เกิดจากการโจมตีของ Clorinde ดังกล่าว จะเพิ่มขึ้นได้สูงสุด 2,700 หน่วย\nต้องปลดล็อกพรสวรรค์ติดตัว \"Dark-Shattering Flame\" ก่อน",
-                                                                          "description":  "เอฟเฟกต์พรสวรรค์ติดตัว \"Dark-Shattering Flame\" ได้รับการเสริมพลัง: หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาเกี่ยวกับธาตุไฟฟ้าแก่ศัตรู การโจมตีปกติและ Last Lightfall ของ Clorinde จะทำให้ความเสียหายไฟฟ้าเพิ่มขึ้นตามพลังโจมตี 30% ของ Clorinde เป็นเวลา 15 วินาที เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 3 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน เมื่อมีเอฟเฟกต์นี้ 3 ชั้น ความสามารถในการต้านทานการหยุดชะงักของ Clorinde จะเพิ่มขึ้น ความเสียหายที่เกิดจากการโจมตีของ Clorinde ดังกล่าว จะเพิ่มขึ้นได้สูงสุด 2,700 หน่วย\nต้องปลดล็อกพรสวรรค์ติดตัว \"Dark-Shattering Flame\" ก่อน"
+                                                                          "descriptionRaw":  "เอฟเฟกต์พรสวรรค์เพิ่มเติม \"Dark-Shattering Flame\" ได้รับการเสริมพลัง: หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิด\u003ccolor=#FFACFFFF\u003eปฏิกิริยาเกี่ยวกับธาตุไฟฟ้า\u003c/color\u003eแก่ศัตรู การโจมตีปกติและ \u003ccolor=#FFD780FF\u003eLast Lightfall\u003c/color\u003e ของ Clorinde จะทำให้\u003ccolor=#FFACFFFF\u003eความเสียหายไฟฟ้า\u003c/color\u003eเพิ่มขึ้นตามพลังโจมตี 30% ของ Clorinde เป็นเวลา 15 วินาที เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 3 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน เมื่อมีเอฟเฟกต์นี้ 3 ชั้น ความสามารถในการต้านทานการหยุดชะงักของ Clorinde จะเพิ่มขึ้น ความเสียหายที่เกิดจากการโจมตีของ Clorinde ดังกล่าว จะเพิ่มขึ้นได้สูงสุด 2,700 หน่วย\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Dark-Shattering Flame\" ก่อน",
+                                                                          "description":  "เอฟเฟกต์พรสวรรค์เพิ่มเติม \"Dark-Shattering Flame\" ได้รับการเสริมพลัง: หลังจากตัวละครในทีมที่อยู่ใกล้เคียง ทำให้เกิดปฏิกิริยาเกี่ยวกับธาตุไฟฟ้าแก่ศัตรู การโจมตีปกติและ Last Lightfall ของ Clorinde จะทำให้ความเสียหายไฟฟ้าเพิ่มขึ้นตามพลังโจมตี 30% ของ Clorinde เป็นเวลา 15 วินาที เอฟเฟกต์นี้สามารถซ้อนทับได้มากสุด 3 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาแยกกัน เมื่อมีเอฟเฟกต์นี้ 3 ชั้น ความสามารถในการต้านทานการหยุดชะงักของ Clorinde จะเพิ่มขึ้น ความเสียหายที่เกิดจากการโจมตีของ Clorinde ดังกล่าว จะเพิ่มขึ้นได้สูงสุด 2,700 หน่วย\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Dark-Shattering Flame\" ก่อน"
                                                                       },
                                                                "c4":  {
                                                                           "name":  "\"To Enshrine Tears, Life, and Love\"",
@@ -6909,8 +7061,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "The Starry Skies Their Flowers Rain",
-                                                                       "descriptionRaw":  "หลังจากที่ตัวละครที่อยู่ภายใต้สภาวะ \"Golden Chalice\u0027s Bounty\" สร้าง\u003ccolor=#80C0FFFF\u003eความเสียหายน้ำ\u003c/color\u003eแก่ศัตรู \u003ccolor=#80C0FFFF\u003eความต้านทานน้ำ\u003c/color\u003eของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที; หลังจากปฏิกิริยางอกเงยหรืองอกเงยจันทราสร้างความเสียหายแก่ศัตรู \u003ccolor=#99FF88FF\u003eความต้านทานไม้\u003c/color\u003eของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที\nต้องปลดล็อกพรสวรรค์ติดตัว \"Court of Dancing Petals\" ก่อน",
-                                                                       "description":  "หลังจากที่ตัวละครที่อยู่ภายใต้สภาวะ \"Golden Chalice\u0027s Bounty\" สร้างความเสียหายน้ำแก่ศัตรู ความต้านทานน้ำของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที; หลังจากปฏิกิริยางอกเงยหรืองอกเงยจันทราสร้างความเสียหายแก่ศัตรู ความต้านทานไม้ของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที\nต้องปลดล็อกพรสวรรค์ติดตัว \"Court of Dancing Petals\" ก่อน"
+                                                                       "descriptionRaw":  "หลังจากที่ตัวละครที่อยู่ภายใต้สภาวะ \"Golden Chalice\u0027s Bounty\" สร้าง\u003ccolor=#80C0FFFF\u003eความเสียหายน้ำ\u003c/color\u003eแก่ศัตรู \u003ccolor=#80C0FFFF\u003eความต้านทานน้ำ\u003c/color\u003eของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที; หลังจากปฏิกิริยางอกเงยหรืองอกเงยจันทราสร้างความเสียหายแก่ศัตรู \u003ccolor=#99FF88FF\u003eความต้านทานไม้\u003c/color\u003eของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Court of Dancing Petals\" ก่อน",
+                                                                       "description":  "หลังจากที่ตัวละครที่อยู่ภายใต้สภาวะ \"Golden Chalice\u0027s Bounty\" สร้างความเสียหายน้ำแก่ศัตรู ความต้านทานน้ำของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที; หลังจากปฏิกิริยางอกเงยหรืองอกเงยจันทราสร้างความเสียหายแก่ศัตรู ความต้านทานไม้ของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Court of Dancing Petals\" ก่อน"
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Fricative Pulse",
@@ -6950,8 +7102,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Muzzle, the Searing Smoke",
-                                                                        "descriptionRaw":  "เมื่อ Chasca เข้าสู่สนาม จะได้รับ \"จิตสำแดง\" ของพรสวรรค์ติดตัว \"Bullet Trick\" หนึ่งชั้น เอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Bullet Trick\" ก่อน\nนอกจากนี้ เมื่อปล่อย\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003eในสกิลธาตุ \u003ccolor=#FFD780FF\u003eSpirit Reins, Shadow Hunt\u003c/color\u003e เมื่อ\u003ccolor=#FFD780FF\u003eกระสุนล่าเงาเรืองแสง\u003c/color\u003eของ Chasca โจมตีโดนศัตรู จะสร้างความเสียหายวงกว้างของธาตุที่เกี่ยวข้อง 400% ของพลังโจมตีของ Chasca โดยอิงตามประเภทธาตุของ\u003ccolor=#FFD780FF\u003eกระสุนล่าเงาเรืองแสง\u003c/color\u003e ซึ่งความเสียหายนี้จะนับเป็นความเสียหายชาร์จโจมตี ทุกครั้งที่ใช้\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003e จะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้ง",
-                                                                        "description":  "เมื่อ Chasca เข้าสู่สนาม จะได้รับ \"จิตสำแดง\" ของพรสวรรค์ติดตัว \"Bullet Trick\" หนึ่งชั้น เอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์ติดตัว \"Bullet Trick\" ก่อน\nนอกจากนี้ เมื่อปล่อยโหมดเล็งหลายชั้นในสกิลธาตุ Spirit Reins, Shadow Hunt เมื่อกระสุนล่าเงาเรืองแสงของ Chasca โจมตีโดนศัตรู จะสร้างความเสียหายวงกว้างของธาตุที่เกี่ยวข้อง 400% ของพลังโจมตีของ Chasca โดยอิงตามประเภทธาตุของกระสุนล่าเงาเรืองแสง ซึ่งความเสียหายนี้จะนับเป็นความเสียหายชาร์จโจมตี ทุกครั้งที่ใช้โหมดเล็งหลายชั้น จะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้ง"
+                                                                        "descriptionRaw":  "เมื่อ Chasca เข้าสู่สนาม จะได้รับ \"จิตสำแดง\" ของพรสวรรค์เพิ่มเติม \"Bullet Trick\" หนึ่งชั้น เอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Bullet Trick\" ก่อน\nนอกจากนี้ เมื่อปล่อย\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003eในสกิลธาตุ \u003ccolor=#FFD780FF\u003eSpirit Reins, Shadow Hunt\u003c/color\u003e เมื่อ\u003ccolor=#FFD780FF\u003eกระสุนล่าเงาเรืองแสง\u003c/color\u003eของ Chasca โจมตีโดนศัตรู จะสร้างความเสียหายวงกว้างของธาตุที่เกี่ยวข้อง 400% ของพลังโจมตีของ Chasca โดยอิงตามประเภทธาตุของ\u003ccolor=#FFD780FF\u003eกระสุนล่าเงาเรืองแสง\u003c/color\u003e ซึ่งความเสียหายนี้จะนับเป็นความเสียหายชาร์จโจมตี ทุกครั้งที่ใช้\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003e จะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้ง",
+                                                                        "description":  "เมื่อ Chasca เข้าสู่สนาม จะได้รับ \"จิตสำแดง\" ของพรสวรรค์เพิ่มเติม \"Bullet Trick\" หนึ่งชั้น เอฟเฟกต์นี้ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Bullet Trick\" ก่อน\nนอกจากนี้ เมื่อปล่อยโหมดเล็งหลายชั้นในสกิลธาตุ Spirit Reins, Shadow Hunt เมื่อกระสุนล่าเงาเรืองแสงของ Chasca โจมตีโดนศัตรู จะสร้างความเสียหายวงกว้างของธาตุที่เกี่ยวข้อง 400% ของพลังโจมตีของ Chasca โดยอิงตามประเภทธาตุของกระสุนล่าเงาเรืองแสง ซึ่งความเสียหายนี้จะนับเป็นความเสียหายชาร์จโจมตี ทุกครั้งที่ใช้โหมดเล็งหลายชั้น จะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้ง"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Sparks, the Sudden Shot",
@@ -6970,13 +7122,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Showdown, the Glory of Battle",
-                                                                        "descriptionRaw":  "ช่วงเวลาที่จำเป็นสำหรับชาร์จ\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003eของ Chasca จะลดลง และหลังจากทำให้เกิด \"จิตแปรผัน\" ของพรสวรรค์ติดตัว \"Bullet Trick\" แล้ว Chasca จะได้รับสถานะ \"Fatal Round\" และภายใน 3 วินาทีหลังจากนั้น ครั้งถัดไปที่ Chasca ใช้\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003eในสกิลธาตุ \u003ccolor=#FFD780FF\u003eSpirit Reins, Shadow Hunt\u003c/color\u003e การชาร์จจะเสร็จสิ้นทันที และความแรงคริของ\u003ccolor=#FFD780FF\u003eกระสุนล่าเงา\u003c/color\u003eกับ\u003ccolor=#FFD780FF\u003eกระสุนล่าเงาเรืองแสง\u003c/color\u003e ใน\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003eครั้งนี้จะเพิ่มขึ้น 120% และจะได้รับเอฟเฟกต์ \"Fatal Round\" มากสุดหนึ่งครั้ง ในทุก 3 วินาที\n\nเอฟเฟกต์ดังกล่าว ต้องปลดล็อกพรสวรรค์ติดตัว \"Bullet Trick\" ก่อน",
-                                                                        "description":  "ช่วงเวลาที่จำเป็นสำหรับชาร์จโหมดเล็งหลายชั้นของ Chasca จะลดลง และหลังจากทำให้เกิด \"จิตแปรผัน\" ของพรสวรรค์ติดตัว \"Bullet Trick\" แล้ว Chasca จะได้รับสถานะ \"Fatal Round\" และภายใน 3 วินาทีหลังจากนั้น ครั้งถัดไปที่ Chasca ใช้โหมดเล็งหลายชั้นในสกิลธาตุ Spirit Reins, Shadow Hunt การชาร์จจะเสร็จสิ้นทันที และความแรงคริของกระสุนล่าเงากับกระสุนล่าเงาเรืองแสง ในโหมดเล็งหลายชั้นครั้งนี้จะเพิ่มขึ้น 120% และจะได้รับเอฟเฟกต์ \"Fatal Round\" มากสุดหนึ่งครั้ง ในทุก 3 วินาที\n\nเอฟเฟกต์ดังกล่าว ต้องปลดล็อกพรสวรรค์ติดตัว \"Bullet Trick\" ก่อน"
+                                                                        "descriptionRaw":  "ช่วงเวลาที่จำเป็นสำหรับชาร์จ\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003eของ Chasca จะลดลง และหลังจากทำให้เกิด \"จิตแปรผัน\" ของพรสวรรค์เพิ่มเติม \"Bullet Trick\" แล้ว Chasca จะได้รับสถานะ \"Fatal Rounds\" และภายใน 3 วินาทีหลังจากนั้น ครั้งถัดไปที่ Chasca ใช้\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003eในสกิลธาตุ \u003ccolor=#FFD780FF\u003eSpirit Reins, Shadow Hunt\u003c/color\u003e การชาร์จจะเสร็จสิ้นทันที และความแรงคริของ\u003ccolor=#FFD780FF\u003eกระสุนล่าเงา\u003c/color\u003eกับ\u003ccolor=#FFD780FF\u003eกระสุนล่าเงาเรืองแสง\u003c/color\u003e ใน\u003ccolor=#FFD780FF\u003eโหมดเล็งหลายชั้น\u003c/color\u003eครั้งนี้จะเพิ่มขึ้น 120% และจะได้รับเอฟเฟกต์ \"Fatal Rounds\" มากสุดหนึ่งครั้ง ในทุก 3 วินาที\n\nเอฟเฟกต์ดังกล่าว ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Bullet Trick\" ก่อน",
+                                                                        "description":  "ช่วงเวลาที่จำเป็นสำหรับชาร์จโหมดเล็งหลายชั้นของ Chasca จะลดลง และหลังจากทำให้เกิด \"จิตแปรผัน\" ของพรสวรรค์เพิ่มเติม \"Bullet Trick\" แล้ว Chasca จะได้รับสถานะ \"Fatal Rounds\" และภายใน 3 วินาทีหลังจากนั้น ครั้งถัดไปที่ Chasca ใช้โหมดเล็งหลายชั้นในสกิลธาตุ Spirit Reins, Shadow Hunt การชาร์จจะเสร็จสิ้นทันที และความแรงคริของกระสุนล่าเงากับกระสุนล่าเงาเรืองแสง ในโหมดเล็งหลายชั้นครั้งนี้จะเพิ่มขึ้น 120% และจะได้รับเอฟเฟกต์ \"Fatal Rounds\" มากสุดหนึ่งครั้ง ในทุก 3 วินาที\n\nเอฟเฟกต์ดังกล่าว ต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Bullet Trick\" ก่อน"
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Cylinder, the Restless Roulette",
-                                                                        "descriptionRaw":  "เมื่อทำให้เกิด \"จิตแปรผัน\" ของพรสวรรค์ติดตัว \"Bullet Trick\" จะทำให้\u003ccolor=#FFD780FF\u003eกระสุนล่าเงา\u003c/color\u003eนัดที่สองที่โหลดลงลูกโม่ เปลี่ยนเป็น\u003ccolor=#FFD780FF\u003eกระสุนล่าเงาเรืองแสง\u003c/color\u003e\nโอกาสทำให้เกิด \"จิตแปรผัน\" จะเพิ่มขึ้น: หากมีตัวละครที่มีประเภทธาตุที่ตรงตามเงื่อนไขการเปลี่ยนแปลงธาตุอยู่ในทีม จะทำให้โอกาสเกิด \"จิตแปรผัน\" เพิ่มขึ้น 33.3% โดยเพิ่มได้สูงสุดถึง 100%\n\nต้องปลดล็อกพรสวรรค์ติดตัว \"Bullet Trick\" ก่อน\nนอกจากนี้ เมื่อไม่ได้อยู่ในสถานะต่อสู้ ค่าวิญญาณราตรีและโฟลจิสตันที่ใช้ในสถานะพรวิญญาณราตรีของ Chasca จะลดลง 30%",
-                                                                        "description":  "เมื่อทำให้เกิด \"จิตแปรผัน\" ของพรสวรรค์ติดตัว \"Bullet Trick\" จะทำให้กระสุนล่าเงานัดที่สองที่โหลดลงลูกโม่ เปลี่ยนเป็นกระสุนล่าเงาเรืองแสง\nโอกาสทำให้เกิด \"จิตแปรผัน\" จะเพิ่มขึ้น: หากมีตัวละครที่มีประเภทธาตุที่ตรงตามเงื่อนไขการเปลี่ยนแปลงธาตุอยู่ในทีม จะทำให้โอกาสเกิด \"จิตแปรผัน\" เพิ่มขึ้น 33.3% โดยเพิ่มได้สูงสุดถึง 100%\n\nต้องปลดล็อกพรสวรรค์ติดตัว \"Bullet Trick\" ก่อน\nนอกจากนี้ เมื่อไม่ได้อยู่ในสถานะต่อสู้ ค่าวิญญาณราตรีและโฟลจิสตันที่ใช้ในสถานะพรวิญญาณราตรีของ Chasca จะลดลง 30%"
+                                                                        "descriptionRaw":  "เมื่อทำให้เกิด \"จิตแปรผัน\" ของพรสวรรค์เพิ่มเติม \"Bullet Trick\" จะทำให้\u003ccolor=#FFD780FF\u003eกระสุนล่าเงา\u003c/color\u003eนัดที่สองที่โหลดลงลูกโม่ เปลี่ยนเป็น\u003ccolor=#FFD780FF\u003eกระสุนล่าเงาเรืองแสง\u003c/color\u003e\nโอกาสทำให้เกิด \"จิตแปรผัน\" จะเพิ่มขึ้น: หากมีตัวละครที่มีประเภทธาตุที่ตรงตามเงื่อนไขการเปลี่ยนแปลงธาตุอยู่ในทีม จะทำให้โอกาสเกิด \"จิตแปรผัน\" เพิ่มขึ้น 33.3% โดยเพิ่มได้สูงสุดถึง 100%\n\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Bullet Trick\" ก่อน\nนอกจากนี้ เมื่อไม่ได้อยู่ในสถานะต่อสู้ ค่าวิญญาณราตรีและโฟลจิสตันที่ใช้ในสถานะพรวิญญาณราตรีของ Chasca จะลดลง 30%",
+                                                                        "description":  "เมื่อทำให้เกิด \"จิตแปรผัน\" ของพรสวรรค์เพิ่มเติม \"Bullet Trick\" จะทำให้กระสุนล่าเงานัดที่สองที่โหลดลงลูกโม่ เปลี่ยนเป็นกระสุนล่าเงาเรืองแสง\nโอกาสทำให้เกิด \"จิตแปรผัน\" จะเพิ่มขึ้น: หากมีตัวละครที่มีประเภทธาตุที่ตรงตามเงื่อนไขการเปลี่ยนแปลงธาตุอยู่ในทีม จะทำให้โอกาสเกิด \"จิตแปรผัน\" เพิ่มขึ้น 33.3% โดยเพิ่มได้สูงสุดถึง 100%\n\nต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Bullet Trick\" ก่อน\nนอกจากนี้ เมื่อไม่ได้อยู่ในสถานะต่อสู้ ค่าวิญญาณราตรีและโฟลจิสตันที่ใช้ในสถานะพรวิญญาณราตรีของ Chasca จะลดลง 30%"
                                                                     }
                                                          },
                                       "elementText":  "ลม",
@@ -10222,6 +10374,53 @@
                                                     },
                                              "effectName":  "Composed"
                                          },
+                    "reliquaryoftruth":  {
+                                             "r3":  {
+                                                        "description":  "อัตราคริเพิ่มขึ้น 12%; เมื่อใช้สกิลธาตุ ผู้สวมใส่จะได้รับเอฟเฟกต์ \"Secret of Lies\": ความชำนาญธาตุเพิ่มขึ้น 120 หน่วย เป็นเวลา 12 วินาที และเมื่อผู้สวมใส่สร้างความเสียหายปฏิกิริยางอกเงยจันทราแก่ศัตรู จะได้รับเอฟเฟกต์ \"Moon of Truth\": ความแรงคริเพิ่มขึ้น 36% เป็นเวลา 4 วินาที เมื่อมีเอฟเฟกต์ \"Secret of Lies\" และเอฟเฟกต์ \"Moon of Truth\" พร้อมกัน เอฟเฟกต์เหล่านี้จะเพิ่มขึ้น 50%",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "120",
+                                                                       "36%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "อัตราคริเพิ่มขึ้น 16%; เมื่อใช้สกิลธาตุ ผู้สวมใส่จะได้รับเอฟเฟกต์ \"Secret of Lies\": ความชำนาญธาตุเพิ่มขึ้น 160 หน่วย เป็นเวลา 12 วินาที และเมื่อผู้สวมใส่สร้างความเสียหายปฏิกิริยางอกเงยจันทราแก่ศัตรู จะได้รับเอฟเฟกต์ \"Moon of Truth\": ความแรงคริเพิ่มขึ้น 48% เป็นเวลา 4 วินาที เมื่อมีเอฟเฟกต์ \"Secret of Lies\" และเอฟเฟกต์ \"Moon of Truth\" พร้อมกัน เอฟเฟกต์เหล่านี้จะเพิ่มขึ้น 50%",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "160",
+                                                                       "48%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "อัตราคริเพิ่มขึ้น 10%; เมื่อใช้สกิลธาตุ ผู้สวมใส่จะได้รับเอฟเฟกต์ \"Secret of Lies\": ความชำนาญธาตุเพิ่มขึ้น 100 หน่วย เป็นเวลา 12 วินาที และเมื่อผู้สวมใส่สร้างความเสียหายปฏิกิริยางอกเงยจันทราแก่ศัตรู จะได้รับเอฟเฟกต์ \"Moon of Truth\": ความแรงคริเพิ่มขึ้น 30% เป็นเวลา 4 วินาที เมื่อมีเอฟเฟกต์ \"Secret of Lies\" และเอฟเฟกต์ \"Moon of Truth\" พร้อมกัน เอฟเฟกต์เหล่านี้จะเพิ่มขึ้น 50%",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "100",
+                                                                       "30%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "อัตราคริเพิ่มขึ้น 14%; เมื่อใช้สกิลธาตุ ผู้สวมใส่จะได้รับเอฟเฟกต์ \"Secret of Lies\": ความชำนาญธาตุเพิ่มขึ้น 140 หน่วย เป็นเวลา 12 วินาที และเมื่อผู้สวมใส่สร้างความเสียหายปฏิกิริยางอกเงยจันทราแก่ศัตรู จะได้รับเอฟเฟกต์ \"Moon of Truth\": ความแรงคริเพิ่มขึ้น 42% เป็นเวลา 4 วินาที เมื่อมีเอฟเฟกต์ \"Secret of Lies\" และเอฟเฟกต์ \"Moon of Truth\" พร้อมกัน เอฟเฟกต์เหล่านี้จะเพิ่มขึ้น 50%",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "140",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "ความแรงคริ",
+                                             "weaponText":  "สื่อเวท",
+                                             "name":  "Reliquary of Truth",
+                                             "effectTemplateRaw":  "อัตราคริเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e; เมื่อใช้สกิลธาตุ ผู้สวมใส่จะได้รับเอฟเฟกต์ \"Secret of Lies\": ความชำนาญธาตุเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e หน่วย เป็นเวลา 12 วินาที และเมื่อผู้สวมใส่สร้างความเสียหายปฏิกิริยางอกเงยจันทราแก่ศัตรู จะได้รับเอฟเฟกต์ \"Moon of Truth\": ความแรงคริเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e เป็นเวลา 4 วินาที เมื่อมีเอฟเฟกต์ \"Secret of Lies\" และเอฟเฟกต์ \"Moon of Truth\" พร้อมกัน เอฟเฟกต์เหล่านี้จะเพิ่มขึ้น 50%",
+                                             "r1":  {
+                                                        "description":  "อัตราคริเพิ่มขึ้น 8%; เมื่อใช้สกิลธาตุ ผู้สวมใส่จะได้รับเอฟเฟกต์ \"Secret of Lies\": ความชำนาญธาตุเพิ่มขึ้น 80 หน่วย เป็นเวลา 12 วินาที และเมื่อผู้สวมใส่สร้างความเสียหายปฏิกิริยางอกเงยจันทราแก่ศัตรู จะได้รับเอฟเฟกต์ \"Moon of Truth\": ความแรงคริเพิ่มขึ้น 24% เป็นเวลา 4 วินาที เมื่อมีเอฟเฟกต์ \"Secret of Lies\" และเอฟเฟกต์ \"Moon of Truth\" พร้อมกัน เอฟเฟกต์เหล่านี้จะเพิ่มขึ้น 50%",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "80",
+                                                                       "24%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Essence of Falsity"
+                                         },
                     "keyofkhajnisut":  {
                                            "r3":  {
                                                       "description":  "ค่าพลังชีวิตเพิ่มขึ้น 30% และเมื่อสกิลธาตุถูกศัตรู จะทำให้เกิดเอฟเฟกต์ Grand Hymn เป็นเวลา 20 วินาที: จะได้รับความชำนาญธาตุเพิ่ม 0.18% ของพลังชีวิตสูงสุดของผู้ใช้ โดยที่ทุก 0.3 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง และจะซ้อนทับได้มากสุด 3 ชั้น ซึ่งเมื่อเอฟเฟกต์นี้ ซ้อนทับกันถึง 3 ชั้น หรือเมื่อช่วงเวลาต่อเนื่องของทั้ง 3 ชั้น ถูกรีเฟรช จะเพิ่มความชำนาญธาตุให้แก่ตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง 0.3% ของพลังชีวิตสูงสุดของผู้ใช้ เป็นเวลา 20 วินาที",
@@ -11715,6 +11914,48 @@
                                                    },
                                             "effectName":  "Smoke-and-Mirror Mystery"
                                         },
+                    "dawningfrost":  {
+                                         "r3":  {
+                                                    "description":  "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 108 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 72 หน่วย",
+                                                    "values":  [
+                                                                   "108",
+                                                                   "72"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 144 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 96 หน่วย",
+                                                    "values":  [
+                                                                   "144",
+                                                                   "96"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 90 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 60 หน่วย",
+                                                    "values":  [
+                                                                   "90",
+                                                                   "60"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 126 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 84 หน่วย",
+                                                    "values":  [
+                                                                   "126",
+                                                                   "84"
+                                                               ]
+                                                },
+                                         "substatText":  "ความแรงคริ",
+                                         "weaponText":  "สื่อเวท",
+                                         "name":  "Dawning Frost",
+                                         "effectTemplateRaw":  "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e หน่วย",
+                                         "r1":  {
+                                                    "description":  "ภายใน 10 วินาที หลังจากที่การชาร์จโจมตีถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 72 หน่วย; ภายใน 10 วินาที หลังจากที่สกิลธาตุถูกศัตรู ความชำนาญธาตุจะเพิ่มขึ้น 48 หน่วย",
+                                                    "values":  [
+                                                                   "72",
+                                                                   "48"
+                                                               ]
+                                                },
+                                         "effectName":  "Nocturnal Dreams"
+                                     },
                     "cinnabarspindle":  {
                                             "r3":  {
                                                        "description":  "เพิ่มความเสียหายของสกิลธาตุ โดยปริมาณที่เพิ่มจะเป็น 60% ของพลังป้องกัน ซึ่งเอฟเฟกต์นี้ จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 1.5 วินาที และจะหายไปหลังจากสกิลธาตุสร้างความเสียหายแล้ว 0.1 วินาที",
@@ -12653,6 +12894,48 @@
                                               },
                                        "effectName":  "Blunt Conclusion"
                                    },
+                    "sacrificersstaff":  {
+                                             "r3":  {
+                                                        "description":  "ภายใน 6 วินาที หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 12% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 9% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "9%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "ภายใน 6 วินาที หลังจากที่สกิลธาตุโจมตีถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 16% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 12% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "12%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "ภายใน 6 วินาที หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 10% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 7.5% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "7.5%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "ภายใน 6 วินาที หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 14% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 10.5% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "10.5%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "อัตราคริ",
+                                             "weaponText":  "หอก",
+                                             "name":  "Sacrificer\u0027s Staff",
+                                             "effectTemplateRaw":  "ภายใน 6 วินาที หลังจากที่สกิลธาตุโจมตีถูกศัตรู พลังโจมตีจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                             "r1":  {
+                                                        "description":  "ภายใน 6 วินาที หลังจากที่สกิลธาตุถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 8% และประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 6% โดยเอฟเฟกต์นี้จะซ้อนทับได้มากสุด 3 ชั้น และจะยังคงเกิดขึ้นได้ แม้ผู้สวมใส่จะอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "6%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Untainted Desire"
+                                         },
                     "flowingpurity":  {
                                           "r3":  {
                                                      "description":  "เมื่อใช้สกิลธาตุ โบนัสความเสียหายธาตุทั้งหมดจะเพิ่มขึ้น 12% เป็นเวลา 15 วินาที และได้รับ \"บ่วงพันธะชีวัน\" ที่มีค่า 24% ของพลังชีวิตสูงสุด โดยที่เอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 10 วินาที เมื่อ \"บ่วงพันธะชีวัน\" ถูกลบล้าง โบนัสความเสียหายธาตุทั้งหมดจะเพิ่มขึ้น 3% ทุก 1000 หน่วย ของปริมาณที่ลบล้าง เป็นเวลา 15 วินาที ด้วยวิธีนี้ โบนัสความเสียหายธาตุทั้งหมดจะเพิ่มขึ้นสูงสุดไม่เกิน 18%",
@@ -17080,6 +17363,10 @@
                                                },
                     "bubblerseahorse":  {
                                             "name":  "Bubbler Seahorse",
+                                            "specialname":  null
+                                        },
+                    "frostnightherra":  {
+                                            "name":  "Frostnight Herra",
                                             "specialname":  null
                                         },
                     "bitingcoldwayobmanifestation":  {

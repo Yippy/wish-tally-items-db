@@ -27,14 +27,6 @@
                                                                                "Sonntag"
                                                                            ]
                                                         },
-                    "domainofforgerysubmergedvalleyi":  {
-                                                            "entranceName":  "Ceciliagarten",
-                                                            "daysofweek":  [
-                                                                               "Dienstag",
-                                                                               "Freitag",
-                                                                               "Sonntag"
-                                                                           ]
-                                                        },
                     "domainofmasteryfullmooni":  {
                                                      "entranceName":  "Turm der Bewusstseinsschwäche",
                                                      "daysofweek":  [
@@ -99,6 +91,14 @@
                                                                       "Sonntag"
                                                                   ]
                                                },
+                    "domainofmasteryfallencityi":  {
+                                                       "entranceName":  "Vom Licht verlassene Hauptstadt",
+                                                       "daysofweek":  [
+                                                                          "Montag",
+                                                                          "Donnerstag",
+                                                                          "Sonntag"
+                                                                      ]
+                                                   },
                     "domainofforgeryartisanshipi":  {
                                                         "entranceName":  "Echos tiefer Strömung",
                                                         "daysofweek":  [
@@ -163,14 +163,14 @@
                                                                                  "Sonntag"
                                                                              ]
                                                           },
-                    "domainofforgerysandburiali":  {
-                                                       "entranceName":  "Garten der fließenden Sande",
-                                                       "daysofweek":  [
-                                                                          "Mittwoch",
-                                                                          "Samstag",
-                                                                          "Sonntag"
-                                                                      ]
-                                                   },
+                    "domainofforgerysubmergedvalleyi":  {
+                                                            "entranceName":  "Ceciliagarten",
+                                                            "daysofweek":  [
+                                                                               "Dienstag",
+                                                                               "Freitag",
+                                                                               "Sonntag"
+                                                                           ]
+                                                        },
                     "domainofmasterychimingrecitationi":  {
                                                               "entranceName":  "Verblasste Herrlichkeit",
                                                               "daysofweek":  [
@@ -235,6 +235,30 @@
                                                                             "Sonntag"
                                                                         ]
                                                      },
+                    "domainofforgerysandburiali":  {
+                                                       "entranceName":  "Garten der fließenden Sande",
+                                                       "daysofweek":  [
+                                                                          "Mittwoch",
+                                                                          "Samstag",
+                                                                          "Sonntag"
+                                                                      ]
+                                                   },
+                    "domainofforgeryprayerssungi":  {
+                                                        "entranceName":  "Verlorener Mondhof",
+                                                        "daysofweek":  [
+                                                                           "Dienstag",
+                                                                           "Freitag",
+                                                                           "Sonntag"
+                                                                       ]
+                                                    },
+                    "domainofmasteryoverturnedroosti":  {
+                                                            "entranceName":  "Vom Licht verlassene Hauptstadt",
+                                                            "daysofweek":  [
+                                                                               "Mittwoch",
+                                                                               "Samstag",
+                                                                               "Sonntag"
+                                                                           ]
+                                                        },
                     "domainofforgeryscryingshadowsi":  {
                                                            "entranceName":  "Uralter Ausguck",
                                                            "daysofweek":  [
@@ -275,6 +299,14 @@
                                                                                  "Sonntag"
                                                                              ]
                                                           },
+                    "domainofmasteryshadowedlegacyi":  {
+                                                           "entranceName":  "Vom Licht verlassene Hauptstadt",
+                                                           "daysofweek":  [
+                                                                              "Dienstag",
+                                                                              "Freitag",
+                                                                              "Sonntag"
+                                                                          ]
+                                                       },
                     "domainofmasteryadmonishingengravingi":  {
                                                                  "entranceName":  "Verblasste Herrlichkeit",
                                                                  "daysofweek":  [
@@ -283,6 +315,14 @@
                                                                                     "Sonntag"
                                                                                 ]
                                                              },
+                    "domainofforgeryradiantsplendori":  {
+                                                            "entranceName":  "Verlorener Mondhof",
+                                                            "daysofweek":  [
+                                                                               "Montag",
+                                                                               "Donnerstag",
+                                                                               "Sonntag"
+                                                                           ]
+                                                        },
                     "domainofforgeryattentiveobservationi":  {
                                                                  "entranceName":  "Uralter Ausguck",
                                                                  "daysofweek":  [
@@ -293,18 +333,21 @@
                                                              }
                 },
     "materials":  {
+                      "sunsettia":  {
+                                        "name":  "Dämmerfrucht"
+                                    },
                       "sandbearerwood":  {
                                              "name":  "Dürrsandholz"
                                          },
-                      "cultivationareaexpansionii":  {
-                                                         "name":  "Erweiterung des Anbaubereichs II"
-                                                     },
+                      "mora":  {
+                                   "name":  "Mora"
+                               },
                       "varunadalazuritesliver":  {
                                                      "name":  "Varunada-Lasurit-Splitter"
                                                  },
-                      "birchwood":  {
-                                        "name":  "Birkenholz"
-                                    },
+                      "guidetofreedom":  {
+                                             "name":  "Anleitung zur „Freiheit“"
+                                         },
                       "improvedalchemycauldronii":  {
                                                         "name":  "Verbesserter Alchimiekessel II"
                                                     },
@@ -341,9 +384,9 @@
                       "ainostoolboxempty":  {
                                                 "name":  "Ainos Werkzeugkasten (leer)"
                                             },
-                      "sheathofthesecretsource":  {
-                                                      "name":  "Geheimquellen-Gehäuse"
-                                                  },
+                      "electroculus":  {
+                                           "name":  "Verlorener Elektroculus"
+                                       },
                       "flashingmaintenancemekbait":  {
                                                          "name":  "Unterstützungs-Mecha-Leuchtköder"
                                                      },
@@ -359,6 +402,9 @@
                       "brownshirakodai":  {
                                               "name":  "Brauner Schmetterlingsfisch"
                                           },
+                      "geoculus":  {
+                                       "name":  "Verlorener Geoculus"
+                                   },
                       "philosophiesofjustice":  {
                                                     "name":  "Philosophie der „Gerechtigkeit“"
                                                 },
@@ -440,9 +486,9 @@
                       "shardofashatteredwill":  {
                                                     "name":  "Fragment des zersplitterten Willens"
                                                 },
-                      "brilliantdiamondchunk":  {
-                                                    "name":  "Brillantbrocken"
-                                                },
+                      "dragonheirsfalsefin":  {
+                                                  "name":  "Falsche Flosse der Drachennachfahren"
+                                              },
                       "yellowobsidianring":  {
                                                  "name":  "Hellgelber Obsidian-Ring"
                                              },
@@ -455,6 +501,9 @@
                       "springofpuresacreddewdrop":  {
                                                         "name":  "Quelle reinen heiligen Taus"
                                                     },
+                      "radiantantler":  {
+                                            "name":  "Strahlendes Geweih"
+                                        },
                       "loachpearl":  {
                                          "name":  "Lurchperle"
                                      },
@@ -563,6 +612,9 @@
                       "brilliantdiamondsliver":  {
                                                      "name":  "Brillantsplitter"
                                                  },
+                      "lumenspar":  {
+                                        "name":  "Lumenkristall"
+                                    },
                       "zaytunpeach":  {
                                           "name":  "Zaytun-Pfirsich"
                                       },
@@ -623,6 +675,9 @@
                       "aureateradianceofthefarnorthscions":  {
                                                                  "name":  "Strahlender Glanz der Nachkommen des hohen Nordens"
                                                              },
+                      "pyroculus":  {
+                                        "name":  "Verlorener Pyroculus"
+                                    },
                       "dakasbell":  {
                                         "name":  "Schelle der Leere"
                                     },
@@ -869,6 +924,9 @@
                       "witheringpurpurbloom":  {
                                                    "name":  "Verwelkte Purpurblüte"
                                                },
+                      "lunoculus":  {
+                                        "name":  "Verlorener Mond-Oculus"
+                                    },
                       "cakefortraveler":  {
                                               "name":  "#Torte für {F#die Reisende}{M#den Reisenden}"
                                           },
@@ -899,6 +957,9 @@
                       "shuttleofodara":  {
                                              "name":  "Weberschiffchen von Odara"
                                          },
+                      "lazuriteaxemarlin":  {
+                                                "name":  "Lasurit-Axt-Marlin"
+                                            },
                       "northlandercatalystbillet":  {
                                                         "name":  "Unbearbeiteter Katalysator des Nordens"
                                                     },
@@ -1013,9 +1074,6 @@
                       "shivadajadesliver":  {
                                                 "name":  "Shivada-Jade-Splitter"
                                             },
-                      "guidetofreedom":  {
-                                             "name":  "Anleitung zur „Freiheit“"
-                                         },
                       "heartofthesecretsource":  {
                                                      "name":  "Geheimquellen-Kern"
                                                  },
@@ -1163,6 +1221,9 @@
                       "tourbillondevice":  {
                                                "name":  "„Tourbillon-Apparat“"
                                            },
+                      "chronicleexp":  {
+                                           "name":  "Chronik-EP"
+                                       },
                       "maintenancemekinitialconfiguration":  {
                                                                  "name":  "Unterstützungs-Mecha – Grundtyp"
                                                              },
@@ -1214,6 +1275,9 @@
                       "cultivationareaexpansioniv":  {
                                                          "name":  "Erweiterung des Anbaubereichs IV"
                                                      },
+                      "crimsonagatedisplay":  {
+                                                  "name":  "Blutroter Achat (nur Ansicht)"
+                                              },
                       "shivadajadechunk":  {
                                                "name":  "Shivada-Jade-Brocken"
                                            },
@@ -1319,6 +1383,9 @@
                       "teachingsofequity":  {
                                                 "name":  "Lehren der „Fairness“"
                                             },
+                      "dendroculus":  {
+                                          "name":  "Verlorener Dendroculus"
+                                      },
                       "guidetoconflict":  {
                                               "name":  "Anleitung zur „Zwietracht“"
                                           },
@@ -1367,6 +1434,9 @@
                       "unfadingsilkygrace":  {
                                                  "name":  "„Unvergängliche seidige Anmut“"
                                              },
+                      "spiritcarp":  {
+                                         "name":  "Geister-Karpfen"
+                                     },
                       "ironchunk":  {
                                         "name":  "Brocken Eisen"
                                     },
@@ -1388,9 +1458,12 @@
                       "scorchedstarshroom":  {
                                                  "name":  "Verbrannter Sternpilz"
                                              },
-                      "sunsettia":  {
-                                        "name":  "Dämmerfrucht"
-                                    },
+                      "keysigil":  {
+                                       "name":  "Schlüsselmuster"
+                                   },
+                      "anemoculus":  {
+                                         "name":  "Verlorener Anemoculus"
+                                     },
                       "prithivatopazfragment":  {
                                                     "name":  "Prithiva-Topas-Bruchstück"
                                                 },
@@ -1400,6 +1473,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Narukamis Weisheit"
                                           },
+                      "lumenstoneore":  {
+                                            "name":  "Lumensteinerz"
+                                        },
                       "dustofenlightenment":  {
                                                   "name":  "Staub der Erleuchtung"
                                               },
@@ -1424,9 +1500,9 @@
                       "empowereddragontooth":  {
                                                    "name":  "Von Kraft durchdrungener Drachenzahn"
                                                },
-                      "keysigil":  {
-                                       "name":  "Schlüsselmuster"
-                                   },
+                      "chroniclesoftherealms":  {
+                                                    "name":  "Chroniken der Reiche"
+                                                },
                       "goldenbranchofadistantsea":  {
                                                         "name":  "Goldzweig eines fernen Meeres"
                                                     },
@@ -1616,6 +1692,9 @@
                       "teachingsoftransience":  {
                                                     "name":  "Lehren der „Vergänglichkeit“"
                                                 },
+                      "dandelionbookmark":  {
+                                                "name":  "Löwenzahn-Lesezeichen"
+                                            },
                       "riftcore":  {
                                        "name":  "Risskern"
                                    },
@@ -1628,9 +1707,9 @@
                       "winegobletofthepristinesea":  {
                                                          "name":  "Weinkelch des unberührten Meers"
                                                      },
-                      "sugar":  {
-                                    "name":  "Zucker"
-                                },
+                      "moonchasecharm":  {
+                                             "name":  "Mondjagd-Amulett"
+                                         },
                       "afterglowoflongnightflint":  {
                                                         "name":  "Letztes Glimmen des Nachtfeuers"
                                                     },
@@ -1679,6 +1758,9 @@
                       "vayudaturquoisesliver":  {
                                                     "name":  "Vayuda-Türkis-Splitter"
                                                 },
+                      "recordedintel":  {
+                                            "name":  "Aufgezeichnete Informationen"
+                                        },
                       "concealedclaw":  {
                                             "name":  "Kralle der versteckten Monster"
                                         },
@@ -1748,6 +1830,9 @@
                       "pedunculateoakwood":  {
                                                  "name":  "Sommereichenholz"
                                              },
+                      "sharparrowhead":  {
+                                             "name":  "Scharfe Bolzenspitze"
+                                         },
                       "ashenaratikuwood":  {
                                                "name":  "Aschen-Aratiku-Holz"
                                            },
@@ -1781,9 +1866,9 @@
                       "greenobsidianfragment":  {
                                                     "name":  "Türkisgrünes Obsidian-Bruchstück"
                                                 },
-                      "sharparrowhead":  {
-                                             "name":  "Scharfe Bolzenspitze"
-                                         },
+                      "crimsonagate":  {
+                                           "name":  "Blutroter Achat"
+                                       },
                       "nightwindsmysticrevelation":  {
                                                          "name":  "Offenbarung der Vergänglichkeit"
                                                      },
@@ -1832,6 +1917,9 @@
                       "improvedalchemycauldroniv":  {
                                                         "name":  "Verbesserter Alchimiekessel IV"
                                                     },
+                      "sheathofthesecretsource":  {
+                                                      "name":  "Geheimquellen-Gehäuse"
+                                                  },
                       "glowinggem":  {
                                          "name":  "Perle der Dämmerung"
                                      },
@@ -2021,9 +2109,9 @@
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Decarabians zerstörter Traum"
                                                            },
-                      "dandelionbookmark":  {
-                                                "name":  "Löwenzahn-Lesezeichen"
-                                            },
+                      "brilliantdiamondchunk":  {
+                                                    "name":  "Brillantbrocken"
+                                                },
                       "enhancementore":  {
                                              "name":  "Minderwertiges Verstärkungserz"
                                          },
@@ -2063,9 +2151,9 @@
                       "darkstatuette":  {
                                             "name":  "Figur der Nacht"
                                         },
-                      "dragonheirsfalsefin":  {
-                                                  "name":  "Falsche Flosse der Drachennachfahren"
-                                              },
+                      "sugar":  {
+                                    "name":  "Zucker"
+                                },
                       "bigprettycrystal":  {
                                                "name":  "Hübscher großer Kristall"
                                            },
@@ -2087,6 +2175,9 @@
                       "scoopoftaintedwater":  {
                                                   "name":  "Portion verunreinigten Wassers"
                                               },
+                      "birchwood":  {
+                                        "name":  "Birkenholz"
+                                    },
                       "coldcrackedshellshard":  {
                                                     "name":  "Abgekühltes Panzerbruchstück"
                                                 },
@@ -2180,9 +2271,9 @@
                       "plumeofthechangingwinds":  {
                                                       "name":  "Feder des wechselnden Windes"
                                                   },
-                      "lazuriteaxemarlin":  {
-                                                "name":  "Lasurit-Axt-Marlin"
-                                            },
+                      "hydroculus":  {
+                                         "name":  "Verlorener Hydroculus"
+                                     },
                       "blazingsacrificialheartssplendor":  {
                                                                "name":  "Ruhm der inbrünstigen Opfergabe"
                                                            },
@@ -2405,9 +2496,9 @@
                       "waterthatfailedtotranscend":  {
                                                          "name":  "Nicht transzendiertes Wasser"
                                                      },
-                      "mora":  {
-                                   "name":  "Mora"
-                               },
+                      "cultivationareaexpansionii":  {
+                                                         "name":  "Erweiterung des Anbaubereichs II"
+                                                     },
                       "precisiondriveshaft":  {
                                                   "name":  "Verfeinerte Maschinenachse"
                                               },
@@ -2710,8 +2801,8 @@
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Drei Rituale der Schneiderei",
-                                                                        "descriptionRaw":  "#Beschwört beim Treffen von Gegnern in der Nähe mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall der eigenen aktuellen Figur in der Truppe innerhalb von 8{NON_BREAK_SPACE}s nach dem Auslösen eines Folgeeffekts des passiven Talents „Mode nach Maß“ in der Nähe des Gegners eine vereinfachte Automaton-Puppe „Kinu“. Beschwört auf diese Weise jede{NON_BREAK_SPACE}s höchstens 1 Kinu. Während der Wirkungsdauer einer Anwendung von Gute Stimmung oder Brokatschnitt des passiven Talents „Mode nach Maß“ kann Kinu bis zu 3-mal beschworen werden. 15{NON_BREAK_SPACE}s Abklingzeit für diesen Effekt.\nDas passive Talent „Mode nach Maß“ muss zuerst freigeschaltet werden.",
-                                                                        "description":  "Beschwört beim Treffen von Gegnern in der Nähe mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall der eigenen aktuellen Figur in der Truppe innerhalb von 8 s nach dem Auslösen eines Folgeeffekts des passiven Talents „Mode nach Maß“ in der Nähe des Gegners eine vereinfachte Automaton-Puppe „Kinu“. Beschwört auf diese Weise jede s höchstens 1 Kinu. Während der Wirkungsdauer einer Anwendung von Gute Stimmung oder Brokatschnitt des passiven Talents „Mode nach Maß“ kann Kinu bis zu 3-mal beschworen werden. 15 s Abklingzeit für diesen Effekt.\nDas passive Talent „Mode nach Maß“ muss zuerst freigeschaltet werden."
+                                                                        "descriptionRaw":  "#Beschwört beim Treffen von Gegnern in der Nähe mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall der eigenen aktuellen Figur in der Truppe innerhalb von 8{NON_BREAK_SPACE}s nach dem Auslösen eines Folgeeffekts des Aufstiegstalents „Mode nach Maß“ in der Nähe des Gegners eine vereinfachte Automaton-Puppe „Kinu“. Beschwört auf diese Weise jede{NON_BREAK_SPACE}s höchstens 1 Kinu. Während der Wirkungsdauer einer Anwendung von Gute Stimmung oder Brokatschnitt des Aufstiegstalents „Mode nach Maß“ kann Kinu bis zu 3-mal beschworen werden. 15{NON_BREAK_SPACE}s Abklingzeit für diesen Effekt.\nDas Aufstiegstalent „Mode nach Maß“ muss zuerst freigeschaltet werden.",
+                                                                        "description":  "Beschwört beim Treffen von Gegnern in der Nähe mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall der eigenen aktuellen Figur in der Truppe innerhalb von 8 s nach dem Auslösen eines Folgeeffekts des Aufstiegstalents „Mode nach Maß“ in der Nähe des Gegners eine vereinfachte Automaton-Puppe „Kinu“. Beschwört auf diese Weise jede s höchstens 1 Kinu. Während der Wirkungsdauer einer Anwendung von Gute Stimmung oder Brokatschnitt des Aufstiegstalents „Mode nach Maß“ kann Kinu bis zu 3-mal beschworen werden. 15 s Abklingzeit für diesen Effekt.\nDas Aufstiegstalent „Mode nach Maß“ muss zuerst freigeschaltet werden."
                                                                     },
                                                              "c3":  {
                                                                         "name":  "Vier Brokatverzierungen",
@@ -2725,13 +2816,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Verfolgung des einen Prinzips",
-                                                                        "descriptionRaw":  "#Verringert die Abklingzeit von Chioris eigener Fähigkeit \u003ccolor=#FFD780FF\u003eStreichelnde Hasode\u003c/color\u003e nach dem Auslösen eines Folgeeffekts des passiven Talents „Mode nach Maß“ um 12{NON_BREAK_SPACE}s. Das passive Talent „Mode nach Maß“ muss zuerst freigeschaltet werden.\nErhöht außerdem den von Chiori selbst mit Standardangriffen verursachten Schaden um 235{NON_BREAK_SPACE}% von Chioris VTD.",
-                                                                        "description":  "Verringert die Abklingzeit von Chioris eigener Fähigkeit Streichelnde Hasode nach dem Auslösen eines Folgeeffekts des passiven Talents „Mode nach Maß“ um 12 s. Das passive Talent „Mode nach Maß“ muss zuerst freigeschaltet werden.\nErhöht außerdem den von Chiori selbst mit Standardangriffen verursachten Schaden um 235 % von Chioris VTD."
+                                                                        "descriptionRaw":  "#Verringert die Abklingzeit von Chioris eigener Fähigkeit \u003ccolor=#FFD780FF\u003eStreichelnde Hasode\u003c/color\u003e nach dem Auslösen eines Folgeeffekts des Aufstiegstalents „Mode nach Maß“ um 12{NON_BREAK_SPACE}s. Das Aufstiegstalent „Mode nach Maß“ muss zuerst freigeschaltet werden.\nErhöht außerdem den von Chiori selbst mit Standardangriffen verursachten Schaden um 235{NON_BREAK_SPACE}% von Chioris VTD.",
+                                                                        "description":  "Verringert die Abklingzeit von Chioris eigener Fähigkeit Streichelnde Hasode nach dem Auslösen eines Folgeeffekts des Aufstiegstalents „Mode nach Maß“ um 12 s. Das Aufstiegstalent „Mode nach Maß“ muss zuerst freigeschaltet werden.\nErhöht außerdem den von Chiori selbst mit Standardangriffen verursachten Schaden um 235 % von Chioris VTD."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Sechs Pfade der Seidigkeit",
-                                                                        "descriptionRaw":  "#Erhöht die Angriffsreichweite der Automaton-Puppe „Tamoto“ von \u003ccolor=#FFD780FF\u003eStreichelnde Hasode\u003c/color\u003e um 50{NON_BREAK_SPACE}%.\nWenn sich außer Chiori noch eine \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e-Figur in der Truppe befindet, werden nach dem Vorstoß von „Streichelnde Hasode“ zusätzlich die folgenden Effekte ausgelöst:\n· Erschafft eine weitere Tamoto. Nur eine Tamoto von Chiori selbst, die auf diese Weise oder durch Geo-Objekte erschaffen wurde, kann zur selben Zeit existieren.\n· Löst das passive Talent „Vollendete Muster“ aus. Das passive Talent „Vollendete Muster“ muss zuerst freigeschaltet werden.",
-                                                                        "description":  "Erhöht die Angriffsreichweite der Automaton-Puppe „Tamoto“ von Streichelnde Hasode um 50 %.\nWenn sich außer Chiori noch eine Geo-Figur in der Truppe befindet, werden nach dem Vorstoß von „Streichelnde Hasode“ zusätzlich die folgenden Effekte ausgelöst:\n· Erschafft eine weitere Tamoto. Nur eine Tamoto von Chiori selbst, die auf diese Weise oder durch Geo-Objekte erschaffen wurde, kann zur selben Zeit existieren.\n· Löst das passive Talent „Vollendete Muster“ aus. Das passive Talent „Vollendete Muster“ muss zuerst freigeschaltet werden."
+                                                                        "descriptionRaw":  "#Erhöht die Angriffsreichweite der Automaton-Puppe „Tamoto“ von \u003ccolor=#FFD780FF\u003eStreichelnde Hasode\u003c/color\u003e um 50{NON_BREAK_SPACE}%.\nWenn sich außer Chiori noch eine \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e-Figur in der Truppe befindet, werden nach dem Vorstoß von „Streichelnde Hasode“ zusätzlich die folgenden Effekte ausgelöst:\n· Erschafft eine weitere Tamoto. Nur eine Tamoto von Chiori selbst, die auf diese Weise oder durch Geo-Objekte erschaffen wurde, kann zur selben Zeit existieren.\n· Löst das Aufstiegstalent „Vollendete Muster“ aus. Das Aufstiegstalent „Vollendete Muster“ muss zuerst freigeschaltet werden.",
+                                                                        "description":  "Erhöht die Angriffsreichweite der Automaton-Puppe „Tamoto“ von Streichelnde Hasode um 50 %.\nWenn sich außer Chiori noch eine Geo-Figur in der Truppe befindet, werden nach dem Vorstoß von „Streichelnde Hasode“ zusätzlich die folgenden Effekte ausgelöst:\n· Erschafft eine weitere Tamoto. Nur eine Tamoto von Chiori selbst, die auf diese Weise oder durch Geo-Objekte erschaffen wurde, kann zur selben Zeit existieren.\n· Löst das Aufstiegstalent „Vollendete Muster“ aus. Das Aufstiegstalent „Vollendete Muster“ muss zuerst freigeschaltet werden."
                                                                     }
                                                          },
                                       "elementText":  "Geo",
@@ -2787,8 +2878,8 @@
                                           "constellations":  {
                                                                  "c2":  {
                                                                             "name":  "„Jede Belohnung und Vergeltung wird von mir vergeben ...“",
-                                                                            "descriptionRaw":  "#\u003ccolor=#FFD780FF\u003e„Blutige Vergeltung“\u003c/color\u003e wird beim Verleihen zu „Blutige Vergeltung – Abrechnung“.\nErschafft, wenn Arlecchino „Blutige Vergeltung – Abrechnung“ einsammelt, vor ihr Blutflammen des Mondes des Verderbens, verursacht \u003ccolor=#FF9999FF\u003ePyro-Flächenschaden\u003c/color\u003e in Höhe von 900{NON_BREAK_SPACE}% von Arlecchinos ANG und erhöht ihren WDS gegen alle Elemente sowie phys. WDS um 20{NON_BREAK_SPACE}%, hält 15{NON_BREAK_SPACE}s, 10{NON_BREAK_SPACE}s Abklingzeit.\nDas passive Talent „Nur Qualen vergelten“ muss zuerst freigeschaltet werden.",
-                                                                            "description":  "„Blutige Vergeltung“ wird beim Verleihen zu „Blutige Vergeltung – Abrechnung“.\nErschafft, wenn Arlecchino „Blutige Vergeltung – Abrechnung“ einsammelt, vor ihr Blutflammen des Mondes des Verderbens, verursacht Pyro-Flächenschaden in Höhe von 900 % von Arlecchinos ANG und erhöht ihren WDS gegen alle Elemente sowie phys. WDS um 20 %, hält 15 s, 10 s Abklingzeit.\nDas passive Talent „Nur Qualen vergelten“ muss zuerst freigeschaltet werden."
+                                                                            "descriptionRaw":  "#\u003ccolor=#FFD780FF\u003e„Blutige Vergeltung“\u003c/color\u003e wird beim Verleihen zu „Blutige Vergeltung – Abrechnung“.\nErschafft, wenn Arlecchino „Blutige Vergeltung – Abrechnung“ einsammelt, vor ihr Blutflammen des Mondes des Verderbens, verursacht \u003ccolor=#FF9999FF\u003ePyro-Flächenschaden\u003c/color\u003e in Höhe von 900{NON_BREAK_SPACE}% von Arlecchinos ANG und erhöht ihren WDS gegen alle Elemente sowie phys. WDS um 20{NON_BREAK_SPACE}%, hält 15{NON_BREAK_SPACE}s, 10{NON_BREAK_SPACE}s Abklingzeit.\nDas Aufstiegstalent „Nur Qualen vergelten“ muss zuerst freigeschaltet werden.",
+                                                                            "description":  "„Blutige Vergeltung“ wird beim Verleihen zu „Blutige Vergeltung – Abrechnung“.\nErschafft, wenn Arlecchino „Blutige Vergeltung – Abrechnung“ einsammelt, vor ihr Blutflammen des Mondes des Verderbens, verursacht Pyro-Flächenschaden in Höhe von 900 % von Arlecchinos ANG und erhöht ihren WDS gegen alle Elemente sowie phys. WDS um 20 %, hält 15 s, 10 s Abklingzeit.\nDas Aufstiegstalent „Nur Qualen vergelten“ muss zuerst freigeschaltet werden."
                                                                         },
                                                                  "c4":  {
                                                                             "name":  "„Von nun an müsst ihr euch gegenseitig lieben und beschützen ...“",
@@ -3038,8 +3129,8 @@
                                                                             },
                                                                      "c4":  {
                                                                                 "name":  "Zuckersüßes Gras",
-                                                                                "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eLampenlotos\u003c/color\u003e erhält nach Wandel des Lotoslichts 5 Stapelungen des Effekts „Glanz des Lotoslichts“ vom passiven Talent „Überwucherndes Wildgras“.\nDas passive Talent „Überwucherndes Wildgras“ muss zuerst freigeschaltet werden.",
-                                                                                "description":  "Lampenlotos erhält nach Wandel des Lotoslichts 5 Stapelungen des Effekts „Glanz des Lotoslichts“ vom passiven Talent „Überwucherndes Wildgras“.\nDas passive Talent „Überwucherndes Wildgras“ muss zuerst freigeschaltet werden."
+                                                                                "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eLampenlotos\u003c/color\u003e erhält nach Wandel des Lotoslichts 5 Stapelungen des Effekts „Glanz des Lotoslichts“ vom Aufstiegstalent „Überwucherndes Wildgras“.\nDas Aufstiegstalent „Überwucherndes Wildgras“ muss zuerst freigeschaltet werden.",
+                                                                                "description":  "Lampenlotos erhält nach Wandel des Lotoslichts 5 Stapelungen des Effekts „Glanz des Lotoslichts“ vom Aufstiegstalent „Überwucherndes Wildgras“.\nDas Aufstiegstalent „Überwucherndes Wildgras“ muss zuerst freigeschaltet werden."
                                                                             },
                                                                      "c3":  {
                                                                                 "name":  "Tänzelndes Gras",
@@ -3104,6 +3195,16 @@
                                          "region":  "Snezhnaya",
                                          "gender":  "Männlich"
                                      },
+                       "manekin":  {
+                                       "constellations":  null,
+                                       "elementText":  "Leer",
+                                       "fullname":  null,
+                                       "weaponText":  "Einhänder",
+                                       "name":  "Mannekin",
+                                       "substatText":  "ANG",
+                                       "region":  "",
+                                       "gender":  "Männlich"
+                                   },
                        "charlotte":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -3215,8 +3316,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "„Kann der glücklichste Geist Sorgen verstehen?“",
-                                                                           "descriptionRaw":  "Der heilende Wasserballon von \u003ccolor=#FFD780FF\u003eHüpfende Hydrotherapie\u003c/color\u003e kann 3-mal zusätzlich hüpfen und schrumpft während der ersten 3 Hüpfer nicht.\nAußerdem werden die Effekte des passiven Talents „Erfordert angemessene Ruhezeiten“ verstärkt: Gewährt Sigewinne, wenn der heilende Wasserballon hüpft, 1 Stapelung Ruhezählung. Außerdem wird der Schaden-Bonus von Ruhezählung verändert: Erhöht für je 1.000 Punkte der max. LP von Sigewinne über 30.000 den Schaden um 100 Punkte. Auf diese Weise kann der Schaden um bis zu 3.500 Punkte erhöht werden. Das passive Talent „Erfordert angemessene Ruhezeiten“ muss zuerst freigeschaltet werden.",
-                                                                           "description":  "Der heilende Wasserballon von Hüpfende Hydrotherapie kann 3-mal zusätzlich hüpfen und schrumpft während der ersten 3 Hüpfer nicht.\nAußerdem werden die Effekte des passiven Talents „Erfordert angemessene Ruhezeiten“ verstärkt: Gewährt Sigewinne, wenn der heilende Wasserballon hüpft, 1 Stapelung Ruhezählung. Außerdem wird der Schaden-Bonus von Ruhezählung verändert: Erhöht für je 1.000 Punkte der max. LP von Sigewinne über 30.000 den Schaden um 100 Punkte. Auf diese Weise kann der Schaden um bis zu 3.500 Punkte erhöht werden. Das passive Talent „Erfordert angemessene Ruhezeiten“ muss zuerst freigeschaltet werden."
+                                                                           "descriptionRaw":  "Der heilende Wasserballon von \u003ccolor=#FFD780FF\u003eHüpfende Hydrotherapie\u003c/color\u003e kann 3-mal zusätzlich hüpfen und schrumpft während der ersten 3 Hüpfer nicht.\nAußerdem werden die Effekte des Aufstiegstalents „Erfordert angemessene Ruhezeiten“ verstärkt: Gewährt Sigewinne, wenn der heilende Wasserballon hüpft, 1 Stapelung Ruhezählung. Außerdem wird der Schaden-Bonus von Ruhezählung verändert: Erhöht für je 1.000 Punkte der max. LP von Sigewinne über 30.000 den Schaden um 100 Punkte. Auf diese Weise kann der Schaden um bis zu 3.500 Punkte erhöht werden. Das Aufstiegstalent „Erfordert angemessene Ruhezeiten“ muss zuerst freigeschaltet werden.",
+                                                                           "description":  "Der heilende Wasserballon von Hüpfende Hydrotherapie kann 3-mal zusätzlich hüpfen und schrumpft während der ersten 3 Hüpfer nicht.\nAußerdem werden die Effekte des Aufstiegstalents „Erfordert angemessene Ruhezeiten“ verstärkt: Gewährt Sigewinne, wenn der heilende Wasserballon hüpft, 1 Stapelung Ruhezählung. Außerdem wird der Schaden-Bonus von Ruhezählung verändert: Erhöht für je 1.000 Punkte der max. LP von Sigewinne über 30.000 den Schaden um 100 Punkte. Auf diese Weise kann der Schaden um bis zu 3.500 Punkte erhöht werden. Das Aufstiegstalent „Erfordert angemessene Ruhezeiten“ muss zuerst freigeschaltet werden."
                                                                        }
                                                             },
                                          "elementText":  "Hydro",
@@ -3523,8 +3624,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Unterbrochener Fluss",
-                                                                       "descriptionRaw":  "#Verstärkt den Effekt des passiven Talents {LINK#N11130008}\u003ccolor=#FFD780FF\u003eRückkehr ins Vergessen\u003c/color\u003e{/LINK}: Erhöht für jede Stapelung „Kreuzung des Todes“ den ANG von Skirk zusätzlich um 10/20/40{NON_BREAK_SPACE}%.\nDas passive Talent „Rückkehr ins Vergessen“ muss zuerst freigeschaltet werden.",
-                                                                       "description":  "Verstärkt den Effekt des passiven Talents **Rückkehr ins Vergessen**: Erhöht für jede Stapelung „Kreuzung des Todes“ den ANG von Skirk zusätzlich um 10/20/40 %.\nDas passive Talent „Rückkehr ins Vergessen“ muss zuerst freigeschaltet werden."
+                                                                       "descriptionRaw":  "#Verstärkt den Effekt des Aufstiegstalents {LINK#N11130008}\u003ccolor=#FFD780FF\u003eRückkehr ins Vergessen\u003c/color\u003e{/LINK}: Erhöht für jede Stapelung „Kreuzung des Todes“ den ANG von Skirk zusätzlich um 10/20/40{NON_BREAK_SPACE}%.\nDas Aufstiegstalent „Rückkehr ins Vergessen“ muss zuerst freigeschaltet werden.",
+                                                                       "description":  "Verstärkt den Effekt des Aufstiegstalents **Rückkehr ins Vergessen**: Erhöht für jede Stapelung „Kreuzung des Todes“ den ANG von Skirk zusätzlich um 10/20/40 %.\nDas Aufstiegstalent „Rückkehr ins Vergessen“ muss zuerst freigeschaltet werden."
                                                                    },
                                                             "c3":  {
                                                                        "name":  "Schicksalhafte Verderbnis",
@@ -3538,13 +3639,13 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "Zur Quelle",
-                                                                       "descriptionRaw":  "#Verleiht Skirk für jeden „Leere-Riss“, den sie durch das passive Talent {LINK#N11130007}\u003ccolor=#FFD780FF\u003e„Vernunft jenseits der Vernunft“\u003c/color\u003e{/LINK} absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSieben-Phasen-Blitz\u003c/color\u003e{/LINK} erleidet, verringert. Die Stapelung des Effekts hält 15{NON_BREAK_SPACE}s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\n\u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e\n· Führt beim Auslösen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Zerstörung\u003c/color\u003e einen abgestimmten Angriff aus, der sämtliche Stapelungen von \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e verbraucht und für jede verbrauchte Stapelung \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 750{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e, um den diesmaligen erlittenen Schaden um 80{NON_BREAK_SPACE}% zu verringern, und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.",
-                                                                       "description":  "Verleiht Skirk für jeden „Leere-Riss“, den sie durch das passive Talent **„Vernunft jenseits der Vernunft“** absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus **Sieben-Phasen-Blitz** erleidet, verringert. Die Stapelung des Effekts hält 15 s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\nVerdorbene Kunst – Enthauptung\n· Führt beim Auslösen der Spezialfähigkeit Verdorbene Kunst – Zerstörung einen abgestimmten Angriff aus, der sämtliche Stapelungen von Verdorbene Kunst – Enthauptung verbraucht und für jede verbrauchte Stapelung Kryo-Schaden in Höhe von 750 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts Verdorbene Kunst – Enthauptung und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung Verdorbene Kunst – Enthauptung, um den diesmaligen erlittenen Schaden um 80 % zu verringern, und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags."
+                                                                       "descriptionRaw":  "#Verleiht Skirk für jeden „Leere-Riss“, den sie durch das Aufstiegstalent {LINK#N11130007}\u003ccolor=#FFD780FF\u003e„Vernunft jenseits der Vernunft“\u003c/color\u003e{/LINK} absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus {LINK#N11130006}\u003ccolor=#FFD780FF\u003eSieben-Phasen-Blitz\u003c/color\u003e{/LINK} erleidet, verringert. Die Stapelung des Effekts hält 15{NON_BREAK_SPACE}s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas Aufstiegstalent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\n\u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e\n· Führt beim Auslösen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Zerstörung\u003c/color\u003e einen abgestimmten Angriff aus, der sämtliche Stapelungen von \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e verbraucht und für jede verbrauchte Stapelung \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 750{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung \u003ccolor=#FFD780FF\u003eVerdorbene Kunst – Enthauptung\u003c/color\u003e, um den diesmaligen erlittenen Schaden um 80{NON_BREAK_SPACE}% zu verringern, und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 180{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.",
+                                                                       "description":  "Verleiht Skirk für jeden „Leere-Riss“, den sie durch das Aufstiegstalent **„Vernunft jenseits der Vernunft“** absorbiert hat, eine Stapelung des Effekts „Verdorbene Kunst – Enthauptung“. Indem sie „Verdorbene Kunst – Enthauptung“ verbraucht, kann Skirk abgestimmte Angriffe durchführen. Außerdem wird der Schaden, den sie im Modus **Sieben-Phasen-Blitz** erleidet, verringert. Die Stapelung des Effekts hält 15 s, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nDas Aufstiegstalent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.\n\nVerdorbene Kunst – Enthauptung\n· Führt beim Auslösen der Spezialfähigkeit Verdorbene Kunst – Zerstörung einen abgestimmten Angriff aus, der sämtliche Stapelungen von Verdorbene Kunst – Enthauptung verbraucht und für jede verbrauchte Stapelung Kryo-Schaden in Höhe von 750 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.\n· Skirk verbraucht beim Treffen vom Gegner mit der dritten oder fünften Phase des Standardangriffs im Sieben-Phasen-Blitzmodus eine Stapelung des Effekts Verdorbene Kunst – Enthauptung und führt 3 abgestimmte Angriffe aus, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des Standardangriffs.\n· Verbraucht, wenn Skirk im Sieben-Phasen-Blitzmodus Schaden erleidet, eine Stapelung Verdorbene Kunst – Enthauptung, um den diesmaligen erlittenen Schaden um 80 % zu verringern, und greift die Gegner in der Nähe 3-mal an, wobei jeder Angriff Kryo-Schaden in Höhe von 180 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags."
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Tiefer Fall",
-                                                                       "descriptionRaw":  "#Verstärkt den Effekt des passiven Talents {LINK#N11130007}\u003ccolor=#FFD780FF\u003eVernunft jenseits der Vernunft\u003c/color\u003e{/LINK}: Für jeden absorbierten Leere-Riss wird eine Kristallklinge beschworen, die Gegner in der Nähe angreift und \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 500{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.",
-                                                                       "description":  "Verstärkt den Effekt des passiven Talents **Vernunft jenseits der Vernunft**: Für jeden absorbierten Leere-Riss wird eine Kristallklinge beschworen, die Gegner in der Nähe angreift und Kryo-Schaden in Höhe von 500 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.\nDas passive Talent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden."
+                                                                       "descriptionRaw":  "#Verstärkt den Effekt des Aufstiegstalents {LINK#N11130007}\u003ccolor=#FFD780FF\u003eVernunft jenseits der Vernunft\u003c/color\u003e{/LINK}: Für jeden absorbierten Leere-Riss wird eine Kristallklinge beschworen, die Gegner in der Nähe angreift und \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e in Höhe von 500{NON_BREAK_SPACE}% von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.\nDas Aufstiegstalent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden.",
+                                                                       "description":  "Verstärkt den Effekt des Aufstiegstalents **Vernunft jenseits der Vernunft**: Für jeden absorbierten Leere-Riss wird eine Kristallklinge beschworen, die Gegner in der Nähe angreift und Kryo-Schaden in Höhe von 500 % von Skirks ANG verursacht. Hierdurch verursachter Schaden gilt als Schaden des heftigen Schlags.\nDas Aufstiegstalent „Vernunft jenseits der Vernunft“ muss zuerst freigeschaltet werden."
                                                                    }
                                                         },
                                      "elementText":  "Kryo",
@@ -3559,8 +3660,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Faulheit ist der größte Feind der Fitness!",
-                                                                        "descriptionRaw":  "#Verleiht Iansan beim Anwenden der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eDrei Prinzipien der Stärke\u003c/color\u003e 15{NON_BREAK_SPACE}s lang den Effekt „Exakte Bewegung“ ihres passiven Talents „Intensives Widerstandstraining“. Erhöht außerdem den ANG der aktuellen eigenen Figur in der Truppe um 30{NON_BREAK_SPACE}%, wenn sich Iansan während der Wirkungsdauer des Effekts „Exakte Bewegung“ inaktiv in der Truppe befindet. Das passive Talent „Intensives Widerstandstraining“ muss zuerst freigeschaltet werden.",
-                                                                        "description":  "Verleiht Iansan beim Anwenden der Spezialfähigkeit Drei Prinzipien der Stärke 15 s lang den Effekt „Exakte Bewegung“ ihres passiven Talents „Intensives Widerstandstraining“. Erhöht außerdem den ANG der aktuellen eigenen Figur in der Truppe um 30 %, wenn sich Iansan während der Wirkungsdauer des Effekts „Exakte Bewegung“ inaktiv in der Truppe befindet. Das passive Talent „Intensives Widerstandstraining“ muss zuerst freigeschaltet werden."
+                                                                        "descriptionRaw":  "#Verleiht Iansan beim Anwenden der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eDrei Prinzipien der Stärke\u003c/color\u003e 15{NON_BREAK_SPACE}s lang den Effekt „Exakte Bewegung“ ihres Aufstiegstalents „Intensives Widerstandstraining“. Erhöht außerdem den ANG der aktuellen eigenen Figur in der Truppe um 30{NON_BREAK_SPACE}%, wenn sich Iansan während der Wirkungsdauer des Effekts „Exakte Bewegung“ inaktiv in der Truppe befindet. Das Aufstiegstalent „Intensives Widerstandstraining“ muss zuerst freigeschaltet werden.",
+                                                                        "description":  "Verleiht Iansan beim Anwenden der Spezialfähigkeit Drei Prinzipien der Stärke 15 s lang den Effekt „Exakte Bewegung“ ihres Aufstiegstalents „Intensives Widerstandstraining“. Erhöht außerdem den ANG der aktuellen eigenen Figur in der Truppe um 30 %, wenn sich Iansan während der Wirkungsdauer des Effekts „Exakte Bewegung“ inaktiv in der Truppe befindet. Das Aufstiegstalent „Intensives Widerstandstraining“ muss zuerst freigeschaltet werden."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Langsam und stetig zum Ziel",
@@ -3605,8 +3706,8 @@
                                                                       },
                                                                "c4":  {
                                                                           "name":  "Yonban – Aufbruch ins Frühjahr",
-                                                                          "descriptionRaw":  "Erhält die Figur durch das passive Talent „Jadeblume“ beim Auslösen von \u003ccolor=#FFD780FF\u003eHanega – Gesang des Windes\u003c/color\u003e den entsprechenden Verstärkungseffekt in Abhängigkeit von dem Elementartyp, mit dem sie in Kontakt gekommen ist, wird ihr ein zufälliger weiterer noch nicht vergebener Verstärkungseffekt verliehen. Es können höchstens drei Elementen entsprechende Verstärkungseffekte gleichzeitig aktiv sein.\nDas passive Talent „Jadeblume“ muss zuerst freigeschaltet werden.",
-                                                                          "description":  "Erhält die Figur durch das passive Talent „Jadeblume“ beim Auslösen von Hanega – Gesang des Windes den entsprechenden Verstärkungseffekt in Abhängigkeit von dem Elementartyp, mit dem sie in Kontakt gekommen ist, wird ihr ein zufälliger weiterer noch nicht vergebener Verstärkungseffekt verliehen. Es können höchstens drei Elementen entsprechende Verstärkungseffekte gleichzeitig aktiv sein.\nDas passive Talent „Jadeblume“ muss zuerst freigeschaltet werden."
+                                                                          "descriptionRaw":  "Erhält die Figur durch das Aufstiegstalent „Jadeblume“ beim Auslösen von \u003ccolor=#FFD780FF\u003eHanega – Gesang des Windes\u003c/color\u003e den entsprechenden Verstärkungseffekt in Abhängigkeit von dem Elementartyp, mit dem sie in Kontakt gekommen ist, wird ihr ein zufälliger weiterer noch nicht vergebener Verstärkungseffekt verliehen. Es können höchstens drei Elementen entsprechende Verstärkungseffekte gleichzeitig aktiv sein.\nDas Aufstiegstalent „Jadeblume“ muss zuerst freigeschaltet werden.",
+                                                                          "description":  "Erhält die Figur durch das Aufstiegstalent „Jadeblume“ beim Auslösen von Hanega – Gesang des Windes den entsprechenden Verstärkungseffekt in Abhängigkeit von dem Elementartyp, mit dem sie in Kontakt gekommen ist, wird ihr ein zufälliger weiterer noch nicht vergebener Verstärkungseffekt verliehen. Es können höchstens drei Elementen entsprechende Verstärkungseffekte gleichzeitig aktiv sein.\nDas Aufstiegstalent „Jadeblume“ muss zuerst freigeschaltet werden."
                                                                       },
                                                                "c3":  {
                                                                           "name":  "Sanban – Mondblumen-Kusemai",
@@ -3625,8 +3726,8 @@
                                                                       },
                                                                "c1":  {
                                                                           "name":  "Shoban – Pompöses Gefieder",
-                                                                          "descriptionRaw":  "Erhöht die Angriffs-GSW des Wanderers mit Kuugo – Fushoudan und Kuugo – Toufukai im Zustand \u003ccolor=#FFD780FF\u003eHaltung des eleganten Windes\u003c/color\u003e um 10 %.\nDie Windpfeile vom passiven Talent „Brise der Träumerei“ verursachen zusätzlich Schaden in Höhe von 25 % ANG, dafür muss zuerst das passive Talent „Brise der Träumerei“ freigeschaltet werden.",
-                                                                          "description":  "Erhöht die Angriffs-GSW des Wanderers mit Kuugo – Fushoudan und Kuugo – Toufukai im Zustand Haltung des eleganten Windes um 10 %.\nDie Windpfeile vom passiven Talent „Brise der Träumerei“ verursachen zusätzlich Schaden in Höhe von 25 % ANG, dafür muss zuerst das passive Talent „Brise der Träumerei“ freigeschaltet werden."
+                                                                          "descriptionRaw":  "#Erhöht die Angriffs-GSW des Wanderers mit Kuugo – Fushoudan und Kuugo – Toufukai im Zustand \u003ccolor=#FFD780FF\u003eHaltung des eleganten Windes\u003c/color\u003e um 10{NON_BREAK_SPACE}%.\nDie Windpfeile vom Aufstiegstalent „Brise der Träumerei“ verursachen zusätzlich Schaden in Höhe von 25{NON_BREAK_SPACE}% ANG, dafür muss zuerst das Aufstiegstalent „Brise der Träumerei“ freigeschaltet werden.",
+                                                                          "description":  "Erhöht die Angriffs-GSW des Wanderers mit Kuugo – Fushoudan und Kuugo – Toufukai im Zustand Haltung des eleganten Windes um 10 %.\nDie Windpfeile vom Aufstiegstalent „Brise der Träumerei“ verursachen zusätzlich Schaden in Höhe von 25 % ANG, dafür muss zuerst das Aufstiegstalent „Brise der Träumerei“ freigeschaltet werden."
                                                                       }
                                                            },
                                         "elementText":  "Anemo",
@@ -3764,8 +3865,8 @@
                                    "constellations":  {
                                                           "c2":  {
                                                                      "name":  "Gebet an den Geist der Ballistik",
-                                                                     "descriptionRaw":  "Verleiht Ifa im Zustand Nachtseelensegen für jeden Nachtseelenpunkt aller Truppenmitglieder insgesamt über 60 Punkten 4 Punkte {LINK#N11130002}\u003ccolor=#FFD780FF\u003e„Rettungsprinzipien“\u003c/color\u003e{/LINK}.\nErhöht außerdem das Limit für Ifas „Rettungsprinzipien“ um 50 Punkte.\nDas passive Talent {LINK#P1132101}\u003ccolor=#FFD780FF\u003e„Sichtfeld des Feldarztes“\u003c/color\u003e{/LINK} muss zuerst freigeschaltet werden.",
-                                                                     "description":  "Verleiht Ifa im Zustand Nachtseelensegen für jeden Nachtseelenpunkt aller Truppenmitglieder insgesamt über 60 Punkten 4 Punkte **„Rettungsprinzipien“**.\nErhöht außerdem das Limit für Ifas „Rettungsprinzipien“ um 50 Punkte.\nDas passive Talent **„Sichtfeld des Feldarztes“** muss zuerst freigeschaltet werden."
+                                                                     "descriptionRaw":  "Verleiht Ifa im Zustand Nachtseelensegen für jeden Nachtseelenpunkt aller Truppenmitglieder insgesamt über 60 Punkten 4 Punkte {LINK#N11130002}\u003ccolor=#FFD780FF\u003e„Rettungsprinzipien“\u003c/color\u003e{/LINK}.\nErhöht außerdem das Limit für Ifas „Rettungsprinzipien“ um 50 Punkte.\nDas Aufstiegstalent {LINK#P1132101}\u003ccolor=#FFD780FF\u003e„Sichtfeld des Feldarztes“\u003c/color\u003e{/LINK} muss zuerst freigeschaltet werden.",
+                                                                     "description":  "Verleiht Ifa im Zustand Nachtseelensegen für jeden Nachtseelenpunkt aller Truppenmitglieder insgesamt über 60 Punkten 4 Punkte **„Rettungsprinzipien“**.\nErhöht außerdem das Limit für Ifas „Rettungsprinzipien“ um 50 Punkte.\nDas Aufstiegstalent **„Sichtfeld des Feldarztes“** muss zuerst freigeschaltet werden."
                                                                  },
                                                           "c4":  {
                                                                      "name":  "Austausch des verfallenen Wirts",
@@ -3924,6 +4025,16 @@
                                                 "region":  "Inazuma",
                                                 "gender":  "Weiblich"
                                             },
+                       "manekina":  {
+                                        "constellations":  null,
+                                        "elementText":  "Leer",
+                                        "fullname":  null,
+                                        "weaponText":  "Einhänder",
+                                        "name":  "Mannekina",
+                                        "substatText":  "ANG",
+                                        "region":  "",
+                                        "gender":  "Weiblich"
+                                    },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3933,8 +4044,8 @@
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Entschlossenheit der Anführerin",
-                                                                         "descriptionRaw":  "#Verstärkt den Effekt des passiven Talents „Kiongozi“:\nDer Schadenbonus, der nach dem Einsetzen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eStunde brennender Himmel\u003c/color\u003e erhalten wird, wird nicht mit der Zeit abnehmen, sondern zusätzlich um 10{NON_BREAK_SPACE}% erhöht.\nDas passive Talent „Kiongozi“ muss zuerst freigeschaltet werden.",
-                                                                         "description":  "Verstärkt den Effekt des passiven Talents „Kiongozi“:\nDer Schadenbonus, der nach dem Einsetzen der Spezialfähigkeit Stunde brennender Himmel erhalten wird, wird nicht mit der Zeit abnehmen, sondern zusätzlich um 10 % erhöht.\nDas passive Talent „Kiongozi“ muss zuerst freigeschaltet werden."
+                                                                         "descriptionRaw":  "#Verstärkt den Effekt des Aufstiegstalents „Kiongozi“:\nDer Schadenbonus, der nach dem Einsetzen der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eStunde brennender Himmel\u003c/color\u003e erhalten wird, wird nicht mit der Zeit abnehmen, sondern zusätzlich um 10{NON_BREAK_SPACE}% erhöht.\nDas Aufstiegstalent „Kiongozi“ muss zuerst freigeschaltet werden.",
+                                                                         "description":  "Verstärkt den Effekt des Aufstiegstalents „Kiongozi“:\nDer Schadenbonus, der nach dem Einsetzen der Spezialfähigkeit Stunde brennender Himmel erhalten wird, wird nicht mit der Zeit abnehmen, sondern zusätzlich um 10 % erhöht.\nDas Aufstiegstalent „Kiongozi“ muss zuerst freigeschaltet werden."
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Brennende Sonne",
@@ -3994,8 +4105,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Nicht auslöschbare Leidenschaft",
-                                                                        "descriptionRaw":  "#Verstärkt den Effekt des passiven Talents „Siegesbewusster Dreifachsprung!“:\nVerleiht Varesa auch beim Ausführen des besonderen „Angriffs aus dem Fall – Wilder Vulkanwirbel“ 5{NON_BREAK_SPACE}s lang den „Regenbogensturzangriff“.\nVerursacht während der Dauer des „Regenbogensturzangriffs“ beim Aufkommen mit dem Angriff aus dem Fall stattdessen zusätzlich Schaden in Höhe von 180{NON_BREAK_SPACE}% ANG, unabhängig davon, ob Varesa sich im Zustand der „Brennende Leidenschaft“ befindet. Das passive Talent „Siegesbewusster Dreifachsprung!“ muss zuerst freigeschaltet werden.\n\nVerringert Varesas Verbrauch an Nachtseelenpunkten oder Phlogiston, wenn sie sich im Modus „Stürmischer Vorstoß“ des Zustands Nachtseelensegen befindet, um 30{NON_BREAK_SPACE}%.",
-                                                                        "description":  "Verstärkt den Effekt des passiven Talents „Siegesbewusster Dreifachsprung!“:\nVerleiht Varesa auch beim Ausführen des besonderen „Angriffs aus dem Fall – Wilder Vulkanwirbel“ 5 s lang den „Regenbogensturzangriff“.\nVerursacht während der Dauer des „Regenbogensturzangriffs“ beim Aufkommen mit dem Angriff aus dem Fall stattdessen zusätzlich Schaden in Höhe von 180 % ANG, unabhängig davon, ob Varesa sich im Zustand der „Brennende Leidenschaft“ befindet. Das passive Talent „Siegesbewusster Dreifachsprung!“ muss zuerst freigeschaltet werden.\n\nVerringert Varesas Verbrauch an Nachtseelenpunkten oder Phlogiston, wenn sie sich im Modus „Stürmischer Vorstoß“ des Zustands Nachtseelensegen befindet, um 30 %."
+                                                                        "descriptionRaw":  "#Verstärkt den Effekt des Aufstiegstalents „Siegesbewusster Dreifachsprung!“:\nVerleiht Varesa auch beim Ausführen des besonderen „Angriffs aus dem Fall – Wilder Vulkanwirbel“ 5{NON_BREAK_SPACE}s lang den „Regenbogensturzangriff“.\nVerursacht während der Dauer des „Regenbogensturzangriffs“ beim Aufkommen mit dem Angriff aus dem Fall stattdessen zusätzlich Schaden in Höhe von 180{NON_BREAK_SPACE}% ANG, unabhängig davon, ob Varesa sich im Zustand der „Brennende Leidenschaft“ befindet. Das Aufstiegstalent „Siegesbewusster Dreifachsprung!“ muss zuerst freigeschaltet werden.\n\nVerringert Varesas Verbrauch an Nachtseelenpunkten oder Phlogiston, wenn sie sich im Modus „Stürmischer Vorstoß“ des Zustands Nachtseelensegen befindet, um 30{NON_BREAK_SPACE}%.",
+                                                                        "description":  "Verstärkt den Effekt des Aufstiegstalents „Siegesbewusster Dreifachsprung!“:\nVerleiht Varesa auch beim Ausführen des besonderen „Angriffs aus dem Fall – Wilder Vulkanwirbel“ 5 s lang den „Regenbogensturzangriff“.\nVerursacht während der Dauer des „Regenbogensturzangriffs“ beim Aufkommen mit dem Angriff aus dem Fall stattdessen zusätzlich Schaden in Höhe von 180 % ANG, unabhängig davon, ob Varesa sich im Zustand der „Brennende Leidenschaft“ befindet. Das Aufstiegstalent „Siegesbewusster Dreifachsprung!“ muss zuerst freigeschaltet werden.\n\nVerringert Varesas Verbrauch an Nachtseelenpunkten oder Phlogiston, wenn sie sich im Modus „Stürmischer Vorstoß“ des Zustands Nachtseelensegen befindet, um 30 %."
                                                                     }
                                                          },
                                       "elementText":  "Elektro",
@@ -4153,13 +4264,13 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Federritus – Gerechte Waage",
-                                                                      "descriptionRaw":  "Cyno erhält beim Anwenden der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eHeiliger Ritus – Schnelligkeit des Wolfs\u003c/color\u003e oder nach Auslösen des Effekts „Zumessung“ des passiven Talents „Urteil der Federn“ 4 Stapelungen des Effekts „Opfer des Schakals“. Beim Treffen von Gegnern mit Cynos Standardangriff verbraucht er 1 Stapelung von „Opfer des Schakals“, um einen Staubblitz auszulösen.\nDer Effekt „Opfer des Schakals“ hält 8 s, 8-fach stapelbar. „Opfer des Schakals“ wird entfernt, sobald der Modus „Paktverschworener Pfadklärer“ der Fähigkeit „Heiliger Ritus – Schnelligkeit des Wolfs“ endet.\n0,4 s Abklingzeit für das Auslösen solch eines Staubblitzes.\nDas passive Talent „Urteil der Federn“ muss zuerst freigeschaltet werden.",
-                                                                      "description":  "Cyno erhält beim Anwenden der Spezialfähigkeit Heiliger Ritus – Schnelligkeit des Wolfs oder nach Auslösen des Effekts „Zumessung“ des passiven Talents „Urteil der Federn“ 4 Stapelungen des Effekts „Opfer des Schakals“. Beim Treffen von Gegnern mit Cynos Standardangriff verbraucht er 1 Stapelung von „Opfer des Schakals“, um einen Staubblitz auszulösen.\nDer Effekt „Opfer des Schakals“ hält 8 s, 8-fach stapelbar. „Opfer des Schakals“ wird entfernt, sobald der Modus „Paktverschworener Pfadklärer“ der Fähigkeit „Heiliger Ritus – Schnelligkeit des Wolfs“ endet.\n0,4 s Abklingzeit für das Auslösen solch eines Staubblitzes.\nDas passive Talent „Urteil der Federn“ muss zuerst freigeschaltet werden."
+                                                                      "descriptionRaw":  "#Cyno erhält beim Anwenden der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eHeiliger Ritus – Schnelligkeit des Wolfs\u003c/color\u003e oder nach Auslösen des Effekts „Zumessung“ des Aufstiegstalents „Urteil der Federn“ 4 Stapelungen des Effekts „Opfer des Schakals“. Beim Treffen von Gegnern mit Cynos Standardangriff verbraucht er 1 Stapelung von „Opfer des Schakals“, um einen Staubblitz auszulösen.\nDer Effekt „Opfer des Schakals“ hält 8{NON_BREAK_SPACE}s, 8-fach stapelbar. „Opfer des Schakals“ wird entfernt, sobald der Modus „Paktverschworener Pfadklärer“ der Fähigkeit „Heiliger Ritus – Schnelligkeit des Wolfs“ endet.\n0,4{NON_BREAK_SPACE}s Abklingzeit für das Auslösen solch eines Staubblitzes.\nDas Aufstiegstalent „Urteil der Federn“ muss zuerst freigeschaltet werden.",
+                                                                      "description":  "Cyno erhält beim Anwenden der Spezialfähigkeit Heiliger Ritus – Schnelligkeit des Wolfs oder nach Auslösen des Effekts „Zumessung“ des Aufstiegstalents „Urteil der Federn“ 4 Stapelungen des Effekts „Opfer des Schakals“. Beim Treffen von Gegnern mit Cynos Standardangriff verbraucht er 1 Stapelung von „Opfer des Schakals“, um einen Staubblitz auszulösen.\nDer Effekt „Opfer des Schakals“ hält 8 s, 8-fach stapelbar. „Opfer des Schakals“ wird entfernt, sobald der Modus „Paktverschworener Pfadklärer“ der Fähigkeit „Heiliger Ritus – Schnelligkeit des Wolfs“ endet.\n0,4 s Abklingzeit für das Auslösen solch eines Staubblitzes.\nDas Aufstiegstalent „Urteil der Federn“ muss zuerst freigeschaltet werden."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Ordnungsritus – Unermüdliche Wachsamkeit",
-                                                                      "descriptionRaw":  "Erhöht 10 s lang nach Anwenden der Fähigkeit \u003ccolor=#FFD780FF\u003eHeiliger Ritus – Schnelligkeit des Wolfs\u003c/color\u003e Cynos Geschwindigkeit der Standardangriffe um 20 %. Wenn der Effekt „Zumessung“ des passiven Talents „Urteil der Federn“ beim Anwenden der Fähigkeit \u003ccolor=#FFD780FF\u003eGeheimer Ritus – Abgründiger Seelenwanderer\u003c/color\u003e ausgelöst wird, wird die Dauer dieses Bonus aktualisiert.\nDas passive Talent „Urteil der Federn“ muss zuerst freigeschaltet werden.",
-                                                                      "description":  "Erhöht 10 s lang nach Anwenden der Fähigkeit Heiliger Ritus – Schnelligkeit des Wolfs Cynos Geschwindigkeit der Standardangriffe um 20 %. Wenn der Effekt „Zumessung“ des passiven Talents „Urteil der Federn“ beim Anwenden der Fähigkeit Geheimer Ritus – Abgründiger Seelenwanderer ausgelöst wird, wird die Dauer dieses Bonus aktualisiert.\nDas passive Talent „Urteil der Federn“ muss zuerst freigeschaltet werden."
+                                                                      "descriptionRaw":  "#Erhöht 10{NON_BREAK_SPACE}s lang nach Anwenden der Fähigkeit \u003ccolor=#FFD780FF\u003eHeiliger Ritus – Schnelligkeit des Wolfs\u003c/color\u003e Cynos Geschwindigkeit der Standardangriffe um 20{NON_BREAK_SPACE}%. Wenn der Effekt „Zumessung“ des Aufstiegstalents „Urteil der Federn“ beim Anwenden der Fähigkeit \u003ccolor=#FFD780FF\u003eGeheimer Ritus – Abgründiger Seelenwanderer\u003c/color\u003e ausgelöst wird, wird die Dauer dieses Bonus aktualisiert.\nDas Aufstiegstalent „Urteil der Federn“ muss zuerst freigeschaltet werden.",
+                                                                      "description":  "Erhöht 10 s lang nach Anwenden der Fähigkeit Heiliger Ritus – Schnelligkeit des Wolfs Cynos Geschwindigkeit der Standardangriffe um 20 %. Wenn der Effekt „Zumessung“ des Aufstiegstalents „Urteil der Federn“ beim Anwenden der Fähigkeit Geheimer Ritus – Abgründiger Seelenwanderer ausgelöst wird, wird die Dauer dieses Bonus aktualisiert.\nDas Aufstiegstalent „Urteil der Federn“ muss zuerst freigeschaltet werden."
                                                                   }
                                                        },
                                     "elementText":  "Elektro",
@@ -4256,13 +4367,13 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Fesseln den Hochmütigen",
-                                                                             "descriptionRaw":  "#Erhöht beim Auslösen von \u003ccolor=#FFD780FF\u003eSchwarzgoldener Wolfsbiss\u003c/color\u003e den verursachten Schaden für jede Stapelung von „Erlass der Anklage“ des passiven Talents „Stunde der Vergeltung der Sünde“ um 40{NON_BREAK_SPACE}%.\nDas passive Talent „Stunde der Vergeltung der Sünde“ muss zuerst freigeschaltet werden.",
-                                                                             "description":  "Erhöht beim Auslösen von Schwarzgoldener Wolfsbiss den verursachten Schaden für jede Stapelung von „Erlass der Anklage“ des passiven Talents „Stunde der Vergeltung der Sünde“ um 40 %.\nDas passive Talent „Stunde der Vergeltung der Sünde“ muss zuerst freigeschaltet werden."
+                                                                             "descriptionRaw":  "#Erhöht beim Auslösen von \u003ccolor=#FFD780FF\u003eSchwarzgoldener Wolfsbiss\u003c/color\u003e den verursachten Schaden für jede Stapelung von „Erlass der Anklage“ des Aufstiegstalents „Stunde der Vergeltung der Sünde“ um 40{NON_BREAK_SPACE}%.\nDas Aufstiegstalent „Stunde der Vergeltung der Sünde“ muss zuerst freigeschaltet werden.",
+                                                                             "description":  "Erhöht beim Auslösen von Schwarzgoldener Wolfsbiss den verursachten Schaden für jede Stapelung von „Erlass der Anklage“ des Aufstiegstalents „Stunde der Vergeltung der Sünde“ um 40 %.\nDas Aufstiegstalent „Stunde der Vergeltung der Sünde“ muss zuerst freigeschaltet werden."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Erlösung den Leidenden",
-                                                                             "descriptionRaw":  "#Erhöht die Menge an LP, die Wriothesley durch Rüge – Gefrierende Sprungfaust wiederherstellt, auf 50{NON_BREAK_SPACE}% seiner max. LP. Das passive Talent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden.\nAußerdem treten unterschiedliche Effekte in Kraft, wenn die so wiederhergestellten LP einen Überschuss aufweisen, abhängig davon, ob Wriothesley die aktuelle Figur ist oder nicht: Ist Wriothesley die aktuelle Figur, erhöht sich seine Angriffs-GSW 4{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%; befindet er sich inaktiv in der Truppe, erhöht sich die Angriffs-GSW aller eigenen Truppenmitglieder 6{NON_BREAK_SPACE}s lang um 10{NON_BREAK_SPACE}%. Die beiden Boni der Angriffs-GSW können nicht gestapelt werden.",
-                                                                             "description":  "Erhöht die Menge an LP, die Wriothesley durch Rüge – Gefrierende Sprungfaust wiederherstellt, auf 50 % seiner max. LP. Das passive Talent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden.\nAußerdem treten unterschiedliche Effekte in Kraft, wenn die so wiederhergestellten LP einen Überschuss aufweisen, abhängig davon, ob Wriothesley die aktuelle Figur ist oder nicht: Ist Wriothesley die aktuelle Figur, erhöht sich seine Angriffs-GSW 4 s lang um 20 %; befindet er sich inaktiv in der Truppe, erhöht sich die Angriffs-GSW aller eigenen Truppenmitglieder 6 s lang um 10 %. Die beiden Boni der Angriffs-GSW können nicht gestapelt werden."
+                                                                             "descriptionRaw":  "#Erhöht die Menge an LP, die Wriothesley durch Rüge – Gefrierende Sprungfaust wiederherstellt, auf 50{NON_BREAK_SPACE}% seiner max. LP. Das Aufstiegstalent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden.\nAußerdem treten unterschiedliche Effekte in Kraft, wenn die so wiederhergestellten LP einen Überschuss aufweisen, abhängig davon, ob Wriothesley die aktuelle Figur ist oder nicht: Ist Wriothesley die aktuelle Figur, erhöht sich seine Angriffs-GSW 4{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%; befindet er sich inaktiv in der Truppe, erhöht sich die Angriffs-GSW aller eigenen Truppenmitglieder 6{NON_BREAK_SPACE}s lang um 10{NON_BREAK_SPACE}%. Die beiden Boni der Angriffs-GSW können nicht gestapelt werden.",
+                                                                             "description":  "Erhöht die Menge an LP, die Wriothesley durch Rüge – Gefrierende Sprungfaust wiederherstellt, auf 50 % seiner max. LP. Das Aufstiegstalent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden.\nAußerdem treten unterschiedliche Effekte in Kraft, wenn die so wiederhergestellten LP einen Überschuss aufweisen, abhängig davon, ob Wriothesley die aktuelle Figur ist oder nicht: Ist Wriothesley die aktuelle Figur, erhöht sich seine Angriffs-GSW 4 s lang um 20 %; befindet er sich inaktiv in der Truppe, erhöht sich die Angriffs-GSW aller eigenen Truppenmitglieder 6 s lang um 10 %. Die beiden Boni der Angriffs-GSW können nicht gestapelt werden."
                                                                          },
                                                                   "c3":  {
                                                                              "name":  "Bestrafung den Betrügern",
@@ -4276,13 +4387,13 @@
                                                                          },
                                                                   "c6":  {
                                                                              "name":  "Trost den Unschuldigen",
-                                                                             "descriptionRaw":  "#Erhöht die KT von Rüge – Gefrierende Sprungfaust um 10{NON_BREAK_SPACE}%, den kritischen Schaden davon um 80{NON_BREAK_SPACE}% und kann zusätzlich Eiszapfen erschaffen, die 100{NON_BREAK_SPACE}% des ursprünglichen Schadens als \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e verursachen. Der auf diese Weise verursachte Schaden wird als Schaden des heftigen Schlags betrachtet.\nDas passive Talent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden.",
-                                                                             "description":  "Erhöht die KT von Rüge – Gefrierende Sprungfaust um 10 %, den kritischen Schaden davon um 80 % und kann zusätzlich Eiszapfen erschaffen, die 100 % des ursprünglichen Schadens als Kryo-Schaden verursachen. Der auf diese Weise verursachte Schaden wird als Schaden des heftigen Schlags betrachtet.\nDas passive Talent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden."
+                                                                             "descriptionRaw":  "#Erhöht die KT von Rüge – Gefrierende Sprungfaust um 10{NON_BREAK_SPACE}%, den kritischen Schaden davon um 80{NON_BREAK_SPACE}% und kann zusätzlich Eiszapfen erschaffen, die 100{NON_BREAK_SPACE}% des ursprünglichen Schadens als \u003ccolor=#99FFFFFF\u003eKryo-Schaden\u003c/color\u003e verursachen. Der auf diese Weise verursachte Schaden wird als Schaden des heftigen Schlags betrachtet.\nDas Aufstiegstalent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden.",
+                                                                             "description":  "Erhöht die KT von Rüge – Gefrierende Sprungfaust um 10 %, den kritischen Schaden davon um 80 % und kann zusätzlich Eiszapfen erschaffen, die 100 % des ursprünglichen Schadens als Kryo-Schaden verursachen. Der auf diese Weise verursachte Schaden wird als Schaden des heftigen Schlags betrachtet.\nDas Aufstiegstalent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden."
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Angst den Übeltätern",
-                                                                             "descriptionRaw":  "#Ändert den Effekt „Gebot der Gnade“ von dem passiven Talent „Tag des Plädoyers der Gerechtigkeit“ wie folgt:\nWriothesley erhält „Gebot der Gnade“, sobald der fünfte Angriff einer Kombo seiner Sturmfäuste trifft, während seine LP unter 60{NON_BREAK_SPACE}% liegen oder er sich im Zustand „Eiskalte Bestrafung“ von \u003ccolor=#FFD780FF\u003eEiszahn-Ansturm\u003c/color\u003e befindet. 2,5{NON_BREAK_SPACE}s Abklingzeit.\n\nAußerdem wird Rüge – Gefrierende Sprungfaust wie folgt verstärkt:\n· Verursachter Schaden wird weiter auf bis zu 200{NON_BREAK_SPACE}% erhöht.\n· Verlängert die Dauer von „Eiskalter Bestrafung“ um 4{NON_BREAK_SPACE}s, wenn in diesem Zustand ein Treffer gelandet wird. Die Dauer von „Eiskalter Bestrafung“ kann während der Dauer eines Zustands nur einmal auf diese Weise verlängert werden.\n\nDas passive Talent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden.",
-                                                                             "description":  "Ändert den Effekt „Gebot der Gnade“ von dem passiven Talent „Tag des Plädoyers der Gerechtigkeit“ wie folgt:\nWriothesley erhält „Gebot der Gnade“, sobald der fünfte Angriff einer Kombo seiner Sturmfäuste trifft, während seine LP unter 60 % liegen oder er sich im Zustand „Eiskalte Bestrafung“ von Eiszahn-Ansturm befindet. 2,5 s Abklingzeit.\n\nAußerdem wird Rüge – Gefrierende Sprungfaust wie folgt verstärkt:\n· Verursachter Schaden wird weiter auf bis zu 200 % erhöht.\n· Verlängert die Dauer von „Eiskalter Bestrafung“ um 4 s, wenn in diesem Zustand ein Treffer gelandet wird. Die Dauer von „Eiskalter Bestrafung“ kann während der Dauer eines Zustands nur einmal auf diese Weise verlängert werden.\n\nDas passive Talent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden."
+                                                                             "descriptionRaw":  "#Ändert den Effekt „Gebot der Gnade“ von dem Aufstiegstalent „Tag des Plädoyers der Gerechtigkeit“ wie folgt:\nWriothesley erhält „Gebot der Gnade“, sobald der fünfte Angriff einer Kombo seiner Sturmfäuste trifft, während seine LP unter 60{NON_BREAK_SPACE}% liegen oder er sich im Zustand „Eiskalte Bestrafung“ von \u003ccolor=#FFD780FF\u003eEiszahn-Ansturm\u003c/color\u003e befindet. 2,5{NON_BREAK_SPACE}s Abklingzeit.\n\nAußerdem wird Rüge – Gefrierende Sprungfaust wie folgt verstärkt:\n· Verursachter Schaden wird weiter auf bis zu 200{NON_BREAK_SPACE}% erhöht.\n· Verlängert die Dauer von „Eiskalter Bestrafung“ um 4{NON_BREAK_SPACE}s, wenn in diesem Zustand ein Treffer gelandet wird. Die Dauer von „Eiskalter Bestrafung“ kann während der Dauer eines Zustands nur einmal auf diese Weise verlängert werden.\n\nDas Aufstiegstalent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden.",
+                                                                             "description":  "Ändert den Effekt „Gebot der Gnade“ von dem Aufstiegstalent „Tag des Plädoyers der Gerechtigkeit“ wie folgt:\nWriothesley erhält „Gebot der Gnade“, sobald der fünfte Angriff einer Kombo seiner Sturmfäuste trifft, während seine LP unter 60 % liegen oder er sich im Zustand „Eiskalte Bestrafung“ von Eiszahn-Ansturm befindet. 2,5 s Abklingzeit.\n\nAußerdem wird Rüge – Gefrierende Sprungfaust wie folgt verstärkt:\n· Verursachter Schaden wird weiter auf bis zu 200 % erhöht.\n· Verlängert die Dauer von „Eiskalter Bestrafung“ um 4 s, wenn in diesem Zustand ein Treffer gelandet wird. Die Dauer von „Eiskalter Bestrafung“ kann während der Dauer eines Zustands nur einmal auf diese Weise verlängert werden.\n\nDas Aufstiegstalent „Tag des Plädoyers der Gerechtigkeit“ muss zuerst freigeschaltet werden."
                                                                          }
                                                               },
                                            "elementText":  "Kryo",
@@ -4445,8 +4556,8 @@
                                                                            },
                                                                     "c1":  {
                                                                                "name":  "Plätscherndes Seewasser",
-                                                                               "descriptionRaw":  "#Stellt {F#der Reisenden}{M#dem Reisenden} nach Einsammeln von Quellwassertropfen 2 Punkte Elementarenergie wieder her.\nDas passive Talent „Ungetrübtes Wasser“ muss zuerst freigeschaltet werden.",
-                                                                               "description":  "Stellt dem Reisenden nach Einsammeln von Quellwassertropfen 2 Punkte Elementarenergie wieder her.\nDas passive Talent „Ungetrübtes Wasser“ muss zuerst freigeschaltet werden."
+                                                                               "descriptionRaw":  "#Stellt {F#der Reisenden}{M#dem Reisenden} nach Einsammeln von Quellwassertropfen 2 Punkte Elementarenergie wieder her.\nDas Aufstiegstalent „Ungetrübtes Wasser“ muss zuerst freigeschaltet werden.",
+                                                                               "description":  "Stellt dem Reisenden nach Einsammeln von Quellwassertropfen 2 Punkte Elementarenergie wieder her.\nDas Aufstiegstalent „Ungetrübtes Wasser“ muss zuerst freigeschaltet werden."
                                                                            }
                                                                 }
                                          },
@@ -4577,8 +4688,8 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Das Gesetz gebietet",
-                                                                             "descriptionRaw":  "#Verstärkt das passive Talent „Erbe des Relikts der uralten See“: Erhöht für jeden Stapel „Glorie längst vergangener Drachen“ den Kritischen Schaden von heftigem Schlag – Gerechter Vorstoß um 14{NON_BREAK_SPACE}%. Bis zu 42{NON_BREAK_SPACE}% Bonus auf diese Weise möglich.\nDas passive Talent „Erbe des Relikts der uralten See“ muss zuerst freigeschaltet werden.",
-                                                                             "description":  "Verstärkt das passive Talent „Erbe des Relikts der uralten See“: Erhöht für jeden Stapel „Glorie längst vergangener Drachen“ den Kritischen Schaden von heftigem Schlag – Gerechter Vorstoß um 14 %. Bis zu 42 % Bonus auf diese Weise möglich.\nDas passive Talent „Erbe des Relikts der uralten See“ muss zuerst freigeschaltet werden."
+                                                                             "descriptionRaw":  "#Verstärkt das Aufstiegstalent „Erbe des Relikts der uralten See“: Erhöht für jede Stapelung „Glorie längst vergangener Drachen“ den Kritischen Schaden von heftigem Schlag – Gerechter Vorstoß um 14{NON_BREAK_SPACE}%. Bis zu 42{NON_BREAK_SPACE}% Bonus auf diese Weise möglich.\nDas Aufstiegstalent „Erbe des Relikts der uralten See“ muss zuerst freigeschaltet werden.",
+                                                                             "description":  "Verstärkt das Aufstiegstalent „Erbe des Relikts der uralten See“: Erhöht für jede Stapelung „Glorie längst vergangener Drachen“ den Kritischen Schaden von heftigem Schlag – Gerechter Vorstoß um 14 %. Bis zu 42 % Bonus auf diese Weise möglich.\nDas Aufstiegstalent „Erbe des Relikts der uralten See“ muss zuerst freigeschaltet werden."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Gekrönt in Gnade",
@@ -4602,8 +4713,8 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Erschaffung von Amt und Würde",
-                                                                             "descriptionRaw":  "Neuvillette erhält beim Einwechseln einen Stapel „Glorie längst vergangener Drachen“ des passiven Talents „Erbe des Relikts der uralten See“. Das passive Talent „Erbe des Relikts der uralten See“ muss zuerst freigeschaltet werden.\nAußerdem erhöht sich beim Auslösen von Aufgeladener heftiger Schlag – Richterliche Prüfung und heftiger Schlag – Gerechter Vorstoß Neuvillettes Unterbrechungs-WDS.",
-                                                                             "description":  "Neuvillette erhält beim Einwechseln einen Stapel „Glorie längst vergangener Drachen“ des passiven Talents „Erbe des Relikts der uralten See“. Das passive Talent „Erbe des Relikts der uralten See“ muss zuerst freigeschaltet werden.\nAußerdem erhöht sich beim Auslösen von Aufgeladener heftiger Schlag – Richterliche Prüfung und heftiger Schlag – Gerechter Vorstoß Neuvillettes Unterbrechungs-WDS."
+                                                                             "descriptionRaw":  "Neuvillette erhält beim Einwechseln einen Stapel „Glorie längst vergangener Drachen“ des Aufstiegstalents „Erbe des Relikts der uralten See“. Das Aufstiegstalent „Erbe des Relikts der uralten See“ muss zuerst freigeschaltet werden.\nAußerdem erhöht sich beim Auslösen von Aufgeladener heftiger Schlag – Richterliche Prüfung und heftiger Schlag – Gerechter Vorstoß Neuvillettes Unterbrechungs-WDS.",
+                                                                             "description":  "Neuvillette erhält beim Einwechseln einen Stapel „Glorie längst vergangener Drachen“ des Aufstiegstalents „Erbe des Relikts der uralten See“. Das Aufstiegstalent „Erbe des Relikts der uralten See“ muss zuerst freigeschaltet werden.\nAußerdem erhöht sich beim Auslösen von Aufgeladener heftiger Schlag – Richterliche Prüfung und heftiger Schlag – Gerechter Vorstoß Neuvillettes Unterbrechungs-WDS."
                                                                          }
                                                               },
                                            "elementText":  "Hydro",
@@ -4638,13 +4749,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Ode an die Quellen der Tiefe",
-                                                                        "descriptionRaw":  "#Erhöht beim Auslösen von „Feinfühligkeit“ des passiven Talents „Nachtschatten-Synästhesie“ den ANG der eigenen aktuellen Figur in der Truppe 9{NON_BREAK_SPACE}s lang um 10{NON_BREAK_SPACE}%, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nLöst außerdem beim Anwenden der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eGedämpftes Echo der Finsternis\u003c/color\u003e einen Effekt aus, der „Feinfühligkeit“ gleicht, und verursacht Schaden in Höhe von 200{NON_BREAK_SPACE}% des ursprünglichen Schadens.\nDas passive Talent „Nachtschatten-Synästhesie“ muss für diesen Effekt zuerst freigeschaltet werden.",
-                                                                        "description":  "Erhöht beim Auslösen von „Feinfühligkeit“ des passiven Talents „Nachtschatten-Synästhesie“ den ANG der eigenen aktuellen Figur in der Truppe 9 s lang um 10 %, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nLöst außerdem beim Anwenden der Spezialfähigkeit Gedämpftes Echo der Finsternis einen Effekt aus, der „Feinfühligkeit“ gleicht, und verursacht Schaden in Höhe von 200 % des ursprünglichen Schadens.\nDas passive Talent „Nachtschatten-Synästhesie“ muss für diesen Effekt zuerst freigeschaltet werden."
+                                                                        "descriptionRaw":  "#Erhöht beim Auslösen von „Feinfühligkeit“ des Aufstiegstalents „Nachtschatten-Synästhesie“ den ANG der eigenen aktuellen Figur in der Truppe 9{NON_BREAK_SPACE}s lang um 10{NON_BREAK_SPACE}%, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nLöst außerdem beim Anwenden der Spezialfähigkeit \u003ccolor=#FFD780FF\u003eGedämpftes Echo der Finsternis\u003c/color\u003e einen Effekt aus, der „Feinfühligkeit“ gleicht, und verursacht Schaden in Höhe von 200{NON_BREAK_SPACE}% des ursprünglichen Schadens.\nDas Aufstiegstalent „Nachtschatten-Synästhesie“ muss für diesen Effekt zuerst freigeschaltet werden.",
+                                                                        "description":  "Erhöht beim Auslösen von „Feinfühligkeit“ des Aufstiegstalents „Nachtschatten-Synästhesie“ den ANG der eigenen aktuellen Figur in der Truppe 9 s lang um 10 %, 3-fach stapelbar, Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\nLöst außerdem beim Anwenden der Spezialfähigkeit Gedämpftes Echo der Finsternis einen Effekt aus, der „Feinfühligkeit“ gleicht, und verursacht Schaden in Höhe von 200 % des ursprünglichen Schadens.\nDas Aufstiegstalent „Nachtschatten-Synästhesie“ muss für diesen Effekt zuerst freigeschaltet werden."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Pfad im Waldnebel",
-                                                                        "descriptionRaw":  "#Lässt die \u003ccolor=#FFD780FF\u003eSeelenkugel\u003c/color\u003e der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eKette des Zwielichts\u003c/color\u003e 2-mal zusätzlich hüpfen.\nVerleiht außerdem den von der \u003ccolor=#FFD780FF\u003eSeelenkugel\u003c/color\u003e getroffenen Gegnern den 12{NON_BREAK_SPACE}s anhaltenden Effekt „Dunkelheit der Nacht“: Erhöht den den von diesem Effekt betroffenen Gegnern mit „Feinfühligkeit“ des passiven Talents „Nachtschatten-Synästhesie“ zugefügten Schaden um 50{NON_BREAK_SPACE}%. Das passive Talent „Nachtschatten-Synästhesie“ muss für diesen Effekt zuerst freigeschaltet werden.",
-                                                                        "description":  "Lässt die Seelenkugel der Elementarfähigkeit Kette des Zwielichts 2-mal zusätzlich hüpfen.\nVerleiht außerdem den von der Seelenkugel getroffenen Gegnern den 12 s anhaltenden Effekt „Dunkelheit der Nacht“: Erhöht den den von diesem Effekt betroffenen Gegnern mit „Feinfühligkeit“ des passiven Talents „Nachtschatten-Synästhesie“ zugefügten Schaden um 50 %. Das passive Talent „Nachtschatten-Synästhesie“ muss für diesen Effekt zuerst freigeschaltet werden."
+                                                                        "descriptionRaw":  "#Lässt die \u003ccolor=#FFD780FF\u003eSeelenkugel\u003c/color\u003e der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eKette des Zwielichts\u003c/color\u003e 2-mal zusätzlich hüpfen.\nVerleiht außerdem den von der \u003ccolor=#FFD780FF\u003eSeelenkugel\u003c/color\u003e getroffenen Gegnern den 12{NON_BREAK_SPACE}s anhaltenden Effekt „Dunkelheit der Nacht“: Erhöht den den von diesem Effekt betroffenen Gegnern mit „Feinfühligkeit“ des Aufstiegstalents „Nachtschatten-Synästhesie“ zugefügten Schaden um 50{NON_BREAK_SPACE}%. Das Aufstiegstalent „Nachtschatten-Synästhesie“ muss für diesen Effekt zuerst freigeschaltet werden.",
+                                                                        "description":  "Lässt die Seelenkugel der Elementarfähigkeit Kette des Zwielichts 2-mal zusätzlich hüpfen.\nVerleiht außerdem den von der Seelenkugel getroffenen Gegnern den 12 s anhaltenden Effekt „Dunkelheit der Nacht“: Erhöht den den von diesem Effekt betroffenen Gegnern mit „Feinfühligkeit“ des Aufstiegstalents „Nachtschatten-Synästhesie“ zugefügten Schaden um 50 %. Das Aufstiegstalent „Nachtschatten-Synästhesie“ muss für diesen Effekt zuerst freigeschaltet werden."
                                                                     }
                                                          },
                                       "elementText":  "Elektro",
@@ -4659,13 +4770,13 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Mualani gibt alles!",
-                                                                         "descriptionRaw":  "#Verleiht Mualani 2 Stapelungen Wellenschwung von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2{NON_BREAK_SPACE}s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden.",
-                                                                         "description":  "Verleiht Mualani 2 Stapelungen Wellenschwung von Haifischreitende Wellenspalterin, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2 s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden."
+                                                                         "descriptionRaw":  "#Verleiht Mualani 2 Stapelungen Wellenschwung von \u003ccolor=#FFD780FF\u003eHaifischreitende Wellenspalterin\u003c/color\u003e, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2{NON_BREAK_SPACE}s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das Aufstiegstalent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden.",
+                                                                         "description":  "Verleiht Mualani 2 Stapelungen Wellenschwung von Haifischreitende Wellenspalterin, wenn sie in den Zustand Nachtseelensegen tritt. Verleiht ihr 1 Stapelung Wellenschwung, wenn sie einen Kugelfisch-Ball erhält.\nStellt Mualani pro Nachtseelensegen innerhalb von 2 s nach dem Erhalten von 2 Kugelfisch-Bällen zusätzlich 12 Nachtseelenpunkte wieder her. Für diesen Effekt muss das Aufstiegstalent „Hitzebeständiger Süßwasserkugelfisch“ zuerst freigeschaltet werden."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Haifisch frisst Kugelfische",
-                                                                         "descriptionRaw":  "#Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e verursachten Schaden um 75{NON_BREAK_SPACE}%.",
-                                                                         "description":  "Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das passive Talent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch Haibitzen-Geschoss verursachten Schaden um 75 %."
+                                                                         "descriptionRaw":  "#Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das Aufstiegstalent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch \u003ccolor=#FFD780FF\u003eHaibitzen-Geschoss\u003c/color\u003e verursachten Schaden um 75{NON_BREAK_SPACE}%.",
+                                                                         "description":  "Stellt Mualani beim Erhalten eines Kugelfisch-Balls 8 Punkte Elementarenergie wieder her. Das Aufstiegstalent „Hitzebeständiger Süßwasserkugelfisch“ muss zuerst freigeschaltet werden.\nErhöht außerdem den durch Haibitzen-Geschoss verursachten Schaden um 75 %."
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Surfen auf fröhlichen Meeren",
@@ -4700,8 +4811,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Wanderin zwischen Bergen und Seen",
-                                                                        "descriptionRaw":  "#Ändert das passive Talent „Wiederkehr des fliegenden Laubs“ wie folgt:\nDas \u003ccolor=#FFD780FF\u003efliegende Laubrad\u003c/color\u003e verleiht bei seiner Rückkehr der Figur den Effekt „Jungtrieb“ des passiven Talents „Wiederkehr des fliegenden Laubs“, der 3{NON_BREAK_SPACE}s lang fortlaufend den Gegnern in der Nähe \u003ccolor=#99FF88FF\u003eDendro-Schaden\u003c/color\u003e in Höhe von 40{NON_BREAK_SPACE}% von Colleis ANG zufügt.\nWenn eines der eigenen Truppenmitglieder nach Anwenden der Fähigkeit \u003ccolor=#FFD780FF\u003eDer Kämpferin Laub\u003c/color\u003e und, bevor der aktuelle Effekt „Jungtrieb“ endet, Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“, „Flammenspross“ oder „Mondspross“ auslöst, wird dieser „Jungtrieb“ um 3{NON_BREAK_SPACE}s verlängert.\nDie Dauer des Effekts „Jungtrieb“ kann nur einmal auf diese Weise verlängert werden. Wird während der Dauer ein weiterer „Jungtrieb“ erzeugt, ersetzt er den bestehenden. Der vom Jungtrieb-Effekt verursachte Schaden gilt als Elementarfähigkeitsschaden.\nDas passive Talent „Wiederkehr des fliegenden Laubs“ muss zuerst freigeschaltet werden.",
-                                                                        "description":  "Ändert das passive Talent „Wiederkehr des fliegenden Laubs“ wie folgt:\nDas fliegende Laubrad verleiht bei seiner Rückkehr der Figur den Effekt „Jungtrieb“ des passiven Talents „Wiederkehr des fliegenden Laubs“, der 3 s lang fortlaufend den Gegnern in der Nähe Dendro-Schaden in Höhe von 40 % von Colleis ANG zufügt.\nWenn eines der eigenen Truppenmitglieder nach Anwenden der Fähigkeit Der Kämpferin Laub und, bevor der aktuelle Effekt „Jungtrieb“ endet, Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“, „Flammenspross“ oder „Mondspross“ auslöst, wird dieser „Jungtrieb“ um 3 s verlängert.\nDie Dauer des Effekts „Jungtrieb“ kann nur einmal auf diese Weise verlängert werden. Wird während der Dauer ein weiterer „Jungtrieb“ erzeugt, ersetzt er den bestehenden. Der vom Jungtrieb-Effekt verursachte Schaden gilt als Elementarfähigkeitsschaden.\nDas passive Talent „Wiederkehr des fliegenden Laubs“ muss zuerst freigeschaltet werden."
+                                                                        "descriptionRaw":  "#Ändert das Aufstiegstalent „Wiederkehr des fliegenden Laubs“ wie folgt:\nDas \u003ccolor=#FFD780FF\u003efliegende Laubrad\u003c/color\u003e verleiht bei seiner Rückkehr der Figur den Effekt „Jungtrieb“ des Aufstiegstalents „Wiederkehr des fliegenden Laubs“, der 3{NON_BREAK_SPACE}s lang fortlaufend den Gegnern in der Nähe \u003ccolor=#99FF88FF\u003eDendro-Schaden\u003c/color\u003e in Höhe von 40{NON_BREAK_SPACE}% von Colleis ANG zufügt.\nWenn eines der eigenen Truppenmitglieder nach Anwenden der Fähigkeit \u003ccolor=#FFD780FF\u003eDer Kämpferin Laub\u003c/color\u003e und, bevor der aktuelle Effekt „Jungtrieb“ endet, Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“, „Flammenspross“ oder „Mondspross“ auslöst, wird dieser „Jungtrieb“ um 3{NON_BREAK_SPACE}s verlängert.\nDie Dauer des Effekts „Jungtrieb“ kann nur einmal auf diese Weise verlängert werden. Wird während der Dauer ein weiterer „Jungtrieb“ erzeugt, ersetzt er den bestehenden. Der vom Jungtrieb-Effekt verursachte Schaden gilt als Elementarfähigkeitsschaden.\nDas Aufstiegstalent „Wiederkehr des fliegenden Laubs“ muss zuerst freigeschaltet werden.",
+                                                                        "description":  "Ändert das Aufstiegstalent „Wiederkehr des fliegenden Laubs“ wie folgt:\nDas fliegende Laubrad verleiht bei seiner Rückkehr der Figur den Effekt „Jungtrieb“ des Aufstiegstalents „Wiederkehr des fliegenden Laubs“, der 3 s lang fortlaufend den Gegnern in der Nähe Dendro-Schaden in Höhe von 40 % von Colleis ANG zufügt.\nWenn eines der eigenen Truppenmitglieder nach Anwenden der Fähigkeit Der Kämpferin Laub und, bevor der aktuelle Effekt „Jungtrieb“ endet, Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“, „Flammenspross“ oder „Mondspross“ auslöst, wird dieser „Jungtrieb“ um 3 s verlängert.\nDie Dauer des Effekts „Jungtrieb“ kann nur einmal auf diese Weise verlängert werden. Wird während der Dauer ein weiterer „Jungtrieb“ erzeugt, ersetzt er den bestehenden. Der vom Jungtrieb-Effekt verursachte Schaden gilt als Elementarfähigkeitsschaden.\nDas Aufstiegstalent „Wiederkehr des fliegenden Laubs“ muss zuerst freigeschaltet werden."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Waldgeschenk unterm Mond",
@@ -4782,8 +4893,8 @@
                                     "constellations":  {
                                                            "c2":  {
                                                                       "name":  "Eine Reise in Begleitung",
-                                                                      "descriptionRaw":  "Sobald der Frostfluss-Pfeil von \u003ccolor=#FFD780FF\u003eSternenfrost-Strudel\u003c/color\u003e zum ersten Mal, oder die Eisstern-Bake, einen Gegner trifft, wird 1 Stapelung des Effekts Entdeckung des passiven Talents „Unterdrückendes Sperrfeuer“ erschaffen.\nDas passive Talent „Unterdrückendes Sperrfeuer“ muss zuerst freigeschaltet werden.",
-                                                                      "description":  "Sobald der Frostfluss-Pfeil von Sternenfrost-Strudel zum ersten Mal, oder die Eisstern-Bake, einen Gegner trifft, wird 1 Stapelung des Effekts Entdeckung des passiven Talents „Unterdrückendes Sperrfeuer“ erschaffen.\nDas passive Talent „Unterdrückendes Sperrfeuer“ muss zuerst freigeschaltet werden."
+                                                                      "descriptionRaw":  "Sobald der Frostfluss-Pfeil von \u003ccolor=#FFD780FF\u003eSternenfrost-Strudel\u003c/color\u003e zum ersten Mal, oder die Eisstern-Bake, einen Gegner trifft, wird 1 Stapelung des Effekts Entdeckung des Aufstiegstalents „Unterdrückendes Sperrfeuer“ erschaffen.\nDas Aufstiegstalent „Unterdrückendes Sperrfeuer“ muss zuerst freigeschaltet werden.",
+                                                                      "description":  "Sobald der Frostfluss-Pfeil von Sternenfrost-Strudel zum ersten Mal, oder die Eisstern-Bake, einen Gegner trifft, wird 1 Stapelung des Effekts Entdeckung des Aufstiegstalents „Unterdrückendes Sperrfeuer“ erschaffen.\nDas Aufstiegstalent „Unterdrückendes Sperrfeuer“ muss zuerst freigeschaltet werden."
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Sonnenfrost-Segen",
@@ -4802,8 +4913,8 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Unterstützung von Mitstreitern",
-                                                                      "descriptionRaw":  "Erhöht die maximale Stapelung des Effekts Entdeckung des Zustands Seelenböe von \u003ccolor=#FFD780FF\u003eSternenfrost-Strudel\u003c/color\u003e um 1. Das passive Talent „Unterdrückendes Sperrfeuer“ muss zuerst freigeschaltet werden.\nAußerdem wird der KSCH des physischen Schadens der vom Zustand Seelenböe betroffenen aktiven Figuren um 60 % erhöht.",
-                                                                      "description":  "Erhöht die maximale Stapelung des Effekts Entdeckung des Zustands Seelenböe von Sternenfrost-Strudel um 1. Das passive Talent „Unterdrückendes Sperrfeuer“ muss zuerst freigeschaltet werden.\nAußerdem wird der KSCH des physischen Schadens der vom Zustand Seelenböe betroffenen aktiven Figuren um 60 % erhöht."
+                                                                      "descriptionRaw":  "#Erhöht die maximale Stapelung des Effekts Entdeckung des Zustands Seelenböe von \u003ccolor=#FFD780FF\u003eSternenfrost-Strudel\u003c/color\u003e um 1. Das Aufstiegstalent „Unterdrückendes Sperrfeuer“ muss zuerst freigeschaltet werden.\nAußerdem wird der KSCH des physischen Schadens der vom Zustand Seelenböe betroffenen aktiven Figuren um 60{NON_BREAK_SPACE}% erhöht.",
+                                                                      "description":  "Erhöht die maximale Stapelung des Effekts Entdeckung des Zustands Seelenböe von Sternenfrost-Strudel um 1. Das Aufstiegstalent „Unterdrückendes Sperrfeuer“ muss zuerst freigeschaltet werden.\nAußerdem wird der KSCH des physischen Schadens der vom Zustand Seelenböe betroffenen aktiven Figuren um 60 % erhöht."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Chaos der Eventualitäten",
@@ -4843,8 +4954,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Verkörperung der glückverheißenden Bestie",
-                                                                        "descriptionRaw":  "#Nach dem Treffen von Gegnern durch die Schuppendurchschlagskanone hüpft diese einmal zwischen den Gegnern hin und her und verursacht \u003ccolor=#99FF88FF\u003eDendro-Schaden\u003c/color\u003e in Höhe von 700{NON_BREAK_SPACE}% von Kinichs ANG.\nWenn die diesmalige Schuppendurchschlagskanone den Verstärkungseffekt für die Schuppendurchschlagskanone des passiven Talents Flammengeist-Pakt oder des Sternbildes Klaue des Tigers ausgelöst hat, wird der von ihr ausgelöste hüpfende Angriff ebenfalls verstärkt.",
-                                                                        "description":  "Nach dem Treffen von Gegnern durch die Schuppendurchschlagskanone hüpft diese einmal zwischen den Gegnern hin und her und verursacht Dendro-Schaden in Höhe von 700 % von Kinichs ANG.\nWenn die diesmalige Schuppendurchschlagskanone den Verstärkungseffekt für die Schuppendurchschlagskanone des passiven Talents Flammengeist-Pakt oder des Sternbildes Klaue des Tigers ausgelöst hat, wird der von ihr ausgelöste hüpfende Angriff ebenfalls verstärkt."
+                                                                        "descriptionRaw":  "#Nach dem Treffen von Gegnern durch die Schuppendurchschlagskanone hüpft diese einmal zwischen den Gegnern hin und her und verursacht \u003ccolor=#99FF88FF\u003eDendro-Schaden\u003c/color\u003e in Höhe von 700{NON_BREAK_SPACE}% von Kinichs ANG.\nWenn die diesmalige Schuppendurchschlagskanone den Verstärkungseffekt für die Schuppendurchschlagskanone des Aufstiegstalents Flammengeist-Pakt oder des Sternbildes Klaue des Tigers ausgelöst hat, wird der von ihr ausgelöste hüpfende Angriff ebenfalls verstärkt.",
+                                                                        "description":  "Nach dem Treffen von Gegnern durch die Schuppendurchschlagskanone hüpft diese einmal zwischen den Gegnern hin und her und verursacht Dendro-Schaden in Höhe von 700 % von Kinichs ANG.\nWenn die diesmalige Schuppendurchschlagskanone den Verstärkungseffekt für die Schuppendurchschlagskanone des Aufstiegstalents Flammengeist-Pakt oder des Sternbildes Klaue des Tigers ausgelöst hat, wird der von ihr ausgelöste hüpfende Angriff ebenfalls verstärkt."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Schnabel des Papageis",
@@ -4864,8 +4975,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Papyrus-Schrift der schweigenden Geheimnisse",
-                                                                        "descriptionRaw":  "#Erhöht Sethos’ \u003ccolor=#FFACFFFF\u003eElektro-SCH-Bonus\u003c/color\u003e beim Erfüllen einer der folgenden Bedingungen 10{NON_BREAK_SPACE}s lang um 15{NON_BREAK_SPACE}%, 2-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\n· Es wird Elementarenergie durch einen gezielten Schuss verbraucht. Hierfür muss das passive Talent „Metapher des Dunkelmilans“ zuerst freigeschaltet werden.\n· Es wird durch \u003ccolor=#FFD780FF\u003eUraltes Ritual – Donnergebrüll des Sandes\u003c/color\u003e eine Elementarreaktion ausgelöst, wobei Elementarenergie wiederhergestellt wird.\n· Anwenden von \u003ccolor=#FFD780FF\u003eGeheimes Ritual – Zwielicht-Schattenbohrer\u003c/color\u003e.",
-                                                                        "description":  "Erhöht Sethos’ Elektro-SCH-Bonus beim Erfüllen einer der folgenden Bedingungen 10 s lang um 15 %, 2-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\n· Es wird Elementarenergie durch einen gezielten Schuss verbraucht. Hierfür muss das passive Talent „Metapher des Dunkelmilans“ zuerst freigeschaltet werden.\n· Es wird durch Uraltes Ritual – Donnergebrüll des Sandes eine Elementarreaktion ausgelöst, wobei Elementarenergie wiederhergestellt wird.\n· Anwenden von Geheimes Ritual – Zwielicht-Schattenbohrer."
+                                                                        "descriptionRaw":  "#Erhöht Sethos’ \u003ccolor=#FFACFFFF\u003eElektro-SCH-Bonus\u003c/color\u003e beim Erfüllen einer der folgenden Bedingungen 10{NON_BREAK_SPACE}s lang um 15{NON_BREAK_SPACE}%, 2-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\n· Es wird Elementarenergie durch einen gezielten Schuss verbraucht. Hierfür muss das Aufstiegstalent „Metapher des Dunkelmilans“ zuerst freigeschaltet werden.\n· Es wird durch \u003ccolor=#FFD780FF\u003eUraltes Ritual – Donnergebrüll des Sandes\u003c/color\u003e eine Elementarreaktion ausgelöst, wobei Elementarenergie wiederhergestellt wird.\n· Anwenden von \u003ccolor=#FFD780FF\u003eGeheimes Ritual – Zwielicht-Schattenbohrer\u003c/color\u003e.",
+                                                                        "description":  "Erhöht Sethos’ Elektro-SCH-Bonus beim Erfüllen einer der folgenden Bedingungen 10 s lang um 15 %, 2-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet.\n· Es wird Elementarenergie durch einen gezielten Schuss verbraucht. Hierfür muss das Aufstiegstalent „Metapher des Dunkelmilans“ zuerst freigeschaltet werden.\n· Es wird durch Uraltes Ritual – Donnergebrüll des Sandes eine Elementarreaktion ausgelöst, wobei Elementarenergie wiederhergestellt wird.\n· Anwenden von Geheimes Ritual – Zwielicht-Schattenbohrer."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Sammlung der wohlwollenden Federn",
@@ -4884,8 +4995,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Foliant des Tempels der wandernden Sonne",
-                                                                        "descriptionRaw":  "#Erstattet, sobald ein Gegner vom \u003ccolor=#FFD780FF\u003eSchattenbohrerpfeil\u003c/color\u003e getroffen wird, die Elementarenergie, die mit „Metapher des Dunkelmilans“ verbraucht wurde, zurück, 15{NON_BREAK_SPACE}s Abklingzeit. Das passive Talent „Metapher des Dunkelmilans“ muss zuerst freigeschaltet werden.",
-                                                                        "description":  "Erstattet, sobald ein Gegner vom Schattenbohrerpfeil getroffen wird, die Elementarenergie, die mit „Metapher des Dunkelmilans“ verbraucht wurde, zurück, 15 s Abklingzeit. Das passive Talent „Metapher des Dunkelmilans“ muss zuerst freigeschaltet werden."
+                                                                        "descriptionRaw":  "#Erstattet, sobald ein Gegner vom \u003ccolor=#FFD780FF\u003eSchattenbohrerpfeil\u003c/color\u003e getroffen wird, die Elementarenergie, die mit „Metapher des Dunkelmilans“ verbraucht wurde, zurück, 15{NON_BREAK_SPACE}s Abklingzeit. Das Aufstiegstalent „Metapher des Dunkelmilans“ muss zuerst freigeschaltet werden.",
+                                                                        "description":  "Erstattet, sobald ein Gegner vom Schattenbohrerpfeil getroffen wird, die Elementarenergie, die mit „Metapher des Dunkelmilans“ verbraucht wurde, zurück, 15 s Abklingzeit. Das Aufstiegstalent „Metapher des Dunkelmilans“ muss zuerst freigeschaltet werden."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Spirituelles Lied des versiegelten Schreins",
@@ -5154,8 +5265,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Reise des Herzensverschlingers",
-                                                                         "descriptionRaw":  "#Erhöht Citlalis Elementarkunde um 125 Punkte. Erhöht die Elementarkunde anderer Figuren im Schutz vom Opal-Schild sowie derer, denen Itzpapa folgt, um 250 Punkte.\nVerleiht außerdem anderen aktuellen Figuren in der Nähe beim Auslösen der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwarzer Stern am frostigen Tag\u003c/color\u003e ebenfalls den Opal-Schild.\n\nVerstärkt den Effekt des passiven Talents „Mamaloacos eisiger Regen“:\nVerringert, wenn Itzpapa auf dem Feld ist und ein in der Nähe befindliches Truppenmitglied die Reaktionen „Gefroren“ oder „Schmelzen“ auslöst, den \u003ccolor=#FF9999FF\u003ePyro-\u003c/color\u003e sowie \u003ccolor=#80C0FFFF\u003eHydro-\u003c/color\u003eWDS des von der diesmaligen Reaktion betroffenen Gegners 12{NON_BREAK_SPACE}s lang zusätzlich um 20{NON_BREAK_SPACE}%. Das passive Talent „Mamaloacos eisiger Regen“ muss für diesen Effekt zuerst freigeschaltet werden.",
-                                                                         "description":  "Erhöht Citlalis Elementarkunde um 125 Punkte. Erhöht die Elementarkunde anderer Figuren im Schutz vom Opal-Schild sowie derer, denen Itzpapa folgt, um 250 Punkte.\nVerleiht außerdem anderen aktuellen Figuren in der Nähe beim Auslösen der Elementarfähigkeit Schwarzer Stern am frostigen Tag ebenfalls den Opal-Schild.\n\nVerstärkt den Effekt des passiven Talents „Mamaloacos eisiger Regen“:\nVerringert, wenn Itzpapa auf dem Feld ist und ein in der Nähe befindliches Truppenmitglied die Reaktionen „Gefroren“ oder „Schmelzen“ auslöst, den Pyro- sowie Hydro-WDS des von der diesmaligen Reaktion betroffenen Gegners 12 s lang zusätzlich um 20 %. Das passive Talent „Mamaloacos eisiger Regen“ muss für diesen Effekt zuerst freigeschaltet werden."
+                                                                         "descriptionRaw":  "#Erhöht Citlalis Elementarkunde um 125 Punkte. Erhöht die Elementarkunde anderer Figuren im Schutz vom Opal-Schild sowie derer, denen Itzpapa folgt, um 250 Punkte.\nVerleiht außerdem anderen aktuellen Figuren in der Nähe beim Auslösen der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwarzer Stern am frostigen Tag\u003c/color\u003e ebenfalls den Opal-Schild.\n\nVerstärkt den Effekt des Aufstiegstalents „Mamaloacos eisiger Regen“:\nVerringert, wenn Itzpapa auf dem Feld ist und ein in der Nähe befindliches Truppenmitglied die Reaktionen „Gefroren“ oder „Schmelzen“ auslöst, den \u003ccolor=#FF9999FF\u003ePyro-\u003c/color\u003e sowie \u003ccolor=#80C0FFFF\u003eHydro-\u003c/color\u003eWDS des von der diesmaligen Reaktion betroffenen Gegners 12{NON_BREAK_SPACE}s lang zusätzlich um 20{NON_BREAK_SPACE}%. Das Aufstiegstalent „Mamaloacos eisiger Regen“ muss für diesen Effekt zuerst freigeschaltet werden.",
+                                                                         "description":  "Erhöht Citlalis Elementarkunde um 125 Punkte. Erhöht die Elementarkunde anderer Figuren im Schutz vom Opal-Schild sowie derer, denen Itzpapa folgt, um 250 Punkte.\nVerleiht außerdem anderen aktuellen Figuren in der Nähe beim Auslösen der Elementarfähigkeit Schwarzer Stern am frostigen Tag ebenfalls den Opal-Schild.\n\nVerstärkt den Effekt des Aufstiegstalents „Mamaloacos eisiger Regen“:\nVerringert, wenn Itzpapa auf dem Feld ist und ein in der Nähe befindliches Truppenmitglied die Reaktionen „Gefroren“ oder „Schmelzen“ auslöst, den Pyro- sowie Hydro-WDS des von der diesmaligen Reaktion betroffenen Gegners 12 s lang zusätzlich um 20 %. Das Aufstiegstalent „Mamaloacos eisiger Regen“ muss für diesen Effekt zuerst freigeschaltet werden."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Seelenschädel des Todesverteidigers",
@@ -5384,8 +5495,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Die Frontlinie stabilisierende Entschlossenheit",
-                                                                           "descriptionRaw":  "#Gibt den aktuellen Figuren mit dem Effekt „Koordinierte Taktik“ (außer Chevreuse selbst), die die Reaktion „Überladen“ auslösen, 6 Punkte Elementarenergie, 10{NON_BREAK_SPACE}s Abklingzeit.\nDas passive Talent „Koordinierte Taktik der Vorhut“ muss zuerst freigeschaltet werden.",
-                                                                           "description":  "Gibt den aktuellen Figuren mit dem Effekt „Koordinierte Taktik“ (außer Chevreuse selbst), die die Reaktion „Überladen“ auslösen, 6 Punkte Elementarenergie, 10 s Abklingzeit.\nDas passive Talent „Koordinierte Taktik der Vorhut“ muss zuerst freigeschaltet werden."
+                                                                           "descriptionRaw":  "#Gibt den aktuellen Figuren mit dem Effekt „Koordinierte Taktik“ (außer Chevreuse selbst), die die Reaktion „Überladen“ auslösen, 6 Punkte Elementarenergie, 10{NON_BREAK_SPACE}s Abklingzeit.\nDas Aufstiegstalent „Koordinierte Taktik der Vorhut“ muss zuerst freigeschaltet werden.",
+                                                                           "description":  "Gibt den aktuellen Figuren mit dem Effekt „Koordinierte Taktik“ (außer Chevreuse selbst), die die Reaktion „Überladen“ auslösen, 6 Punkte Elementarenergie, 10 s Abklingzeit.\nDas Aufstiegstalent „Koordinierte Taktik der Vorhut“ muss zuerst freigeschaltet werden."
                                                                        }
                                                             },
                                          "elementText":  "Pyro",
@@ -5765,8 +5876,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Ausgestiegen aus der Welt",
-                                                                         "descriptionRaw":  "#Erhöht den ANG von Xianyun 15{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%, nachdem die Wolkenleiter von \u003ccolor=#FFD780FF\u003eWeiße Wolken der Morgenröte\u003c/color\u003e eingesetzt wurde.\nAußerdem werden die Effekte des passiven Talents „Siehe, die Adeptin in ihrem Reich“ verstärkt: Erhöht, wenn der durch \u003ccolor=#FFD780FF\u003eSich versammelnde Sterne der Dämmerung\u003c/color\u003e erschaffene Weidenstern über „adeptische Unterstützung“ verfügt, den von aktiven Figuren in der Nähe mit Angriffen aus dem Fall beim Aufkommen verursachten Schaden um 400{NON_BREAK_SPACE}% von Xianyuns ANG. Der max. Schadens-Bonus, der auf diese Weise erreicht werden kann, beträgt 18.000 Punkte.\nNur 1 Gegner kann von dem oben erwähnten erhöhten Schaden durch das Aufkommen jedes einzelnen Angriffs aus dem Fall betroffen sein. Jede Figur kann diesen Effekt einmal alle 0,4{NON_BREAK_SPACE}s auslösen.\nDas passive Talent „Siehe, die Adeptin in ihrem Reich“ muss zuerst freigeschaltet werden.",
-                                                                         "description":  "Erhöht den ANG von Xianyun 15 s lang um 20 %, nachdem die Wolkenleiter von Weiße Wolken der Morgenröte eingesetzt wurde.\nAußerdem werden die Effekte des passiven Talents „Siehe, die Adeptin in ihrem Reich“ verstärkt: Erhöht, wenn der durch Sich versammelnde Sterne der Dämmerung erschaffene Weidenstern über „adeptische Unterstützung“ verfügt, den von aktiven Figuren in der Nähe mit Angriffen aus dem Fall beim Aufkommen verursachten Schaden um 400 % von Xianyuns ANG. Der max. Schadens-Bonus, der auf diese Weise erreicht werden kann, beträgt 18.000 Punkte.\nNur 1 Gegner kann von dem oben erwähnten erhöhten Schaden durch das Aufkommen jedes einzelnen Angriffs aus dem Fall betroffen sein. Jede Figur kann diesen Effekt einmal alle 0,4 s auslösen.\nDas passive Talent „Siehe, die Adeptin in ihrem Reich“ muss zuerst freigeschaltet werden."
+                                                                         "descriptionRaw":  "#Erhöht den ANG von Xianyun 15{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%, nachdem die Wolkenleiter von \u003ccolor=#FFD780FF\u003eWeiße Wolken der Morgenröte\u003c/color\u003e eingesetzt wurde.\nAußerdem werden die Effekte des Aufstiegstalents „Siehe, die Adeptin in ihrem Reich“ verstärkt: Erhöht, wenn der durch \u003ccolor=#FFD780FF\u003eSich versammelnde Sterne der Dämmerung\u003c/color\u003e erschaffene Weidenstern über „adeptische Unterstützung“ verfügt, den von aktiven Figuren in der Nähe mit Angriffen aus dem Fall beim Aufkommen verursachten Schaden um 400{NON_BREAK_SPACE}% von Xianyuns ANG. Der max. Schadens-Bonus, der auf diese Weise erreicht werden kann, beträgt 18.000 Punkte.\nNur 1 Gegner kann von dem oben erwähnten erhöhten Schaden durch das Aufkommen jedes einzelnen Angriffs aus dem Fall betroffen sein. Jede Figur kann diesen Effekt einmal alle 0,4{NON_BREAK_SPACE}s auslösen.\nDas Aufstiegstalent „Siehe, die Adeptin in ihrem Reich“ muss zuerst freigeschaltet werden.",
+                                                                         "description":  "Erhöht den ANG von Xianyun 15 s lang um 20 %, nachdem die Wolkenleiter von Weiße Wolken der Morgenröte eingesetzt wurde.\nAußerdem werden die Effekte des Aufstiegstalents „Siehe, die Adeptin in ihrem Reich“ verstärkt: Erhöht, wenn der durch Sich versammelnde Sterne der Dämmerung erschaffene Weidenstern über „adeptische Unterstützung“ verfügt, den von aktiven Figuren in der Nähe mit Angriffen aus dem Fall beim Aufkommen verursachten Schaden um 400 % von Xianyuns ANG. Der max. Schadens-Bonus, der auf diese Weise erreicht werden kann, beträgt 18.000 Punkte.\nNur 1 Gegner kann von dem oben erwähnten erhöhten Schaden durch das Aufkommen jedes einzelnen Angriffs aus dem Fall betroffen sein. Jede Figur kann diesen Effekt einmal alle 0,4 s auslösen.\nDas Aufstiegstalent „Siehe, die Adeptin in ihrem Reich“ muss zuerst freigeschaltet werden."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Mysteriöser Hirse-Gourmet",
@@ -5847,8 +5958,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Angeruch der Seebrise",
-                                                                        "descriptionRaw":  "#Verringert den \u003ccolor=#99FF88FF\u003eDendro-WDS\u003c/color\u003e des Gegners 10{NON_BREAK_SPACE}s lang um 30{NON_BREAK_SPACE}%, wenn dieser von \u003ccolor=#FFD780FF\u003e„Essenzsammlung und Duftmischung“\u003c/color\u003e, \u003ccolor=#FFD780FF\u003e„Manifestation der driftenden Essenzen“\u003c/color\u003e oder Duft des klaren Taus des passiven Talents „Nachklingender Wohlgeruch“ (muss zuerst freigeschaltet werden) getroffen wird.",
-                                                                        "description":  "Verringert den Dendro-WDS des Gegners 10 s lang um 30 %, wenn dieser von „Essenzsammlung und Duftmischung“, „Manifestation der driftenden Essenzen“ oder Duft des klaren Taus des passiven Talents „Nachklingender Wohlgeruch“ (muss zuerst freigeschaltet werden) getroffen wird."
+                                                                        "descriptionRaw":  "#Verringert den \u003ccolor=#99FF88FF\u003eDendro-WDS\u003c/color\u003e des Gegners 10{NON_BREAK_SPACE}s lang um 30{NON_BREAK_SPACE}%, wenn dieser von \u003ccolor=#FFD780FF\u003e„Essenzsammlung und Duftmischung“\u003c/color\u003e, \u003ccolor=#FFD780FF\u003e„Manifestation der driftenden Essenzen“\u003c/color\u003e oder Duft des klaren Taus des Aufstiegstalents „Nachklingender Wohlgeruch“ (muss zuerst freigeschaltet werden) getroffen wird.",
+                                                                        "description":  "Verringert den Dendro-WDS des Gegners 10 s lang um 30 %, wenn dieser von „Essenzsammlung und Duftmischung“, „Manifestation der driftenden Essenzen“ oder Duft des klaren Taus des Aufstiegstalents „Nachklingender Wohlgeruch“ (muss zuerst freigeschaltet werden) getroffen wird."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Lumidouce-Herz",
@@ -5872,8 +5983,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Auslaugung leichter Düfte",
-                                                                        "descriptionRaw":  "#Erhöht den durch die Fähigkeit \u003ccolor=#FFD780FF\u003e„Essenzsammlung und Duftmischung“\u003c/color\u003e und den Duft des klaren Taus des passiven Talents „Nachklingender Wohlgeruch“ verursachten Schaden um 20{NON_BREAK_SPACE}%. Das passive Talent „Nachklingender Wohlgeruch“ muss für das Letztere zuerst freigeschaltet werden.\nWenn Truppenmitglieder in der Nähe an Gegnern die Reaktion „In Flammen“ auslösen oder den im Zustand „In Flammen“ befindlichen Gegnern \u003ccolor=#99FF88FF\u003eDendro-Schaden\u003c/color\u003e zufügen, wird außerdem eine zusätzliche \u003ccolor=#FFD780FF\u003eEssenz\u003c/color\u003e erschaffen, 2,9{NON_BREAK_SPACE}s Abklingzeit.",
-                                                                        "description":  "Erhöht den durch die Fähigkeit „Essenzsammlung und Duftmischung“ und den Duft des klaren Taus des passiven Talents „Nachklingender Wohlgeruch“ verursachten Schaden um 20 %. Das passive Talent „Nachklingender Wohlgeruch“ muss für das Letztere zuerst freigeschaltet werden.\nWenn Truppenmitglieder in der Nähe an Gegnern die Reaktion „In Flammen“ auslösen oder den im Zustand „In Flammen“ befindlichen Gegnern Dendro-Schaden zufügen, wird außerdem eine zusätzliche Essenz erschaffen, 2,9 s Abklingzeit."
+                                                                        "descriptionRaw":  "#Erhöht den durch die Fähigkeit \u003ccolor=#FFD780FF\u003e„Essenzsammlung und Duftmischung“\u003c/color\u003e und den Duft des klaren Taus des Aufstiegstalents „Nachklingender Wohlgeruch“ verursachten Schaden um 20{NON_BREAK_SPACE}%. Das Aufstiegstalent „Nachklingender Wohlgeruch“ muss für das Letztere zuerst freigeschaltet werden.\nWenn Truppenmitglieder in der Nähe an Gegnern die Reaktion „In Flammen“ auslösen oder den im Zustand „In Flammen“ befindlichen Gegnern \u003ccolor=#99FF88FF\u003eDendro-Schaden\u003c/color\u003e zufügen, wird außerdem eine zusätzliche \u003ccolor=#FFD780FF\u003eEssenz\u003c/color\u003e erschaffen, 2,9{NON_BREAK_SPACE}s Abklingzeit.",
+                                                                        "description":  "Erhöht den durch die Fähigkeit „Essenzsammlung und Duftmischung“ und den Duft des klaren Taus des Aufstiegstalents „Nachklingender Wohlgeruch“ verursachten Schaden um 20 %. Das Aufstiegstalent „Nachklingender Wohlgeruch“ muss für das Letztere zuerst freigeschaltet werden.\nWenn Truppenmitglieder in der Nähe an Gegnern die Reaktion „In Flammen“ auslösen oder den im Zustand „In Flammen“ befindlichen Gegnern Dendro-Schaden zufügen, wird außerdem eine zusätzliche Essenz erschaffen, 2,9 s Abklingzeit."
                                                                     }
                                                          },
                                       "elementText":  "Dendro",
@@ -6246,6 +6357,47 @@
                                      "region":  "Fontaine",
                                      "gender":  "Männlich"
                                  },
+                       "nefer":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Strategie durch Beobachtung",
+                                                                       "descriptionRaw":  "#Verstärkt die Effekte des Aufstiegstalents {LINK#P1222101}\u003ccolor=#FFD780FF\u003eGlücksspiel im Mondschein\u003c/color\u003e{/LINK}: Verlängert die Dauer von {LINK#N11220003}\u003ccolor=#FFD780FF\u003eSchleier der Scheingeheimnisse\u003c/color\u003e{/LINK} um 5{NON_BREAK_SPACE}s, erhöht die Obergrenze der Stapelungen auf 5 und lässt {LINK#N11220002}\u003ccolor=#FFD780FF\u003eFantasmaauftritt\u003c/color\u003e{/LINK} bis zu 140{NON_BREAK_SPACE}% des ursprünglichen Schadens verursachen. Verleiht Nefer beim Anwenden ihrer Elementarfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11222}Spielstrategie – Tanz der tausend Nächte{/LINK}\u003c/color\u003e sofort 2 Stapelungen „Schleier der Scheingeheimnisse“. Erhöht zudem, wenn „Schleier der Scheingeheimnisse“ 5-fach gestapelt wird oder die Dauer der 5 Stapelungen aktualisiert wird, Nefers Elementarkunde nun um 200 Punkte, hält 8{NON_BREAK_SPACE}s.\nDas Aufstiegstalent „Glücksspiel im Mondschein“ muss vorab freigeschaltet werden.",
+                                                                       "description":  "Verstärkt die Effekte des Aufstiegstalents **Glücksspiel im Mondschein**: Verlängert die Dauer von **Schleier der Scheingeheimnisse** um 5 s, erhöht die Obergrenze der Stapelungen auf 5 und lässt **Fantasmaauftritt** bis zu 140 % des ursprünglichen Schadens verursachen. Verleiht Nefer beim Anwenden ihrer Elementarfähigkeit **Spielstrategie – Tanz der tausend Nächte** sofort 2 Stapelungen „Schleier der Scheingeheimnisse“. Erhöht zudem, wenn „Schleier der Scheingeheimnisse“ 5-fach gestapelt wird oder die Dauer der 5 Stapelungen aktualisiert wird, Nefers Elementarkunde nun um 200 Punkte, hält 8 s.\nDas Aufstiegstalent „Glücksspiel im Mondschein“ muss vorab freigeschaltet werden."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Gefangen im Labyrinth der Rätsel",
+                                                                       "descriptionRaw":  "#Erhöht, wenn Nefer sich auf dem Feld und im Zustand {LINK#N11220001}\u003ccolor=#FFD780FF\u003eSchattentanz\u003c/color\u003e{/LINK} befindet, ihre Geschwindigkeit zum Erhalt von „Grünender Tau“ um 25{NON_BREAK_SPACE}%.\nVerringert zudem, wenn Nefer sich im Zustand „Schattentanz“ befindet, den \u003ccolor=#99FF88FF\u003eDendro-WDS\u003c/color\u003e von Gegnern in der Nähe um 20{NON_BREAK_SPACE}%. Dieser Effekt wird 4,5{NON_BREAK_SPACE}s, nachdem Nefer den Zustand „Schattentanz“ verlässt oder sie sich eine gewisse Distanz von den Gegnern entfernt, enden.",
+                                                                       "description":  "Erhöht, wenn Nefer sich auf dem Feld und im Zustand **Schattentanz** befindet, ihre Geschwindigkeit zum Erhalt von „Grünender Tau“ um 25 %.\nVerringert zudem, wenn Nefer sich im Zustand „Schattentanz“ befindet, den Dendro-WDS von Gegnern in der Nähe um 20 %. Dieser Effekt wird 4,5 s, nachdem Nefer den Zustand „Schattentanz“ verlässt oder sie sich eine gewisse Distanz von den Gegnern entfernt, enden."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Lügen verschleiern die Wahrheit",
+                                                                       "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11222}Spielstrategie – Tanz der tausend Nächte{/LINK}\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                       "description":  "Erhöht die Stufe der Elementarfähigkeit **Spielstrategie – Tanz der tausend Nächte** um 3.\nHöchststufe 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Chance im Verborgenen",
+                                                                       "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11225}Heiliger Pakt – Fantasmaauftritt vor wahren Augen{/LINK}\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                       "description":  "Erhöht die Stufe der Spezialfähigkeit **Heiliger Pakt – Fantasmaauftritt vor wahren Augen** um 3.\nHöchststufe 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Sieg entspringt dem Umbruch der Zeit",
+                                                                       "descriptionRaw":  "#Wandelt, wenn Nefer {LINK#N11220002}\u003ccolor=#FFD780FF\u003eFantasmaauftritt\u003c/color\u003e{/LINK} anwendet, die zweite Phase des von ihr selbst verursachten Schadens in \u003ccolor=#99FF88FF\u003eDendro-Flächenschaden\u003c/color\u003e in Höhe von 85{NON_BREAK_SPACE}% von Nefers Elementarkunde um. Verursacht zudem, wenn der Fantasmaauftritt-Angriff beendet ist, einmal \u003ccolor=#99FF88FF\u003eDendro-Flächenschaden\u003c/color\u003e in Höhe von 120{NON_BREAK_SPACE}% von Nefers Elementarkunde. Oben genannter Schaden gilt beides als mit Fantasmaaustritt verursachter Schaden der Reaktion Mondspross.\n\n\u003ccolor=#FFD780FF\u003eMondomen – Reifer Glanz\u003c/color\u003e \n{LINK#N11190007}\u003ccolor=#FFD780FF\u003eSteigert\u003c/color\u003e{/LINK} den von Nefer mit der Reaktion Mondspross verursachten Schaden um 15{NON_BREAK_SPACE}%.",
+                                                                       "description":  "Wandelt, wenn Nefer **Fantasmaauftritt** anwendet, die zweite Phase des von ihr selbst verursachten Schadens in Dendro-Flächenschaden in Höhe von 85 % von Nefers Elementarkunde um. Verursacht zudem, wenn der Fantasmaauftritt-Angriff beendet ist, einmal Dendro-Flächenschaden in Höhe von 120 % von Nefers Elementarkunde. Oben genannter Schaden gilt beides als mit Fantasmaaustritt verursachter Schaden der Reaktion Mondspross.\n\nMondomen – Reifer Glanz \n**Steigert** den von Nefer mit der Reaktion Mondspross verursachten Schaden um 15 %."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Erfolg durch Planung",
+                                                                       "descriptionRaw":  "#Erhöht den Basis-SCH der mithilfe von {LINK#N11220002}\u003ccolor=#FFD780FF\u003eFantasmaauftritt\u003c/color\u003e{/LINK} ausgelösten Reaktion Mondspross um 60{NON_BREAK_SPACE}% von Nefers Elementarkunde. Dieser Effekt wird von {LINK#N11220003}\u003ccolor=#FFD780FF\u003eSchleier der Scheingeheimnisse\u003c/color\u003e{/LINK} verstärkt.",
+                                                                       "description":  "Erhöht den Basis-SCH der mithilfe von **Fantasmaauftritt** ausgelösten Reaktion Mondspross um 60 % von Nefers Elementarkunde. Dieser Effekt wird von **Schleier der Scheingeheimnisse** verstärkt."
+                                                                   }
+                                                        },
+                                     "elementText":  "Dendro",
+                                     "fullname":  null,
+                                     "weaponText":  "Katalysator",
+                                     "name":  "Nefer",
+                                     "substatText":  "KSCH",
+                                     "region":  "Nod-Krai",
+                                     "gender":  "Weiblich"
+                                 },
                        "aloy":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6357,8 +6509,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "„Hoch jemand gleitet, in den Wolken geschwind“",
-                                                                        "descriptionRaw":  "Lan Yan wirft nach Auslösen der Elementarumwandlung des passiven Talents „Wahrsagung durch vier Klingen“ bei diesmaliger Anwendung der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwalbenschnitt-Tanz\u003c/color\u003e einen Mondsichelring mehr auf die Gegner.\nDas passive Talent „Wahrsagung durch vier Klingen“ muss zuerst freigeschaltet werden.",
-                                                                        "description":  "Lan Yan wirft nach Auslösen der Elementarumwandlung des passiven Talents „Wahrsagung durch vier Klingen“ bei diesmaliger Anwendung der Elementarfähigkeit Schwalbenschnitt-Tanz einen Mondsichelring mehr auf die Gegner.\nDas passive Talent „Wahrsagung durch vier Klingen“ muss zuerst freigeschaltet werden."
+                                                                        "descriptionRaw":  "Lan Yan wirft nach Auslösen der Elementarumwandlung des Aufstiegstalents „Wahrsagung durch vier Klingen“ bei diesmaliger Anwendung der Elementarfähigkeit \u003ccolor=#FFD780FF\u003eSchwalbenschnitt-Tanz\u003c/color\u003e einen Mondsichelring mehr auf die Gegner.\nDas Aufstiegstalent „Wahrsagung durch vier Klingen“ muss zuerst freigeschaltet werden.",
+                                                                        "description":  "Lan Yan wirft nach Auslösen der Elementarumwandlung des Aufstiegstalents „Wahrsagung durch vier Klingen“ bei diesmaliger Anwendung der Elementarfähigkeit Schwalbenschnitt-Tanz einen Mondsichelring mehr auf die Gegner.\nDas Aufstiegstalent „Wahrsagung durch vier Klingen“ muss zuerst freigeschaltet werden."
                                                                     }
                                                          },
                                       "elementText":  "Anemo",
@@ -6504,8 +6656,8 @@
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "Geheimrezept für Rosmarinduft",
-                                                                           "descriptionRaw":  "#Verlängert die Wirkungsdauer von {LINK#P1122101}\u003ccolor=#FFD780FF\u003eReha-Kost\u003c/color\u003e{/LINK} um 6{NON_BREAK_SPACE}s. Erhöht die während der Wirkungsdauer durch \u003ccolor=#FFD780FF\u003eReha-Kost\u003c/color\u003e ausgelöste Heilung mit einer Wahrscheinlichkeit in Höhe von Escoffiers KT um 100{NON_BREAK_SPACE}% und stellt Escoffier 2{NON_BREAK_SPACE}Punkte Elementarenergie wieder her. Dieser Effekt kann während der Wirkungsdauer von \u003ccolor=#FFD780FF\u003eReha-Kost\u003c/color\u003e höchstens 7-mal ausgelöst werden.\nDas passive Talent „Köstlichkeiten heilen besser als Kräuter“ muss zuerst freigeschaltet werden.",
-                                                                           "description":  "Verlängert die Wirkungsdauer von **Reha-Kost** um 6 s. Erhöht die während der Wirkungsdauer durch Reha-Kost ausgelöste Heilung mit einer Wahrscheinlichkeit in Höhe von Escoffiers KT um 100 % und stellt Escoffier 2 Punkte Elementarenergie wieder her. Dieser Effekt kann während der Wirkungsdauer von Reha-Kost höchstens 7-mal ausgelöst werden.\nDas passive Talent „Köstlichkeiten heilen besser als Kräuter“ muss zuerst freigeschaltet werden."
+                                                                           "descriptionRaw":  "#Verlängert die Wirkungsdauer von {LINK#P1122101}\u003ccolor=#FFD780FF\u003eReha-Kost\u003c/color\u003e{/LINK} um 6{NON_BREAK_SPACE}s. Erhöht die während der Wirkungsdauer durch \u003ccolor=#FFD780FF\u003eReha-Kost\u003c/color\u003e ausgelöste Heilung mit einer Wahrscheinlichkeit in Höhe von Escoffiers KT um 100{NON_BREAK_SPACE}% und stellt Escoffier 2{NON_BREAK_SPACE}Punkte Elementarenergie wieder her. Dieser Effekt kann während der Wirkungsdauer von \u003ccolor=#FFD780FF\u003eReha-Kost\u003c/color\u003e höchstens 7-mal ausgelöst werden.\nDas Aufstiegstalent „Köstlichkeiten heilen besser als Kräuter“ muss zuerst freigeschaltet werden.",
+                                                                           "description":  "Verlängert die Wirkungsdauer von **Reha-Kost** um 6 s. Erhöht die während der Wirkungsdauer durch Reha-Kost ausgelöste Heilung mit einer Wahrscheinlichkeit in Höhe von Escoffiers KT um 100 % und stellt Escoffier 2 Punkte Elementarenergie wieder her. Dieser Effekt kann während der Wirkungsdauer von Reha-Kost höchstens 7-mal ausgelöst werden.\nDas Aufstiegstalent „Köstlichkeiten heilen besser als Kräuter“ muss zuerst freigeschaltet werden."
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "Backmagie des Karamellisierens",
@@ -6524,8 +6676,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Tanz zur Vorbereitung der Geschmacksknospen",
-                                                                           "descriptionRaw":  "#Erhöht den KSCH des von allen Truppenmitgliedern in der Nähe verursachten \u003ccolor=#99FFFFFF\u003eKryo-Schadens\u003c/color\u003e 15{NON_BREAK_SPACE}s lang um 60{NON_BREAK_SPACE}%, nachdem Escoffier ihre Elementarfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11122}Niedrigtemperaturgaren{/LINK}\u003c/color\u003e oder ihre Spezialfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11125}Schnitttechnik{/LINK}\u003c/color\u003e angewendet hat, sofern der Elementartyp aller 4 Truppenmitglieder \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e oder \u003ccolor=#99FFFFFF\u003eKryo\u003c/color\u003e ist.\nDas passive Talent „Inspirierte Würze“ muss zuerst freigeschaltet werden.",
-                                                                           "description":  "Erhöht den KSCH des von allen Truppenmitgliedern in der Nähe verursachten Kryo-Schadens 15 s lang um 60 %, nachdem Escoffier ihre Elementarfähigkeit **Niedrigtemperaturgaren** oder ihre Spezialfähigkeit **Schnitttechnik** angewendet hat, sofern der Elementartyp aller 4 Truppenmitglieder Hydro oder Kryo ist.\nDas passive Talent „Inspirierte Würze“ muss zuerst freigeschaltet werden."
+                                                                           "descriptionRaw":  "#Erhöht den KSCH des von allen Truppenmitgliedern in der Nähe verursachten \u003ccolor=#99FFFFFF\u003eKryo-Schadens\u003c/color\u003e 15{NON_BREAK_SPACE}s lang um 60{NON_BREAK_SPACE}%, nachdem Escoffier ihre Elementarfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11122}Niedrigtemperaturgaren{/LINK}\u003c/color\u003e oder ihre Spezialfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11125}Schnitttechnik{/LINK}\u003c/color\u003e angewendet hat, sofern der Elementartyp aller 4 Truppenmitglieder \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e oder \u003ccolor=#99FFFFFF\u003eKryo\u003c/color\u003e ist.\nDas Aufstiegstalent „Inspirierte Würze“ muss zuerst freigeschaltet werden.",
+                                                                           "description":  "Erhöht den KSCH des von allen Truppenmitgliedern in der Nähe verursachten Kryo-Schadens 15 s lang um 60 %, nachdem Escoffier ihre Elementarfähigkeit **Niedrigtemperaturgaren** oder ihre Spezialfähigkeit **Schnitttechnik** angewendet hat, sofern der Elementartyp aller 4 Truppenmitglieder Hydro oder Kryo ist.\nDas Aufstiegstalent „Inspirierte Würze“ muss zuerst freigeschaltet werden."
                                                                        }
                                                             },
                                          "elementText":  "Kryo",
@@ -6745,8 +6897,8 @@
                                         "constellations":  {
                                                                "c2":  {
                                                                           "name":  "„Von nun an stelle ich mich den Gefahren der langen Nacht“",
-                                                                          "descriptionRaw":  "#Verstärkt den Effekt des passiven Talents „Finsternis zersetzende Flamme“: Erhöht den von Clorinde verursachten \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e mit ihrem Standardangriff und den von \u003ccolor=#FFD780FF\u003eSterbende Lichtstrahlen\u003c/color\u003e um 30{NON_BREAK_SPACE}% von Clorindes ANG, nachdem Truppenmitglieder in der Nähe bei Gegnern \u003ccolor=#FFACFFFF\u003eElektro-Reaktionen\u003c/color\u003e ausgelöst haben. Dieser Effekt hält 15{NON_BREAK_SPACE}s, 3-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Clorindes Unterbrechungs-WDS. Der max. Schaden-Bonus, der auf diese Weise für die oben genannten Angriffe erreicht werden kann, beträgt 2.700 Punkte.\nDas passive Talent „Finsternis zersetzende Flamme“ muss zuerst freigeschaltet werden.",
-                                                                          "description":  "Verstärkt den Effekt des passiven Talents „Finsternis zersetzende Flamme“: Erhöht den von Clorinde verursachten Elektro-Schaden mit ihrem Standardangriff und den von Sterbende Lichtstrahlen um 30 % von Clorindes ANG, nachdem Truppenmitglieder in der Nähe bei Gegnern Elektro-Reaktionen ausgelöst haben. Dieser Effekt hält 15 s, 3-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Clorindes Unterbrechungs-WDS. Der max. Schaden-Bonus, der auf diese Weise für die oben genannten Angriffe erreicht werden kann, beträgt 2.700 Punkte.\nDas passive Talent „Finsternis zersetzende Flamme“ muss zuerst freigeschaltet werden."
+                                                                          "descriptionRaw":  "#Verstärkt den Effekt des Aufstiegstalents „Finsternis zersetzende Flamme“: Erhöht den von Clorinde verursachten \u003ccolor=#FFACFFFF\u003eElektro-Schaden\u003c/color\u003e mit ihrem Standardangriff und den von \u003ccolor=#FFD780FF\u003eSterbende Lichtstrahlen\u003c/color\u003e um 30{NON_BREAK_SPACE}% von Clorindes ANG, nachdem Truppenmitglieder in der Nähe bei Gegnern \u003ccolor=#FFACFFFF\u003eElektro-Reaktionen\u003c/color\u003e ausgelöst haben. Dieser Effekt hält 15{NON_BREAK_SPACE}s, 3-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Clorindes Unterbrechungs-WDS. Der max. Schaden-Bonus, der auf diese Weise für die oben genannten Angriffe erreicht werden kann, beträgt 2.700 Punkte.\nDas Aufstiegstalent „Finsternis zersetzende Flamme“ muss zuerst freigeschaltet werden.",
+                                                                          "description":  "Verstärkt den Effekt des Aufstiegstalents „Finsternis zersetzende Flamme“: Erhöht den von Clorinde verursachten Elektro-Schaden mit ihrem Standardangriff und den von Sterbende Lichtstrahlen um 30 % von Clorindes ANG, nachdem Truppenmitglieder in der Nähe bei Gegnern Elektro-Reaktionen ausgelöst haben. Dieser Effekt hält 15 s, 3-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet. Erhöht bei 3 Stapelungen Clorindes Unterbrechungs-WDS. Der max. Schaden-Bonus, der auf diese Weise für die oben genannten Angriffe erreicht werden kann, beträgt 2.700 Punkte.\nDas Aufstiegstalent „Finsternis zersetzende Flamme“ muss zuerst freigeschaltet werden."
                                                                       },
                                                                "c4":  {
                                                                           "name":  "„In Erinnerung an die Tränen, das Leben und die Liebe“",
@@ -6909,8 +7061,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "Blumenregen des Sternenhimmels",
-                                                                       "descriptionRaw":  "#Verringert den \u003ccolor=#80C0FFFF\u003eHydro-WDS\u003c/color\u003e des Gegners 10{NON_BREAK_SPACE}s lang um 35{NON_BREAK_SPACE}%, nachdem diesem Gegner \u003ccolor=#80C0FFFF\u003eHydro-Schaden\u003c/color\u003e durch Figuren unter dem Effekt „Überfluss im goldenen Kelch“ zugefügt worden ist. Verringert den \u003ccolor=#99FF88FF\u003eDendro-WDS\u003c/color\u003e des Gegners 10{NON_BREAK_SPACE}s lang um 35{NON_BREAK_SPACE}%, nachdem die Reaktion „Sprießen“ oder „Mondspross“ diesem Gegner Schaden zugefügt hat.\nDas passive Talent „Hof der wirbelnden Blüten“ muss zuerst freigeschaltet werden.",
-                                                                       "description":  "Verringert den Hydro-WDS des Gegners 10 s lang um 35 %, nachdem diesem Gegner Hydro-Schaden durch Figuren unter dem Effekt „Überfluss im goldenen Kelch“ zugefügt worden ist. Verringert den Dendro-WDS des Gegners 10 s lang um 35 %, nachdem die Reaktion „Sprießen“ oder „Mondspross“ diesem Gegner Schaden zugefügt hat.\nDas passive Talent „Hof der wirbelnden Blüten“ muss zuerst freigeschaltet werden."
+                                                                       "descriptionRaw":  "#Verringert den \u003ccolor=#80C0FFFF\u003eHydro-WDS\u003c/color\u003e des Gegners 10{NON_BREAK_SPACE}s lang um 35{NON_BREAK_SPACE}%, nachdem diesem Gegner \u003ccolor=#80C0FFFF\u003eHydro-Schaden\u003c/color\u003e durch Figuren unter dem Effekt „Überfluss im goldenen Kelch“ zugefügt worden ist. Verringert den \u003ccolor=#99FF88FF\u003eDendro-WDS\u003c/color\u003e des Gegners 10{NON_BREAK_SPACE}s lang um 35{NON_BREAK_SPACE}%, nachdem die Reaktion „Sprießen“ oder „Mondspross“ diesem Gegner Schaden zugefügt hat.\nDas Aufstiegstalent „Hof der wirbelnden Blüten“ muss zuerst freigeschaltet werden.",
+                                                                       "description":  "Verringert den Hydro-WDS des Gegners 10 s lang um 35 %, nachdem diesem Gegner Hydro-Schaden durch Figuren unter dem Effekt „Überfluss im goldenen Kelch“ zugefügt worden ist. Verringert den Dendro-WDS des Gegners 10 s lang um 35 %, nachdem die Reaktion „Sprießen“ oder „Mondspross“ diesem Gegner Schaden zugefügt hat.\nDas Aufstiegstalent „Hof der wirbelnden Blüten“ muss zuerst freigeschaltet werden."
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Ruckender Rhythmus",
@@ -6950,8 +7102,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Die Mündung, sengender Qualm",
-                                                                        "descriptionRaw":  "#Verleiht Chasca beim Einwechseln 1 Stapelung „Funkel-Schattenseele“ ihres passiven Talents „Kugeltrick“. Das passive Talent „Kugeltrick“ muss für diesen Effekt zuerst freigeschaltet werden.\nTreffen Chascas \u003ccolor=#FFD780FF\u003eFunkel-Schattenjagd-Projektile\u003c/color\u003e Gegner, während \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e ihrer Elementarfähigkeit \u003ccolor=#FFD780FF\u003eAuf der Jagd nach dem Schatten\u003c/color\u003e angewendet wird, verursachen diese dem Elementartyp des \u003ccolor=#FFD780FF\u003eFunkel-Schattenjagd-Projektils\u003c/color\u003e entsprechenden Flächenschaden in Höhe von 400{NON_BREAK_SPACE}% von Chascas ANG. Hierdurch verursachter Schaden gilt als Schaden von heftigen Schlägen. Dieser Effekt kann jeweils nur einmal beim Anwenden von \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e ausgelöst werden.",
-                                                                        "description":  "Verleiht Chasca beim Einwechseln 1 Stapelung „Funkel-Schattenseele“ ihres passiven Talents „Kugeltrick“. Das passive Talent „Kugeltrick“ muss für diesen Effekt zuerst freigeschaltet werden.\nTreffen Chascas Funkel-Schattenjagd-Projektile Gegner, während Mehrfaches Zielen ihrer Elementarfähigkeit Auf der Jagd nach dem Schatten angewendet wird, verursachen diese dem Elementartyp des Funkel-Schattenjagd-Projektils entsprechenden Flächenschaden in Höhe von 400 % von Chascas ANG. Hierdurch verursachter Schaden gilt als Schaden von heftigen Schlägen. Dieser Effekt kann jeweils nur einmal beim Anwenden von Mehrfaches Zielen ausgelöst werden."
+                                                                        "descriptionRaw":  "#Verleiht Chasca beim Einwechseln 1 Stapelung „Funkel-Schattenseele“ ihres Aufstiegstalents „Kugeltrick“. Das Aufstiegstalent „Kugeltrick“ muss für diesen Effekt zuerst freigeschaltet werden.\nTreffen Chascas \u003ccolor=#FFD780FF\u003eFunkel-Schattenjagd-Projektile\u003c/color\u003e Gegner, während \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e ihrer Elementarfähigkeit \u003ccolor=#FFD780FF\u003eAuf der Jagd nach dem Schatten\u003c/color\u003e angewendet wird, verursachen diese dem Elementartyp des \u003ccolor=#FFD780FF\u003eFunkel-Schattenjagd-Projektils\u003c/color\u003e entsprechenden Flächenschaden in Höhe von 400{NON_BREAK_SPACE}% von Chascas ANG. Hierdurch verursachter Schaden gilt als Schaden von heftigen Schlägen. Dieser Effekt kann jeweils nur einmal beim Anwenden von \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e ausgelöst werden.",
+                                                                        "description":  "Verleiht Chasca beim Einwechseln 1 Stapelung „Funkel-Schattenseele“ ihres Aufstiegstalents „Kugeltrick“. Das Aufstiegstalent „Kugeltrick“ muss für diesen Effekt zuerst freigeschaltet werden.\nTreffen Chascas Funkel-Schattenjagd-Projektile Gegner, während Mehrfaches Zielen ihrer Elementarfähigkeit Auf der Jagd nach dem Schatten angewendet wird, verursachen diese dem Elementartyp des Funkel-Schattenjagd-Projektils entsprechenden Flächenschaden in Höhe von 400 % von Chascas ANG. Hierdurch verursachter Schaden gilt als Schaden von heftigen Schlägen. Dieser Effekt kann jeweils nur einmal beim Anwenden von Mehrfaches Zielen ausgelöst werden."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Der Funke, ein plötzlicher Schuss",
@@ -6970,13 +7122,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Das letzte Duell, der Ruhm der Schlacht",
-                                                                        "descriptionRaw":  "#Verringert die für Chascas \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e benötigte Zeit. Chasca tritt, nachdem sie „Wechsel der Nachtseelenbindung“ ihres passiven Talents „Kugeltrick“ ausgelöst hat, in den Zustand „Der letzte Tanz“ ein. Löst sie danach innerhalb von 3{NON_BREAK_SPACE}s \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e ihrer Elementarfähigkeit \u003ccolor=#FFD780FF\u003eAuf der Jagd nach dem Schatten\u003c/color\u003e aus, wird das entsprechende Aufladen sofort abgeschlossen und der KSCH der \u003ccolor=#FFD780FF\u003eSchattenjagd-Projektile\u003c/color\u003e und \u003ccolor=#FFD780FF\u003eFunkel-Schattenjagd-Projektile\u003c/color\u003e von \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e wird dieses Mal um 120{NON_BREAK_SPACE}% erhöht. 3{NON_BREAK_SPACE}s Abklingzeit für das Erhalten des Effekts „Der letzte Tanz“.\n\nDas passive Talent „Kugeltrick“ muss für diesen Effekt zuerst freigeschaltet werden.",
-                                                                        "description":  "Verringert die für Chascas Mehrfaches Zielen benötigte Zeit. Chasca tritt, nachdem sie „Wechsel der Nachtseelenbindung“ ihres passiven Talents „Kugeltrick“ ausgelöst hat, in den Zustand „Der letzte Tanz“ ein. Löst sie danach innerhalb von 3 s Mehrfaches Zielen ihrer Elementarfähigkeit Auf der Jagd nach dem Schatten aus, wird das entsprechende Aufladen sofort abgeschlossen und der KSCH der Schattenjagd-Projektile und Funkel-Schattenjagd-Projektile von Mehrfaches Zielen wird dieses Mal um 120 % erhöht. 3 s Abklingzeit für das Erhalten des Effekts „Der letzte Tanz“.\n\nDas passive Talent „Kugeltrick“ muss für diesen Effekt zuerst freigeschaltet werden."
+                                                                        "descriptionRaw":  "#Verringert die für Chascas \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e benötigte Zeit. Chasca tritt, nachdem sie „Wechsel der Nachtseelenbindung“ ihres Aufstiegstalents „Kugeltrick“ ausgelöst hat, in den Zustand „Der letzte Tanz“ ein. Löst sie danach innerhalb von 3{NON_BREAK_SPACE}s \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e ihrer Elementarfähigkeit \u003ccolor=#FFD780FF\u003eAuf der Jagd nach dem Schatten\u003c/color\u003e aus, wird das entsprechende Aufladen sofort abgeschlossen und der KSCH der \u003ccolor=#FFD780FF\u003eSchattenjagd-Projektile\u003c/color\u003e und \u003ccolor=#FFD780FF\u003eFunkel-Schattenjagd-Projektile\u003c/color\u003e von \u003ccolor=#FFD780FF\u003eMehrfaches Zielen\u003c/color\u003e wird dieses Mal um 120{NON_BREAK_SPACE}% erhöht. 3{NON_BREAK_SPACE}s Abklingzeit für das Erhalten des Effekts „Der letzte Tanz“.\n\nDas Aufstiegstalent „Kugeltrick“ muss für diesen Effekt zuerst freigeschaltet werden.",
+                                                                        "description":  "Verringert die für Chascas Mehrfaches Zielen benötigte Zeit. Chasca tritt, nachdem sie „Wechsel der Nachtseelenbindung“ ihres Aufstiegstalents „Kugeltrick“ ausgelöst hat, in den Zustand „Der letzte Tanz“ ein. Löst sie danach innerhalb von 3 s Mehrfaches Zielen ihrer Elementarfähigkeit Auf der Jagd nach dem Schatten aus, wird das entsprechende Aufladen sofort abgeschlossen und der KSCH der Schattenjagd-Projektile und Funkel-Schattenjagd-Projektile von Mehrfaches Zielen wird dieses Mal um 120 % erhöht. 3 s Abklingzeit für das Erhalten des Effekts „Der letzte Tanz“.\n\nDas Aufstiegstalent „Kugeltrick“ muss für diesen Effekt zuerst freigeschaltet werden."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Das Magazin, rastloses Roulette",
-                                                                        "descriptionRaw":  "#Beim Auslösen von „Wechsel der Nachtseelenbindung“ des passiven Talents „Kugeltrick“ wird zusätzlich das zweite ins Magazin geladene \u003ccolor=#FFD780FF\u003eSchattenjagd-Projektil\u003c/color\u003e zu einem \u003ccolor=#FFD780FF\u003eFunkel-Schattenjagd-Projektil\u003c/color\u003e umgewandelt.\nErhöht die Wahrscheinlichkeit des Auslösens von „Wechsel der Nachtseelenbindung“: Wenn sich in der Truppe eine Figur befindet, deren Elementartyp die Bedingungen zur Elementarumwandlung erfüllt, erhöht sich die Wahrscheinlichkeit des Auslösens von „Wechsel der Nachtseelenbindung“ um 33,3{NON_BREAK_SPACE}%, höchstens auf 100{NON_BREAK_SPACE}%.\n\nDas passive Talent „Kugeltrick“ muss zuerst freigeschaltet werden.\nAußerdem verringert sich Chascas Verbrauch an Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30{NON_BREAK_SPACE}%, wenn sie sich nicht im Kampf befindet.",
-                                                                        "description":  "Beim Auslösen von „Wechsel der Nachtseelenbindung“ des passiven Talents „Kugeltrick“ wird zusätzlich das zweite ins Magazin geladene Schattenjagd-Projektil zu einem Funkel-Schattenjagd-Projektil umgewandelt.\nErhöht die Wahrscheinlichkeit des Auslösens von „Wechsel der Nachtseelenbindung“: Wenn sich in der Truppe eine Figur befindet, deren Elementartyp die Bedingungen zur Elementarumwandlung erfüllt, erhöht sich die Wahrscheinlichkeit des Auslösens von „Wechsel der Nachtseelenbindung“ um 33,3 %, höchstens auf 100 %.\n\nDas passive Talent „Kugeltrick“ muss zuerst freigeschaltet werden.\nAußerdem verringert sich Chascas Verbrauch an Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30 %, wenn sie sich nicht im Kampf befindet."
+                                                                        "descriptionRaw":  "#Beim Auslösen von „Wechsel der Nachtseelenbindung“ des Aufstiegstalents „Kugeltrick“ wird zusätzlich das zweite ins Magazin geladene \u003ccolor=#FFD780FF\u003eSchattenjagd-Projektil\u003c/color\u003e zu einem \u003ccolor=#FFD780FF\u003eFunkel-Schattenjagd-Projektil\u003c/color\u003e umgewandelt.\nErhöht die Wahrscheinlichkeit des Auslösens von „Wechsel der Nachtseelenbindung“: Wenn sich in der Truppe eine Figur befindet, deren Elementartyp die Bedingungen zur Elementarumwandlung erfüllt, erhöht sich die Wahrscheinlichkeit des Auslösens von „Wechsel der Nachtseelenbindung“ um 33,3{NON_BREAK_SPACE}%, höchstens auf 100{NON_BREAK_SPACE}%.\n\nDas Aufstiegstalent „Kugeltrick“ muss zuerst freigeschaltet werden.\nAußerdem verringert sich Chascas Verbrauch an Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30{NON_BREAK_SPACE}%, wenn sie sich nicht im Kampf befindet.",
+                                                                        "description":  "Beim Auslösen von „Wechsel der Nachtseelenbindung“ des Aufstiegstalents „Kugeltrick“ wird zusätzlich das zweite ins Magazin geladene Schattenjagd-Projektil zu einem Funkel-Schattenjagd-Projektil umgewandelt.\nErhöht die Wahrscheinlichkeit des Auslösens von „Wechsel der Nachtseelenbindung“: Wenn sich in der Truppe eine Figur befindet, deren Elementartyp die Bedingungen zur Elementarumwandlung erfüllt, erhöht sich die Wahrscheinlichkeit des Auslösens von „Wechsel der Nachtseelenbindung“ um 33,3 %, höchstens auf 100 %.\n\nDas Aufstiegstalent „Kugeltrick“ muss zuerst freigeschaltet werden.\nAußerdem verringert sich Chascas Verbrauch an Nachtseelenpunkten und Phlogiston im Zustand Nachtseelensegen um 30 %, wenn sie sich nicht im Kampf befindet."
                                                                     }
                                                          },
                                       "elementText":  "Anemo",
@@ -10222,6 +10374,53 @@
                                                     },
                                              "effectName":  "Göttliche Fügung"
                                          },
+                    "reliquaryoftruth":  {
+                                             "r3":  {
+                                                        "description":  "Erhöht die KT um 12 %. Verleiht dem Träger beim Anwenden der Elementarfähigkeit den Effekt „Geheimnis der Lüge“: Erhöht die Elementarkunde 12 s lang um 120 Punkte. Verleiht dem Träger, wenn er Gegnern durch die Reaktion Mondspross Schaden zufügt, den Effekt „Mond der wahren Erkenntnis“: Erhöht den kritischen Schaden 4 s lang um 36 %. Erhöht, wenn die Effekte „Geheimnis der Lüge“ und „Mond der wahren Erkenntnis“ gleichzeitig existieren, die Wirkung beider Effekte jeweils um 50 %.",
+                                                        "values":  [
+                                                                       "12{NON_BREAK_SPACE}%",
+                                                                       "120",
+                                                                       "36{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Erhöht die KT um 16 %. Verleiht dem Träger beim Anwenden der Elementarfähigkeit den Effekt „Geheimnis der Lüge“: Erhöht die Elementarkunde 12 s lang um 160 Punkte. Verleiht dem Träger, wenn er Gegnern durch die Reaktion Mondspross Schaden zufügt, den Effekt „Mond der wahren Erkenntnis“: Erhöht den kritischen Schaden 4 s lang um 48 %. Erhöht, wenn die Effekte „Geheimnis der Lüge“ und „Mond der wahren Erkenntnis“ gleichzeitig existieren, die Wirkung beider Effekte jeweils um 50 %.",
+                                                        "values":  [
+                                                                       "16{NON_BREAK_SPACE}%",
+                                                                       "160",
+                                                                       "48{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Erhöht die KT um 10 %. Verleiht dem Träger beim Anwenden der Elementarfähigkeit den Effekt „Geheimnis der Lüge“: Erhöht die Elementarkunde 12 s lang um 100 Punkte. Verleiht dem Träger, wenn er Gegnern durch die Reaktion Mondspross Schaden zufügt, den Effekt „Mond der wahren Erkenntnis“: Erhöht den kritischen Schaden 4 s lang um 30 %. Erhöht, wenn die Effekte „Geheimnis der Lüge“ und „Mond der wahren Erkenntnis“ gleichzeitig existieren, die Wirkung beider Effekte jeweils um 50 %.",
+                                                        "values":  [
+                                                                       "10{NON_BREAK_SPACE}%",
+                                                                       "100",
+                                                                       "30{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Erhöht die KT um 14 %. Verleiht dem Träger beim Anwenden der Elementarfähigkeit den Effekt „Geheimnis der Lüge“: Erhöht die Elementarkunde 12 s lang um 140 Punkte. Verleiht dem Träger, wenn er Gegnern durch die Reaktion Mondspross Schaden zufügt, den Effekt „Mond der wahren Erkenntnis“: Erhöht den kritischen Schaden 4 s lang um 42 %. Erhöht, wenn die Effekte „Geheimnis der Lüge“ und „Mond der wahren Erkenntnis“ gleichzeitig existieren, die Wirkung beider Effekte jeweils um 50 %.",
+                                                        "values":  [
+                                                                       "14{NON_BREAK_SPACE}%",
+                                                                       "140",
+                                                                       "42{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "KSCH",
+                                             "weaponText":  "Katalysator",
+                                             "name":  "Kästchen der Wahrheit",
+                                             "effectTemplateRaw":  "#Erhöht die KT um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Verleiht dem Träger beim Anwenden der Elementarfähigkeit den Effekt „Geheimnis der Lüge“: Erhöht die Elementarkunde 12{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}Punkte. Verleiht dem Träger, wenn er Gegnern durch die Reaktion Mondspross Schaden zufügt, den Effekt „Mond der wahren Erkenntnis“: Erhöht den kritischen Schaden 4{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e. Erhöht, wenn die Effekte „Geheimnis der Lüge“ und „Mond der wahren Erkenntnis“ gleichzeitig existieren, die Wirkung beider Effekte jeweils um 50{NON_BREAK_SPACE}%.",
+                                             "r1":  {
+                                                        "description":  "Erhöht die KT um 8 %. Verleiht dem Träger beim Anwenden der Elementarfähigkeit den Effekt „Geheimnis der Lüge“: Erhöht die Elementarkunde 12 s lang um 80 Punkte. Verleiht dem Träger, wenn er Gegnern durch die Reaktion Mondspross Schaden zufügt, den Effekt „Mond der wahren Erkenntnis“: Erhöht den kritischen Schaden 4 s lang um 24 %. Erhöht, wenn die Effekte „Geheimnis der Lüge“ und „Mond der wahren Erkenntnis“ gleichzeitig existieren, die Wirkung beider Effekte jeweils um 50 %.",
+                                                        "values":  [
+                                                                       "8{NON_BREAK_SPACE}%",
+                                                                       "80",
+                                                                       "24{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Wahrheit hinter Lügen"
+                                         },
                     "keyofkhajnisut":  {
                                            "r3":  {
                                                       "description":  "Erhöht die LP um 30 %. Löst nach dem Treffen von Gegnern mit der Elementarfähigkeit den Effekt „Grandiose Verse“ aus, der 20 s hält: Erhöht die Elementarkunde der damit ausgerüsteten Figur um 0,18 % ihrer max. LP, 0,3 s Abklingzeit, 3-fach stapelbar. Erhöht bei 3 Stapelungen oder der Aktualisierung der Wirkungsdauer der dritten Stapelung die Elementarkunde aller Truppenmitglieder in der Nähe um 0,3 % der max. LP der damit ausgerüsteten Figur, hält 20 s.",
@@ -11715,6 +11914,48 @@
                                                    },
                                             "effectName":  "Rätsel von Spiegel und Rauch"
                                         },
+                    "dawningfrost":  {
+                                         "r3":  {
+                                                    "description":  "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 108 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 72 Punkte.",
+                                                    "values":  [
+                                                                   "108",
+                                                                   "72"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 144 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 96 Punkte.",
+                                                    "values":  [
+                                                                   "144",
+                                                                   "96"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 90 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 60 Punkte.",
+                                                    "values":  [
+                                                                   "90",
+                                                                   "60"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 126 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 84 Punkte.",
+                                                    "values":  [
+                                                                   "126",
+                                                                   "84"
+                                                               ]
+                                                },
+                                         "substatText":  "KSCH",
+                                         "weaponText":  "Katalysator",
+                                         "name":  "Froststern",
+                                         "effectTemplateRaw":  "#Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10{NON_BREAK_SPACE}s lang die Elementarkunde um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10{NON_BREAK_SPACE}s lang die Elementarkunde um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Punkte.",
+                                         "r1":  {
+                                                    "description":  "Erhöht nach dem Treffen von Gegnern mit heftigen Schlägen 10 s lang die Elementarkunde um 72 Punkte. Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 10 s lang die Elementarkunde um 48 Punkte.",
+                                                    "values":  [
+                                                                   "72",
+                                                                   "48"
+                                                               ]
+                                                },
+                                         "effectName":  "Nächtliche Träume"
+                                     },
                     "cinnabarspindle":  {
                                             "r3":  {
                                                        "description":  "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 60 % VTD. Dieser Effekt erlischt 0,1 s nach dem Verursachen von Schaden mit der Elementarfähigkeit. 1,5 s Abklingzeit.",
@@ -12653,6 +12894,48 @@
                                               },
                                        "effectName":  "Direktheit"
                                    },
+                    "sacrificersstaff":  {
+                                             "r3":  {
+                                                        "description":  "Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 12 % und die Aufladerate um 9 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+                                                        "values":  [
+                                                                       "12{NON_BREAK_SPACE}%",
+                                                                       "9{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 16 % und die Aufladerate um 12 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+                                                        "values":  [
+                                                                       "16{NON_BREAK_SPACE}%",
+                                                                       "12{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 10 % und die Aufladerate um 7,5 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+                                                        "values":  [
+                                                                       "10{NON_BREAK_SPACE}%",
+                                                                       "7,5{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 14 % und die Aufladerate um 10,5 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+                                                        "values":  [
+                                                                       "14{NON_BREAK_SPACE}%",
+                                                                       "10,5{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "KT",
+                                             "weaponText":  "Stangenwaffe",
+                                             "name":  "Leuchtstab des Geistlichen",
+                                             "effectTemplateRaw":  "#Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6{NON_BREAK_SPACE}s lang den ANG um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e und die Aufladerate um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+                                             "r1":  {
+                                                        "description":  "Erhöht nach dem Treffen von Gegnern mit der Elementarfähigkeit 6 s lang den ANG um 8 % und die Aufladerate um 6 %. Dieser Effekt ist 3-fach stapelbar und kann auch ausgelöst werden, wenn die hiermit ausgerüstete Figur inaktiv in der Truppe ist.",
+                                                        "values":  [
+                                                                       "8{NON_BREAK_SPACE}%",
+                                                                       "6{NON_BREAK_SPACE}%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Unbefleckte Sehnsucht"
+                                         },
                     "flowingpurity":  {
                                           "r3":  {
                                                      "description":  "Erhöht beim Auslösen der Elementarfähigkeit den Elementar-SCH-Bonus aller Elemente um 12 %, hält 15 s. Es entsteht gleichzeitig ein Eid des Lebens mit einem Basiswert in Höhe von 24 % der max. LP. 10 s Abklingzeit. Wenn der Eid des Lebens entfernt wird, wird der Elementar-SCH-Bonus aller Elemente pro 1.000 Punkte entfernter Summe um jeweils 3 %, max. 18 %, erhöht. Hält 15 s.",
@@ -17080,6 +17363,10 @@
                                                },
                     "bubblerseahorse":  {
                                             "name":  "Blubber-Seepferd",
+                                            "specialname":  null
+                                        },
+                    "frostnightherra":  {
+                                            "name":  "Himmelswächter der Frostnacht",
                                             "specialname":  null
                                         },
                     "bitingcoldwayobmanifestation":  {

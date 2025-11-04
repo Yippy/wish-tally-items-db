@@ -27,14 +27,6 @@
                                                                                "Domenica"
                                                                            ]
                                                         },
-                    "domainofforgerysubmergedvalleyi":  {
-                                                            "entranceName":  "Giardino di Cecilie",
-                                                            "daysofweek":  [
-                                                                               "Martedì",
-                                                                               "Venerdì",
-                                                                               "Domenica"
-                                                                           ]
-                                                        },
                     "domainofmasteryfullmooni":  {
                                                      "entranceName":  "Campanile dell\u0027Insipienza",
                                                      "daysofweek":  [
@@ -99,6 +91,14 @@
                                                                       "Domenica"
                                                                   ]
                                                },
+                    "domainofmasteryfallencityi":  {
+                                                       "entranceName":  "Capitale Senza Luce",
+                                                       "daysofweek":  [
+                                                                          "Lunedì",
+                                                                          "Giovedì",
+                                                                          "Domenica"
+                                                                      ]
+                                                   },
                     "domainofforgeryartisanshipi":  {
                                                         "entranceName":  "Echi di maree profonde",
                                                         "daysofweek":  [
@@ -163,14 +163,14 @@
                                                                                  "Domenica"
                                                                              ]
                                                           },
-                    "domainofforgerysandburiali":  {
-                                                       "entranceName":  "Giardino di sabbia primordiale",
-                                                       "daysofweek":  [
-                                                                          "Mercoledì",
-                                                                          "Sabato",
-                                                                          "Domenica"
-                                                                      ]
-                                                   },
+                    "domainofforgerysubmergedvalleyi":  {
+                                                            "entranceName":  "Giardino di Cecilie",
+                                                            "daysofweek":  [
+                                                                               "Martedì",
+                                                                               "Venerdì",
+                                                                               "Domenica"
+                                                                           ]
+                                                        },
                     "domainofmasterychimingrecitationi":  {
                                                               "entranceName":  "Tenue gloria dimenticata",
                                                               "daysofweek":  [
@@ -235,6 +235,30 @@
                                                                             "Domenica"
                                                                         ]
                                                      },
+                    "domainofforgerysandburiali":  {
+                                                       "entranceName":  "Giardino di sabbia primordiale",
+                                                       "daysofweek":  [
+                                                                          "Mercoledì",
+                                                                          "Sabato",
+                                                                          "Domenica"
+                                                                      ]
+                                                   },
+                    "domainofforgeryprayerssungi":  {
+                                                        "entranceName":  "Cortile Perduto della Luna",
+                                                        "daysofweek":  [
+                                                                           "Martedì",
+                                                                           "Venerdì",
+                                                                           "Domenica"
+                                                                       ]
+                                                    },
+                    "domainofmasteryoverturnedroosti":  {
+                                                            "entranceName":  "Capitale Senza Luce",
+                                                            "daysofweek":  [
+                                                                               "Mercoledì",
+                                                                               "Sabato",
+                                                                               "Domenica"
+                                                                           ]
+                                                        },
                     "domainofforgeryscryingshadowsi":  {
                                                            "entranceName":  "Torre di guardia antica",
                                                            "daysofweek":  [
@@ -275,6 +299,14 @@
                                                                                  "Domenica"
                                                                              ]
                                                           },
+                    "domainofmasteryshadowedlegacyi":  {
+                                                           "entranceName":  "Capitale Senza Luce",
+                                                           "daysofweek":  [
+                                                                              "Martedì",
+                                                                              "Venerdì",
+                                                                              "Domenica"
+                                                                          ]
+                                                       },
                     "domainofmasteryadmonishingengravingi":  {
                                                                  "entranceName":  "Tenue gloria dimenticata",
                                                                  "daysofweek":  [
@@ -283,6 +315,14 @@
                                                                                     "Domenica"
                                                                                 ]
                                                              },
+                    "domainofforgeryradiantsplendori":  {
+                                                            "entranceName":  "Cortile Perduto della Luna",
+                                                            "daysofweek":  [
+                                                                               "Lunedì",
+                                                                               "Giovedì",
+                                                                               "Domenica"
+                                                                           ]
+                                                        },
                     "domainofforgeryattentiveobservationi":  {
                                                                  "entranceName":  "Torre di guardia antica",
                                                                  "daysofweek":  [
@@ -293,18 +333,21 @@
                                                              }
                 },
     "materials":  {
+                      "sunsettia":  {
+                                        "name":  "Tramontino"
+                                    },
                       "sandbearerwood":  {
                                              "name":  "Legno sabbioso"
                                          },
-                      "cultivationareaexpansionii":  {
-                                                         "name":  "Espansione area di coltivazione (II)"
-                                                     },
+                      "mora":  {
+                                   "name":  "Mora"
+                               },
                       "varunadalazuritesliver":  {
                                                      "name":  "Scheggia di lazurite Varunada"
                                                  },
-                      "birchwood":  {
-                                        "name":  "Legno di betulla"
-                                    },
+                      "guidetofreedom":  {
+                                             "name":  "Guida alla libertà"
+                                         },
                       "improvedalchemycauldronii":  {
                                                         "name":  "Calderone alchemico migliorato (II)"
                                                     },
@@ -341,9 +384,9 @@
                       "ainostoolboxempty":  {
                                                 "name":  "Cassetta degli attrezzi di Aino (vuota)"
                                             },
-                      "sheathofthesecretsource":  {
-                                                      "name":  "Involucro della Fonte segreta"
-                                                  },
+                      "electroculus":  {
+                                           "name":  "Electroculus"
+                                       },
                       "flashingmaintenancemekbait":  {
                                                          "name":  "Esca stroboscopica per Meka manutentori"
                                                      },
@@ -359,6 +402,9 @@
                       "brownshirakodai":  {
                                               "name":  "Shirakodai marrone"
                                           },
+                      "geoculus":  {
+                                       "name":  "Geoculus"
+                                   },
                       "philosophiesofjustice":  {
                                                     "name":  "Filosofie della giustizia"
                                                 },
@@ -440,9 +486,9 @@
                       "shardofashatteredwill":  {
                                                     "name":  "Frammento di volontà distrutta"
                                                 },
-                      "brilliantdiamondchunk":  {
-                                                    "name":  "Pezzo di diamante brillante"
-                                                },
+                      "dragonheirsfalsefin":  {
+                                                  "name":  "Pinna finta dell\u0027erede dei draghi"
+                                              },
                       "yellowobsidianring":  {
                                                  "name":  "Anello d\u0027ossidiana gialla"
                                              },
@@ -455,6 +501,9 @@
                       "springofpuresacreddewdrop":  {
                                                         "name":  "Zampillo di Goccia di rugiada sacra pura"
                                                     },
+                      "radiantantler":  {
+                                            "name":  "Corno splendente"
+                                        },
                       "loachpearl":  {
                                          "name":  "Perla di cobite"
                                      },
@@ -563,6 +612,9 @@
                       "brilliantdiamondsliver":  {
                                                      "name":  "Scheggia di diamante brillante"
                                                  },
+                      "lumenspar":  {
+                                        "name":  "Cristalluce"
+                                    },
                       "zaytunpeach":  {
                                           "name":  "Pesca di Zaytun"
                                       },
@@ -623,6 +675,9 @@
                       "aureateradianceofthefarnorthscions":  {
                                                                  "name":  "Radiosità aurea dell\u0027Erede dell\u0027Estremo Nord"
                                                              },
+                      "pyroculus":  {
+                                        "name":  "Pyroculus"
+                                    },
                       "dakasbell":  {
                                         "name":  "Campana di Daka"
                                     },
@@ -869,6 +924,9 @@
                       "witheringpurpurbloom":  {
                                                    "name":  "Bocciolo purpureo avvizzito"
                                                },
+                      "lunoculus":  {
+                                        "name":  "Lunoculus"
+                                    },
                       "cakefortraveler":  {
                                               "name":  "#Torta per {F#la}{M#il} viaggiat{F#rice}{M#ore}"
                                           },
@@ -899,6 +957,9 @@
                       "shuttleofodara":  {
                                              "name":  "Navetta di Odara"
                                          },
+                      "lazuriteaxemarlin":  {
+                                                "name":  "Pesce mezzaluna di lazurite"
+                                            },
                       "northlandercatalystbillet":  {
                                                         "name":  "Billetta del Catalizzatore del Nord"
                                                     },
@@ -1013,9 +1074,6 @@
                       "shivadajadesliver":  {
                                                 "name":  "Scheggia di giada Shivada"
                                             },
-                      "guidetofreedom":  {
-                                             "name":  "Guida alla libertà"
-                                         },
                       "heartofthesecretsource":  {
                                                      "name":  "Cuore della Fonte segreta"
                                                  },
@@ -1163,6 +1221,9 @@
                       "tourbillondevice":  {
                                                "name":  "\"Dispositivo di Tubion\""
                                            },
+                      "chronicleexp":  {
+                                           "name":  "ESP Cronache"
+                                       },
                       "maintenancemekinitialconfiguration":  {
                                                                  "name":  "Meka manutentore Configurazione iniziale"
                                                              },
@@ -1214,6 +1275,9 @@
                       "cultivationareaexpansioniv":  {
                                                          "name":  "Espansione area di coltivazione (IV)"
                                                      },
+                      "crimsonagatedisplay":  {
+                                                  "name":  "Agata cremisi pura"
+                                              },
                       "shivadajadechunk":  {
                                                "name":  "Pezzo di giada Shivada"
                                            },
@@ -1319,6 +1383,9 @@
                       "teachingsofequity":  {
                                                 "name":  "Insegnamenti di equità"
                                             },
+                      "dendroculus":  {
+                                          "name":  "Dendroculus"
+                                      },
                       "guidetoconflict":  {
                                               "name":  "Guida al conflitto"
                                           },
@@ -1367,6 +1434,9 @@
                       "unfadingsilkygrace":  {
                                                  "name":  "Grazia velata immarcescibile"
                                              },
+                      "spiritcarp":  {
+                                         "name":  "Spirito carpa"
+                                     },
                       "ironchunk":  {
                                         "name":  "Pezzo di ferro"
                                     },
@@ -1388,9 +1458,12 @@
                       "scorchedstarshroom":  {
                                                  "name":  "Astrofungo (Scottatura)"
                                              },
-                      "sunsettia":  {
-                                        "name":  "Tramontino"
-                                    },
+                      "keysigil":  {
+                                       "name":  "Chiave sigillo"
+                                   },
+                      "anemoculus":  {
+                                         "name":  "Anemoculus"
+                                     },
                       "prithivatopazfragment":  {
                                                     "name":  "Frammento di topazio Prithiva"
                                                 },
@@ -1400,6 +1473,9 @@
                       "narukamiswisdom":  {
                                               "name":  "Saggezza di Narukami"
                                           },
+                      "lumenstoneore":  {
+                                            "name":  "Minerale di Pietraluce"
+                                        },
                       "dustofenlightenment":  {
                                                   "name":  "Polvere dell\u0027illuminazione"
                                               },
@@ -1424,9 +1500,9 @@
                       "empowereddragontooth":  {
                                                    "name":  "Dente di drago potenziato"
                                                },
-                      "keysigil":  {
-                                       "name":  "Chiave sigillo"
-                                   },
+                      "chroniclesoftherealms":  {
+                                                    "name":  "Cronache dei Regni"
+                                                },
                       "goldenbranchofadistantsea":  {
                                                         "name":  "Ramo dorato di un mare lontano"
                                                     },
@@ -1616,6 +1692,9 @@
                       "teachingsoftransience":  {
                                                     "name":  "Insegnamenti della fugacità"
                                                 },
+                      "dandelionbookmark":  {
+                                                "name":  "Segnalibro con dente di leone"
+                                            },
                       "riftcore":  {
                                        "name":  "Nucleo della Faglia"
                                    },
@@ -1628,9 +1707,9 @@
                       "winegobletofthepristinesea":  {
                                                          "name":  "Calice di vino del mare immacolato"
                                                      },
-                      "sugar":  {
-                                    "name":  "Zucchero"
-                                },
+                      "moonchasecharm":  {
+                                             "name":  "Talismano lunare"
+                                         },
                       "afterglowoflongnightflint":  {
                                                         "name":  "Incandescenza della Selce della Lunga notte"
                                                     },
@@ -1679,6 +1758,9 @@
                       "vayudaturquoisesliver":  {
                                                     "name":  "Scheggia di turchese Vayuda"
                                                 },
+                      "recordedintel":  {
+                                            "name":  "Informazioni documentate"
+                                        },
                       "concealedclaw":  {
                                             "name":  "Artiglio nascosto"
                                         },
@@ -1748,6 +1830,9 @@
                       "pedunculateoakwood":  {
                                                  "name":  "Legno di farnia"
                                              },
+                      "sharparrowhead":  {
+                                             "name":  "Punta di freccia affilata"
+                                         },
                       "ashenaratikuwood":  {
                                                "name":  "Legno di aratiku cinereo"
                                            },
@@ -1781,9 +1866,9 @@
                       "greenobsidianfragment":  {
                                                     "name":  "Frammento d\u0027ossidiana verde"
                                                 },
-                      "sharparrowhead":  {
-                                             "name":  "Punta di freccia affilata"
-                                         },
+                      "crimsonagate":  {
+                                           "name":  "Agata cremisi"
+                                       },
                       "nightwindsmysticrevelation":  {
                                                          "name":  "Rivelazione mistica del Vento della Notte"
                                                      },
@@ -1832,6 +1917,9 @@
                       "improvedalchemycauldroniv":  {
                                                         "name":  "Calderone alchemico migliorato (IV)"
                                                     },
+                      "sheathofthesecretsource":  {
+                                                      "name":  "Involucro della Fonte segreta"
+                                                  },
                       "glowinggem":  {
                                          "name":  "Gemma splendente"
                                      },
@@ -2021,9 +2109,9 @@
                       "scatteredpieceofdecarabiansdream":  {
                                                                "name":  "Frammento del sogno di Decarabian"
                                                            },
-                      "dandelionbookmark":  {
-                                                "name":  "Segnalibro con dente di leone"
-                                            },
+                      "brilliantdiamondchunk":  {
+                                                    "name":  "Pezzo di diamante brillante"
+                                                },
                       "enhancementore":  {
                                              "name":  "Minerale di potenziamento"
                                          },
@@ -2063,9 +2151,9 @@
                       "darkstatuette":  {
                                             "name":  "Statuetta oscura"
                                         },
-                      "dragonheirsfalsefin":  {
-                                                  "name":  "Pinna finta dell\u0027erede dei draghi"
-                                              },
+                      "sugar":  {
+                                    "name":  "Zucchero"
+                                },
                       "bigprettycrystal":  {
                                                "name":  "Cristallo grazioso grande"
                                            },
@@ -2087,6 +2175,9 @@
                       "scoopoftaintedwater":  {
                                                   "name":  "Campione d\u0027acqua contaminata"
                                               },
+                      "birchwood":  {
+                                        "name":  "Legno di betulla"
+                                    },
                       "coldcrackedshellshard":  {
                                                     "name":  "Carapace incrinato dal freddo"
                                                 },
@@ -2180,9 +2271,9 @@
                       "plumeofthechangingwinds":  {
                                                       "name":  "Piuma dei venti mutevoli"
                                                   },
-                      "lazuriteaxemarlin":  {
-                                                "name":  "Pesce mezzaluna di lazurite"
-                                            },
+                      "hydroculus":  {
+                                         "name":  "Hydroculus"
+                                     },
                       "blazingsacrificialheartssplendor":  {
                                                                "name":  "Fulgore del cuore sacrificale ardente"
                                                            },
@@ -2405,9 +2496,9 @@
                       "waterthatfailedtotranscend":  {
                                                          "name":  "Acqua non trascesa"
                                                      },
-                      "mora":  {
-                                   "name":  "Mora"
-                               },
+                      "cultivationareaexpansionii":  {
+                                                         "name":  "Espansione area di coltivazione (II)"
+                                                     },
                       "precisiondriveshaft":  {
                                                   "name":  "Albero di trasmissione di precisione"
                                               },
@@ -2710,8 +2801,8 @@
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Tre cortesie sartoriali",
-                                                                        "descriptionRaw":  "#Per 8{NON_BREAK_SPACE}s dopo aver attivato uno degli effetti del talento passivo Su misura, quando l\u0027attacco normale, caricato o in picchiata del tuo personaggio attivo colpisce un avversario vicino, viene evocata una Robobambola semplificata, Kinu, vicino al suddetto avversario. È possibile evocare in questo modo 1 Kinu al secondo, fino a 3 volte per ogni iterazione degli effetti Carpe diem o Sartoria generati da Su misura. L\u0027effetto sopracitato può attivarsi una volta ogni 15{NON_BREAK_SPACE}s.\nRichiede il talento passivo Su misura.",
-                                                                        "description":  "Per 8 s dopo aver attivato uno degli effetti del talento passivo Su misura, quando l\u0027attacco normale, caricato o in picchiata del tuo personaggio attivo colpisce un avversario vicino, viene evocata una Robobambola semplificata, Kinu, vicino al suddetto avversario. È possibile evocare in questo modo 1 Kinu al secondo, fino a 3 volte per ogni iterazione degli effetti Carpe diem o Sartoria generati da Su misura. L\u0027effetto sopracitato può attivarsi una volta ogni 15 s.\nRichiede il talento passivo Su misura."
+                                                                        "descriptionRaw":  "#Per 8{NON_BREAK_SPACE}s dopo aver attivato uno degli effetti del talento d\u0027ascensione Su misura, quando l\u0027attacco normale, caricato o in picchiata del tuo personaggio attivo colpisce un avversario vicino, viene evocata una Robobambola semplificata, Kinu, vicino al suddetto avversario. È possibile evocare in questo modo 1 Kinu al secondo, fino a 3 volte per ogni iterazione degli effetti Carpe diem o Sartoria generati da Su misura. L\u0027effetto sopracitato può attivarsi una volta ogni 15{NON_BREAK_SPACE}s.\nRichiede il talento d\u0027ascensione Su misura.",
+                                                                        "description":  "Per 8 s dopo aver attivato uno degli effetti del talento d\u0027ascensione Su misura, quando l\u0027attacco normale, caricato o in picchiata del tuo personaggio attivo colpisce un avversario vicino, viene evocata una Robobambola semplificata, Kinu, vicino al suddetto avversario. È possibile evocare in questo modo 1 Kinu al secondo, fino a 3 volte per ogni iterazione degli effetti Carpe diem o Sartoria generati da Su misura. L\u0027effetto sopracitato può attivarsi una volta ogni 15 s.\nRichiede il talento d\u0027ascensione Su misura."
                                                                     },
                                                              "c3":  {
                                                                         "name":  "Quattro decorazioni in broccato",
@@ -2725,13 +2816,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Un unico principio",
-                                                                        "descriptionRaw":  "#Dopo aver attivato uno degli effetti del talento passivo Su misura, il TdR di \u003ccolor=#FFD780FF\u003eHasode svolazzante\u003c/color\u003e di Chiori si riduce di 12{NON_BREAK_SPACE}s. Richiede il talento passivo Su misura.\nIn più, i DAN inflitti dagli attacchi normali di Chiori aumentano di un 235% della sua DIF.",
-                                                                        "description":  "Dopo aver attivato uno degli effetti del talento passivo Su misura, il TdR di Hasode svolazzante di Chiori si riduce di 12 s. Richiede il talento passivo Su misura.\nIn più, i DAN inflitti dagli attacchi normali di Chiori aumentano di un 235% della sua DIF."
+                                                                        "descriptionRaw":  "#Dopo aver attivato uno degli effetti del talento d\u0027ascensione Su misura, il TdR di \u003ccolor=#FFD780FF\u003eHasode svolazzante\u003c/color\u003e di Chiori si riduce di 12{NON_BREAK_SPACE}s. Richiede il talento d\u0027ascensione Su misura.\nIn più, i DAN inflitti dagli attacchi normali di Chiori aumentano di un 235% della sua DIF.",
+                                                                        "description":  "Dopo aver attivato uno degli effetti del talento d\u0027ascensione Su misura, il TdR di Hasode svolazzante di Chiori si riduce di 12 s. Richiede il talento d\u0027ascensione Su misura.\nIn più, i DAN inflitti dagli attacchi normali di Chiori aumentano di un 235% della sua DIF."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Sei vie della seteria sapiente",
-                                                                        "descriptionRaw":  "L\u0027area d\u0027effetto della Robobambola Tamoto evocata da \u003ccolor=#FFD780FF\u003eHasode svolazzante\u003c/color\u003e aumenta di un 50%.\nIn più, se nel gruppo è presente un altro personaggio di \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e oltre a Chiori, Hasode svolazzante innesca i seguenti effetti alla fine dello scatto.\n· Evoca 1 ulteriore Tamoto. È possibile avere soltanto 1 Tamoto aggiuntiva, evocata con questo metodo o tramite i costrutti di Geo.\n· Se già sbloccato, attiva il talento passivo Tocco finale.",
-                                                                        "description":  "L\u0027area d\u0027effetto della Robobambola Tamoto evocata da Hasode svolazzante aumenta di un 50%.\nIn più, se nel gruppo è presente un altro personaggio di Geo oltre a Chiori, Hasode svolazzante innesca i seguenti effetti alla fine dello scatto.\n· Evoca 1 ulteriore Tamoto. È possibile avere soltanto 1 Tamoto aggiuntiva, evocata con questo metodo o tramite i costrutti di Geo.\n· Se già sbloccato, attiva il talento passivo Tocco finale."
+                                                                        "descriptionRaw":  "L\u0027area d\u0027effetto della Robobambola Tamoto evocata da \u003ccolor=#FFD780FF\u003eHasode svolazzante\u003c/color\u003e aumenta di un 50%.\nIn più, se nel gruppo è presente un altro personaggio di \u003ccolor=#FFE699FF\u003eGeo\u003c/color\u003e oltre a Chiori, Hasode svolazzante innesca i seguenti effetti alla fine dello scatto.\n· Evoca 1 ulteriore Tamoto. È possibile avere soltanto 1 Tamoto aggiuntiva, evocata con questo metodo o tramite i costrutti di Geo.\n· Se già sbloccato, attiva il talento d\u0027ascensione Tocco finale. Richiede il talento d\u0027ascensione Tocco finale.",
+                                                                        "description":  "L\u0027area d\u0027effetto della Robobambola Tamoto evocata da Hasode svolazzante aumenta di un 50%.\nIn più, se nel gruppo è presente un altro personaggio di Geo oltre a Chiori, Hasode svolazzante innesca i seguenti effetti alla fine dello scatto.\n· Evoca 1 ulteriore Tamoto. È possibile avere soltanto 1 Tamoto aggiuntiva, evocata con questo metodo o tramite i costrutti di Geo.\n· Se già sbloccato, attiva il talento d\u0027ascensione Tocco finale. Richiede il talento d\u0027ascensione Tocco finale."
                                                                     }
                                                          },
                                       "elementText":  "Geo",
@@ -2787,8 +2878,8 @@
                                           "constellations":  {
                                                                  "c2":  {
                                                                             "name":  "\"Sono io a conferire ogni punizione o ricompensa...\"",
-                                                                            "descriptionRaw":  "#Quando vengono applicate, le \u003ccolor=#FFD780FF\u003eDirettive del debito di sangue\u003c/color\u003e diventano immediatamente Ingiunzioni del debito di sangue.\nQuando Arlecchino assorbe un\u0027Ingiunzione, sprigiona una Fiamma della Luna cruenta di fronte a sé che infligge \u003ccolor=#FF9999FF\u003eDAN da Pyro ad area\u003c/color\u003e pari a un 900% del suo ATT, e la RES fisica e a tutti gli elementi aumenta di un 20% per 15{NON_BREAK_SPACE}s. Quest\u0027effetto può attivarsi una volta ogni 10{NON_BREAK_SPACE}s.\n\nRichiede il talento passivo Agonia rivendicata.",
-                                                                            "description":  "Quando vengono applicate, le Direttive del debito di sangue diventano immediatamente Ingiunzioni del debito di sangue.\nQuando Arlecchino assorbe un\u0027Ingiunzione, sprigiona una Fiamma della Luna cruenta di fronte a sé che infligge DAN da Pyro ad area pari a un 900% del suo ATT, e la RES fisica e a tutti gli elementi aumenta di un 20% per 15 s. Quest\u0027effetto può attivarsi una volta ogni 10 s.\n\nRichiede il talento passivo Agonia rivendicata."
+                                                                            "descriptionRaw":  "#Quando vengono applicate, le \u003ccolor=#FFD780FF\u003eDirettive del debito di sangue\u003c/color\u003e diventano immediatamente Ingiunzioni del debito di sangue.\nQuando Arlecchino assorbe un\u0027Ingiunzione, sprigiona una Fiamma della Luna cruenta di fronte a sé che infligge \u003ccolor=#FF9999FF\u003eDAN da Pyro ad area\u003c/color\u003e pari a un 900% del suo ATT, e la RES fisica e a tutti gli elementi aumenta di un 20% per 15{NON_BREAK_SPACE}s. Quest\u0027effetto può attivarsi una volta ogni 10{NON_BREAK_SPACE}s.\n\nRichiede il talento d\u0027ascensione Agonia rivendicata.",
+                                                                            "description":  "Quando vengono applicate, le Direttive del debito di sangue diventano immediatamente Ingiunzioni del debito di sangue.\nQuando Arlecchino assorbe un\u0027Ingiunzione, sprigiona una Fiamma della Luna cruenta di fronte a sé che infligge DAN da Pyro ad area pari a un 900% del suo ATT, e la RES fisica e a tutti gli elementi aumenta di un 20% per 15 s. Quest\u0027effetto può attivarsi una volta ogni 10 s.\n\nRichiede il talento d\u0027ascensione Agonia rivendicata."
                                                                         },
                                                                  "c4":  {
                                                                             "name":  "\"D\u0027ora in avanti, amatevi e proteggetevi l\u0027un l\u0027altro...\"",
@@ -3038,8 +3129,8 @@
                                                                             },
                                                                      "c4":  {
                                                                                 "name":  "Erbadolce",
-                                                                                "descriptionRaw":  "Quando la \u003ccolor=#FFD780FF\u003eLampada di loto Lea\u003c/color\u003e innesca una Trasfigurazione della luce di loto, ottiene 5 accumuli dell\u0027effetto Luce di Loto inondante dal talento passivo Supercrescita verdeggiante.\nDevi prima aver sbloccato questo talento passivo.",
-                                                                                "description":  "Quando la Lampada di loto Lea innesca una Trasfigurazione della luce di loto, ottiene 5 accumuli dell\u0027effetto Luce di Loto inondante dal talento passivo Supercrescita verdeggiante.\nDevi prima aver sbloccato questo talento passivo."
+                                                                                "descriptionRaw":  "Quando la \u003ccolor=#FFD780FF\u003eLampada di loto Lea\u003c/color\u003e innesca una Trasfigurazione della luce di loto, ottiene 5 accumuli dell\u0027effetto Luce di Loto inondante dal talento d\u0027ascensione Supercrescita verdeggiante.\nRichiede il talento d\u0027ascensione Supercrescita verdeggiante.",
+                                                                                "description":  "Quando la Lampada di loto Lea innesca una Trasfigurazione della luce di loto, ottiene 5 accumuli dell\u0027effetto Luce di Loto inondante dal talento d\u0027ascensione Supercrescita verdeggiante.\nRichiede il talento d\u0027ascensione Supercrescita verdeggiante."
                                                                             },
                                                                      "c3":  {
                                                                                 "name":  "Erba vorticosa",
@@ -3104,6 +3195,16 @@
                                          "region":  "Snezhnaya",
                                          "gender":  "maschio"
                                      },
+                       "manekin":  {
+                                       "constellations":  null,
+                                       "elementText":  "Nessuna",
+                                       "fullname":  null,
+                                       "weaponText":  "Spada",
+                                       "name":  "Manekino",
+                                       "substatText":  "ATT",
+                                       "region":  "",
+                                       "gender":  "maschio"
+                                   },
                        "charlotte":  {
                                          "constellations":  {
                                                                 "c2":  {
@@ -3215,8 +3316,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "\"Lo spirito più sereno può conoscere l\u0027ansia?\"",
-                                                                           "descriptionRaw":  "La Bollaschiuma rinvigorente di \u003ccolor=#FFD780FF\u003eIdroterapia rimbalzante\u003c/color\u003e può rimbalzare 3 volte in più, e i primi 3 rimbalzi non ne riducono le dimensioni.\nIl talento passivo Riposo adeguato riceve un potenziamento. Ogni rimbalzo della Bollaschiuma conferisce a Sigewinne 1 accumulo di Convalescenza, e i valori del bonus DAN conferito da ciascun accumulo si modificano nel modo seguente: per ogni 1.000 PS max di Sigewinne al di sopra di 30.000, i DAN aumentano di 100. L\u0027aumento di DAN da abilità elementale massimo che è possibile ottenere in questo modo è pari a 3.500. Richiede il talento passivo Riposo adeguato.",
-                                                                           "description":  "La Bollaschiuma rinvigorente di Idroterapia rimbalzante può rimbalzare 3 volte in più, e i primi 3 rimbalzi non ne riducono le dimensioni.\nIl talento passivo Riposo adeguato riceve un potenziamento. Ogni rimbalzo della Bollaschiuma conferisce a Sigewinne 1 accumulo di Convalescenza, e i valori del bonus DAN conferito da ciascun accumulo si modificano nel modo seguente: per ogni 1.000 PS max di Sigewinne al di sopra di 30.000, i DAN aumentano di 100. L\u0027aumento di DAN da abilità elementale massimo che è possibile ottenere in questo modo è pari a 3.500. Richiede il talento passivo Riposo adeguato."
+                                                                           "descriptionRaw":  "La Bollaschiuma rinvigorente di \u003ccolor=#FFD780FF\u003eIdroterapia rimbalzante\u003c/color\u003e può rimbalzare 3 volte in più, e i primi 3 rimbalzi non ne riducono le dimensioni.\nIl talento d\u0027ascensione Riposo adeguato riceve un potenziamento. Ogni rimbalzo della Bollaschiuma conferisce a Sigewinne 1 accumulo di Convalescenza, e i valori del bonus DAN conferito da ciascun accumulo si modificano nel modo seguente: per ogni 1.000 PS max di Sigewinne al di sopra di 30.000, i DAN aumentano di 100. L\u0027aumento di DAN da abilità elementale massimo che è possibile ottenere in questo modo è pari a 3.500. Richiede il talento d\u0027ascensione Riposo adeguato.",
+                                                                           "description":  "La Bollaschiuma rinvigorente di Idroterapia rimbalzante può rimbalzare 3 volte in più, e i primi 3 rimbalzi non ne riducono le dimensioni.\nIl talento d\u0027ascensione Riposo adeguato riceve un potenziamento. Ogni rimbalzo della Bollaschiuma conferisce a Sigewinne 1 accumulo di Convalescenza, e i valori del bonus DAN conferito da ciascun accumulo si modificano nel modo seguente: per ogni 1.000 PS max di Sigewinne al di sopra di 30.000, i DAN aumentano di 100. L\u0027aumento di DAN da abilità elementale massimo che è possibile ottenere in questo modo è pari a 3.500. Richiede il talento d\u0027ascensione Riposo adeguato."
                                                                        }
                                                             },
                                          "elementText":  "Hydro",
@@ -3523,8 +3624,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Flusso frammentato",
-                                                                       "descriptionRaw":  "Aumenta gli effetti del talento passivo {LINK#N11130008}\u003ccolor=#FFD780FF\u003eRitorno all\u0027oblio\u003c/color\u003e{/LINK}. Ogni accumulo di Traversata della Morte aumenta anche l\u0027ATT di Skirk di un 10%/20%/40%.\nRichiede il talento passivo Ritorno all\u0027oblio.",
-                                                                       "description":  "Aumenta gli effetti del talento passivo **Ritorno all\u0027oblio**. Ogni accumulo di Traversata della Morte aumenta anche l\u0027ATT di Skirk di un 10%/20%/40%.\nRichiede il talento passivo Ritorno all\u0027oblio."
+                                                                       "descriptionRaw":  "Aumenta gli effetti del talento d\u0027ascensione {LINK#N11130008}\u003ccolor=#FFD780FF\u003eRitorno all\u0027oblio\u003c/color\u003e{/LINK}. Ogni accumulo di Traversata della Morte aumenta anche l\u0027ATT di Skirk di un 10%/20%/40%.\nRichiede il talento d\u0027ascensione Ritorno all\u0027oblio.",
+                                                                       "description":  "Aumenta gli effetti del talento d\u0027ascensione **Ritorno all\u0027oblio**. Ogni accumulo di Traversata della Morte aumenta anche l\u0027ATT di Skirk di un 10%/20%/40%.\nRichiede il talento d\u0027ascensione Ritorno all\u0027oblio."
                                                                    },
                                                             "c3":  {
                                                                        "name":  "Peccato fortuito",
@@ -3538,13 +3639,13 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "Verso l\u0027origine",
-                                                                       "descriptionRaw":  "#Ogni Varco nel Vuoto che Skirk assorbe tramite gli effetti del suo talento passivo {LINK#N11130007}\u003ccolor=#FFD780FF\u003eOltre ogni logica\u003c/color\u003e{/LINK} le conferisce 1 accumulo di Caos: Troncamento, per un massimo di 3. Skirk può consumare questi accumuli per sferrare degli attacchi coordinati e diminuire i DAN subiti quando è nella modalità {LINK#N11130006}\u003ccolor=#FFD780FF\u003eLampo eptafasico\u003c/color\u003e{/LINK}. La durata di ogni accumulo è di 15{NON_BREAK_SPACE}s, e ciascuna viene calcolata in modo indipendente.\nRichiede il talento passivo Oltre ogni logica.\n\n\u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e\n· Quando Skirk usa il suo Tripudio elementale \u003ccolor=#FFD780FF\u003eCaos: Rovina\u003c/color\u003e, Skirk consuma tutti gli accumuli di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e per sferrare un attacco coordinato in cui ogni accumulo di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 750% del suo ATT. Questi DAN sono considerati DAN da Tripudio elementale.\n· Quando usa gli attacchi normali mentre è in modalità Lampo eptafasico, Skirk consuma 1 accumulo di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e per effettuare 3 attacchi coordinati quando colpisce un avversario con il terzo o il quinto colpo della sua sequenza di attacco. Ciascun attacco coordinato infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 180% del suo ATT. Questi DAN sono considerati DAN da attacco normale.\n· Quando Skirk subisce DAN mentre è in modalità Lampo eptafasico, consuma 1 accumulo di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e per ridurre di un 80% i DAN suddetti e sferrare 3 attacchi agli avversari vicini. Ciascun attacco infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 180% del suo ATT. Tali DAN sono considerati DAN da attacco caricato.",
-                                                                       "description":  "Ogni Varco nel Vuoto che Skirk assorbe tramite gli effetti del suo talento passivo **Oltre ogni logica** le conferisce 1 accumulo di Caos: Troncamento, per un massimo di 3. Skirk può consumare questi accumuli per sferrare degli attacchi coordinati e diminuire i DAN subiti quando è nella modalità **Lampo eptafasico**. La durata di ogni accumulo è di 15 s, e ciascuna viene calcolata in modo indipendente.\nRichiede il talento passivo Oltre ogni logica.\n\nCaos: Troncamento\n· Quando Skirk usa il suo Tripudio elementale Caos: Rovina, Skirk consuma tutti gli accumuli di Caos: Troncamento per sferrare un attacco coordinato in cui ogni accumulo di Caos: Troncamento infligge DAN da Cryo pari a un 750% del suo ATT. Questi DAN sono considerati DAN da Tripudio elementale.\n· Quando usa gli attacchi normali mentre è in modalità Lampo eptafasico, Skirk consuma 1 accumulo di Caos: Troncamento per effettuare 3 attacchi coordinati quando colpisce un avversario con il terzo o il quinto colpo della sua sequenza di attacco. Ciascun attacco coordinato infligge DAN da Cryo pari a un 180% del suo ATT. Questi DAN sono considerati DAN da attacco normale.\n· Quando Skirk subisce DAN mentre è in modalità Lampo eptafasico, consuma 1 accumulo di Caos: Troncamento per ridurre di un 80% i DAN suddetti e sferrare 3 attacchi agli avversari vicini. Ciascun attacco infligge DAN da Cryo pari a un 180% del suo ATT. Tali DAN sono considerati DAN da attacco caricato."
+                                                                       "descriptionRaw":  "#Ogni Varco nel Vuoto che Skirk assorbe tramite gli effetti del suo talento d\u0027ascensione {LINK#N11130007}\u003ccolor=#FFD780FF\u003eOltre ogni logica\u003c/color\u003e{/LINK} le conferisce 1 accumulo di Caos: Troncamento, per un massimo di 3. Skirk può consumare questi accumuli per sferrare degli attacchi coordinati e diminuire i DAN subiti quando è nella modalità {LINK#N11130006}\u003ccolor=#FFD780FF\u003eLampo eptafasico\u003c/color\u003e{/LINK}. La durata di ogni accumulo è di 15{NON_BREAK_SPACE}s, e ciascuna viene calcolata in modo indipendente.\nRichiede il talento d\u0027ascensione Oltre ogni logica.\n\n\u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e\n· Quando Skirk usa il suo Tripudio elementale \u003ccolor=#FFD780FF\u003eCaos: Rovina\u003c/color\u003e, Skirk consuma tutti gli accumuli di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e per sferrare un attacco coordinato in cui ogni accumulo di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 750% del suo ATT. Questi DAN sono considerati DAN da Tripudio elementale.\n· Quando usa gli attacchi normali mentre è in modalità Lampo eptafasico, Skirk consuma 1 accumulo di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e per effettuare 3 attacchi coordinati quando colpisce un avversario con il terzo o il quinto colpo della sua sequenza di attacco. Ciascun attacco coordinato infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 180% del suo ATT. Questi DAN sono considerati DAN da attacco normale.\n· Quando Skirk subisce DAN mentre è in modalità Lampo eptafasico, consuma 1 accumulo di \u003ccolor=#FFD780FF\u003eCaos: Troncamento\u003c/color\u003e per ridurre di un 80% i DAN suddetti e sferrare 3 attacchi agli avversari vicini. Ciascun attacco infligge \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 180% del suo ATT. Tali DAN sono considerati DAN da attacco caricato.",
+                                                                       "description":  "Ogni Varco nel Vuoto che Skirk assorbe tramite gli effetti del suo talento d\u0027ascensione **Oltre ogni logica** le conferisce 1 accumulo di Caos: Troncamento, per un massimo di 3. Skirk può consumare questi accumuli per sferrare degli attacchi coordinati e diminuire i DAN subiti quando è nella modalità **Lampo eptafasico**. La durata di ogni accumulo è di 15 s, e ciascuna viene calcolata in modo indipendente.\nRichiede il talento d\u0027ascensione Oltre ogni logica.\n\nCaos: Troncamento\n· Quando Skirk usa il suo Tripudio elementale Caos: Rovina, Skirk consuma tutti gli accumuli di Caos: Troncamento per sferrare un attacco coordinato in cui ogni accumulo di Caos: Troncamento infligge DAN da Cryo pari a un 750% del suo ATT. Questi DAN sono considerati DAN da Tripudio elementale.\n· Quando usa gli attacchi normali mentre è in modalità Lampo eptafasico, Skirk consuma 1 accumulo di Caos: Troncamento per effettuare 3 attacchi coordinati quando colpisce un avversario con il terzo o il quinto colpo della sua sequenza di attacco. Ciascun attacco coordinato infligge DAN da Cryo pari a un 180% del suo ATT. Questi DAN sono considerati DAN da attacco normale.\n· Quando Skirk subisce DAN mentre è in modalità Lampo eptafasico, consuma 1 accumulo di Caos: Troncamento per ridurre di un 80% i DAN suddetti e sferrare 3 attacchi agli avversari vicini. Ciascun attacco infligge DAN da Cryo pari a un 180% del suo ATT. Tali DAN sono considerati DAN da attacco caricato."
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Caduta senza fine",
-                                                                       "descriptionRaw":  "Aumenta gli effetti del talento passivo {LINK#N11130007}\u003ccolor=#FFD780FF\u003eOltre ogni logica\u003c/color\u003e{/LINK}. Ogni Varco nel Vuoto assorbito evoca una lama di cristallo che attacca gli avversari vicini, infliggendo \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 500% dell\u0027ATT di Skirk. Tali DAN sono considerati DAN da attacco caricato.\nRichiede il talento passivo Oltre ogni logica.",
-                                                                       "description":  "Aumenta gli effetti del talento passivo **Oltre ogni logica**. Ogni Varco nel Vuoto assorbito evoca una lama di cristallo che attacca gli avversari vicini, infliggendo DAN da Cryo pari a un 500% dell\u0027ATT di Skirk. Tali DAN sono considerati DAN da attacco caricato.\nRichiede il talento passivo Oltre ogni logica."
+                                                                       "descriptionRaw":  "Aumenta gli effetti del talento d\u0027ascensione {LINK#N11130007}\u003ccolor=#FFD780FF\u003eOltre ogni logica\u003c/color\u003e{/LINK}. Ogni Varco nel Vuoto assorbito evoca una lama di cristallo che attacca gli avversari vicini, infliggendo \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e pari a un 500% dell\u0027ATT di Skirk. Tali DAN sono considerati DAN da attacco caricato.\nRichiede il talento d\u0027ascensione Oltre ogni logica.",
+                                                                       "description":  "Aumenta gli effetti del talento d\u0027ascensione **Oltre ogni logica**. Ogni Varco nel Vuoto assorbito evoca una lama di cristallo che attacca gli avversari vicini, infliggendo DAN da Cryo pari a un 500% dell\u0027ATT di Skirk. Tali DAN sono considerati DAN da attacco caricato.\nRichiede il talento d\u0027ascensione Oltre ogni logica."
                                                                    }
                                                         },
                                      "elementText":  "Cryo",
@@ -3559,8 +3660,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "La pigrizia è il nemico!",
-                                                                        "descriptionRaw":  "#Quando usa il Tripudio elementale \u003ccolor=#FFD780FF\u003eI tre princìpi della potenza\u003c/color\u003e, Iansan ottiene anche l\u0027effetto Movimento preciso del suo talento passivo Allenamento di resistenza migliorato per 15{NON_BREAK_SPACE}s. Inoltre, se Iansan non è in campo mentre è attivo Movimento preciso, aumenta di un 30% anche l\u0027ATT del personaggio attivo. Richiede il talento passivo Allenamento di resistenza migliorato.",
-                                                                        "description":  "Quando usa il Tripudio elementale I tre princìpi della potenza, Iansan ottiene anche l\u0027effetto Movimento preciso del suo talento passivo Allenamento di resistenza migliorato per 15 s. Inoltre, se Iansan non è in campo mentre è attivo Movimento preciso, aumenta di un 30% anche l\u0027ATT del personaggio attivo. Richiede il talento passivo Allenamento di resistenza migliorato."
+                                                                        "descriptionRaw":  "#Quando usa il Tripudio elementale \u003ccolor=#FFD780FF\u003eI tre princìpi della potenza\u003c/color\u003e, Iansan ottiene anche l\u0027effetto Movimento preciso del suo talento d\u0027ascensione Allenamento di resistenza migliorato per 15{NON_BREAK_SPACE}s. Inoltre, se Iansan non è in campo mentre è attivo Movimento preciso, aumenta di un 30% anche l\u0027ATT del personaggio attivo. Richiede il talento d\u0027ascensione Allenamento di resistenza migliorato.",
+                                                                        "description":  "Quando usa il Tripudio elementale I tre princìpi della potenza, Iansan ottiene anche l\u0027effetto Movimento preciso del suo talento d\u0027ascensione Allenamento di resistenza migliorato per 15 s. Inoltre, se Iansan non è in campo mentre è attivo Movimento preciso, aumenta di un 30% anche l\u0027ATT del personaggio attivo. Richiede il talento d\u0027ascensione Allenamento di resistenza migliorato."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Chi va piano va sano e va lontano",
@@ -3605,8 +3706,8 @@
                                                                       },
                                                                "c4":  {
                                                                           "name":  "Yonban: Deriva primaverile",
-                                                                          "descriptionRaw":  "Quando usi \u003ccolor=#FFD780FF\u003eHanega: Canzone del vento\u003c/color\u003e, se si attiva il talento passivo Fiore della giada, il personaggio ottiene degli effetti positivi in relazione ai tipi elementali con cui entra in contatto, oltre a un effetto positivo casuale inattivo. Non possono esistere più di 3 di questi effetti positivi elementali contemporaneamente.\nDevi prima sbloccare il talento passivo Fiore della giada.",
-                                                                          "description":  "Quando usi Hanega: Canzone del vento, se si attiva il talento passivo Fiore della giada, il personaggio ottiene degli effetti positivi in relazione ai tipi elementali con cui entra in contatto, oltre a un effetto positivo casuale inattivo. Non possono esistere più di 3 di questi effetti positivi elementali contemporaneamente.\nDevi prima sbloccare il talento passivo Fiore della giada."
+                                                                          "descriptionRaw":  "Quando usi \u003ccolor=#FFD780FF\u003eHanega: Canzone del vento\u003c/color\u003e, se si attiva il talento d\u0027ascensione Fiore della giada, il personaggio ottiene degli effetti positivi in relazione ai tipi elementali con cui entra in contatto, oltre a un effetto positivo casuale inattivo. Non possono esistere più di 3 di questi effetti positivi elementali contemporaneamente.\nRichiede il talento d\u0027ascensione Fiore della giada.",
+                                                                          "description":  "Quando usi Hanega: Canzone del vento, se si attiva il talento d\u0027ascensione Fiore della giada, il personaggio ottiene degli effetti positivi in relazione ai tipi elementali con cui entra in contatto, oltre a un effetto positivo casuale inattivo. Non possono esistere più di 3 di questi effetti positivi elementali contemporaneamente.\nRichiede il talento d\u0027ascensione Fiore della giada."
                                                                       },
                                                                "c3":  {
                                                                           "name":  "Sanban: Kusemai dei Fiordiluna",
@@ -3625,8 +3726,8 @@
                                                                       },
                                                                "c1":  {
                                                                           "name":  "Shoban: Piume sfarzose",
-                                                                          "descriptionRaw":  "Quando lo stato \u003ccolor=#FFD780FF\u003eVento prospero\u003c/color\u003e è attivo, la VEL d\u0027ATT di Kuugo: Fushoudan e Kuugo: Toufukai del Vagabondo aumenta di un 10%.\nInoltre, le frecce di vento scoccate dal talento passivo Fantasticheria burrascosa infliggono DAN pari a un ulteriore 25% del suo ATT. Devi prima sbloccare il talento passivo Fantasticheria burrascosa.",
-                                                                          "description":  "Quando lo stato Vento prospero è attivo, la VEL d\u0027ATT di Kuugo: Fushoudan e Kuugo: Toufukai del Vagabondo aumenta di un 10%.\nInoltre, le frecce di vento scoccate dal talento passivo Fantasticheria burrascosa infliggono DAN pari a un ulteriore 25% del suo ATT. Devi prima sbloccare il talento passivo Fantasticheria burrascosa."
+                                                                          "descriptionRaw":  "Quando lo stato \u003ccolor=#FFD780FF\u003eVento prospero\u003c/color\u003e è attivo, la VEL d\u0027ATT di Kuugo: Fushoudan e Kuugo: Toufukai del Vagabondo aumenta di un 10%.\nInoltre, le frecce di vento scoccate dal talento d\u0027ascensione Fantasticheria burrascosa infliggono DAN pari a un ulteriore 25% del suo ATT. Richiede il talento d\u0027ascensione Fantasticheria burrascosa.",
+                                                                          "description":  "Quando lo stato Vento prospero è attivo, la VEL d\u0027ATT di Kuugo: Fushoudan e Kuugo: Toufukai del Vagabondo aumenta di un 10%.\nInoltre, le frecce di vento scoccate dal talento d\u0027ascensione Fantasticheria burrascosa infliggono DAN pari a un ulteriore 25% del suo ATT. Richiede il talento d\u0027ascensione Fantasticheria burrascosa."
                                                                       }
                                                            },
                                         "elementText":  "Anemo",
@@ -3764,8 +3865,8 @@
                                    "constellations":  {
                                                           "c2":  {
                                                                      "name":  "Spirito guida dell\u0027orazione balistica",
-                                                                     "descriptionRaw":  "Quando Ifa è nello stato di Grazia dell\u0027Anima della Notte, riceve 4 ulteriori punti di {LINK#N11130002}\u003ccolor=#FFD780FF\u003eFondamentali di soccorso\u003c/color\u003e{/LINK} per ogni punto Anima della Notte posseduto dall\u0027intero gruppo oltre un minimo di 60.\nInoltre, il limite dei Fondamentali di soccorso di Ifa aumenta di 50.\nRichiede il talento passivo {LINK#P1132101}\u003ccolor=#FFD780FF\u003eVisione del medico di campo\u003c/color\u003e{/LINK}.",
-                                                                     "description":  "Quando Ifa è nello stato di Grazia dell\u0027Anima della Notte, riceve 4 ulteriori punti di **Fondamentali di soccorso** per ogni punto Anima della Notte posseduto dall\u0027intero gruppo oltre un minimo di 60.\nInoltre, il limite dei Fondamentali di soccorso di Ifa aumenta di 50.\nRichiede il talento passivo **Visione del medico di campo**."
+                                                                     "descriptionRaw":  "Quando Ifa è nello stato di Grazia dell\u0027Anima della Notte, riceve 4 ulteriori punti di {LINK#N11130002}\u003ccolor=#FFD780FF\u003eFondamentali di soccorso\u003c/color\u003e{/LINK} per ogni punto Anima della Notte posseduto dall\u0027intero gruppo oltre un minimo di 60.\nInoltre, il limite dei Fondamentali di soccorso di Ifa aumenta di 50.\nRichiede il talento d\u0027ascensione {LINK#P1132101}\u003ccolor=#FFD780FF\u003eVisione del medico di campo\u003c/color\u003e{/LINK}.",
+                                                                     "description":  "Quando Ifa è nello stato di Grazia dell\u0027Anima della Notte, riceve 4 ulteriori punti di **Fondamentali di soccorso** per ogni punto Anima della Notte posseduto dall\u0027intero gruppo oltre un minimo di 60.\nInoltre, il limite dei Fondamentali di soccorso di Ifa aumenta di 50.\nRichiede il talento d\u0027ascensione **Visione del medico di campo**."
                                                                  },
                                                           "c4":  {
                                                                      "name":  "Permutazione di ricettacoli logori",
@@ -3924,6 +4025,16 @@
                                                 "region":  "Inazuma",
                                                 "gender":  "femmina"
                                             },
+                       "manekina":  {
+                                        "constellations":  null,
+                                        "elementText":  "Nessuna",
+                                        "fullname":  null,
+                                        "weaponText":  "Spada",
+                                        "name":  "Manekina",
+                                        "substatText":  "ATT",
+                                        "region":  "",
+                                        "gender":  "femmina"
+                                    },
                        "mavuika":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -3933,8 +4044,8 @@
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Determinazione di una comandante",
-                                                                         "descriptionRaw":  "Aumenta gli effetti del talento passivo \"Kiongozi\":\nl\u0027incremento dei DAN ottenuto dopo aver usato il Tripudio elementale \u003ccolor=#FFD780FF\u003eL\u0027ora dei cieli in fiamme\u003c/color\u003e non diminuisce nel tempo, e si ottiene un 10% di bonus DAN aggiuntivo.\nRichiede il talento passivo \"Kiongozi\".",
-                                                                         "description":  "Aumenta gli effetti del talento passivo \"Kiongozi\":\nl\u0027incremento dei DAN ottenuto dopo aver usato il Tripudio elementale L\u0027ora dei cieli in fiamme non diminuisce nel tempo, e si ottiene un 10% di bonus DAN aggiuntivo.\nRichiede il talento passivo \"Kiongozi\"."
+                                                                         "descriptionRaw":  "Aumenta gli effetti del talento d\u0027ascensione \"Kiongozi\":\nl\u0027incremento dei DAN ottenuto dopo aver usato il Tripudio elementale \u003ccolor=#FFD780FF\u003eL\u0027ora dei cieli in fiamme\u003c/color\u003e non diminuisce nel tempo, e si ottiene un 10% di bonus DAN aggiuntivo.\nRichiede il talento d\u0027ascensione \"Kiongozi\".",
+                                                                         "description":  "Aumenta gli effetti del talento d\u0027ascensione \"Kiongozi\":\nl\u0027incremento dei DAN ottenuto dopo aver usato il Tripudio elementale L\u0027ora dei cieli in fiamme non diminuisce nel tempo, e si ottiene un 10% di bonus DAN aggiuntivo.\nRichiede il talento d\u0027ascensione \"Kiongozi\"."
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Sole rovente",
@@ -3994,8 +4105,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Passione eterna",
-                                                                        "descriptionRaw":  "#Gli effetti positivi del talento passivo Triplice salto di squadra! sono potenziati.\nSe esegue l\u0027attacco in picchiata speciale Tornado lavico, Varesa riceve l\u0027effetto Schianto iridato per 5{NON_BREAK_SPACE}s.\nQuando Schianto iridato è attivo, l\u0027impatto col terreno dell\u0027attacco in picchiata di Varesa infligge DAN aumentati di un 180% del suo ATT, indipendentemente dal fatto che lo stato di Passione ardente sia attivo o meno. Richiede il talento passivo Triplice salto di squadra!\n\nInoltre, quando è in modalità Assalto improvviso della sua Grazia dell\u0027Anima della Notte, Varesa consuma un 30% di punti Anima della Notte o Flogisto in meno.",
-                                                                        "description":  "Gli effetti positivi del talento passivo Triplice salto di squadra! sono potenziati.\nSe esegue l\u0027attacco in picchiata speciale Tornado lavico, Varesa riceve l\u0027effetto Schianto iridato per 5 s.\nQuando Schianto iridato è attivo, l\u0027impatto col terreno dell\u0027attacco in picchiata di Varesa infligge DAN aumentati di un 180% del suo ATT, indipendentemente dal fatto che lo stato di Passione ardente sia attivo o meno. Richiede il talento passivo Triplice salto di squadra!\n\nInoltre, quando è in modalità Assalto improvviso della sua Grazia dell\u0027Anima della Notte, Varesa consuma un 30% di punti Anima della Notte o Flogisto in meno."
+                                                                        "descriptionRaw":  "#Gli effetti positivi del talento d\u0027ascensione Triplice salto di squadra! sono potenziati.\nSe esegue l\u0027attacco in picchiata speciale Tornado lavico, Varesa riceve l\u0027effetto Schianto iridato per 5{NON_BREAK_SPACE}s.\nQuando Schianto iridato è attivo, l\u0027impatto col terreno dell\u0027attacco in picchiata di Varesa infligge DAN aumentati di un 180% del suo ATT, indipendentemente dal fatto che lo stato di Passione ardente sia attivo o meno. Richiede il talento d\u0027ascensione Triplice salto di squadra!\n\nInoltre, quando è in modalità Assalto improvviso della sua Grazia dell\u0027Anima della Notte, Varesa consuma un 30% di punti Anima della Notte o Flogisto in meno.",
+                                                                        "description":  "Gli effetti positivi del talento d\u0027ascensione Triplice salto di squadra! sono potenziati.\nSe esegue l\u0027attacco in picchiata speciale Tornado lavico, Varesa riceve l\u0027effetto Schianto iridato per 5 s.\nQuando Schianto iridato è attivo, l\u0027impatto col terreno dell\u0027attacco in picchiata di Varesa infligge DAN aumentati di un 180% del suo ATT, indipendentemente dal fatto che lo stato di Passione ardente sia attivo o meno. Richiede il talento d\u0027ascensione Triplice salto di squadra!\n\nInoltre, quando è in modalità Assalto improvviso della sua Grazia dell\u0027Anima della Notte, Varesa consuma un 30% di punti Anima della Notte o Flogisto in meno."
                                                                     }
                                                          },
                                       "elementText":  "Electro",
@@ -4153,13 +4264,13 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Veste: Bilancia dell\u0027equità",
-                                                                      "descriptionRaw":  "#Dopo aver usato \u003ccolor=#FFD780FF\u003eRito sacro: Destrezza del lupo\u003c/color\u003e o attivato l\u0027effetto Verdetto del talento passivo Giudizio della piuma cadente, Cyno ottiene 4 accumuli dell\u0027effetto Giorno dello sciacallo. Quando colpisce gli avversari con gli attacchi normali, consuma 1 accumulo di Giorno dello sciacallo per scagliare un Dardo del braccatore.\nGiorno dello sciacallo dura 8{NON_BREAK_SPACE}s e può essere accumulato per un massimo di 8 volte. I suoi effetti si annullano al termine di Precorritore giurato.\nÈ possibile scagliare 1 Dardo del braccatore in questo modo ogni 0,4{NON_BREAK_SPACE}s.\nDevi prima sbloccare il talento passivo Giudizio della piuma cadente.",
-                                                                      "description":  "Dopo aver usato Rito sacro: Destrezza del lupo o attivato l\u0027effetto Verdetto del talento passivo Giudizio della piuma cadente, Cyno ottiene 4 accumuli dell\u0027effetto Giorno dello sciacallo. Quando colpisce gli avversari con gli attacchi normali, consuma 1 accumulo di Giorno dello sciacallo per scagliare un Dardo del braccatore.\nGiorno dello sciacallo dura 8 s e può essere accumulato per un massimo di 8 volte. I suoi effetti si annullano al termine di Precorritore giurato.\nÈ possibile scagliare 1 Dardo del braccatore in questo modo ogni 0,4 s.\nDevi prima sbloccare il talento passivo Giudizio della piuma cadente."
+                                                                      "descriptionRaw":  "#Dopo aver usato \u003ccolor=#FFD780FF\u003eRito sacro: Destrezza del lupo\u003c/color\u003e o attivato l\u0027effetto Verdetto del talento d\u0027ascensione Giudizio della piuma cadente, Cyno ottiene 4 accumuli dell\u0027effetto Giorno dello sciacallo. Quando colpisce gli avversari con gli attacchi normali, consuma 1 accumulo di Giorno dello sciacallo per scagliare un Dardo del braccatore.\nGiorno dello sciacallo dura 8{NON_BREAK_SPACE}s e può essere accumulato per un massimo di 8 volte. I suoi effetti si annullano al termine di Precorritore giurato.\nÈ possibile scagliare 1 Dardo del braccatore in questo modo ogni 0,4{NON_BREAK_SPACE}s.\nDevi prima sbloccare il talento d\u0027ascensione Giudizio della piuma cadente.",
+                                                                      "description":  "Dopo aver usato Rito sacro: Destrezza del lupo o attivato l\u0027effetto Verdetto del talento d\u0027ascensione Giudizio della piuma cadente, Cyno ottiene 4 accumuli dell\u0027effetto Giorno dello sciacallo. Quando colpisce gli avversari con gli attacchi normali, consuma 1 accumulo di Giorno dello sciacallo per scagliare un Dardo del braccatore.\nGiorno dello sciacallo dura 8 s e può essere accumulato per un massimo di 8 volte. I suoi effetti si annullano al termine di Precorritore giurato.\nÈ possibile scagliare 1 Dardo del braccatore in questo modo ogni 0,4 s.\nDevi prima sbloccare il talento d\u0027ascensione Giudizio della piuma cadente."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Ordinanza: Guardia instancabile",
-                                                                      "descriptionRaw":  "#Dopo aver usato \u003ccolor=#FFD780FF\u003eRito sacro: Destrezza del lupo\u003c/color\u003e, la VEL d\u0027ATT normale di Cyno aumenta di un 20% per 10{NON_BREAK_SPACE}s. Se l\u0027effetto Verdetto del suo talento passivo Giudizio della piuma cadente viene attivato durante \u003ccolor=#FFD780FF\u003eRito arcano: Guida delle anime del baratro\u003c/color\u003e, la durata dell\u0027incremento viene ripristinata.\nDevi prima sbloccare il talento passivo Giudizio della piuma cadente.",
-                                                                      "description":  "Dopo aver usato Rito sacro: Destrezza del lupo, la VEL d\u0027ATT normale di Cyno aumenta di un 20% per 10 s. Se l\u0027effetto Verdetto del suo talento passivo Giudizio della piuma cadente viene attivato durante Rito arcano: Guida delle anime del baratro, la durata dell\u0027incremento viene ripristinata.\nDevi prima sbloccare il talento passivo Giudizio della piuma cadente."
+                                                                      "descriptionRaw":  "#Dopo aver usato \u003ccolor=#FFD780FF\u003eRito sacro: Destrezza del lupo\u003c/color\u003e, la VEL d\u0027ATT normale di Cyno aumenta di un 20% per 10{NON_BREAK_SPACE}s. Se l\u0027effetto Verdetto del suo talento d\u0027ascensione Giudizio della piuma cadente viene attivato durante \u003ccolor=#FFD780FF\u003eRito arcano: Guida delle anime del baratro\u003c/color\u003e, la durata dell\u0027incremento viene ripristinata.\nRichiede il talento d\u0027ascensione Giudizio della piuma cadente.",
+                                                                      "description":  "Dopo aver usato Rito sacro: Destrezza del lupo, la VEL d\u0027ATT normale di Cyno aumenta di un 20% per 10 s. Se l\u0027effetto Verdetto del suo talento d\u0027ascensione Giudizio della piuma cadente viene attivato durante Rito arcano: Guida delle anime del baratro, la durata dell\u0027incremento viene ripristinata.\nRichiede il talento d\u0027ascensione Giudizio della piuma cadente."
                                                                   }
                                                        },
                                     "elementText":  "Electro",
@@ -4256,13 +4367,13 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Catene per gli arroganti",
-                                                                             "descriptionRaw":  "Durante l\u0027uso di \u003ccolor=#FFD780FF\u003eMorso del lupo brunauro\u003c/color\u003e, ogni accumulo di Editto d\u0027accusa derivante dal talento passivo Ascrizione del peccato aumenta di un 40% i DAN inflitti dalla suddetta abilità.\nRichiede il talento passivo Ascrizione del peccato.",
-                                                                             "description":  "Durante l\u0027uso di Morso del lupo brunauro, ogni accumulo di Editto d\u0027accusa derivante dal talento passivo Ascrizione del peccato aumenta di un 40% i DAN inflitti dalla suddetta abilità.\nRichiede il talento passivo Ascrizione del peccato."
+                                                                             "descriptionRaw":  "Durante l\u0027uso di \u003ccolor=#FFD780FF\u003eMorso del lupo brunauro\u003c/color\u003e, ogni accumulo di Editto d\u0027accusa derivante dal talento d\u0027ascensione Ascrizione del peccato aumenta di un 40% i DAN inflitti dalla suddetta abilità.\nRichiede il talento d\u0027ascensione Ascrizione del peccato.",
+                                                                             "description":  "Durante l\u0027uso di Morso del lupo brunauro, ogni accumulo di Editto d\u0027accusa derivante dal talento d\u0027ascensione Ascrizione del peccato aumenta di un 40% i DAN inflitti dalla suddetta abilità.\nRichiede il talento d\u0027ascensione Ascrizione del peccato."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Redenzione per i sofferenti",
-                                                                             "descriptionRaw":  "#I PS ripristinati tramite Rimprovero: Pugno guizzante aumentano di un 50% dei PS max di Wriothesley. Richiede il talento passivo Supplica di giustizia.\nInoltre, quando i PS di Wriothesley si ripristinano, se la quantità di PS ripristinati supera il limite massimo, si verificano i seguenti effetti in base a se il personaggio è in campo o meno. Se Wriothesley è in campo, la sua VEL d\u0027ATT aumenta di un 20% per 4{NON_BREAK_SPACE}s. Se non è in campo, la VEL d\u0027ATT di tutti i personaggi del tuo gruppo aumenta di un 10% per 6{NON_BREAK_SPACE}s. Questi due metodi di aumento della VEL d\u0027ATT non possono accumularsi.",
-                                                                             "description":  "I PS ripristinati tramite Rimprovero: Pugno guizzante aumentano di un 50% dei PS max di Wriothesley. Richiede il talento passivo Supplica di giustizia.\nInoltre, quando i PS di Wriothesley si ripristinano, se la quantità di PS ripristinati supera il limite massimo, si verificano i seguenti effetti in base a se il personaggio è in campo o meno. Se Wriothesley è in campo, la sua VEL d\u0027ATT aumenta di un 20% per 4 s. Se non è in campo, la VEL d\u0027ATT di tutti i personaggi del tuo gruppo aumenta di un 10% per 6 s. Questi due metodi di aumento della VEL d\u0027ATT non possono accumularsi."
+                                                                             "descriptionRaw":  "#I PS ripristinati tramite Rimprovero: Pugno guizzante aumentano di un 50% dei PS max di Wriothesley. Richiede il talento d\u0027ascensione Supplica di giustizia.\nInoltre, quando i PS di Wriothesley si ripristinano, se la quantità di PS ripristinati supera il limite massimo, si verificano i seguenti effetti in base a se il personaggio è in campo o meno. Se Wriothesley è in campo, la sua VEL d\u0027ATT aumenta di un 20% per 4{NON_BREAK_SPACE}s. Se non è in campo, la VEL d\u0027ATT di tutti i personaggi del tuo gruppo aumenta di un 10% per 6{NON_BREAK_SPACE}s. Questi due metodi di aumento della VEL d\u0027ATT non possono accumularsi.",
+                                                                             "description":  "I PS ripristinati tramite Rimprovero: Pugno guizzante aumentano di un 50% dei PS max di Wriothesley. Richiede il talento d\u0027ascensione Supplica di giustizia.\nInoltre, quando i PS di Wriothesley si ripristinano, se la quantità di PS ripristinati supera il limite massimo, si verificano i seguenti effetti in base a se il personaggio è in campo o meno. Se Wriothesley è in campo, la sua VEL d\u0027ATT aumenta di un 20% per 4 s. Se non è in campo, la VEL d\u0027ATT di tutti i personaggi del tuo gruppo aumenta di un 10% per 6 s. Questi due metodi di aumento della VEL d\u0027ATT non possono accumularsi."
                                                                          },
                                                                   "c3":  {
                                                                              "name":  "Castigo per gli impostori",
@@ -4276,13 +4387,13 @@
                                                                          },
                                                                   "c6":  {
                                                                              "name":  "Salvaguardia per gli innocenti",
-                                                                             "descriptionRaw":  "Il tasso di CRIT e i DAN da CRIT di Rimprovero: Pugno guizzante aumentano rispettivamente di un 10% e di un 80%. Quando viene sprigionato, si materializza un ulteriore spuntone di ghiaccio che infligge un 100% dei DAN di base di Rimprovero: Pugno guizzante come \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e. I DAN inflitti in questo modo sono considerati DAN da attacco caricato.\nRichiede il talento passivo Supplica di giustizia.",
-                                                                             "description":  "Il tasso di CRIT e i DAN da CRIT di Rimprovero: Pugno guizzante aumentano rispettivamente di un 10% e di un 80%. Quando viene sprigionato, si materializza un ulteriore spuntone di ghiaccio che infligge un 100% dei DAN di base di Rimprovero: Pugno guizzante come DAN da Cryo. I DAN inflitti in questo modo sono considerati DAN da attacco caricato.\nRichiede il talento passivo Supplica di giustizia."
+                                                                             "descriptionRaw":  "Il tasso di CRIT e i DAN da CRIT di Rimprovero: Pugno guizzante aumentano rispettivamente di un 10% e di un 80%. Quando viene sprigionato, si materializza un ulteriore spuntone di ghiaccio che infligge un 100% dei DAN base di Rimprovero: Pugno guizzante come \u003ccolor=#99FFFFFF\u003eDAN da Cryo\u003c/color\u003e. I DAN inflitti in questo modo sono considerati DAN da attacco caricato.\nRichiede il talento d\u0027ascensione Supplica di giustizia.",
+                                                                             "description":  "Il tasso di CRIT e i DAN da CRIT di Rimprovero: Pugno guizzante aumentano rispettivamente di un 10% e di un 80%. Quando viene sprigionato, si materializza un ulteriore spuntone di ghiaccio che infligge un 100% dei DAN base di Rimprovero: Pugno guizzante come DAN da Cryo. I DAN inflitti in questo modo sono considerati DAN da attacco caricato.\nRichiede il talento d\u0027ascensione Supplica di giustizia."
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Terrore per i malfattori",
-                                                                             "descriptionRaw":  "#Il Rimprovero magnanimo del talento passivo Supplica di giustizia riceve le seguenti modifiche.\nQuando i PS di Wriothesley sono inferiori a un 60%, o se il personaggio è nello stato di Punizione rigente scatenato da \u003ccolor=#FFD780FF\u003eAssalto della zanna di ghiaccio\u003c/color\u003e, quando il quinto Pugno espulsore va a segno, il personaggio ottiene 1 effetto di Rimprovero magnanimo. È possibile ottenere tale effetto una volta ogni 2,5{NON_BREAK_SPACE}s.\n\nInoltre, Rimprovero: Pugno guizzante ottiene i seguenti potenziamenti:\n· il bonus DAN ottenuto aumenta ulteriormente a 200%;\n· quando lo si usa per colpire un nemico mentre Wriothesley è in stato di Punizione rigente, la durata dello stato viene estesa di 4{NON_BREAK_SPACE}s. È possibile ottenere solo una di tali estensioni in tutta la durata di Punizione rigente.\n\nRichiede il talento passivo Supplica di giustizia.",
-                                                                             "description":  "Il Rimprovero magnanimo del talento passivo Supplica di giustizia riceve le seguenti modifiche.\nQuando i PS di Wriothesley sono inferiori a un 60%, o se il personaggio è nello stato di Punizione rigente scatenato da Assalto della zanna di ghiaccio, quando il quinto Pugno espulsore va a segno, il personaggio ottiene 1 effetto di Rimprovero magnanimo. È possibile ottenere tale effetto una volta ogni 2,5 s.\n\nInoltre, Rimprovero: Pugno guizzante ottiene i seguenti potenziamenti:\n· il bonus DAN ottenuto aumenta ulteriormente a 200%;\n· quando lo si usa per colpire un nemico mentre Wriothesley è in stato di Punizione rigente, la durata dello stato viene estesa di 4 s. È possibile ottenere solo una di tali estensioni in tutta la durata di Punizione rigente.\n\nRichiede il talento passivo Supplica di giustizia."
+                                                                             "descriptionRaw":  "#Il Rimprovero magnanimo del talento d\u0027ascensione Supplica di giustizia riceve le seguenti modifiche.\nQuando i PS di Wriothesley sono inferiori a un 60%, o se il personaggio è nello stato di Punizione rigente scatenato da \u003ccolor=#FFD780FF\u003eAssalto della zanna di ghiaccio\u003c/color\u003e, quando il quinto Pugno espulsore va a segno, il personaggio ottiene 1 effetto di Rimprovero magnanimo. È possibile ottenere tale effetto una volta ogni 2,5{NON_BREAK_SPACE}s.\n\nInoltre, Rimprovero: Pugno guizzante ottiene i seguenti potenziamenti:\n· il bonus DAN ottenuto aumenta ulteriormente a 200%;\n· quando lo si usa per colpire un nemico mentre Wriothesley è in stato di Punizione rigente, la durata dello stato viene estesa di 4{NON_BREAK_SPACE}s. È possibile ottenere solo una di tali estensioni in tutta la durata di Punizione rigente.\n\nRichiede il talento d\u0027ascensione Supplica di giustizia.",
+                                                                             "description":  "Il Rimprovero magnanimo del talento d\u0027ascensione Supplica di giustizia riceve le seguenti modifiche.\nQuando i PS di Wriothesley sono inferiori a un 60%, o se il personaggio è nello stato di Punizione rigente scatenato da Assalto della zanna di ghiaccio, quando il quinto Pugno espulsore va a segno, il personaggio ottiene 1 effetto di Rimprovero magnanimo. È possibile ottenere tale effetto una volta ogni 2,5 s.\n\nInoltre, Rimprovero: Pugno guizzante ottiene i seguenti potenziamenti:\n· il bonus DAN ottenuto aumenta ulteriormente a 200%;\n· quando lo si usa per colpire un nemico mentre Wriothesley è in stato di Punizione rigente, la durata dello stato viene estesa di 4 s. È possibile ottenere solo una di tali estensioni in tutta la durata di Punizione rigente.\n\nRichiede il talento d\u0027ascensione Supplica di giustizia."
                                                                          }
                                                               },
                                            "elementText":  "Cryo",
@@ -4445,8 +4556,8 @@
                                                                            },
                                                                     "c1":  {
                                                                                "name":  "Lago esondante",
-                                                                               "descriptionRaw":  "#Raccogliere una Goccia d\u0027acqua sorgiva ripristina 2 di energia del{F#la }{M# }viaggiat{F#rice}{M#ore}.\nRichiede il talento passivo Acque incontaminate.",
-                                                                               "description":  "Raccogliere una Goccia d\u0027acqua sorgiva ripristina 2 di energia del viaggiatore.\nRichiede il talento passivo Acque incontaminate."
+                                                                               "descriptionRaw":  "#Raccogliere una Goccia d\u0027acqua sorgiva ripristina di 2 l\u0027energia {F#della viaggiatrice}{M#del viaggiatore}.\nRichiede il talento d\u0027ascensione Acque incontaminate.",
+                                                                               "description":  "Raccogliere una Goccia d\u0027acqua sorgiva ripristina di 2 l\u0027energia del viaggiatore.\nRichiede il talento d\u0027ascensione Acque incontaminate."
                                                                            }
                                                                 }
                                          },
@@ -4577,8 +4688,8 @@
                                            "constellations":  {
                                                                   "c2":  {
                                                                              "name":  "Come legge comanda",
-                                                                             "descriptionRaw":  "Il talento passivo Eredità del Mare Antico riceve un potenziamento: ciascun accumulo di Antiche glorie draconiche aumenta i DAN da CRIT di Attacco caricato: Equo giudizio di un 14%. L\u0027incremento massimo che è possibile ottenere è pari a un 42%.\nRichiede il talento passivo Eredità del Mare Antico.",
-                                                                             "description":  "Il talento passivo Eredità del Mare Antico riceve un potenziamento: ciascun accumulo di Antiche glorie draconiche aumenta i DAN da CRIT di Attacco caricato: Equo giudizio di un 14%. L\u0027incremento massimo che è possibile ottenere è pari a un 42%.\nRichiede il talento passivo Eredità del Mare Antico."
+                                                                             "descriptionRaw":  "Il talento d\u0027ascensione Eredità del Mare Antico riceve un potenziamento: ciascun accumulo di Antiche glorie draconiche aumenta i DAN da CRIT di Attacco caricato: Equo giudizio di un 14%. L\u0027incremento massimo che è possibile ottenere è pari a un 42%.\nRichiede il talento d\u0027ascensione Eredità del Mare Antico.",
+                                                                             "description":  "Il talento d\u0027ascensione Eredità del Mare Antico riceve un potenziamento: ciascun accumulo di Antiche glorie draconiche aumenta i DAN da CRIT di Attacco caricato: Equo giudizio di un 14%. L\u0027incremento massimo che è possibile ottenere è pari a un 42%.\nRichiede il talento d\u0027ascensione Eredità del Mare Antico."
                                                                          },
                                                                   "c4":  {
                                                                              "name":  "Corona di clemenza",
@@ -4602,8 +4713,8 @@
                                                                          },
                                                                   "c1":  {
                                                                              "name":  "Istituzione onorabile",
-                                                                             "descriptionRaw":  "Quando Neuvillette entra in campo, ottiene 1 accumulo di Antiche glorie draconiche del talento passivo Eredità del Mare Antico. Richiede il talento passivo Eredità del Mare Antico.\nInoltre, la resistenza all\u0027interruzione del personaggio aumenta quando usa Rafforzamento attacco caricato: Valutazione legale e Attacco caricato: Equo giudizio.",
-                                                                             "description":  "Quando Neuvillette entra in campo, ottiene 1 accumulo di Antiche glorie draconiche del talento passivo Eredità del Mare Antico. Richiede il talento passivo Eredità del Mare Antico.\nInoltre, la resistenza all\u0027interruzione del personaggio aumenta quando usa Rafforzamento attacco caricato: Valutazione legale e Attacco caricato: Equo giudizio."
+                                                                             "descriptionRaw":  "Quando Neuvillette entra in campo, ottiene 1 accumulo di Antiche glorie draconiche del talento d\u0027ascensione Eredità del Mare Antico. Richiede il talento d\u0027ascensione Eredità del Mare Antico.\nInoltre, la resistenza all\u0027interruzione del personaggio aumenta quando usa Rafforzamento attacco caricato: Valutazione legale e Attacco caricato: Equo giudizio.",
+                                                                             "description":  "Quando Neuvillette entra in campo, ottiene 1 accumulo di Antiche glorie draconiche del talento d\u0027ascensione Eredità del Mare Antico. Richiede il talento d\u0027ascensione Eredità del Mare Antico.\nInoltre, la resistenza all\u0027interruzione del personaggio aumenta quando usa Rafforzamento attacco caricato: Valutazione legale e Attacco caricato: Equo giudizio."
                                                                          }
                                                               },
                                            "elementText":  "Hydro",
@@ -4638,13 +4749,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Ode alle sorgenti profonde",
-                                                                        "descriptionRaw":  "#Dopo aver innescato Ultrasenso tramite il talento passivo Sinestesia notturna, l\u0027ATT del personaggio attivo aumenta di un 10% per 9{NON_BREAK_SPACE}s. Tale aumento è cumulabile fino a 3 volte, e ciascun accumulo è conteggiato in modo indipendente.\nInoltre, usare il Tripudio elementale \u003ccolor=#FFD780FF\u003eEco di voci oscure\u003c/color\u003e innesca un\u0027iterazione di un effetto equivalente a Ultrasenso che infligge il 200% dei suoi DAN originali.\nRichiede il talento passivo Sinestesia notturna.",
-                                                                        "description":  "Dopo aver innescato Ultrasenso tramite il talento passivo Sinestesia notturna, l\u0027ATT del personaggio attivo aumenta di un 10% per 9 s. Tale aumento è cumulabile fino a 3 volte, e ciascun accumulo è conteggiato in modo indipendente.\nInoltre, usare il Tripudio elementale Eco di voci oscure innesca un\u0027iterazione di un effetto equivalente a Ultrasenso che infligge il 200% dei suoi DAN originali.\nRichiede il talento passivo Sinestesia notturna."
+                                                                        "descriptionRaw":  "#Dopo aver innescato Ultrasenso tramite il talento d\u0027ascensione Sinestesia notturna, l\u0027ATT del personaggio attivo aumenta di un 10% per 9{NON_BREAK_SPACE}s. Tale aumento è cumulabile fino a 3 volte, e ciascun accumulo è conteggiato in modo indipendente.\nInoltre, usare il Tripudio elementale \u003ccolor=#FFD780FF\u003eEco di voci oscure\u003c/color\u003e innesca un\u0027iterazione di un effetto equivalente a Ultrasenso che infligge il 200% dei suoi DAN originali.\nRichiede il talento d\u0027ascensione Sinestesia notturna.",
+                                                                        "description":  "Dopo aver innescato Ultrasenso tramite il talento d\u0027ascensione Sinestesia notturna, l\u0027ATT del personaggio attivo aumenta di un 10% per 9 s. Tale aumento è cumulabile fino a 3 volte, e ciascun accumulo è conteggiato in modo indipendente.\nInoltre, usare il Tripudio elementale Eco di voci oscure innesca un\u0027iterazione di un effetto equivalente a Ultrasenso che infligge il 200% dei suoi DAN originali.\nRichiede il talento d\u0027ascensione Sinestesia notturna."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Tracce nel bosco brumoso",
-                                                                        "descriptionRaw":  "#La \u003ccolor=#FFD780FF\u003eSfera spiritica\u003c/color\u003e dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eLancio della Notte\u003c/color\u003e può rimbalzare 2 volte in più.\nInoltre, quando la \u003ccolor=#FFD780FF\u003eSfera spiritica\u003c/color\u003e colpisce un avversario, applica l\u0027effetto Nottescura per 12{NON_BREAK_SPACE}s. Se il talento passivo Sinestesia notturna è sbloccato, gli avversari sotto l\u0027effetto di Nottescura subiscono un 50% di DAN in più dall\u0027effetto Ultrasenso innescato dal suddetto talento passivo.",
-                                                                        "description":  "La Sfera spiritica dell\u0027abilità elementale Lancio della Notte può rimbalzare 2 volte in più.\nInoltre, quando la Sfera spiritica colpisce un avversario, applica l\u0027effetto Nottescura per 12 s. Se il talento passivo Sinestesia notturna è sbloccato, gli avversari sotto l\u0027effetto di Nottescura subiscono un 50% di DAN in più dall\u0027effetto Ultrasenso innescato dal suddetto talento passivo."
+                                                                        "descriptionRaw":  "#La \u003ccolor=#FFD780FF\u003eSfera spiritica\u003c/color\u003e dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eLancio della Notte\u003c/color\u003e può rimbalzare 2 volte in più.\nInoltre, quando la \u003ccolor=#FFD780FF\u003eSfera spiritica\u003c/color\u003e colpisce un avversario, applica l\u0027effetto Nottescura per 12{NON_BREAK_SPACE}s. Se il talento d\u0027ascensione Sinestesia notturna è sbloccato, gli avversari sotto l\u0027effetto di Nottescura subiscono un 50% di DAN in più dall\u0027effetto Ultrasenso innescato dal suddetto talento d\u0027ascensione.",
+                                                                        "description":  "La Sfera spiritica dell\u0027abilità elementale Lancio della Notte può rimbalzare 2 volte in più.\nInoltre, quando la Sfera spiritica colpisce un avversario, applica l\u0027effetto Nottescura per 12 s. Se il talento d\u0027ascensione Sinestesia notturna è sbloccato, gli avversari sotto l\u0027effetto di Nottescura subiscono un 50% di DAN in più dall\u0027effetto Ultrasenso innescato dal suddetto talento d\u0027ascensione."
                                                                     }
                                                          },
                                       "elementText":  "Electro",
@@ -4659,13 +4770,13 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Mualani darà il meglio di sé!",
-                                                                         "descriptionRaw":  "#Mualani ottiene 2 accumuli di Slancio ondoso di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2{NON_BREAK_SPACE}s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.",
-                                                                         "description":  "Mualani ottiene 2 accumuli di Slancio ondoso di Squalo spaccaonde quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2 s. Quest\u0027effetto richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente."
+                                                                         "descriptionRaw":  "#Mualani ottiene 2 accumuli di Slancio ondoso di \u003ccolor=#FFD780FF\u003eSqualo spaccaonde\u003c/color\u003e quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2{NON_BREAK_SPACE}s. Richiede il talento d\u0027ascensione Gonfiotto d\u0027acqua dolce termoresistente.",
+                                                                         "description":  "Mualani ottiene 2 accumuli di Slancio ondoso di Squalo spaccaonde quando entra in stato di Grazia dell\u0027Anima della Notte. Ciascun Gonfiotto raccolto le conferisce 1 accumulo.\nIn più, quando raccoglie 2 Gonfiotti nella medesima iterazione di Grazia dell\u0027Anima della Notte, Mualani riceve 12 punti Anima della Notte aggiuntivi nell\u0027arco di 2 s. Richiede il talento d\u0027ascensione Gonfiotto d\u0027acqua dolce termoresistente."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Gonfiotti per Sharky",
-                                                                         "descriptionRaw":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e aumentano di un 75%.",
-                                                                         "description":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento passivo Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da Squaloscoppio ondapazza aumentano di un 75%."
+                                                                         "descriptionRaw":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento d\u0027ascensione Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da \u003ccolor=#FFD780FF\u003eSqualoscoppio ondapazza\u003c/color\u003e aumentano di un 75%.",
+                                                                         "description":  "L\u0027energia di Mualani si ripristina di 8 quando raccoglie un Gonfiotto. Richiede il talento d\u0027ascensione Gonfiotto d\u0027acqua dolce termoresistente.\nIn più, i DAN inflitti da Squaloscoppio ondapazza aumentano di un 75%."
                                                                      },
                                                               "c3":  {
                                                                          "name":  "Surfare su mari di gioia",
@@ -4700,8 +4811,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Attraverso foreste e montagne",
-                                                                        "descriptionRaw":  "#Il talento passivo Brezza di ritorno floreale cambia come segue: l\u0027\u003ccolor=#FFD780FF\u003eAnello floreale\u003c/color\u003e fornisce al personaggio l\u0027effetto Germoglio di Brezza di ritorno floreale al ritorno dell\u0027Anello, infliggendo un 40% dell\u0027ATT di Collei come \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e ai nemici vicini per 3{NON_BREAK_SPACE}s.\nDal momento in cui viene utilizzato \u003ccolor=#FFD780FF\u003ePennello floreale\u003c/color\u003e, fino al termine dell\u0027effetto Germoglio, se uno dei membri del gruppo innesca una reazione di Ustione, Vivificazione, Accentuazione, Propagazione, Fioritura, Iperfioritura, Fioritura lunare o Germinazione l\u0027effetto Germoglio verrà esteso di 3{NON_BREAK_SPACE}s.\nLa durata dell\u0027effetto Germoglio può essere estesa in questo modo una sola volta. Se un altro effetto Germoglio viene innescato durante la sua durata iniziale, l\u0027effetto iniziale viene rimosso.\nI DAN inflitti dal Germoglio vengono considerati come DAN da abilità elementale.\nDevi prima sbloccare il talento passivo Brezza di ritorno floreale.",
-                                                                        "description":  "Il talento passivo Brezza di ritorno floreale cambia come segue: l\u0027Anello floreale fornisce al personaggio l\u0027effetto Germoglio di Brezza di ritorno floreale al ritorno dell\u0027Anello, infliggendo un 40% dell\u0027ATT di Collei come DAN da Dendro ai nemici vicini per 3 s.\nDal momento in cui viene utilizzato Pennello floreale, fino al termine dell\u0027effetto Germoglio, se uno dei membri del gruppo innesca una reazione di Ustione, Vivificazione, Accentuazione, Propagazione, Fioritura, Iperfioritura, Fioritura lunare o Germinazione l\u0027effetto Germoglio verrà esteso di 3 s.\nLa durata dell\u0027effetto Germoglio può essere estesa in questo modo una sola volta. Se un altro effetto Germoglio viene innescato durante la sua durata iniziale, l\u0027effetto iniziale viene rimosso.\nI DAN inflitti dal Germoglio vengono considerati come DAN da abilità elementale.\nDevi prima sbloccare il talento passivo Brezza di ritorno floreale."
+                                                                        "descriptionRaw":  "#Il talento d\u0027ascensione Brezza di ritorno floreale cambia come segue: l\u0027\u003ccolor=#FFD780FF\u003eAnello floreale\u003c/color\u003e fornisce al personaggio l\u0027effetto Germoglio di Brezza di ritorno floreale al ritorno dell\u0027Anello, infliggendo un 40% dell\u0027ATT di Collei come \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e ai nemici vicini per 3{NON_BREAK_SPACE}s.\nDal momento in cui viene utilizzato \u003ccolor=#FFD780FF\u003ePennello floreale\u003c/color\u003e, fino al termine dell\u0027effetto Germoglio, se uno dei membri del gruppo innesca una reazione di Ustione, Vivificazione, Accentuazione, Propagazione, Fioritura, Iperfioritura, Fioritura lunare o Germinazione l\u0027effetto Germoglio verrà esteso di 3{NON_BREAK_SPACE}s.\nLa durata dell\u0027effetto Germoglio può essere estesa in questo modo una sola volta. Se un altro effetto Germoglio viene innescato durante la sua durata iniziale, l\u0027effetto iniziale viene rimosso.\nI DAN inflitti dal Germoglio vengono considerati come DAN da abilità elementale.\nRichiede il talento d\u0027ascensione Brezza di ritorno floreale.",
+                                                                        "description":  "Il talento d\u0027ascensione Brezza di ritorno floreale cambia come segue: l\u0027Anello floreale fornisce al personaggio l\u0027effetto Germoglio di Brezza di ritorno floreale al ritorno dell\u0027Anello, infliggendo un 40% dell\u0027ATT di Collei come DAN da Dendro ai nemici vicini per 3 s.\nDal momento in cui viene utilizzato Pennello floreale, fino al termine dell\u0027effetto Germoglio, se uno dei membri del gruppo innesca una reazione di Ustione, Vivificazione, Accentuazione, Propagazione, Fioritura, Iperfioritura, Fioritura lunare o Germinazione l\u0027effetto Germoglio verrà esteso di 3 s.\nLa durata dell\u0027effetto Germoglio può essere estesa in questo modo una sola volta. Se un altro effetto Germoglio viene innescato durante la sua durata iniziale, l\u0027effetto iniziale viene rimosso.\nI DAN inflitti dal Germoglio vengono considerati come DAN da abilità elementale.\nRichiede il talento d\u0027ascensione Brezza di ritorno floreale."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Dono dei boschi",
@@ -4782,8 +4893,8 @@
                                     "constellations":  {
                                                            "c2":  {
                                                                       "name":  "Chi trova un amico",
-                                                                      "descriptionRaw":  "Quando la Freccia Geloflusso di \u003ccolor=#FFD780FF\u003eTurbine Gelastrale\u003c/color\u003e colpisce un avversario, o se il suo Razzo Gelostella colpisce gli avversari, viene generato 1 accumulo di Rilevatore del talento passivo Ostruzione oppressiva.\nDevi prima sbloccare il talento passivo Ostruzione oppressiva.",
-                                                                      "description":  "Quando la Freccia Geloflusso di Turbine Gelastrale colpisce un avversario, o se il suo Razzo Gelostella colpisce gli avversari, viene generato 1 accumulo di Rilevatore del talento passivo Ostruzione oppressiva.\nDevi prima sbloccare il talento passivo Ostruzione oppressiva."
+                                                                      "descriptionRaw":  "Quando la Freccia Geloflusso di \u003ccolor=#FFD780FF\u003eTurbine Gelastrale\u003c/color\u003e colpisce un avversario, o se il suo Razzo Gelostella colpisce gli avversari, viene generato 1 accumulo di Rilevatore del talento d\u0027ascensione Ostruzione oppressiva.\nRichiede il talento d\u0027ascensione Ostruzione oppressiva.",
+                                                                      "description":  "Quando la Freccia Geloflusso di Turbine Gelastrale colpisce un avversario, o se il suo Razzo Gelostella colpisce gli avversari, viene generato 1 accumulo di Rilevatore del talento d\u0027ascensione Ostruzione oppressiva.\nRichiede il talento d\u0027ascensione Ostruzione oppressiva."
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Encomio del gelo solare",
@@ -4802,8 +4913,8 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Consiglio del compagno",
-                                                                      "descriptionRaw":  "Il numero massimo di accumuli di Rilevatore che lo stato di Ventanimo generato da \u003ccolor=#FFD780FF\u003eTurbine Gelastrale\u003c/color\u003e può ottenere aumenta di 1. Devi prima sbloccare il talento passivo Ostruzione oppressiva. Inoltre, i personaggi attivi sotto l\u0027effetto di Ventanimo infliggono un 60% di DAN da CRIT fisici in più.",
-                                                                      "description":  "Il numero massimo di accumuli di Rilevatore che lo stato di Ventanimo generato da Turbine Gelastrale può ottenere aumenta di 1. Devi prima sbloccare il talento passivo Ostruzione oppressiva. Inoltre, i personaggi attivi sotto l\u0027effetto di Ventanimo infliggono un 60% di DAN da CRIT fisici in più."
+                                                                      "descriptionRaw":  "Il numero massimo di accumuli di Rilevatore che lo stato di Ventanimo generato da \u003ccolor=#FFD780FF\u003eTurbine Gelastrale\u003c/color\u003e può ottenere aumenta di 1. Richiede il talento d\u0027ascensione Ostruzione oppressiva.\nInoltre, i personaggi attivi sotto l\u0027effetto di Ventanimo infliggono un 60% di DAN da CRIT fisici in più.",
+                                                                      "description":  "Il numero massimo di accumuli di Rilevatore che lo stato di Ventanimo generato da Turbine Gelastrale può ottenere aumenta di 1. Richiede il talento d\u0027ascensione Ostruzione oppressiva.\nInoltre, i personaggi attivi sotto l\u0027effetto di Ventanimo infliggono un 60% di DAN da CRIT fisici in più."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Confluenza di fattori",
@@ -4843,8 +4954,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Forma della bestia propizia",
-                                                                        "descriptionRaw":  "Dopo aver colpito un avversario, il proiettile di Cannone Squamocuspide rimbalza tra gli avversari una volta infliggendo \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e pari a un 700% dell\u0027ATT di Kinich.\nSe questa iterazione di Cannone Squamocuspide attiva i potenziamenti conferiti dal talento passivo Patto dello Spirito fiammeggiante o dalla costellazione Zampa della cicindela, anche l\u0027attacco rimbalzante riceve i relativi potenziamenti.",
-                                                                        "description":  "Dopo aver colpito un avversario, il proiettile di Cannone Squamocuspide rimbalza tra gli avversari una volta infliggendo DAN da Dendro pari a un 700% dell\u0027ATT di Kinich.\nSe questa iterazione di Cannone Squamocuspide attiva i potenziamenti conferiti dal talento passivo Patto dello Spirito fiammeggiante o dalla costellazione Zampa della cicindela, anche l\u0027attacco rimbalzante riceve i relativi potenziamenti."
+                                                                        "descriptionRaw":  "Dopo aver colpito un avversario, il proiettile di Cannone Squamocuspide rimbalza tra gli avversari una volta infliggendo \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e pari a un 700% dell\u0027ATT di Kinich.\nSe questa iterazione di Cannone Squamocuspide attiva i potenziamenti conferiti dal talento d\u0027ascensione Patto dello Spirito fiammeggiante o dalla costellazione Zampa della cicindela, anche l\u0027attacco rimbalzante riceve i relativi potenziamenti.",
+                                                                        "description":  "Dopo aver colpito un avversario, il proiettile di Cannone Squamocuspide rimbalza tra gli avversari una volta infliggendo DAN da Dendro pari a un 700% dell\u0027ATT di Kinich.\nSe questa iterazione di Cannone Squamocuspide attiva i potenziamenti conferiti dal talento d\u0027ascensione Patto dello Spirito fiammeggiante o dalla costellazione Zampa della cicindela, anche l\u0027attacco rimbalzante riceve i relativi potenziamenti."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Becco del pappagallo",
@@ -4864,8 +4975,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Papiri di segreti silenti",
-                                                                        "descriptionRaw":  "#Sethos ottiene un 15% di \u003ccolor=#FFACFFFF\u003ebonus DAN da Electro\u003c/color\u003e per 10{NON_BREAK_SPACE}s, cumulabile 2 volte e con la durata di ciascun accumulo calcolata in maniera indipendente, quando si verifica una qualunque delle seguenti condizioni:\n· gli attacchi mirati consumano energia elementale (richiede il talento passivo Enigma del nibbio bruno);\n· l\u0027energia elementale viene ripristinata innescando reazioni elementali tramite \u003ccolor=#FFD780FF\u003eRito antico: Sabbie del tuono\u003c/color\u003e;\n· viene usato \u003ccolor=#FFD780FF\u003eRito arcano: Squarciaombre del tramonto\u003c/color\u003e.",
-                                                                        "description":  "Sethos ottiene un 15% di bonus DAN da Electro per 10 s, cumulabile 2 volte e con la durata di ciascun accumulo calcolata in maniera indipendente, quando si verifica una qualunque delle seguenti condizioni:\n· gli attacchi mirati consumano energia elementale (richiede il talento passivo Enigma del nibbio bruno);\n· l\u0027energia elementale viene ripristinata innescando reazioni elementali tramite Rito antico: Sabbie del tuono;\n· viene usato Rito arcano: Squarciaombre del tramonto."
+                                                                        "descriptionRaw":  "#Sethos ottiene un 15% di \u003ccolor=#FFACFFFF\u003ebonus DAN da Electro\u003c/color\u003e per 10{NON_BREAK_SPACE}s, cumulabile 2 volte e con la durata di ciascun accumulo calcolata in maniera indipendente, quando si verifica una qualunque delle seguenti condizioni:\n· gli attacchi mirati consumano energia elementale (richiede il talento d\u0027ascensione Enigma del nibbio bruno);\n· l\u0027energia elementale viene ripristinata innescando reazioni elementali tramite \u003ccolor=#FFD780FF\u003eRito antico: Sabbie del tuono\u003c/color\u003e;\n· viene usato \u003ccolor=#FFD780FF\u003eRito arcano: Squarciaombre del tramonto\u003c/color\u003e.",
+                                                                        "description":  "Sethos ottiene un 15% di bonus DAN da Electro per 10 s, cumulabile 2 volte e con la durata di ciascun accumulo calcolata in maniera indipendente, quando si verifica una qualunque delle seguenti condizioni:\n· gli attacchi mirati consumano energia elementale (richiede il talento d\u0027ascensione Enigma del nibbio bruno);\n· l\u0027energia elementale viene ripristinata innescando reazioni elementali tramite Rito antico: Sabbie del tuono;\n· viene usato Rito arcano: Squarciaombre del tramonto."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Piume benevole",
@@ -4884,8 +4995,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Tomo del Tempio del Sole ramingo",
-                                                                        "descriptionRaw":  "#Dopo aver colpito un nemico con una \u003ccolor=#FFD780FF\u003eFreccia squarciaombre\u003c/color\u003e, l\u0027energia elementale consumata dal talento passivo Enigma del nibbio bruno viene restituita. Questo effetto può attivarsi una volta ogni 15{NON_BREAK_SPACE}s. Richiede il talento passivo Enigma del nibbio bruno.",
-                                                                        "description":  "Dopo aver colpito un nemico con una Freccia squarciaombre, l\u0027energia elementale consumata dal talento passivo Enigma del nibbio bruno viene restituita. Questo effetto può attivarsi una volta ogni 15 s. Richiede il talento passivo Enigma del nibbio bruno."
+                                                                        "descriptionRaw":  "#Dopo aver colpito un nemico con una \u003ccolor=#FFD780FF\u003eFreccia squarciaombre\u003c/color\u003e, l\u0027energia elementale consumata dal talento d\u0027ascensione Enigma del nibbio bruno viene restituita. Questo effetto può attivarsi una volta ogni 15{NON_BREAK_SPACE}s. Richiede il talento d\u0027ascensione Enigma del nibbio bruno.",
+                                                                        "description":  "Dopo aver colpito un nemico con una Freccia squarciaombre, l\u0027energia elementale consumata dal talento d\u0027ascensione Enigma del nibbio bruno viene restituita. Questo effetto può attivarsi una volta ogni 15 s. Richiede il talento d\u0027ascensione Enigma del nibbio bruno."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Litania del santuario precluso",
@@ -5154,8 +5265,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Calvario del Divoracuori",
-                                                                         "descriptionRaw":  "#Citlali ottiene 125 punti di maestria elementale, mentre gli altri personaggi che sono protetti dal suo Scudo d\u0027opale o che vengono seguiti da Itzpapa ne ottengono 250.\nInoltre, quando Citlali usa la sua abilità elementale \u003ccolor=#FFD780FF\u003eStella nera Albagelo\u003c/color\u003e, anche i personaggi vicini ottengono uno Scudo d\u0027opale.\n\nIn più, gli effetti del talento passivo Pioggia gelida di Mamaloaco ricevono un miglioramento:\nmentre Itzpapa è in campo, dopo che i membri vicini del gruppo hanno innescato reazioni di Congelamento o di Fusione, le RES a \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e e \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e degli avversari colpiti diminuiscono di un ulteriore 20% per 12{NON_BREAK_SPACE}s. Richiede il talento passivo Pioggia gelida di Mamaloaco.",
-                                                                         "description":  "Citlali ottiene 125 punti di maestria elementale, mentre gli altri personaggi che sono protetti dal suo Scudo d\u0027opale o che vengono seguiti da Itzpapa ne ottengono 250.\nInoltre, quando Citlali usa la sua abilità elementale Stella nera Albagelo, anche i personaggi vicini ottengono uno Scudo d\u0027opale.\n\nIn più, gli effetti del talento passivo Pioggia gelida di Mamaloaco ricevono un miglioramento:\nmentre Itzpapa è in campo, dopo che i membri vicini del gruppo hanno innescato reazioni di Congelamento o di Fusione, le RES a Pyro e Hydro degli avversari colpiti diminuiscono di un ulteriore 20% per 12 s. Richiede il talento passivo Pioggia gelida di Mamaloaco."
+                                                                         "descriptionRaw":  "#Citlali ottiene 125 punti di maestria elementale, mentre gli altri personaggi che sono protetti dal suo Scudo d\u0027opale o che vengono seguiti da Itzpapa ne ottengono 250.\nInoltre, quando Citlali usa la sua abilità elementale \u003ccolor=#FFD780FF\u003eStella nera Albagelo\u003c/color\u003e, anche i personaggi vicini ottengono uno Scudo d\u0027opale.\n\nIn più, gli effetti del talento d\u0027ascensione Pioggia gelida di Mamaloaco ricevono un miglioramento:\nmentre Itzpapa è in campo, dopo che i membri vicini del gruppo hanno innescato reazioni di Congelamento o di Fusione, le RES a \u003ccolor=#FF9999FF\u003ePyro\u003c/color\u003e e \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e degli avversari colpiti diminuiscono di un ulteriore 20% per 12{NON_BREAK_SPACE}s. Richiede il talento d\u0027ascensione Pioggia gelida di Mamaloaco.",
+                                                                         "description":  "Citlali ottiene 125 punti di maestria elementale, mentre gli altri personaggi che sono protetti dal suo Scudo d\u0027opale o che vengono seguiti da Itzpapa ne ottengono 250.\nInoltre, quando Citlali usa la sua abilità elementale Stella nera Albagelo, anche i personaggi vicini ottengono uno Scudo d\u0027opale.\n\nIn più, gli effetti del talento d\u0027ascensione Pioggia gelida di Mamaloaco ricevono un miglioramento:\nmentre Itzpapa è in campo, dopo che i membri vicini del gruppo hanno innescato reazioni di Congelamento o di Fusione, le RES a Pyro e Hydro degli avversari colpiti diminuiscono di un ulteriore 20% per 12 s. Richiede il talento d\u0027ascensione Pioggia gelida di Mamaloaco."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Spiriteschio Affrontamorte",
@@ -5384,8 +5495,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Risolutezza della prima linea",
-                                                                           "descriptionRaw":  "#Quando il personaggio attivo nello stato di Tattiche coordinate (a esclusione di Chevreuse) innesca una reazione di Sovraccarico, recupera 6 di energia. Quest\u0027effetto può attivarsi una volta ogni 10{NON_BREAK_SPACE}s.\nRichiede il talento passivo Tattiche coordinate dell\u0027avanguardia.",
-                                                                           "description":  "Quando il personaggio attivo nello stato di Tattiche coordinate (a esclusione di Chevreuse) innesca una reazione di Sovraccarico, recupera 6 di energia. Quest\u0027effetto può attivarsi una volta ogni 10 s.\nRichiede il talento passivo Tattiche coordinate dell\u0027avanguardia."
+                                                                           "descriptionRaw":  "#Quando il personaggio attivo nello stato di Tattiche coordinate (a esclusione di Chevreuse) innesca una reazione di Sovraccarico, recupera 6 di energia. Quest\u0027effetto può attivarsi una volta ogni 10{NON_BREAK_SPACE}s.\nRichiede il talento d\u0027ascensione Tattiche coordinate dell\u0027avanguardia.",
+                                                                           "description":  "Quando il personaggio attivo nello stato di Tattiche coordinate (a esclusione di Chevreuse) innesca una reazione di Sovraccarico, recupera 6 di energia. Quest\u0027effetto può attivarsi una volta ogni 10 s.\nRichiede il talento d\u0027ascensione Tattiche coordinate dell\u0027avanguardia."
                                                                        }
                                                             },
                                          "elementText":  "Pyro",
@@ -5765,8 +5876,8 @@
                                        "constellations":  {
                                                               "c2":  {
                                                                          "name":  "Vita da eremita",
-                                                                         "descriptionRaw":  "#Dopo aver usato Scala celeste di \u003ccolor=#FFD780FF\u003eCandide nuvole dell\u0027alba\u003c/color\u003e, l\u0027ATT di Xianyun aumenta di un 20% per 15{NON_BREAK_SPACE}s.\nIn più, l\u0027effetto del talento passivo Rimira l\u0027Adepta nel suo reame riceve un potenziamento: quando il Giuncostella creato da \u003ccolor=#FFD780FF\u003eRiunione astrale del tramonto\u003c/color\u003e ha degli accumuli di Assistenza adeptica a disposizione, i DAN dell\u0027onda d\u0027urto degli attacchi in picchiata sferrati dai personaggi attivi vicini aumentano di un 400% dell\u0027ATT di Xianyun. L\u0027aumento di DAN massimo che è possibile ottenere in questo modo è pari a 18.000, e può essere applicato a un solo avversario per ogni onda d\u0027urto sprigionata dagli attacchi in picchiata. Ciascun personaggio può attivare quest\u0027effetto una volta ogni 0,4{NON_BREAK_SPACE}s.\nRichiede il talento passivo Rimira l\u0027Adepta nel suo reame.",
-                                                                         "description":  "Dopo aver usato Scala celeste di Candide nuvole dell\u0027alba, l\u0027ATT di Xianyun aumenta di un 20% per 15 s.\nIn più, l\u0027effetto del talento passivo Rimira l\u0027Adepta nel suo reame riceve un potenziamento: quando il Giuncostella creato da Riunione astrale del tramonto ha degli accumuli di Assistenza adeptica a disposizione, i DAN dell\u0027onda d\u0027urto degli attacchi in picchiata sferrati dai personaggi attivi vicini aumentano di un 400% dell\u0027ATT di Xianyun. L\u0027aumento di DAN massimo che è possibile ottenere in questo modo è pari a 18.000, e può essere applicato a un solo avversario per ogni onda d\u0027urto sprigionata dagli attacchi in picchiata. Ciascun personaggio può attivare quest\u0027effetto una volta ogni 0,4 s.\nRichiede il talento passivo Rimira l\u0027Adepta nel suo reame."
+                                                                         "descriptionRaw":  "#Dopo aver usato Scala celeste di \u003ccolor=#FFD780FF\u003eCandide nuvole dell\u0027alba\u003c/color\u003e, l\u0027ATT di Xianyun aumenta di un 20% per 15{NON_BREAK_SPACE}s.\nIn più, l\u0027effetto del talento d\u0027ascensione Rimira l\u0027Adepta nel suo reame riceve un potenziamento: quando il Giuncostella creato da \u003ccolor=#FFD780FF\u003eRiunione astrale del tramonto\u003c/color\u003e ha degli accumuli di Assistenza adeptica a disposizione, i DAN dell\u0027onda d\u0027urto degli attacchi in picchiata sferrati dai personaggi attivi vicini aumentano di un 400% dell\u0027ATT di Xianyun. L\u0027aumento di DAN massimo che è possibile ottenere in questo modo è pari a 18.000, e può essere applicato a un solo avversario per ogni onda d\u0027urto sprigionata dagli attacchi in picchiata. Ciascun personaggio può attivare quest\u0027effetto una volta ogni 0,4{NON_BREAK_SPACE}s.\nRichiede il talento d\u0027ascensione Rimira l\u0027Adepta nel suo reame.",
+                                                                         "description":  "Dopo aver usato Scala celeste di Candide nuvole dell\u0027alba, l\u0027ATT di Xianyun aumenta di un 20% per 15 s.\nIn più, l\u0027effetto del talento d\u0027ascensione Rimira l\u0027Adepta nel suo reame riceve un potenziamento: quando il Giuncostella creato da Riunione astrale del tramonto ha degli accumuli di Assistenza adeptica a disposizione, i DAN dell\u0027onda d\u0027urto degli attacchi in picchiata sferrati dai personaggi attivi vicini aumentano di un 400% dell\u0027ATT di Xianyun. L\u0027aumento di DAN massimo che è possibile ottenere in questo modo è pari a 18.000, e può essere applicato a un solo avversario per ogni onda d\u0027urto sprigionata dagli attacchi in picchiata. Ciascun personaggio può attivare quest\u0027effetto una volta ogni 0,4 s.\nRichiede il talento d\u0027ascensione Rimira l\u0027Adepta nel suo reame."
                                                                      },
                                                               "c4":  {
                                                                          "name":  "Buongustaia del miglio perlato",
@@ -5847,8 +5958,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Nota di testa del Lagoluce",
-                                                                        "descriptionRaw":  "#Quando \u003ccolor=#FFD780FF\u003eEstratto fragrante\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eRappresentazione aromatica\u003c/color\u003e o la Colonia di Chiarugiada del talento passivo Profumo persistente (se già sbloccato) colpiscono gli avversari, la \u003ccolor=#99FF88FF\u003eRES a Dendro\u003c/color\u003e di questi ultimi si riduce di un 30% per 10{NON_BREAK_SPACE}s.",
-                                                                        "description":  "Quando Estratto fragrante, Rappresentazione aromatica o la Colonia di Chiarugiada del talento passivo Profumo persistente (se già sbloccato) colpiscono gli avversari, la RES a Dendro di questi ultimi si riduce di un 30% per 10 s."
+                                                                        "descriptionRaw":  "#Quando \u003ccolor=#FFD780FF\u003eEstratto fragrante\u003c/color\u003e, \u003ccolor=#FFD780FF\u003eRappresentazione aromatica\u003c/color\u003e o la Colonia di Chiarugiada del talento d\u0027ascensione Profumo persistente (se già sbloccato) colpiscono gli avversari, la \u003ccolor=#99FF88FF\u003eRES a Dendro\u003c/color\u003e di questi ultimi si riduce di un 30% per 10{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Quando Estratto fragrante, Rappresentazione aromatica o la Colonia di Chiarugiada del talento d\u0027ascensione Profumo persistente (se già sbloccato) colpiscono gli avversari, la RES a Dendro di questi ultimi si riduce di un 30% per 10 s."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Nota di cuore di Lumidouce",
@@ -5872,8 +5983,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Estrazione di fragranza leggera",
-                                                                        "descriptionRaw":  "#Aumenta di un 20% i DAN inflitti da \u003ccolor=#FFD780FF\u003eEstratto fragrante\u003c/color\u003e e dalla Colonia di Chiarugiada del talento passivo Profumo persistente, se già sbloccato.\nIn più, quando i membri del gruppo vicini innescano una reazione di Ustione sugli avversari o infliggono \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e ad avversari affetti da Ustione, viene generato 1 \u003ccolor=#FFD780FF\u003eAroma\u003c/color\u003e aggiuntivo. Quest\u0027effetto può attivarsi una volta ogni 2,9{NON_BREAK_SPACE}s.",
-                                                                        "description":  "Aumenta di un 20% i DAN inflitti da Estratto fragrante e dalla Colonia di Chiarugiada del talento passivo Profumo persistente, se già sbloccato.\nIn più, quando i membri del gruppo vicini innescano una reazione di Ustione sugli avversari o infliggono DAN da Dendro ad avversari affetti da Ustione, viene generato 1 Aroma aggiuntivo. Quest\u0027effetto può attivarsi una volta ogni 2,9 s."
+                                                                        "descriptionRaw":  "#Aumenta di un 20% i DAN inflitti da \u003ccolor=#FFD780FF\u003eEstratto fragrante\u003c/color\u003e e dalla Colonia di Chiarugiada del talento d\u0027ascensione Profumo persistente, se già sbloccato.\nIn più, quando i membri del gruppo vicini innescano una reazione di Ustione sugli avversari o infliggono \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e ad avversari affetti da Ustione, viene generato 1 \u003ccolor=#FFD780FF\u003eAroma\u003c/color\u003e aggiuntivo. Quest\u0027effetto può attivarsi una volta ogni 2,9{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Aumenta di un 20% i DAN inflitti da Estratto fragrante e dalla Colonia di Chiarugiada del talento d\u0027ascensione Profumo persistente, se già sbloccato.\nIn più, quando i membri del gruppo vicini innescano una reazione di Ustione sugli avversari o infliggono DAN da Dendro ad avversari affetti da Ustione, viene generato 1 Aroma aggiuntivo. Quest\u0027effetto può attivarsi una volta ogni 2,9 s."
                                                                     }
                                                          },
                                       "elementText":  "Dendro",
@@ -5949,8 +6060,8 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "\"Sangue e lacrime offro al chiaro di luna\"",
-                                                                       "descriptionRaw":  "Quando il {LINK#N11190001}\u003ccolor=#FFD780FF\u003eSantuario di Boscogelo\u003c/color\u003e{/LINK} attacca gli avversari, infligge un\u0027iterazione aggiuntiva di \u003ccolor=#99FF88FF\u003eDAN da Dendro ad area\u003c/color\u003e pari a un 185% della maestria elementale di Lauma. Tali DAN sono considerati DAN da Fioritura lunare. Quest\u0027iterazione di DAN non consuma accumuli di {LINK#N11190003}\u003ccolor=#FFD780FF\u003eInno pallido\u003c/color\u003e{/LINK}, conferendone a Lauma altri 2 e ripristinando inoltre la durata degli accumuli ottenuti in questo modo.\nQuest\u0027effetto può innescarsi fino a 8 volte per ciascun uso del Santuario di Boscogelo. Quando usa l\u0027abilità elementale \u003ccolor=#FFD780FF\u003e{LINK#S11192}Runo: Riposo senz\u0027alba di Karsikko{/LINK}\u003c/color\u003e, tutti gli accumuli di Inno pallido ottenuti nel modo sopra descritto vengono rimossi.\n\nIn più, se Lauma usa un attacco normale mentre ha degli accumuli di Inno pallido, ne consuma 1 affinché il suddetto attacco infligga \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e pari a un 150% della sua maestria elementale. Tali DAN sono considerati DAN da Fioritura lunare.\n\nQuando \u003ccolor=#FFD780FF\u003ePresagio lunare: Barlume ascendente\u003c/color\u003e è attivo, i DAN da Fioritura lunare di tutti i membri vicini del gruppo {LINK#N11190007}\u003ccolor=#FFD780FF\u003eaumentano\u003c/color\u003e{/LINK} di un 25%.",
-                                                                       "description":  "Quando il **Santuario di Boscogelo** attacca gli avversari, infligge un\u0027iterazione aggiuntiva di DAN da Dendro ad area pari a un 185% della maestria elementale di Lauma. Tali DAN sono considerati DAN da Fioritura lunare. Quest\u0027iterazione di DAN non consuma accumuli di **Inno pallido**, conferendone a Lauma altri 2 e ripristinando inoltre la durata degli accumuli ottenuti in questo modo.\nQuest\u0027effetto può innescarsi fino a 8 volte per ciascun uso del Santuario di Boscogelo. Quando usa l\u0027abilità elementale **Runo: Riposo senz\u0027alba di Karsikko**, tutti gli accumuli di Inno pallido ottenuti nel modo sopra descritto vengono rimossi.\n\nIn più, se Lauma usa un attacco normale mentre ha degli accumuli di Inno pallido, ne consuma 1 affinché il suddetto attacco infligga DAN da Dendro pari a un 150% della sua maestria elementale. Tali DAN sono considerati DAN da Fioritura lunare.\n\nQuando Presagio lunare: Barlume ascendente è attivo, i DAN da Fioritura lunare di tutti i membri vicini del gruppo **aumentano** di un 25%."
+                                                                       "descriptionRaw":  "Quando il {LINK#N11190001}\u003ccolor=#FFD780FF\u003eSantuario di Boscogelo\u003c/color\u003e{/LINK} attacca gli avversari, infligge un\u0027iterazione aggiuntiva di \u003ccolor=#99FF88FF\u003eDAN da Dendro ad area\u003c/color\u003e pari a un 185% della maestria elementale di Lauma. Tali DAN sono considerati DAN da Fioritura lunare. Quest\u0027iterazione di DAN non consuma accumuli di {LINK#N11190003}\u003ccolor=#FFD780FF\u003eInno pallido\u003c/color\u003e{/LINK}, conferendone a Lauma altri 2 e ripristinando inoltre la durata degli accumuli ottenuti in questo modo.\nQuest\u0027effetto può innescarsi fino a 8 volte per ciascun uso del Santuario di Boscogelo. Quando usa l\u0027abilità elementale \u003ccolor=#FFD780FF\u003e{LINK#S11192}Runo: Riposo senz\u0027alba di Karsikko{/LINK}\u003c/color\u003e, tutti gli accumuli di Inno pallido ottenuti nel modo sopra descritto vengono rimossi.\n\nIn più, se Lauma usa un attacco normale mentre ha degli accumuli di Inno pallido, ne consuma 1 affinché il suddetto attacco infligga \u003ccolor=#99FF88FF\u003eDAN da Dendro\u003c/color\u003e pari a un 150% della sua maestria elementale. Tali DAN sono considerati DAN da Fioritura lunare.\n\nQuando \u003ccolor=#FFD780FF\u003ePresagio lunare: Barlume ascendente\u003c/color\u003e è attivo, i DAN da Fioritura lunare di tutti i membri vicini del gruppo vengono {LINK#N11190007}\u003ccolor=#FFD780FF\u003einnalzati\u003c/color\u003e{/LINK} di un 25%.",
+                                                                       "description":  "Quando il **Santuario di Boscogelo** attacca gli avversari, infligge un\u0027iterazione aggiuntiva di DAN da Dendro ad area pari a un 185% della maestria elementale di Lauma. Tali DAN sono considerati DAN da Fioritura lunare. Quest\u0027iterazione di DAN non consuma accumuli di **Inno pallido**, conferendone a Lauma altri 2 e ripristinando inoltre la durata degli accumuli ottenuti in questo modo.\nQuest\u0027effetto può innescarsi fino a 8 volte per ciascun uso del Santuario di Boscogelo. Quando usa l\u0027abilità elementale **Runo: Riposo senz\u0027alba di Karsikko**, tutti gli accumuli di Inno pallido ottenuti nel modo sopra descritto vengono rimossi.\n\nIn più, se Lauma usa un attacco normale mentre ha degli accumuli di Inno pallido, ne consuma 1 affinché il suddetto attacco infligga DAN da Dendro pari a un 150% della sua maestria elementale. Tali DAN sono considerati DAN da Fioritura lunare.\n\nQuando Presagio lunare: Barlume ascendente è attivo, i DAN da Fioritura lunare di tutti i membri vicini del gruppo vengono **innalzati** di un 25%."
                                                                    },
                                                             "c1":  {
                                                                        "name":  "\"Salmodiate, o mie labbra\"",
@@ -6246,6 +6357,47 @@
                                      "region":  "Fontaine",
                                      "gender":  "maschio"
                                  },
+                       "nefer":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "L\u0027osservazione nutre la strategia",
+                                                                       "descriptionRaw":  "#Potenzia gli effetti del talento d\u0027ascensione {LINK#P1222101}\u003ccolor=#FFD780FF\u003eScommessa al chiaro di luna\u003c/color\u003e{/LINK}. La durata di {LINK#N11220003}\u003ccolor=#FFD780FF\u003eVelo della menzogna\u003c/color\u003e{/LINK} aumenta di 5{NON_BREAK_SPACE}s, il limite di accumuli sale a 5 e questi fanno sì che {LINK#N11220002}\u003ccolor=#FFD780FF\u003eSpettacolo fantasma\u003c/color\u003e{/LINK} infligga fino a un 140% del suo DAN originale. Quando Nefer scatena la sua abilità elementale, \u003ccolor=#FFD780FF\u003e{LINK#S11222}Strategia del senet: Danza delle mille notti{/LINK}\u003c/color\u003e, ottiene immediatamente 2 accumuli di Velo della menzogna. Inoltre, quando quest\u0027ultimo raggiunge i 5 accumuli, o quando la durata del quinto accumulo si ripristina, la maestria elementale di Nefer aumenta di 200 per 8{NON_BREAK_SPACE}s.\nRichiede il talento d\u0027ascensione Scommessa al chiaro di luna.",
+                                                                       "description":  "Potenzia gli effetti del talento d\u0027ascensione **Scommessa al chiaro di luna**. La durata di **Velo della menzogna** aumenta di 5 s, il limite di accumuli sale a 5 e questi fanno sì che **Spettacolo fantasma** infligga fino a un 140% del suo DAN originale. Quando Nefer scatena la sua abilità elementale, **Strategia del senet: Danza delle mille notti**, ottiene immediatamente 2 accumuli di Velo della menzogna. Inoltre, quando quest\u0027ultimo raggiunge i 5 accumuli, o quando la durata del quinto accumulo si ripristina, la maestria elementale di Nefer aumenta di 200 per 8 s.\nRichiede il talento d\u0027ascensione Scommessa al chiaro di luna."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Le illusioni intrappolano la ragione",
+                                                                       "descriptionRaw":  "#Quando Nefer è in campo ed è nello stato di {LINK#N11220001}\u003ccolor=#FFD780FF\u003eDanza dell\u0027ombra\u003c/color\u003e{/LINK}, si ottiene Rugiada verdeggiante un 25% più velocemente.\nMentre Nefer è in questo stato, la \u003ccolor=#99FF88FF\u003eRES a Dendro\u003c/color\u003e degli avversari vicini diminuisce di un 20%. Quando lo stato di Danza dell\u0027ombra di Nefer termina, o quando quest\u0027ultima si allontana di una certa distanza dagli avversari, quest\u0027effetto viene annullato dopo 4,5{NON_BREAK_SPACE}s.",
+                                                                       "description":  "Quando Nefer è in campo ed è nello stato di **Danza dell\u0027ombra**, si ottiene Rugiada verdeggiante un 25% più velocemente.\nMentre Nefer è in questo stato, la RES a Dendro degli avversari vicini diminuisce di un 20%. Quando lo stato di Danza dell\u0027ombra di Nefer termina, o quando quest\u0027ultima si allontana di una certa distanza dagli avversari, quest\u0027effetto viene annullato dopo 4,5 s."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "L\u0027inganno cela la verità",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003e{LINK#S11222}Strategia del senet: Danza delle mille notti{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello di **Strategia del senet: Danza delle mille notti**.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "L\u0027opportunità si cela tra i margini",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003e{LINK#S11225}Voto sacro: Fantasma del Vero Occhio{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello di **Voto sacro: Fantasma del Vero Occhio**.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "La vittoria giunge quando gira la sorte",
+                                                                       "descriptionRaw":  "Quando Nefer scatena {LINK#N11220002}\u003ccolor=#FFD780FF\u003eSpettacolo fantasma\u003c/color\u003e{/LINK}, i DAN della seconda fase da lei inflitti subiscono una conversione per infliggere \u003ccolor=#99FF88FF\u003eDAN da Dendro ad area\u003c/color\u003e pari a un 85% della sua maestria elementale. Inoltre, al termine degli attacchi di Spettacolo fantasma, viene inflitta un\u0027iterazione aggiuntiva di \u003ccolor=#99FF88FF\u003eDAN da Dendro ad area\u003c/color\u003e pari a un 120% della maestria elementale di Nefer. Tutti i DAN sopracitati sono considerati DAN da Fioritura lunare inflitti da Spettacolo fantasma.\n\n\u003ccolor=#FFD780FF\u003ePresagio lunare: Barlume ascendente\u003c/color\u003e\nI DAN da Fioritura lunare di Nefer vengono {LINK#N11190007}\u003ccolor=#FFD780FF\u003einnalzati\u003c/color\u003e{/LINK} di un 15%.",
+                                                                       "description":  "Quando Nefer scatena **Spettacolo fantasma**, i DAN della seconda fase da lei inflitti subiscono una conversione per infliggere DAN da Dendro ad area pari a un 85% della sua maestria elementale. Inoltre, al termine degli attacchi di Spettacolo fantasma, viene inflitta un\u0027iterazione aggiuntiva di DAN da Dendro ad area pari a un 120% della maestria elementale di Nefer. Tutti i DAN sopracitati sono considerati DAN da Fioritura lunare inflitti da Spettacolo fantasma.\n\nPresagio lunare: Barlume ascendente\nI DAN da Fioritura lunare di Nefer vengono **innalzati** di un 15%."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Un buon piano porta successo",
+                                                                       "descriptionRaw":  "I DAN base per le reazioni di Fioritura lunare innescate dallo {LINK#N11220002}\u003ccolor=#FFD780FF\u003eSpettacolo fantasma\u003c/color\u003e{/LINK} di Nefer aumentano di un 60% della sua maestria elementale. Quest\u0027effetto viene aumentato anche da {LINK#N11220003}\u003ccolor=#FFD780FF\u003eVelo della menzogna\u003c/color\u003e{/LINK}.",
+                                                                       "description":  "I DAN base per le reazioni di Fioritura lunare innescate dallo **Spettacolo fantasma** di Nefer aumentano di un 60% della sua maestria elementale. Quest\u0027effetto viene aumentato anche da **Velo della menzogna**."
+                                                                   }
+                                                        },
+                                     "elementText":  "Dendro",
+                                     "fullname":  null,
+                                     "weaponText":  "Catalizzatore",
+                                     "name":  "Nefer",
+                                     "substatText":  "DAN da CRIT",
+                                     "region":  "Nod-Krai",
+                                     "gender":  "femmina"
+                                 },
                        "aloy":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -6357,8 +6509,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "\"Mentre ella passeggia tra le nuvole\"",
-                                                                        "descriptionRaw":  "Dopo aver innescato l\u0027assorbimento elementale del talento passivo Quattro amuleti del sigillo divinatorio, l\u0027attuale iterazione dell\u0027abilità elementale di Lan Yan \u003ccolor=#FFD780FF\u003eRemiganti danzanti della rondine\u003c/color\u003e genera un ulteriore Anello Lunapiumata quando questi vengono lanciati contro gli avversari.\nRichiede il talento passivo Quattro amuleti del sigillo divinatorio.",
-                                                                        "description":  "Dopo aver innescato l\u0027assorbimento elementale del talento passivo Quattro amuleti del sigillo divinatorio, l\u0027attuale iterazione dell\u0027abilità elementale di Lan Yan Remiganti danzanti della rondine genera un ulteriore Anello Lunapiumata quando questi vengono lanciati contro gli avversari.\nRichiede il talento passivo Quattro amuleti del sigillo divinatorio."
+                                                                        "descriptionRaw":  "Dopo aver innescato l\u0027assorbimento elementale del talento d\u0027ascensione Quattro amuleti del sigillo divinatorio, l\u0027attuale iterazione dell\u0027abilità elementale di Lan Yan \u003ccolor=#FFD780FF\u003eRemiganti danzanti della rondine\u003c/color\u003e genera un ulteriore Anello Lunapiumata quando questi vengono lanciati contro gli avversari.\nRichiede il talento d\u0027ascensione Quattro amuleti del sigillo divinatorio.",
+                                                                        "description":  "Dopo aver innescato l\u0027assorbimento elementale del talento d\u0027ascensione Quattro amuleti del sigillo divinatorio, l\u0027attuale iterazione dell\u0027abilità elementale di Lan Yan Remiganti danzanti della rondine genera un ulteriore Anello Lunapiumata quando questi vengono lanciati contro gli avversari.\nRichiede il talento d\u0027ascensione Quattro amuleti del sigillo divinatorio."
                                                                     }
                                                          },
                                       "elementText":  "Anemo",
@@ -6504,8 +6656,8 @@
                                                                        },
                                                                 "c4":  {
                                                                            "name":  "Ricetta segreta con rosmarino",
-                                                                           "descriptionRaw":  "#La durata di {LINK#P1122101}\u003ccolor=#FFD780FF\u003eDieta riabilitativa\u003c/color\u003e{/LINK} aumenta di 6{NON_BREAK_SPACE}s. Mentre l\u0027effetto è attivo, c\u0027è una probabilità di ripristinare un 100% di PS aggiuntivi e 2 punti di energia di Escoffier quando si ripristinano PS tramite \u003ccolor=#FFD780FF\u003eDieta riabilitativa\u003c/color\u003e. Tale probabilità corrisponde al tasso di CRIT di Escoffier. È possibile innescare quest\u0027effetto 7 volte entro la durata di ciascuna iterazione di \u003ccolor=#FFD780FF\u003eDieta riabilitativa\u003c/color\u003e. Richiede il talento passivo Mangiare bene è la cura migliore.",
-                                                                           "description":  "La durata di **Dieta riabilitativa** aumenta di 6 s. Mentre l\u0027effetto è attivo, c\u0027è una probabilità di ripristinare un 100% di PS aggiuntivi e 2 punti di energia di Escoffier quando si ripristinano PS tramite Dieta riabilitativa. Tale probabilità corrisponde al tasso di CRIT di Escoffier. È possibile innescare quest\u0027effetto 7 volte entro la durata di ciascuna iterazione di Dieta riabilitativa. Richiede il talento passivo Mangiare bene è la cura migliore."
+                                                                           "descriptionRaw":  "#La durata di {LINK#P1122101}\u003ccolor=#FFD780FF\u003eDieta riabilitativa\u003c/color\u003e{/LINK} aumenta di 6{NON_BREAK_SPACE}s. Mentre l\u0027effetto è attivo, c\u0027è una probabilità di ripristinare un 100% di PS aggiuntivi e 2 punti di energia di Escoffier quando si ripristinano PS tramite \u003ccolor=#FFD780FF\u003eDieta riabilitativa\u003c/color\u003e. Tale probabilità corrisponde al tasso di CRIT di Escoffier. È possibile innescare quest\u0027effetto 7 volte entro la durata di ciascuna iterazione di \u003ccolor=#FFD780FF\u003eDieta riabilitativa\u003c/color\u003e. Richiede il talento d\u0027ascensione Mangiare bene è la cura migliore.",
+                                                                           "description":  "La durata di **Dieta riabilitativa** aumenta di 6 s. Mentre l\u0027effetto è attivo, c\u0027è una probabilità di ripristinare un 100% di PS aggiuntivi e 2 punti di energia di Escoffier quando si ripristinano PS tramite Dieta riabilitativa. Tale probabilità corrisponde al tasso di CRIT di Escoffier. È possibile innescare quest\u0027effetto 7 volte entro la durata di ciascuna iterazione di Dieta riabilitativa. Richiede il talento d\u0027ascensione Mangiare bene è la cura migliore."
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "La magia della caramellizzazione",
@@ -6524,8 +6676,8 @@
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Danza per il palato",
-                                                                           "descriptionRaw":  "#Quando 4 membri del gruppo sono di \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e o di \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, i loro DAN da CRIT di \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e aumentano di un 60% per 15{NON_BREAK_SPACE}s dall\u0027uso dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003e{LINK#S11122}Cottura a bassa temperatura{/LINK}\u003c/color\u003e o del Tripudio elementale \u003ccolor=#FFD780FF\u003e{LINK#S11125}Tecnica di taglio{/LINK}\u003c/color\u003e di Escoffier.\nRichiede il talento passivo Condimento ispiratore.",
-                                                                           "description":  "Quando 4 membri del gruppo sono di Hydro o di Cryo, i loro DAN da CRIT di Cryo aumentano di un 60% per 15 s dall\u0027uso dell\u0027abilità elementale **Cottura a bassa temperatura** o del Tripudio elementale **Tecnica di taglio** di Escoffier.\nRichiede il talento passivo Condimento ispiratore."
+                                                                           "descriptionRaw":  "#Quando 4 membri del gruppo sono di \u003ccolor=#80C0FFFF\u003eHydro\u003c/color\u003e o di \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e, i loro DAN da CRIT di \u003ccolor=#99FFFFFF\u003eCryo\u003c/color\u003e aumentano di un 60% per 15{NON_BREAK_SPACE}s dall\u0027uso dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003e{LINK#S11122}Cottura a bassa temperatura{/LINK}\u003c/color\u003e o del Tripudio elementale \u003ccolor=#FFD780FF\u003e{LINK#S11125}Tecnica di taglio{/LINK}\u003c/color\u003e di Escoffier.\nRichiede il talento d\u0027ascensione Condimento ispiratore.",
+                                                                           "description":  "Quando 4 membri del gruppo sono di Hydro o di Cryo, i loro DAN da CRIT di Cryo aumentano di un 60% per 15 s dall\u0027uso dell\u0027abilità elementale **Cottura a bassa temperatura** o del Tripudio elementale **Tecnica di taglio** di Escoffier.\nRichiede il talento d\u0027ascensione Condimento ispiratore."
                                                                        }
                                                             },
                                          "elementText":  "Cryo",
@@ -6745,8 +6897,8 @@
                                         "constellations":  {
                                                                "c2":  {
                                                                           "name":  "\"Ora, nel fronteggiare i pericoli della lunga notte\"",
-                                                                          "descriptionRaw":  "#Il talento passivo Fiamma frangitenebre riceve un potenziamento: quando un membro vicino del gruppo innesca una \u003ccolor=#FFACFFFF\u003ereazione di Electro\u003c/color\u003e su un avversario, i \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e inflitti dagli attacchi normali di Clorinde e da \u003ccolor=#FFD780FF\u003eFulgore finale\u003c/color\u003e aumentano di un 30% del suo ATT per 15{NON_BREAK_SPACE}s. L\u0027effetto può accumularsi fino a 3 volte, e ciascun accumulo viene conteggiato in modo indipendente. Raggiunti 3 accumuli, la resistenza all\u0027interruzione di Clorinde aumenta. L\u0027aumento di DAN massimo che è possibile raggiungere con i suddetti attacchi è pari a 2.700.\nRichiede il talento passivo Fiamma frangitenebre.",
-                                                                          "description":  "Il talento passivo Fiamma frangitenebre riceve un potenziamento: quando un membro vicino del gruppo innesca una reazione di Electro su un avversario, i DAN da Electro inflitti dagli attacchi normali di Clorinde e da Fulgore finale aumentano di un 30% del suo ATT per 15 s. L\u0027effetto può accumularsi fino a 3 volte, e ciascun accumulo viene conteggiato in modo indipendente. Raggiunti 3 accumuli, la resistenza all\u0027interruzione di Clorinde aumenta. L\u0027aumento di DAN massimo che è possibile raggiungere con i suddetti attacchi è pari a 2.700.\nRichiede il talento passivo Fiamma frangitenebre."
+                                                                          "descriptionRaw":  "#Il talento d\u0027ascensione Fiamma frangitenebre riceve un potenziamento: quando un membro vicino del gruppo innesca una \u003ccolor=#FFACFFFF\u003ereazione di Electro\u003c/color\u003e su un avversario, i \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e inflitti dagli attacchi normali di Clorinde e da \u003ccolor=#FFD780FF\u003eFulgore finale\u003c/color\u003e aumentano di un 30% del suo ATT per 15{NON_BREAK_SPACE}s. L\u0027effetto può accumularsi fino a 3 volte, e ciascun accumulo viene conteggiato in modo indipendente. Raggiunti 3 accumuli, la resistenza all\u0027interruzione di Clorinde aumenta. L\u0027aumento di DAN massimo che è possibile raggiungere con i suddetti attacchi è pari a 2.700.\nRichiede il talento d\u0027ascensione Fiamma frangitenebre.",
+                                                                          "description":  "Il talento d\u0027ascensione Fiamma frangitenebre riceve un potenziamento: quando un membro vicino del gruppo innesca una reazione di Electro su un avversario, i DAN da Electro inflitti dagli attacchi normali di Clorinde e da Fulgore finale aumentano di un 30% del suo ATT per 15 s. L\u0027effetto può accumularsi fino a 3 volte, e ciascun accumulo viene conteggiato in modo indipendente. Raggiunti 3 accumuli, la resistenza all\u0027interruzione di Clorinde aumenta. L\u0027aumento di DAN massimo che è possibile raggiungere con i suddetti attacchi è pari a 2.700.\nRichiede il talento d\u0027ascensione Fiamma frangitenebre."
                                                                       },
                                                                "c4":  {
                                                                           "name":  "\"Di custodire le lacrime, la vita e l\u0027amore\"",
@@ -6909,8 +7061,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "Cieli stellati e piogge di fiori",
-                                                                       "descriptionRaw":  "#Quando un personaggio sotto l\u0027effetto del Dorato calice dell\u0027abbondanza infligge \u003ccolor=#80C0FFFF\u003eDAN da Hydro\u003c/color\u003e agli avversari, la \u003ccolor=#80C0FFFF\u003eRES a Hydro\u003c/color\u003e di questi ultimi si riduce di un 35% per 10{NON_BREAK_SPACE}s. Dopo aver inflitto DAN da Fioritura o da Fioritura lunare agli avversari, la \u003ccolor=#99FF88FF\u003eRES a Dendro\u003c/color\u003e di questi ultimi si riduce di un 35% per 10{NON_BREAK_SPACE}s.\nDevi prima sbloccare il talento Corte dei petali danzanti.",
-                                                                       "description":  "Quando un personaggio sotto l\u0027effetto del Dorato calice dell\u0027abbondanza infligge DAN da Hydro agli avversari, la RES a Hydro di questi ultimi si riduce di un 35% per 10 s. Dopo aver inflitto DAN da Fioritura o da Fioritura lunare agli avversari, la RES a Dendro di questi ultimi si riduce di un 35% per 10 s.\nDevi prima sbloccare il talento Corte dei petali danzanti."
+                                                                       "descriptionRaw":  "#Quando un personaggio sotto l\u0027effetto del Dorato calice dell\u0027abbondanza infligge \u003ccolor=#80C0FFFF\u003eDAN da Hydro\u003c/color\u003e agli avversari, la \u003ccolor=#80C0FFFF\u003eRES a Hydro\u003c/color\u003e di questi ultimi si riduce di un 35% per 10{NON_BREAK_SPACE}s. Dopo aver inflitto DAN da Fioritura o da Fioritura lunare agli avversari, la \u003ccolor=#99FF88FF\u003eRES a Dendro\u003c/color\u003e di questi ultimi si riduce di un 35% per 10{NON_BREAK_SPACE}s.\nRichiede il talento d\u0027ascensione Corte dei petali danzanti.",
+                                                                       "description":  "Quando un personaggio sotto l\u0027effetto del Dorato calice dell\u0027abbondanza infligge DAN da Hydro agli avversari, la RES a Hydro di questi ultimi si riduce di un 35% per 10 s. Dopo aver inflitto DAN da Fioritura o da Fioritura lunare agli avversari, la RES a Dendro di questi ultimi si riduce di un 35% per 10 s.\nRichiede il talento d\u0027ascensione Corte dei petali danzanti."
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Impulso fricativo",
@@ -6950,8 +7102,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "La volata, il fumo ustionante",
-                                                                        "descriptionRaw":  "Se il talento passivo Trucco del proiettile è sbloccato, Chasca ottiene 1 accumulo di Spirito dell\u0027Ombra raggiante quando entra in campo.\nIn più, quando i \u003ccolor=#FFD780FF\u003eProiettili Cacciaombre radiosi\u003c/color\u003e di \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eRedini dello spirito, Caccia nell\u0027ombra\u003c/color\u003e colpiscono gli avversari, infliggono DAN elementali ad area del tipo elementale corrispondente pari a un 400% dell\u0027ATT di Chasca. Tali DAN sono considerati DAN da attacco caricato. Quest\u0027effetto può attivarsi una volta per ciascun uso di \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e.",
-                                                                        "description":  "Se il talento passivo Trucco del proiettile è sbloccato, Chasca ottiene 1 accumulo di Spirito dell\u0027Ombra raggiante quando entra in campo.\nIn più, quando i Proiettili Cacciaombre radiosi di Fuoco multibersaglio dell\u0027abilità elementale Redini dello spirito, Caccia nell\u0027ombra colpiscono gli avversari, infliggono DAN elementali ad area del tipo elementale corrispondente pari a un 400% dell\u0027ATT di Chasca. Tali DAN sono considerati DAN da attacco caricato. Quest\u0027effetto può attivarsi una volta per ciascun uso di Fuoco multibersaglio."
+                                                                        "descriptionRaw":  "Se il talento d\u0027ascensione Trucco del proiettile è sbloccato, Chasca ottiene 1 accumulo di Spirito dell\u0027Ombra raggiante quando entra in campo.\nIn più, quando i \u003ccolor=#FFD780FF\u003eProiettili Cacciaombre radiosi\u003c/color\u003e di \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eRedini dello spirito, Caccia nell\u0027ombra\u003c/color\u003e colpiscono gli avversari, infliggono DAN elementali ad area del tipo elementale corrispondente pari a un 400% dell\u0027ATT di Chasca. Tali DAN sono considerati DAN da attacco caricato. Quest\u0027effetto può attivarsi una volta per ciascun uso di \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e.",
+                                                                        "description":  "Se il talento d\u0027ascensione Trucco del proiettile è sbloccato, Chasca ottiene 1 accumulo di Spirito dell\u0027Ombra raggiante quando entra in campo.\nIn più, quando i Proiettili Cacciaombre radiosi di Fuoco multibersaglio dell\u0027abilità elementale Redini dello spirito, Caccia nell\u0027ombra colpiscono gli avversari, infliggono DAN elementali ad area del tipo elementale corrispondente pari a un 400% dell\u0027ATT di Chasca. Tali DAN sono considerati DAN da attacco caricato. Quest\u0027effetto può attivarsi una volta per ciascun uso di Fuoco multibersaglio."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Le scintille, uno sparo improvviso",
@@ -6970,13 +7122,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "La resa dei conti, la gloria della battaglia",
-                                                                        "descriptionRaw":  "#Il tempo di carica del \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e di Chasca si riduce e, dopo aver innescato la Conversione del Vincolo spirituale del talento passivo Trucco del proiettile, Chasca entra nello stato Colpi fatali: nei successivi 3{NON_BREAK_SPACE}s, la volta seguente che Chasca usa il \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eRedini dello spirito, Caccia nell\u0027ombra\u003c/color\u003e, i proiettili si caricano all\u0027istante, e i DAN da CRIT di tale iterazione dei \u003ccolor=#FFD780FF\u003eProiettili Cacciaombre\u003c/color\u003e e dei \u003ccolor=#FFD780FF\u003eProiettili Cacciaombre radiosi\u003c/color\u003e di \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e aumentano di un 120%. Si può ottenere l\u0027effetto Colpi fatali una volta ogni 3{NON_BREAK_SPACE}s.\n\nL\u0027accesso al suddetto effetto richiede il talento passivo Trucco del proiettile.",
-                                                                        "description":  "Il tempo di carica del Fuoco multibersaglio di Chasca si riduce e, dopo aver innescato la Conversione del Vincolo spirituale del talento passivo Trucco del proiettile, Chasca entra nello stato Colpi fatali: nei successivi 3 s, la volta seguente che Chasca usa il Fuoco multibersaglio dell\u0027abilità elementale Redini dello spirito, Caccia nell\u0027ombra, i proiettili si caricano all\u0027istante, e i DAN da CRIT di tale iterazione dei Proiettili Cacciaombre e dei Proiettili Cacciaombre radiosi di Fuoco multibersaglio aumentano di un 120%. Si può ottenere l\u0027effetto Colpi fatali una volta ogni 3 s.\n\nL\u0027accesso al suddetto effetto richiede il talento passivo Trucco del proiettile."
+                                                                        "descriptionRaw":  "#Il tempo di carica del \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e di Chasca si riduce e, dopo aver innescato la Conversione del Vincolo spirituale del talento d\u0027ascensione Trucco del proiettile, Chasca entra nello stato Colpi fatali: nei successivi 3{NON_BREAK_SPACE}s, la volta seguente che Chasca usa il \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eRedini dello spirito, Caccia nell\u0027ombra\u003c/color\u003e, i proiettili si caricano all\u0027istante, e i DAN da CRIT di tale iterazione dei \u003ccolor=#FFD780FF\u003eProiettili Cacciaombre\u003c/color\u003e e dei \u003ccolor=#FFD780FF\u003eProiettili Cacciaombre radiosi\u003c/color\u003e di \u003ccolor=#FFD780FF\u003eFuoco multibersaglio\u003c/color\u003e aumentano di un 120%. Si può ottenere l\u0027effetto Colpi fatali una volta ogni 3{NON_BREAK_SPACE}s.\n\nL\u0027accesso al suddetto effetto richiede il talento d\u0027ascensione Trucco del proiettile.",
+                                                                        "description":  "Il tempo di carica del Fuoco multibersaglio di Chasca si riduce e, dopo aver innescato la Conversione del Vincolo spirituale del talento d\u0027ascensione Trucco del proiettile, Chasca entra nello stato Colpi fatali: nei successivi 3 s, la volta seguente che Chasca usa il Fuoco multibersaglio dell\u0027abilità elementale Redini dello spirito, Caccia nell\u0027ombra, i proiettili si caricano all\u0027istante, e i DAN da CRIT di tale iterazione dei Proiettili Cacciaombre e dei Proiettili Cacciaombre radiosi di Fuoco multibersaglio aumentano di un 120%. Si può ottenere l\u0027effetto Colpi fatali una volta ogni 3 s.\n\nL\u0027accesso al suddetto effetto richiede il talento d\u0027ascensione Trucco del proiettile."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Il tamburo, una roulette irrequieta",
-                                                                        "descriptionRaw":  "Quando si innesca la Conversione del Vincolo spirituale del talento passivo Trucco del proiettile, anche il 2º \u003ccolor=#FFD780FF\u003eProiettile Cacciaombre\u003c/color\u003e caricato nel tamburo viene convertito in un \u003ccolor=#FFD780FF\u003eProiettile Cacciaombre radioso\u003c/color\u003e.\nLa probabilità che si inneschi la Conversione del Vincolo spirituale aumenta: se ci sono membri del gruppo che rispettano i requisiti della conversione del tipo elementale, la probabilità di innescare la Conversione del Vincolo spirituale aumenta di un 33,3%, fino a un 100% massimo.\n\nRichiede il talento passivo Trucco del proiettile.\nInoltre, quando Chasca non è in un combattimento, il suo stato di Grazia dell\u0027Anima della Notte consuma un 30% di Flogisto e di punti Anima della Notte in meno.",
-                                                                        "description":  "Quando si innesca la Conversione del Vincolo spirituale del talento passivo Trucco del proiettile, anche il 2º Proiettile Cacciaombre caricato nel tamburo viene convertito in un Proiettile Cacciaombre radioso.\nLa probabilità che si inneschi la Conversione del Vincolo spirituale aumenta: se ci sono membri del gruppo che rispettano i requisiti della conversione del tipo elementale, la probabilità di innescare la Conversione del Vincolo spirituale aumenta di un 33,3%, fino a un 100% massimo.\n\nRichiede il talento passivo Trucco del proiettile.\nInoltre, quando Chasca non è in un combattimento, il suo stato di Grazia dell\u0027Anima della Notte consuma un 30% di Flogisto e di punti Anima della Notte in meno."
+                                                                        "descriptionRaw":  "Quando si innesca la Conversione del Vincolo spirituale del talento d\u0027ascensione Trucco del proiettile, anche il 2º \u003ccolor=#FFD780FF\u003eProiettile Cacciaombre\u003c/color\u003e caricato nel tamburo viene convertito in un \u003ccolor=#FFD780FF\u003eProiettile Cacciaombre radioso\u003c/color\u003e.\nLa probabilità che si inneschi la Conversione del Vincolo spirituale aumenta: se ci sono membri del gruppo che rispettano i requisiti della conversione del tipo elementale, la probabilità di innescare la Conversione del Vincolo spirituale aumenta di un 33,3%, fino a un 100% massimo.\n\nRichiede il talento d\u0027ascensione Trucco del proiettile.\nInoltre, quando Chasca non è in un combattimento, il suo stato di Grazia dell\u0027Anima della Notte consuma un 30% di Flogisto e di punti Anima della Notte in meno.",
+                                                                        "description":  "Quando si innesca la Conversione del Vincolo spirituale del talento d\u0027ascensione Trucco del proiettile, anche il 2º Proiettile Cacciaombre caricato nel tamburo viene convertito in un Proiettile Cacciaombre radioso.\nLa probabilità che si inneschi la Conversione del Vincolo spirituale aumenta: se ci sono membri del gruppo che rispettano i requisiti della conversione del tipo elementale, la probabilità di innescare la Conversione del Vincolo spirituale aumenta di un 33,3%, fino a un 100% massimo.\n\nRichiede il talento d\u0027ascensione Trucco del proiettile.\nInoltre, quando Chasca non è in un combattimento, il suo stato di Grazia dell\u0027Anima della Notte consuma un 30% di Flogisto e di punti Anima della Notte in meno."
                                                                     }
                                                          },
                                       "elementText":  "Anemo",
@@ -10222,6 +10374,53 @@
                                                     },
                                              "effectName":  "Compostezza"
                                          },
+                    "reliquaryoftruth":  {
+                                             "r3":  {
+                                                        "description":  "Il tasso di CRIT aumenta di un 12%. Quando il personaggio che equipaggia l\u0027arma usa l\u0027abilità elementale, ottiene l\u0027effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di 120 per 12 s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l\u0027effetto Luna della verità, che aumenta i DAN da CRIT di un 36% per 4 s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%.",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "120",
+                                                                       "36%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Il tasso di CRIT aumenta di un 16. Quando il personaggio che equipaggia l\u0027arma usa l\u0027abilità elementale, ottiene l\u0027effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di 160 per 12 s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l\u0027effetto Luna della verità, che aumenta i DAN da CRIT di un 48% per 4 s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%.",
+                                                        "values":  [
+                                                                       "16",
+                                                                       "160",
+                                                                       "48%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Il tasso di CRIT aumenta di un 10%. Quando il personaggio che equipaggia l\u0027arma usa l\u0027abilità elementale, ottiene l\u0027effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di 100 per 12 s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l\u0027effetto Luna della verità, che aumenta i DAN da CRIT di un 30% per 4 s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%.",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "100",
+                                                                       "30%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Il tasso di CRIT aumenta di un 14%. Quando il personaggio che equipaggia l\u0027arma usa l\u0027abilità elementale, ottiene l\u0027effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di 140 per 12 s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l\u0027effetto Luna della verità, che aumenta i DAN da CRIT di un 42% per 4 s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%.",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "140",
+                                                                       "42%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "DAN da CRIT",
+                                             "weaponText":  "Catalizzatore",
+                                             "name":  "Reliquiario della verità",
+                                             "effectTemplateRaw":  "#Il tasso di CRIT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Quando il personaggio che equipaggia l\u0027arma usa l\u0027abilità elementale, ottiene l\u0027effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per 12{NON_BREAK_SPACE}s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l\u0027effetto Luna della verità, che aumenta i DAN da CRIT di un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e per 4{NON_BREAK_SPACE}s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%.",
+                                             "r1":  {
+                                                        "description":  "Il tasso di CRIT aumenta di un 8%. Quando il personaggio che equipaggia l\u0027arma usa l\u0027abilità elementale, ottiene l\u0027effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di 80 per 12 s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l\u0027effetto Luna della verità, che aumenta i DAN da CRIT di un 24% per 4 s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%.",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "80",
+                                                                       "24%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Essenza della falsità"
+                                         },
                     "keyofkhajnisut":  {
                                            "r3":  {
                                                       "description":  "I PS aumentano di un 30%. Quando un\u0027abilità elementale colpisce gli avversari, ottieni l\u0027effetto Inno maestoso per 20 s. Quest\u0027effetto aumenta la maestria elementale del personaggio che equipaggia l\u0027arma di uno 0,18% dei suoi PS max. Può attivarsi una volta ogni 0,3 s e accumularsi per un massimo di 3 volte. Quando l\u0027effetto si accumula per la terza volta, o quando la durata del terzo accumulo si ripristina, la maestria elementale di tutti i membri del gruppo vicini aumenta di uno 0,3% dei PS max del personaggio che equipaggia l\u0027arma per 20 s.",
@@ -11715,6 +11914,48 @@
                                                    },
                                             "effectName":  "Mistero di fumo e specchi"
                                         },
+                    "dawningfrost":  {
+                                         "r3":  {
+                                                    "description":  "Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 108. Per 10 s dopo aver colpito un avversario con un\u0027abilità elementale, la maestria elementale aumenta di 72.",
+                                                    "values":  [
+                                                                   "108",
+                                                                   "72"
+                                                               ]
+                                                },
+                                         "r5":  {
+                                                    "description":  "Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 144. Per 10 s dopo aver colpito un avversario con un\u0027abilità elementale, la maestria elementale aumenta di 96.",
+                                                    "values":  [
+                                                                   "144",
+                                                                   "96"
+                                                               ]
+                                                },
+                                         "r2":  {
+                                                    "description":  "Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 90. Per 10 s dopo aver colpito un avversario con un\u0027abilità elementale, la maestria elementale aumenta di 60.",
+                                                    "values":  [
+                                                                   "90",
+                                                                   "60"
+                                                               ]
+                                                },
+                                         "r4":  {
+                                                    "description":  "Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 126. Per 10 s dopo aver colpito un avversario con un\u0027abilità elementale, la maestria elementale aumenta di 84.",
+                                                    "values":  [
+                                                                   "126",
+                                                                   "84"
+                                                               ]
+                                                },
+                                         "substatText":  "DAN da CRIT",
+                                         "weaponText":  "Catalizzatore",
+                                         "name":  "Brina mattutina",
+                                         "effectTemplateRaw":  "#Per 10{NON_BREAK_SPACE}s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Per 10{NON_BREAK_SPACE}s dopo aver colpito un avversario con un\u0027abilità elementale, la maestria elementale aumenta di \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                         "r1":  {
+                                                    "description":  "Per 10 s dopo aver colpito un avversario con un attacco caricato, la maestria elementale aumenta di 72. Per 10 s dopo aver colpito un avversario con un\u0027abilità elementale, la maestria elementale aumenta di 48.",
+                                                    "values":  [
+                                                                   "72",
+                                                                   "48"
+                                                               ]
+                                                },
+                                         "effectName":  "Sogni notturni"
+                                     },
                     "cinnabarspindle":  {
                                             "r3":  {
                                                        "description":  "I DAN da abilità elementale aumentano per un 60% della DIF. Quest\u0027effetto non può attivarsi più d\u0027una volta ogni 1,5 s, e termina 0,1 s dopo che l\u0027abilità elementale ha inflitto DAN.",
@@ -12648,6 +12889,48 @@
                                               },
                                        "effectName":  "Schiettezza"
                                    },
+                    "sacrificersstaff":  {
+                                             "r3":  {
+                                                        "description":  "Per 6 s dopo aver colpito un avversario con un\u0027abilità elementale, l\u0027ATT e la ricarica d\u0027energia aumentano rispettivamente di un 12% e di un 9%. Massimo 3 accumuli. Quest\u0027effetto può attivarsi anche quando il personaggio non si trova in campo.",
+                                                        "values":  [
+                                                                       "12%",
+                                                                       "9%"
+                                                                   ]
+                                                    },
+                                             "r5":  {
+                                                        "description":  "Per 6 s dopo aver colpito un avversario con un\u0027abilità elementale, l\u0027ATT e la ricarica d\u0027energia aumentano rispettivamente di un 16% e di un 12%. Massimo 3 accumuli. Quest\u0027effetto può attivarsi anche quando il personaggio non si trova in campo.",
+                                                        "values":  [
+                                                                       "16%",
+                                                                       "12%"
+                                                                   ]
+                                                    },
+                                             "r2":  {
+                                                        "description":  "Per 6 s dopo aver colpito un avversario con un\u0027abilità elementale, l\u0027ATT e la ricarica d\u0027energia aumentano rispettivamente di un 10% e di un 7,5%. Massimo 3 accumuli. Quest\u0027effetto può attivarsi anche quando il personaggio non si trova in campo.",
+                                                        "values":  [
+                                                                       "10%",
+                                                                       "7,5%"
+                                                                   ]
+                                                    },
+                                             "r4":  {
+                                                        "description":  "Per 6 s dopo aver colpito un avversario con un\u0027abilità elementale, l\u0027ATT e la ricarica d\u0027energia aumentano rispettivamente di un 14% e di un 10,5%. Massimo 3 accumuli. Quest\u0027effetto può attivarsi anche quando il personaggio non si trova in campo.",
+                                                        "values":  [
+                                                                       "14%",
+                                                                       "10,5%"
+                                                                   ]
+                                                    },
+                                             "substatText":  "Tasso di CRIT",
+                                             "weaponText":  "Lancia",
+                                             "name":  "Bastone del sacrificio",
+                                             "effectTemplateRaw":  "#Per 6{NON_BREAK_SPACE}s dopo aver colpito un avversario con un\u0027abilità elementale, l\u0027ATT e la ricarica d\u0027energia aumentano rispettivamente di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e e di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Massimo 3 accumuli. Quest\u0027effetto può attivarsi anche quando il personaggio non si trova in campo.",
+                                             "r1":  {
+                                                        "description":  "Per 6 s dopo aver colpito un avversario con un\u0027abilità elementale, l\u0027ATT e la ricarica d\u0027energia aumentano rispettivamente di un 8% e di un 6%. Massimo 3 accumuli. Quest\u0027effetto può attivarsi anche quando il personaggio non si trova in campo.",
+                                                        "values":  [
+                                                                       "8%",
+                                                                       "6%"
+                                                                   ]
+                                                    },
+                                             "effectName":  "Desiderio incontaminato"
+                                         },
                     "flowingpurity":  {
                                           "r3":  {
                                                      "description":  "Quando usa un\u0027abilità elementale, il personaggio riceve un bonus DAN per tutti gli elementi pari a un 12% per 15 s e un Legame vitale pari a un 24% dei PS max. Quest\u0027effetto può attivarsi una volta ogni 10 s. Quando il Legame vitale si dissolve, per ogni 1.000 PS dissolti il personaggio ottiene un 3% di bonus DAN per tutti gli elementi, fino a un 18% massimo. Questo effetto dura 15 s.",
@@ -17070,6 +17353,10 @@
                                                },
                     "bubblerseahorse":  {
                                             "name":  "Ippocampo spumeggiante",
+                                            "specialname":  null
+                                        },
+                    "frostnightherra":  {
+                                            "name":  "Herra della Notte gelata",
                                             "specialname":  null
                                         },
                     "bitingcoldwayobmanifestation":  {
