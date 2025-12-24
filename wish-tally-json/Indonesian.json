@@ -627,6 +627,9 @@
                       "richredbrocade":  {
                                              "name":  "Rich Red Brocade"
                                          },
+                      "cyclicmilitarykuuvahkicore":  {
+                                                         "name":  "Cyclic Military Kuuvahki Core"
+                                                     },
                       "operativesconstancy":  {
                                                   "name":  "Operative\u0027s Constancy"
                                               },
@@ -954,9 +957,9 @@
                       "crystallinecystdust":  {
                                                   "name":  "Crystalline Cyst Dust"
                                               },
-                      "shuttleofodara":  {
-                                             "name":  "Shuttle of Odara"
-                                         },
+                      "guidetomoonlight":  {
+                                               "name":  "Guide to Moonlight"
+                                           },
                       "lazuriteaxemarlin":  {
                                                 "name":  "Lazurite Axe Marlin"
                                             },
@@ -1470,6 +1473,9 @@
                       "plaustriteshard":  {
                                               "name":  "Plaustrite Shard"
                                           },
+                      "refinedheart":  {
+                                           "name":  "Refined Heart"
+                                       },
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027s Wisdom"
                                           },
@@ -1890,6 +1896,9 @@
                       "quenepaberry":  {
                                            "name":  "Quenepa Berry"
                                        },
+                      "shuttleofodara":  {
+                                             "name":  "Shuttle of Odara"
+                                         },
                       "blazeoflongnightflint":  {
                                                     "name":  "Blaze of Long Night Flint"
                                                 },
@@ -2694,9 +2703,6 @@
                       "frostetchedwarrant":  {
                                                  "name":  "Frost-Etched Warrant"
                                              },
-                      "guidetomoonlight":  {
-                                               "name":  "Guide to Moonlight"
-                                           },
                       "frostnightsglory":  {
                                                "name":  "Frostnight\u0027s Glory"
                                            },
@@ -3328,6 +3334,47 @@
                                          "region":  "Fontaine",
                                          "gender":  "Perempuan"
                                      },
+                       "jahoda":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Rogue\u0027s Quick Thinking",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eMoonsign: Ascendant Gleam\u003c/color\u003e: Dalam Talenta Ascension {LINK#P1242101}\u003ccolor=#FFD780FF\u003e\"Plan to Get Paid\"\u003c/color\u003e{/LINK}, selain jumlah Karakter dengan jenis elemen terbanyak, Jahoda juga bisa mencatat Karakter dengan jenis elemen terbanyak kedua secara diam-diam. Sehingga maksimum dua efek jenis elemen bisa aktif di saat yang bersamaan. Harus membuka Talenta Ascension \"Plan to Get Paid\" terlebih dahulu.",
+                                                                        "description":  "Moonsign: Ascendant Gleam: Dalam Talenta Ascension **\"Plan to Get Paid\"**, selain jumlah Karakter dengan jenis elemen terbanyak, Jahoda juga bisa mencatat Karakter dengan jenis elemen terbanyak kedua secara diam-diam. Sehingga maksimum dua efek jenis elemen bisa aktif di saat yang bersamaan. Harus membuka Talenta Ascension \"Plan to Get Paid\" terlebih dahulu."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Wild Berry Amid the Dust",
+                                                                        "descriptionRaw":  "Saat {LINK#N11240002}\u003ccolor=#FFD780FF\u003ePurrsonal Coordinated Assistance Robot\u003c/color\u003e{/LINK} dari Elemental Burst \u003ccolor=#FFD780FF\u003eHidden Aces: Seven Tools of the Hunter\u003c/color\u003e mengalami konversi elemen, akan memulihkan 4 poin Energy Jahoda.",
+                                                                        "description":  "Saat **Purrsonal Coordinated Assistance Robot** dari Elemental Burst Hidden Aces: Seven Tools of the Hunter mengalami konversi elemen, akan memulihkan 4 poin Energy Jahoda."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Desperate Gamble",
+                                                                        "descriptionRaw":  "Meningkatkan 3 level Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11245}Hidden Aces: Seven Tools of the Hunter{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                        "description":  "Meningkatkan 3 level Elemental Burst **Hidden Aces: Seven Tools of the Hunter**.\nMaksimum: Lv. 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "The Greatest Treasure",
+                                                                        "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11242}Savvy Strategy: Splitting the Spoils{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                        "description":  "Meningkatkan 3 level Elemental Skill **Savvy Strategy: Splitting the Spoils**.\nMaksimum: Lv. 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "The Littlest Luck",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eMoonsign: Ascendant Gleam\u003c/color\u003e: Setelah \u003ccolor=#FFD780FF\u003e{LINK#N11240001}Purr-loined Treasure Flask{/LINK}\u003c/color\u003e dari Elemental Skill \u003ccolor=#FFD780FF\u003eSavvy Strategy: Splitting the Spoils\u003c/color\u003e terisi penuh, Karakter Moonsign sekitar di dalam party mendapatkan peningkatan CRIT Rate sebesar 5% dan peningkatan CRIT DMG sebesar 40% selama 20 detik.",
+                                                                        "description":  "Moonsign: Ascendant Gleam: Setelah **Purr-loined Treasure Flask** dari Elemental Skill Savvy Strategy: Splitting the Spoils terisi penuh, Karakter Moonsign sekitar di dalam party mendapatkan peningkatan CRIT Rate sebesar 5% dan peningkatan CRIT DMG sebesar 40% selama 20 detik."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "One More Flask!",
+                                                                        "descriptionRaw":  "Saat \u003ccolor=#FFD780FF\u003eFluffy Meowball\u003c/color\u003e yang ditembakkan oleh {LINK#N11240001}\u003ccolor=#FFD780FF\u003ePurr-loined Treasure Flask\u003c/color\u003e{/LINK} dari Elemental Skill \u003ccolor=#FFD780FF\u003eSavvy Strategy: Splitting the Spoils\u003c/color\u003e mengenai musuh, ada 50% kemungkinan untuk memantul satu kali dan mengakibatkan Elemental DMG dengan jenis elemen yang sesuai kepada musuh di sekitarnya.",
+                                                                        "description":  "Saat Fluffy Meowball yang ditembakkan oleh **Purr-loined Treasure Flask** dari Elemental Skill Savvy Strategy: Splitting the Spoils mengenai musuh, ada 50% kemungkinan untuk memantul satu kali dan mengakibatkan Elemental DMG dengan jenis elemen yang sesuai kepada musuh di sekitarnya."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anemo",
+                                      "fullname":  null,
+                                      "weaponText":  "Bow",
+                                      "name":  "Jahoda",
+                                      "substatText":  "Healing Bonus",
+                                      "region":  "Nod-Krai",
+                                      "gender":  "Perempuan"
+                                  },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -4766,6 +4813,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Pria"
                                   },
+                       "durin":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Unground Visions",
+                                                                       "descriptionRaw":  "Dalam kurun waktu 20 detik setelah Durin melancarkan Elemental Burst, dan setelah Karakter dalam party di sekitar mengakibatkan reaksi Vaporize, Melt, Burning, Overloaded, Pyro Swirl, atau Pyro Crystallize, atau saat mengakibatkan \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e atau \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e terhadap musuh yang berada dalam status Burning, maka \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e dan Elemental DMG yang elemennya terlibat dalam Reaksi Elemental di atas akan meningkat 50% untuk seluruh anggota party di sekitar. Berlangsung selama 6 detik.",
+                                                                       "description":  "Dalam kurun waktu 20 detik setelah Durin melancarkan Elemental Burst, dan setelah Karakter dalam party di sekitar mengakibatkan reaksi Vaporize, Melt, Burning, Overloaded, Pyro Swirl, atau Pyro Crystallize, atau saat mengakibatkan Pyro DMG atau Dendro DMG terhadap musuh yang berada dalam status Burning, maka Pyro DMG dan Elemental DMG yang elemennya terlibat dalam Reaksi Elemental di atas akan meningkat 50% untuk seluruh anggota party di sekitar. Berlangsung selama 6 detik."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Emanare\u0027s Source",
+                                                                       "descriptionRaw":  "DMG Elemental Burst Durin meningkat 40%. Selain itu, saat efek mengonsumsi Cycle of Enlightenment dari Konstelasi \u003ccolor=#FFD780FF\u003e{LINK#T1231}Adamah\u0027s Redemption{/LINK}\u003c/color\u003e terpicu, ada 30% kemungkinan untuk tidak mengonsumsi \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e tersebut.",
+                                                                       "description":  "DMG Elemental Burst Durin meningkat 40%. Selain itu, saat efek mengonsumsi Cycle of Enlightenment dari Konstelasi **Adamah\u0027s Redemption** terpicu, ada 30% kemungkinan untuk tidak mengonsumsi Cycle of Enlightenment tersebut."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Flame Mirror\u0027s Revelation",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11235}Principle of Purity: As the Light Shifts{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Elemental Burst **Principle of Purity: As the Light Shifts**.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Scouring Flame\u0027s Sundering",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11232}Binary Form: Convergence and Division{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Elemental Skill **Binary Form: Convergence and Division**.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Dual Birth",
+                                                                       "descriptionRaw":  "DMG Elemental Burst Durin akan mengabaikan 30% DEF musuh.\nSelain itu, Elemental Burst Durin \u003ccolor=#FFD780FF\u003ePrinciple of Purity: As the Light Shifts\u003c/color\u003e dan \u003ccolor=#FFD780FF\u003ePrinciple of Darkness: As the Stars Smolder\u003c/color\u003e akan ditingkatkan:\n·Setelah Elemental Burst \u003ccolor=#FFD780FF\u003ePrinciple of Purity: As the Light Shifts\u003c/color\u003e dan \u003ccolor=#FFD780FF\u003eDragon of White Flame\u003c/color\u003e mengenai musuh, DEF musuh ini berkurang 30% selama 6 detik.\n·DMG Elemental Burst \u003ccolor=#FFD780FF\u003ePrinciple of Darkness: As the Stars Smolder\u003c/color\u003e dan \u003ccolor=#FFD780FF\u003eDragon of Dark Decay\u003c/color\u003e akan mengabaikan 40% DEF musuh lagi.",
+                                                                       "description":  "DMG Elemental Burst Durin akan mengabaikan 30% DEF musuh.\nSelain itu, Elemental Burst Durin Principle of Purity: As the Light Shifts dan Principle of Darkness: As the Stars Smolder akan ditingkatkan:\n·Setelah Elemental Burst Principle of Purity: As the Light Shifts dan Dragon of White Flame mengenai musuh, DEF musuh ini berkurang 30% selama 6 detik.\n·DMG Elemental Burst Principle of Darkness: As the Stars Smolder dan Dragon of Dark Decay akan mengabaikan 40% DEF musuh lagi."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Adamah\u0027s Redemption",
+                                                                       "descriptionRaw":  "Setelah melancarkan Elemental Burst, akan menghasilkan efek yang berbeda berdasarkan wujud Elemental Burst yang dilancarkan Durin:\n·\u003ccolor=#FFD780FF\u003ePrinciple of Purity: As the Light Shifts\u003c/color\u003e: Seluruh Karakter party di sekitar mendapatkan 20 lapis \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e selama 20 detik. Saat Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, atau Elemental Burst Karakter aktif yang memiliki Cycle of Enlightenment mengakibatkan DMG, 1 lapis Cycle of Enlightenment akan terkonsumsi untuk meningkatkan DMG sebesar 60% ATK Durin. Lapisan Cycle of Enlightenment yang dimiliki oleh setiap Karakter di dalam party dihitung terpisah.\n·\u003ccolor=#FFD780FF\u003ePrinciple of Darkness: As the Stars Smolder\u003c/color\u003e: Durin mendapatkan 20 lapis \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e selama 20 detik. Saat Elemental Burst Durin mengakibatkan DMG, 2 lapis Cycle of Enlightenment akan terkonsumsi untuk meningkatkan DMG sebesar 150% ATK Durin.\n\nSaat melancarkan Elemental Burst, jumlah lapisan \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e akan direset.",
+                                                                       "description":  "Setelah melancarkan Elemental Burst, akan menghasilkan efek yang berbeda berdasarkan wujud Elemental Burst yang dilancarkan Durin:\n·Principle of Purity: As the Light Shifts: Seluruh Karakter party di sekitar mendapatkan 20 lapis Cycle of Enlightenment selama 20 detik. Saat Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, atau Elemental Burst Karakter aktif yang memiliki Cycle of Enlightenment mengakibatkan DMG, 1 lapis Cycle of Enlightenment akan terkonsumsi untuk meningkatkan DMG sebesar 60% ATK Durin. Lapisan Cycle of Enlightenment yang dimiliki oleh setiap Karakter di dalam party dihitung terpisah.\n·Principle of Darkness: As the Stars Smolder: Durin mendapatkan 20 lapis Cycle of Enlightenment selama 20 detik. Saat Elemental Burst Durin mengakibatkan DMG, 2 lapis Cycle of Enlightenment akan terkonsumsi untuk meningkatkan DMG sebesar 150% ATK Durin.\n\nSaat melancarkan Elemental Burst, jumlah lapisan Cycle of Enlightenment akan direset."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Sword",
+                                     "name":  "Durin",
+                                     "substatText":  "CRIT DMG",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Pria"
+                                 },
                        "mualani":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7640,6 +7728,43 @@
                                                     },
                                              "effectName":  "Offering Unto Wind and Sun"
                                          },
+                    "rainbowserpentsrainbow":  {
+                                                   "r3":  {
+                                                              "description":  "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +42% selama 8 detik.",
+                                                              "values":  [
+                                                                             "42%"
+                                                                         ]
+                                                          },
+                                                   "r5":  {
+                                                              "description":  "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +56% selama 8 detik.",
+                                                              "values":  [
+                                                                             "56%"
+                                                                         ]
+                                                          },
+                                                   "r2":  {
+                                                              "description":  "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +35% selama 8 detik.",
+                                                              "values":  [
+                                                                             "35%"
+                                                                         ]
+                                                          },
+                                                   "r4":  {
+                                                              "description":  "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +49% selama 8 detik.",
+                                                              "values":  [
+                                                                             "49%"
+                                                                         ]
+                                                          },
+                                                   "substatText":  "Energy Recharge",
+                                                   "weaponText":  "Bow",
+                                                   "name":  "Rainbow Serpent\u0027s Rain Bow",
+                                                   "effectTemplateRaw":  "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e selama 8 detik.",
+                                                   "r1":  {
+                                                              "description":  "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran dan setelah serangan Karakter yang mengenakan mengenai musuh, ATK +28% selama 8 detik.",
+                                                              "values":  [
+                                                                             "28%"
+                                                                         ]
+                                                          },
+                                                   "effectName":  "Astral Whispers Beyond the Sacred Throne"
+                                               },
                     "recurvebow":  {
                                        "r3":  {
                                                   "description":  "Memulihkan 12% HP saat mengalahkan satu musuh.",
@@ -8203,6 +8328,43 @@
                                                       },
                                                "effectName":  "Full Circle"
                                            },
+                    "thestringless":  {
+                                          "r3":  {
+                                                     "description":  "Meningkatkan 36% DMG Elemental Skill dan Elemental Burst.",
+                                                     "values":  [
+                                                                    "36%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Meningkatkan 48% DMG Elemental Skill dan Elemental Burst.",
+                                                     "values":  [
+                                                                    "48%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Meningkatkan 30% DMG Elemental Skill dan Elemental Burst.",
+                                                     "values":  [
+                                                                    "30%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Meningkatkan 42% DMG Elemental Skill dan Elemental Burst.",
+                                                     "values":  [
+                                                                    "42%"
+                                                                ]
+                                                 },
+                                          "substatText":  "Elemental Mastery",
+                                          "weaponText":  "Bow",
+                                          "name":  "The Stringless",
+                                          "effectTemplateRaw":  "Meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e DMG Elemental Skill dan Elemental Burst.",
+                                          "r1":  {
+                                                     "description":  "Meningkatkan 24% DMG Elemental Skill dan Elemental Burst.",
+                                                     "values":  [
+                                                                    "24%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Arrowless Song"
+                                      },
                     "elegyfortheend":  {
                                            "r3":  {
                                                       "description":  "Bagian dari \"Millennial Movement\" yang mengembara di tengah angin. Meningkatkan 90 Elemental Mastery, dan saat Elemental Skill atau Elemental Burst mengenai musuh, Karakter akan mendapatkan Sigil of Remembrance. Efek ini dapat terpicu setiap 0,2 detik dan bisa terpicu walaupun Karakter tersebut tidak berada di medan bertarung. Saat kamu mempunyai 4 Sigil of Remembrance, semuanya akan terkonsumsi dan seluruh anggota party di sekitar akan mendapatkan efek \"Millennial Movement: Farewell Song\" selama 12 detik. \"Millennial Movement: Farewell Song\" meningkatkan 150 Elemental Mastery dan 30% ATK. Ketika efek ini sudah terpicu, kamu tidak akan mendapatkan Sigil of Remembrance selama 20 detik. Dari beragam efek \"Millennial Movement\" yang ada, efek dengan jenis sama tidak bisa ditumpuk.",
@@ -11692,6 +11854,53 @@
                                                  },
                                           "effectName":  "Wind Companion"
                                       },
+                    "athameartis":  {
+                                        "r3":  {
+                                                   "description":  "CRIT DMG Elemental Burst +24%. Saat Elemental Burst mengenai musuh, akan mendapatkan efek Blade of the Daylight Hours: ATK +30% dan ATK Karakter aktif sekitar di dalam party selain Karakter yang mengenakan +24% selama 3 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, maka efek Blade of the Daylight Hours meningkat sebesar 75% lagi. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                   "values":  [
+                                                                  "24%",
+                                                                  "30%",
+                                                                  "24%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "CRIT DMG Elemental Burst +32%. Saat Elemental Burst mengenai musuh, akan mendapatkan efek Blade of the Daylight Hours: ATK +40% dan ATK Karakter aktif sekitar di dalam party selain Karakter yang mengenakan +32% selama 3 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, maka efek Blade of the Daylight Hours meningkat sebesar 75% lagi. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                   "values":  [
+                                                                  "32%",
+                                                                  "40%",
+                                                                  "32%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "CRIT DMG Elemental Burst +20%. Saat Elemental Burst mengenai musuh, akan mendapatkan efek Blade of the Daylight Hours: ATK +25% dan ATK Karakter aktif sekitar di dalam party selain Karakter yang mengenakan +20% selama 3 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, maka efek Blade of the Daylight Hours meningkat sebesar 75% lagi. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "25%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "CRIT DMG Elemental Burst +28%. Saat Elemental Burst mengenai musuh, akan mendapatkan efek Blade of the Daylight Hours: ATK +35% dan ATK Karakter aktif sekitar di dalam party selain Karakter yang mengenakan +28% selama 3 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, maka efek Blade of the Daylight Hours meningkat sebesar 75% lagi. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                   "values":  [
+                                                                  "28%",
+                                                                  "35%",
+                                                                  "28%"
+                                                              ]
+                                               },
+                                        "substatText":  "CRIT Rate",
+                                        "weaponText":  "Sword",
+                                        "name":  "Athame Artis",
+                                        "effectTemplateRaw":  "CRIT DMG Elemental Burst +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Saat Elemental Burst mengenai musuh, akan mendapatkan efek Blade of the Daylight Hours: ATK +\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e dan ATK Karakter aktif sekitar di dalam party selain Karakter yang mengenakan +\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e selama 3 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, maka efek Blade of the Daylight Hours meningkat sebesar 75% lagi. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                        "r1":  {
+                                                   "description":  "CRIT DMG Elemental Burst +16%. Saat Elemental Burst mengenai musuh, akan mendapatkan efek Blade of the Daylight Hours: ATK +20% dan ATK Karakter aktif sekitar di dalam party selain Karakter yang mengenakan +16% selama 3 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, maka efek Blade of the Daylight Hours meningkat sebesar 75% lagi. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "20%",
+                                                                  "16%"
+                                                              ]
+                                               },
+                                        "effectName":  "Day King\u0027s Splendor Solis"
+                                    },
                     "fangofthemountainking":  {
                                                   "r3":  {
                                                              "description":  "Setelah Elemental Skill mengenai musuh, maka akan mendapatkan 1 lapis Canopy\u0027s Favor. Bisa terpicu sekali setiap 0,5 detik. Saat anggota party di sekitar memicu reaksi Burning atau Burgeon, maka Karakter yang mengenakan senjata ini akan mendapatkan 3 lapis Canopy\u0027s Favor. Efek ini bisa terpicu sekali setiap 2 detik dan dapat terpicu meskipun Karakter party ada di dalam party namun sedang tidak berada di medan pertempuran. Canopy\u0027s Favor: Meningkatkan DMG Elemental Burst dan Elemental Skill sebanyak 15% selama 6 detik. Maksimum 6 lapis. Durasi setiap lapisnya dihitung secara terpisah.",
@@ -13867,43 +14076,63 @@
                                                },
                                         "effectName":  "At the End of the Beast-Paths"
                                     },
-                    "thestringless":  {
-                                          "r3":  {
-                                                     "description":  "Meningkatkan 36% DMG Elemental Skill dan Elemental Burst.",
-                                                     "values":  [
-                                                                    "36%"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Meningkatkan 48% DMG Elemental Skill dan Elemental Burst.",
-                                                     "values":  [
-                                                                    "48%"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Meningkatkan 30% DMG Elemental Skill dan Elemental Burst.",
-                                                     "values":  [
-                                                                    "30%"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Meningkatkan 42% DMG Elemental Skill dan Elemental Burst.",
-                                                     "values":  [
-                                                                    "42%"
-                                                                ]
-                                                 },
-                                          "substatText":  "Elemental Mastery",
-                                          "weaponText":  "Bow",
-                                          "name":  "The Stringless",
-                                          "effectTemplateRaw":  "Meningkatkan \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e DMG Elemental Skill dan Elemental Burst.",
-                                          "r1":  {
-                                                     "description":  "Meningkatkan 24% DMG Elemental Skill dan Elemental Burst.",
-                                                     "values":  [
-                                                                    "24%"
-                                                                ]
-                                                 },
-                                          "effectName":  "Arrowless Song"
-                                      },
+                    "thedaybreakchronicles":  {
+                                                  "r3":  {
+                                                             "description":  "Karakter yang mengenakan mendapatkan Stirring Dawn Breeze: Setelah keluar dari kondisi bertempur selama 3 detik, DMG Normal Attack, Elemental Skill, dan Elemental Burst +90%. Saat dalam kondisi bertempur, efek peningkatan DMG di atas berkurang 15% setiap detiknya, hingga mencapai 0%. Saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG dari serangan tersebut +15% hingga mencapai 90%. Efek setiap jenis serangan di atas dapat terpicu sekali setiap 0,1 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nSelain itu, jika party sedang memiliki efek Hexerei: Secret Rite, saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG semua jenis serangan ini akan berubah menjadi +30%.",
+                                                             "values":  [
+                                                                            "90%",
+                                                                            "15%",
+                                                                            "15%",
+                                                                            "90%",
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Karakter yang mengenakan mendapatkan Stirring Dawn Breeze: Setelah keluar dari kondisi bertempur selama 3 detik, DMG Normal Attack, Elemental Skill, dan Elemental Burst +120%. Saat dalam kondisi bertempur, efek peningkatan DMG di atas berkurang 20% setiap detiknya, hingga mencapai 0%. Saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG dari serangan tersebut +20% hingga mencapai 120%. Efek setiap jenis serangan di atas dapat terpicu sekali setiap 0,1 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nSelain itu, jika party sedang memiliki efek Hexerei: Secret Rite, saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG semua jenis serangan ini akan berubah menjadi +40%.",
+                                                             "values":  [
+                                                                            "120%",
+                                                                            "20%",
+                                                                            "20%",
+                                                                            "120%",
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Karakter yang mengenakan mendapatkan Stirring Dawn Breeze: Setelah keluar dari kondisi bertempur selama 3 detik, DMG Normal Attack, Elemental Skill, dan Elemental Burst +75%. Saat dalam kondisi bertempur, efek peningkatan DMG di atas berkurang 12,5% setiap detiknya, hingga mencapai 0%. Saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG dari serangan tersebut +12,5% hingga mencapai 75%. Efek setiap jenis serangan di atas dapat terpicu sekali setiap 0,1 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nSelain itu, jika party sedang memiliki efek Hexerei: Secret Rite, saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG semua jenis serangan ini akan berubah menjadi +25%.",
+                                                             "values":  [
+                                                                            "75%",
+                                                                            "12,5%",
+                                                                            "12,5%",
+                                                                            "75%",
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Karakter yang mengenakan mendapatkan Stirring Dawn Breeze: Setelah keluar dari kondisi bertempur selama 3 detik, DMG Normal Attack, Elemental Skill, dan Elemental Burst +105%. Saat dalam kondisi bertempur, efek peningkatan DMG di atas berkurang 17,5% setiap detiknya, hingga mencapai 0%. Saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG dari serangan tersebut +17,5% hingga mencapai 105%. Efek setiap jenis serangan di atas dapat terpicu sekali setiap 0,1 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nSelain itu, jika party sedang memiliki efek Hexerei: Secret Rite, saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG semua jenis serangan ini akan berubah menjadi +35%.",
+                                                             "values":  [
+                                                                            "105%",
+                                                                            "17,5%",
+                                                                            "17,5%",
+                                                                            "105%",
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "CRIT DMG",
+                                                  "weaponText":  "Bow",
+                                                  "name":  "The Daybreak Chronicles",
+                                                  "effectTemplateRaw":  "Karakter yang mengenakan mendapatkan Stirring Dawn Breeze: Setelah keluar dari kondisi bertempur selama 3 detik, DMG Normal Attack, Elemental Skill, dan Elemental Burst +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Saat dalam kondisi bertempur, efek peningkatan DMG di atas berkurang \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e setiap detiknya, hingga mencapai 0%. Saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG dari serangan tersebut +\u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e hingga mencapai \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e. Efek setiap jenis serangan di atas dapat terpicu sekali setiap 0,1 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nSelain itu, jika party sedang memiliki efek Hexerei: Secret Rite, saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG semua jenis serangan ini akan berubah menjadi +\u003ccolor=#99FFFFFF\u003e{4}\u003c/color\u003e.",
+                                                  "r1":  {
+                                                             "description":  "Karakter yang mengenakan mendapatkan Stirring Dawn Breeze: Setelah keluar dari kondisi bertempur selama 3 detik, DMG Normal Attack, Elemental Skill, dan Elemental Burst +60%. Saat dalam kondisi bertempur, efek peningkatan DMG di atas berkurang 10% setiap detiknya, hingga mencapai 0%. Saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG dari serangan tersebut +10% hingga mencapai 60%. Efek setiap jenis serangan di atas dapat terpicu sekali setiap 0,1 detik. Efek di atas tetap dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nSelain itu, jika party sedang memiliki efek Hexerei: Secret Rite, saat Normal Attack, Elemental Skill, atau Elemental Burst mengenai musuh, efek peningkatan DMG semua jenis serangan ini akan berubah menjadi +20%.",
+                                                             "values":  [
+                                                                            "60%",
+                                                                            "10%",
+                                                                            "10%",
+                                                                            "60%",
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Ode Beyond Time"
+                                              },
                     "lumidouceelegy":  {
                                            "r3":  {
                                                       "description":  "ATK meningkat 23%; Setelah Karakter yang mengenakan memicu efek Burning terhadap musuh atau setelah mengakibatkan Dendro DMG terhadap musuh yang berada dalam status Burning, DMG yang diakibatkan meningkat 28%. Efek ini berlangsung 8 detik, dapat ditumpuk sampai 2 lapis; Saat ditumpuk sampai 2 lapis atau saat durasi 2 lapis diperbarui, memulihkan 14 poin Energy, pemulihan Energy yang bisa diperoleh dengan cara ini adalah sekali setiap 12 detik. Kedua efek yang disebutkan di atas tetap dapat terpicu meskipun Karakter ada di dalam party namun sedang tidak berada di medan pertempuran.",
@@ -16356,10 +16585,10 @@
                                                       "name":  "Construction Specialist Mek",
                                                       "specialname":  null
                                                   },
-                    "yumkasauruswarriorwhirlingleaves":  {
-                                                             "name":  "Yumkasaurus Warrior: Whirling Leaves",
-                                                             "specialname":  null
-                                                         },
+                    "superheavylandrovermechanizedfortress":  {
+                                                                  "name":  "Super-Heavy Landrover: Mechanized Fortress",
+                                                                  "specialname":  null
+                                                              },
                     "treasurehoardersmarksman":  {
                                                      "name":  "Treasure Hoarder - Marksman",
                                                      "specialname":  null
@@ -16824,6 +17053,10 @@
                                            "name":  "Solitary Suanni",
                                            "specialname":  null
                                        },
+                    "yumkasauruswarriorwhirlingleaves":  {
+                                                             "name":  "Yumkasaurus Warrior: Whirling Leaves",
+                                                             "specialname":  null
+                                                         },
                     "cryoregisvine":  {
                                           "name":  "Cryo Regisvine",
                                           "specialname":  null

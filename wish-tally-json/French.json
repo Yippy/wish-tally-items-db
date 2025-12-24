@@ -627,6 +627,9 @@
                       "richredbrocade":  {
                                              "name":  "Brocart rouge luxueux"
                                          },
+                      "cyclicmilitarykuuvahkicore":  {
+                                                         "name":  "Noyau kuuvahkique militaire de type cyclique"
+                                                     },
                       "operativesconstancy":  {
                                                   "name":  "Constance d\u0027opérateur"
                                               },
@@ -954,9 +957,9 @@
                       "crystallinecystdust":  {
                                                   "name":  "Poussière cristalline de sporange"
                                               },
-                      "shuttleofodara":  {
-                                             "name":  "Navette d\u0027Odara"
-                                         },
+                      "guidetomoonlight":  {
+                                               "name":  "Guide de la Lune"
+                                           },
                       "lazuriteaxemarlin":  {
                                                 "name":  "Marlin à hache de lazurite"
                                             },
@@ -1470,6 +1473,9 @@
                       "plaustriteshard":  {
                                               "name":  "Fragment de plaustrite"
                                           },
+                      "refinedheart":  {
+                                           "name":  "Cœur affiné"
+                                       },
                       "narukamiswisdom":  {
                                               "name":  "Sagesse de Narukami"
                                           },
@@ -1890,6 +1896,9 @@
                       "quenepaberry":  {
                                            "name":  "Baie de quenettier"
                                        },
+                      "shuttleofodara":  {
+                                             "name":  "Navette d\u0027Odara"
+                                         },
                       "blazeoflongnightflint":  {
                                                     "name":  "Embrasement de silex de longue nuit"
                                                 },
@@ -2694,9 +2703,6 @@
                       "frostetchedwarrant":  {
                                                  "name":  "Mandat gelé"
                                              },
-                      "guidetomoonlight":  {
-                                               "name":  "Guide de la Lune"
-                                           },
                       "frostnightsglory":  {
                                                "name":  "Gloire de givrenuit"
                                            },
@@ -3328,6 +3334,47 @@
                                          "region":  "Fontaine",
                                          "gender":  "Femme"
                                      },
+                       "jahoda":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Présence d\u0027esprit du filou",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSignelune « Lueur ascendante »\u003c/color\u003e : Grâce à l\u0027aptitude d\u0027élévation {LINK#P1242101}\u003ccolor=#FFD780FF\u003ePlan pour toucher sa récompense\u003c/color\u003e{/LINK}, Jahoda prend également secrètement note du second élément représenté par le plus grand nombre de personnages, en plus du premier élément représenté par le plus grand nombre de personnages, ce qui permet d\u0027activer simultanément les effets bonus d\u0027un maximum de deux éléments. L\u0027aptitude d\u0027élévation « Plan pour toucher sa récompense » doit être déjà débloquée.",
+                                                                        "description":  "Signelune « Lueur ascendante » : Grâce à l\u0027aptitude d\u0027élévation **Plan pour toucher sa récompense**, Jahoda prend également secrètement note du second élément représenté par le plus grand nombre de personnages, en plus du premier élément représenté par le plus grand nombre de personnages, ce qui permet d\u0027activer simultanément les effets bonus d\u0027un maximum de deux éléments. L\u0027aptitude d\u0027élévation « Plan pour toucher sa récompense » doit être déjà débloquée."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Baies sauvages dans la poussière",
+                                                                        "descriptionRaw":  "Lorsqu\u0027un {LINK#N11240002}\u003ccolor=#FFD780FF\u003echatssistant coordinateur personnel\u003c/color\u003e{/LINK} du déchaînement élémentaire \u003ccolor=#FFD780FF\u003eAtout secret : Sept gadgets du chasseur\u003c/color\u003e subit une conversion élémentaire, Jahoda récupère 4 pts d\u0027énergie élémentaire.",
+                                                                        "description":  "Lorsqu\u0027un **chatssistant coordinateur personnel** du déchaînement élémentaire Atout secret : Sept gadgets du chasseur subit une conversion élémentaire, Jahoda récupère 4 pts d\u0027énergie élémentaire."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Pari désespéré",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003e{LINK#S11245}Atout secret : Sept gadgets du chasseur{/LINK}\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude **Atout secret : Sept gadgets du chasseur** +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Le plus grand trésor",
+                                                                        "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003e{LINK#S11242}Stratégie astucieuse : Partage de butin{/LINK}\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                        "description":  "Niveau d\u0027aptitude **Stratégie astucieuse : Partage de butin** +3.\nNiveau max : 15"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "La chance la plus petite",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eSignelune « Lueur ascendante »\u003c/color\u003e : Pendant 20 s après qu\u0027une {LINK#N11240001}\u003ccolor=#FFD780FF\u003eflasque au trésor ronronnant\u003c/color\u003e{/LINK} de la compétence élémentaire \u003ccolor=#FFD780FF\u003eStratégie astucieuse : Partage de butin\u003c/color\u003e se remplit complètement, le taux CRIT des personnages signelunaires à proximité augmente de 5 % et leurs DGT CRIT augmentent de 40 %.",
+                                                                        "description":  "Signelune « Lueur ascendante » : Pendant 20 s après qu\u0027une **flasque au trésor ronronnant** de la compétence élémentaire Stratégie astucieuse : Partage de butin se remplit complètement, le taux CRIT des personnages signelunaires à proximité augmente de 5 % et leurs DGT CRIT augmentent de 40 %."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Une autre flasque !",
+                                                                        "descriptionRaw":  "Lorsqu\u0027une \u003ccolor=#FFD780FF\u003ebouboule miaou\u003c/color\u003e tirée par une {LINK#N11240001}\u003ccolor=#FFD780FF\u003eflasque au trésor ronronnant\u003c/color\u003e{/LINK} de la compétence élémentaire \u003ccolor=#FFD780FF\u003eStratégie astucieuse : Partage de butin\u003c/color\u003e touche un ennemi, il y a 50 % de chances qu\u0027elle rebondisse pour infliger des DGT de l\u0027élément correspondant aux ennemis à proximité.",
+                                                                        "description":  "Lorsqu\u0027une bouboule miaou tirée par une **flasque au trésor ronronnant** de la compétence élémentaire Stratégie astucieuse : Partage de butin touche un ennemi, il y a 50 % de chances qu\u0027elle rebondisse pour infliger des DGT de l\u0027élément correspondant aux ennemis à proximité."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anémo",
+                                      "fullname":  null,
+                                      "weaponText":  "Arc",
+                                      "name":  "Jahoda",
+                                      "substatText":  "Bonus de soins",
+                                      "region":  "Nod-Krai",
+                                      "gender":  "Femme"
+                                  },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -4766,6 +4813,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Homme"
                                   },
+                       "durin":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Visions sans fond",
+                                                                       "descriptionRaw":  "Si un personnage de l\u0027équipe à proximité a déclenché une réaction d\u0027Évaporation, de Fonte, de Brûlure, de Surcharge, de Dispersion Pyro ou de Cristallisation Pyro sur un ennemi, ou bien inflige des \u003ccolor=#FF9999FF\u003eDGT Pyro\u003c/color\u003e ou des \u003ccolor=#99FF88FF\u003eDGT Dendro\u003c/color\u003e sur un ennemi brûlé, pendant 20 s après que Durin utilise un déchaînement élémentaire, le personnage de l\u0027équipe à proximité obtient un \u003ccolor=#FF9999FF\u003ebonus de DGT Pyro\u003c/color\u003e et un bonus de DGT de l\u0027élément impliqué dans la réaction de 50 % pendant 6 s.",
+                                                                       "description":  "Si un personnage de l\u0027équipe à proximité a déclenché une réaction d\u0027Évaporation, de Fonte, de Brûlure, de Surcharge, de Dispersion Pyro ou de Cristallisation Pyro sur un ennemi, ou bien inflige des DGT Pyro ou des DGT Dendro sur un ennemi brûlé, pendant 20 s après que Durin utilise un déchaînement élémentaire, le personnage de l\u0027équipe à proximité obtient un bonus de DGT Pyro et un bonus de DGT de l\u0027élément impliqué dans la réaction de 50 % pendant 6 s."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Source d\u0027emanare",
+                                                                       "descriptionRaw":  "Les DGT de déchaînement élémentaire infligés par Durin augmentent de 40 %. De plus, en déclenchant un effet consommant des cumuls de \u003ccolor=#FFD780FF\u003ecycle d\u0027illumination\u003c/color\u003e de la constellation \u003ccolor=#FFD780FF\u003e{LINK#T1231}Rédemption de l\u0027adamah{/LINK}\u003c/color\u003e, il y a 30 % de chances de ne pas consommer de cycle d\u0027illumination.",
+                                                                       "description":  "Les DGT de déchaînement élémentaire infligés par Durin augmentent de 40 %. De plus, en déclenchant un effet consommant des cumuls de cycle d\u0027illumination de la constellation **Rédemption de l\u0027adamah**, il y a 30 % de chances de ne pas consommer de cycle d\u0027illumination."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Révélation du miroir de flammes",
+                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003e{LINK#S11235}Principe de pureté : Comme la lumière qui fluctue{/LINK}\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                       "description":  "Niveau d\u0027aptitude **Principe de pureté : Comme la lumière qui fluctue** +3.\nNiveau max : 15"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Déchirure du feu purgateur",
+                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003e{LINK#S11232}Forme binaire : Convergence et division{/LINK}\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                       "description":  "Niveau d\u0027aptitude **Forme binaire : Convergence et division** +3.\nNiveau max : 15"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Double naissance",
+                                                                       "descriptionRaw":  "Les DGT de déchaînement élémentaire infligés par Durin ignorent 30 % de la DÉF des ennemis.\nDe plus, les déchaînements élémentaires \u003ccolor=#FFD780FF\u003ePrincipe de pureté : Comme la lumière qui fluctue\u003c/color\u003e et \u003ccolor=#FFD780FF\u003ePrincipe de ténèbre : Comme les étoiles qui brûlent\u003c/color\u003e de Durin sont renforcés :\n· Lorsque le déchaînement élémentaire \u003ccolor=#FFD780FF\u003ePrincipe de pureté : Comme la lumière qui fluctue\u003c/color\u003e ou le \u003ccolor=#FFD780FF\u003edragon de flamme blanche\u003c/color\u003e touche un ennemi, la DÉF de ce dernier diminue de 30 % pendant 6 s.\n· Les DGT infligés par le déchaînement élémentaire \u003ccolor=#FFD780FF\u003ePrincipe de ténèbre : Comme les étoiles qui brûlent\u003c/color\u003e et le \u003ccolor=#FFD780FF\u003edragon de corrosion noire\u003c/color\u003e ignorent 40 % de DÉF des ennemis en plus.",
+                                                                       "description":  "Les DGT de déchaînement élémentaire infligés par Durin ignorent 30 % de la DÉF des ennemis.\nDe plus, les déchaînements élémentaires Principe de pureté : Comme la lumière qui fluctue et Principe de ténèbre : Comme les étoiles qui brûlent de Durin sont renforcés :\n· Lorsque le déchaînement élémentaire Principe de pureté : Comme la lumière qui fluctue ou le dragon de flamme blanche touche un ennemi, la DÉF de ce dernier diminue de 30 % pendant 6 s.\n· Les DGT infligés par le déchaînement élémentaire Principe de ténèbre : Comme les étoiles qui brûlent et le dragon de corrosion noire ignorent 40 % de DÉF des ennemis en plus."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Rédemption de l\u0027adamah",
+                                                                       "descriptionRaw":  "Déclencher un déchaînement élémentaire provoque divers effets en fonction du type de déchaînement élémentaire que Durin déclenche :\n· \u003ccolor=#FFD780FF\u003ePrincipe de pureté : Comme la lumière qui fluctue\u003c/color\u003e : tous les autres personnages de l\u0027équipe à proximité obtiennent 20 cumuls de \u003ccolor=#FFD780FF\u003ecycle d\u0027illumination\u003c/color\u003e pendant 20 s. Lorsque le personnage déployé inflige des DGT avec une attaque normale, une attaque chargée, une attaque plongeante, une compétence élémentaire ou un déchaînement élémentaire, il consomme 1 cumul de cycle d\u0027illumination pour augmenter les DGT infligés d\u0027une valeur équivalant à 60 % de l\u0027ATQ de Durin. Le compte de cumuls des personnages de l\u0027équipe possédant du cycle d\u0027illumination est géré individuellement.\n· \u003ccolor=#FFD780FF\u003ePrincipe de ténèbre : Comme les étoiles qui brûlent\u003c/color\u003e : Durin obtient 20 cumuls de \u003ccolor=#FFD780FF\u003ecycle d\u0027illumination\u003c/color\u003e pendant 20 s. Lorsque Durin inflige des DGT avec un déchaînement élémentaire, il consomme 2 cumuls de cycle d\u0027illumination pour augmenter les DGT infligés d\u0027une valeur équivalant à 150 % de l\u0027ATQ de Durin.\n\nLorsqu\u0027un déchaînement élémentaire est utilisé, les cumuls de \u003ccolor=#FFD780FF\u003ecycle d\u0027illumination\u003c/color\u003e sont réinitialisés.",
+                                                                       "description":  "Déclencher un déchaînement élémentaire provoque divers effets en fonction du type de déchaînement élémentaire que Durin déclenche :\n· Principe de pureté : Comme la lumière qui fluctue : tous les autres personnages de l\u0027équipe à proximité obtiennent 20 cumuls de cycle d\u0027illumination pendant 20 s. Lorsque le personnage déployé inflige des DGT avec une attaque normale, une attaque chargée, une attaque plongeante, une compétence élémentaire ou un déchaînement élémentaire, il consomme 1 cumul de cycle d\u0027illumination pour augmenter les DGT infligés d\u0027une valeur équivalant à 60 % de l\u0027ATQ de Durin. Le compte de cumuls des personnages de l\u0027équipe possédant du cycle d\u0027illumination est géré individuellement.\n· Principe de ténèbre : Comme les étoiles qui brûlent : Durin obtient 20 cumuls de cycle d\u0027illumination pendant 20 s. Lorsque Durin inflige des DGT avec un déchaînement élémentaire, il consomme 2 cumuls de cycle d\u0027illumination pour augmenter les DGT infligés d\u0027une valeur équivalant à 150 % de l\u0027ATQ de Durin.\n\nLorsqu\u0027un déchaînement élémentaire est utilisé, les cumuls de cycle d\u0027illumination sont réinitialisés."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Épée à une main",
+                                     "name":  "Durin",
+                                     "substatText":  "DGT CRIT",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Homme"
+                                 },
                        "mualani":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7640,6 +7728,43 @@
                                                     },
                                              "effectName":  "Offrande au vent et au soleil"
                                          },
+                    "rainbowserpentsrainbow":  {
+                                                   "r3":  {
+                                                              "description":  "Lorsque le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé, l\u0027ATQ augmente de 42 % pendant 8 s après que le personnage équipé de l\u0027arme touche un ennemi.",
+                                                              "values":  [
+                                                                             "42 %"
+                                                                         ]
+                                                          },
+                                                   "r5":  {
+                                                              "description":  "Lorsque le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé, l\u0027ATQ augmente de 56 % pendant 8 s après que le personnage équipé de l\u0027arme touche un ennemi.",
+                                                              "values":  [
+                                                                             "56 %"
+                                                                         ]
+                                                          },
+                                                   "r2":  {
+                                                              "description":  "Lorsque le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé, l\u0027ATQ augmente de 35 % pendant 8 s après que le personnage équipé de l\u0027arme touche un ennemi.",
+                                                              "values":  [
+                                                                             "35 %"
+                                                                         ]
+                                                          },
+                                                   "r4":  {
+                                                              "description":  "Lorsque le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé, l\u0027ATQ augmente de 49 % pendant 8 s après que le personnage équipé de l\u0027arme touche un ennemi.",
+                                                              "values":  [
+                                                                             "49 %"
+                                                                         ]
+                                                          },
+                                                   "substatText":  "Recharge d\u0027énergie",
+                                                   "weaponText":  "Arc",
+                                                   "name":  "Arc pluvial du serpent arc-en-ciel",
+                                                   "effectTemplateRaw":  "Lorsque le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé, l\u0027ATQ augmente de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 8 s après que le personnage équipé de l\u0027arme touche un ennemi.",
+                                                   "r1":  {
+                                                              "description":  "Lorsque le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé, l\u0027ATQ augmente de 28 % pendant 8 s après que le personnage équipé de l\u0027arme touche un ennemi.",
+                                                              "values":  [
+                                                                             "28 %"
+                                                                         ]
+                                                          },
+                                                   "effectName":  "Murmures astraux d\u0027au-delà du trône sacré"
+                                               },
                     "recurvebow":  {
                                        "r3":  {
                                                   "description":  "Restaure 12 % des PV après la défaite d\u0027un ennemi.",
@@ -8203,6 +8328,43 @@
                                                       },
                                                "effectName":  "Cercle complet"
                                            },
+                    "thestringless":  {
+                                          "r3":  {
+                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 36 %.",
+                                                     "values":  [
+                                                                    "36 %"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 48 %.",
+                                                     "values":  [
+                                                                    "48 %"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 30 %.",
+                                                     "values":  [
+                                                                    "30 %"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 42 %.",
+                                                     "values":  [
+                                                                    "42 %"
+                                                                ]
+                                                 },
+                                          "substatText":  "Maîtrise élémentaire",
+                                          "weaponText":  "Arc",
+                                          "name":  "Dernière corde",
+                                          "effectTemplateRaw":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
+                                          "r1":  {
+                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 24 %.",
+                                                     "values":  [
+                                                                    "24 %"
+                                                                ]
+                                                 },
+                                          "effectName":  "Chanson sans flèche"
+                                      },
                     "elegyfortheend":  {
                                            "r3":  {
                                                       "description":  "Partie du « Concert du millénaire ». Augmente la maîtrise élémentaire de 90 pts. Lorsque le personnage équipé de cette arme touche un ennemi avec sa compétence ou son déchaînement élémentaires, il obtient un talisman de réminiscence, à raison d\u0027un talisman toutes les 0,2 s maximum, même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé. Une fois 4 talismans cumulés, ils sont consommés et font bénéficier pendant 12 s tous les personnages de l\u0027équipe à proximité de l\u0027effet « Concert du millénaire - Chant d\u0027adieu », ce qui augmente leur maîtrise élémentaire de 150 pts et leur ATQ de 30 %. Il n\u0027est plus possible de gagner de talismans de réminiscence pendant 20 s après activation de cet effet. Les différents effets du « Concert du millénaire » ne peuvent pas être cumulés.",
@@ -11692,6 +11854,53 @@
                                                  },
                                           "effectName":  "Charge critique"
                                       },
+                    "athameartis":  {
+                                        "r3":  {
+                                                   "description":  "Les DGT CRIT infligés par les déchaînements élémentaires augmentent de 24 % et toucher un ennemi avec un déchaînement élémentaire accorde l\u0027effet Lame du jour : augmente l\u0027ATQ de 30 % et augmente l\u0027ATQ des personnages déployés à proximité autre que le personnage équipé de l\u0027arme de 24 %, le tout pendant 3 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                   "values":  [
+                                                                  "24 %",
+                                                                  "30 %",
+                                                                  "24 %"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Les DGT CRIT infligés par les déchaînements élémentaires augmentent de 32 % et toucher un ennemi avec un déchaînement élémentaire accorde l\u0027effet Lame du jour : augmente l\u0027ATQ de 40 % et augmente l\u0027ATQ des personnages déployés à proximité autre que le personnage équipé de l\u0027arme de 32 %, le tout pendant 3 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                   "values":  [
+                                                                  "32 %",
+                                                                  "40 %",
+                                                                  "32 %"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Les DGT CRIT infligés par les déchaînements élémentaires augmentent de 20 % et toucher un ennemi avec un déchaînement élémentaire accorde l\u0027effet Lame du jour : augmente l\u0027ATQ de 25 % et augmente l\u0027ATQ des personnages déployés à proximité autre que le personnage équipé de l\u0027arme de 20 %, le tout pendant 3 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                   "values":  [
+                                                                  "20 %",
+                                                                  "25 %",
+                                                                  "20 %"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Les DGT CRIT infligés par les déchaînements élémentaires augmentent de 28 % et toucher un ennemi avec un déchaînement élémentaire accorde l\u0027effet Lame du jour : augmente l\u0027ATQ de 35 % et augmente l\u0027ATQ des personnages déployés à proximité autre que le personnage équipé de l\u0027arme de 28 %, le tout pendant 3 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                   "values":  [
+                                                                  "28 %",
+                                                                  "35 %",
+                                                                  "28 %"
+                                                              ]
+                                               },
+                                        "substatText":  "Taux CRIT",
+                                        "weaponText":  "Épée à une main",
+                                        "name":  "Athame Artis",
+                                        "effectTemplateRaw":  "#Les DGT CRIT infligés par les déchaînements élémentaires augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e et toucher un ennemi avec un déchaînement élémentaire accorde l\u0027effet Lame du jour : augmente l\u0027ATQ de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e et augmente l\u0027ATQ des personnages déployés à proximité autre que le personnage équipé de l\u0027arme de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e, le tout pendant 3{NON_BREAK_SPACE}s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                        "r1":  {
+                                                   "description":  "Les DGT CRIT infligés par les déchaînements élémentaires augmentent de 16 % et toucher un ennemi avec un déchaînement élémentaire accorde l\u0027effet Lame du jour : augmente l\u0027ATQ de 20 % et augmente l\u0027ATQ des personnages déployés à proximité autre que le personnage équipé de l\u0027arme de 16 %, le tout pendant 3 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.",
+                                                   "values":  [
+                                                                  "16 %",
+                                                                  "20 %",
+                                                                  "16 %"
+                                                              ]
+                                               },
+                                        "effectName":  "Gloire ardente du roi du jour"
+                                    },
                     "fangofthemountainking":  {
                                                   "r3":  {
                                                              "description":  "Toucher un ennemi avec une compétence élémentaire accorde un cumul de faveur canopéenne, cet effet pouvant être déclenché une fois toutes les 0,5 s ; de plus, le personnage équipé de l\u0027arme obtient 3 cumuls de faveur canopéenne lorsqu\u0027un membre de l\u0027équipe à proximité a déclenché une réaction de Brûlure ou de Bourgeonnement, cet effet pouvant être déclenché une fois toutes les 2 s, même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé. Faveur canopéenne : augmente les DGT des compétences et déchaînements élémentaires de 15 % pendant 6 s ; cet effet peut être cumulé 6 fois maximum, la durée de chaque cumul étant calculée de façon indépendante.",
@@ -13867,43 +14076,63 @@
                                                },
                                         "effectName":  "Arrivée du sentier bestial"
                                     },
-                    "thestringless":  {
-                                          "r3":  {
-                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 36 %.",
-                                                     "values":  [
-                                                                    "36 %"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 48 %.",
-                                                     "values":  [
-                                                                    "48 %"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 30 %.",
-                                                     "values":  [
-                                                                    "30 %"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 42 %.",
-                                                     "values":  [
-                                                                    "42 %"
-                                                                ]
-                                                 },
-                                          "substatText":  "Maîtrise élémentaire",
-                                          "weaponText":  "Arc",
-                                          "name":  "Dernière corde",
-                                          "effectTemplateRaw":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
-                                          "r1":  {
-                                                     "description":  "Augmente les DGT infligés par les compétences élémentaires et les déchaînements élémentaires de 24 %.",
-                                                     "values":  [
-                                                                    "24 %"
-                                                                ]
-                                                 },
-                                          "effectName":  "Chanson sans flèche"
-                                      },
+                    "thedaybreakchronicles":  {
+                                                  "r3":  {
+                                                             "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de 90 %. En combat, l\u0027effet de ce bonus diminue de 15 % toutes les secondes jusqu\u0027à atteindre 0 %. Lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l\u0027effet de ce bonus pour le type de DGT correspondant augmente de 15 %, jusqu\u0027à une augmentation maximum de 90 %. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d\u0027attaque et peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, l\u0027augmentation du bonus de DGT lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à 30 % et s\u0027applique à tous les types de DGT concernés.",
+                                                             "values":  [
+                                                                            "90 %",
+                                                                            "15{NON_BREAK_SPACE}%",
+                                                                            "15 %",
+                                                                            "90 %",
+                                                                            "30 %"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de 120 %. En combat, l\u0027effet de ce bonus diminue de 20 % toutes les secondes jusqu\u0027à atteindre 0 %. Lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l\u0027effet de ce bonus pour le type de DGT correspondant augmente de 20 %, jusqu\u0027à une augmentation maximum de 120 %. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d\u0027attaque et peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, l\u0027augmentation du bonus de DGT lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à 40 % et s\u0027applique à tous les types de DGT concernés.",
+                                                             "values":  [
+                                                                            "120 %",
+                                                                            "20{NON_BREAK_SPACE}%",
+                                                                            "20 %",
+                                                                            "120 %",
+                                                                            "40 %"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de 75 %. En combat, l\u0027effet de ce bonus diminue de 12,5 % toutes les secondes jusqu\u0027à atteindre 0 %. Lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l\u0027effet de ce bonus pour le type de DGT correspondant augmente de 12,5 %, jusqu\u0027à une augmentation maximum de 75 %. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d\u0027attaque et peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, l\u0027augmentation du bonus de DGT lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à 25 % et s\u0027applique à tous les types de DGT concernés.",
+                                                             "values":  [
+                                                                            "75 %",
+                                                                            "12,5{NON_BREAK_SPACE}%",
+                                                                            "12,5 %",
+                                                                            "75 %",
+                                                                            "25 %"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de 105 %. En combat, l\u0027effet de ce bonus diminue de 17,5 % toutes les secondes jusqu\u0027à atteindre 0 %. Lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l\u0027effet de ce bonus pour le type de DGT correspondant augmente de 17,5 %, jusqu\u0027à une augmentation maximum de 105 %. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d\u0027attaque et peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, l\u0027augmentation du bonus de DGT lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à 35 % et s\u0027applique à tous les types de DGT concernés.",
+                                                             "values":  [
+                                                                            "105 %",
+                                                                            "17,5{NON_BREAK_SPACE}%",
+                                                                            "17,5 %",
+                                                                            "105 %",
+                                                                            "35 %"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "DGT CRIT",
+                                                  "weaponText":  "Arc",
+                                                  "name":  "Les chroniques de l\u0027aube",
+                                                  "effectTemplateRaw":  "#Le personnage équipé de l\u0027arme obtient l\u0027effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. En combat, l\u0027effet de ce bonus diminue de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e toutes les secondes jusqu\u0027à atteindre 0 %. Lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l\u0027effet de ce bonus pour le type de DGT correspondant augmente de \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e, jusqu\u0027à une augmentation maximum de \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d\u0027attaque et peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, l\u0027augmentation du bonus de DGT lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à \u003ccolor=#99FFFFFF\u003e{4}\u003c/color\u003e et s\u0027applique à tous les types de DGT concernés.",
+                                                  "r1":  {
+                                                             "description":  "Le personnage équipé de l\u0027arme obtient l\u0027effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de 60 %. En combat, l\u0027effet de ce bonus diminue de 10 % toutes les secondes jusqu\u0027à atteindre 0 %. Lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l\u0027effet de ce bonus pour le type de DGT correspondant augmente de 10 %, jusqu\u0027à une augmentation maximum de 60 %. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d\u0027attaque et peut être déclenché même si le personnage équipé de l\u0027arme fait partie de l\u0027équipe mais n\u0027est pas déployé.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, l\u0027augmentation du bonus de DGT lorsque le personnage équipé de l\u0027arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à 20 % et s\u0027applique à tous les types de DGT concernés.",
+                                                             "values":  [
+                                                                            "60 %",
+                                                                            "10{NON_BREAK_SPACE}%",
+                                                                            "10 %",
+                                                                            "60 %",
+                                                                            "20 %"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Ode par-delà le temps"
+                                              },
                     "lumidouceelegy":  {
                                            "r3":  {
                                                       "description":  "Augmente l\u0027ATQ de 23 %. Lorsque le personnage équipé de l\u0027arme déclenche une réaction de Brûlure sur un ennemi ou inflige des DGT Dendro à un ennemi brûlé, les DGT infligés augmentent de 28 % pendant 8 s, cet effet pouvant être cumulé 2 fois maximum. En atteignant 2 cumuls ou lorsque la durée du 2e cumul est actualisée, 14 pts d\u0027énergie élémentaires sont restaurés, l\u0027énergie élémentaire pouvant être restaurée une fois toutes les 12 s de cette manière. Les 2 effets susmentionnés peuvent être déclenchés même lorsque le personnage fait partie de l\u0027équipe mais n\u0027est pas déployé.",
@@ -16361,10 +16590,10 @@
                                                       "name":  "Mek constructeur",
                                                       "specialname":  null
                                                   },
-                    "yumkasauruswarriorwhirlingleaves":  {
-                                                             "name":  "Guerrier yumkasaure : Feuilles volantes",
-                                                             "specialname":  null
-                                                         },
+                    "superheavylandrovermechanizedfortress":  {
+                                                                  "name":  "Croiseur terrestre super-lourd : Forteresse mécanisée",
+                                                                  "specialname":  null
+                                                              },
                     "treasurehoardersmarksman":  {
                                                      "name":  "Tireur des Pilleurs de trésors",
                                                      "specialname":  null
@@ -16829,6 +17058,10 @@
                                            "name":  "Suanni solitaire",
                                            "specialname":  null
                                        },
+                    "yumkasauruswarriorwhirlingleaves":  {
+                                                             "name":  "Guerrier yumkasaure : Feuilles volantes",
+                                                             "specialname":  null
+                                                         },
                     "cryoregisvine":  {
                                           "name":  "Arbre congelé",
                                           "specialname":  null

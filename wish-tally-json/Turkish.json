@@ -627,6 +627,9 @@
                       "richredbrocade":  {
                                              "name":  "Koyu Kırmızı Sırmalı Kumaş"
                                          },
+                      "cyclicmilitarykuuvahkicore":  {
+                                                         "name":  "Döngüsel Askeri Kuuvahki Çekirdeği"
+                                                     },
                       "operativesconstancy":  {
                                                   "name":  "Ajanın Vefası"
                                               },
@@ -954,9 +957,9 @@
                       "crystallinecystdust":  {
                                                   "name":  "Kristal Toz Kutusu"
                                               },
-                      "shuttleofodara":  {
-                                             "name":  "Odara Aracı"
-                                         },
+                      "guidetomoonlight":  {
+                                               "name":  "Ay Işığı Rehberi"
+                                           },
                       "lazuriteaxemarlin":  {
                                                 "name":  "Lazurit Balta Balığı"
                                             },
@@ -1470,6 +1473,9 @@
                       "plaustriteshard":  {
                                               "name":  "Plaustrit Parçası"
                                           },
+                      "refinedheart":  {
+                                           "name":  "Saf Kalp"
+                                       },
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027nin Bilgeliği"
                                           },
@@ -1890,6 +1896,9 @@
                       "quenepaberry":  {
                                            "name":  "Quenepa Böğürtleni"
                                        },
+                      "shuttleofodara":  {
+                                             "name":  "Odara Aracı"
+                                         },
                       "blazeoflongnightflint":  {
                                                     "name":  "Uzun Gece Ateşinin Işıltısı"
                                                 },
@@ -2694,9 +2703,6 @@
                       "frostetchedwarrant":  {
                                                  "name":  "Donuk Yetki Belgesi"
                                              },
-                      "guidetomoonlight":  {
-                                               "name":  "Ay Işığı Rehberi"
-                                           },
                       "frostnightsglory":  {
                                                "name":  "Donuk Gecenin İhtişamı"
                                            },
@@ -3328,6 +3334,47 @@
                                          "region":  "Fontaine",
                                          "gender":  "kadın"
                                      },
+                       "jahoda":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Hırsızın Pratik Zekası",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAy Sembolü: Yükselen Parıltı\u003c/color\u003e: {LINK#P1242101}\u003ccolor=#FFD780FF\u003e\"Ödeme Alma Taktiği\"\u003c/color\u003e{/LINK} Yükseltme Yeteneğinde Jahoda, en yüksek karakter sayısına sahip elementin yanı sıra kalan element türleri arasında en çok karaktere sahip ikinci elementin de gizlice hesabını tutabilir. Bu, aynı anda en fazla iki element etkisinin aktif olmasına olanak tanır. \"Ödeme Alma Taktiği\" Pasif Yeteneğinin açılmış olması gerekir.",
+                                                                        "description":  "Ay Sembolü: Yükselen Parıltı: **\"Ödeme Alma Taktiği\"** Yükseltme Yeteneğinde Jahoda, en yüksek karakter sayısına sahip elementin yanı sıra kalan element türleri arasında en çok karaktere sahip ikinci elementin de gizlice hesabını tutabilir. Bu, aynı anda en fazla iki element etkisinin aktif olmasına olanak tanır. \"Ödeme Alma Taktiği\" Pasif Yeteneğinin açılmış olması gerekir."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Toz İçindeki Yabani Böğürtlen",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eGizli Yetenekler: Avcının Yedi Aleti\u003c/color\u003e Element Patlamasından gelen {LINK#N11240002}\u003ccolor=#FFD780FF\u003eKedisel Koordineli Destek Robotu\u003c/color\u003e{/LINK} bir Element Dönüşümü geçirdiğinde Jahoda 4 Element Enerjisi yeniler.",
+                                                                        "description":  "Gizli Yetenekler: Avcının Yedi Aleti Element Patlamasından gelen **Kedisel Koordineli Destek Robotu** bir Element Dönüşümü geçirdiğinde Jahoda 4 Element Enerjisi yeniler."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Umutsuz Kumar",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e{LINK#S11245}Gizli Yetenekler: Avcının Yedi Aleti{/LINK}\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                        "description":  "**Gizli Yetenekler: Avcının Yedi Aleti** Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "En Büyük Hazine",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e{LINK#S11242}Kurnaz Strateji: Ganimet Paylaşımı{/LINK}\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                        "description":  "**Kurnaz Strateji: Ganimet Paylaşımı** Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "En Ufak Şans",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eAy Sembolü: Yükselen Parıltı\u003c/color\u003e: \u003ccolor=#FFD780FF\u003eKurnaz Strateji: Ganimet Paylaşımı\u003c/color\u003e Element Becerisiyle gelen {LINK#N11240001}\u003ccolor=#FFD780FF\u003eMiyavtastik Hazine Şişesi\u003c/color\u003e{/LINK} dolduğunda yakındaki Ay Sembolü grup üyelerinin 20sn boyunca Kritik Oranı %5, Kritik Hasarı ise %40 artar.",
+                                                                        "description":  "Ay Sembolü: Yükselen Parıltı: Kurnaz Strateji: Ganimet Paylaşımı Element Becerisiyle gelen **Miyavtastik Hazine Şişesi** dolduğunda yakındaki Ay Sembolü grup üyelerinin 20sn boyunca Kritik Oranı %5, Kritik Hasarı ise %40 artar."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Bir Şişe Daha!",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eKurnaz Strateji: Ganimet Paylaşımı\u003c/color\u003e Element Becerisiyle gelen {LINK#N11240001}\u003ccolor=#FFD780FF\u003eMiyavtastik Hazine Şişesi\u003c/color\u003e{/LINK} tarafından fırlatılan bir \u003ccolor=#FFD780FF\u003ePofuduk Kedi Yumağı\u003c/color\u003e bir düşmana isabet ettiğinde %50 ihtimalle sekerek yakındaki düşmanlara ilgili Element Türünde Hasar verir.",
+                                                                        "description":  "Kurnaz Strateji: Ganimet Paylaşımı Element Becerisiyle gelen **Miyavtastik Hazine Şişesi** tarafından fırlatılan bir Pofuduk Kedi Yumağı bir düşmana isabet ettiğinde %50 ihtimalle sekerek yakındaki düşmanlara ilgili Element Türünde Hasar verir."
+                                                                    }
+                                                         },
+                                      "elementText":  "Rüzgar",
+                                      "fullname":  null,
+                                      "weaponText":  "Yay",
+                                      "name":  "Jahoda",
+                                      "substatText":  "İyileştirme Bonusu",
+                                      "region":  "Nod-Krai",
+                                      "gender":  "kadın"
+                                  },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -4766,6 +4813,47 @@
                                       "region":  "Natlan",
                                       "gender":  "erkek"
                                   },
+                       "durin":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Temelsiz Görüler",
+                                                                       "descriptionRaw":  "Durin Element Patlamasını kullandıktan sonraki 20sn boyunca, yakındaki grup üyeleri Buharlaşma, Erime, Yanma, Yüksek Voltaj, Ateş Girdabı veya Ateş Kristalleşmesi tepkimeleri tetiklediğinde ya da Yanma etkisindeki bir düşmana \u003ccolor=#FF9999FF\u003eAteş Hasarı\u003c/color\u003e veya \u003ccolor=#99FF88FF\u003eDoğa Hasarı\u003c/color\u003e verdiğinde yakındaki tüm grup üyelerinin 6sn boyunca \u003ccolor=#FF9999FF\u003eAteş Hasarı\u003c/color\u003e ve tepkimeye dahil olan ilgili Element Hasarı %50 artar.",
+                                                                       "description":  "Durin Element Patlamasını kullandıktan sonraki 20sn boyunca, yakındaki grup üyeleri Buharlaşma, Erime, Yanma, Yüksek Voltaj, Ateş Girdabı veya Ateş Kristalleşmesi tepkimeleri tetiklediğinde ya da Yanma etkisindeki bir düşmana Ateş Hasarı veya Doğa Hasarı verdiğinde yakındaki tüm grup üyelerinin 6sn boyunca Ateş Hasarı ve tepkimeye dahil olan ilgili Element Hasarı %50 artar."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Taşkının Kaynağı",
+                                                                       "descriptionRaw":  "Durin\u0027in Element Patlaması Hasarı %40 artar. Ayrıca,\u003ccolor=#FFD780FF\u003e{LINK#T1231}Adamah\u0027nın Kurtuluşu{/LINK}\u003c/color\u003e Takımyıldızına bağlı olarak \u003ccolor=#FFD780FF\u003eAydınlanma Döngüsü\u003c/color\u003e kademesi tüketen etkiler tetiklendiğinde %30 ihtimalle Aydınlanma Döngüsü kademesi tüketilmeyebilir.",
+                                                                       "description":  "Durin\u0027in Element Patlaması Hasarı %40 artar. Ayrıca,**Adamah\u0027nın Kurtuluşu** Takımyıldızına bağlı olarak Aydınlanma Döngüsü kademesi tüketen etkiler tetiklendiğinde %30 ihtimalle Aydınlanma Döngüsü kademesi tüketilmeyebilir."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Alev Aynasındaki Hakikat",
+                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e{LINK#S11235}Saflık İlkesi: Değişen Işık Misali{/LINK}\u003c/color\u003e Seviyesini 3 arttırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                       "description":  "**Saflık İlkesi: Değişen Işık Misali** Seviyesini 3 arttırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Yakıcı Alevlerin Parçalanışı",
+                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e{LINK#S11232}İkili Form: Birleşme ve Ayrılma{/LINK}\u003c/color\u003e Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                       "description":  "**İkili Form: Birleşme ve Ayrılma** Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Çifte Doğum",
+                                                                       "descriptionRaw":  "Durin\u0027in Element Patlaması Hasarı, düşmanların Savunmasının %30\u0027unu yok sayar.\nAyrıca Durin\u0027in \u003ccolor=#FFD780FF\u003eSaflık İlkesi: Değişen Işık Misali\u003c/color\u003e ve \u003ccolor=#FFD780FF\u003eKaranlık İlkesi: Korlaşan Yıldız Misali\u003c/color\u003e Element Patlamaları geliştirilir:\n·\u003ccolor=#FFD780FF\u003eSaflık İlkesi: Değişen Işık Misali\u003c/color\u003e ve \u003ccolor=#FFD780FF\u003eBeyaz Alev Ejderhası\u003c/color\u003e bir düşmana isabet ettiğinde 6 saniyeliğine o düşmanın Savunması %30 azalır.\n·\u003ccolor=#FFD780FF\u003eKaranlık İlkesi: Korlaşan Yıldız Misali\u003c/color\u003e ve \u003ccolor=#FFD780FF\u003eKaranlık Çürüme Ejderhası\u003c/color\u003e tarafından verilen Hasar, düşmanların Savunmasının %40\u0027ını daha yok sayar.",
+                                                                       "description":  "Durin\u0027in Element Patlaması Hasarı, düşmanların Savunmasının %30\u0027unu yok sayar.\nAyrıca Durin\u0027in Saflık İlkesi: Değişen Işık Misali ve Karanlık İlkesi: Korlaşan Yıldız Misali Element Patlamaları geliştirilir:\n·Saflık İlkesi: Değişen Işık Misali ve Beyaz Alev Ejderhası bir düşmana isabet ettiğinde 6 saniyeliğine o düşmanın Savunması %30 azalır.\n·Karanlık İlkesi: Korlaşan Yıldız Misali ve Karanlık Çürüme Ejderhası tarafından verilen Hasar, düşmanların Savunmasının %40\u0027ını daha yok sayar."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Adamah\u0027nın Kurtuluşu",
+                                                                       "descriptionRaw":  "Durin Element Patlamasını kullandıktan sonra etkileri Element Patlamasının türüne göre değişir:\n·\u003ccolor=#FFD780FF\u003eSaflık İlkesi: Değişen Işık Misali\u003c/color\u003e: Yakındaki diğer tüm grup üyeleri 20 \u003ccolor=#FFD780FF\u003eAydınlanma Döngüsü\u003c/color\u003e kademesi kazanır, 20sn sürer. Yakındaki aktif karakterler Normal Saldırı, Yüklü Saldırı, Havadan Saldırı, Element Becerisi veya Element Patlaması Hasarı verdiğinde 1 Aydınlanma Döngüsü kademesi tüketilir ve verilen Hasar, Durin\u0027in Saldırısının %60\u0027ı kadar artar. Gruptaki Aydınlanma Döngüsüne sahip karakterler için kademe sayıları ayrı hesaplanır.\n·\u003ccolor=#FFD780FF\u003eKaranlık İlkesi: Korlaşan Yıldız Misali\u003c/color\u003e: Durin 20 \u003ccolor=#FFD780FF\u003eAydınlanma Döngüsü\u003c/color\u003e kademesi kazanır, 20sn sürer. Durin Element Patlaması Hasarı verdiğinde 2 Aydınlanma Döngüsü kademesi tüketilir ve verilen Hasarı Durin\u0027in Saldırısının %150\u0027si kadar artar.\n\nBir Element Patlaması kullanıldığında \u003ccolor=#FFD780FF\u003eAydınlanma Döngüsü\u003c/color\u003e kademeleri yenilenir.",
+                                                                       "description":  "Durin Element Patlamasını kullandıktan sonra etkileri Element Patlamasının türüne göre değişir:\n·Saflık İlkesi: Değişen Işık Misali: Yakındaki diğer tüm grup üyeleri 20 Aydınlanma Döngüsü kademesi kazanır, 20sn sürer. Yakındaki aktif karakterler Normal Saldırı, Yüklü Saldırı, Havadan Saldırı, Element Becerisi veya Element Patlaması Hasarı verdiğinde 1 Aydınlanma Döngüsü kademesi tüketilir ve verilen Hasar, Durin\u0027in Saldırısının %60\u0027ı kadar artar. Gruptaki Aydınlanma Döngüsüne sahip karakterler için kademe sayıları ayrı hesaplanır.\n·Karanlık İlkesi: Korlaşan Yıldız Misali: Durin 20 Aydınlanma Döngüsü kademesi kazanır, 20sn sürer. Durin Element Patlaması Hasarı verdiğinde 2 Aydınlanma Döngüsü kademesi tüketilir ve verilen Hasarı Durin\u0027in Saldırısının %150\u0027si kadar artar.\n\nBir Element Patlaması kullanıldığında Aydınlanma Döngüsü kademeleri yenilenir."
+                                                                   }
+                                                        },
+                                     "elementText":  "Ateş",
+                                     "fullname":  null,
+                                     "weaponText":  "Kılıç",
+                                     "name":  "Durin",
+                                     "substatText":  "Kritik Hasar",
+                                     "region":  "Mondstadt",
+                                     "gender":  "erkek"
+                                 },
                        "mualani":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7640,6 +7728,43 @@
                                                     },
                                              "effectName":  "Rüzgara ve Güneşe Adak"
                                          },
+                    "rainbowserpentsrainbow":  {
+                                                   "r3":  {
+                                                              "description":  "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %42 artar.",
+                                                              "values":  [
+                                                                             "%42"
+                                                                         ]
+                                                          },
+                                                   "r5":  {
+                                                              "description":  "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %56 artar.",
+                                                              "values":  [
+                                                                             "%56"
+                                                                         ]
+                                                          },
+                                                   "r2":  {
+                                                              "description":  "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %35 artar.",
+                                                              "values":  [
+                                                                             "%35"
+                                                                         ]
+                                                          },
+                                                   "r4":  {
+                                                              "description":  "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %49 artar.",
+                                                              "values":  [
+                                                                             "%49"
+                                                                         ]
+                                                          },
+                                                   "substatText":  "Enerji Yüklemesi",
+                                                   "weaponText":  "Yay",
+                                                   "name":  "Gökkuşağı Yılanının Yağmur Yayı",
+                                                   "effectTemplateRaw":  "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar.",
+                                                   "r1":  {
+                                                              "description":  "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı %28 artar.",
+                                                              "values":  [
+                                                                             "%28"
+                                                                         ]
+                                                          },
+                                                   "effectName":  "Kutsal Taht Ardında Kozmik Fısıltılar"
+                                               },
                     "recurvebow":  {
                                        "r3":  {
                                                   "description":  "Bir düşmanı yenmek %12 Can yeniler.",
@@ -8203,6 +8328,43 @@
                                                       },
                                                "effectName":  "Tam Daire"
                                            },
+                    "thestringless":  {
+                                          "r3":  {
+                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %36 artırır.",
+                                                     "values":  [
+                                                                    "%36"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %48 artırır.",
+                                                     "values":  [
+                                                                    "%48"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %30 artırır.",
+                                                     "values":  [
+                                                                    "%30"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %42 artırır.",
+                                                     "values":  [
+                                                                    "%42"
+                                                                ]
+                                                 },
+                                          "substatText":  "Element Ustalığı",
+                                          "weaponText":  "Yay",
+                                          "name":  "Kirişsiz Yay",
+                                          "effectTemplateRaw":  "Element Becerisi ve Element Patlaması Hasarını \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artırır.",
+                                          "r1":  {
+                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %24 artırır.",
+                                                     "values":  [
+                                                                    "%24"
+                                                                ]
+                                                 },
+                                          "effectName":  "Oksuz Şarkı"
+                                      },
                     "elegyfortheend":  {
                                            "r3":  {
                                                       "description":  "\"Milenyum Hareketi\" koleksiyonunun rüzgarla birlikte hareket eden bir parçası. Element Ustalığını 90 artırır. Bu silahı kullanan karakterin Element Becerileri veya Element Patlamaları bir düşmanı vurduğunda karakter bir Hatıra Mührü kazanır. Bu etki 0,2 saniyede bir uygulanabilir ve ilgili karakter sahada değilken bile tetiklenir. 4 adet Hatıra Mührüne sahip olduğunda, mühürlerin tamamı kullanılır ve çevredeki tüm grup üyeleri 12 saniyeliğine \"Milenyum Hareketi: Veda Şarkısı\" kazanır. \"Milenyum Hareketi: Veda Şarkısı\" ile Element Ustalığı 150, Saldırı %30 artar. Bu etki tetiklendikten sonra 20 saniye boyunca Hatıra Mührü kazanılamaz. \"Milenyum Hareketi\"nin etkileri arasından aynı türde güçlendirmeler birbirine eklenmez.",
@@ -11692,6 +11854,53 @@
                                                  },
                                           "effectName":  "Talih Kuşu"
                                       },
+                    "athameartis":  {
+                                        "r3":  {
+                                                   "description":  "Element Patlamalarından gelen Kritik Hasar %24 artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı %30 artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları %24 artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                   "values":  [
+                                                                  "%24",
+                                                                  "%30",
+                                                                  "%24"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Element Patlamalarından gelen Kritik Hasar %32 artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı %40 artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları %32 artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                   "values":  [
+                                                                  "%32",
+                                                                  "%40",
+                                                                  "%32"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Element Patlamalarından gelen Kritik Hasar %20 artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı %25 artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları %20 artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                   "values":  [
+                                                                  "%20",
+                                                                  "%25",
+                                                                  "%20"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Element Patlamalarından gelen Kritik Hasar %28 artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı %35 artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları %28 artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                   "values":  [
+                                                                  "%28",
+                                                                  "%35",
+                                                                  "%28"
+                                                              ]
+                                               },
+                                        "substatText":  "Kritik Oranı",
+                                        "weaponText":  "Kılıç",
+                                        "name":  "Karanlık Ayin Kılıcı",
+                                        "effectTemplateRaw":  "Element Patlamalarından gelen Kritik Hasar \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                        "r1":  {
+                                                   "description":  "Element Patlamalarından gelen Kritik Hasar %16 artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı %20 artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları %16 artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir.",
+                                                   "values":  [
+                                                                  "%16",
+                                                                  "%20",
+                                                                  "%16"
+                                                              ]
+                                               },
+                                        "effectName":  "Gündüz Kralı\u0027nın Işıltısı"
+                                    },
                     "fangofthemountainking":  {
                                                   "r3":  {
                                                              "description":  "Bir Element Becerisi ile bir düşmana vurduktan sonra 1 Kubbenin Lütfu kademesi kazanılır. Bu etki her 0,5 saniyede bir tetiklenebilir. Yakındaki bir grup üyesi Yanma veya Filizlenme tepkimesi tetiklediğinde bunu kuşanan karakter 3 kademe kazanır. Bu etki ise 2 saniyede bir ve tetikleyen grup üyesi savaş alanında olmasa da tetiklenebilir. Kubbenin Lütfu: 6 saniyeliğine Element Becerisi ve Element Patlaması Hasarı %15 artar. 6 kademeye kadar birikebilir. Her kademenin süresi birbirinden bağımsızdır.",
@@ -13867,43 +14076,63 @@
                                                },
                                         "effectName":  "Yabandaki İzin Sonu"
                                     },
-                    "thestringless":  {
-                                          "r3":  {
-                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %36 artırır.",
-                                                     "values":  [
-                                                                    "%36"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %48 artırır.",
-                                                     "values":  [
-                                                                    "%48"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %30 artırır.",
-                                                     "values":  [
-                                                                    "%30"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %42 artırır.",
-                                                     "values":  [
-                                                                    "%42"
-                                                                ]
-                                                 },
-                                          "substatText":  "Element Ustalığı",
-                                          "weaponText":  "Yay",
-                                          "name":  "Kirişsiz Yay",
-                                          "effectTemplateRaw":  "Element Becerisi ve Element Patlaması Hasarını \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artırır.",
-                                          "r1":  {
-                                                     "description":  "Element Becerisi ve Element Patlaması Hasarını %24 artırır.",
-                                                     "values":  [
-                                                                    "%24"
-                                                                ]
-                                                 },
-                                          "effectName":  "Oksuz Şarkı"
-                                      },
+                    "thedaybreakchronicles":  {
+                                                  "r3":  {
+                                                             "description":  "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı %90 artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye %15 azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu %90 olana kadar %15 artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir tetiklenebilir. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı %30 olur.",
+                                                             "values":  [
+                                                                            "%90",
+                                                                            "%15",
+                                                                            "%90",
+                                                                            "%15",
+                                                                            "%30"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı %120 artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye %20 azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu %120 olana kadar %20 artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı %40 olur.",
+                                                             "values":  [
+                                                                            "%120",
+                                                                            "%20",
+                                                                            "%120",
+                                                                            "%20",
+                                                                            "%40"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı %75 artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye %12,5 azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu %75 olana kadar %12,5 artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı %25 olur.",
+                                                             "values":  [
+                                                                            "%75",
+                                                                            "%12,5",
+                                                                            "%75",
+                                                                            "%12,5",
+                                                                            "%25"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı %105 artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye %17,5 azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu %105 olana kadar %17,5 artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı %35 olur.",
+                                                             "values":  [
+                                                                            "%105",
+                                                                            "%17,5",
+                                                                            "%105",
+                                                                            "%17,5",
+                                                                            "%35"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Kritik Hasar",
+                                                  "weaponText":  "Yay",
+                                                  "name":  "Şafak Günlükleri",
+                                                  "effectTemplateRaw":  "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e olana kadar \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı \u003ccolor=#99FFFFFF\u003e{4}\u003c/color\u003e olur.",
+                                                  "r1":  {
+                                                             "description":  "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı %60 artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye %10 azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu %60 olana kadar %10 artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı %20 olur.",
+                                                             "values":  [
+                                                                            "%60",
+                                                                            "%10",
+                                                                            "%60",
+                                                                            "%10",
+                                                                            "%20"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Zamanın Ötesindeki Ağıt"
+                                              },
                     "lumidouceelegy":  {
                                            "r3":  {
                                                       "description":  "Saldırı %23 artar. Kuşanan karakter düşman üzerinde Yanma tepkimesi tetikledikten veya Yanma etkisindeki bir düşmana Doğa Hasarı verdikten sonra verilen Hasar %28 artar. Bu etki 8sn sürer ve en fazla 2 kademe birikebilir. 2 kademeye ulaşıldığında ya da 2 kademedeyken süresi yenilendiğinde 14 Enerji kazanılır. Bu şekilde her 12 saniyede bir Enerji kazanılabilir. Yukarıdaki 2 etki, karakter savaş alanında olmasa da tetiklenebilir.",
@@ -16356,10 +16585,10 @@
                                                       "name":  "İnşa Uzmanı Meka",
                                                       "specialname":  null
                                                   },
-                    "yumkasauruswarriorwhirlingleaves":  {
-                                                             "name":  "Yumkazor Savaşçısı: Dönen Yapraklar",
-                                                             "specialname":  null
-                                                         },
+                    "superheavylandrovermechanizedfortress":  {
+                                                                  "name":  "Süper Ağır Kara Gezgini: Mekanik Kale",
+                                                                  "specialname":  null
+                                                              },
                     "treasurehoardersmarksman":  {
                                                      "name":  "Hazine Avcıları: Nişancı",
                                                      "specialname":  null
@@ -16824,6 +17053,10 @@
                                            "name":  "Yalnız Suanni",
                                            "specialname":  null
                                        },
+                    "yumkasauruswarriorwhirlingleaves":  {
+                                                             "name":  "Yumkazor Savaşçısı: Dönen Yapraklar",
+                                                             "specialname":  null
+                                                         },
                     "cryoregisvine":  {
                                           "name":  "Yalancı Buz Ağacı",
                                           "specialname":  null

@@ -627,6 +627,9 @@
                       "richredbrocade":  {
                                              "name":  "Rich Red Brocade"
                                          },
+                      "cyclicmilitarykuuvahkicore":  {
+                                                         "name":  "Cyclic Military Kuuvahki Core"
+                                                     },
                       "operativesconstancy":  {
                                                   "name":  "Operative\u0027s Constancy"
                                               },
@@ -954,9 +957,9 @@
                       "crystallinecystdust":  {
                                                   "name":  "Crystalline Cyst Dust"
                                               },
-                      "shuttleofodara":  {
-                                             "name":  "Shuttle of Odara"
-                                         },
+                      "guidetomoonlight":  {
+                                               "name":  "Guide to Moonlight"
+                                           },
                       "lazuriteaxemarlin":  {
                                                 "name":  "Lazurite Axe Marlin"
                                             },
@@ -1470,6 +1473,9 @@
                       "plaustriteshard":  {
                                               "name":  "Plaustrite Shard"
                                           },
+                      "refinedheart":  {
+                                           "name":  "Refined Heart"
+                                       },
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027s Wisdom"
                                           },
@@ -1890,6 +1896,9 @@
                       "quenepaberry":  {
                                            "name":  "Quenepa Berry"
                                        },
+                      "shuttleofodara":  {
+                                             "name":  "Shuttle of Odara"
+                                         },
                       "blazeoflongnightflint":  {
                                                     "name":  "Blaze of Long Night Flint"
                                                 },
@@ -2694,9 +2703,6 @@
                       "frostetchedwarrant":  {
                                                  "name":  "Frost-Etched Warrant"
                                              },
-                      "guidetomoonlight":  {
-                                               "name":  "Guide to Moonlight"
-                                           },
                       "frostnightsglory":  {
                                                "name":  "Frostnight\u0027s Glory"
                                            },
@@ -3328,6 +3334,47 @@
                                          "region":  "Fontaine",
                                          "gender":  "ผู้หญิง"
                                      },
+                       "jahoda":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Rogue\u0027s Quick Thinking",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eลัคนาจันทร์ - จรัสแสง\u003c/color\u003e: ในพรสวรรค์เพิ่มเติม{LINK#P1242101}\u003ccolor=#FFD780FF\u003e \"Plan to Get Paid\"\u003c/color\u003e{/LINK} นอกจากประเภทของธาตุที่มีจำนวนตัวละครมากที่สุดแล้ว Jahoda ยังสามารถแอบบันทึกประเภทธาตุที่มีจำนวนตัวละครมากที่สุดในบรรดาประเภทธาตุที่เหลือ และทำให้เอฟเฟกต์ที่สอดคล้องกับประเภทของธาตุสูงสุด 2 ประเภทมีผล โดยเอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Plan to Get Paid\" ก่อน",
+                                                                        "description":  "ลัคนาจันทร์ - จรัสแสง: ในพรสวรรค์เพิ่มเติม** \"Plan to Get Paid\"** นอกจากประเภทของธาตุที่มีจำนวนตัวละครมากที่สุดแล้ว Jahoda ยังสามารถแอบบันทึกประเภทธาตุที่มีจำนวนตัวละครมากที่สุดในบรรดาประเภทธาตุที่เหลือ และทำให้เอฟเฟกต์ที่สอดคล้องกับประเภทของธาตุสูงสุด 2 ประเภทมีผล โดยเอฟเฟกต์นี้จำเป็นต้องปลดล็อกพรสวรรค์เพิ่มเติม \"Plan to Get Paid\" ก่อน"
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Wild Berry Amid the Dust",
+                                                                        "descriptionRaw":  "เมื่อ{LINK#N11240002}\u003ccolor=#FFD780FF\u003eอุปกรณ์ช่วยประสานงานในบ้านรูปแมว\u003c/color\u003e{/LINK} จากท่าไม้ตาย \u003ccolor=#FFD780FF\u003eHidden Aces: Seven Tools of the Hunter\u003c/color\u003e เกิดการเปลี่ยนแปลงธาตุ จะฟื้นฟูพลังงานธาตุให้ Jahoda 4 หน่วย",
+                                                                        "description":  "เมื่อ**อุปกรณ์ช่วยประสานงานในบ้านรูปแมว** จากท่าไม้ตาย Hidden Aces: Seven Tools of the Hunter เกิดการเปลี่ยนแปลงธาตุ จะฟื้นฟูพลังงานธาตุให้ Jahoda 4 หน่วย"
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Desperate Gamble",
+                                                                        "descriptionRaw":  "เพิ่มเลเวลสกิลของท่าไม้ตาย \u003ccolor=#FFD780FF\u003e{LINK#S11245}Hidden Aces: Seven Tools of the Hunter{/LINK}\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                        "description":  "เพิ่มเลเวลสกิลของท่าไม้ตาย **Hidden Aces: Seven Tools of the Hunter** ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "The Greatest Treasure",
+                                                                        "descriptionRaw":  "เพิ่มเลเวลสกิลของสกิลธาตุ \u003ccolor=#FFD780FF\u003e{LINK#S11242}Savvy Strategy: Splitting the Spoils{/LINK}\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                        "description":  "เพิ่มเลเวลสกิลของสกิลธาตุ **Savvy Strategy: Splitting the Spoils** ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "The Littlest Luck",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eลัคนาจันทร์ - จรัสแสง\u003c/color\u003e: ภายใน 20 วินาทีหลังจาก{LINK#N11240001}\u003ccolor=#FFD780FF\u003eขวดสมบัติลับคร่อกฟี้\u003c/color\u003e{/LINK} จากสกิลธาตุ \u003ccolor=#FFD780FF\u003eSavvy Strategy: Splitting the Spoils\u003c/color\u003e เต็มแล้ว อัตราคริของตัวละครลัคนาจันทร์ในทีมที่อยู่ใกล้เคียงจะเพิ่มขึ้น 5% และความแรงคริเพิ่มขึ้น 40%",
+                                                                        "description":  "ลัคนาจันทร์ - จรัสแสง: ภายใน 20 วินาทีหลังจาก**ขวดสมบัติลับคร่อกฟี้** จากสกิลธาตุ Savvy Strategy: Splitting the Spoils เต็มแล้ว อัตราคริของตัวละครลัคนาจันทร์ในทีมที่อยู่ใกล้เคียงจะเพิ่มขึ้น 5% และความแรงคริเพิ่มขึ้น 40%"
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "One More Flask!",
+                                                                        "descriptionRaw":  "เมื่อ{LINK#N11240001}\u003ccolor=#FFD780FF\u003eขวดสมบัติลับคร่อกฟี้\u003c/color\u003e{/LINK} จากสกิลธาตุ \u003ccolor=#FFD780FF\u003eSavvy Strategy: Splitting the Spoils\u003c/color\u003e ยิง\u003ccolor=#FFD780FF\u003eลูกบอลแมวนุ่มนิ่ม\u003c/color\u003eโจมตีถูกศัตรู จะมีโอกาส 50% ที่ลูกบอลจะดีดตัวหนึ่งครั้ง สร้างความเสียหายธาตุที่เกี่ยวข้องแก่ศัตรูที่อยู่ใกล้เคียง",
+                                                                        "description":  "เมื่อ**ขวดสมบัติลับคร่อกฟี้** จากสกิลธาตุ Savvy Strategy: Splitting the Spoils ยิงลูกบอลแมวนุ่มนิ่มโจมตีถูกศัตรู จะมีโอกาส 50% ที่ลูกบอลจะดีดตัวหนึ่งครั้ง สร้างความเสียหายธาตุที่เกี่ยวข้องแก่ศัตรูที่อยู่ใกล้เคียง"
+                                                                    }
+                                                         },
+                                      "elementText":  "ลม",
+                                      "fullname":  null,
+                                      "weaponText":  "ธนู",
+                                      "name":  "Jahoda",
+                                      "substatText":  "โบนัสการรักษา",
+                                      "region":  "Nod-Krai",
+                                      "gender":  "ผู้หญิง"
+                                  },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -4766,6 +4813,47 @@
                                       "region":  "Natlan",
                                       "gender":  "ชาย"
                                   },
+                       "durin":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Unground Visions",
+                                                                       "descriptionRaw":  "ภายใน 20 วินาทีหลังจาก Durin ใช้ท่าไม้ตาย หลังจากตัวละครในทีมที่อยู่ใกล้เคียงทำให้เกิดปฏิกิริยาระเหย, ละลาย, ติดไฟ, โอเวอร์โหลด, กระจายธาตุไฟ หรือตกผลึกธาตุไฟแก่ศัตรู หรือสร้าง\u003ccolor=#FF9999FF\u003eความเสียหายไฟ\u003c/color\u003eหรือ\u003ccolor=#99FF88FF\u003eความเสียหายไม้\u003c/color\u003e แก่ศัตรูที่อยู่ในสถานะติดไฟ \u003ccolor=#FF9999FF\u003eความเสียหายไฟ\u003c/color\u003e และความเสียหายธาตุที่เกี่ยวข้องกับปฏิกิริยาดังกล่าว ที่ตัวละครในทีมที่อยู่ใกล้เคียงสร้างขึ้น จะเพิ่มขึ้น 50% เป็นเวลา 6 วินาที",
+                                                                       "description":  "ภายใน 20 วินาทีหลังจาก Durin ใช้ท่าไม้ตาย หลังจากตัวละครในทีมที่อยู่ใกล้เคียงทำให้เกิดปฏิกิริยาระเหย, ละลาย, ติดไฟ, โอเวอร์โหลด, กระจายธาตุไฟ หรือตกผลึกธาตุไฟแก่ศัตรู หรือสร้างความเสียหายไฟหรือความเสียหายไม้ แก่ศัตรูที่อยู่ในสถานะติดไฟ ความเสียหายไฟ และความเสียหายธาตุที่เกี่ยวข้องกับปฏิกิริยาดังกล่าว ที่ตัวละครในทีมที่อยู่ใกล้เคียงสร้างขึ้น จะเพิ่มขึ้น 50% เป็นเวลา 6 วินาที"
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Emanare\u0027s Source",
+                                                                       "descriptionRaw":  "ความเสียหายจากท่าไม้ตายของ Durin เพิ่มขึ้น 40% นอกจากนี้ เมื่อทำให้เกิดเอฟเฟกต์ที่ใช้ \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e ในกลุ่มดาว \u003ccolor=#FFD780FF\u003e{LINK#T1231}Adamah\u0027s Redemption{/LINK}\u003c/color\u003e มีโอกาส 30% ที่จะไม่ใช้ Cycle of Enlightenment",
+                                                                       "description":  "ความเสียหายจากท่าไม้ตายของ Durin เพิ่มขึ้น 40% นอกจากนี้ เมื่อทำให้เกิดเอฟเฟกต์ที่ใช้ Cycle of Enlightenment ในกลุ่มดาว **Adamah\u0027s Redemption** มีโอกาส 30% ที่จะไม่ใช้ Cycle of Enlightenment"
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Flame Mirror\u0027s Revelation",
+                                                                       "descriptionRaw":  "เพิ่มเลเวลสกิลของท่าไม้ตาย \u003ccolor=#FFD780FF\u003e{LINK#S11235}Principle of Purity: As the Light Shifts{/LINK}\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                       "description":  "เพิ่มเลเวลสกิลของท่าไม้ตาย **Principle of Purity: As the Light Shifts** ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Scouring Flame\u0027s Sundering",
+                                                                       "descriptionRaw":  "เพิ่มเลเวลสกิลของสกิลธาตุ \u003ccolor=#FFD780FF\u003e{LINK#S11232}Binary Form: Convergence and Division{/LINK}\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                       "description":  "เพิ่มเลเวลสกิลของสกิลธาตุ **Binary Form: Convergence and Division** ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Dual Birth",
+                                                                       "descriptionRaw":  "ความเสียหายจากท่าไม้ตายของ Durin จะไม่สนใจพลังป้องกัน 30% ของศัตรู\nนอกจากนี้ ท่าไม้ตายของ Durin \u003ccolor=#FFD780FF\u003ePrinciple of Purity: As the Light Shifts\u003c/color\u003e และ \u003ccolor=#FFD780FF\u003ePrinciple of Darkness: As the Stars Smolder\u003c/color\u003e จะได้รับการเสริมพลัง:\n·เมื่อท่าไม้ตาย \u003ccolor=#FFD780FF\u003ePrinciple of Purity: As the Light Shifts\u003c/color\u003e และ \u003ccolor=#FFD780FF\u003e\"มังกรเพลิงสีขาว\"\u003c/color\u003e โจมตีถูกศัตรู พลังป้องกันของศัตรูดังกล่าวจะลดลง 30% เป็นเวลา 6 วินาที;\n·ความเสียหายจากท่าไม้ตาย \u003ccolor=#FFD780FF\u003ePrinciple of Darkness: As the Stars Smolder\u003c/color\u003e และ \u003ccolor=#FFD780FF\u003e\"มังกรกาฬกัดกร่อน\"\u003c/color\u003e จะไม่สนใจพลังป้องกันของศัตรูเพิ่มอีก 40% ของพลังป้องกันของศัตรู",
+                                                                       "description":  "ความเสียหายจากท่าไม้ตายของ Durin จะไม่สนใจพลังป้องกัน 30% ของศัตรู\nนอกจากนี้ ท่าไม้ตายของ Durin Principle of Purity: As the Light Shifts และ Principle of Darkness: As the Stars Smolder จะได้รับการเสริมพลัง:\n·เมื่อท่าไม้ตาย Principle of Purity: As the Light Shifts และ \"มังกรเพลิงสีขาว\" โจมตีถูกศัตรู พลังป้องกันของศัตรูดังกล่าวจะลดลง 30% เป็นเวลา 6 วินาที;\n·ความเสียหายจากท่าไม้ตาย Principle of Darkness: As the Stars Smolder และ \"มังกรกาฬกัดกร่อน\" จะไม่สนใจพลังป้องกันของศัตรูเพิ่มอีก 40% ของพลังป้องกันของศัตรู"
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Adamah\u0027s Redemption",
+                                                                       "descriptionRaw":  "หลังจากใช้ท่าไม้ตาย จะสร้างเอฟเฟกต์ที่แตกต่างกัน ตามท่าไม้ตายที่ Durin ใช้:\n·\u003ccolor=#FFD780FF\u003ePrinciple of Purity: As the Light Shifts\u003c/color\u003e: ตัวละครอื่นทั้งหมดในทีมที่อยู่ใกล้เคียงจะได้รับ \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e 20 ชั้น เป็นเวลา 20 วินาที เมื่อตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นที่มี Cycle of Enlightenment สร้างความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศ, สกิลธาตุ หรือท่าไม้ตาย จะใช้ Cycle of Enlightenment หนึ่งชั้น เพื่อเพิ่มความเสียหายที่สร้าง เท่ากับ 60% ของพลังโจมตีของ Durin โดยจำนวนครั้งการเกิดเอฟเฟกต์ของตัวละครในทีมที่มี Cycle of Enlightenment จะคิดแยกกัน\n·\u003ccolor=#FFD780FF\u003ePrinciple of Darkness: As the Stars Smolder\u003c/color\u003e: Durin จะได้รับ \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e 20 ชั้น เป็นเวลา 20 วินาที เมื่อ Durin สร้างความเสียหายจากท่าไม้ตาย จะใช้ Cycle of Enlightenment 2 ชั้น เพื่อเพิ่มความเสียหายที่สร้าง เท่ากับ 150% ของพลังโจมตีของ Durin\nเมื่อใช้ท่าไม้ตาย จำนวนชั้นของ \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e จะถูกรีเซ็ต",
+                                                                       "description":  "หลังจากใช้ท่าไม้ตาย จะสร้างเอฟเฟกต์ที่แตกต่างกัน ตามท่าไม้ตายที่ Durin ใช้:\n·Principle of Purity: As the Light Shifts: ตัวละครอื่นทั้งหมดในทีมที่อยู่ใกล้เคียงจะได้รับ Cycle of Enlightenment 20 ชั้น เป็นเวลา 20 วินาที เมื่อตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นที่มี Cycle of Enlightenment สร้างความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศ, สกิลธาตุ หรือท่าไม้ตาย จะใช้ Cycle of Enlightenment หนึ่งชั้น เพื่อเพิ่มความเสียหายที่สร้าง เท่ากับ 60% ของพลังโจมตีของ Durin โดยจำนวนครั้งการเกิดเอฟเฟกต์ของตัวละครในทีมที่มี Cycle of Enlightenment จะคิดแยกกัน\n·Principle of Darkness: As the Stars Smolder: Durin จะได้รับ Cycle of Enlightenment 20 ชั้น เป็นเวลา 20 วินาที เมื่อ Durin สร้างความเสียหายจากท่าไม้ตาย จะใช้ Cycle of Enlightenment 2 ชั้น เพื่อเพิ่มความเสียหายที่สร้าง เท่ากับ 150% ของพลังโจมตีของ Durin\nเมื่อใช้ท่าไม้ตาย จำนวนชั้นของ Cycle of Enlightenment จะถูกรีเซ็ต"
+                                                                   }
+                                                        },
+                                     "elementText":  "ไฟ",
+                                     "fullname":  null,
+                                     "weaponText":  "ดาบ",
+                                     "name":  "Durin",
+                                     "substatText":  "ความแรงคริ",
+                                     "region":  "Mondstadt",
+                                     "gender":  "ชาย"
+                                 },
                        "mualani":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -4852,8 +4940,8 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Opening of Phanerozoic",
-                                                                        "descriptionRaw":  "เมื่อ Transient Blossom ที่เกิดจาก \u003ccolor=#FFD780FF\u003eAbiogenesis: Solar Isotoma\u003c/color\u003e เบ่งบาน จะมอบเอฟเฟกต์ Fatal Reckoning ให้แก่ Albedo เป็นเวลา 30 วินาที:\n·เมื่อปล่อย \u003ccolor=#FFD780FF\u003eRite of Progeniture: Tectonic Tide\u003c/color\u003e จะเป็นการล้างเอฟเฟกต์ทั้งหมดของ Fatal Reckoning และเพิ่มความเสียหายของ Rite of Progeniture: Tectonic Tide และ Fatal Blossom ตามจำนวนชั้นของเอฟเฟกต์ที่ถูกล้าง;\n·Fatal Reckoning แต่ละชั้นที่ถูกใช้ จะเพิ่มความเสียหายเท่ากับ 30% ของพลังป้องกันของ Albedo ให้กับ Rite of Progeniture: Tectonic Tide และ Fatal Blossom;\n·เอฟเฟกต์ดังกล่าวสามารถซ้อนทับได้มากสุด 4 ครั้ง",
-                                                                        "description":  "เมื่อ Transient Blossom ที่เกิดจาก Abiogenesis: Solar Isotoma เบ่งบาน จะมอบเอฟเฟกต์ Fatal Reckoning ให้แก่ Albedo เป็นเวลา 30 วินาที:\n·เมื่อปล่อย Rite of Progeniture: Tectonic Tide จะเป็นการล้างเอฟเฟกต์ทั้งหมดของ Fatal Reckoning และเพิ่มความเสียหายของ Rite of Progeniture: Tectonic Tide และ Fatal Blossom ตามจำนวนชั้นของเอฟเฟกต์ที่ถูกล้าง;\n·Fatal Reckoning แต่ละชั้นที่ถูกใช้ จะเพิ่มความเสียหายเท่ากับ 30% ของพลังป้องกันของ Albedo ให้กับ Rite of Progeniture: Tectonic Tide และ Fatal Blossom;\n·เอฟเฟกต์ดังกล่าวสามารถซ้อนทับได้มากสุด 4 ครั้ง"
+                                                                        "descriptionRaw":  "เมื่อ Transient Blossom ที่เกิดจาก \u003ccolor=#FFD780FF\u003eAbiogenesis: Solar Isotoma\u003c/color\u003e งอกเงย จะมอบเอฟเฟกต์ Fatal Reckoning ให้แก่ Albedo เป็นเวลา 30 วินาที:\n·เมื่อปล่อย \u003ccolor=#FFD780FF\u003eRite of Progeniture: Tectonic Tide\u003c/color\u003e จะเป็นการล้างเอฟเฟกต์ทั้งหมดของ Fatal Reckoning และเพิ่มความเสียหายของ Rite of Progeniture: Tectonic Tide และ Fatal Blossom ตามจำนวนชั้นของเอฟเฟกต์ที่ถูกล้าง;\n·Fatal Reckoning แต่ละชั้นที่ถูกใช้ จะเพิ่มความเสียหายเท่ากับ 30% ของพลังป้องกันของ Albedo ให้กับ Rite of Progeniture: Tectonic Tide และ Fatal Blossom;\n·เอฟเฟกต์ดังกล่าวสามารถซ้อนทับได้มากสุด 4 ครั้ง",
+                                                                        "description":  "เมื่อ Transient Blossom ที่เกิดจาก Abiogenesis: Solar Isotoma งอกเงย จะมอบเอฟเฟกต์ Fatal Reckoning ให้แก่ Albedo เป็นเวลา 30 วินาที:\n·เมื่อปล่อย Rite of Progeniture: Tectonic Tide จะเป็นการล้างเอฟเฟกต์ทั้งหมดของ Fatal Reckoning และเพิ่มความเสียหายของ Rite of Progeniture: Tectonic Tide และ Fatal Blossom ตามจำนวนชั้นของเอฟเฟกต์ที่ถูกล้าง;\n·Fatal Reckoning แต่ละชั้นที่ถูกใช้ จะเพิ่มความเสียหายเท่ากับ 30% ของพลังป้องกันของ Albedo ให้กับ Rite of Progeniture: Tectonic Tide และ Fatal Blossom;\n·เอฟเฟกต์ดังกล่าวสามารถซ้อนทับได้มากสุด 4 ครั้ง"
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Descent of Divinity",
@@ -4877,8 +4965,8 @@
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Flower of Eden",
-                                                                        "descriptionRaw":  "เมื่อ Transient Blossom ที่เกิดขึ้นจาก \u003ccolor=#FFD780FF\u003eAbiogenesis: Solar Isotoma\u003c/color\u003e ของ Albedo เบ่งบาน จะฟื้นฟูพลังงานธาตุ 1.2 หน่วย ให้แก่ตัวของ Albedo เอง",
-                                                                        "description":  "เมื่อ Transient Blossom ที่เกิดขึ้นจาก Abiogenesis: Solar Isotoma ของ Albedo เบ่งบาน จะฟื้นฟูพลังงานธาตุ 1.2 หน่วย ให้แก่ตัวของ Albedo เอง"
+                                                                        "descriptionRaw":  "เมื่อ Transient Blossom ที่เกิดขึ้นจาก \u003ccolor=#FFD780FF\u003eAbiogenesis: Solar Isotoma\u003c/color\u003e ของ Albedo งอกเงย จะฟื้นฟูพลังงานธาตุ 1.2 หน่วย ให้แก่ตัวของ Albedo เอง",
+                                                                        "description":  "เมื่อ Transient Blossom ที่เกิดขึ้นจาก Abiogenesis: Solar Isotoma ของ Albedo งอกเงย จะฟื้นฟูพลังงานธาตุ 1.2 หน่วย ให้แก่ตัวของ Albedo เอง"
                                                                     }
                                                          },
                                       "elementText":  "หิน",
@@ -7640,6 +7728,43 @@
                                                     },
                                              "effectName":  "Offering Unto Wind and Sun"
                                          },
+                    "rainbowserpentsrainbow":  {
+                                                   "r3":  {
+                                                              "description":  "เมื่อผู้สวมใส่ที่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 42% เป็นเวลา 8 วินาที",
+                                                              "values":  [
+                                                                             "42%"
+                                                                         ]
+                                                          },
+                                                   "r5":  {
+                                                              "description":  "เมื่อผู้สวมใส่ที่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 56% เป็นเวลา 8 วินาที",
+                                                              "values":  [
+                                                                             "56%"
+                                                                         ]
+                                                          },
+                                                   "r2":  {
+                                                              "description":  "เมื่อผู้สวมใส่ที่อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 35% เป็นเวลา 8 วินาที",
+                                                              "values":  [
+                                                                             "35%"
+                                                                         ]
+                                                          },
+                                                   "r4":  {
+                                                              "description":  "เมื่อผู้สวมใส่ที่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 49% เป็นเวลา 8 วินาที",
+                                                              "values":  [
+                                                                             "49%"
+                                                                         ]
+                                                          },
+                                                   "substatText":  "การฟื้นฟูพลังงาน",
+                                                   "weaponText":  "ธนู",
+                                                   "name":  "Rainbow Serpent\u0027s Rain Bow",
+                                                   "effectTemplateRaw":  "เมื่อผู้สวมใส่ที่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e เป็นเวลา 8 วินาที",
+                                                   "r1":  {
+                                                              "description":  "เมื่อผู้สวมใส่ที่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ โจมตีโดนศัตรู พลังโจมตีจะเพิ่มขึ้น 28% เป็นเวลา 8 วินาที",
+                                                              "values":  [
+                                                                             "28%"
+                                                                         ]
+                                                          },
+                                                   "effectName":  "Astral Whispers Beyond the Sacred Throne"
+                                               },
                     "recurvebow":  {
                                        "r3":  {
                                                   "description":  "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น 12%",
@@ -8203,6 +8328,43 @@
                                                       },
                                                "effectName":  "Full Circle"
                                            },
+                    "thestringless":  {
+                                          "r3":  {
+                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 36%",
+                                                     "values":  [
+                                                                    "36%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 48%",
+                                                     "values":  [
+                                                                    "48%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 30%",
+                                                     "values":  [
+                                                                    "30%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 42%",
+                                                     "values":  [
+                                                                    "42%"
+                                                                ]
+                                                 },
+                                          "substatText":  "ความชำนาญธาตุ",
+                                          "weaponText":  "ธนู",
+                                          "name":  "The Stringless",
+                                          "effectTemplateRaw":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e",
+                                          "r1":  {
+                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 24%",
+                                                     "values":  [
+                                                                    "24%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Arrowless Song"
+                                      },
                     "elegyfortheend":  {
                                            "r3":  {
                                                       "description":  "ส่วนหนึ่งของ Millennial Movement ที่ล่องลอยอยู่ในอากาศ ช่วยเพิ่มความชำนาญธาตุขึ้น 90 หน่วย; เมื่อตัวละครที่สวมใส่ใช้สกิลธาตุหรือท่าไม้ตายโจมตีถูกศัตรู ตัวละครจะได้รับ Sigil of Remembrance หนึ่งอัน โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.2 วินาที และจะยังได้รับแม้ว่าตัวละครจะอยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้แล้วก็ตาม เมื่อครอบครอง Sigils of Remembrance ครบ 4 อัน จะใช้ Sigils of Remembrance ทั้งหมดเพื่อมอบเอฟเฟกต์ Millennial Movement: Farewell Song ให้แก่ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียงเป็นเวลา 12 วินาที: ความชำนาญธาตุเพิ่มขึ้น 150 หน่วย พลังโจมตีเพิ่มขึ้น 30% และจะไม่สามารถรับ Sigils of Remembrance ได้อีกภายในเวลา 20 วินาที หลังจากเอฟเฟกต์บัฟนี้แสดงผล โดยที่ในบรรดาเอฟเฟกต์บัฟต่าง ๆ ที่เกิดขึ้นโดย Millennial Movement นั้น เอฟเฟกต์บัฟที่เป็นประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้",
@@ -11692,6 +11854,53 @@
                                                  },
                                           "effectName":  "Windfall"
                                       },
+                    "athameartis":  {
+                                        "r3":  {
+                                                   "description":  "ความแรงคริที่เกิดจากท่าไม้ตายเพิ่มขึ้น 24%; เมื่อท่าไม้ตายโจมตีโดนศัตรู จะได้รับเอฟเฟกต์ Blade of the Daylight Hours: พลังโจมตีเพิ่มขึ้น 30% และพลังโจมตีของตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ใกล้เคียง ยกเว้นผู้สวมใส่เพิ่มขึ้น 24% เป็นเวลา 3 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite แล้ว เอฟเฟกต์ Blade of the Daylight Hours จะเพิ่มขึ้นอีก 75% โดยเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                   "values":  [
+                                                                  "24%",
+                                                                  "30%",
+                                                                  "24%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "ความแรงคริที่เกิดจากท่าไม้ตายเพิ่มขึ้น 32%; เมื่อท่าไม้ตายโจมตีโดนศัตรู จะได้รับเอฟเฟกต์ Blade of the Daylight Hours: พลังโจมตีเพิ่มขึ้น 40% และพลังโจมตีของตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ใกล้เคียง ยกเว้นผู้สวมใส่เพิ่มขึ้น 32% เป็นเวลา 3 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite แล้ว เอฟเฟกต์ Blade of the Daylight Hours จะเพิ่มขึ้นอีก 75% โดยเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                   "values":  [
+                                                                  "32%",
+                                                                  "40%",
+                                                                  "32%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "ความแรงคริที่เกิดจากท่าไม้ตายเพิ่มขึ้น 20%; เมื่อท่าไม้ตายโจมตีโดนศัตรู จะได้รับเอฟเฟกต์ Blade of the Daylight Hours: พลังโจมตีเพิ่มขึ้น 25% และพลังโจมตีของตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ใกล้เคียง ยกเว้นผู้สวมใส่เพิ่มขึ้น 20% เป็นเวลา 3 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite แล้ว เอฟเฟกต์ Blade of the Daylight Hours จะเพิ่มขึ้นอีก 75% โดยเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "25%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "ความแรงคริที่เกิดจากท่าไม้ตายเพิ่มขึ้น 28%; เมื่อท่าไม้ตายโจมตีโดนศัตรู จะได้รับเอฟเฟกต์ Blade of the Daylight Hours: พลังโจมตีเพิ่มขึ้น 35% และพลังโจมตีของตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ใกล้เคียง ยกเว้นผู้สวมใส่เพิ่มขึ้น 28% เป็นเวลา 3 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite แล้ว เอฟเฟกต์ Blade of the Daylight Hours จะเพิ่มขึ้นอีก 75% โดยเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                   "values":  [
+                                                                  "28%",
+                                                                  "35%",
+                                                                  "28%"
+                                                              ]
+                                               },
+                                        "substatText":  "อัตราคริ",
+                                        "weaponText":  "ดาบ",
+                                        "name":  "Athame Artis",
+                                        "effectTemplateRaw":  "ความแรงคริที่เกิดจากท่าไม้ตายเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e; เมื่อท่าไม้ตายโจมตีโดนศัตรู จะได้รับเอฟเฟกต์ Blade of the Daylight Hours: พลังโจมตีเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e และพลังโจมตีของตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ใกล้เคียง ยกเว้นผู้สวมใส่เพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e เป็นเวลา 3 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite แล้ว เอฟเฟกต์ Blade of the Daylight Hours จะเพิ่มขึ้นอีก 75% โดยเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                        "r1":  {
+                                                   "description":  "ความแรงคริที่เกิดจากท่าไม้ตายเพิ่มขึ้น 16%; เมื่อท่าไม้ตายโจมตีโดนศัตรู จะได้รับเอฟเฟกต์ Blade of the Daylight Hours: พลังโจมตีเพิ่มขึ้น 20% และพลังโจมตีของตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ใกล้เคียง ยกเว้นผู้สวมใส่เพิ่มขึ้น 16% เป็นเวลา 3 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite แล้ว เอฟเฟกต์ Blade of the Daylight Hours จะเพิ่มขึ้นอีก 75% โดยเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "20%",
+                                                                  "16%"
+                                                              ]
+                                               },
+                                        "effectName":  "Day King\u0027s Splendor Solis"
+                                    },
                     "fangofthemountainking":  {
                                                   "r3":  {
                                                              "description":  "หลังจากสกิลธาตุโจมตีโดนศัตรู จะได้รับ \"Canopy\u0027s Favor\" 1 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 1 ครั้ง ในทุก 0.5 วินาที; หลังจากตัวละครในทีมทำให้เกิดปฏิกิริยาติดไฟ หรือเบ่งบาน ผู้สวมใส่จะได้รับ Canopy\u0027s Favor 3 ชั้น โดยเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 1 ครั้ง ในทุก 2 วินาที และเอฟเฟกต์นี้สามารถเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ Canopy\u0027s Favor: ความเสียหายสกิลธาตุ และความเสียหายท่าไม้ตายเพิ่มขึ้น 15% เป็นเวลา 6 วินาที ซ้อนทับได้สูงสุด 6 ชั้น โดยแต่ละชั้นจะคำนวณระยะเวลาต่อเนื่องแยกกัน",
@@ -13867,43 +14076,63 @@
                                                },
                                         "effectName":  "At the End of the Beast-Paths"
                                     },
-                    "thestringless":  {
-                                          "r3":  {
-                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 36%",
-                                                     "values":  [
-                                                                    "36%"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 48%",
-                                                     "values":  [
-                                                                    "48%"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 30%",
-                                                     "values":  [
-                                                                    "30%"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 42%",
-                                                     "values":  [
-                                                                    "42%"
-                                                                ]
-                                                 },
-                                          "substatText":  "ความชำนาญธาตุ",
-                                          "weaponText":  "ธนู",
-                                          "name":  "The Stringless",
-                                          "effectTemplateRaw":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e",
-                                          "r1":  {
-                                                     "description":  "สกิลธาตุและท่าไม้ตายสร้างความเสียหายเพิ่มขึ้น 24%",
-                                                     "values":  [
-                                                                    "24%"
-                                                                ]
-                                                 },
-                                          "effectName":  "Arrowless Song"
-                                      },
+                    "thedaybreakchronicles":  {
+                                                  "r3":  {
+                                                             "description":  "ผู้สวมใส่ได้รับ \"Stirring Dawn Breeze\": หลังออกจากสถานะต่อสู้ 3 วินาที การโจมตีปกติ, สกิลธาตุ และท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้น 90% ขณะอยู่ในสถานะต่อสู้ เอฟเฟกต์เพิ่มความเสียหายดังกล่าวจะลดลง 15% ทุกวินาที จนกว่าจะถึง 0%; เมื่อผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู เอฟเฟกต์เพิ่มความเสียหายทุกประเภทข้างต้นจะเพิ่มขึ้น 15% จนกว่าจะเพิ่มถึง 90% การโจมตีแต่ละประเภทข้างต้นจะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้งทุก 0.1 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite และผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู จะกลายเป็นทำให้เอฟเฟกต์เพิ่มความเสียหายทุกประเภทเพิ่มขึ้น 30%",
+                                                             "values":  [
+                                                                            "90%",
+                                                                            "15%",
+                                                                            "15%",
+                                                                            "90%",
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "ผู้สวมใส่ได้รับ \"Stirring Dawn Breeze\": หลังออกจากสถานะต่อสู้ 3 วินาที การโจมตีปกติ, สกิลธาตุ และท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้น 120% ขณะอยู่ในสถานะต่อสู้ เอฟเฟกต์เพิ่มความเสียหายดังกล่าวจะลดลง 20% ทุกวินาที จนกว่าจะถึง 0%; เมื่อผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู เอฟเฟกต์เพิ่มความเสียหายทุกประเภทข้างต้นจะเพิ่มขึ้น 20% จนกว่าจะเพิ่มถึง 120% การโจมตีแต่ละประเภทข้างต้นจะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้งทุก 0.1 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite และผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู จะกลายเป็นทำให้เอฟเฟกต์เพิ่มความเสียหายทุกประเภทเพิ่มขึ้น 40%",
+                                                             "values":  [
+                                                                            "120%",
+                                                                            "20%",
+                                                                            "20%",
+                                                                            "120%",
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "ผู้สวมใส่ได้รับ \"Stirring Dawn Breeze\": หลังออกจากสถานะต่อสู้ 3 วินาที การโจมตีปกติ, สกิลธาตุ และท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้น 75% ขณะอยู่ในสถานะต่อสู้ เอฟเฟกต์เพิ่มความเสียหายดังกล่าวจะลดลง 12.5% ทุกวินาที จนกว่าจะถึง 0%; เมื่อผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู เอฟเฟกต์เพิ่มความเสียหายทุกประเภทข้างต้นจะเพิ่มขึ้น 12.5% จนกว่าจะเพิ่มถึง 75% การโจมตีแต่ละประเภทข้างต้นจะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้งทุก 0.1 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite และผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู จะกลายเป็นทำให้เอฟเฟกต์เพิ่มความเสียหายทุกประเภทเพิ่มขึ้น 25%",
+                                                             "values":  [
+                                                                            "75%",
+                                                                            "12.5%",
+                                                                            "12.5%",
+                                                                            "75%",
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "ผู้สวมใส่ได้รับ \"Stirring Dawn Breeze\": หลังออกจากสถานะต่อสู้ 3 วินาที การโจมตีปกติ, สกิลธาตุ และท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้น 105% ขณะอยู่ในสถานะต่อสู้ เอฟเฟกต์เพิ่มความเสียหายดังกล่าวจะลดลง 17.5% ทุกวินาที จนกว่าจะถึง 0%; เมื่อผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู เอฟเฟกต์เพิ่มความเสียหายทุกประเภทข้างต้นจะเพิ่มขึ้น 17.5% จนกว่าจะเพิ่มถึง 105% การโจมตีแต่ละประเภทข้างต้นจะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้งทุก 0.1 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite และผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู จะกลายเป็นทำให้เอฟเฟกต์เพิ่มความเสียหายทุกประเภทเพิ่มขึ้น 35%",
+                                                             "values":  [
+                                                                            "105%",
+                                                                            "17.5%",
+                                                                            "17.5%",
+                                                                            "105%",
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "ความแรงคริ",
+                                                  "weaponText":  "ธนู",
+                                                  "name":  "The Daybreak Chronicles",
+                                                  "effectTemplateRaw":  "ผู้สวมใส่ได้รับ \"Stirring Dawn Breeze\": หลังออกจากสถานะต่อสู้ 3 วินาที การโจมตีปกติ, สกิลธาตุ และท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e ขณะอยู่ในสถานะต่อสู้ เอฟเฟกต์เพิ่มความเสียหายดังกล่าวจะลดลง \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e ทุกวินาที จนกว่าจะถึง 0%; เมื่อผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู เอฟเฟกต์เพิ่มความเสียหายทุกประเภทข้างต้นจะเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e จนกว่าจะเพิ่มถึง \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e การโจมตีแต่ละประเภทข้างต้นจะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้งทุก 0.1 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite และผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู จะกลายเป็นทำให้เอฟเฟกต์เพิ่มความเสียหายทุกประเภทเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{4}\u003c/color\u003e",
+                                                  "r1":  {
+                                                             "description":  "ผู้สวมใส่ได้รับ \"Stirring Dawn Breeze\": หลังออกจากสถานะต่อสู้ 3 วินาที การโจมตีปกติ, สกิลธาตุ และท่าไม้ตายจะสร้างความเสียหายเพิ่มขึ้น 60% ขณะอยู่ในสถานะต่อสู้ เอฟเฟกต์เพิ่มความเสียหายดังกล่าวจะลดลง 10% ทุกวินาที จนกว่าจะถึง 0%; เมื่อผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู เอฟเฟกต์เพิ่มความเสียหายทุกประเภทข้างต้นจะเพิ่มขึ้น 10% จนกว่าจะเพิ่มถึง 60% การโจมตีแต่ละประเภทข้างต้นจะทำให้เกิดเอฟเฟกต์นี้ได้มากสุดหนึ่งครั้งทุก 0.1 วินาที และเอฟเฟกต์ข้างต้นยังคงเกิดขึ้นได้ แม้ผู้สวมใส่อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ Hexerei: Secret Rite และผู้สวมใส่โจมตีด้วยการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายถูกศัตรู จะกลายเป็นทำให้เอฟเฟกต์เพิ่มความเสียหายทุกประเภทเพิ่มขึ้น 20%",
+                                                             "values":  [
+                                                                            "60%",
+                                                                            "10%",
+                                                                            "10%",
+                                                                            "60%",
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Ode Beyond Time"
+                                              },
                     "lumidouceelegy":  {
                                            "r3":  {
                                                       "description":  "พลังโจมตีเพิ่มขึ้น 23%; หลังจากผู้สวมใส่ทำให้เกิดปฏิกิริยาติดไฟแก่ศัตรู หรือสร้างความเสียหายไม้ให้กับศัตรูที่อยู่ในสถานะติดไฟ จะสร้างความเสียหายเพิ่มขึ้น 28% โดยเอฟเฟกต์นี้จะมีระยะเวลาต่อเนื่อง 8 วินาที ซ้อนทับได้สูงสุด 2 ชั้น; เมื่อซ้อนทับถึง 2 ชั้น หรือระยะเวลาต่อเนื่องของชั้นที่ 2 ถูกรีเฟรช จะฟื้นฟูพลังงานธาตุ 14 หน่วย สามารถฟื้นฟูพลังงานธาตุด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง ในทุก 12 วินาที เอฟเฟกต์ 2 ชนิดข้างต้น จะสามารถเกิดขึ้นได้ แม้ตัวละครอยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้",
@@ -16361,10 +16590,10 @@
                                                       "name":  "จักรกลก่อสร้าง",
                                                       "specialname":  null
                                                   },
-                    "yumkasauruswarriorwhirlingleaves":  {
-                                                             "name":  "Yumkasaurus Warrior: Whirling Leaves",
-                                                             "specialname":  null
-                                                         },
+                    "superheavylandrovermechanizedfortress":  {
+                                                                  "name":  "จักรกลตรวจการณ์หนักพิเศษ - ป้อมเคลื่อนที่",
+                                                                  "specialname":  null
+                                                              },
                     "treasurehoardersmarksman":  {
                                                      "name":  "กองโจรล่าสมบัติ - Marksman",
                                                      "specialname":  null
@@ -16829,6 +17058,10 @@
                                            "name":  "Solitary Suanni",
                                            "specialname":  null
                                        },
+                    "yumkasauruswarriorwhirlingleaves":  {
+                                                             "name":  "Yumkasaurus Warrior: Whirling Leaves",
+                                                             "specialname":  null
+                                                         },
                     "cryoregisvine":  {
                                           "name":  "Cryo Regisvine",
                                           "specialname":  null

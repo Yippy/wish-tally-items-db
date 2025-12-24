@@ -627,6 +627,9 @@
                       "richredbrocade":  {
                                              "name":  "Brocado rojo lujoso"
                                          },
+                      "cyclicmilitarykuuvahkicore":  {
+                                                         "name":  "Núcleo kuuvahki de bucle militar"
+                                                     },
                       "operativesconstancy":  {
                                                   "name":  "Asiduidad de Senescal"
                                               },
@@ -954,9 +957,9 @@
                       "crystallinecystdust":  {
                                                   "name":  "Polvo quistecristalino"
                                               },
-                      "shuttleofodara":  {
-                                             "name":  "Lanzadera de Odara"
-                                         },
+                      "guidetomoonlight":  {
+                                               "name":  "Guía de la luz lunar"
+                                           },
                       "lazuriteaxemarlin":  {
                                                 "name":  "Marlín lanceolado"
                                             },
@@ -1470,6 +1473,9 @@
                       "plaustriteshard":  {
                                               "name":  "Fragmento de plaustrita"
                                           },
+                      "refinedheart":  {
+                                           "name":  "Corazón templado"
+                                       },
                       "narukamiswisdom":  {
                                               "name":  "Sabiduría de Narukami"
                                           },
@@ -1890,6 +1896,9 @@
                       "quenepaberry":  {
                                            "name":  "Quenepa"
                                        },
+                      "shuttleofodara":  {
+                                             "name":  "Lanzadera de Odara"
+                                         },
                       "blazeoflongnightflint":  {
                                                     "name":  "Ardor del fuego de la larga noche"
                                                 },
@@ -2694,9 +2703,6 @@
                       "frostetchedwarrant":  {
                                                  "name":  "Distintivo escarchado"
                                              },
-                      "guidetomoonlight":  {
-                                               "name":  "Guía de la luz lunar"
-                                           },
                       "frostnightsglory":  {
                                                "name":  "Fulgor de la noche escarchada"
                                            },
@@ -3328,6 +3334,47 @@
                                          "region":  "Fontaine",
                                          "gender":  "Femenino"
                                      },
+                       "jahoda":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Rapidez mental del pícaro",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003ePresagio lunar: resplandor ascendente\u003c/color\u003e\nCon el talento de ascensión {LINK#P1242101}\u003ccolor=#FFD780FF\u003eArgucia remunerativa\u003c/color\u003e{/LINK}, aparte del tipo elemental con más personajes, Jahoda también podrá registrar el siguiente tipo elemental con más personajes para activar el efecto en un máximo de dos tipos elementales. Es necesario desbloquear el talento de ascensión “Argucia remunerativa”.",
+                                                                        "description":  "Presagio lunar: resplandor ascendente\nCon el talento de ascensión **Argucia remunerativa**, aparte del tipo elemental con más personajes, Jahoda también podrá registrar el siguiente tipo elemental con más personajes para activar el efecto en un máximo de dos tipos elementales. Es necesario desbloquear el talento de ascensión “Argucia remunerativa”."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Bayas silvestres sobre la arena",
+                                                                        "descriptionRaw":  "#Cuando los {LINK#N11240002}\u003ccolor=#FFD780FF\u003ecoordinadores gatunos de asistencia doméstica\u003c/color\u003e{/LINK} de la Habilidad Definitiva, \u003ccolor=#FFD780FF\u003eDispositivo secreto: Los siete artilugios de una cazadora\u003c/color\u003e, sufren un cambio elemental, Jahoda recupera 4{NON_BREAK_SPACE}pts. de Energía Elemental.",
+                                                                        "description":  "Cuando los **coordinadores gatunos de asistencia doméstica** de la Habilidad Definitiva, Dispositivo secreto: Los siete artilugios de una cazadora, sufren un cambio elemental, Jahoda recupera 4 pts. de Energía Elemental."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Apuesta desesperada",
+                                                                        "descriptionRaw":  "#Aumenta el nivel de habilidad de {LINK#S11245}\u003ccolor=#FFD780FF\u003eDispositivo secreto: Los siete artilugios de una cazadora\u003c/color\u003e{/LINK}{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                        "description":  "Aumenta el nivel de habilidad de **Dispositivo secreto: Los siete artilugios de una cazadora** +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "El más grandioso de los tesoros",
+                                                                        "descriptionRaw":  "#Aumenta el nivel de habilidad de {LINK#S11242}\u003ccolor=#FFD780FF\u003eEstratagema: Plan de reparto de riqueza\u003c/color\u003e{/LINK}{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                        "description":  "Aumenta el nivel de habilidad de **Estratagema: Plan de reparto de riqueza** +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "La más diminuta de las suertes",
+                                                                        "descriptionRaw":  "#\u003ccolor=#FFD780FF\u003ePresagio lunar: resplandor ascendente\u003c/color\u003e\nTras llenar el {LINK#N11240001}\u003ccolor=#FFD780FF\u003efrasco maullisecreto\u003c/color\u003e{/LINK} de la Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEstratagema: Plan de reparto de riqueza\u003c/color\u003e, la Prob. CRIT y el Daño CRIT de los personajes con presagio lunar cercanos del equipo aumentarán en un 5% y en un 40% respectivamente durante 20{NON_BREAK_SPACE}s.",
+                                                                        "description":  "Presagio lunar: resplandor ascendente\nTras llenar el **frasco maullisecreto** de la Habilidad Elemental, Estratagema: Plan de reparto de riqueza, la Prob. CRIT y el Daño CRIT de los personajes con presagio lunar cercanos del equipo aumentarán en un 5% y en un 40% respectivamente durante 20 s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "¡Un frasco más!",
+                                                                        "descriptionRaw":  "Durante su Habilidad Elemental, \u003ccolor=#FFD780FF\u003eEstratagema: Plan de reparto de riqueza\u003c/color\u003e, cuando las \u003ccolor=#FFD780FF\u003egatibolitas blandisuaves\u003c/color\u003e disparadas por el {LINK#N11240001}\u003ccolor=#FFD780FF\u003efrasco maullisecreto\u003c/color\u003e{/LINK} golpeen a un enemigo, habrá una probabilidad del 50% de que reboten, lo que infligirá daño del elemento correspondiente a los enemigos cercanos.",
+                                                                        "description":  "Durante su Habilidad Elemental, Estratagema: Plan de reparto de riqueza, cuando las gatibolitas blandisuaves disparadas por el **frasco maullisecreto** golpeen a un enemigo, habrá una probabilidad del 50% de que reboten, lo que infligirá daño del elemento correspondiente a los enemigos cercanos."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anemo",
+                                      "fullname":  null,
+                                      "weaponText":  "Arco",
+                                      "name":  "Jahoda",
+                                      "substatText":  "Bono de Curación",
+                                      "region":  "Nod Krai",
+                                      "gender":  "Femenino"
+                                  },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -4766,6 +4813,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Masculino"
                                   },
+                       "durin":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Visiones sin fondo",
+                                                                       "descriptionRaw":  "#Durante 20{NON_BREAK_SPACE}s después de que Durin use su Habilidad Definitiva, cuando un personaje cercano del equipo cause una reacción de Vaporización, Derretido, Quemadura, Sobrecarga, Torbellino Pyro o Cristalización Pyro contra un enemigo, o cuando inflija \u003ccolor=#FF9999FF\u003eDaño Pyro\u003c/color\u003e o \u003ccolor=#99FF88FF\u003eDaño Dendro\u003c/color\u003e contra un enemigo quemado, todos los personajes cercanos del equipo infligirán un 50% más de \u003ccolor=#FF9999FF\u003eDaño Pyro\u003c/color\u003e y del daño del elemento correspondiente que haya participado en la reacción durante 6{NON_BREAK_SPACE}s.",
+                                                                       "description":  "Durante 20 s después de que Durin use su Habilidad Definitiva, cuando un personaje cercano del equipo cause una reacción de Vaporización, Derretido, Quemadura, Sobrecarga, Torbellino Pyro o Cristalización Pyro contra un enemigo, o cuando inflija Daño Pyro o Daño Dendro contra un enemigo quemado, todos los personajes cercanos del equipo infligirán un 50% más de Daño Pyro y del daño del elemento correspondiente que haya participado en la reacción durante 6 s."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Fuente desbordante",
+                                                                       "descriptionRaw":  "El daño infligido por la Habilidad Definitiva de Durin aumenta en un 40%. Al activarse el efecto de consumo de \u003ccolor=#FFD780FF\u003eiluminación cíclica\u003c/color\u003e de la constelación \u003ccolor=#FFD780FF\u003e{LINK#T1231}Redención de Adamah{/LINK}\u003c/color\u003e, hay un 30% de probabilidad de que las cargas no se consuman.",
+                                                                       "description":  "El daño infligido por la Habilidad Definitiva de Durin aumenta en un 40%. Al activarse el efecto de consumo de iluminación cíclica de la constelación **Redención de Adamah**, hay un 30% de probabilidad de que las cargas no se consuman."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Revelación del espejo ardiente",
+                                                                       "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003e{LINK#S11235}Principio de pureza: Fluctuación lumínica{/LINK}\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                       "description":  "Aumenta el nivel de habilidad de **Principio de pureza: Fluctuación lumínica** +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Fisura del fuego amargo",
+                                                                       "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003e{LINK#S11232}Forma binaria: Convergencia y división{/LINK}\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                       "description":  "Aumenta el nivel de habilidad de **Forma binaria: Convergencia y división** +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Nacimiento doble",
+                                                                       "descriptionRaw":  "#El daño de la Habilidad Definitiva de Durin ignora el 30% de la DEF del enemigo.\nAdemás, las Habilidades Definitivas de Durin, \u003ccolor=#FFD780FF\u003ePrincipio de pureza: Fluctuación lumínica\u003c/color\u003e y \u003ccolor=#FFD780FF\u003ePrincipio de oscuridad: Combustión estelar\u003c/color\u003e, se fortalecen respectivamente de la siguiente manera:\n·Tras golpear a un enemigo con la Habilidad Definitiva \u003ccolor=#FFD780FF\u003ePrincipio de pureza: Fluctuación lumínica\u003c/color\u003e y el \u003ccolor=#FFD780FF\u003edragón alboflamígero\u003c/color\u003e, la DEF de dicho enemigo se reduce en un 30% durante 6{NON_BREAK_SPACE}s.\n·El daño de la Habilidad Definitiva \u003ccolor=#FFD780FF\u003ePrincipio de oscuridad: Combustión estelar\u003c/color\u003e y del \u003ccolor=#FFD780FF\u003edragón de corrosión sombría\u003c/color\u003e ignora un 40% adicional de la DEF del enemigo.",
+                                                                       "description":  "El daño de la Habilidad Definitiva de Durin ignora el 30% de la DEF del enemigo.\nAdemás, las Habilidades Definitivas de Durin, Principio de pureza: Fluctuación lumínica y Principio de oscuridad: Combustión estelar, se fortalecen respectivamente de la siguiente manera:\n·Tras golpear a un enemigo con la Habilidad Definitiva Principio de pureza: Fluctuación lumínica y el dragón alboflamígero, la DEF de dicho enemigo se reduce en un 30% durante 6 s.\n·El daño de la Habilidad Definitiva Principio de oscuridad: Combustión estelar y del dragón de corrosión sombría ignora un 40% adicional de la DEF del enemigo."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Redención de Adamah",
+                                                                       "descriptionRaw":  "#Tras usar la Habilidad Definitiva, se producirán distintos efectos dependiendo de la forma de Habilidad Definitiva que haya usado.\n·\u003ccolor=#FFD780FF\u003ePrincipio de pureza: Fluctuación lumínica\u003c/color\u003e\nTodos los personajes cercanos del equipo obtienen 20 cargas de \u003ccolor=#FFD780FF\u003eiluminación cíclica\u003c/color\u003e durante 20{NON_BREAK_SPACE}s. Cuando los personajes en uso cercanos que posean iluminación cíclica inflijan daño con un Ataque Normal, Cargado o Descendente, o con la Habilidad Elemental o Definitiva, consumirán 1 carga de iluminación cíclica para aumentar el daño infligido en una cantidad equivalente al 60% del ATQ de Durin. El número de cargas de los personajes del equipo con iluminación cíclica se calcula de forma independiente.\n·\u003ccolor=#FFD780FF\u003e Principio de oscuridad: Combustión estelar\u003c/color\u003e\nDurin obtiene 20 cargas de \u003ccolor=#FFD780FF\u003eiluminación cíclica\u003c/color\u003e durante 20{NON_BREAK_SPACE}s. Cuando inflija daño con su Habilidad Definitiva, consumirá 2 cargas para aumentar el daño infligido en una cantidad equivalente al 150% de su ATQ.\n\nAl usar la Habilidad Definitiva, las cargas de \u003ccolor=#FFD780FF\u003eiluminación cíclica\u003c/color\u003e se reiniciarán.",
+                                                                       "description":  "Tras usar la Habilidad Definitiva, se producirán distintos efectos dependiendo de la forma de Habilidad Definitiva que haya usado.\n·Principio de pureza: Fluctuación lumínica\nTodos los personajes cercanos del equipo obtienen 20 cargas de iluminación cíclica durante 20 s. Cuando los personajes en uso cercanos que posean iluminación cíclica inflijan daño con un Ataque Normal, Cargado o Descendente, o con la Habilidad Elemental o Definitiva, consumirán 1 carga de iluminación cíclica para aumentar el daño infligido en una cantidad equivalente al 60% del ATQ de Durin. El número de cargas de los personajes del equipo con iluminación cíclica se calcula de forma independiente.\n· Principio de oscuridad: Combustión estelar\nDurin obtiene 20 cargas de iluminación cíclica durante 20 s. Cuando inflija daño con su Habilidad Definitiva, consumirá 2 cargas para aumentar el daño infligido en una cantidad equivalente al 150% de su ATQ.\n\nAl usar la Habilidad Definitiva, las cargas de iluminación cíclica se reiniciarán."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Espada ligera",
+                                     "name":  "Durin",
+                                     "substatText":  "Daño CRIT",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Masculino"
+                                 },
                        "mualani":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7640,6 +7728,43 @@
                                                     },
                                              "effectName":  "Ofrenda para el viento y el sol"
                                          },
+                    "rainbowserpentsrainbow":  {
+                                                   "r3":  {
+                                                              "description":  "Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 42% durante 8 s.",
+                                                              "values":  [
+                                                                             "42%"
+                                                                         ]
+                                                          },
+                                                   "r5":  {
+                                                              "description":  "Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 56% durante 8 s.",
+                                                              "values":  [
+                                                                             "56%"
+                                                                         ]
+                                                          },
+                                                   "r2":  {
+                                                              "description":  "Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 35% durante 8 s.",
+                                                              "values":  [
+                                                                             "35%"
+                                                                         ]
+                                                          },
+                                                   "r4":  {
+                                                              "description":  "Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 49% durante 8 s.",
+                                                              "values":  [
+                                                                             "49%"
+                                                                         ]
+                                                          },
+                                                   "substatText":  "Recarga de Energía",
+                                                   "weaponText":  "Arco",
+                                                   "name":  "Pluvioarco de la Serpiente Arcoíris",
+                                                   "effectTemplateRaw":  "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e durante 8{NON_BREAK_SPACE}s.",
+                                                   "r1":  {
+                                                              "description":  "Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un 28% durante 8 s.",
+                                                              "values":  [
+                                                                             "28%"
+                                                                         ]
+                                                          },
+                                                   "effectName":  "Susurros estelares más allá del trono sagrado"
+                                               },
                     "recurvebow":  {
                                        "r3":  {
                                                   "description":  "Restaura un 12% de Vida tras derrotar a un enemigo.",
@@ -8203,6 +8328,43 @@
                                                       },
                                                "effectName":  "Culminación"
                                            },
+                    "thestringless":  {
+                                          "r3":  {
+                                                     "description":  "Aumenta en un 36% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+                                                     "values":  [
+                                                                    "36%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Aumenta en un 48% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+                                                     "values":  [
+                                                                    "48%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Aumenta en un 30% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+                                                     "values":  [
+                                                                    "30%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Aumenta en un 42% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+                                                     "values":  [
+                                                                    "42%"
+                                                                ]
+                                                 },
+                                          "substatText":  "Maestría Elemental",
+                                          "weaponText":  "Arco",
+                                          "name":  "Último Acorde",
+                                          "effectTemplateRaw":  "Aumenta en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+                                          "r1":  {
+                                                     "description":  "Aumenta en un 24% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
+                                                     "values":  [
+                                                                    "24%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Canción sin flechas"
+                                      },
                     "elegyfortheend":  {
                                            "r3":  {
                                                       "description":  "Una parte del «Gran concierto milenario» que flota por los vientos. Aumenta en 90 pts. la Maestría Elemental. Cuando el personaje que lleva esta arma equipada ataca a un enemigo con una Habilidad Elemental o Definitiva, dicho personaje obtiene un talismán de reminiscencia que puede adquirirse una vez cada 0.2 s como máximo. Este efecto también puede ocurrir cuando el personaje que lleva equipada esta arma está en tu equipo pero no en uso. Al obtener 4 talismanes de reminiscencia, estos se consumirán y otorgarán a todos los miembros del equipo cercanos el efecto de «Gran concierto milenario: Canción del adiós» durante 12 s, el cual aumenta en 150 pts. la Maestría Elemental y el ATQ en un 30%. Tras activarse este efecto, no podrán obtenerse talismanes de reminiscencia durante 20 s. Los efectos de «Gran concierto milenario» no se acumularán con otros efectos del mismo tipo.",
@@ -11692,6 +11854,53 @@
                                                  },
                                           "effectName":  "Avanza con el viento"
                                       },
+                    "athameartis":  {
+                                        "r3":  {
+                                                   "description":  "El Daño CRIT de la Habilidad Definitiva aumenta en un 24%. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3 s el ATQ en un 30%, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un 24%.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+                                                   "values":  [
+                                                                  "24%",
+                                                                  "30%",
+                                                                  "24%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "El Daño CRIT de la Habilidad Definitiva aumenta en un 32%. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3 s el ATQ en un 40%, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un 32%.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+                                                   "values":  [
+                                                                  "32%",
+                                                                  "40%",
+                                                                  "32%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "El Daño CRIT de la Habilidad Definitiva aumenta en un 20%. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3 s el ATQ en un 25%, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un 20%.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "25%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "El Daño CRIT de la Habilidad Definitiva aumenta en un 28%. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3 s el ATQ en un 35%, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un 28%.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+                                                   "values":  [
+                                                                  "28%",
+                                                                  "35%",
+                                                                  "28%"
+                                                              ]
+                                               },
+                                        "substatText":  "Prob. CRIT",
+                                        "weaponText":  "Espada ligera",
+                                        "name":  "Athame Artis",
+                                        "effectTemplateRaw":  "#El Daño CRIT de la Habilidad Definitiva aumenta en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3{NON_BREAK_SPACE}s el ATQ en un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+                                        "r1":  {
+                                                   "description":  "El Daño CRIT de la Habilidad Definitiva aumenta en un 16%. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3 s el ATQ en un 20%, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un 16%.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "20%",
+                                                                  "16%"
+                                                              ]
+                                               },
+                                        "effectName":  "Splendor Solis del rey del día"
+                                    },
                     "fangofthemountainking":  {
                                                   "r3":  {
                                                              "description":  "Tras golpear a un enemigo con la Habilidad Elemental, otorga 1 carga de “bendición arbórea”. Este efecto solo se puede activar una vez cada 0.5 s. Cuando un miembro cercano del equipo causa una reacción de Quemadura o Crepitar, el portador de esta arma obtiene 3 cargas de bendición arbórea. Este efecto solo puede ocurrir una vez cada 2 s y se puede activar incluso cuando el personaje está en tu equipo pero no en uso. La bendición arbórea aumenta en un 15% el daño infligido con la Habilidad Elemental y Definitiva durante 6 s. Esto puede acumularse hasta 6 veces y la duración de cada carga se calcula de manera independiente.",
@@ -13862,43 +14071,63 @@
                                                },
                                         "effectName":  "Destino de las bestias"
                                     },
-                    "thestringless":  {
-                                          "r3":  {
-                                                     "description":  "Aumenta en un 36% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
-                                                     "values":  [
-                                                                    "36%"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Aumenta en un 48% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
-                                                     "values":  [
-                                                                    "48%"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Aumenta en un 30% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
-                                                     "values":  [
-                                                                    "30%"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Aumenta en un 42% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
-                                                     "values":  [
-                                                                    "42%"
-                                                                ]
-                                                 },
-                                          "substatText":  "Maestría Elemental",
-                                          "weaponText":  "Arco",
-                                          "name":  "Último Acorde",
-                                          "effectTemplateRaw":  "Aumenta en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e el daño de la Habilidad Elemental y la Habilidad Definitiva.",
-                                          "r1":  {
-                                                     "description":  "Aumenta en un 24% el daño de la Habilidad Elemental y la Habilidad Definitiva.",
-                                                     "values":  [
-                                                                    "24%"
-                                                                ]
-                                                 },
-                                          "effectName":  "Canción sin flechas"
-                                      },
+                    "thedaybreakchronicles":  {
+                                                  "r3":  {
+                                                             "description":  "El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3 s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un 90%. Al estar en combate, este aumento de daño se reduce en un 15% por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un 15%, hasta alcanzar el 90%. Este efecto solo puede activarse una vez cada 0.1 s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un 30% para todos los tipos de daño.",
+                                                             "values":  [
+                                                                            "90%",
+                                                                            "15%",
+                                                                            "15%",
+                                                                            "90%",
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3 s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un 120%. Al estar en combate, este aumento de daño se reduce en un 20% por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un 20%, hasta alcanzar el 120%. Este efecto solo puede activarse una vez cada 0.1 s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un 40% para todos los tipos de daño.",
+                                                             "values":  [
+                                                                            "120%",
+                                                                            "20%",
+                                                                            "20%",
+                                                                            "120%",
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3 s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un 75%. Al estar en combate, este aumento de daño se reduce en un 12.5% por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un 12.5%, hasta alcanzar el 75%. Este efecto solo puede activarse una vez cada 0.1 s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un 25% para todos los tipos de daño.",
+                                                             "values":  [
+                                                                            "75%",
+                                                                            "12.5%",
+                                                                            "12.5%",
+                                                                            "75%",
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3 s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un 105%. Al estar en combate, este aumento de daño se reduce en un 17.5% por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un 17.5%, hasta alcanzar el 105%. Este efecto solo puede activarse una vez cada 0.1 s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un 35% para todos los tipos de daño.",
+                                                             "values":  [
+                                                                            "105%",
+                                                                            "17.5%",
+                                                                            "17.5%",
+                                                                            "105%",
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Daño CRIT",
+                                                  "weaponText":  "Arco",
+                                                  "name":  "Albores de la Historia",
+                                                  "effectTemplateRaw":  "#El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3{NON_BREAK_SPACE}s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Al estar en combate, este aumento de daño se reduce en un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e, hasta alcanzar el \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e. Este efecto solo puede activarse una vez cada 0.1{NON_BREAK_SPACE}s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un \u003ccolor=#99FFFFFF\u003e{4}\u003c/color\u003e para todos los tipos de daño.",
+                                                  "r1":  {
+                                                             "description":  "El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3 s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un 60%. Al estar en combate, este aumento de daño se reduce en un 10% por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un 10%, hasta alcanzar el 60%. Este efecto solo puede activarse una vez cada 0.1 s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un 20% para todos los tipos de daño.",
+                                                             "values":  [
+                                                                            "60%",
+                                                                            "10%",
+                                                                            "10%",
+                                                                            "60%",
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Oda atemporal"
+                                              },
                     "lumidouceelegy":  {
                                            "r3":  {
                                                       "description":  "El ATQ aumenta en un 23%. Cuando el portador de esta arma causa una reacción de Quemadura contra un enemigo o tras infligir Daño Dendro a un enemigo quemado, el daño infligido aumenta en un 28%. Este efecto dura 8 s y puede acumularse hasta 2 veces. Al alcanzar 2 acumulaciones o cuando la duración de estas se reinicia, restaura 14 pts. de Energía Elemental. Solo se puede restaurar Energía Elemental una vez cada 12 s de esta manera. Estos dos efectos se pueden activar incluso cuando el personaje está en tu equipo pero no en uso.",
@@ -16351,10 +16580,10 @@
                                                       "name":  "Mecaespecialista Constructor",
                                                       "specialname":  null
                                                   },
-                    "yumkasauruswarriorwhirlingleaves":  {
-                                                             "name":  "Soldado Yumkasaurio - Aserrahojas",
-                                                             "specialname":  null
-                                                         },
+                    "superheavylandrovermechanizedfortress":  {
+                                                                  "name":  "Todoterreno Superpesado - Fortaleza mecánica",
+                                                                  "specialname":  null
+                                                              },
                     "treasurehoardersmarksman":  {
                                                      "name":  "Ladrón de Tesoros - Ballestero",
                                                      "specialname":  null
@@ -16819,6 +17048,10 @@
                                            "name":  "Suanni Ermitaña",
                                            "specialname":  null
                                        },
+                    "yumkasauruswarriorwhirlingleaves":  {
+                                                             "name":  "Soldado Yumkasaurio - Aserrahojas",
+                                                             "specialname":  null
+                                                         },
                     "cryoregisvine":  {
                                           "name":  "Regisvid Cryo",
                                           "specialname":  null

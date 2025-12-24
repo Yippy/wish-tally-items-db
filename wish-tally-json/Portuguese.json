@@ -627,6 +627,9 @@
                       "richredbrocade":  {
                                              "name":  "Cetim Vermelho"
                                          },
+                      "cyclicmilitarykuuvahkicore":  {
+                                                         "name":  "Núcleo de Kuuvahki Militar Cíclico"
+                                                     },
                       "operativesconstancy":  {
                                                   "name":  "Constância do Servo"
                                               },
@@ -954,9 +957,9 @@
                       "crystallinecystdust":  {
                                                   "name":  "Poeira Cristalina de Cisto"
                                               },
-                      "shuttleofodara":  {
-                                             "name":  "Transporte de Odara"
-                                         },
+                      "guidetomoonlight":  {
+                                               "name":  "Guia do Luar"
+                                           },
                       "lazuriteaxemarlin":  {
                                                 "name":  "Marlim Machado de Lazurita"
                                             },
@@ -1470,6 +1473,9 @@
                       "plaustriteshard":  {
                                               "name":  "Fragmento de Plaustrite"
                                           },
+                      "refinedheart":  {
+                                           "name":  "Coração Refinado"
+                                       },
                       "narukamiswisdom":  {
                                               "name":  "A Sabedoria de Narukami"
                                           },
@@ -1890,6 +1896,9 @@
                       "quenepaberry":  {
                                            "name":  "Baga Quenepa"
                                        },
+                      "shuttleofodara":  {
+                                             "name":  "Transporte de Odara"
+                                         },
                       "blazeoflongnightflint":  {
                                                     "name":  "Fulgor da Noite Eterna"
                                                 },
@@ -2694,9 +2703,6 @@
                       "frostetchedwarrant":  {
                                                  "name":  "Garantia Gélida"
                                              },
-                      "guidetomoonlight":  {
-                                               "name":  "Guia do Luar"
-                                           },
                       "frostnightsglory":  {
                                                "name":  "Glória da Geada Noturna"
                                            },
@@ -3328,6 +3334,47 @@
                                          "region":  "Fontaine",
                                          "gender":  "Feminino"
                                      },
+                       "jahoda":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Pensamento Rápido da Ladra",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003ePresságio Lunar: Reluzir Cheio\u003c/color\u003e: no Talento de Ascensão {LINK#P1242101}\u003ccolor=#FFD780FF\u003ePlano de Recompensas\u003c/color\u003e{/LINK}, Jahoda pode registrar secretamente, além do Elemento com maior número de personagens, o Elemento com maior número de personagens em seguida dentre os Tipos Elementais restantes, permitindo com que até dois efeitos Elementais estejam ativos simultaneamente. É necessário desbloquear o Talento de Ascensão \"Plano de Recompensas\" primeiro.",
+                                                                        "description":  "Presságio Lunar: Reluzir Cheio: no Talento de Ascensão **Plano de Recompensas**, Jahoda pode registrar secretamente, além do Elemento com maior número de personagens, o Elemento com maior número de personagens em seguida dentre os Tipos Elementais restantes, permitindo com que até dois efeitos Elementais estejam ativos simultaneamente. É necessário desbloquear o Talento de Ascensão \"Plano de Recompensas\" primeiro."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Frutas Selvagens na Poeira",
+                                                                        "descriptionRaw":  "Quando os {LINK#N11240002}\u003ccolor=#FFD780FF\u003eCoordenadores Felino de Assistência Doméstica\u003c/color\u003e{/LINK} do Supremo \u003ccolor=#FFD780FF\u003eDispositivo Secreto: Sete Itens do Caçador\u003c/color\u003e passarem por Conversão Elemental, regenera 4 de Energia Elemental para Jahoda.",
+                                                                        "description":  "Quando os **Coordenadores Felino de Assistência Doméstica** do Supremo Dispositivo Secreto: Sete Itens do Caçador passarem por Conversão Elemental, regenera 4 de Energia Elemental para Jahoda."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Aposta Desesperada",
+                                                                        "descriptionRaw":  "Aumenta o nível do Supremo \u003ccolor=#FFD780FF\u003e{LINK#S11245}Dispositivo Secreto: Sete Itens do Caçador{/LINK}\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível do Supremo **Dispositivo Secreto: Sete Itens do Caçador** em 3.\nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "O Maior Tesouro",
+                                                                        "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11242}Plano de Redistribuição de Riqueza{/LINK}\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
+                                                                        "description":  "Aumenta o nível da Habilidade Elemental **Plano de Redistribuição de Riqueza** em 3 níveis. \nO nível máximo de elevação é 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "A Menor Sorte",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003ePresságio Lunar: Reluzir Cheio\u003c/color\u003e: nos 20s depois de a {LINK#N11240001}\u003ccolor=#FFD780FF\u003eGarrafa Secreta Ronron\u003c/color\u003e{/LINK} da Habilidade Elemental \u003ccolor=#FFD780FF\u003eEstratagema Impressionante: Plano de Redistribuição de Riqueza\u003c/color\u003e encher, aumenta a Taxa CRIT dos personagens de Presságio Lunar próximos em 5% e o Dano CRIT em 40%.",
+                                                                        "description":  "Presságio Lunar: Reluzir Cheio: nos 20s depois de a **Garrafa Secreta Ronron** da Habilidade Elemental Estratagema Impressionante: Plano de Redistribuição de Riqueza encher, aumenta a Taxa CRIT dos personagens de Presságio Lunar próximos em 5% e o Dano CRIT em 40%."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Mais Uma Garrafa!",
+                                                                        "descriptionRaw":  "Quando as \u003ccolor=#FFD780FF\u003eBolas Miaufinhas\u003c/color\u003e de {LINK#N11240001}\u003ccolor=#FFD780FF\u003eGarrafa Secreta Ronron\u003c/color\u003e{/LINK} da Habilidade Elemental \u003ccolor=#FFD780FF\u003eEstratagema Impressionante: Plano de Redistribuição de Riqueza\u003c/color\u003e atingem um inimigo, possuem 50% de chance de ricochetear, causando Dano Elemental correspondente contra os inimigos próximos.",
+                                                                        "description":  "Quando as Bolas Miaufinhas de **Garrafa Secreta Ronron** da Habilidade Elemental Estratagema Impressionante: Plano de Redistribuição de Riqueza atingem um inimigo, possuem 50% de chance de ricochetear, causando Dano Elemental correspondente contra os inimigos próximos."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anemo",
+                                      "fullname":  null,
+                                      "weaponText":  "Arco",
+                                      "name":  "Jahoda",
+                                      "substatText":  "Bônus de Cura",
+                                      "region":  "Nod-Krai",
+                                      "gender":  "Feminino"
+                                  },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -4766,6 +4813,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Masculino"
                                   },
+                       "durin":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Visões Infundadas",
+                                                                       "descriptionRaw":  "Nos 20s após Durin lançar seu Supremo, quando os personagens próximos da equipe causarem Vaporização, Fusão, Queimaduras, Sobrecarga, Redemoinho Pyro ou Reação de Cristalização Pyro contra inimigos, ou causarem \u003ccolor=#FF9999FF\u003eDano Pyro\u003c/color\u003e ou \u003ccolor=#99FF88FF\u003eDano Dendro\u003c/color\u003e contra inimigos afetados por Queimaduras, o \u003ccolor=#FF9999FF\u003eDano Pyro\u003c/color\u003e e o Dano do Elemento correspondente participante da reação causados pelos personagens próximos da equipe aumentam em 50% por 6s.",
+                                                                       "description":  "Nos 20s após Durin lançar seu Supremo, quando os personagens próximos da equipe causarem Vaporização, Fusão, Queimaduras, Sobrecarga, Redemoinho Pyro ou Reação de Cristalização Pyro contra inimigos, ou causarem Dano Pyro ou Dano Dendro contra inimigos afetados por Queimaduras, o Dano Pyro e o Dano do Elemento correspondente participante da reação causados pelos personagens próximos da equipe aumentam em 50% por 6s."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Fonte de Emanare",
+                                                                       "descriptionRaw":  "O Dano do Supremo de Durin aumenta em 40%. Além disso, quando ativar efeitos que consomem \u003ccolor=#FFD780FF\u003eCiclo do Esclarecimento\u003c/color\u003e da Constelação \u003ccolor=#FFD780FF\u003e{LINK#T1231}Redenção de Adamah{/LINK}\u003c/color\u003e, possui 30% de chance de não consumir Ciclo do Esclarecimento.",
+                                                                       "description":  "O Dano do Supremo de Durin aumenta em 40%. Além disso, quando ativar efeitos que consomem Ciclo do Esclarecimento da Constelação **Redenção de Adamah**, possui 30% de chance de não consumir Ciclo do Esclarecimento."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Revelação do Espelho Flamejante",
+                                                                       "descriptionRaw":  "Aumenta o nível do Supremo \u003ccolor=#FFD780FF\u003e{LINK#S11235}Princípio da Pureza: Transformação da Luz{/LINK}\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                       "description":  "Aumenta o nível do Supremo **Princípio da Pureza: Transformação da Luz** em 3.\nO nível máximo de elevação é 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Rachadura da Chama Furiosa",
+                                                                       "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11232}Forma Binária: Convergência e Divisão{/LINK}\u003c/color\u003e em 3 níveis. \nO nível máximo de elevação é 15.",
+                                                                       "description":  "Aumenta o nível da Habilidade Elemental **Forma Binária: Convergência e Divisão** em 3 níveis. \nO nível máximo de elevação é 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Nascimento Dual",
+                                                                       "descriptionRaw":  "O Supremo de Durin ignorará 30% da DEF dos inimigos ao causar Dano.\nAlém disso, os Supremos \u003ccolor=#FFD780FF\u003ePrincípio da Pureza: Transformação da Luz\u003c/color\u003e e \u003ccolor=#FFD780FF\u003ePrincípio da Escuridão: Como as Estrelas Ardem\u003c/color\u003e serão fortalecidos da seguinte forma:\n· O Supremo \u003ccolor=#FFD780FF\u003ePrincípio da Pureza: Transformação da Luz\u003c/color\u003e e o \u003ccolor=#FFD780FF\u003eDragão da Chama Branca\u003c/color\u003e reduzirão a DEF do inimigo em 30% após o impacto por 6s;\n· O Supremo \u003ccolor=#FFD780FF\u003ePrincípio da Escuridão: Como as Estrelas Ardem\u003c/color\u003e e o \u003ccolor=#FFD780FF\u003eDragão da Chama Escura\u003c/color\u003e ignorarão 40% adicionais da DEF do inimigo ao causar Dano.",
+                                                                       "description":  "O Supremo de Durin ignorará 30% da DEF dos inimigos ao causar Dano.\nAlém disso, os Supremos Princípio da Pureza: Transformação da Luz e Princípio da Escuridão: Como as Estrelas Ardem serão fortalecidos da seguinte forma:\n· O Supremo Princípio da Pureza: Transformação da Luz e o Dragão da Chama Branca reduzirão a DEF do inimigo em 30% após o impacto por 6s;\n· O Supremo Princípio da Escuridão: Como as Estrelas Ardem e o Dragão da Chama Escura ignorarão 40% adicionais da DEF do inimigo ao causar Dano."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Redenção de Adamah",
+                                                                       "descriptionRaw":  "Após usar o Supremo, efeitos diferentes serão aplicados com base no Supremo usado por Durin:\n·\u003ccolor=#FFD780FF\u003ePrincípio da Pureza: Transformação da Luz\u003c/color\u003e: todos os outros Personagens próximos da equipe recebem 20 Acúmulos de \u003ccolor=#FFD780FF\u003e\"Ciclo do Esclarecimento\"\u003c/color\u003e, com duração de 20 segundos. Quando o Personagem em campo com \"Ciclo do Esclarecimento\" causar Dano com Ataque Normal, Ataque Carregado, Ataque Imersivo, Habilidade Elemental ou Supremo, 1 Acúmulo de \"Ciclo do Esclarecimento\" será consumido para aumentar o Dano causado. O Valor do aumento é equivalente a 60% do ATQ de Durin. O número de ativações do \"Ciclo do Esclarecimento\" é calculado separadamente para cada Personagem da equipe.\n·\u003ccolor=#FFD780FF\u003ePrincípio da Escuridão: Como as Estrelas Ardem\u003c/color\u003e: Durin recebe 20 Acúmulos de \u003ccolor=#FFD780FF\u003eCiclo do Esclarecimento\u003c/color\u003e, com duração de 20 segundos. Ao causar Dano de Supremo, Durin consumirá 2 Acúmulos de \"Ciclo do Esclarecimento\", aumentando o Dano causado. O Valor do aumento é equivalente a 150% do ATQ de Durin.\n\nAo usar o Supremo, o número de Acúmulos de \u003ccolor=#FFD780FF\u003e\"Ciclo do Esclarecimento\"\u003c/color\u003e será redefinido.",
+                                                                       "description":  "Após usar o Supremo, efeitos diferentes serão aplicados com base no Supremo usado por Durin:\n·Princípio da Pureza: Transformação da Luz: todos os outros Personagens próximos da equipe recebem 20 Acúmulos de \"Ciclo do Esclarecimento\", com duração de 20 segundos. Quando o Personagem em campo com \"Ciclo do Esclarecimento\" causar Dano com Ataque Normal, Ataque Carregado, Ataque Imersivo, Habilidade Elemental ou Supremo, 1 Acúmulo de \"Ciclo do Esclarecimento\" será consumido para aumentar o Dano causado. O Valor do aumento é equivalente a 60% do ATQ de Durin. O número de ativações do \"Ciclo do Esclarecimento\" é calculado separadamente para cada Personagem da equipe.\n·Princípio da Escuridão: Como as Estrelas Ardem: Durin recebe 20 Acúmulos de Ciclo do Esclarecimento, com duração de 20 segundos. Ao causar Dano de Supremo, Durin consumirá 2 Acúmulos de \"Ciclo do Esclarecimento\", aumentando o Dano causado. O Valor do aumento é equivalente a 150% do ATQ de Durin.\n\nAo usar o Supremo, o número de Acúmulos de \"Ciclo do Esclarecimento\" será redefinido."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Espada",
+                                     "name":  "Durin",
+                                     "substatText":  "Dano Crítico",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Masculino"
+                                 },
                        "mualani":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -6361,8 +6449,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "Precisão Planejada",
-                                                                       "descriptionRaw":  "Fortalece o efeito do Talento de Ascensão {LINK#P1222101}\u003ccolor=#FFD780FF\u003eAposta Sob o Luar\u003c/color\u003e{/LINK}: prolonga a duração de {LINK#N11220003}\u003ccolor=#FFD780FF\u003eCortina do Segredo Falso\u003c/color\u003e{/LINK} por 5s, aumenta o máximo de acúmulos para 5, e o Dano de {LINK#N11220002}\u003ccolor=#FFD780FF\u003eTruque Fantástico\u003c/color\u003e{/LINK} para 140% do Dano original causado. Quando Nefer lançar sua Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11222}Estratégia de Senet: Dança de Mil Noites{/LINK}\u003c/color\u003e, imediatamente obtém 2 acúmulos de Cortina do Segredo Falso. Além disso, quando acumular 5 Cortinas do Segredo Falso, ou quando redefinir a duração dos 5 acúmulos, aumenta a Proficiência Elemental de Nefer em 500 por 8s.\nÉ necessário desbloquear o Talento de Ascensão Aposta Sob o Luar.",
-                                                                       "description":  "Fortalece o efeito do Talento de Ascensão **Aposta Sob o Luar**: prolonga a duração de **Cortina do Segredo Falso** por 5s, aumenta o máximo de acúmulos para 5, e o Dano de **Truque Fantástico** para 140% do Dano original causado. Quando Nefer lançar sua Habilidade Elemental **Estratégia de Senet: Dança de Mil Noites**, imediatamente obtém 2 acúmulos de Cortina do Segredo Falso. Além disso, quando acumular 5 Cortinas do Segredo Falso, ou quando redefinir a duração dos 5 acúmulos, aumenta a Proficiência Elemental de Nefer em 500 por 8s.\nÉ necessário desbloquear o Talento de Ascensão Aposta Sob o Luar."
+                                                                       "descriptionRaw":  "Fortalece o efeito do Talento de Ascensão {LINK#P1222101}\u003ccolor=#FFD780FF\u003eAposta Sob o Luar\u003c/color\u003e{/LINK}: prolonga a duração de {LINK#N11220003}\u003ccolor=#FFD780FF\u003eCortina do Segredo Falso\u003c/color\u003e{/LINK} por 5s, aumenta o máximo de acúmulos para 5, e o Dano de {LINK#N11220002}\u003ccolor=#FFD780FF\u003eTruque Fantástico\u003c/color\u003e{/LINK} para 140% do Dano original causado. Quando Nefer lançar sua Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11222}Estratégia de Senet: Dança de Mil Noites{/LINK}\u003c/color\u003e, imediatamente obtém 2 acúmulos de Cortina do Segredo Falso. Além disso, quando acumular 5 Cortinas do Segredo Falso, ou quando redefinir a duração dos 5 acúmulos, aumenta a Proficiência Elemental de Nefer em 200 por 8s.\nÉ necessário desbloquear o Talento de Ascensão Aposta Sob o Luar.",
+                                                                       "description":  "Fortalece o efeito do Talento de Ascensão **Aposta Sob o Luar**: prolonga a duração de **Cortina do Segredo Falso** por 5s, aumenta o máximo de acúmulos para 5, e o Dano de **Truque Fantástico** para 140% do Dano original causado. Quando Nefer lançar sua Habilidade Elemental **Estratégia de Senet: Dança de Mil Noites**, imediatamente obtém 2 acúmulos de Cortina do Segredo Falso. Além disso, quando acumular 5 Cortinas do Segredo Falso, ou quando redefinir a duração dos 5 acúmulos, aumenta a Proficiência Elemental de Nefer em 200 por 8s.\nÉ necessário desbloquear o Talento de Ascensão Aposta Sob o Luar."
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Mergulho da Rede do Mistério",
@@ -7640,6 +7728,43 @@
                                                     },
                                              "effectName":  "Oferenda ao Vento e ao Sol"
                                          },
+                    "rainbowserpentsrainbow":  {
+                                                   "r3":  {
+                                                              "description":  "Quando o portador não é o personagem ativo, aumenta o ATQ em 42% por 8s após o portador atingir um inimigo com um ataque.",
+                                                              "values":  [
+                                                                             "42%"
+                                                                         ]
+                                                          },
+                                                   "r5":  {
+                                                              "description":  "Quando o portador não é o personagem ativo, aumenta o ATQ em 56% por 8s após o portador atingir um inimigo com um ataque.",
+                                                              "values":  [
+                                                                             "56%"
+                                                                         ]
+                                                          },
+                                                   "r2":  {
+                                                              "description":  "Quando o portador não é o personagem ativo, aumenta o ATQ em 35% por 8s após o portador atingir um inimigo com um ataque.",
+                                                              "values":  [
+                                                                             "35%"
+                                                                         ]
+                                                          },
+                                                   "r4":  {
+                                                              "description":  "Quando o portador não é o personagem ativo, aumenta o ATQ em 49% por 8s após o portador atingir um inimigo com um ataque.",
+                                                              "values":  [
+                                                                             "49%"
+                                                                         ]
+                                                          },
+                                                   "substatText":  "Recarga de Energia",
+                                                   "weaponText":  "Arco",
+                                                   "name":  "Cordas da Chuva da Serpente Arco-Íris",
+                                                   "effectTemplateRaw":  "Quando o portador não é o personagem ativo, aumenta o ATQ em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 8s após o portador atingir um inimigo com um ataque.",
+                                                   "r1":  {
+                                                              "description":  "Quando o portador não é o personagem ativo, aumenta o ATQ em 28% por 8s após o portador atingir um inimigo com um ataque.",
+                                                              "values":  [
+                                                                             "28%"
+                                                                         ]
+                                                          },
+                                                   "effectName":  "Idioma Estelar Estrangeiro Sagrado"
+                                               },
                     "recurvebow":  {
                                        "r3":  {
                                                   "description":  "Derrotar um oponente recupera 12% da Vida.",
@@ -8203,6 +8328,43 @@
                                                       },
                                                "effectName":  "Círculo Completo"
                                            },
+                    "thestringless":  {
+                                          "r3":  {
+                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 36%.",
+                                                     "values":  [
+                                                                    "36%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 48%.",
+                                                     "values":  [
+                                                                    "48%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 30%.",
+                                                     "values":  [
+                                                                    "30%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 42%.",
+                                                     "values":  [
+                                                                    "42%"
+                                                                ]
+                                                 },
+                                          "substatText":  "Proficiência Elemental",
+                                          "weaponText":  "Arco",
+                                          "name":  "Último Acorde",
+                                          "effectTemplateRaw":  "Aumenta o Dano da Habilidade Elemental e do Supremo em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
+                                          "r1":  {
+                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 24%.",
+                                                     "values":  [
+                                                                    "24%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Canção Sem Flechas"
+                                      },
                     "elegyfortheend":  {
                                            "r3":  {
                                                       "description":  "Uma parte do Concerto Milenar que flutua no vento. Aumenta a Proficiência Elemental em 90% pontos. Quando a Habilidade Elemental ou o Supremo atingir os inimigos, o personagem obterá um Símbolo das Lembranças, que pode ser ativado uma vez a cada 0.2s, mesmo quando o personagem não está no campo de batalha. Possuir 4 Símbolos das Lembranças faz consumir todos eles, e faz todos os personagens da equipe obterem o efeito de \"Concerto Milenar: Música da Despedida\" por 12s: A Proficiência Elemental será aumentada em 150 pontos, além disso o ATQ será aumentado em 30%. Dentro de 20s depois da ativação, não é possível obter o Símbolos das Lembranças de novo. Entre todos os efeitos de vários valores, os efeitos do mesmo valor não podem ser acumulados.",
@@ -11692,6 +11854,53 @@
                                                  },
                                           "effectName":  "Companhia do Vento"
                                       },
+                    "athameartis":  {
+                                        "r3":  {
+                                                   "description":  "Aumenta o Dano CRIT do Supremo em 24%. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em 30%; aumenta o ATQ de personagens ativos próximos que não sejam o portador em 24% por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+                                                   "values":  [
+                                                                  "24%",
+                                                                  "30%",
+                                                                  "24%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "Aumenta o Dano CRIT do Supremo em 32%. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em 40%; aumenta o ATQ de personagens ativos próximos que não sejam o portador em 32% por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+                                                   "values":  [
+                                                                  "32%",
+                                                                  "40%",
+                                                                  "32%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "Aumenta o Dano CRIT do Supremo em 20%. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em 25%; aumenta o ATQ de personagens ativos próximos que não sejam o portador em 20% por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "25%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "Aumenta o Dano CRIT do Supremo em 28%. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em 35%; aumenta o ATQ de personagens ativos próximos que não sejam o portador em 28% por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+                                                   "values":  [
+                                                                  "28%",
+                                                                  "35%",
+                                                                  "28%"
+                                                              ]
+                                               },
+                                        "substatText":  "Taxa Crítica",
+                                        "weaponText":  "Espada",
+                                        "name":  "Corrupção Sombria",
+                                        "effectTemplateRaw":  "Aumenta o Dano CRIT do Supremo em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e; aumenta o ATQ de personagens ativos próximos que não sejam o portador em \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+                                        "r1":  {
+                                                   "description":  "Aumenta o Dano CRIT do Supremo em 16%. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em 20%; aumenta o ATQ de personagens ativos próximos que não sejam o portador em 16% por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo.",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "20%",
+                                                                  "16%"
+                                                              ]
+                                               },
+                                        "effectName":  "Esplendor do Rei Diurno"
+                                    },
                     "fangofthemountainking":  {
                                                   "r3":  {
                                                              "description":  "Ganha 1 acúmulo de Favor da Copa ao acertar um oponente com uma Habilidade Elemental. Isso pode ser desencadeado uma vez a cada 0.5s; após um membro da equipe próximo desencadear uma reação de Queimadura ou Germinação, o personagem que está com essa arma equipada ganhará 3 acúmulos de Favor da Copa. Este efeito pode ser desencadeado uma vez a cada 2s e pode ser desencadeado mesmo quando o personagem não é o personagem ativo. Favor da Copa: o Dano da Habilidade Elemental e do Supremo é aumentado em 15% por 6s. Máximo de 6 acúmulos. A duração de cada acúmulo é contabilizada de forma independente.",
@@ -13867,43 +14076,63 @@
                                                },
                                         "effectName":  "O Destino da Besta"
                                     },
-                    "thestringless":  {
-                                          "r3":  {
-                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 36%.",
-                                                     "values":  [
-                                                                    "36%"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 48%.",
-                                                     "values":  [
-                                                                    "48%"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 30%.",
-                                                     "values":  [
-                                                                    "30%"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 42%.",
-                                                     "values":  [
-                                                                    "42%"
-                                                                ]
-                                                 },
-                                          "substatText":  "Proficiência Elemental",
-                                          "weaponText":  "Arco",
-                                          "name":  "Último Acorde",
-                                          "effectTemplateRaw":  "Aumenta o Dano da Habilidade Elemental e do Supremo em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
-                                          "r1":  {
-                                                     "description":  "Aumenta o Dano da Habilidade Elemental e do Supremo em 24%.",
-                                                     "values":  [
-                                                                    "24%"
-                                                                ]
-                                                 },
-                                          "effectName":  "Canção Sem Flechas"
-                                      },
+                    "thedaybreakchronicles":  {
+                                                  "r3":  {
+                                                             "description":  "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em 90%. Em batalha, esse efeito de aumento de Dano é reduzido em 15% por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em 15% até alcançar 90%, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, aumenta o efeito de aumento para todos os tipos de Dano em 30%.",
+                                                             "values":  [
+                                                                            "90%",
+                                                                            "15%",
+                                                                            "15%",
+                                                                            "90%",
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em 120%. Em batalha, esse efeito de aumento de Dano é reduzido em 20% por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em 20% até alcançar 120%, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando a equipe possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, o efeito de aumento para todos os tipos de Dano passa a ser 40%.",
+                                                             "values":  [
+                                                                            "120%",
+                                                                            "20%",
+                                                                            "20%",
+                                                                            "120%",
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em 75%. Em batalha, esse efeito de aumento de Dano é reduzido em 12.5% por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em 12.5% até alcançar 75%, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, o efeito de aumento para todos os tipos de Dano passa a ser 25%.",
+                                                             "values":  [
+                                                                            "75%",
+                                                                            "12.5%",
+                                                                            "12.5%",
+                                                                            "75%",
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em 105%. Em batalha, esse efeito de aumento de Dano é reduzido em 17.5% por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em 17.5% até alcançar 105%, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, aumenta o efeito de aumento para todos os tipos de Dano em 35%.",
+                                                             "values":  [
+                                                                            "105%",
+                                                                            "17.5%",
+                                                                            "17.5%",
+                                                                            "105%",
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "Dano Crítico",
+                                                  "weaponText":  "Arco",
+                                                  "name":  "As Crônicas do Amanhecer",
+                                                  "effectTemplateRaw":  "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Em batalha, esse efeito de aumento de Dano é reduzido em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e até alcançar \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando a equipe possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, o efeito de aumento para todos os tipos de Dano passa a ser \u003ccolor=#99FFFFFF\u003e{4}\u003c/color\u003e.",
+                                                  "r1":  {
+                                                             "description":  "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em 60%. Em batalha, esse efeito de aumento de Dano é reduzido em 10% por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em 10% até alcançar 60%, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, aumenta o efeito de aumento para todos os tipos de Dano em 20%.",
+                                                             "values":  [
+                                                                            "60%",
+                                                                            "10%",
+                                                                            "10%",
+                                                                            "60%",
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Canção da Ode Atemporal"
+                                              },
                     "lumidouceelegy":  {
                                            "r3":  {
                                                       "description":  "Aumenta o ATQ em 23%. Quando o personagem que está com essa arma equipada desencadeia Queimadura ou causa Dano Dendro a oponentes com Queimaduras, aumenta o Dano causado em 28%. Esse efeito dura 8s e pode ser acumulado até 2 vezes. Quando atingir 2 acúmulos ou a duração dos 2 acúmulos for redefinida, regenera 14 de Energia Elemental. É possível regenerar Energia Elemental dessa forma uma vez a cada 12s. Esses dois efeitos também são aplicáveis a personagens que não estão ativos no campo de batalha.",
@@ -16361,10 +16590,10 @@
                                                       "name":  "Mecaconstrutor",
                                                       "specialname":  null
                                                   },
-                    "yumkasauruswarriorwhirlingleaves":  {
-                                                             "name":  "Guerreiro Yumkassauro: Folhas Rodopiantes",
-                                                             "specialname":  null
-                                                         },
+                    "superheavylandrovermechanizedfortress":  {
+                                                                  "name":  "Cruzador Terrestre Superpesado: Fortaleza Mecânica",
+                                                                  "specialname":  null
+                                                              },
                     "treasurehoardersmarksman":  {
                                                      "name":  "Ladrões de Tesouro - Arqueiro Divino",
                                                      "specialname":  null
@@ -16829,6 +17058,10 @@
                                            "name":  "Suanni Solitário",
                                            "specialname":  null
                                        },
+                    "yumkasauruswarriorwhirlingleaves":  {
+                                                             "name":  "Guerreiro Yumkassauro: Folhas Rodopiantes",
+                                                             "specialname":  null
+                                                         },
                     "cryoregisvine":  {
                                           "name":  "Regisvine Cryo",
                                           "specialname":  null

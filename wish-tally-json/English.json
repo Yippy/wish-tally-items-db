@@ -658,6 +658,9 @@
                       "richredbrocade":  {
                                              "name":  "Rich Red Brocade"
                                          },
+                      "cyclicmilitarykuuvahkicore":  {
+                                                         "name":  "Cyclic Military Kuuvahki Core"
+                                                     },
                       "operativesconstancy":  {
                                                   "name":  "Operative\u0027s Constancy"
                                               },
@@ -985,9 +988,9 @@
                       "crystallinecystdust":  {
                                                   "name":  "Crystalline Cyst Dust"
                                               },
-                      "shuttleofodara":  {
-                                             "name":  "Shuttle of Odara"
-                                         },
+                      "guidetomoonlight":  {
+                                               "name":  "Guide to Moonlight"
+                                           },
                       "lazuriteaxemarlin":  {
                                                 "name":  "Lazurite Axe Marlin"
                                             },
@@ -1501,6 +1504,9 @@
                       "plaustriteshard":  {
                                               "name":  "Plaustrite Shard"
                                           },
+                      "refinedheart":  {
+                                           "name":  "Refined Heart"
+                                       },
                       "narukamiswisdom":  {
                                               "name":  "Narukami\u0027s Wisdom"
                                           },
@@ -1921,6 +1927,9 @@
                       "quenepaberry":  {
                                            "name":  "Quenepa Berry"
                                        },
+                      "shuttleofodara":  {
+                                             "name":  "Shuttle of Odara"
+                                         },
                       "blazeoflongnightflint":  {
                                                     "name":  "Blaze of Long Night Flint"
                                                 },
@@ -2725,9 +2734,6 @@
                       "frostetchedwarrant":  {
                                                  "name":  "Frost-Etched Warrant"
                                              },
-                      "guidetomoonlight":  {
-                                               "name":  "Guide to Moonlight"
-                                           },
                       "frostnightsglory":  {
                                                "name":  "Frostnight\u0027s Glory"
                                            },
@@ -3359,6 +3365,47 @@
                                          "region":  "Fontaine",
                                          "gender":  "Female"
                                      },
+                       "jahoda":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Rogue\u0027s Quick Thinking",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eMoonsign: Ascendant Gleam\u003c/color\u003e: In the Ascension Talent {LINK#P1242101}\u003ccolor=#FFD780FF\u003e\"Plan to Get Paid,\"\u003c/color\u003e{/LINK} Jahoda can secretly track, in addition to the element with the highest number of characters, the element with the next highest number of characters among the remaining types. This allows up to two elemental effects to be active at once. You must first unlock the Ascension Talent \"Plan to Get Paid.\"",
+                                                                        "description":  "Moonsign: Ascendant Gleam: In the Ascension Talent **\"Plan to Get Paid,\"** Jahoda can secretly track, in addition to the element with the highest number of characters, the element with the next highest number of characters among the remaining types. This allows up to two elemental effects to be active at once. You must first unlock the Ascension Talent \"Plan to Get Paid.\""
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Wild Berry Amid the Dust",
+                                                                        "descriptionRaw":  "When a {LINK#N11240002}\u003ccolor=#FFD780FF\u003ePurrsonal Coordinated Assistance Robot\u003c/color\u003e{/LINK} from the Elemental Burst \u003ccolor=#FFD780FF\u003eHidden Aces: Seven Tools of the Hunter\u003c/color\u003e undergoes an Elemental Conversion, Jahoda will recover 4 Elemental Energy.",
+                                                                        "description":  "When a **Purrsonal Coordinated Assistance Robot** from the Elemental Burst Hidden Aces: Seven Tools of the Hunter undergoes an Elemental Conversion, Jahoda will recover 4 Elemental Energy."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Desperate Gamble",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003e{LINK#S11245}Hidden Aces: Seven Tools of the Hunter{/LINK}\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of **Hidden Aces: Seven Tools of the Hunter** by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "The Greatest Treasure",
+                                                                        "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003e{LINK#S11242}Savvy Strategy: Splitting the Spoils{/LINK}\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                        "description":  "Increases the Level of **Savvy Strategy: Splitting the Spoils** by 3.\nMaximum upgrade level is 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "The Littlest Luck",
+                                                                        "descriptionRaw":  "\u003ccolor=#FFD780FF\u003eMoonsign: Ascendant Gleam\u003c/color\u003e: After the {LINK#N11240001}\u003ccolor=#FFD780FF\u003ePurr-loined Treasure Flask\u003c/color\u003e{/LINK} from the Elemental Skill \u003ccolor=#FFD780FF\u003eSavvy Strategy: Splitting the Spoils\u003c/color\u003e is full, nearby Moonsign characters in your party have their CRIT Rate increased by 5% and CRIT DMG increased by 40% for 20s.",
+                                                                        "description":  "Moonsign: Ascendant Gleam: After the **Purr-loined Treasure Flask** from the Elemental Skill Savvy Strategy: Splitting the Spoils is full, nearby Moonsign characters in your party have their CRIT Rate increased by 5% and CRIT DMG increased by 40% for 20s."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "One More Flask!",
+                                                                        "descriptionRaw":  "When a \u003ccolor=#FFD780FF\u003eFluffy Meowball\u003c/color\u003e fired by the {LINK#N11240001}\u003ccolor=#FFD780FF\u003ePurr-loined Treasure Flask\u003c/color\u003e{/LINK} from the Elemental Skill \u003ccolor=#FFD780FF\u003eSavvy Strategy: Splitting the Spoils\u003c/color\u003e hits an enemy, there is a 50% chance for it to bounce, dealing the corresponding Elemental DMG to nearby opponents.",
+                                                                        "description":  "When a Fluffy Meowball fired by the **Purr-loined Treasure Flask** from the Elemental Skill Savvy Strategy: Splitting the Spoils hits an enemy, there is a 50% chance for it to bounce, dealing the corresponding Elemental DMG to nearby opponents."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anemo",
+                                      "fullname":  null,
+                                      "weaponText":  "Bow",
+                                      "name":  "Jahoda",
+                                      "substatText":  "Healing Bonus",
+                                      "region":  "Nod-Krai",
+                                      "gender":  "Female"
+                                  },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -4797,6 +4844,47 @@
                                       "region":  "Natlan",
                                       "gender":  "Male"
                                   },
+                       "durin":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Unground Visions",
+                                                                       "descriptionRaw":  "For 20s after Durin uses an Elemental Burst, after nearby party members trigger Vaporize, Melt, Burning, Overloaded, Pyro Swirl, or Pyro Crystallize reactions, or deal \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e or \u003ccolor=#99FF88FF\u003eDendro DMG\u003c/color\u003e to an opponent affected by Burning, all nearby party members gain a 50% increase to their \u003ccolor=#FF9999FF\u003ePyro DMG\u003c/color\u003e and to the corresponding elemental DMG involved in the reaction for 6s.",
+                                                                       "description":  "For 20s after Durin uses an Elemental Burst, after nearby party members trigger Vaporize, Melt, Burning, Overloaded, Pyro Swirl, or Pyro Crystallize reactions, or deal Pyro DMG or Dendro DMG to an opponent affected by Burning, all nearby party members gain a 50% increase to their Pyro DMG and to the corresponding elemental DMG involved in the reaction for 6s."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Emanare\u0027s Source",
+                                                                       "descriptionRaw":  "Durin\u0027s Elemental Burst DMG is increased by 40%. Additionally, when effects that consume \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e stacks are triggered as part of the Constellation \u003ccolor=#FFD780FF\u003e{LINK#T1231}Adamah\u0027s Redemption{/LINK}\u003c/color\u003e, there is a 30% chance that no Cycle of Enlightenment stacks will be consumed.",
+                                                                       "description":  "Durin\u0027s Elemental Burst DMG is increased by 40%. Additionally, when effects that consume Cycle of Enlightenment stacks are triggered as part of the Constellation **Adamah\u0027s Redemption**, there is a 30% chance that no Cycle of Enlightenment stacks will be consumed."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Flame Mirror\u0027s Revelation",
+                                                                       "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003e{LINK#S11235}Principle of Purity: As the Light Shifts{/LINK}\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                       "description":  "Increases the Level of **Principle of Purity: As the Light Shifts** by 3.\nMaximum upgrade level is 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Scouring Flame\u0027s Sundering",
+                                                                       "descriptionRaw":  "Increases the Level of \u003ccolor=#FFD780FF\u003e{LINK#S11232}Binary Form: Convergence and Division{/LINK}\u003c/color\u003e by 3.\nMaximum upgrade level is 15.",
+                                                                       "description":  "Increases the Level of **Binary Form: Convergence and Division** by 3.\nMaximum upgrade level is 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Dual Birth",
+                                                                       "descriptionRaw":  "Durin\u0027s Elemental Burst DMG ignores 30% of opponents\u0027 DEF.\nAdditionally, Durin\u0027s Elemental Bursts \u003ccolor=#FFD780FF\u003ePrinciple of Purity: As the Light Shifts\u003c/color\u003e and \u003ccolor=#FFD780FF\u003ePrinciple of Darkness: As the Stars Smolder\u003c/color\u003e are each enhanced:\n· After \u003ccolor=#FFD780FF\u003ePrinciple of Purity: As the Light Shifts\u003c/color\u003e and \u003ccolor=#FFD780FF\u003eDragon of White Flame\u003c/color\u003e hit an opponent, that opponent\u0027s DEF is decreased by 30% for 6s.\n· DMG from \u003ccolor=#FFD780FF\u003ePrinciple of Darkness: As the Stars Smolder\u003c/color\u003e and \u003ccolor=#FFD780FF\u003eDragon of Dark Decay\u003c/color\u003e will ignore an additional 40% of opponents\u0027 DEF.",
+                                                                       "description":  "Durin\u0027s Elemental Burst DMG ignores 30% of opponents\u0027 DEF.\nAdditionally, Durin\u0027s Elemental Bursts Principle of Purity: As the Light Shifts and Principle of Darkness: As the Stars Smolder are each enhanced:\n· After Principle of Purity: As the Light Shifts and Dragon of White Flame hit an opponent, that opponent\u0027s DEF is decreased by 30% for 6s.\n· DMG from Principle of Darkness: As the Stars Smolder and Dragon of Dark Decay will ignore an additional 40% of opponents\u0027 DEF."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Adamah\u0027s Redemption",
+                                                                       "descriptionRaw":  "After casting his Elemental Burst, Durin\u0027s effects will vary depending on the form of his Elemental Burst:\n· \u003ccolor=#FFD780FF\u003ePrinciple of Purity: As the Light Shifts\u003c/color\u003e: All other nearby party members gain 20 stacks of \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e lasting 20s. When nearby active characters deal Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst DMG, 1 stack of Cycle of Enlightenment will be consumed to increase the DMG dealt by 60% of Durin\u0027s ATK. Stack counts for characters in the party who have Cycle of Enlightenment are managed individually.\n· \u003ccolor=#FFD780FF\u003ePrinciple of Darkness: As the Stars Smolder\u003c/color\u003e: Durin gains 20 stacks of \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e lasting 20s. When Durin deals Elemental Burst DMG, 2 stacks of Cycle of Enlightenment will be consumed to increase the DMG dealt by 150% of Durin\u0027s ATK.\n\nWhen an Elemental Burst is used, \u003ccolor=#FFD780FF\u003eCycle of Enlightenment\u003c/color\u003e stacks will be refreshed.",
+                                                                       "description":  "After casting his Elemental Burst, Durin\u0027s effects will vary depending on the form of his Elemental Burst:\n· Principle of Purity: As the Light Shifts: All other nearby party members gain 20 stacks of Cycle of Enlightenment lasting 20s. When nearby active characters deal Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst DMG, 1 stack of Cycle of Enlightenment will be consumed to increase the DMG dealt by 60% of Durin\u0027s ATK. Stack counts for characters in the party who have Cycle of Enlightenment are managed individually.\n· Principle of Darkness: As the Stars Smolder: Durin gains 20 stacks of Cycle of Enlightenment lasting 20s. When Durin deals Elemental Burst DMG, 2 stacks of Cycle of Enlightenment will be consumed to increase the DMG dealt by 150% of Durin\u0027s ATK.\n\nWhen an Elemental Burst is used, Cycle of Enlightenment stacks will be refreshed."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Sword",
+                                     "name":  "Durin",
+                                     "substatText":  "CRIT DMG",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Male"
+                                 },
                        "mualani":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -7671,6 +7759,43 @@
                                                     },
                                              "effectName":  "Offering Unto Wind and Sun"
                                          },
+                    "rainbowserpentsrainbow":  {
+                                                   "r3":  {
+                                                              "description":  "ATK is increased by 42% for 8s after the equipping character\u0027s attacks hit an opponent while the equipping character is off-field.",
+                                                              "values":  [
+                                                                             "42%"
+                                                                         ]
+                                                          },
+                                                   "r5":  {
+                                                              "description":  "ATK is increased by 56% for 8s after the equipping character\u0027s attacks hit an opponent while the equipping character is off-field.",
+                                                              "values":  [
+                                                                             "56%"
+                                                                         ]
+                                                          },
+                                                   "r2":  {
+                                                              "description":  "ATK is increased by 35% for 8s after the equipping character\u0027s attacks hit an opponent while the equipping character is off-field.",
+                                                              "values":  [
+                                                                             "35%"
+                                                                         ]
+                                                          },
+                                                   "r4":  {
+                                                              "description":  "ATK is increased by 49% for 8s after the equipping character\u0027s attacks hit an opponent while the equipping character is off-field.",
+                                                              "values":  [
+                                                                             "49%"
+                                                                         ]
+                                                          },
+                                                   "substatText":  "Energy Recharge",
+                                                   "weaponText":  "Bow",
+                                                   "name":  "Rainbow Serpent\u0027s Rain Bow",
+                                                   "effectTemplateRaw":  "ATK is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 8s after the equipping character\u0027s attacks hit an opponent while the equipping character is off-field.",
+                                                   "r1":  {
+                                                              "description":  "ATK is increased by 28% for 8s after the equipping character\u0027s attacks hit an opponent while the equipping character is off-field.",
+                                                              "values":  [
+                                                                             "28%"
+                                                                         ]
+                                                          },
+                                                   "effectName":  "Astral Whispers Beyond the Sacred Throne"
+                                               },
                     "recurvebow":  {
                                        "r3":  {
                                                   "description":  "Defeating an opponent restores 12% HP.",
@@ -8234,6 +8359,43 @@
                                                       },
                                                "effectName":  "Full Circle"
                                            },
+                    "thestringless":  {
+                                          "r3":  {
+                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 36%.",
+                                                     "values":  [
+                                                                    "36%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 48%.",
+                                                     "values":  [
+                                                                    "48%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 30%.",
+                                                     "values":  [
+                                                                    "30%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 42%.",
+                                                     "values":  [
+                                                                    "42%"
+                                                                ]
+                                                 },
+                                          "substatText":  "Elemental Mastery",
+                                          "weaponText":  "Bow",
+                                          "name":  "The Stringless",
+                                          "effectTemplateRaw":  "Increases Elemental Skill and Elemental Burst DMG by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
+                                          "r1":  {
+                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 24%.",
+                                                     "values":  [
+                                                                    "24%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Arrowless Song"
+                                      },
                     "elegyfortheend":  {
                                            "r3":  {
                                                       "description":  "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 90. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 150 and increases ATK by 30%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
@@ -11723,6 +11885,53 @@
                                                  },
                                           "effectName":  "Windfall"
                                       },
+                    "athameartis":  {
+                                        "r3":  {
+                                                   "description":  "CRIT DMG from Elemental Bursts is increased by 24%. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by 30%. Nearby active party members other than the equipping character have their ATK increased by 24% for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field.",
+                                                   "values":  [
+                                                                  "24%",
+                                                                  "30%",
+                                                                  "24%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "CRIT DMG from Elemental Bursts is increased by 32%. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by 40%. Nearby active party members other than the equipping character have their ATK increased by 32% for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field.",
+                                                   "values":  [
+                                                                  "32%",
+                                                                  "40%",
+                                                                  "32%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "CRIT DMG from Elemental Bursts is increased by 20%. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by 25%. Nearby active party members other than the equipping character have their ATK increased by 20% for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field.",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "25%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "CRIT DMG from Elemental Bursts is increased by 28%. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by 35%. Nearby active party members other than the equipping character have their ATK increased by 28% for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field.",
+                                                   "values":  [
+                                                                  "28%",
+                                                                  "35%",
+                                                                  "28%"
+                                                              ]
+                                               },
+                                        "substatText":  "CRIT Rate",
+                                        "weaponText":  "Sword",
+                                        "name":  "Athame Artis",
+                                        "effectTemplateRaw":  "CRIT DMG from Elemental Bursts is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Nearby active party members other than the equipping character have their ATK increased by \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field.",
+                                        "r1":  {
+                                                   "description":  "CRIT DMG from Elemental Bursts is increased by 16%. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by 20%. Nearby active party members other than the equipping character have their ATK increased by 16% for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field.",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "20%",
+                                                                  "16%"
+                                                              ]
+                                               },
+                                        "effectName":  "Day King\u0027s Splendor Solis"
+                                    },
                     "fangofthemountainking":  {
                                                   "r3":  {
                                                              "description":  "Gain 1 stack of Canopy\u0027s Favor after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s. After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect can be triggered once every 2s and can be triggered even when the triggering party member is off-field. Canopy\u0027s Favor: Elemental Skill and Burst DMG is increased by 15% for 6s. Max 6 stacks. Each stack is counted independently.",
@@ -13898,43 +14107,63 @@
                                                },
                                         "effectName":  "At the End of the Beast-Paths"
                                     },
-                    "thestringless":  {
-                                          "r3":  {
-                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 36%.",
-                                                     "values":  [
-                                                                    "36%"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 48%.",
-                                                     "values":  [
-                                                                    "48%"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 30%.",
-                                                     "values":  [
-                                                                    "30%"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 42%.",
-                                                     "values":  [
-                                                                    "42%"
-                                                                ]
-                                                 },
-                                          "substatText":  "Elemental Mastery",
-                                          "weaponText":  "Bow",
-                                          "name":  "The Stringless",
-                                          "effectTemplateRaw":  "Increases Elemental Skill and Elemental Burst DMG by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
-                                          "r1":  {
-                                                     "description":  "Increases Elemental Skill and Elemental Burst DMG by 24%.",
-                                                     "values":  [
-                                                                    "24%"
-                                                                ]
-                                                 },
-                                          "effectName":  "Arrowless Song"
-                                      },
+                    "thedaybreakchronicles":  {
+                                                  "r3":  {
+                                                             "description":  "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by 90%. While in combat, this DMG Bonus will decrease by 15% per second until it reaches 0%. When the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by 15% until it reaches 90%. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by 30% instead.",
+                                                             "values":  [
+                                                                            "90%",
+                                                                            "15%",
+                                                                            "15%",
+                                                                            "90%",
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by 120%. While in combat, this DMG Bonus will decrease by 20% per second until it reaches 0%. When the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by 20% until it reaches 120%. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by 40% instead.",
+                                                             "values":  [
+                                                                            "120%",
+                                                                            "20%",
+                                                                            "20%",
+                                                                            "120%",
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by 75%. While in combat, this DMG Bonus will decrease by 12.5% per second until it reaches 0%. When the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by 12.5% until it reaches 75%. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by 25% instead.",
+                                                             "values":  [
+                                                                            "75%",
+                                                                            "12.5%",
+                                                                            "12.5%",
+                                                                            "75%",
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by 105%. While in combat, this DMG Bonus will decrease by 17.5% per second until it reaches 0%. When the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by 17.5% until it reaches 105%. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by 35% instead.",
+                                                             "values":  [
+                                                                            "105%",
+                                                                            "17.5%",
+                                                                            "17.5%",
+                                                                            "105%",
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "CRIT DMG",
+                                                  "weaponText":  "Bow",
+                                                  "name":  "The Daybreak Chronicles",
+                                                  "effectTemplateRaw":  "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. While in combat, this DMG Bonus will decrease by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e per second until it reaches 0%. When the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e until it reaches \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by \u003ccolor=#99FFFFFF\u003e{4}\u003c/color\u003e instead.",
+                                                  "r1":  {
+                                                             "description":  "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by 60%. While in combat, this DMG Bonus will decrease by 10% per second until it reaches 0%. When the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by 10% until it reaches 60%. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character\u0027s Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by 20% instead.",
+                                                             "values":  [
+                                                                            "60%",
+                                                                            "10%",
+                                                                            "10%",
+                                                                            "60%",
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Ode Beyond Time"
+                                              },
                     "lumidouceelegy":  {
                                            "r3":  {
                                                       "description":  "ATK increased by 23%. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 28%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore 14 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
@@ -16392,10 +16621,10 @@
                                                       "name":  "Construction Specialist Mek",
                                                       "specialname":  null
                                                   },
-                    "yumkasauruswarriorwhirlingleaves":  {
-                                                             "name":  "Yumkasaurus Warrior: Whirling Leaves",
-                                                             "specialname":  null
-                                                         },
+                    "superheavylandrovermechanizedfortress":  {
+                                                                  "name":  "Super-Heavy Landrover: Mechanized Fortress",
+                                                                  "specialname":  null
+                                                              },
                     "treasurehoardersmarksman":  {
                                                      "name":  "Treasure Hoarders: Marksman",
                                                      "specialname":  null
@@ -16860,6 +17089,10 @@
                                            "name":  "Solitary Suanni",
                                            "specialname":  null
                                        },
+                    "yumkasauruswarriorwhirlingleaves":  {
+                                                             "name":  "Yumkasaurus Warrior: Whirling Leaves",
+                                                             "specialname":  null
+                                                         },
                     "cryoregisvine":  {
                                           "name":  "Cryo Regisvine",
                                           "specialname":  null

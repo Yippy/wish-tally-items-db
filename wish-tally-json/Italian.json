@@ -627,6 +627,9 @@
                       "richredbrocade":  {
                                              "name":  "Broccato rosso sontuoso"
                                          },
+                      "cyclicmilitarykuuvahkicore":  {
+                                                         "name":  "Nucleo Kuuvahki militare ciclico"
+                                                     },
                       "operativesconstancy":  {
                                                   "name":  "Costanza dell\u0027operativo"
                                               },
@@ -954,9 +957,9 @@
                       "crystallinecystdust":  {
                                                   "name":  "Polvere di ciste cristallina"
                                               },
-                      "shuttleofodara":  {
-                                             "name":  "Navetta di Odara"
-                                         },
+                      "guidetomoonlight":  {
+                                               "name":  "Guida al chiaro di luna"
+                                           },
                       "lazuriteaxemarlin":  {
                                                 "name":  "Pesce mezzaluna di lazurite"
                                             },
@@ -1470,6 +1473,9 @@
                       "plaustriteshard":  {
                                               "name":  "Frammento di Plaustrite"
                                           },
+                      "refinedheart":  {
+                                           "name":  "Cuore raffinato"
+                                       },
                       "narukamiswisdom":  {
                                               "name":  "Saggezza di Narukami"
                                           },
@@ -1890,6 +1896,9 @@
                       "quenepaberry":  {
                                            "name":  "Bacca Quenepa"
                                        },
+                      "shuttleofodara":  {
+                                             "name":  "Navetta di Odara"
+                                         },
                       "blazeoflongnightflint":  {
                                                     "name":  "Fulgore della Selce della Lunga notte"
                                                 },
@@ -2694,9 +2703,6 @@
                       "frostetchedwarrant":  {
                                                  "name":  "Distintivo gelinciso"
                                              },
-                      "guidetomoonlight":  {
-                                               "name":  "Guida al chiaro di luna"
-                                           },
                       "frostnightsglory":  {
                                                "name":  "Gloria della Notte gelata"
                                            },
@@ -3328,6 +3334,47 @@
                                          "region":  "Fontaine",
                                          "gender":  "femmina"
                                      },
+                       "jahoda":  {
+                                      "constellations":  {
+                                                             "c2":  {
+                                                                        "name":  "Prontezza del furfante",
+                                                                        "descriptionRaw":  "Quando \u003ccolor=#FFD780FF\u003ePresagio lunare: Barlume ascendente\u003c/color\u003e è attivo, il talento d\u0027ascensione {LINK#P1242101}\u003ccolor=#FFD780FF\u003eObiettivo: Stipendio\u003c/color\u003e{/LINK} di Jahoda può registrare in segreto, oltre all\u0027elemento con il maggior numero di personaggi, anche l\u0027elemento con il secondo maggior numero tra i tipi rimanenti. Ciò permette di avere fino a due effetti elementali attivi contemporaneamente. Richiede il talento d\u0027ascensione Obiettivo: Stipendio.",
+                                                                        "description":  "Quando Presagio lunare: Barlume ascendente è attivo, il talento d\u0027ascensione **Obiettivo: Stipendio** di Jahoda può registrare in segreto, oltre all\u0027elemento con il maggior numero di personaggi, anche l\u0027elemento con il secondo maggior numero tra i tipi rimanenti. Ciò permette di avere fino a due effetti elementali attivi contemporaneamente. Richiede il talento d\u0027ascensione Obiettivo: Stipendio."
+                                                                    },
+                                                             "c4":  {
+                                                                        "name":  "Bacca selvatica nella polvere",
+                                                                        "descriptionRaw":  "Quando un {LINK#N11240002}\u003ccolor=#FFD780FF\u003eRobot di assistenza coordinata purrsonale\u003c/color\u003e{/LINK} del Tripudio elementale \u003ccolor=#FFD780FF\u003eAssi segreti: Sette strumenti della cacciatrice\u003c/color\u003e subisce una Conversione elementale, Jahoda recupera 4 di energia elementale.",
+                                                                        "description":  "Quando un **Robot di assistenza coordinata purrsonale** del Tripudio elementale Assi segreti: Sette strumenti della cacciatrice subisce una Conversione elementale, Jahoda recupera 4 di energia elementale."
+                                                                    },
+                                                             "c3":  {
+                                                                        "name":  "Scommessa disperata",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003e{LINK#S11245}Assi segreti: Sette strumenti della cacciatrice{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di **Assi segreti: Sette strumenti della cacciatrice**.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c5":  {
+                                                                        "name":  "Il tesoro più grande",
+                                                                        "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003e{LINK#S11242}Strategia ingegnosa: Condivisione del bottino{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                        "description":  "Aumenta di 3 il livello di **Strategia ingegnosa: Condivisione del bottino**.\nIl livello di potenziamento massimo è 15."
+                                                                    },
+                                                             "c6":  {
+                                                                        "name":  "Un briciolo di fortuna",
+                                                                        "descriptionRaw":  "#Quando \u003ccolor=#FFD780FF\u003ePresagio lunare: Barlume ascendente\u003c/color\u003e è attivo, dopo che la {LINK#N11240001}\u003ccolor=#FFD780FF\u003eFiaschetta preziosa Purr purr\u003c/color\u003e{/LINK} dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eStrategia ingegnosa: Condivisione del bottino\u003c/color\u003e si è riempita, il tasso di CRIT e i DAN da CRIT dei personaggi con Presagio lunare vicini presenti nella tua squadra aumentano rispettivamente di un 5% e di un 40% per i 20{NON_BREAK_SPACE}s successivi.",
+                                                                        "description":  "Quando Presagio lunare: Barlume ascendente è attivo, dopo che la **Fiaschetta preziosa Purr purr** dell\u0027abilità elementale Strategia ingegnosa: Condivisione del bottino si è riempita, il tasso di CRIT e i DAN da CRIT dei personaggi con Presagio lunare vicini presenti nella tua squadra aumentano rispettivamente di un 5% e di un 40% per i 20 s successivi."
+                                                                    },
+                                                             "c1":  {
+                                                                        "name":  "Un\u0027altra fiaschetta!",
+                                                                        "descriptionRaw":  "Quando la {LINK#N11240001}\u003ccolor=#FFD780FF\u003eFiaschetta preziosa Purr purr\u003c/color\u003e{/LINK} dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003eStrategia ingegnosa: Condivisione del bottino\u003c/color\u003e lancia una \u003ccolor=#FFD780FF\u003eMiciosfera morbidosa\u003c/color\u003e che colpisce un nemico, c\u0027è un 50% di probabilità che la Miciosfera rimbalzi, infliggendo DAN elementali corrispondenti agli avversari vicini.",
+                                                                        "description":  "Quando la **Fiaschetta preziosa Purr purr** dell\u0027abilità elementale Strategia ingegnosa: Condivisione del bottino lancia una Miciosfera morbidosa che colpisce un nemico, c\u0027è un 50% di probabilità che la Miciosfera rimbalzi, infliggendo DAN elementali corrispondenti agli avversari vicini."
+                                                                    }
+                                                         },
+                                      "elementText":  "Anemo",
+                                      "fullname":  null,
+                                      "weaponText":  "Arco",
+                                      "name":  "Jahoda",
+                                      "substatText":  "Bonus di guarigione",
+                                      "region":  "Nod-Krai",
+                                      "gender":  "femmina"
+                                  },
                        "qiqi":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -4766,6 +4813,47 @@
                                       "region":  "Natlan",
                                       "gender":  "maschio"
                                   },
+                       "durin":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "Visioni senza fondo",
+                                                                       "descriptionRaw":  "#Per 20{NON_BREAK_SPACE}s dopo l\u0027uso del Tripudio elementale di Durin, dopo che i personaggi del gruppo vicini hanno innescato reazioni di Vaporizzazione, Fusione, Ustione, Sovraccarico, Turbinio di Pyro o Cristallizzazione di Pyro, o hanno inflitto \u003ccolor=#FF9999FF\u003eDAN da Pyro\u003c/color\u003e o \u003ccolor=#99FF88FF\u003eda Dendro\u003c/color\u003e a un avversario sotto l\u0027effetto di Ustione, tutti i membri del gruppo vicini ottengono per 6{NON_BREAK_SPACE}s un aumento dei \u003ccolor=#FF9999FF\u003eDAN da Pyro\u003c/color\u003e e dei DAN dell\u0027elemento corrispondente coinvolto nella reazione pari a un 50%.",
+                                                                       "description":  "Per 20 s dopo l\u0027uso del Tripudio elementale di Durin, dopo che i personaggi del gruppo vicini hanno innescato reazioni di Vaporizzazione, Fusione, Ustione, Sovraccarico, Turbinio di Pyro o Cristallizzazione di Pyro, o hanno inflitto DAN da Pyro o da Dendro a un avversario sotto l\u0027effetto di Ustione, tutti i membri del gruppo vicini ottengono per 6 s un aumento dei DAN da Pyro e dei DAN dell\u0027elemento corrispondente coinvolto nella reazione pari a un 50%."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "Fonte dell\u0027emanare",
+                                                                       "descriptionRaw":  "I DAN da Tripudio elementale di Durin aumentano di un 40%. Inoltre, quando gli effetti che consumano accumuli di \u003ccolor=#FFD780FF\u003eCiclo dell\u0027illuminazione\u003c/color\u003e vengono attivati come parte del livello costellazione \u003ccolor=#FFD780FF\u003e{LINK#T1231}Redenzione dell\u0027Adamah{/LINK}\u003c/color\u003e, c\u0027è un 30% di probabilità che i suddetti accumuli non vengano consumati.",
+                                                                       "description":  "I DAN da Tripudio elementale di Durin aumentano di un 40%. Inoltre, quando gli effetti che consumano accumuli di Ciclo dell\u0027illuminazione vengono attivati come parte del livello costellazione **Redenzione dell\u0027Adamah**, c\u0027è un 30% di probabilità che i suddetti accumuli non vengano consumati."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "Rivelazione dello Specchio di fiamma",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003e{LINK#S11235}Principio della purezza: Trasmutazione luminosa{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello di **Principio della purezza: Trasmutazione luminosa**.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "Scissione della Fiamma abrasiva",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello di \u003ccolor=#FFD780FF\u003e{LINK#S11232}Forma binaria: Convergenza e divisione{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello di **Forma binaria: Convergenza e divisione**.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "Nascita duale",
+                                                                       "descriptionRaw":  "#I DAN da Tripudio elementale di Durin ignorano un 30% della DIF avversaria.\nInoltre, i Tripudi elementali di Durin, \u003ccolor=#FFD780FF\u003ePrincipio della purezza: Trasmutazione luminosa\u003c/color\u003e e \u003ccolor=#FFD780FF\u003ePrincipio dell\u0027oscurità: Stelle quiescenti\u003c/color\u003e, ricevono un potenziamento:\n· dopo che \u003ccolor=#FFD780FF\u003ePrincipio della purezza: Trasmutazione luminosa\u003c/color\u003e e \u003ccolor=#FFD780FF\u003eDrago della Fiamma bianca\u003c/color\u003e hanno colpito un avversario, la DIF di quest\u0027ultimo diminuisce di un 30% per 6{NON_BREAK_SPACE}s;\n· i DAN inflitti da \u003ccolor=#FFD780FF\u003ePrincipio dell\u0027oscurità: Stelle quiescenti\u003c/color\u003e e da \u003ccolor=#FFD780FF\u003eDrago del Deterioramento oscuro\u003c/color\u003e ignorano un ulteriore 40% della DIF degli avversari.",
+                                                                       "description":  "I DAN da Tripudio elementale di Durin ignorano un 30% della DIF avversaria.\nInoltre, i Tripudi elementali di Durin, Principio della purezza: Trasmutazione luminosa e Principio dell\u0027oscurità: Stelle quiescenti, ricevono un potenziamento:\n· dopo che Principio della purezza: Trasmutazione luminosa e Drago della Fiamma bianca hanno colpito un avversario, la DIF di quest\u0027ultimo diminuisce di un 30% per 6 s;\n· i DAN inflitti da Principio dell\u0027oscurità: Stelle quiescenti e da Drago del Deterioramento oscuro ignorano un ulteriore 40% della DIF degli avversari."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "Redenzione dell\u0027Adamah",
+                                                                       "descriptionRaw":  "#Dopo aver utilizzato il suo Tripudio elementale, gli effetti di Durin cambiano in base alla forma del Tripudio.\n·\u003ccolor=#FFD780FF\u003e Principio della purezza: Trasmutazione luminosa\u003c/color\u003e: tutti gli altri membri del gruppo vicini ottengono 20 accumuli di \u003ccolor=#FFD780FF\u003eCiclo dell\u0027illuminazione\u003c/color\u003e della durata di 20{NON_BREAK_SPACE}s. Quando infliggono DAN da attacco normale, attacco caricato, attacco in picchiata, abilità elementale o Tripudio elementale, i personaggi attivi vicini consumano 1 accumulo di Ciclo dell\u0027illuminazione per aumentare i DAN inflitti di un 60% dell\u0027ATT di Durin. Il numero di accumuli di Ciclo dell\u0027illuminazione è indipendente per ciascun personaggio nel gruppo.\n· \u003ccolor=#FFD780FF\u003ePrincipio dell\u0027oscurità: Stelle quiescenti\u003c/color\u003e: Durin ottiene 20 accumuli di \u003ccolor=#FFD780FF\u003eCiclo dell\u0027illuminazione\u003c/color\u003e per 20{NON_BREAK_SPACE}s. Quando Durin infligge DAN da Tripudio elementale, vengono consumati 2 accumuli di Ciclo dell\u0027illuminazione per aumentare i DAN inflitti di un 150% dell\u0027ATT di Durin.\n\nQuando viene utilizzato un Tripudio elementale, gli accumuli di \u003ccolor=#FFD780FF\u003eCiclo dell\u0027illuminazione\u003c/color\u003e vengono ripristinati.",
+                                                                       "description":  "Dopo aver utilizzato il suo Tripudio elementale, gli effetti di Durin cambiano in base alla forma del Tripudio.\n· Principio della purezza: Trasmutazione luminosa: tutti gli altri membri del gruppo vicini ottengono 20 accumuli di Ciclo dell\u0027illuminazione della durata di 20 s. Quando infliggono DAN da attacco normale, attacco caricato, attacco in picchiata, abilità elementale o Tripudio elementale, i personaggi attivi vicini consumano 1 accumulo di Ciclo dell\u0027illuminazione per aumentare i DAN inflitti di un 60% dell\u0027ATT di Durin. Il numero di accumuli di Ciclo dell\u0027illuminazione è indipendente per ciascun personaggio nel gruppo.\n· Principio dell\u0027oscurità: Stelle quiescenti: Durin ottiene 20 accumuli di Ciclo dell\u0027illuminazione per 20 s. Quando Durin infligge DAN da Tripudio elementale, vengono consumati 2 accumuli di Ciclo dell\u0027illuminazione per aumentare i DAN inflitti di un 150% dell\u0027ATT di Durin.\n\nQuando viene utilizzato un Tripudio elementale, gli accumuli di Ciclo dell\u0027illuminazione vengono ripristinati."
+                                                                   }
+                                                        },
+                                     "elementText":  "Pyro",
+                                     "fullname":  null,
+                                     "weaponText":  "Spada",
+                                     "name":  "Durin",
+                                     "substatText":  "DAN da CRIT",
+                                     "region":  "Mondstadt",
+                                     "gender":  "maschio"
+                                 },
                        "mualani":  {
                                        "constellations":  {
                                                               "c2":  {
@@ -4852,13 +4940,13 @@
                                       "constellations":  {
                                                              "c2":  {
                                                                         "name":  "Eone Fanerozoico",
-                                                                        "descriptionRaw":  "#I Boccioli effimeri generati da \u003ccolor=#FFD780FF\u003eAbiogenesi: Isotoma solare\u003c/color\u003e forniscono ad Albedo Giudizio fatale per 30{NON_BREAK_SPACE}s:\n· rilasciare \u003ccolor=#FFD780FF\u003eRito della discendenza: Ondata tettonica\u003c/color\u003e consuma tutti gli accumuli di Giudizio fatale. Ciascun accumulo consumato aumenta i DAN inflitti dai Boccioli fatali e da Rito della discendenza: Ondata tettonica di una quantità pari a un 30% della DIF di Albedo;\n· cumulabile fino a 4 volte.",
-                                                                        "description":  "I Boccioli effimeri generati da Abiogenesi: Isotoma solare forniscono ad Albedo Giudizio fatale per 30 s:\n· rilasciare Rito della discendenza: Ondata tettonica consuma tutti gli accumuli di Giudizio fatale. Ciascun accumulo consumato aumenta i DAN inflitti dai Boccioli fatali e da Rito della discendenza: Ondata tettonica di una quantità pari a un 30% della DIF di Albedo;\n· cumulabile fino a 4 volte."
+                                                                        "descriptionRaw":  "#I Boccioli effimeri generati dall\u0027abilità elementale \u003ccolor=#FFD780FF\u003eAbiogenesi: Isotoma solare\u003c/color\u003e forniscono ad Albedo Giudizio fatale per 30{NON_BREAK_SPACE}s:\n· rilasciare \u003ccolor=#FFD780FF\u003eRito della discendenza: Ondata tettonica\u003c/color\u003e consuma tutti gli accumuli di Giudizio fatale. Ciascun accumulo consumato aumenta i DAN inflitti dai Boccioli fatali e dal rilascio di Rito della discendenza: Ondata tettonica di una quantità pari a un 30% della DIF di Albedo;\n· cumulabile fino a 4 volte.",
+                                                                        "description":  "I Boccioli effimeri generati dall\u0027abilità elementale Abiogenesi: Isotoma solare forniscono ad Albedo Giudizio fatale per 30 s:\n· rilasciare Rito della discendenza: Ondata tettonica consuma tutti gli accumuli di Giudizio fatale. Ciascun accumulo consumato aumenta i DAN inflitti dai Boccioli fatali e dal rilascio di Rito della discendenza: Ondata tettonica di una quantità pari a un 30% della DIF di Albedo;\n· cumulabile fino a 4 volte."
                                                                     },
                                                              "c4":  {
                                                                         "name":  "Discesa divina",
-                                                                        "descriptionRaw":  "Aumenta di un 30% i DAN da attacco in picchiata dei membri attivi del gruppo all\u0027interno del campo dell\u0027Isotoma solare.",
-                                                                        "description":  "Aumenta di un 30% i DAN da attacco in picchiata dei membri attivi del gruppo all\u0027interno del campo dell\u0027Isotoma solare."
+                                                                        "descriptionRaw":  "I DAN da attacco in picchiata dei membri attivi del gruppo all\u0027interno del campo dell\u0027Isotoma solare aumentano di un 30%.",
+                                                                        "description":  "I DAN da attacco in picchiata dei membri attivi del gruppo all\u0027interno del campo dell\u0027Isotoma solare aumentano di un 30%."
                                                                     },
                                                              "c3":  {
                                                                         "name":  "Benedizione di Helios",
@@ -4872,13 +4960,13 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Polvere purificatrice",
-                                                                        "descriptionRaw":  "Aumenta di un 17% i DAN dei membri attivi del gruppo all\u0027interno del campo dell\u0027Isotoma solare protetti da uno scudo creato da una reazione di Cristallizzazione.",
-                                                                        "description":  "Aumenta di un 17% i DAN dei membri attivi del gruppo all\u0027interno del campo dell\u0027Isotoma solare protetti da uno scudo creato da una reazione di Cristallizzazione."
+                                                                        "descriptionRaw":  "I DAN dei membri attivi del gruppo nel campo dell\u0027Isotoma solare protetti da uno scudo creato tramite Cristallizzazione aumentano di un 17%.",
+                                                                        "description":  "I DAN dei membri attivi del gruppo nel campo dell\u0027Isotoma solare protetti da uno scudo creato tramite Cristallizzazione aumentano di un 17%."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Fiore dell\u0027Eden",
-                                                                        "descriptionRaw":  "I Boccioli effimeri generati da \u003ccolor=#FFD780FF\u003eAbiogenesi: Isotoma solare\u003c/color\u003e rigenerano l\u0027energia di Albedo di 1,2.",
-                                                                        "description":  "I Boccioli effimeri generati da Abiogenesi: Isotoma solare rigenerano l\u0027energia di Albedo di 1,2."
+                                                                        "descriptionRaw":  "I Boccioli effimeri generati dall\u0027abilità elementale di Albedo \u003ccolor=#FFD780FF\u003eAbiogenesi: Isotoma solare\u003c/color\u003e rigenerano di 1,2 la sua energia.",
+                                                                        "description":  "I Boccioli effimeri generati dall\u0027abilità elementale di Albedo Abiogenesi: Isotoma solare rigenerano di 1,2 la sua energia."
                                                                     }
                                                          },
                                       "elementText":  "Geo",
@@ -5705,8 +5793,8 @@
                                                                    },
                                                             "c6":  {
                                                                        "name":  "Lupus fulguris",
-                                                                       "descriptionRaw":  "Ogni 10 s la spada di Razor si carica, e l\u0027attacco normale successivo rilascia un fulmine che infligge \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e pari a un 100% dell\u0027ATT di Razor.\nQuando Razor non sta utilizzando \u003ccolor=#FFD780FF\u003eZanna fulminante\u003c/color\u003e, un fulmine che colpisce un avversario fornisce a Razor un Sigillo di Electro per \u003ccolor=#FFD780FF\u003eArtiglio tonante\u003c/color\u003e.",
-                                                                       "description":  "Ogni 10 s la spada di Razor si carica, e l\u0027attacco normale successivo rilascia un fulmine che infligge DAN da Electro pari a un 100% dell\u0027ATT di Razor.\nQuando Razor non sta utilizzando Zanna fulminante, un fulmine che colpisce un avversario fornisce a Razor un Sigillo di Electro per Artiglio tonante."
+                                                                       "descriptionRaw":  "#Ogni 10{NON_BREAK_SPACE}s la spada di Razor si carica, e l\u0027attacco normale successivo sprigiona un fulmine che infligge \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e pari a un 100% dell\u0027ATT di Razor.\nQuando Razor non sta utilizzando \u003ccolor=#FFD780FF\u003eZanna fulminante\u003c/color\u003e, un fulmine che colpisce un avversario fornisce a Razor un Sigillo di Electro per \u003ccolor=#FFD780FF\u003eArtiglio tonante\u003c/color\u003e.",
+                                                                       "description":  "Ogni 10 s la spada di Razor si carica, e l\u0027attacco normale successivo sprigiona un fulmine che infligge DAN da Electro pari a un 100% dell\u0027ATT di Razor.\nQuando Razor non sta utilizzando Zanna fulminante, un fulmine che colpisce un avversario fornisce a Razor un Sigillo di Electro per Artiglio tonante."
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Istinto del lupo",
@@ -6004,8 +6092,8 @@
                                                                   },
                                                            "c4":  {
                                                                       "name":  "Esplosione scintillante",
-                                                                      "descriptionRaw":  "Se Klee lascia il campo di battaglia mentre \u003ccolor=#FFD780FF\u003eSchizzi e scintille\u003c/color\u003e è attiva, verrà innescata un\u0027esplosione che infligge \u003ccolor=#FF9999FF\u003eDAN da Pyro ad area\u003c/color\u003e pari a un 555% del suo ATT.",
-                                                                      "description":  "Se Klee lascia il campo di battaglia mentre Schizzi e scintille è attiva, verrà innescata un\u0027esplosione che infligge DAN da Pyro ad area pari a un 555% del suo ATT."
+                                                                      "descriptionRaw":  "Se Klee lascia il campo di battaglia mentre \u003ccolor=#FFD780FF\u003eSchizzi e scintille\u003c/color\u003e è attiva, si innesca un\u0027esplosione che infligge \u003ccolor=#FF9999FF\u003eDAN da Pyro ad area\u003c/color\u003e pari a un 555% del suo ATT.",
+                                                                      "description":  "Se Klee lascia il campo di battaglia mentre Schizzi e scintille è attiva, si innesca un\u0027esplosione che infligge DAN da Pyro ad area pari a un 555% del suo ATT."
                                                                   },
                                                            "c3":  {
                                                                       "name":  "Miscela speciale",
@@ -6019,8 +6107,8 @@
                                                                   },
                                                            "c6":  {
                                                                       "name":  "Delizia ardente",
-                                                                      "descriptionRaw":  "#Mentre è sotto l\u0027effetto di \u003ccolor=#FFD780FF\u003eSchizzi e scintille\u003c/color\u003e, Klee ripristinerà 3 di energia a tutti i membri del gruppo (esclusa Klee) ogni 3{NON_BREAK_SPACE}s.\nQuando \u003ccolor=#FFD780FF\u003eSchizzi e scintille\u003c/color\u003e viene usata, tutti i membri del gruppo otterranno un \u003ccolor=#FF9999FF\u003ebonus DAN da Pyro\u003c/color\u003e di un 10% per 25{NON_BREAK_SPACE}s.",
-                                                                      "description":  "Mentre è sotto l\u0027effetto di Schizzi e scintille, Klee ripristinerà 3 di energia a tutti i membri del gruppo (esclusa Klee) ogni 3 s.\nQuando Schizzi e scintille viene usata, tutti i membri del gruppo otterranno un bonus DAN da Pyro di un 10% per 25 s."
+                                                                      "descriptionRaw":  "#Mentre è sotto l\u0027effetto di \u003ccolor=#FFD780FF\u003eSchizzi e scintille\u003c/color\u003e, Klee ripristina di 3 l\u0027energia di tutti i membri del gruppo (esclusa sé stessa) ogni 3{NON_BREAK_SPACE}s.\nPer 25{NON_BREAK_SPACE}s dopo aver usato \u003ccolor=#FFD780FF\u003eSchizzi e scintille\u003c/color\u003e, tutti i membri del gruppo ottengono un \u003ccolor=#FF9999FF\u003ebonus DAN da Pyro\u003c/color\u003e pari a un 10%.",
+                                                                      "description":  "Mentre è sotto l\u0027effetto di Schizzi e scintille, Klee ripristina di 3 l\u0027energia di tutti i membri del gruppo (esclusa sé stessa) ogni 3 s.\nPer 25 s dopo aver usato Schizzi e scintille, tutti i membri del gruppo ottengono un bonus DAN da Pyro pari a un 10%."
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Esplosioni a catena",
@@ -6361,8 +6449,8 @@
                                      "constellations":  {
                                                             "c2":  {
                                                                        "name":  "L\u0027osservazione nutre la strategia",
-                                                                       "descriptionRaw":  "#Potenzia gli effetti del talento d\u0027ascensione {LINK#P1222101}\u003ccolor=#FFD780FF\u003eScommessa al chiaro di luna\u003c/color\u003e{/LINK}. La durata di {LINK#N11220003}\u003ccolor=#FFD780FF\u003eVelo della menzogna\u003c/color\u003e{/LINK} aumenta di 5{NON_BREAK_SPACE}s, il limite di accumuli sale a 5 e questi fanno sì che {LINK#N11220002}\u003ccolor=#FFD780FF\u003eSpettacolo fantasma\u003c/color\u003e{/LINK} infligga fino a un 140% del suo DAN originale. Quando Nefer scatena la sua abilità elementale, \u003ccolor=#FFD780FF\u003e{LINK#S11222}Strategia del senet: Danza delle mille notti{/LINK}\u003c/color\u003e, ottiene immediatamente 2 accumuli di Velo della menzogna. Inoltre, quando quest\u0027ultimo raggiunge i 5 accumuli, o quando la durata del quinto accumulo si ripristina, la maestria elementale di Nefer aumenta di 200 per 8{NON_BREAK_SPACE}s.\nRichiede il talento d\u0027ascensione Scommessa al chiaro di luna.",
-                                                                       "description":  "Potenzia gli effetti del talento d\u0027ascensione **Scommessa al chiaro di luna**. La durata di **Velo della menzogna** aumenta di 5 s, il limite di accumuli sale a 5 e questi fanno sì che **Spettacolo fantasma** infligga fino a un 140% del suo DAN originale. Quando Nefer scatena la sua abilità elementale, **Strategia del senet: Danza delle mille notti**, ottiene immediatamente 2 accumuli di Velo della menzogna. Inoltre, quando quest\u0027ultimo raggiunge i 5 accumuli, o quando la durata del quinto accumulo si ripristina, la maestria elementale di Nefer aumenta di 200 per 8 s.\nRichiede il talento d\u0027ascensione Scommessa al chiaro di luna."
+                                                                       "descriptionRaw":  "#Potenzia gli effetti del talento d\u0027ascensione {LINK#P1222101}\u003ccolor=#FFD780FF\u003eScommessa al chiaro di luna\u003c/color\u003e{/LINK}. La durata di {LINK#N11220003}\u003ccolor=#FFD780FF\u003eVelo della menzogna\u003c/color\u003e{/LINK} aumenta di 5{NON_BREAK_SPACE}s, il suo limite di accumuli sale a 5 e {LINK#N11220002}\u003ccolor=#FFD780FF\u003eSpettacolo fantasma\u003c/color\u003e{/LINK} infligge fino a un 140% dei suoi DAN originali. Quando Nefer scatena la sua abilità elementale \u003ccolor=#FFD780FF\u003e{LINK#S11222}Strategia del senet: Danza delle mille notti{/LINK}\u003c/color\u003e, ottiene immediatamente 2 accumuli di Velo della menzogna. Inoltre, quando quest\u0027ultimo raggiunge i 5 accumuli, o quando la durata del quinto accumulo si ripristina, la maestria elementale di Nefer aumenta di 200 per 8{NON_BREAK_SPACE}s.\nRichiede il talento d\u0027ascensione Scommessa al chiaro di luna.",
+                                                                       "description":  "Potenzia gli effetti del talento d\u0027ascensione **Scommessa al chiaro di luna**. La durata di **Velo della menzogna** aumenta di 5 s, il suo limite di accumuli sale a 5 e **Spettacolo fantasma** infligge fino a un 140% dei suoi DAN originali. Quando Nefer scatena la sua abilità elementale **Strategia del senet: Danza delle mille notti**, ottiene immediatamente 2 accumuli di Velo della menzogna. Inoltre, quando quest\u0027ultimo raggiunge i 5 accumuli, o quando la durata del quinto accumulo si ripristina, la maestria elementale di Nefer aumenta di 200 per 8 s.\nRichiede il talento d\u0027ascensione Scommessa al chiaro di luna."
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Le illusioni intrappolano la ragione",
@@ -7291,8 +7379,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Profezia sommersa",
-                                                                      "descriptionRaw":  "#Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle \u003ccolor=#80C0FFFF\u003ereazioni elementali di Hydro\u003c/color\u003e sono potenziati per 8{NON_BREAK_SPACE}s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Carica lunare aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%.",
-                                                                      "description":  "Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle reazioni elementali di Hydro sono potenziati per 8 s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Carica lunare aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%."
+                                                                      "descriptionRaw":  "#Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle \u003ccolor=#80C0FFFF\u003ereazioni elementali di Hydro\u003c/color\u003e vengono potenziati per 8{NON_BREAK_SPACE}s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Carica lunare aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%.",
+                                                                      "description":  "Quando un membro del tuo gruppo colpisce un avversario sotto l\u0027effetto di un Presagio, gli effetti delle reazioni elementali di Hydro vengono potenziati per 8 s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Carica lunare aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%."
                                                                   }
                                                        },
                                     "elementText":  "Hydro",
@@ -7327,8 +7415,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Corvo dell\u0027Immernacht",
-                                                                        "descriptionRaw":  "Estende di 2 s la durata della presenza di Oz sul campo. Inoltre, quando presente, Oz effettua un attacco coordinato con il tuo personaggio attivo, infliggendo \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e pari a un 30% dell\u0027ATT di Fischl.",
-                                                                        "description":  "Estende di 2 s la durata della presenza di Oz sul campo. Inoltre, quando presente, Oz effettua un attacco coordinato con il tuo personaggio attivo, infliggendo DAN da Electro pari a un 30% dell\u0027ATT di Fischl."
+                                                                        "descriptionRaw":  "#La durata della presenza di Oz sul campo si estende di 2{NON_BREAK_SPACE}s. Inoltre, quando presente, Oz effettua un attacco coordinato con il tuo personaggio attivo, infliggendo \u003ccolor=#FFACFFFF\u003eDAN da Electro\u003c/color\u003e pari a un 30% dell\u0027ATT di Fischl.",
+                                                                        "description":  "La durata della presenza di Oz sul campo si estende di 2 s. Inoltre, quando presente, Oz effettua un attacco coordinato con il tuo personaggio attivo, infliggendo DAN da Electro pari a un 30% dell\u0027ATT di Fischl."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Occhio del corvo",
@@ -7640,6 +7728,43 @@
                                                     },
                                              "effectName":  "Offerte al vento e al sole"
                                          },
+                    "rainbowserpentsrainbow":  {
+                                                   "r3":  {
+                                                              "description":  "Quando il personaggio che equipaggia l\u0027arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 42% per 8 s.",
+                                                              "values":  [
+                                                                             "42%"
+                                                                         ]
+                                                          },
+                                                   "r5":  {
+                                                              "description":  "Quando il personaggio che equipaggia l\u0027arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 56% per 8 s.",
+                                                              "values":  [
+                                                                             "56%"
+                                                                         ]
+                                                          },
+                                                   "r2":  {
+                                                              "description":  "Quando il personaggio che equipaggia l\u0027arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 35% per 8 s.",
+                                                              "values":  [
+                                                                             "35%"
+                                                                         ]
+                                                          },
+                                                   "r4":  {
+                                                              "description":  "Quando il personaggio che equipaggia l\u0027arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 49% per 8 s.",
+                                                              "values":  [
+                                                                             "49%"
+                                                                         ]
+                                                          },
+                                                   "substatText":  "Ricarica di energia",
+                                                   "weaponText":  "Arco",
+                                                   "name":  "Arco pluviale del serpente arcobaleno",
+                                                   "effectTemplateRaw":  "#Quando il personaggio che equipaggia l\u0027arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 8{NON_BREAK_SPACE}s.",
+                                                   "r1":  {
+                                                              "description":  "Quando il personaggio che equipaggia l\u0027arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un 28% per 8 s.",
+                                                              "values":  [
+                                                                             "28%"
+                                                                         ]
+                                                          },
+                                                   "effectName":  "Sussurri astrali oltre il trono sacro"
+                                               },
                     "recurvebow":  {
                                        "r3":  {
                                                   "description":  "Sconfiggere un avversario ripristina un 12% di PS.",
@@ -8203,6 +8328,43 @@
                                                       },
                                                "effectName":  "Cerchio completo"
                                            },
+                    "thestringless":  {
+                                          "r3":  {
+                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 36%.",
+                                                     "values":  [
+                                                                    "36%"
+                                                                ]
+                                                 },
+                                          "r5":  {
+                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 48%.",
+                                                     "values":  [
+                                                                    "48%"
+                                                                ]
+                                                 },
+                                          "r2":  {
+                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 30%.",
+                                                     "values":  [
+                                                                    "30%"
+                                                                ]
+                                                 },
+                                          "r4":  {
+                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 42%.",
+                                                     "values":  [
+                                                                    "42%"
+                                                                ]
+                                                 },
+                                          "substatText":  "Maestria elementale",
+                                          "weaponText":  "Arco",
+                                          "name":  "Monocorda",
+                                          "effectTemplateRaw":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
+                                          "r1":  {
+                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 24%.",
+                                                     "values":  [
+                                                                    "24%"
+                                                                ]
+                                                 },
+                                          "effectName":  "Canzone senza frecce"
+                                      },
                     "elegyfortheend":  {
                                            "r3":  {
                                                       "description":  "Una parte del Concerto millenario che fluttua nel vento. Aumenta la maestria elementale di 90. Quando le abilità e i Tripudi elementali del personaggio equipaggiato con quest\u0027arma colpiscono gli avversari, il personaggio ottiene un Sigillo della rimembranza. Quest\u0027effetto può attivarsi una volta ogni 0,2 s, anche se il personaggio non è sul campo. Una volta ottenuti 4 Sigilli della rimembranza, questi saranno consumati e tutti i membri del gruppo vicini otterranno l\u0027effetto Concerto millenario: Canzone d\u0027addio per 12 s. Concerto millenario: Canzone d\u0027addio aumenta la maestria elementale di 150 e l\u0027ATT di un 30%. Quando l\u0027effetto sarà attivato, non otterrai altri Sigilli della rimembranza per 20 s. Gli effetti dello stesso tipo di Concerto millenario non sono cumulabili.",
@@ -10384,9 +10546,9 @@
                                                                    ]
                                                     },
                                              "r5":  {
-                                                        "description":  "Il tasso di CRIT aumenta di un 16. Quando il personaggio che equipaggia l\u0027arma usa l\u0027abilità elementale, ottiene l\u0027effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di 160 per 12 s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l\u0027effetto Luna della verità, che aumenta i DAN da CRIT di un 48% per 4 s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%.",
+                                                        "description":  "Il tasso di CRIT aumenta di un 16%. Quando il personaggio che equipaggia l\u0027arma usa l\u0027abilità elementale, ottiene l\u0027effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di 160 per 12 s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l\u0027effetto Luna della verità, che aumenta i DAN da CRIT di un 48% per 4 s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%.",
                                                         "values":  [
-                                                                       "16",
+                                                                       "16%",
                                                                        "160",
                                                                        "48%"
                                                                    ]
@@ -11692,6 +11854,53 @@
                                                  },
                                           "effectName":  "Vento propizio"
                                       },
+                    "athameartis":  {
+                                        "r3":  {
+                                                   "description":  "I DAN da CRIT del Tripudio elementale aumentano di un 24%. Quando il Tripudio elementale colpisce un avversario, si ottiene l\u0027effetto Lama delle ore diurne, che aumenta l\u0027ATT del personaggio che equipaggia l\u0027arma di un 30% e l\u0027ATT degli altri membri attivi del gruppo di un 24%. L\u0027effetto dura 3 s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest\u0027effetto può attivarsi anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                   "values":  [
+                                                                  "24%",
+                                                                  "30%",
+                                                                  "24%"
+                                                              ]
+                                               },
+                                        "r5":  {
+                                                   "description":  "I DAN da CRIT del Tripudio elementale aumentano di un 32%. Quando il Tripudio elementale colpisce un avversario, si ottiene l\u0027effetto Lama delle ore diurne, che aumenta l\u0027ATT del personaggio che equipaggia l\u0027arma di un 40% e l\u0027ATT degli altri membri attivi del gruppo vicini di un 32%. L\u0027effetto dura 3 s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest\u0027effetto può attivarsi anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                   "values":  [
+                                                                  "32%",
+                                                                  "40%",
+                                                                  "32%"
+                                                              ]
+                                               },
+                                        "r2":  {
+                                                   "description":  "I DAN da CRIT del Tripudio elementale aumentano di un 20%. Quando il Tripudio elementale colpisce un avversario, si ottiene l\u0027effetto Lama delle ore diurne, che aumenta l\u0027ATT del personaggio che equipaggia l\u0027arma di un 25% e l\u0027ATT degli altri membri attivi del gruppo di un 20%. L\u0027effetto dura 3 s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest\u0027effetto può attivarsi anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                   "values":  [
+                                                                  "20%",
+                                                                  "25%",
+                                                                  "20%"
+                                                              ]
+                                               },
+                                        "r4":  {
+                                                   "description":  "I DAN da CRIT del Tripudio elementale aumentano di un 28%. Quando il Tripudio elementale colpisce un avversario, si ottiene l\u0027effetto Lama delle ore diurne, che aumenta l\u0027ATT del personaggio che equipaggia l\u0027arma di un 35% e l\u0027ATT degli altri membri attivi del gruppo vicini di un 28%. L\u0027effetto dura 3 s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest\u0027effetto può attivarsi anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                   "values":  [
+                                                                  "28%",
+                                                                  "35%",
+                                                                  "28%"
+                                                              ]
+                                               },
+                                        "substatText":  "Tasso di CRIT",
+                                        "weaponText":  "Spada",
+                                        "name":  "Athame Artis",
+                                        "effectTemplateRaw":  "#I DAN da CRIT del Tripudio elementale aumentano di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Quando il Tripudio elementale colpisce un avversario, si ottiene l\u0027effetto Lama delle ore diurne, che aumenta l\u0027ATT del personaggio che equipaggia l\u0027arma di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e e l\u0027ATT degli altri membri attivi del gruppo vicini di un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e. L\u0027effetto dura 3{NON_BREAK_SPACE}s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest\u0027effetto può attivarsi anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                        "r1":  {
+                                                   "description":  "I DAN da CRIT del Tripudio elementale aumentano di un 16%. Quando il Tripudio elementale colpisce un avversario, si ottiene l\u0027effetto Lama delle ore diurne, che aumenta l\u0027ATT del personaggio che equipaggia l\u0027arma di un 20% e l\u0027ATT degli altri membri attivi del gruppo di un 16%. L\u0027effetto dura 3 s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest\u0027effetto può attivarsi anche se il personaggio che equipaggia l\u0027arma non è in campo.",
+                                                   "values":  [
+                                                                  "16%",
+                                                                  "20%",
+                                                                  "16%"
+                                                              ]
+                                               },
+                                        "effectName":  "Splendor Solis del Re del Giorno"
+                                    },
                     "fangofthemountainking":  {
                                                   "r3":  {
                                                              "description":  "Il personaggio ottiene 1 accumulo di Grazia delle Vette dopo aver colpito un avversario con un\u0027abilità elementale. È possibile ottenere ogni accumulo una volta ogni 0,5 s. Dopo che un membro vicino del gruppo innesca una reazione di Ustione o Germinazione, il personaggio che equipaggia l\u0027arma ottiene 3 accumuli. Quest\u0027effetto può attivarsi una volta ogni 2 s, anche se il personaggio che lo attiva non è in campo. Grazia delle Vette: i DAN da abilità elementale e da Tripudio elementale aumentano di un 15% per 6 s. Massimo 6 accumuli. La durata di ogni accumulo è calcolata in modo indipendente.",
@@ -13862,43 +14071,63 @@
                                                },
                                         "effectName":  "Al termine del cammino della bestia"
                                     },
-                    "thestringless":  {
-                                          "r3":  {
-                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 36%.",
-                                                     "values":  [
-                                                                    "36%"
-                                                                ]
-                                                 },
-                                          "r5":  {
-                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 48%.",
-                                                     "values":  [
-                                                                    "48%"
-                                                                ]
-                                                 },
-                                          "r2":  {
-                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 30%.",
-                                                     "values":  [
-                                                                    "30%"
-                                                                ]
-                                                 },
-                                          "r4":  {
-                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 42%.",
-                                                     "values":  [
-                                                                    "42%"
-                                                                ]
-                                                 },
-                                          "substatText":  "Maestria elementale",
-                                          "weaponText":  "Arco",
-                                          "name":  "Monocorda",
-                                          "effectTemplateRaw":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e.",
-                                          "r1":  {
-                                                     "description":  "Aumenta i DAN di abilità elementale e Tripudio elementale di un 24%.",
-                                                     "values":  [
-                                                                    "24%"
-                                                                ]
-                                                 },
-                                          "effectName":  "Canzone senza frecce"
-                                      },
+                    "thedaybreakchronicles":  {
+                                                  "r3":  {
+                                                             "description":  "Il personaggio che equipaggia l\u0027arma ottiene Brezza dell\u0027alba. Dopo aver trascorso 3 s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un 90%. Durante un combattimento, il suddetto bonus DAN diminuisce di un 15% al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un 15% fino a raggiungere il 90%. Quest\u0027effetto può attivarsi una volta ogni 0,1 s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l\u0027arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un 30%.",
+                                                             "values":  [
+                                                                            "90%",
+                                                                            "15%",
+                                                                            "15%",
+                                                                            "90%",
+                                                                            "30%"
+                                                                        ]
+                                                         },
+                                                  "r5":  {
+                                                             "description":  "Il personaggio che equipaggia l\u0027arma ottiene Brezza dell\u0027alba. Dopo aver trascorso 3 s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un 120%. Durante un combattimento, il suddetto bonus DAN diminuisce di un 20% al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un 20% fino a raggiungere il 120%. Quest\u0027effetto può attivarsi una volta ogni 0,1 s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l\u0027arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un 40%.",
+                                                             "values":  [
+                                                                            "120%",
+                                                                            "20%",
+                                                                            "20%",
+                                                                            "120%",
+                                                                            "40%"
+                                                                        ]
+                                                         },
+                                                  "r2":  {
+                                                             "description":  "Il personaggio che equipaggia l\u0027arma ottiene Brezza dell\u0027alba. Dopo aver trascorso 3 s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un 75%. Durante un combattimento, il suddetto bonus DAN diminuisce di un 12,5% al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un 12,5% fino a raggiungere il 75%. Quest\u0027effetto può attivarsi una volta ogni 0,1 s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l\u0027arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un 25%.",
+                                                             "values":  [
+                                                                            "75%",
+                                                                            "12,5%",
+                                                                            "12,5%",
+                                                                            "75%",
+                                                                            "25%"
+                                                                        ]
+                                                         },
+                                                  "r4":  {
+                                                             "description":  "Il personaggio che equipaggia l\u0027arma ottiene Brezza dell\u0027alba. Dopo aver trascorso 3 s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un 105%. Durante un combattimento, il suddetto bonus DAN diminuisce di un 17,5% al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un 17,5% fino a raggiungere il 105%. Quest\u0027effetto può attivarsi una volta ogni 0,1 s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l\u0027arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un 35%.",
+                                                             "values":  [
+                                                                            "105%",
+                                                                            "17,5%",
+                                                                            "17,5%",
+                                                                            "105%",
+                                                                            "35%"
+                                                                        ]
+                                                         },
+                                                  "substatText":  "DAN da CRIT",
+                                                  "weaponText":  "Arco",
+                                                  "name":  "Cronache dell\u0027alba",
+                                                  "effectTemplateRaw":  "#Il personaggio che equipaggia l\u0027arma ottiene Brezza dell\u0027alba. Dopo aver trascorso 3{NON_BREAK_SPACE}s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Durante un combattimento, il suddetto bonus DAN diminuisce di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e fino a raggiungere il \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e. Quest\u0027effetto può attivarsi una volta ogni 0,1{NON_BREAK_SPACE}s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l\u0027arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un \u003ccolor=#99FFFFFF\u003e{4}\u003c/color\u003e.",
+                                                  "r1":  {
+                                                             "description":  "Il personaggio che equipaggia l\u0027arma ottiene Brezza dell\u0027alba. Dopo aver trascorso 3 s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un 60%. Durante un combattimento, il suddetto bonus DAN diminuisce di un 10% al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un 10% fino a raggiungere il 60%. Quest\u0027effetto può attivarsi una volta ogni 0,1 s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l\u0027arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l\u0027arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un 20%.",
+                                                             "values":  [
+                                                                            "60%",
+                                                                            "10%",
+                                                                            "10%",
+                                                                            "60%",
+                                                                            "20%"
+                                                                        ]
+                                                         },
+                                                  "effectName":  "Ode atemporale"
+                                              },
                     "lumidouceelegy":  {
                                            "r3":  {
                                                       "description":  "L\u0027ATT aumenta di un 23%. Quando il personaggio che equipaggia l\u0027arma innesca Ustione su un avversario o infligge DAN da Dendro ad avversari affetti da Ustione, i DAN inflitti aumentano di un 28%. L\u0027effetto dura 8 s, ed è cumulabile fino a 2 volte. Quando si ottengono 2 accumuli, o quando la durata dell\u0027effetto si ripristina all\u0027ottenimento del secondo accumulo, l\u0027energia si ricarica di 14. Questa forma di ripristino dell\u0027energia può verificarsi solo una volta ogni 12 s. I 2 suddetti effetti possono attivarsi anche se il personaggio non è in campo.",
@@ -16351,10 +16580,10 @@
                                                       "name":  "Meka costruttore specializzato",
                                                       "specialname":  null
                                                   },
-                    "yumkasauruswarriorwhirlingleaves":  {
-                                                             "name":  "Guerriero Yumkasauro: Vortifoglie",
-                                                             "specialname":  null
-                                                         },
+                    "superheavylandrovermechanizedfortress":  {
+                                                                  "name":  "Incrociatore terrestre super pesante: Fortezza meccanizzata",
+                                                                  "specialname":  null
+                                                              },
                     "treasurehoardersmarksman":  {
                                                      "name":  "Cacciatore di tesori cecchino",
                                                      "specialname":  null
@@ -16819,6 +17048,10 @@
                                            "name":  "Suanni solitario",
                                            "specialname":  null
                                        },
+                    "yumkasauruswarriorwhirlingleaves":  {
+                                                             "name":  "Guerriero Yumkasauro: Vortifoglie",
+                                                             "specialname":  null
+                                                         },
                     "cryoregisvine":  {
                                           "name":  "Regisreptus di Cryo",
                                           "specialname":  null
