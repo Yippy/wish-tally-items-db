@@ -528,9 +528,9 @@
                       "butter":  {
                                      "name":  "Burro"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Ossa compatte"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Coda recisa prismatica"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Asse della Fonte segreta"
                                                 },
@@ -726,6 +726,9 @@
                       "amethystlump":  {
                                            "name":  "Pezzo d\u0027ametista"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "Sfera dell\u0027Ombra sfuggente"
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Frammento di lazurite Varunada"
                                                    },
@@ -2181,6 +2184,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Elisir santificatore"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Ossa compatte"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Guida all\u0027ordine"
                                        },
@@ -6242,6 +6248,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "femmina"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "\"All\u0027alba, intraprenderemo il nostro viaggio\"",
+                                                                       "descriptionRaw":  "Quando Varka scatena l\u0027abilità elementale speciale {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAscensione dei Quattro Venti\u003c/color\u003e{/LINK} o esegue l\u0027attacco caricato speciale \u003ccolor=#FFD780FF\u003eDivorazzurro\u003c/color\u003e, sferra un colpo aggiuntivo che infligge \u003ccolor=#80FFD7FF\u003eDAN da Anemo ad area\u003c/color\u003e pari a un 800% del suo ATT.",
+                                                                       "description":  "Quando Varka scatena l\u0027abilità elementale speciale **Ascensione dei Quattro Venti** o esegue l\u0027attacco caricato speciale Divorazzurro, sferra un colpo aggiuntivo che infligge DAN da Anemo ad area pari a un 800% del suo ATT."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "\"Perché nessuno potrà mai privarci della nostra libertà di cantare\"",
+                                                                       "descriptionRaw":  "#Quando Varka innesca una reazione di Turbinio, tutti i membri vicini del gruppo ottengono per 10{NON_BREAK_SPACE}s un 20% di \u003ccolor=#80FFD7FF\u003ebonus DAN da Anemo\u003c/color\u003e e il bonus DAN elementali corrispondente in base ai tipi elementali coinvolti nella reazione.",
+                                                                       "description":  "Quando Varka innesca una reazione di Turbinio, tutti i membri vicini del gruppo ottengono per 10 s un 20% di bonus DAN da Anemo e il bonus DAN elementali corrispondente in base ai tipi elementali coinvolti nella reazione."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "\"Non bere il vino amaro che porta lacrime di dolore\"",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello dell\u0027abilità elementale \u003ccolor=#FFD780FF\u003e{LINK#S11282}Turbine della sentenza{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello dell\u0027abilità elementale **Turbine della sentenza**.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "\"Riempi la coppa di vino pregiato, poiché la tirannia viene e va\"",
+                                                                       "descriptionRaw":  "Aumenta di 3 il livello del Tripudio elementale \u003ccolor=#FFD780FF\u003e{LINK#S11285}Incarnazione del Vento del Nord{/LINK}\u003c/color\u003e.\nIl livello di potenziamento massimo è 15.",
+                                                                       "description":  "Aumenta di 3 il livello del Tripudio elementale **Incarnazione del Vento del Nord**.\nIl livello di potenziamento massimo è 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "\"Amata Mondstadt, possa tu risplendere come sempre\"",
+                                                                       "descriptionRaw":  "{LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK} riceve un potenziamento.\n· Per un breve periodo di tempo dopo aver scatenato l\u0027abilità elementale speciale {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAscensione dei Quattro Venti\u003c/color\u003e{/LINK}, la pressione dell\u0027abilità elementale di Varka o la pressione prolungata del suo attacco normale non consuma utilizzi di Ascensione dei Quattro Venti, ed esegue un\u0027iterazione aggiuntiva dell\u0027attacco caricato speciale \u003ccolor=#FFD780FF\u003eDivorazzurro\u003c/color\u003e.\n· Per un breve periodo di tempo dopo aver eseguito l\u0027attacco caricato speciale \u003ccolor=#FFD780FF\u003eDivorazzurro\u003c/color\u003e, la pressione dell\u0027abilità elementale di Varka permette di scatenare un\u0027iterazione aggiuntiva di \u003ccolor=#FFD780FF\u003eAscensione dei Quattro Venti\u003c/color\u003e senza consumare nessuno dei suoi utilizzi.\nQuando s\u0027innesca in questo modo un attacco caricato speciale Divorazzurro aggiuntivo o un\u0027abilità elementale speciale Ascensione dei Quattro Venti aggiuntiva, l\u0027effetto sopracitato non può essere innescato.\n\nInoltre, l\u0027effetto \u003ccolor=#FFD780FF\u003eGiuramento della Zanna azzurra\u003c/color\u003e del talento d\u0027ascensione \u003ccolor=#FFD780FF\u003e{LINK#P1282201}Avanguardia del vento{/LINK}\u003c/color\u003e viene potenziato: ogni accumulo di \u003ccolor=#FFD780FF\u003eGiuramento della Zanna azzurra\u003c/color\u003e aumenta i DAN da CRIT di Varka di un 20%.",
+                                                                       "description":  "**Sturm und Drang** riceve un potenziamento.\n· Per un breve periodo di tempo dopo aver scatenato l\u0027abilità elementale speciale **Ascensione dei Quattro Venti**, la pressione dell\u0027abilità elementale di Varka o la pressione prolungata del suo attacco normale non consuma utilizzi di Ascensione dei Quattro Venti, ed esegue un\u0027iterazione aggiuntiva dell\u0027attacco caricato speciale Divorazzurro.\n· Per un breve periodo di tempo dopo aver eseguito l\u0027attacco caricato speciale Divorazzurro, la pressione dell\u0027abilità elementale di Varka permette di scatenare un\u0027iterazione aggiuntiva di Ascensione dei Quattro Venti senza consumare nessuno dei suoi utilizzi.\nQuando s\u0027innesca in questo modo un attacco caricato speciale Divorazzurro aggiuntivo o un\u0027abilità elementale speciale Ascensione dei Quattro Venti aggiuntiva, l\u0027effetto sopracitato non può essere innescato.\n\nInoltre, l\u0027effetto Giuramento della Zanna azzurra del talento d\u0027ascensione **Avanguardia del vento** viene potenziato: ogni accumulo di Giuramento della Zanna azzurra aumenta i DAN da CRIT di Varka di un 20%."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "\"Vieni, danziamo sotto il dolce chiaro di luna\"",
+                                                                       "descriptionRaw":  "Quando Varka attiva la modalità {LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK}, ottiene un utilizzo aggiuntivo dell\u0027abilità elementale speciale {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAscensione dei Quattro Venti\u003c/color\u003e{/LINK}.\nInoltre, dopo aver attivato \u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e, Varka ottiene l\u0027effetto \u003ccolor=#FFD780FF\u003eLibagione lirica\u003c/color\u003e: quando scatena l\u0027abilità elementale speciale \u003ccolor=#FFD780FF\u003eAscensione dei Quattro Venti\u003c/color\u003e o esegue l\u0027attacco caricato speciale \u003ccolor=#FFD780FF\u003eDivorazzurro\u003c/color\u003e, può consumare questo effetto per infliggere un 200% dei DAN originali di \u003ccolor=#FFD780FF\u003eAscensione dei Quattro Venti\u003c/color\u003e o \u003ccolor=#FFD780FF\u003eDivorazzurro\u003c/color\u003e.",
+                                                                       "description":  "Quando Varka attiva la modalità **Sturm und Drang**, ottiene un utilizzo aggiuntivo dell\u0027abilità elementale speciale **Ascensione dei Quattro Venti**.\nInoltre, dopo aver attivato Sturm und Drang, Varka ottiene l\u0027effetto Libagione lirica: quando scatena l\u0027abilità elementale speciale Ascensione dei Quattro Venti o esegue l\u0027attacco caricato speciale Divorazzurro, può consumare questo effetto per infliggere un 200% dei DAN originali di Ascensione dei Quattro Venti o Divorazzurro."
+                                                                   }
+                                                        },
+                                     "elementText":  "Anemo",
+                                     "fullname":  null,
+                                     "weaponText":  "Claymore",
+                                     "name":  "Varka",
+                                     "substatText":  "DAN da CRIT",
+                                     "region":  "Mondstadt",
+                                     "gender":  "maschio"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -9844,6 +9891,48 @@
                                                  },
                                           "effectName":  "Danza Kagura del Sakura sacro"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "La VEL d\u0027ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l\u0027arma colpisce gli avversari con un attacco normale, quando usa l\u0027abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un 11,5% per 4 s. L\u0027effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01 s.\nInoltre, quando nel gruppo è attivo l\u0027effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un 11,5% anche i DAN da CRIT del personaggio che equipaggia l\u0027arma.",
+                                                           "values":  [
+                                                                          "11,5%",
+                                                                          "11,5%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "La VEL d\u0027ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l\u0027arma colpisce gli avversari con un attacco normale, quando usa l\u0027abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un 15,5% per 4 s. L\u0027effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01 s.\nInoltre, quando nel gruppo è attivo l\u0027effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un 15,5% anche i DAN da CRIT del personaggio che equipaggia l\u0027arma.",
+                                                           "values":  [
+                                                                          "15,5%",
+                                                                          "15,5%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "La VEL d\u0027ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l\u0027arma colpisce gli avversari con un attacco normale, quando usa l\u0027abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un 9,5% per 4 s. L\u0027effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01 s.\nInoltre, quando nel gruppo è attivo l\u0027effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un 9,5% anche i DAN da CRIT del personaggio che equipaggia l\u0027arma.",
+                                                           "values":  [
+                                                                          "9,5%",
+                                                                          "9,5%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "La VEL d\u0027ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l\u0027arma colpisce gli avversari con un attacco normale, quando usa l\u0027abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un 13,5% per 4 s. L\u0027effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01 s.\nInoltre, quando nel gruppo è attivo l\u0027effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un 13,5% anche i DAN da CRIT del personaggio che equipaggia l\u0027arma.",
+                                                           "values":  [
+                                                                          "13,5%",
+                                                                          "13,5%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Tasso di CRIT",
+                                                "weaponText":  "Claymore",
+                                                "name":  "Gesta del Lupo maestoso",
+                                                "effectTemplateRaw":  "#La VEL d\u0027ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l\u0027arma colpisce gli avversari con un attacco normale, quando usa l\u0027abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e per 4{NON_BREAK_SPACE}s. L\u0027effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01{NON_BREAK_SPACE}s.\nInoltre, quando nel gruppo è attivo l\u0027effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e anche i DAN da CRIT del personaggio che equipaggia l\u0027arma.",
+                                                "r1":  {
+                                                           "description":  "La VEL d\u0027ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l\u0027arma colpisce gli avversari con un attacco normale, quando usa l\u0027abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un 7,5% per 4 s. L\u0027effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01 s.\nInoltre, quando nel gruppo è attivo l\u0027effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un 7,5% anche i DAN da CRIT del personaggio che equipaggia l\u0027arma.",
+                                                           "values":  [
+                                                                          "7,5%",
+                                                                          "7,5%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Cavalleria indomita"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "Dopo aver inflitto danni a un avversario, il tasso di CRIT aumenta di un 12%. Cumulabile fino a 5 volte. In caso di colpo CRIT, la quantità cumulata si azzera.",
@@ -16742,7 +16831,7 @@
                 },
     "enemies":  {
                     "oprichnikibombardier":  {
-                                                 "name":  "Oprichniki dei Fatui bombardiere",
+                                                 "name":  "Oprichniki dei Fatui: Bombardiere",
                                                  "specialname":  null
                                              },
                     "cuttingedgeallpurposescoutlandcruiser":  {
@@ -16926,7 +17015,7 @@
                                                "specialname":  null
                                            },
                     "oprichnikihailstormcannoneer":  {
-                                                         "name":  "Oprichniki dei Fatui cannoniere della grandine",
+                                                         "name":  "Oprichniki dei Fatui: Cannoniere della grandine",
                                                          "specialname":  null
                                                      },
                     "thundercravenrifthound":  {
@@ -17110,7 +17199,7 @@
                                                          "specialname":  null
                                                      },
                     "oprichnikifirebladeshocktrooper":  {
-                                                            "name":  "Oprichniki dei Fatui soldato d\u0027assalto Fiammalama",
+                                                            "name":  "Oprichniki dei Fatui: Soldato d\u0027assalto Fiammalama",
                                                             "specialname":  null
                                                         },
                     "bubblyseahorse":  {
@@ -17242,7 +17331,7 @@
                                           "specialname":  null
                                       },
                     "oprichnikimedic":  {
-                                            "name":  "Oprichniki dei Fatui assistente medico",
+                                            "name":  "Oprichniki dei Fatui: Assistente medico",
                                             "specialname":  null
                                         },
                     "pyrowhopperflower":  {
@@ -17282,7 +17371,7 @@
                                            "specialname":  null
                                        },
                     "oprichnikithunderblitzgvardiya":  {
-                                                           "name":  "Oprichniki dei Fatui Gvardiya del fulmine",
+                                                           "name":  "Oprichniki dei Fatui: Gvardiya del fulmine",
                                                            "specialname":  null
                                                        },
                     "thunderingwayobmanifestation":  {
@@ -17358,7 +17447,7 @@
                                           "specialname":  null
                                       },
                     "oprichnikivanguard":  {
-                                               "name":  "Oprichniki dei Fatui avanguardia",
+                                               "name":  "Oprichniki dei Fatui: Avanguardia",
                                                "specialname":  null
                                            },
                     "geospecter":  {
@@ -17502,7 +17591,7 @@
                                                    "specialname":  null
                                                },
                     "oprichnikigrenadier":  {
-                                                "name":  "Oprichniki dei Fatui granatiere",
+                                                "name":  "Oprichniki dei Fatui: Granatiere",
                                                 "specialname":  null
                                             },
                     "frostoperative":  {
@@ -17602,7 +17691,7 @@
                                                               "specialname":  null
                                                           },
                     "oprichnikilinetrooper":  {
-                                                  "name":  "Oprichniki dei Fatui soldato di linea",
+                                                  "name":  "Oprichniki dei Fatui: Soldato di linea",
                                                   "specialname":  null
                                               },
                     "geovishaphatchling":  {
@@ -17773,6 +17862,10 @@
                                         "name":  "Polpotondo",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "Gecoluna radioso",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Meka d\u0027assalto subacqueo",
                                                 "specialname":  null
@@ -17882,7 +17975,7 @@
                                                          "specialname":  null
                                                      },
                     "oprichnikisupporttrooper":  {
-                                                     "name":  "Oprichniki dei Fatui soldato di supporto",
+                                                     "name":  "Oprichniki dei Fatui: Soldato di supporto",
                                                      "specialname":  null
                                                  },
                     "oceanid":  {

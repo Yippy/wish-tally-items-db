@@ -559,9 +559,9 @@
                       "butter":  {
                                      "name":  "Butter"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Sturdy Shell"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Prismatic Severed Tail"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Axis of the Secret Source"
                                                 },
@@ -757,6 +757,9 @@
                       "amethystlump":  {
                                            "name":  "Amethyst Lump"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "Sphere of Fleeting Shadow"
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Varunada Lazurite Fragment"
                                                    },
@@ -2212,6 +2215,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Sanctifying Elixir"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Sturdy Shell"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Guide to Order"
                                        },
@@ -3161,8 +3167,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "Night on Bald Mountain",
-                                                                       "descriptionRaw":  "Flins\u0027s ATK is increased by 20%.\nAdditionally, his Ascension Talent {LINK#P1202201}\u003ccolor=#FFD780FF\u003e\"Whispering Flame\"\u003c/color\u003e{/LINK} is enhanced: Flins\u0027s Elemental Mastery is increased by 10% of his ATK. The maximum increase obtainable this way is 220.",
-                                                                       "description":  "Flins\u0027s ATK is increased by 20%.\nAdditionally, his Ascension Talent **\"Whispering Flame\"** is enhanced: Flins\u0027s Elemental Mastery is increased by 10% of his ATK. The maximum increase obtainable this way is 220."
+                                                                       "descriptionRaw":  "Flins\u0027s ATK is increased by 20%.\nAdditionally, his Ascension Talent {LINK#P1202201}\u003ccolor=#FFD780FF\u003eWhispering Flame\u003c/color\u003e{/LINK} is enhanced: Flins\u0027s Elemental Mastery is increased by 10% of his ATK. The maximum increase obtainable this way is 220.",
+                                                                       "description":  "Flins\u0027s ATK is increased by 20%.\nAdditionally, his Ascension Talent **Whispering Flame** is enhanced: Flins\u0027s Elemental Mastery is increased by 10% of his ATK. The maximum increase obtainable this way is 220."
                                                                    },
                                                             "c3":  {
                                                                        "name":  "Stranger in the Night",
@@ -6273,6 +6279,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "Female"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "\"When Dawn Breaks, Our Journey Shall Take Flight\"",
+                                                                       "descriptionRaw":  "When unleashing the special Elemental Skill {LINK#N11280002}\u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e{/LINK}, or when performing the special Charged Attack \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e, Varka will perform an additional strike, dealing \u003ccolor=#80FFD7FF\u003eAoE Anemo DMG\u003c/color\u003e equal to 800% of Varka\u0027s ATK.",
+                                                                       "description":  "When unleashing the special Elemental Skill **Four Winds\u0027 Ascension**, or when performing the special Charged Attack Azure Devour, Varka will perform an additional strike, dealing AoE Anemo DMG equal to 800% of Varka\u0027s ATK."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "\"For None May Take From Us Our Freedom of Song\"",
+                                                                       "descriptionRaw":  "When Varka triggers a Swirl reaction, based on the Elemental Types involved in the reaction, all nearby party members gain a 20% \u003ccolor=#80FFD7FF\u003eAnemo DMG Bonus\u003c/color\u003e and the corresponding Elemental DMG Bonus for 10s.",
+                                                                       "description":  "When Varka triggers a Swirl reaction, based on the Elemental Types involved in the reaction, all nearby party members gain a 20% Anemo DMG Bonus and the corresponding Elemental DMG Bonus for 10s."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "\"O Friend, Quaff Not the Bitter Wine That Brings Tears of Woe\"",
+                                                                       "descriptionRaw":  "Increases Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11282}Windbound Execution{/LINK}\u003c/color\u003e Level by 3.\nMaximum upgrade level is 15.",
+                                                                       "description":  "Increases Elemental Skill **Windbound Execution** Level by 3.\nMaximum upgrade level is 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "\"Fill High the Cup With Fine Wine, for Tyrants Come and Go\"",
+                                                                       "descriptionRaw":  "Increases Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11285}Northwind Avatar{/LINK}\u003c/color\u003e Level by 3.\n Maximum upgrade level is 15.",
+                                                                       "description":  "Increases Elemental Burst **Northwind Avatar** Level by 3.\n Maximum upgrade level is 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "\"Beloved Mondstadt, Steadfast You Shall Shine\"",
+                                                                       "descriptionRaw":  "{LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK} is enhanced:\n· For a short time after unleashing the special Elemental Skill {LINK#N11280002}\u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e{/LINK}, Tapping on Varka\u0027s Elemental Skill or Holding his Normal Attack will not expend any uses of Four Winds\u0027 Ascension, and will perform one additional instance of the special Charged Attack, \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e.\n· For a short time after performing the special Charged Attack \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e, tap on Varka\u0027s Elemental Skill to unleash an additional instance of \u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e without expending any uses of Four Winds\u0027 Ascension.\nWhen triggering an additional special Charged Attack, Azure Devour, or unleashing an additional special Elemental Skill, Four Winds\u0027 Ascension, in this manner, the above effect cannot be triggered.\n\nAdditionally, the \u003ccolor=#FFD780FF\u003eAzure Fang\u0027s Oath\u003c/color\u003e effect in Ascension Talent \u003ccolor=#FFD780FF\u003e{LINK#P1282201}Wind\u0027s Vanguard{/LINK}\u003c/color\u003e is enhanced: Every stack of \u003ccolor=#FFD780FF\u003eAzure Fang\u0027s Oath\u003c/color\u003e will increase Varka\u0027s CRIT DMG by 20%.",
+                                                                       "description":  "**Sturm und Drang** is enhanced:\n· For a short time after unleashing the special Elemental Skill **Four Winds\u0027 Ascension**, Tapping on Varka\u0027s Elemental Skill or Holding his Normal Attack will not expend any uses of Four Winds\u0027 Ascension, and will perform one additional instance of the special Charged Attack, Azure Devour.\n· For a short time after performing the special Charged Attack Azure Devour, tap on Varka\u0027s Elemental Skill to unleash an additional instance of Four Winds\u0027 Ascension without expending any uses of Four Winds\u0027 Ascension.\nWhen triggering an additional special Charged Attack, Azure Devour, or unleashing an additional special Elemental Skill, Four Winds\u0027 Ascension, in this manner, the above effect cannot be triggered.\n\nAdditionally, the Azure Fang\u0027s Oath effect in Ascension Talent **Wind\u0027s Vanguard** is enhanced: Every stack of Azure Fang\u0027s Oath will increase Varka\u0027s CRIT DMG by 20%."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "\"Come, Friend, Let Us Dance Beneath the Moon\u0027s Soft Glow\"",
+                                                                       "descriptionRaw":  "When Varka switches to {LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK}, he will obtain an additional use of the special Elemental Skill {LINK#N11280002}\u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e{/LINK}.\nAdditionally, after switching to \u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e, Varka will gain the \u003ccolor=#FFD780FF\u003eLyrical Libation\u003c/color\u003e effect: When unleashing the special Elemental Skill \u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e, or when performing the special Charged Attack \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e, Varka will consume this effect to deal 200% of the original DMG dealt by \u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e or \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e.",
+                                                                       "description":  "When Varka switches to **Sturm und Drang**, he will obtain an additional use of the special Elemental Skill **Four Winds\u0027 Ascension**.\nAdditionally, after switching to Sturm und Drang, Varka will gain the Lyrical Libation effect: When unleashing the special Elemental Skill Four Winds\u0027 Ascension, or when performing the special Charged Attack Azure Devour, Varka will consume this effect to deal 200% of the original DMG dealt by Four Winds\u0027 Ascension or Azure Devour."
+                                                                   }
+                                                        },
+                                     "elementText":  "Anemo",
+                                     "fullname":  null,
+                                     "weaponText":  "Claymore",
+                                     "name":  "Varka",
+                                     "substatText":  "CRIT DMG",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Male"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -9020,14 +9067,14 @@
                                                           ]
                                            },
                                     "r2":  {
-                                               "description":  "Increases ATK by 25%. When party members obtain Elemental Shards from Crystallize or Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 22.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper\u0027s Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction.",
+                                               "description":  "Increases ATK by 25%. When party members obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 22.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper\u0027s Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction.",
                                                "values":  [
                                                               "25%",
                                                               "22.5%"
                                                           ]
                                            },
                                     "r4":  {
-                                               "description":  "Increases ATK by 35%. When party members obtain Elemental Shards from Crystallize or Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 31.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper\u0027s Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction.",
+                                               "description":  "Increases ATK by 35%. When party members obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 31.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper\u0027s Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction.",
                                                "values":  [
                                                               "35%",
                                                               "31.5%"
@@ -9875,6 +9922,48 @@
                                                  },
                                           "effectName":  "Kagura Dance of the Sacred Sakura"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "Increase ATK SPD by 10%. Every time the equipping character\u0027s Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds\u0027 Hymn respectively: DMG dealt is increased by 11.5% for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds\u0027 Hymn also increases the equipping character\u0027s CRIT DMG by 11.5%.",
+                                                           "values":  [
+                                                                          "11.5%",
+                                                                          "11.5%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Increase ATK SPD by 10%. Every time the equipping character\u0027s Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds\u0027 Hymn respectively: DMG dealt is increased by 15.5% for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds\u0027 Hymn also increases the equipping character\u0027s CRIT DMG by 15.5%.",
+                                                           "values":  [
+                                                                          "15.5%",
+                                                                          "15.5%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Increase ATK SPD by 10%. Every time the equipping character\u0027s Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds\u0027 Hymn respectively: DMG dealt is increased by 9.5% for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds\u0027 Hymn also increases the equipping character\u0027s CRIT DMG by 9.5%.",
+                                                           "values":  [
+                                                                          "9.5%",
+                                                                          "9.5%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Increase ATK SPD by 10%. Every time the equipping character\u0027s Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds\u0027 Hymn respectively: DMG dealt is increased by 13.5% for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds\u0027 Hymn also increases the equipping character\u0027s CRIT DMG by 13.5%.",
+                                                           "values":  [
+                                                                          "13.5%",
+                                                                          "13.5%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "CRIT Rate",
+                                                "weaponText":  "Claymore",
+                                                "name":  "Gest of the Mighty Wolf",
+                                                "effectTemplateRaw":  "Increase ATK SPD by 10%. Every time the equipping character\u0027s Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds\u0027 Hymn respectively: DMG dealt is increased by \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds\u0027 Hymn also increases the equipping character\u0027s CRIT DMG by \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                                "r1":  {
+                                                           "description":  "Increase ATK SPD by 10%. Every time the equipping character\u0027s Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds\u0027 Hymn respectively: DMG dealt is increased by 7.5% for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds\u0027 Hymn also increases the equipping character\u0027s CRIT DMG by 7.5%.",
+                                                           "values":  [
+                                                                          "7.5%",
+                                                                          "7.5%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Indomitable Chivalry"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "Upon damaging an opponent, increases CRIT Rate by 12%. Max 5 stacks. A CRIT Hit removes all stacks.",
@@ -10487,7 +10576,7 @@
                                                             "description":  "After damaging an opponent with an Elemental Skill, the skill has a 80% chance to end its own CD. Can only occur once every 16s.",
                                                             "values":  [
                                                                            "80%",
-                                                                           "16s"
+                                                                           "16"
                                                                        ]
                                                         },
                                                  "r2":  {
@@ -10507,7 +10596,7 @@
                                                  "substatText":  "Elemental Mastery",
                                                  "weaponText":  "Catalyst",
                                                  "name":  "Sacrificial Fragments",
-                                                 "effectTemplateRaw":  "After damaging an opponent with an Elemental Skill, the skill has a \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e chance to end its own CD. Can only occur once every \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                                 "effectTemplateRaw":  "After damaging an opponent with an Elemental Skill, the skill has a \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e chance to end its own CD. Can only occur once every \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003es.",
                                                  "r1":  {
                                                             "description":  "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s.",
                                                             "values":  [
@@ -17814,6 +17903,10 @@
                                         "name":  "Ball Octopus",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "Radiant Moongecko",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Deepwater Assault Mek",
                                                 "specialname":  null

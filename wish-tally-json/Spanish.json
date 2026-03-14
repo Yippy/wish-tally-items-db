@@ -528,9 +528,9 @@
                       "butter":  {
                                      "name":  "Mantequilla"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Caparazón sólido"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Cola prismática cortada"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Eje fuentenigma"
                                                 },
@@ -726,6 +726,9 @@
                       "amethystlump":  {
                                            "name":  "Pedazo de amatista"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "Esfera mecánica Sombrafugaz"
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Fragmento de lazurita varunada"
                                                    },
@@ -2181,6 +2184,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Escarcha bendita"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Caparazón sólido"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Guía del orden"
                                        },
@@ -6242,6 +6248,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "Femenino"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "“Emprenderemos nuestro camino al amanecer”",
+                                                                       "descriptionRaw":  "Al usar la Habilidad Elemental especial {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAlzamiento de los Cuatro Vientos\u003c/color\u003e{/LINK} o al ejecutar el Ataque Cargado especial \u003ccolor=#FFD780FF\u003eDevorazul\u003c/color\u003e, Varka realizará un ataque adicional que inflige \u003ccolor=#80FFD7FF\u003eDaño Anemo en el AdE\u003c/color\u003e equivalente al 800% de su ATQ.",
+                                                                       "description":  "Al usar la Habilidad Elemental especial **Alzamiento de los Cuatro Vientos** o al ejecutar el Ataque Cargado especial Devorazul, Varka realizará un ataque adicional que inflige Daño Anemo en el AdE equivalente al 800% de su ATQ."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "“Pues nadie puede arrebatarnos la libertad de cantar”",
+                                                                       "descriptionRaw":  "#Cuando Varka causa una reacción de Torbellino, todos los personajes cercanos del equipo obtienen durante 10{NON_BREAK_SPACE}s un 20% de \u003ccolor=#80FFD7FF\u003eBono de Daño Anemo\u003c/color\u003e y bono de daño del elemento correspondiente en función de los elementos que hayan contribuido a la reacción.",
+                                                                       "description":  "Cuando Varka causa una reacción de Torbellino, todos los personajes cercanos del equipo obtienen durante 10 s un 20% de Bono de Daño Anemo y bono de daño del elemento correspondiente en función de los elementos que hayan contribuido a la reacción."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "“No bebas más del amargo vino melancólico”",
+                                                                       "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003e{LINK#S11282}Tempestad precipitante{/LINK}\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                       "description":  "Aumenta el nivel de habilidad de **Tempestad precipitante** +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "“Llena la copa de vino, pues los tiranos van y vienen”",
+                                                                       "descriptionRaw":  "#Aumenta el nivel de habilidad de \u003ccolor=#FFD780FF\u003e{LINK#S11285}Soy el viento boreal{/LINK}\u003c/color\u003e{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+                                                                       "description":  "Aumenta el nivel de habilidad de **Soy el viento boreal** +3.\nPuede ser aumentado hasta Niv. 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "“Mi amada Mondstadt, tan firme como siempre”",
+                                                                       "descriptionRaw":  "#Fortalece el modo {LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK}:\n·Durante un breve periodo de tiempo tras usar la Habilidad Elemental especial {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAlzamiento de los Cuatro Vientos\u003c/color\u003e{/LINK}, {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez} la Habilidad Elemental de Varka o mantener pulsado su Ataque Normal hará que ejecute adicionalmente un Ataque Cargado especial \u003ccolor=#FFD780FF\u003eDevorazul\u003c/color\u003e sin consumir ningún uso de “Alzamiento de los Cuatro Vientos”.\n·Durante un breve periodo de tiempo tras ejecutar el Ataque Cargado especial \u003ccolor=#FFD780FF\u003eDevorazul\u003c/color\u003e, {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez} la Habilidad Elemental de Varka hará que use \u003ccolor=#FFD780FF\u003eAlzamiento de los Cuatro Vientos\u003c/color\u003e una vez adicional sin consumir usos.\nEstos efectos no se activarán cuando Varka ejecute adicionalmente un Ataque Cargado especial “Devorazul” o use su Habilidad Elemental especial “Alzamiento de los Cuatro Vientos” una vez adicional por medio de alguna de las formas anteriormente mencionadas.\n\nAdemás, el efecto de \u003ccolor=#FFD780FF\u003ejuramento colmilloazur\u003c/color\u003e del talento de ascensión \u003ccolor=#FFD780FF\u003e{LINK#P1282201}Estandarte del viento{/LINK}\u003c/color\u003e se fortalece, de manera que cada carga de \u003ccolor=#FFD780FF\u003ejuramento colmilloazur\u003c/color\u003e aumenta el Daño CRIT de Varka en un 20%.",
+                                                                       "description":  "Fortalece el modo **Sturm und Drang**:\n·Durante un breve periodo de tiempo tras usar la Habilidad Elemental especial **Alzamiento de los Cuatro Vientos**, pulsar una vez la Habilidad Elemental de Varka o mantener pulsado su Ataque Normal hará que ejecute adicionalmente un Ataque Cargado especial Devorazul sin consumir ningún uso de “Alzamiento de los Cuatro Vientos”.\n·Durante un breve periodo de tiempo tras ejecutar el Ataque Cargado especial Devorazul, pulsar una vez la Habilidad Elemental de Varka hará que use Alzamiento de los Cuatro Vientos una vez adicional sin consumir usos.\nEstos efectos no se activarán cuando Varka ejecute adicionalmente un Ataque Cargado especial “Devorazul” o use su Habilidad Elemental especial “Alzamiento de los Cuatro Vientos” una vez adicional por medio de alguna de las formas anteriormente mencionadas.\n\nAdemás, el efecto de juramento colmilloazur del talento de ascensión **Estandarte del viento** se fortalece, de manera que cada carga de juramento colmilloazur aumenta el Daño CRIT de Varka en un 20%."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "“Ven, bailemos bajo la luz de la luna”",
+                                                                       "descriptionRaw":  "Cuando Varka cambie al modo {LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK}, obtendrá 1 uso adicional de su Habilidad Elemental especial {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAlzamiento de los Cuatro Vientos\u003c/color\u003e{/LINK}.\nAdemás, tras cambiar al modo \u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e, Varka obtendrá el efecto de \u003ccolor=#FFD780FF\u003evino lírico\u003c/color\u003e, el cual consumirá al usar la Habilidad Elemental especial \u003ccolor=#FFD780FF\u003eAlzamiento de los Cuatro Vientos\u003c/color\u003e o al ejecutar el Ataque Cargado especial \u003ccolor=#FFD780FF\u003eDevorazul\u003c/color\u003e para infligir un 200% de su daño original.",
+                                                                       "description":  "Cuando Varka cambie al modo **Sturm und Drang**, obtendrá 1 uso adicional de su Habilidad Elemental especial **Alzamiento de los Cuatro Vientos**.\nAdemás, tras cambiar al modo Sturm und Drang, Varka obtendrá el efecto de vino lírico, el cual consumirá al usar la Habilidad Elemental especial Alzamiento de los Cuatro Vientos o al ejecutar el Ataque Cargado especial Devorazul para infligir un 200% de su daño original."
+                                                                   }
+                                                        },
+                                     "elementText":  "Anemo",
+                                     "fullname":  null,
+                                     "weaponText":  "Mandoble",
+                                     "name":  "Varka",
+                                     "substatText":  "Daño CRIT",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Masculino"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -9844,6 +9891,48 @@
                                                  },
                                           "effectName":  "Danza kagura del Cerezo Sagrado"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un 11.5%. Este efecto dura 4 s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01 s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un 11.5%.",
+                                                           "values":  [
+                                                                          "11.5%",
+                                                                          "11.5%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un 15.5%. Este efecto dura 4 s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01 s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un 15.5%.",
+                                                           "values":  [
+                                                                          "15.5%",
+                                                                          "15.5%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un 9.5%. Este efecto dura 4 s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01 s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un 9.5%.",
+                                                           "values":  [
+                                                                          "9.5%",
+                                                                          "9.5%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un 13.5%. Este efecto dura 4 s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01 s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un 13.5%.",
+                                                           "values":  [
+                                                                          "13.5%",
+                                                                          "13.5%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Prob. CRIT",
+                                                "weaponText":  "Mandoble",
+                                                "name":  "Cantar de Gesta del Lobo",
+                                                "effectTemplateRaw":  "#La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Este efecto dura 4{NON_BREAK_SPACE}s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01{NON_BREAK_SPACE}s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                                "r1":  {
+                                                           "description":  "La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un 7.5%. Este efecto dura 4 s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01 s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un 7.5%.",
+                                                           "values":  [
+                                                                          "7.5%",
+                                                                          "7.5%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Caballería indómita"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "Al dañar a un enemigo, aumenta la Prob. CRIT en un 12%. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.",
@@ -17773,6 +17862,10 @@
                                         "name":  "Esferoctópodo",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "Selenogeco Radiante",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Mecaasaltador Submarino",
                                                 "specialname":  null

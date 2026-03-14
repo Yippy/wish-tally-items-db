@@ -528,9 +528,9 @@
                       "butter":  {
                                      "name":  "Bơ"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Xương Rắn Chắc"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Đuôi Đứt Của Thằn Lằn"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Trục Bí Ẩn"
                                                 },
@@ -726,6 +726,9 @@
                       "amethystlump":  {
                                            "name":  "Miếng Tử Tinh"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "Quả Cầu Cơ Quan Ảo Ảnh"
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Mảnh Thanh Kim Sạch"
                                                    },
@@ -2181,6 +2184,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Bột Thánh Hóa"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Xương Rắn Chắc"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Hướng Dẫn Của \"Trật Tự\""
                                        },
@@ -6242,6 +6248,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "nữ"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "\"Đợi Khi Trời Sáng, Chúng Ta Bước Vào Cuộc Hành Trình\"",
+                                                                       "descriptionRaw":  "Khi thi triển Kỹ Năng Nguyên Tố đặc biệt {LINK#N11280002}\u003ccolor=#FFD780FF\u003eTứ Phong Trỗi Dậy\u003c/color\u003e{/LINK}, hoặc khi thực hiện Trọng Kích đặc biệt \u003ccolor=#FFD780FF\u003eTrời Xanh Cắn Xé\u003c/color\u003e, Varka sẽ thi triển một đòn tấn công thêm, gây \u003ccolor=#80FFD7FF\u003eSát Thương Phạm Vi Nguyên Tố Phong\u003c/color\u003e bằng 800% Tấn Công.",
+                                                                       "description":  "Khi thi triển Kỹ Năng Nguyên Tố đặc biệt **Tứ Phong Trỗi Dậy**, hoặc khi thực hiện Trọng Kích đặc biệt Trời Xanh Cắn Xé, Varka sẽ thi triển một đòn tấn công thêm, gây Sát Thương Phạm Vi Nguyên Tố Phong bằng 800% Tấn Công."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "\"Không Ai Cướp Được, Tự Do Ca Hát Của Chúng Ta\"",
+                                                                       "descriptionRaw":  "Khi Varka kích hoạt phản ứng Khuếch Tán, căn cứ vào loại nguyên tố tham gia phản ứng, tất cả nhân vật trong đội ở gần sẽ nhận 20% buff sát thương \u003ccolor=#80FFD7FF\u003eNguyên Tố Phong\u003c/color\u003e và nguyên tố tương ứng, duy trì 10s.",
+                                                                       "description":  "Khi Varka kích hoạt phản ứng Khuếch Tán, căn cứ vào loại nguyên tố tham gia phản ứng, tất cả nhân vật trong đội ở gần sẽ nhận 20% buff sát thương Nguyên Tố Phong và nguyên tố tương ứng, duy trì 10s."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "\"Lẽ Nào Bạn Hỡi, Ta Lại Uống Ly Rượu Đắng Cay?\"",
+                                                                       "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003e{LINK#S11282}Cuồng Phong Ập Đến{/LINK}\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                       "description":  "Cấp kỹ năng **Cuồng Phong Ập Đến** +3.\nTăng tối đa đến cấp 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "\"Rượu Ngon Rót Đầy, Những Bạo Chúa Đến Rồi Lại Đi\"",
+                                                                       "descriptionRaw":  "Cấp kỹ năng \u003ccolor=#FFD780FF\u003e{LINK#S11285}Ta Là Gió Bắc{/LINK}\u003c/color\u003e +3.\nTăng tối đa đến cấp 15.",
+                                                                       "description":  "Cấp kỹ năng **Ta Là Gió Bắc** +3.\nTăng tối đa đến cấp 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "\"Mondstadt Của Ta, Sừng Sững Như Thuở Ban Xưa Ấy\"",
+                                                                       "descriptionRaw":  "Chế độ {LINK#N11280001}\u003ccolor=#FFD780FF\u003eBão Táp Đột Kích\u003c/color\u003e{/LINK} sẽ được cường hóa:\n·Trong giây lát sau khi thi triển Kỹ Năng Nguyên Tố đặc biệt {LINK#N11280002}\u003ccolor=#FFD780FF\u003eTứ Phong Trỗi Dậy\u003c/color\u003e{/LINK}, Varka có thể nhấn Kỹ Năng Nguyên Tố hoặc nhấn giữ Tấn Công Thường để thực hiện thêm một lần Trọng Kích đặc biệt \u003ccolor=#FFD780FF\u003eTrời Xanh Cắn Xé\u003c/color\u003e mà không tiêu hao số lần khả dụng của Tứ Phong Trỗi Dậy.\n·Trong giây lát sau khi thực hiện Trọng Kích đặc biệt \u003ccolor=#FFD780FF\u003eTrời Xanh Cắn Xé\u003c/color\u003e, Varka có thể nhấn Kỹ Năng Nguyên Tố để thi triển thêm một lần \u003ccolor=#FFD780FF\u003eTứ Phong Trỗi Dậy\u003c/color\u003e mà không tiêu hao số lần khả dụng của Tứ Phong Trỗi Dậy.\nKhi thông qua cách thức trên để thực hiện thêm Trọng Kích đặc biệt Trời Xanh Cắn Xé hoặc thi triển thêm Kỹ Năng Nguyên Tố đặc biệt Tứ Phong Trỗi Dậy, sẽ không thể kích hoạt hiệu quả nêu trên.\n\nNgoài ra, hiệu quả \u003ccolor=#FFD780FF\u003eLời Thề Nanh Xanh\u003c/color\u003e trong thiên phú đột phá \u003ccolor=#FFD780FF\u003e{LINK#P1282201}Ngọn Cờ Gió Dẫn Đầu{/LINK}\u003c/color\u003e sẽ được cường hóa: Mỗi tầng \u003ccolor=#FFD780FF\u003eLời Thề Nanh Xanh\u003c/color\u003e sẽ khiến Varka tăng 20% Sát Thương Bạo Kích.",
+                                                                       "description":  "Chế độ **Bão Táp Đột Kích** sẽ được cường hóa:\n·Trong giây lát sau khi thi triển Kỹ Năng Nguyên Tố đặc biệt **Tứ Phong Trỗi Dậy**, Varka có thể nhấn Kỹ Năng Nguyên Tố hoặc nhấn giữ Tấn Công Thường để thực hiện thêm một lần Trọng Kích đặc biệt Trời Xanh Cắn Xé mà không tiêu hao số lần khả dụng của Tứ Phong Trỗi Dậy.\n·Trong giây lát sau khi thực hiện Trọng Kích đặc biệt Trời Xanh Cắn Xé, Varka có thể nhấn Kỹ Năng Nguyên Tố để thi triển thêm một lần Tứ Phong Trỗi Dậy mà không tiêu hao số lần khả dụng của Tứ Phong Trỗi Dậy.\nKhi thông qua cách thức trên để thực hiện thêm Trọng Kích đặc biệt Trời Xanh Cắn Xé hoặc thi triển thêm Kỹ Năng Nguyên Tố đặc biệt Tứ Phong Trỗi Dậy, sẽ không thể kích hoạt hiệu quả nêu trên.\n\nNgoài ra, hiệu quả Lời Thề Nanh Xanh trong thiên phú đột phá **Ngọn Cờ Gió Dẫn Đầu** sẽ được cường hóa: Mỗi tầng Lời Thề Nanh Xanh sẽ khiến Varka tăng 20% Sát Thương Bạo Kích."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "\"Đến Đây Bạn Hiền, Chúng Ta Cùng Nhảy Múa Dưới Trăng\"",
+                                                                       "descriptionRaw":  "Khi Varka chuyển sang chế độ {LINK#N11280001}\u003ccolor=#FFD780FF\u003eBão Táp Đột Kích\u003c/color\u003e{/LINK}, Kỹ Năng Nguyên Tố đặc biệt {LINK#N11280002}\u003ccolor=#FFD780FF\u003eTứ Phong Trỗi Dậy\u003c/color\u003e{/LINK} sẽ nhận thêm một lần khả dụng.\nNgoài ra, sau khi chuyển sang chế độ \u003ccolor=#FFD780FF\u003eBão Táp Đột Kích\u003c/color\u003e, Varka sẽ nhận hiệu quả \u003ccolor=#FFD780FF\u003eRượu Ngọt Trong Khúc Hát\u003c/color\u003e: Khi thi triển Kỹ Năng Nguyên Tố đặc biệt \u003ccolor=#FFD780FF\u003eTứ Phong Trỗi Dậy\u003c/color\u003e, hoặc khi thực hiện Trọng Kích đặc biệt \u003ccolor=#FFD780FF\u003eTrời Xanh Cắn Xé\u003c/color\u003e, sẽ tiêu hao hiệu quả này, khiến \u003ccolor=#FFD780FF\u003eTứ Phong Trỗi Dậy\u003c/color\u003e hoặc \u003ccolor=#FFD780FF\u003eTrời Xanh Cắn Xé\u003c/color\u003e gây ra 200% sát thương gốc.",
+                                                                       "description":  "Khi Varka chuyển sang chế độ **Bão Táp Đột Kích**, Kỹ Năng Nguyên Tố đặc biệt **Tứ Phong Trỗi Dậy** sẽ nhận thêm một lần khả dụng.\nNgoài ra, sau khi chuyển sang chế độ Bão Táp Đột Kích, Varka sẽ nhận hiệu quả Rượu Ngọt Trong Khúc Hát: Khi thi triển Kỹ Năng Nguyên Tố đặc biệt Tứ Phong Trỗi Dậy, hoặc khi thực hiện Trọng Kích đặc biệt Trời Xanh Cắn Xé, sẽ tiêu hao hiệu quả này, khiến Tứ Phong Trỗi Dậy hoặc Trời Xanh Cắn Xé gây ra 200% sát thương gốc."
+                                                                   }
+                                                        },
+                                     "elementText":  "Phong",
+                                     "fullname":  null,
+                                     "weaponText":  "Trọng Kiếm",
+                                     "name":  "Varka",
+                                     "substatText":  "ST Bạo Kích",
+                                     "region":  "Mondstadt",
+                                     "gender":  "nam"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -9844,6 +9891,48 @@
                                                  },
                                           "effectName":  "Vũ Điệu Kagura Của Anh Đào Thần"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng 11.5%. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng 11.5% Sát Thương Bạo Kích.",
+                                                           "values":  [
+                                                                          "11.5%",
+                                                                          "11.5%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng 15.5%. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng 15.5% Sát Thương Bạo Kích.",
+                                                           "values":  [
+                                                                          "15.5%",
+                                                                          "15.5%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng 9.5%. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng 9.5% Sát Thương Bạo Kích.",
+                                                           "values":  [
+                                                                          "9.5%",
+                                                                          "9.5%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng 13.5%. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng 13.5% Sát Thương Bạo Kích.",
+                                                           "values":  [
+                                                                          "13.5%",
+                                                                          "13.5%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Tỷ Lệ Bạo Kích",
+                                                "weaponText":  "Trọng Kiếm",
+                                                "name":  "Chiến Hùng Ca Của Sói",
+                                                "effectTemplateRaw":  "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e Sát Thương Bạo Kích.",
+                                                "r1":  {
+                                                           "description":  "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng 7.5%. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng 7.5% Sát Thương Bạo Kích.",
+                                                           "values":  [
+                                                                          "7.5%",
+                                                                          "7.5%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Đạo Kỵ Sĩ Bất Diệt"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "Khi tấn công tạo thành sát thương, tăng tỷ lệ bạo kích 12%, nhiều nhất cộng dồn 5 lần. Sau khi tấn công tạo thành bạo kích, xóa hiệu quả Chuyên Chú đã có.",
@@ -17783,6 +17872,10 @@
                                         "name":  "Bạch Tuộc Bóng Tròn",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "Thằn Lằn Ánh Trăng Bức Xạ",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Robot Tiến Công Đáy Biển",
                                                 "specialname":  null

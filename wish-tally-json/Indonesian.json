@@ -528,9 +528,9 @@
                       "butter":  {
                                      "name":  "Butter"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Sturdy Shell"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Prismatic Severed Tail"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Axis of the Secret Source"
                                                 },
@@ -726,6 +726,9 @@
                       "amethystlump":  {
                                            "name":  "Amethyst Lump"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "Sphere of Fleeting Shadow"
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Varunada Lazurite Fragment"
                                                    },
@@ -2181,6 +2184,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Sanctifying Elixir"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Sturdy Shell"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Guide to Order"
                                        },
@@ -3012,8 +3018,8 @@
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "Dreamlike Glow Across Tranquil Waters",
-                                                                           "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11252}Eternal Tides{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party {LINK#N11190007}\u003ccolor=#FFD780FF\u003ebertumbuh\u003c/color\u003e{/LINK} 1,5%.",
-                                                                           "description":  "Meningkatkan 3 level Elemental Skill **Eternal Tides**.\nMaksimum: Lv. 15.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party **bertumbuh** 1,5%."
+                                                                           "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11252}Eternal Tides{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party di sekitar {LINK#N11190007}\u003ccolor=#FFD780FF\u003ebertumbuh\u003c/color\u003e{/LINK} 1,5%.",
+                                                                           "description":  "Meningkatkan 3 level Elemental Skill **Eternal Tides**.\nMaksimum: Lv. 15.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party di sekitar **bertumbuh** 1,5%."
                                                                        },
                                                                 "c5":  {
                                                                            "name":  "Silence Tending One Lone Song",
@@ -6242,6 +6248,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "Perempuan"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "\"When Dawn Breaks, Our Journey Shall Take Flight\"",
+                                                                       "descriptionRaw":  "Saat melancarkan Elemental Skill Khusus {LINK#N11280002}\u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e{/LINK} atau Charged Attack Khusus \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e, Varka akan melancarkan satu kali serangan tambahan yang mengakibatkan \u003ccolor=#80FFD7FF\u003eAnemo DMG Area\u003c/color\u003e sebesar 800% ATK-nya.",
+                                                                       "description":  "Saat melancarkan Elemental Skill Khusus **Four Winds\u0027 Ascension** atau Charged Attack Khusus Azure Devour, Varka akan melancarkan satu kali serangan tambahan yang mengakibatkan Anemo DMG Area sebesar 800% ATK-nya."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "\"For None May Take From Us Our Freedom of Song\"",
+                                                                       "descriptionRaw":  "Saat Varka memicu reaksi Swirl, seluruh Karakter party di sekitar akan mendapatkan 20% \u003ccolor=#80FFD7FF\u003eAnemo DMG Bonus\u003c/color\u003e dan juga Elemental DMG Bonus untuk jenis elemen yang terlibat dalam reaksi tersebut, berlangsung selama 10 detik.",
+                                                                       "description":  "Saat Varka memicu reaksi Swirl, seluruh Karakter party di sekitar akan mendapatkan 20% Anemo DMG Bonus dan juga Elemental DMG Bonus untuk jenis elemen yang terlibat dalam reaksi tersebut, berlangsung selama 10 detik."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "\"O Friend, Quaff Not the Bitter Wine That Brings Tears of Woe\"",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level Elemental Skill \u003ccolor=#FFD780FF\u003e{LINK#S11282}Windbound Execution{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Elemental Skill **Windbound Execution**.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "\"Fill High the Cup With Fine Wine, for Tyrants Come and Go\"",
+                                                                       "descriptionRaw":  "Meningkatkan 3 level Elemental Burst \u003ccolor=#FFD780FF\u003e{LINK#S11285}Northwind Avatar{/LINK}\u003c/color\u003e.\nMaksimum: Lv. 15.",
+                                                                       "description":  "Meningkatkan 3 level Elemental Burst **Northwind Avatar**.\nMaksimum: Lv. 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "\"Beloved Mondstadt, Steadfast You Shall Shine\"",
+                                                                       "descriptionRaw":  "Mode {LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK} diperkuat:\n·Selama beberapa saat setelah melancarkan Elemental Skill Khusus {LINK#N11280002}\u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e{/LINK}, Varka dapat menekan Elemental Skill atau menahan tombol Normal Attack untuk melancarkan satu kali Charged Attack Khusus \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e tambahan tanpa mengonsumsi jumlah penggunaan Four Winds\u0027 Ascension.\n·Selama beberapa saat setelah melancarkan Charged Attack Khusus \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e, Varka bisa menekan Elemental Skill untuk melancarkan satu kali \u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e tambahan tanpa mengonsumsi jumlah penggunaan Four Winds\u0027 Ascension.\nCharged Attack Khusus tambahan, Azure Devour, atau Elemental Skill Khusus tambahan, Four Winds\u0027 Ascension yang dilancarkan dengan cara di atas tidak akan dapat memicu efek di atas lagi.\n\nSelain itu, efek \u003ccolor=#FFD780FF\u003eAzure Fang\u0027s Oath\u003c/color\u003e dari Talenta Ascension \u003ccolor=#FFD780FF\u003e{LINK#P1282201}Wind\u0027s Vanguard{/LINK}\u003c/color\u003e diperkuat: Setiap lapis \u003ccolor=#FFD780FF\u003eAzure Fang\u0027s Oath\u003c/color\u003e akan meningkatkan 20% CRIT DMG Varka.",
+                                                                       "description":  "Mode **Sturm und Drang** diperkuat:\n·Selama beberapa saat setelah melancarkan Elemental Skill Khusus **Four Winds\u0027 Ascension**, Varka dapat menekan Elemental Skill atau menahan tombol Normal Attack untuk melancarkan satu kali Charged Attack Khusus Azure Devour tambahan tanpa mengonsumsi jumlah penggunaan Four Winds\u0027 Ascension.\n·Selama beberapa saat setelah melancarkan Charged Attack Khusus Azure Devour, Varka bisa menekan Elemental Skill untuk melancarkan satu kali Four Winds\u0027 Ascension tambahan tanpa mengonsumsi jumlah penggunaan Four Winds\u0027 Ascension.\nCharged Attack Khusus tambahan, Azure Devour, atau Elemental Skill Khusus tambahan, Four Winds\u0027 Ascension yang dilancarkan dengan cara di atas tidak akan dapat memicu efek di atas lagi.\n\nSelain itu, efek Azure Fang\u0027s Oath dari Talenta Ascension **Wind\u0027s Vanguard** diperkuat: Setiap lapis Azure Fang\u0027s Oath akan meningkatkan 20% CRIT DMG Varka."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "\"Come, Friend, Let Us Dance Beneath the Moon\u0027s Soft Glow\"",
+                                                                       "descriptionRaw":  "Saat Varka beralih ke mode {LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK}, akan mendapatkan 1 kali kesempatan penggunaan Elemental Skill Khusus {LINK#N11280002}\u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e{/LINK}.\nSelain itu, setelah berganti ke mode \u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e, Varka akan mendapatkan efek \u003ccolor=#FFD780FF\u003eLyrical Libation\u003c/color\u003e: Saat melancarkan Elemental Skill Khusus \u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e atau melancarkan Charged Attack khusus \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e, Varka akan mengonsumsi efek ini dan membuat \u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e atau \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e mengakibatkan 200% dari DMG awalnya.",
+                                                                       "description":  "Saat Varka beralih ke mode **Sturm und Drang**, akan mendapatkan 1 kali kesempatan penggunaan Elemental Skill Khusus **Four Winds\u0027 Ascension**.\nSelain itu, setelah berganti ke mode Sturm und Drang, Varka akan mendapatkan efek Lyrical Libation: Saat melancarkan Elemental Skill Khusus Four Winds\u0027 Ascension atau melancarkan Charged Attack khusus Azure Devour, Varka akan mengonsumsi efek ini dan membuat Four Winds\u0027 Ascension atau Azure Devour mengakibatkan 200% dari DMG awalnya."
+                                                                   }
+                                                        },
+                                     "elementText":  "Anemo",
+                                     "fullname":  null,
+                                     "weaponText":  "Claymore",
+                                     "name":  "Varka",
+                                     "substatText":  "CRIT DMG",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Pria"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -8975,28 +9022,28 @@
                                         },
                     "verdict":  {
                                     "r3":  {
-                                               "description":  "ATK +30%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +27%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize.",
+                                               "description":  "ATK +30%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +27%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh setiap 1 detik melalui reaksi Lunar-Crystallize.",
                                                "values":  [
                                                               "30%",
                                                               "27%"
                                                           ]
                                            },
                                     "r5":  {
-                                               "description":  "ATK +40%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +36%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize.",
+                                               "description":  "ATK +40%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +36%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh setiap 1 detik melalui reaksi Lunar-Crystallize.",
                                                "values":  [
                                                               "40%",
                                                               "36%"
                                                           ]
                                            },
                                     "r2":  {
-                                               "description":  "ATK +25%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +22,5%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize.",
+                                               "description":  "ATK +25%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +22,5%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh setiap 1 detik melalui reaksi Lunar-Crystallize.",
                                                "values":  [
                                                               "25%",
                                                               "22,5%"
                                                           ]
                                            },
                                     "r4":  {
-                                               "description":  "ATK +35%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +31,5%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize.",
+                                               "description":  "ATK +35%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +31,5%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh setiap 1 detik melalui reaksi Lunar-Crystallize.",
                                                "values":  [
                                                               "35%",
                                                               "31,5%"
@@ -9005,9 +9052,9 @@
                                     "substatText":  "CRIT Rate",
                                     "weaponText":  "Claymore",
                                     "name":  "Verdict",
-                                    "effectTemplateRaw":  "ATK +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize.",
+                                    "effectTemplateRaw":  "ATK +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh setiap 1 detik melalui reaksi Lunar-Crystallize.",
                                     "r1":  {
-                                               "description":  "ATK +20%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +18%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize.",
+                                               "description":  "ATK +20%. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +18%. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh setiap 1 detik melalui reaksi Lunar-Crystallize.",
                                                "values":  [
                                                               "20%",
                                                               "18%"
@@ -9844,6 +9891,48 @@
                                                  },
                                           "effectName":  "Kagura Dance of the Sacred Sakura"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "ATK SPD +10%. Saat Normal Attack mengenai musuh/saat melancarkan Elemental Skill/saat memulai Charged Attack, maka Karakter yang mengenakan akan mendapatkan 1/2/2 lapis Four Winds\u0027 Hymn: DMG yang diakibatkan +11,5%. Efek ini berlangsung selama 4 detik, dapat ditumpuk sampai 4 kali dan dapat terpicu sekali setiap 0,01 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, setiap lapis Four Winds\u0027 Hymn juga akan membuat CRIT DMG Karakter yang mengenakan +11,5%.",
+                                                           "values":  [
+                                                                          "11,5%",
+                                                                          "11,5%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "ATK SPD +10%. Saat Normal Attack mengenai musuh/saat melancarkan Elemental Skill/saat memulai Charged Attack, maka Karakter yang mengenakan akan mendapatkan 1/2/2 lapis Four Winds\u0027 Hymn: DMG yang diakibatkan +15,5%. Efek ini berlangsung selama 4 detik, dapat ditumpuk sampai 4 kali dan dapat terpicu sekali setiap 0,01 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, setiap lapis Four Winds\u0027 Hymn juga akan membuat CRIT DMG Karakter yang mengenakan +15,5%.",
+                                                           "values":  [
+                                                                          "15,5%",
+                                                                          "15,5%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "ATK SPD +10%. Saat Normal Attack mengenai musuh/saat melancarkan Elemental Skill/saat memulai Charged Attack, maka Karakter yang mengenakan akan mendapatkan 1/2/2 lapis Four Winds\u0027 Hymn: DMG yang diakibatkan +9,5%. Efek ini berlangsung selama 4 detik, dapat ditumpuk sampai 4 kali dan dapat terpicu sekali setiap 0,01 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, setiap lapis Four Winds\u0027 Hymn juga akan membuat CRIT DMG Karakter yang mengenakan +9,5%.",
+                                                           "values":  [
+                                                                          "9,5%",
+                                                                          "9,5%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "ATK SPD +10%. Saat Normal Attack mengenai musuh/saat melancarkan Elemental Skill/saat memulai Charged Attack, maka Karakter yang mengenakan akan mendapatkan 1/2/2 lapis Four Winds\u0027 Hymn: DMG yang diakibatkan +13,5%. Efek ini berlangsung selama 4 detik, dapat ditumpuk sampai 4 kali dan dapat terpicu sekali setiap 0,01 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, setiap lapis Four Winds\u0027 Hymn juga akan membuat CRIT DMG Karakter yang mengenakan +13,5%.",
+                                                           "values":  [
+                                                                          "13,5%",
+                                                                          "13,5%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "CRIT Rate",
+                                                "weaponText":  "Claymore",
+                                                "name":  "Gest of the Mighty Wolf",
+                                                "effectTemplateRaw":  "ATK SPD +10%. Saat Normal Attack mengenai musuh/saat melancarkan Elemental Skill/saat memulai Charged Attack, maka Karakter yang mengenakan akan mendapatkan 1/2/2 lapis Four Winds\u0027 Hymn: DMG yang diakibatkan +\u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Efek ini berlangsung selama 4 detik, dapat ditumpuk sampai 4 kali dan dapat terpicu sekali setiap 0,01 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, setiap lapis Four Winds\u0027 Hymn juga akan membuat CRIT DMG Karakter yang mengenakan +\u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                                "r1":  {
+                                                           "description":  "ATK SPD +10%. Saat Normal Attack mengenai musuh/saat melancarkan Elemental Skill/saat memulai Charged Attack, maka Karakter yang mengenakan akan mendapatkan 1/2/2 lapis Four Winds\u0027 Hymn: DMG yang diakibatkan +7,5%. Efek ini berlangsung selama 4 detik, dapat ditumpuk sampai 4 kali dan dapat terpicu sekali setiap 0,01 detik.\nSelain itu, saat party memiliki efek Hexerei: Secret Rite, setiap lapis Four Winds\u0027 Hymn juga akan membuat CRIT DMG Karakter yang mengenakan +7,5%.",
+                                                           "values":  [
+                                                                          "7,5%",
+                                                                          "7,5%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Indomitable Chivalry"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "Saat mengakibatkan DMG pada musuh, meningkatkan 12% CRIT Rate. Maksimum 5 lapis, dan saat serangan CRIT terpicu, seluruh lapisan CRIT Rate hilang.",
@@ -17778,6 +17867,10 @@
                                         "name":  "Ball Octopus",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "Radiant Moongecko",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Deepwater Assault Mek",
                                                 "specialname":  null

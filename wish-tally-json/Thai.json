@@ -528,9 +528,9 @@
                       "butter":  {
                                      "name":  "Butter"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Sturdy Shell"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Prismatic Severed Tail"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Axis of the Secret Source"
                                                 },
@@ -726,6 +726,9 @@
                       "amethystlump":  {
                                            "name":  "Amethyst Lump"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "\"กลไกฉายเงาพราย\""
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Varunada Lazurite Fragment"
                                                    },
@@ -2181,6 +2184,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Sanctifying Elixir"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Sturdy Shell"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Guide to Order"
                                        },
@@ -3022,8 +3028,8 @@
                                                                        },
                                                                 "c6":  {
                                                                            "name":  "Through Darkness Led by Moonlight",
-                                                                           "descriptionRaw":  "ภายใน 8 วินาที หลังจากตัวละครทั้งหมดที่อยู่ใน {LINK#N11250002}\u003ccolor=#FFD780FF\u003eLunar Domain\u003c/color\u003e{/LINK} ทำให้เกิดปฏิกิริยาประกายจันทร์ ความแรงคริของความเสียหายธาตุที่สอดคล้องกัน ของตัวละครทั้งหมดในทีมจะเพิ่มขึ้น 80% โดยเอฟเฟกต์เพิ่มความแรงคริของธาตุประเภทเดียวกันไม่สามารถซ้อนทับกันได้\n\nความเสียหายปฏิกิริยาประกายจันทร์ของตัวละครทั้งหมดที่อยู่ใกล้เคียงในทีม{LINK#N11190007}\u003ccolor=#FFD780FF\u003eยกระดับ\u003c/color\u003e{/LINK}ขึ้น 7%",
-                                                                           "description":  "ภายใน 8 วินาที หลังจากตัวละครทั้งหมดที่อยู่ใน **Lunar Domain** ทำให้เกิดปฏิกิริยาประกายจันทร์ ความแรงคริของความเสียหายธาตุที่สอดคล้องกัน ของตัวละครทั้งหมดในทีมจะเพิ่มขึ้น 80% โดยเอฟเฟกต์เพิ่มความแรงคริของธาตุประเภทเดียวกันไม่สามารถซ้อนทับกันได้\n\nความเสียหายปฏิกิริยาประกายจันทร์ของตัวละครทั้งหมดที่อยู่ใกล้เคียงในทีม**ยกระดับ**ขึ้น 7%"
+                                                                           "descriptionRaw":  "ภายใน 8 วินาที หลังจากตัวละครที่อยู่ใน {LINK#N11250002}\u003ccolor=#FFD780FF\u003eLunar Domain\u003c/color\u003e{/LINK} ทำให้เกิดปฏิกิริยาประกายจันทร์ ความแรงคริของความเสียหายธาตุที่สอดคล้องกัน ของตัวละครทั้งหมดในทีมจะเพิ่มขึ้น 80% โดยเอฟเฟกต์เพิ่มความแรงคริของธาตุประเภทเดียวกันไม่สามารถซ้อนทับกันได้\n\nความเสียหายปฏิกิริยาประกายจันทร์ของตัวละครทั้งหมดที่อยู่ใกล้เคียงในทีม{LINK#N11190007}\u003ccolor=#FFD780FF\u003eยกระดับ\u003c/color\u003e{/LINK}ขึ้น 7%",
+                                                                           "description":  "ภายใน 8 วินาที หลังจากตัวละครที่อยู่ใน **Lunar Domain** ทำให้เกิดปฏิกิริยาประกายจันทร์ ความแรงคริของความเสียหายธาตุที่สอดคล้องกัน ของตัวละครทั้งหมดในทีมจะเพิ่มขึ้น 80% โดยเอฟเฟกต์เพิ่มความแรงคริของธาตุประเภทเดียวกันไม่สามารถซ้อนทับกันได้\n\nความเสียหายปฏิกิริยาประกายจันทร์ของตัวละครทั้งหมดที่อยู่ใกล้เคียงในทีม**ยกระดับ**ขึ้น 7%"
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Radiance Over Blossoms and Peaks",
@@ -6242,6 +6248,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "ผู้หญิง"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "\"When Dawn Breaks, Our Journey Shall Take Flight\"",
+                                                                       "descriptionRaw":  "เมื่อใช้สกิลธาตุพิเศษ {LINK#N11280002}\u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e{/LINK} หรือทำการชาร์จโจมตีพิเศษ \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e Varka จะโจมตีเพิ่มเติมอีก 1 ครั้ง สร้าง\u003ccolor=#80FFD7FF\u003eความเสียหายลมวงกว้าง\u003c/color\u003e เท่ากับ 800% ของพลังโจมตี",
+                                                                       "description":  "เมื่อใช้สกิลธาตุพิเศษ **Four Winds\u0027 Ascension** หรือทำการชาร์จโจมตีพิเศษ Azure Devour Varka จะโจมตีเพิ่มเติมอีก 1 ครั้ง สร้างความเสียหายลมวงกว้าง เท่ากับ 800% ของพลังโจมตี"
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "\"For None May Take From Us Our Freedom of Song\"",
+                                                                       "descriptionRaw":  "เมื่อ Varka ทำให้เกิดปฏิกิริยากระจาย จะทำให้ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียงได้รับ\u003ccolor=#80FFD7FF\u003eโบนัสความเสียหายลม\u003c/color\u003e และโบนัสความเสียหายธาตุที่สอดคล้องกับประเภทของธาตุที่เกี่ยวข้องกับปฏิกิริยาดังกล่าว 20% เป็นเวลา 10 วินาที",
+                                                                       "description":  "เมื่อ Varka ทำให้เกิดปฏิกิริยากระจาย จะทำให้ตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียงได้รับโบนัสความเสียหายลม และโบนัสความเสียหายธาตุที่สอดคล้องกับประเภทของธาตุที่เกี่ยวข้องกับปฏิกิริยาดังกล่าว 20% เป็นเวลา 10 วินาที"
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "\"O Friend, Quaff Not the Bitter Wine That Brings Tears of Woe\"",
+                                                                       "descriptionRaw":  "เพิ่มเลเวลสกิลของสกิลธาตุ \u003ccolor=#FFD780FF\u003e{LINK#S11282}Windbound Execution{/LINK}\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                       "description":  "เพิ่มเลเวลสกิลของสกิลธาตุ **Windbound Execution** ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "\"Fill High the Cup With Fine Wine, for Tyrants Come and Go\"",
+                                                                       "descriptionRaw":  "เพิ่มเลเวลสกิลของท่าไม้ตาย \u003ccolor=#FFD780FF\u003e{LINK#S11285}Northwind Avatar{/LINK}\u003c/color\u003e ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+                                                                       "description":  "เพิ่มเลเวลสกิลของท่าไม้ตาย **Northwind Avatar** ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "\"Beloved Mondstadt, Steadfast You Shall Shine\"",
+                                                                       "descriptionRaw":  "#โหมด {LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK} ได้รับการเสริมพลัง:\n·หลังจากปล่อยสกิลธาตุพิเศษ {LINK#N11280002}\u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e{/LINK} แล้ว ภายในเวลาสั้น ๆ Varka สามารถ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}สกิลธาตุ หรือ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}โจมตีปกติ เพื่อทำการชาร์จโจมตีพิเศษ \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e เพิ่มเติมอีก 1 ครั้ง โดยไม่ใช้จำนวนครั้งที่ใช้ได้ของ Four Winds\u0027 Ascension;\n·ภายในช่วงเวลาสั้น ๆ หลังจากทำการชาร์จโจมตีพิเศษ \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e แล้ว Varka สามารถ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}สกิลธาตุ เพื่อปล่อย \u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e ได้ 1 ครั้ง โดยไม่ใช้จำนวนครั้งที่ใช้ได้ของ Four Winds\u0027 Ascension\nเมื่อทำการชาร์จโจมตีพิเศษ Azure Devour เพิ่มเติม หรือปล่อยสกิลธาตุพิเศษ Four Winds\u0027 Ascension เพิ่มเติมด้วยวิธีการข้างต้น จะไม่สามารถเปิดใช้งานเอฟเฟกต์ดังกล่าวข้างต้นได้\n\nนอกจากนี้ เอฟเฟกต์ \u003ccolor=#FFD780FF\u003e\"Azure Fang\u0027s Oath\"\u003c/color\u003e ในพรสวรรค์เพิ่มเติม \u003ccolor=#FFD780FF\u003e{LINK#P1282201}\"Wind\u0027s Vanguard\"{/LINK}\u003c/color\u003e จะได้รับการเสริมพลัง: \u003ccolor=#FFD780FF\u003eAzure Fang\u0027s Oath\u003c/color\u003e แต่ละชั้น จะทำให้ความแรงคริของ Varka เพิ่มขึ้น 20%",
+                                                                       "description":  "โหมด **Sturm und Drang** ได้รับการเสริมพลัง:\n·หลังจากปล่อยสกิลธาตุพิเศษ **Four Winds\u0027 Ascension** แล้ว ภายในเวลาสั้น ๆ Varka สามารถกดสกิลธาตุ หรือกดค้างโจมตีปกติ เพื่อทำการชาร์จโจมตีพิเศษ Azure Devour เพิ่มเติมอีก 1 ครั้ง โดยไม่ใช้จำนวนครั้งที่ใช้ได้ของ Four Winds\u0027 Ascension;\n·ภายในช่วงเวลาสั้น ๆ หลังจากทำการชาร์จโจมตีพิเศษ Azure Devour แล้ว Varka สามารถกดสกิลธาตุ เพื่อปล่อย Four Winds\u0027 Ascension ได้ 1 ครั้ง โดยไม่ใช้จำนวนครั้งที่ใช้ได้ของ Four Winds\u0027 Ascension\nเมื่อทำการชาร์จโจมตีพิเศษ Azure Devour เพิ่มเติม หรือปล่อยสกิลธาตุพิเศษ Four Winds\u0027 Ascension เพิ่มเติมด้วยวิธีการข้างต้น จะไม่สามารถเปิดใช้งานเอฟเฟกต์ดังกล่าวข้างต้นได้\n\nนอกจากนี้ เอฟเฟกต์ \"Azure Fang\u0027s Oath\" ในพรสวรรค์เพิ่มเติม **\"Wind\u0027s Vanguard\"** จะได้รับการเสริมพลัง: Azure Fang\u0027s Oath แต่ละชั้น จะทำให้ความแรงคริของ Varka เพิ่มขึ้น 20%"
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "\"Come, Friend, Let Us Dance Beneath the Moon\u0027s Soft Glow\"",
+                                                                       "descriptionRaw":  "เมื่อ Varka สลับไปยังโหมด {LINK#N11280001}\u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e{/LINK} จะได้รับจำนวนครั้งที่ใช้ได้สำหรับสกิลธาตุพิเศษ {LINK#N11280002}\u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e{/LINK} เพิ่ม 1 ครั้ง\nนอกจากนี้ หลังจากสลับไปยังโหมด \u003ccolor=#FFD780FF\u003eSturm und Drang\u003c/color\u003e แล้ว Varka จะได้รับเอฟเฟกต์ \u003ccolor=#FFD780FF\u003e\"Lyrical Libation\"\u003c/color\u003e: เมื่อปล่อยสกิลธาตุพิเศษ \u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e หรือทำการชาร์จโจมตีพิเศษ \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e จะใช้เอฟเฟกต์นี้ ทำให้ \u003ccolor=#FFD780FF\u003eFour Winds\u0027 Ascension\u003c/color\u003e หรือ \u003ccolor=#FFD780FF\u003eAzure Devour\u003c/color\u003e สร้างความเสียหาย 200% ของความเสียหายเดิม",
+                                                                       "description":  "เมื่อ Varka สลับไปยังโหมด **Sturm und Drang** จะได้รับจำนวนครั้งที่ใช้ได้สำหรับสกิลธาตุพิเศษ **Four Winds\u0027 Ascension** เพิ่ม 1 ครั้ง\nนอกจากนี้ หลังจากสลับไปยังโหมด Sturm und Drang แล้ว Varka จะได้รับเอฟเฟกต์ \"Lyrical Libation\": เมื่อปล่อยสกิลธาตุพิเศษ Four Winds\u0027 Ascension หรือทำการชาร์จโจมตีพิเศษ Azure Devour จะใช้เอฟเฟกต์นี้ ทำให้ Four Winds\u0027 Ascension หรือ Azure Devour สร้างความเสียหาย 200% ของความเสียหายเดิม"
+                                                                   }
+                                                        },
+                                     "elementText":  "ลม",
+                                     "fullname":  null,
+                                     "weaponText":  "ดาบใหญ่",
+                                     "name":  "Varka",
+                                     "substatText":  "ความแรงคริ",
+                                     "region":  "Mondstadt",
+                                     "gender":  "ชาย"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -9844,6 +9891,48 @@
                                                  },
                                           "effectName":  "Kagura Dance of the Sacred Sakura"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "เพิ่มความเร็วในการโจมตี 10%; เมื่อโจมตีปกติโดนศัตรู/ปล่อยสกิลธาตุ/เริ่มชาร์จโจมตี ผู้สวมใส่จะได้รับ \"Four Winds\u0027 Hymn\" 1/2/2 ชั้น: ความเสียหายที่สร้างเพิ่มขึ้น 11.5% เอฟเฟกต์นี้จะคงอยู่ต่อเนื่อง 4 วินาที ซ้อนทับได้สูงสุด 4 ชั้น และเกิดขึ้นได้มากสุดหนึ่งครั้งทุก 0.01 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ \"Hexerei: Secret Rite\" Four Winds\u0027 Hymn แต่ละชั้น จะทำให้ความแรงคริของผู้สวมใส่เพิ่มขึ้น 11.5%",
+                                                           "values":  [
+                                                                          "11.5%",
+                                                                          "11.5%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "เพิ่มความเร็วในการโจมตี 10%; เมื่อโจมตีปกติโดนศัตรู/ปล่อยสกิลธาตุ/เริ่มชาร์จโจมตี ผู้สวมใส่จะได้รับ \"Four Winds\u0027 Hymn\" 1/2/2 ชั้น: ความเสียหายที่สร้างเพิ่มขึ้น 15.5% เอฟเฟกต์นี้จะคงอยู่ต่อเนื่อง 4 วินาที ซ้อนทับได้สูงสุด 4 ชั้น และเกิดขึ้นได้มากสุดหนึ่งครั้งทุก 0.01 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ \"Hexerei: Secret Rite\" Four Winds\u0027 Hymn แต่ละชั้น จะทำให้ความแรงคริของผู้สวมใส่เพิ่มขึ้น 15.5%",
+                                                           "values":  [
+                                                                          "15.5%",
+                                                                          "15.5%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "เพิ่มความเร็วในการโจมตี 10%; เมื่อโจมตีปกติโดนศัตรู/ปล่อยสกิลธาตุ/เริ่มชาร์จโจมตี ผู้สวมใส่จะได้รับ \"Four Winds\u0027 Hymn\" 1/2/2 ชั้น: ความเสียหายที่สร้างเพิ่มขึ้น 9.5% เอฟเฟกต์นี้จะคงอยู่ต่อเนื่อง 4 วินาที ซ้อนทับได้สูงสุด 4 ชั้น และเกิดขึ้นได้มากสุดหนึ่งครั้งทุก 0.01 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ \"Hexerei: Secret Rite\" Four Winds\u0027 Hymn แต่ละชั้น จะทำให้ความแรงคริของผู้สวมใส่เพิ่มขึ้น 9.5%",
+                                                           "values":  [
+                                                                          "9.5%",
+                                                                          "9.5%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "เพิ่มความเร็วในการโจมตี 10%; เมื่อโจมตีปกติโดนศัตรู/ปล่อยสกิลธาตุ/เริ่มชาร์จโจมตี ผู้สวมใส่จะได้รับ \"Four Winds\u0027 Hymn\" 1/2/2 ชั้น: ความเสียหายที่สร้างเพิ่มขึ้น 13.5% เอฟเฟกต์นี้จะคงอยู่ต่อเนื่อง 4 วินาที ซ้อนทับได้สูงสุด 4 ชั้น และเกิดขึ้นได้มากสุดหนึ่งครั้งทุก 0.01 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ \"Hexerei: Secret Rite\" Four Winds\u0027 Hymn แต่ละชั้น จะทำให้ความแรงคริของผู้สวมใส่เพิ่มขึ้น 13.5%",
+                                                           "values":  [
+                                                                          "13.5%",
+                                                                          "13.5%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "อัตราคริ",
+                                                "weaponText":  "ดาบใหญ่",
+                                                "name":  "Gest of the Mighty Wolf",
+                                                "effectTemplateRaw":  "เพิ่มความเร็วในการโจมตี 10%; เมื่อโจมตีปกติโดนศัตรู/ปล่อยสกิลธาตุ/เริ่มชาร์จโจมตี ผู้สวมใส่จะได้รับ \"Four Winds\u0027 Hymn\" 1/2/2 ชั้น: ความเสียหายที่สร้างเพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e เอฟเฟกต์นี้จะคงอยู่ต่อเนื่อง 4 วินาที ซ้อนทับได้สูงสุด 4 ชั้น และเกิดขึ้นได้มากสุดหนึ่งครั้งทุก 0.01 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ \"Hexerei: Secret Rite\" Four Winds\u0027 Hymn แต่ละชั้น จะทำให้ความแรงคริของผู้สวมใส่เพิ่มขึ้น \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e",
+                                                "r1":  {
+                                                           "description":  "เพิ่มความเร็วในการโจมตี 10%; เมื่อโจมตีปกติโดนศัตรู/ปล่อยสกิลธาตุ/เริ่มชาร์จโจมตี ผู้สวมใส่จะได้รับ \"Four Winds\u0027 Hymn\" 1/2/2 ชั้น: ความเสียหายที่สร้างเพิ่มขึ้น 7.5% เอฟเฟกต์นี้จะคงอยู่ต่อเนื่อง 4 วินาที ซ้อนทับได้สูงสุด 4 ชั้น และเกิดขึ้นได้มากสุดหนึ่งครั้งทุก 0.01 วินาที\nนอกจากนี้ เมื่อทีมมีเอฟเฟกต์ \"Hexerei: Secret Rite\" Four Winds\u0027 Hymn แต่ละชั้น จะทำให้ความแรงคริของผู้สวมใส่เพิ่มขึ้น 7.5%",
+                                                           "values":  [
+                                                                          "7.5%",
+                                                                          "7.5%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Indomitable Chivalry"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "เมื่อการโจมตีก่อให้เกิดความเสียหาย อัตราคริจะเพิ่มขึ้น 12% โดยจะซ้อนทับได้มากสุด 5 ครั้ง และเมื่อโจมตีติดคริติคอล จะล้างเอฟเฟกต์ที่โฟกัสออกทั้งหมด",
@@ -17783,6 +17872,10 @@
                                         "name":  "Ball Octopus",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "ตุ๊กแกจันทราเรืองแสง",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Deepwater Assault Mek",
                                                 "specialname":  null

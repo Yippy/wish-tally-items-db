@@ -528,9 +528,9 @@
                       "butter":  {
                                      "name":  "Tereyağı"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Sağlam Kabuk"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Prizmatik Kopmuş Kuyruk"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Gizli Kaynak Ekseni"
                                                 },
@@ -726,6 +726,9 @@
                       "amethystlump":  {
                                            "name":  "Ametist Parçası"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "Uçup Giden Gölge Küresi"
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Varunada Lazuriti Kırıntısı"
                                                    },
@@ -2181,6 +2184,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Kutsal İksir"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Sağlam Kabuk"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Düzen Rehberi"
                                        },
@@ -6242,6 +6248,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "kadın"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "\"Şafak Söktüğünde Başlayacak Yolculuğumuz\"",
+                                                                       "descriptionRaw":  "{LINK#N11280002}\u003ccolor=#FFD780FF\u003eDört Rüzgarın Yükselişi\u003c/color\u003e{/LINK} özel Element Becerisi veya \u003ccolor=#FFD780FF\u003eGök Yutan\u003c/color\u003e özel Yüklü Saldırısı kullanıldığında Varka ek bir vuruş yaparak Saldırısının %800\u0027ü kadar \u003ccolor=#80FFD7FF\u003eRüzgar Alan Hasarı\u003c/color\u003e verir.",
+                                                                       "description":  "**Dört Rüzgarın Yükselişi** özel Element Becerisi veya Gök Yutan özel Yüklü Saldırısı kullanıldığında Varka ek bir vuruş yaparak Saldırısının %800\u0027ü kadar Rüzgar Alan Hasarı verir."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "\"Kimse Alamaz Şarkı Söyleme Özgürlüğümüzü Elimizden\"",
+                                                                       "descriptionRaw":  "Varka bir Girdap tepkimesi tetiklediğinde tepkimeye dahil olan Element Türlerine bağlı olarak 10 saniyeliğine yakındaki tüm grup üyeleri %20 \u003ccolor=#80FFD7FF\u003eRüzgar Hasarı Bonusu\u003c/color\u003e ve ilgili Element Hasarı Bonusu kazanır.",
+                                                                       "description":  "Varka bir Girdap tepkimesi tetiklediğinde tepkimeye dahil olan Element Türlerine bağlı olarak 10 saniyeliğine yakındaki tüm grup üyeleri %20 Rüzgar Hasarı Bonusu ve ilgili Element Hasarı Bonusu kazanır."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "\"Ey Dost, Kederli Gözyaşları Döktüren Acı Şarabı İçmeyelim\"",
+                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e{LINK#S11282}Rüzgarın İnfazı{/LINK}\u003c/color\u003e Element Becerisinin Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                       "description":  "**Rüzgarın İnfazı** Element Becerisinin Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "\"Despotlar Gelir Geçer, Sen Kadehini Güzel Şarapla Doldur\"",
+                                                                       "descriptionRaw":  "\u003ccolor=#FFD780FF\u003e{LINK#S11285}Kuzey Rüzgarının Tezahürü{/LINK}\u003c/color\u003e Element Patlamasının Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir.",
+                                                                       "description":  "**Kuzey Rüzgarının Tezahürü** Element Patlamasının Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15\u0027tir."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "\"Sevgili Mondstadt, Daima Parlayacaksın Sen\"",
+                                                                       "descriptionRaw":  "{LINK#N11280001}\u003ccolor=#FFD780FF\u003eFırtına Hücumu\u003c/color\u003e{/LINK} güçlendirilir:\n·{LINK#N11280002}\u003ccolor=#FFD780FF\u003eDört Rüzgarın Yükselişi\u003c/color\u003e{/LINK} özel Element Becerisi kullanıldıktan kısa bir süre sonra Varka\u0027nın Element Becerisine Dokunmak veya Normal Saldırısına Basılı Tutmak, Dört Rüzgarın Yükselişi kullanım hakkı harcamaz ve fazladan bir \u003ccolor=#FFD780FF\u003eGök Yutan\u003c/color\u003e özel Yüklü Saldırısı daha gerçekleştirir.\n·\u003ccolor=#FFD780FF\u003eGök Yutan\u003c/color\u003e özel Yüklü Saldırısı gerçekleştirildikten kısa bir süre sonra Varka\u0027nın Element Becerisine dokunmak, Dört Rüzgarın Yükselişi kullanım hakkı harcamaz ve fazladan bir \u003ccolor=#FFD780FF\u003eDört Rüzgarın Yükselişi\u003c/color\u003e daha gerçekleştirir.\nBu şekilde fazladan bir Gök Yutan özel Yüklü Saldırısı veya Dört Rüzgarın Yükselişi özel Element Becerisi tetiklendiğinde, yukarıdaki etki tetiklenemez.\n\nAyrıca \u003ccolor=#FFD780FF\u003e{LINK#P1282201}Rüzgarın Öncüsü{/LINK}\u003c/color\u003e Yükseltme Yeteneğindeki \u003ccolor=#FFD780FF\u003eMavi Dişin Yemini\u003c/color\u003e etkisi güçlendirilir: Her \u003ccolor=#FFD780FF\u003eMavi Dişin Yemini\u003c/color\u003e kademesi Varka\u0027nın Kritik Hasarını %20 artırır.",
+                                                                       "description":  "**Fırtına Hücumu** güçlendirilir:\n·**Dört Rüzgarın Yükselişi** özel Element Becerisi kullanıldıktan kısa bir süre sonra Varka\u0027nın Element Becerisine Dokunmak veya Normal Saldırısına Basılı Tutmak, Dört Rüzgarın Yükselişi kullanım hakkı harcamaz ve fazladan bir Gök Yutan özel Yüklü Saldırısı daha gerçekleştirir.\n·Gök Yutan özel Yüklü Saldırısı gerçekleştirildikten kısa bir süre sonra Varka\u0027nın Element Becerisine dokunmak, Dört Rüzgarın Yükselişi kullanım hakkı harcamaz ve fazladan bir Dört Rüzgarın Yükselişi daha gerçekleştirir.\nBu şekilde fazladan bir Gök Yutan özel Yüklü Saldırısı veya Dört Rüzgarın Yükselişi özel Element Becerisi tetiklendiğinde, yukarıdaki etki tetiklenemez.\n\nAyrıca **Rüzgarın Öncüsü** Yükseltme Yeteneğindeki Mavi Dişin Yemini etkisi güçlendirilir: Her Mavi Dişin Yemini kademesi Varka\u0027nın Kritik Hasarını %20 artırır."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "\"Gel Dostum, Ayın Yumuşak Parıltısında Dans Edelim\"",
+                                                                       "descriptionRaw":  "Varka {LINK#N11280001}\u003ccolor=#FFD780FF\u003eFırtına Hücumuna\u003c/color\u003e{/LINK} geçtiğinde özel Element Becerisi {LINK#N11280002}\u003ccolor=#FFD780FF\u003eDört Rüzgarın Yükselişi\u003c/color\u003e{/LINK} için ek bir kullanım hakkı elde eder.\nAyrıca \u003ccolor=#FFD780FF\u003eFırtına Hücumuna\u003c/color\u003e geçtikten sonra Varka, \u003ccolor=#FFD780FF\u003eLirik Ziyafet\u003c/color\u003e etkisini kazanır: \u003ccolor=#FFD780FF\u003eDört Rüzgarın Yükselişi\u003c/color\u003e özel Element Becerisi veya \u003ccolor=#FFD780FF\u003eGök Yutan\u003c/color\u003e özel Yüklü Saldırısı kullanıldığında, bu etkiyi tüketerek \u003ccolor=#FFD780FF\u003eDört Rüzgarın Yükselişi\u003c/color\u003e veya \u003ccolor=#FFD780FF\u003eGök Yutan\u003c/color\u003e tarafından verilen orijinal Hasarın %200\u0027ü kadar Hasar verebilir.",
+                                                                       "description":  "Varka **Fırtına Hücumuna** geçtiğinde özel Element Becerisi **Dört Rüzgarın Yükselişi** için ek bir kullanım hakkı elde eder.\nAyrıca Fırtına Hücumuna geçtikten sonra Varka, Lirik Ziyafet etkisini kazanır: Dört Rüzgarın Yükselişi özel Element Becerisi veya Gök Yutan özel Yüklü Saldırısı kullanıldığında, bu etkiyi tüketerek Dört Rüzgarın Yükselişi veya Gök Yutan tarafından verilen orijinal Hasarın %200\u0027ü kadar Hasar verebilir."
+                                                                   }
+                                                        },
+                                     "elementText":  "Rüzgar",
+                                     "fullname":  null,
+                                     "weaponText":  "Çift Elli Kılıç",
+                                     "name":  "Varka",
+                                     "substatText":  "Kritik Hasar",
+                                     "region":  "Mondstadt",
+                                     "gender":  "erkek"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -8989,14 +9036,14 @@
                                                           ]
                                            },
                                     "r2":  {
-                                               "description":  "Saldırıyı %25 artırır. Grup üyeleri Kristalleşme veya Ay Kristalleşmesi tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı %22,5 artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir.",
+                                               "description":  "Saldırıyı %25 artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde veya Ay Kristalleşmesi tepkimeleri tetiklediğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı %22,5 artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir.",
                                                "values":  [
                                                               "%25",
                                                               "%22,5"
                                                           ]
                                            },
                                     "r4":  {
-                                               "description":  "Saldırıyı %35 artırır. Grup üyeleri Kristalleşme veya Ay Kristalleşmesi tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı %31,5 artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir.",
+                                               "description":  "Saldırıyı %35 artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde veya Ay Kristalleşmesi tepkimeleri tetiklediğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı %31,5 artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir.",
                                                "values":  [
                                                               "%35",
                                                               "%31,5"
@@ -9844,6 +9891,48 @@
                                                  },
                                           "effectName":  "Kutsal Kiraz Ağacının Kagura Dansı"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar %11,5 artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını %11,5 artırır.",
+                                                           "values":  [
+                                                                          "%11,5",
+                                                                          "%11,5"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar %15,5 artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını %15,5 artırır.",
+                                                           "values":  [
+                                                                          "%15,5",
+                                                                          "%15,5"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar %9,5 artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını %9,5 artırır.",
+                                                           "values":  [
+                                                                          "%9,5",
+                                                                          "%9,5"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar %13,5 artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını %13,5 artırır.",
+                                                           "values":  [
+                                                                          "%13,5",
+                                                                          "%13,5"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Kritik Oranı",
+                                                "weaponText":  "Çift Elli Kılıç",
+                                                "name":  "Kudretli Kurdun Destanı",
+                                                "effectTemplateRaw":  "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e artırır.",
+                                                "r1":  {
+                                                           "description":  "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar %7,5 artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını %7,5 artırır.",
+                                                           "values":  [
+                                                                          "%7,5",
+                                                                          "%7,5"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Yılmaz Cesaret"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "Bir düşmana hasar verdikten sonra Kritik Oranı %12 artar. 5 kademeye kadar birikir. Bir Kritik Vuruş yapmak tüm kademeleri tüketir.",
@@ -17778,6 +17867,10 @@
                                         "name":  "Balon Ahtapot",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "Parıltılı Ay Gekosu",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Derin Su Saldırı Mekası",
                                                 "specialname":  null

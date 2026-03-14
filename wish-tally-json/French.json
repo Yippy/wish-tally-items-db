@@ -528,9 +528,9 @@
                       "butter":  {
                                      "name":  "Beurre"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Coque robuste"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Queue coupée prismatique"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Axe de la source secrète"
                                                 },
@@ -726,6 +726,9 @@
                       "amethystlump":  {
                                            "name":  "Morceau d\u0027améthyste"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "Sphère d\u0027ombre éphémère"
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Fragment de lazurite varunada"
                                                    },
@@ -2181,6 +2184,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Élixir sanctifiant"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Coque robuste"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Guide de l\u0027Ordre"
                                        },
@@ -3022,8 +3028,8 @@
                                                                        },
                                                                 "c6":  {
                                                                            "name":  "Nuit lugubre, lune à travers",
-                                                                           "descriptionRaw":  "Lorsqu\u0027un personnage dans un {LINK#N11250002}\u003ccolor=#FFD780FF\u003echamp lunaire\u003c/color\u003e{/LINK} a déclenché une réaction sélène, les DGT CRIT des éléments correspondants au type de réaction augmentent de 80 % pendant 8 s. L\u0027effet d\u0027augmentation des DGT CRIT d\u0027un même type élémentaire ne peut pas être cumulé.\n\nLes DGT de réaction sélène infligés par tous les personnages de l\u0027équipe à proximité bénéficient d\u0027une {LINK#N11190007}\u003ccolor=#FFD780FF\u003eélévation\u003c/color\u003e{/LINK} de 7 %.",
-                                                                           "description":  "Lorsqu\u0027un personnage dans un **champ lunaire** a déclenché une réaction sélène, les DGT CRIT des éléments correspondants au type de réaction augmentent de 80 % pendant 8 s. L\u0027effet d\u0027augmentation des DGT CRIT d\u0027un même type élémentaire ne peut pas être cumulé.\n\nLes DGT de réaction sélène infligés par tous les personnages de l\u0027équipe à proximité bénéficient d\u0027une **élévation** de 7 %."
+                                                                           "descriptionRaw":  "Lorsqu\u0027un personnage dans un {LINK#N11250002}\u003ccolor=#FFD780FF\u003edomaine lunaire\u003c/color\u003e{/LINK} a déclenché une réaction sélène, les DGT CRIT des éléments correspondants au type de réaction infligés par tous les personnages de l\u0027équipe augmentent de 80 % pendant 8 s. L\u0027effet d\u0027augmentation des DGT CRIT d\u0027un même type élémentaire ne peut pas être cumulé.\n\nLes DGT de réaction sélène infligés par tous les personnages de l\u0027équipe à proximité bénéficient d\u0027une {LINK#N11190007}\u003ccolor=#FFD780FF\u003eélévation\u003c/color\u003e{/LINK} de 7 %.",
+                                                                           "description":  "Lorsqu\u0027un personnage dans un **domaine lunaire** a déclenché une réaction sélène, les DGT CRIT des éléments correspondants au type de réaction infligés par tous les personnages de l\u0027équipe augmentent de 80 % pendant 8 s. L\u0027effet d\u0027augmentation des DGT CRIT d\u0027un même type élémentaire ne peut pas être cumulé.\n\nLes DGT de réaction sélène infligés par tous les personnages de l\u0027équipe à proximité bénéficient d\u0027une **élévation** de 7 %."
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Radiance sur les fleurs, au cœur des sommets",
@@ -4373,8 +4379,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "L\u0027esprit passe, puis la forme suit",
-                                                                       "descriptionRaw":  "#Pendant son {LINK#N11260001}\u003ccolor=#FFD780FF\u003edéphasage lunaire\u003c/color\u003e{/LINK}, la séquence de l\u0027attaque normale de Zibai ne se réinitialise pas, et Zibai obtient l\u0027effet \u003ccolor=#FFD780FF\u003eSplendeur lunaire dispersée\u003c/color\u003e lorsque sa \u003ccolor=#FFD780FF\u003efoulée de destrier spirituel\u003c/color\u003e touche un ennemi{NON_BREAK_SPACE}: la prochaine fois qu\u0027elle effectue une attaque normale, le 4e coup inflige des DGT supplémentaires de réaction de Sélénocristallisation d\u0027une valeur équivalant à 250 % des DGT d\u0027origine.",
-                                                                       "description":  "Pendant son **déphasage lunaire**, la séquence de l\u0027attaque normale de Zibai ne se réinitialise pas, et Zibai obtient l\u0027effet Splendeur lunaire dispersée lorsque sa foulée de destrier spirituel touche un ennemi : la prochaine fois qu\u0027elle effectue une attaque normale, le 4e coup inflige des DGT supplémentaires de réaction de Sélénocristallisation d\u0027une valeur équivalant à 250 % des DGT d\u0027origine."
+                                                                       "descriptionRaw":  "#Pendant son {LINK#N11260001}\u003ccolor=#FFD780FF\u003edéphasage lunaire\u003c/color\u003e{/LINK}, la séquence de l\u0027attaque normale de Zibai ne se réinitialise pas, et Zibai obtient l\u0027effet \u003ccolor=#FFD780FF\u003eSplendeur lunaire dispersée\u003c/color\u003e lorsque sa \u003ccolor=#FFD780FF\u003efoulée de destrier spirituel\u003c/color\u003e touche un ennemi{NON_BREAK_SPACE}: la prochaine fois qu\u0027elle effectue une attaque normale, l\u0027attaque supplémentaire du 4e coup inflige des DGT de réaction de Sélénocristallisation d\u0027une valeur équivalant à 250 % des DGT d\u0027origine.",
+                                                                       "description":  "Pendant son **déphasage lunaire**, la séquence de l\u0027attaque normale de Zibai ne se réinitialise pas, et Zibai obtient l\u0027effet Splendeur lunaire dispersée lorsque sa foulée de destrier spirituel touche un ennemi : la prochaine fois qu\u0027elle effectue une attaque normale, l\u0027attaque supplémentaire du 4e coup inflige des DGT de réaction de Sélénocristallisation d\u0027une valeur équivalant à 250 % des DGT d\u0027origine."
                                                                    },
                                                             "c3":  {
                                                                        "name":  "Libre de toute contrainte, et affranchi des liens terrestres",
@@ -6102,8 +6108,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Oriole des nuits terrifiantes",
-                                                                        "descriptionRaw":  "L\u0027effet Serment de ratniki de l\u0027aptitude d\u0027élévation \u003ccolor=#FFD780FF\u003e{LINK#P1272101}« Pacte du forge-torche »{/LINK}\u003c/color\u003e est renforcé : augmente les \u003ccolor=#FFE699FF\u003eDGT Géo\u003c/color\u003e infligés aux ennemis et le taux CRIT de 10 % et les DGT CRIT de 30 %.\n\n\u003ccolor=#FFD780FF\u003eSignelune « Lueur ascendante »\u003c/color\u003e\nLa maîtrise élémentaire des personnages bénéficiant de l\u0027effet Serment de ratniki augmente de 80 pts.\nL\u0027aptitude d\u0027élévation \u003ccolor=#FFD780FF\u003e« Pacte du forge-torche »\u003c/color\u003e doit être déjà débloquée.",
-                                                                        "description":  "L\u0027effet Serment de ratniki de l\u0027aptitude d\u0027élévation **« Pacte du forge-torche »** est renforcé : augmente les DGT Géo infligés aux ennemis et le taux CRIT de 10 % et les DGT CRIT de 30 %.\n\nSignelune « Lueur ascendante »\nLa maîtrise élémentaire des personnages bénéficiant de l\u0027effet Serment de ratniki augmente de 80 pts.\nL\u0027aptitude d\u0027élévation « Pacte du forge-torche » doit être déjà débloquée."
+                                                                        "descriptionRaw":  "L\u0027effet Serment de ratniki de l\u0027aptitude d\u0027élévation \u003ccolor=#FFD780FF\u003e{LINK#P1272101}« Pacte du forge-torche »{/LINK}\u003c/color\u003e est renforcé : augmente le taux CRIT de 10 % et les DGT CRIT de 30 % en infligeant des \u003ccolor=#FFE699FF\u003eDGT Géo\u003c/color\u003e à un ennemi.\n\n\u003ccolor=#FFD780FF\u003eSignelune « Lueur ascendante »\u003c/color\u003e\nLa maîtrise élémentaire des personnages bénéficiant de l\u0027effet Serment de ratniki augmente de 80 pts.\nL\u0027aptitude d\u0027élévation \u003ccolor=#FFD780FF\u003e« Pacte du forge-torche »\u003c/color\u003e doit être déjà débloquée.",
+                                                                        "description":  "L\u0027effet Serment de ratniki de l\u0027aptitude d\u0027élévation **« Pacte du forge-torche »** est renforcé : augmente le taux CRIT de 10 % et les DGT CRIT de 30 % en infligeant des DGT Géo à un ennemi.\n\nSignelune « Lueur ascendante »\nLa maîtrise élémentaire des personnages bénéficiant de l\u0027effet Serment de ratniki augmente de 80 pts.\nL\u0027aptitude d\u0027élévation « Pacte du forge-torche » doit être déjà débloquée."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Sentinelle vigilante",
@@ -6242,6 +6248,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "Femme"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "« Au lever du jour, notre voyage prendra son envol. »",
+                                                                       "descriptionRaw":  "En utilisant la compétence élémentaire spéciale {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAscension des quatre vents\u003c/color\u003e{/LINK} et en effectuant l\u0027attaque chargée spéciale \u003ccolor=#FFD780FF\u003eDévoreur azur\u003c/color\u003e, Varka déclenche une attaque supplémentaire infligeant des \u003ccolor=#80FFD7FF\u003eDGT Anémo de zone\u003c/color\u003e d\u0027une valeur équivalant à 800 % de son ATQ.",
+                                                                       "description":  "En utilisant la compétence élémentaire spéciale **Ascension des quatre vents** et en effectuant l\u0027attaque chargée spéciale Dévoreur azur, Varka déclenche une attaque supplémentaire infligeant des DGT Anémo de zone d\u0027une valeur équivalant à 800 % de son ATQ."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "« Car personne ne peut nous priver de notre liberté de chanter... »",
+                                                                       "descriptionRaw":  "#Lorsque Varka déclenche une réaction de Dispersion, tous les personnages de l\u0027équipe à proximité bénéficient d\u0027un \u003ccolor=#80FFD7FF\u003ebonus de DGT Anémo\u003c/color\u003e et de l\u0027élément correspondant de 20 % pendant 10{NON_BREAK_SPACE}s.",
+                                                                       "description":  "Lorsque Varka déclenche une réaction de Dispersion, tous les personnages de l\u0027équipe à proximité bénéficient d\u0027un bonus de DGT Anémo et de l\u0027élément correspondant de 20 % pendant 10 s."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "« Ô ami, ne bois pas ce vin amer qui fait couler des larmes de douleur. »",
+                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003e{LINK#S11282}Exécution liée au vent{/LINK}\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                       "description":  "Niveau d\u0027aptitude **Exécution liée au vent** +3.\nNiveau max : 15"
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "« Remplis la coupe de bon vin, car les tyrans vont et viennent. »",
+                                                                       "descriptionRaw":  "Niveau d\u0027aptitude \u003ccolor=#FFD780FF\u003e{LINK#S11285}Avatar du vent du nord{/LINK}\u003c/color\u003e +3.\nNiveau max : 15",
+                                                                       "description":  "Niveau d\u0027aptitude **Avatar du vent du nord** +3.\nNiveau max : 15"
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "« Ô Mondstadt bien-aimée, tu brilleras à jamais avec constance. »",
+                                                                       "descriptionRaw":  "#La {LINK#N11280001}\u003ccolor=#FFD780FF\u003echarge de tempête\u003c/color\u003e{/LINK} est renforcée{NON_BREAK_SPACE}:\n· Pendant un court moment après avoir utilisé sa compétence élémentaire spéciale {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAscension des quatre vents\u003c/color\u003e{/LINK}, Varka peut utiliser sa compétence élémentaire avec un appui simple ou son attaque normale avec un appui long pour déclencher une fois supplémentaire une attaque chargée spéciale \u003ccolor=#FFD780FF\u003eDévoreur azur\u003c/color\u003e sans consommer d\u0027utilisation d\u0027Ascension des quatre vents.\n· Pendant un court moment après avoir effectué son attaque chargée spéciale \u003ccolor=#FFD780FF\u003eDévoreur azur\u003c/color\u003e, Varka peut utiliser sa compétence élémentaire avec un appui simple pour déclencher une fois supplémentaire \u003ccolor=#FFD780FF\u003eAscension des quatre vents\u003c/color\u003e sans consommer d\u0027utilisation d\u0027Ascension des quatre vents.\nLorsque vous déclenchez une fois supplémentaire une attaque chargée spéciale Dévoreur azur ou une compétence élémentaire spéciale Ascension des quatre vents de ces manières, les effets mentionnés ci-dessus ne peuvent pas être déclenchés.\n\nDe plus, l\u0027effet du \u003ccolor=#FFD780FF\u003eserment de croc azur\u003c/color\u003e de l\u0027aptitude d\u0027élévation \u003ccolor=#FFD780FF\u003e{LINK#P1282201}Avant-garde du vent{/LINK}\u003c/color\u003e est renforcé : chaque cumul de \u003ccolor=#FFD780FF\u003eserment de croc azur\u003c/color\u003e augmente également les DGT CRIT de Varka de 20 %.",
+                                                                       "description":  "La **charge de tempête** est renforcée :\n· Pendant un court moment après avoir utilisé sa compétence élémentaire spéciale **Ascension des quatre vents**, Varka peut utiliser sa compétence élémentaire avec un appui simple ou son attaque normale avec un appui long pour déclencher une fois supplémentaire une attaque chargée spéciale Dévoreur azur sans consommer d\u0027utilisation d\u0027Ascension des quatre vents.\n· Pendant un court moment après avoir effectué son attaque chargée spéciale Dévoreur azur, Varka peut utiliser sa compétence élémentaire avec un appui simple pour déclencher une fois supplémentaire Ascension des quatre vents sans consommer d\u0027utilisation d\u0027Ascension des quatre vents.\nLorsque vous déclenchez une fois supplémentaire une attaque chargée spéciale Dévoreur azur ou une compétence élémentaire spéciale Ascension des quatre vents de ces manières, les effets mentionnés ci-dessus ne peuvent pas être déclenchés.\n\nDe plus, l\u0027effet du serment de croc azur de l\u0027aptitude d\u0027élévation **Avant-garde du vent** est renforcé : chaque cumul de serment de croc azur augmente également les DGT CRIT de Varka de 20 %."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "« Viens, mon ami, dansons la valse sous la douce lueur de la lune. »",
+                                                                       "descriptionRaw":  "Varka obtient une utilisation supplémentaire de sa compétence élémentaire spéciale {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAscension des quatre vents\u003c/color\u003e{/LINK} lorsqu\u0027il active sa {LINK#N11280001}\u003ccolor=#FFD780FF\u003echarge de tempête\u003c/color\u003e{/LINK}.\nDe plus, Varka obtient l\u0027effet \u003ccolor=#FFD780FF\u003eLibation lyrique\u003c/color\u003e pendant sa \u003ccolor=#FFD780FF\u003echarge de tempête\u003c/color\u003e : cet effet est consommé en utilisant la compétence élémentaire spéciale \u003ccolor=#FFD780FF\u003eAscension des quatre vents\u003c/color\u003e ou en effectuant l\u0027attaque chargée spéciale \u003ccolor=#FFD780FF\u003eDévoreur azur\u003c/color\u003e pour que les DGT d\u0027\u003ccolor=#FFD780FF\u003eAscension des quatre vents\u003c/color\u003e ou de \u003ccolor=#FFD780FF\u003eDévoreur azur\u003c/color\u003e soient d\u0027une valeur équivalant à 200 % des DGT d\u0027origine.",
+                                                                       "description":  "Varka obtient une utilisation supplémentaire de sa compétence élémentaire spéciale **Ascension des quatre vents** lorsqu\u0027il active sa **charge de tempête**.\nDe plus, Varka obtient l\u0027effet Libation lyrique pendant sa charge de tempête : cet effet est consommé en utilisant la compétence élémentaire spéciale Ascension des quatre vents ou en effectuant l\u0027attaque chargée spéciale Dévoreur azur pour que les DGT d\u0027Ascension des quatre vents ou de Dévoreur azur soient d\u0027une valeur équivalant à 200 % des DGT d\u0027origine."
+                                                                   }
+                                                        },
+                                     "elementText":  "Anémo",
+                                     "fullname":  null,
+                                     "weaponText":  "Épée à deux mains",
+                                     "name":  "Varka",
+                                     "substatText":  "DGT CRIT",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Homme"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -9844,6 +9891,48 @@
                                                  },
                                           "effectName":  "Danse Kagura du cerisier sacré"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "Augmente la VIT d\u0027attaque de 10 %. Lorsqu\u0027une attaque normale touche un ennemi, qu\u0027une compétence élémentaire est initiée ou qu\u0027une attaque chargée est déclenchée, le personnage équipé de l\u0027arme obtient respectivement 1/2/2 cumuls d\u0027hymne des quatre vents, augmentant les DGT infligés de 11,5 % pendant 4 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,01 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, chaque cumul d\u0027hymne des quatre vents augmente également les DGT CRIT du personnage équipé de l\u0027arme de 11,5 %.",
+                                                           "values":  [
+                                                                          "11,5 %",
+                                                                          "11,5 %"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Augmente la VIT d\u0027attaque de 10 %. Lorsqu\u0027une attaque normale touche un ennemi, qu\u0027une compétence élémentaire est initiée ou qu\u0027une attaque chargée est déclenchée, le personnage équipé de l\u0027arme obtient respectivement 1/2/2 cumuls d\u0027hymne des quatre vents, augmentant les DGT infligés de 15,5 % pendant 4 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,01 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, chaque cumul d\u0027hymne des quatre vents augmente également les DGT CRIT du personnage équipé de l\u0027arme de 15,5 %.",
+                                                           "values":  [
+                                                                          "15,5 %",
+                                                                          "15,5 %"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Augmente la VIT d\u0027attaque de 10 %. Lorsqu\u0027une attaque normale touche un ennemi, qu\u0027une compétence élémentaire est initiée ou qu\u0027une attaque chargée est déclenchée, le personnage équipé de l\u0027arme obtient respectivement 1/2/2 cumuls d\u0027hymne des quatre vents, augmentant les DGT infligés de 9,5 % pendant 4 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,01 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, chaque cumul d\u0027hymne des quatre vents augmente également les DGT CRIT du personnage équipé de l\u0027arme de 9,5 %.",
+                                                           "values":  [
+                                                                          "9,5 %",
+                                                                          "9,5 %"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Augmente la VIT d\u0027attaque de 10 %. Lorsqu\u0027une attaque normale touche un ennemi, qu\u0027une compétence élémentaire est initiée ou qu\u0027une attaque chargée est déclenchée, le personnage équipé de l\u0027arme obtient respectivement 1/2/2 cumuls d\u0027hymne des quatre vents, augmentant les DGT infligés de 13,5 % pendant 4 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,01 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, chaque cumul d\u0027hymne des quatre vents augmente également les DGT CRIT du personnage équipé de l\u0027arme de 13,5 %.",
+                                                           "values":  [
+                                                                          "13,5 %",
+                                                                          "13,5 %"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Taux CRIT",
+                                                "weaponText":  "Épée à deux mains",
+                                                "name":  "Geste du loup puissant",
+                                                "effectTemplateRaw":  "#Augmente la VIT d\u0027attaque de 10{NON_BREAK_SPACE}%. Lorsqu\u0027une attaque normale touche un ennemi, qu\u0027une compétence élémentaire est initiée ou qu\u0027une attaque chargée est déclenchée, le personnage équipé de l\u0027arme obtient respectivement 1/2/2 cumuls d\u0027hymne des quatre vents, augmentant les DGT infligés de \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e pendant 4 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,01 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, chaque cumul d\u0027hymne des quatre vents augmente également les DGT CRIT du personnage équipé de l\u0027arme de \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                                "r1":  {
+                                                           "description":  "Augmente la VIT d\u0027attaque de 10 %. Lorsqu\u0027une attaque normale touche un ennemi, qu\u0027une compétence élémentaire est initiée ou qu\u0027une attaque chargée est déclenchée, le personnage équipé de l\u0027arme obtient respectivement 1/2/2 cumuls d\u0027hymne des quatre vents, augmentant les DGT infligés de 7,5 % pendant 4 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les 0,01 s.\nDe plus, lorsque l\u0027équipe bénéficie de l\u0027effet Hexerei : Rituel secret, chaque cumul d\u0027hymne des quatre vents augmente également les DGT CRIT du personnage équipé de l\u0027arme de 7,5 %.",
+                                                           "values":  [
+                                                                          "7,5 %",
+                                                                          "7,5 %"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Chevalerie indomptable"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "Augmente le taux CRIT de 12 % à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois maximum et est réinitialisé lors d\u0027un coup CRIT.",
@@ -17783,6 +17872,10 @@
                                         "name":  "Poulpe bouffi",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "Lunigecko radieux",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Mek d\u0027assaut",
                                                 "specialname":  null

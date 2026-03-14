@@ -528,9 +528,9 @@
                       "butter":  {
                                      "name":  "Butter"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Festes Rückgrat"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Prismatischer abgetrennter Schweif"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Geheimquellen-Achse"
                                                 },
@@ -726,6 +726,9 @@
                       "amethystlump":  {
                                            "name":  "Amethyst-Brocken"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "„Schattenschneid-Ballmaschine“"
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Varunada-Lasurit-Bruchstück"
                                                    },
@@ -2181,6 +2184,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Heiliger Frost"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Festes Rückgrat"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Anleitung zur „Ordnung“"
                                        },
@@ -4393,8 +4399,8 @@
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Mit großer Kraft auftauchen, doch in völliger Stille eintreten",
-                                                                       "descriptionRaw":  "#Sammelt nach dem Anwenden der Elementarfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11262}Himmel und Erde in Gestalt{/LINK}\u003c/color\u003e 100 Punkte {LINK#N11260001}\u003ccolor=#FFD780FF\u003eAbschnittswechsel-Glanz\u003c/color\u003e{/LINK} für Zibai an. Erhöht zudem im Modus \u003ccolor=#FFD780FF\u003eWechsel des Mondabschnitts\u003c/color\u003e die max. Anzahl der Nutzungen von \u003ccolor=#FFD780FF\u003eGalopp des Geisterrosses\u003c/color\u003e auf 5.\nErhöht des Weiteren nach jedem Wechseln in den Modus Wechsel des Mondabschnitts bei der ersten Anwendung von Galopp des Geisterrosses den Mond-Kristallisation-Schaden, der durch die 2. Angriffsphase verursacht wird, um 220{NON_BREAK_SPACE}%.",
-                                                                       "description":  "Sammelt nach dem Anwenden der Elementarfähigkeit **Himmel und Erde in Gestalt** 100 Punkte **Abschnittswechsel-Glanz** für Zibai an. Erhöht zudem im Modus Wechsel des Mondabschnitts die max. Anzahl der Nutzungen von Galopp des Geisterrosses auf 5.\nErhöht des Weiteren nach jedem Wechseln in den Modus Wechsel des Mondabschnitts bei der ersten Anwendung von Galopp des Geisterrosses den Mond-Kristallisation-Schaden, der durch die 2. Angriffsphase verursacht wird, um 220 %."
+                                                                       "descriptionRaw":  "#Zibai sammelt nach dem Anwenden der Elementarfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11262}Himmel und Erde in Gestalt{/LINK}\u003c/color\u003e sofort 100 Punkte {LINK#N11260001}\u003ccolor=#FFD780FF\u003eAbschnittswechsel-Glanz\u003c/color\u003e{/LINK} an. Erhöht zudem im Modus \u003ccolor=#FFD780FF\u003eWechsel des Mondabschnitts\u003c/color\u003e die max. Anzahl der Einsatzmöglichkeit von \u003ccolor=#FFD780FF\u003eGalopp des Geisterrosses\u003c/color\u003e auf 5.\nErhöht des Weiteren nach jedem Wechseln in den Modus Wechsel des Mondabschnitts bei der ersten Anwendung von Galopp des Geisterrosses den Mond-Kristallisation-Schaden, der durch die 2. Angriffsphase verursacht wird, um 220{NON_BREAK_SPACE}%.",
+                                                                       "description":  "Zibai sammelt nach dem Anwenden der Elementarfähigkeit **Himmel und Erde in Gestalt** sofort 100 Punkte **Abschnittswechsel-Glanz** an. Erhöht zudem im Modus Wechsel des Mondabschnitts die max. Anzahl der Einsatzmöglichkeit von Galopp des Geisterrosses auf 5.\nErhöht des Weiteren nach jedem Wechseln in den Modus Wechsel des Mondabschnitts bei der ersten Anwendung von Galopp des Geisterrosses den Mond-Kristallisation-Schaden, der durch die 2. Angriffsphase verursacht wird, um 220 %."
                                                                    }
                                                         },
                                      "elementText":  "Geo",
@@ -6102,7 +6108,7 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Albtraum-Pirol",
-                                                                        "descriptionRaw":  "#Verstärkt den Effekt „Schwur der Lichthüter“ des Aufstiegstalents \u003ccolor=#FFD780FF\u003e{LINK#P1272101}Pakt der Fackelmacher{/LINK}\u003c/color\u003e: Erhöht die KT von Gegnern zugefügtem \u003ccolor=#FFE699FF\u003eGeo-SCH\u003c/color\u003e um 10{NON_BREAK_SPACE}% und den KSCH des den Gegnern zugefügten Geo-SCH um 30{NON_BREAK_SPACE}%.\n\n\u003ccolor=#FFD780FF\u003eMondomen – Reifer Glanz\u003c/color\u003e \nErhöht die Elementarkunde von Figuren, die vom Effekt „Schwur der Lichthüter“ beeinflusst sind, um 80 Punkte.\nDas Aufstiegstalent \u003ccolor=#FFD780FF\u003ePakt der Fackelmacher\u003c/color\u003e muss zuerst freigeschaltet werden.",
+                                                                        "descriptionRaw":  "#Verstärkt den Effekt „Schwur der Lichthüter“ des Aufstiegstalents \u003ccolor=#FFD780FF\u003e{LINK#P1272101}Pakt der Fackelmacher{/LINK}\u003c/color\u003e: Erhöht die KT von Gegnern zugefügtem \u003ccolor=#FFE699FF\u003eGeo-SCH\u003c/color\u003e um 10{NON_BREAK_SPACE}% und den KSCH des den Gegnern zugefügten \u003ccolor=#FFE699FF\u003eGeo-SCH\u003c/color\u003e um 30{NON_BREAK_SPACE}%.\n\n\u003ccolor=#FFD780FF\u003eMondomen – Reifer Glanz\u003c/color\u003e \nErhöht die Elementarkunde von Figuren, die vom Effekt „Schwur der Lichthüter“ beeinflusst sind, um 80 Punkte.\nDas Aufstiegstalent \u003ccolor=#FFD780FF\u003ePakt der Fackelmacher\u003c/color\u003e muss zuerst freigeschaltet werden.",
                                                                         "description":  "Verstärkt den Effekt „Schwur der Lichthüter“ des Aufstiegstalents **Pakt der Fackelmacher**: Erhöht die KT von Gegnern zugefügtem Geo-SCH um 10 % und den KSCH des den Gegnern zugefügten Geo-SCH um 30 %.\n\nMondomen – Reifer Glanz \nErhöht die Elementarkunde von Figuren, die vom Effekt „Schwur der Lichthüter“ beeinflusst sind, um 80 Punkte.\nDas Aufstiegstalent Pakt der Fackelmacher muss zuerst freigeschaltet werden."
                                                                     },
                                                              "c1":  {
@@ -6242,6 +6248,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "Weiblich"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "„Wenn der Morgen anbricht, machen wir uns auf den Weg“",
+                                                                       "descriptionRaw":  "#Führt, wenn Varka seine besondere Elementarfähigkeit {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAufkommen der vier Winde\u003c/color\u003e{/LINK} oder den besonderen heftigen Schlag \u003ccolor=#FFD780FF\u003eAzurbiss\u003c/color\u003e ausführt, einen zusätzlichen Angriff aus, der \u003ccolor=#80FFD7FF\u003eAnemo-Flächenschaden\u003c/color\u003e in Höhe von 800{NON_BREAK_SPACE}% des ANG verursacht.",
+                                                                       "description":  "Führt, wenn Varka seine besondere Elementarfähigkeit **Aufkommen der vier Winde** oder den besonderen heftigen Schlag Azurbiss ausführt, einen zusätzlichen Angriff aus, der Anemo-Flächenschaden in Höhe von 800 % des ANG verursacht."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "„Denn niemand kann uns die Freiheit nehmen zu singen“",
+                                                                       "descriptionRaw":  "#Verleiht allen Truppenmitgliedern in der Nähe, wenn Varka eine Verwirbelung auslöst, basierend auf dem Elementartyp der Reaktion, 10{NON_BREAK_SPACE}s lang jeweils einen \u003ccolor=#80FFD7FF\u003eAnemo-SCH-Bonus\u003c/color\u003e und einen SCH-Bonus des entsprechenden Elements von 20{NON_BREAK_SPACE}%.",
+                                                                       "description":  "Verleiht allen Truppenmitgliedern in der Nähe, wenn Varka eine Verwirbelung auslöst, basierend auf dem Elementartyp der Reaktion, 10 s lang jeweils einen Anemo-SCH-Bonus und einen SCH-Bonus des entsprechenden Elements von 20 %."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "„Freund, trinke nicht mehr den bitteren Wein, der Tränen fließen lässt“",
+                                                                       "descriptionRaw":  "Erhöht die Stufe der Elementarfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11282}Abflauender Sturm{/LINK}\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                       "description":  "Erhöht die Stufe der Elementarfähigkeit **Abflauender Sturm** um 3.\nHöchststufe 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "„Füllt die Becher mit edlem Wein, Tyrannen kommen und gehen“",
+                                                                       "descriptionRaw":  "Erhöht die Stufe der Spezialfähigkeit \u003ccolor=#FFD780FF\u003e{LINK#S11285}Ich bin der Nordwind{/LINK}\u003c/color\u003e um 3.\nHöchststufe 15.",
+                                                                       "description":  "Erhöht die Stufe der Spezialfähigkeit **Ich bin der Nordwind** um 3.\nHöchststufe 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "„Mein geliebtes Mondstadt, so standhaft wie eh und je“",
+                                                                       "descriptionRaw":  "#Verstärkt den Modus {LINK#N11280001}\u003ccolor=#FFD780FF\u003eAnsturm der Winde\u003c/color\u003e{/LINK}:\n· Ermöglicht Varka kurz nach der Ausführung der besonderen Elementarfähigkeit {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAufkommen der vier Winde\u003c/color\u003e{/LINK} durch Drücken der Elementarfähigkeit oder Gedrückthalten des Standardangriffs zusätzlich 1-mal den besonderen heftigen Schlag \u003ccolor=#FFD780FF\u003eAzurbiss\u003c/color\u003e auszuführen, ohne die Anwendungsmöglichkeit von Aufkommen der vier Winde zu verbrauchen.\n· Ermöglicht Varka kurz nach der Ausführung des besonderen heftigen Schlags \u003ccolor=#FFD780FF\u003eAzurbiss\u003c/color\u003e durch Drücken der Elementarfähigkeit zusätzlich 1-mal \u003ccolor=#FFD780FF\u003eAufkommen der vier Winde\u003c/color\u003e auszuführen, ohne die Anwendungsmöglichkeit von Aufkommen der vier Winde zu verbrauchen.\nWird auf die oben beschriebenen Weisen ein zusätzlicher besonderer heftiger Schlag Azurbiss ausgeführt oder eine zusätzliche besondere Elementarfähigkeit Aufkommen der vier Winde eingesetzt, können die oben genannten Effekte nicht ausgelöst werden.\n\nVerstärkt zudem den Effekt \u003ccolor=#FFD780FF\u003eSchwur des blauen Reißzahns\u003c/color\u003e des Aufstiegstalents \u003ccolor=#FFD780FF\u003e{LINK#P1282201}Vorhut des Windbanners{/LINK}\u003c/color\u003e: Erhöht Varkas KSCH pro Stapelung \u003ccolor=#FFD780FF\u003eSchwur des blauen Reißzahns\u003c/color\u003e um 20{NON_BREAK_SPACE}%.",
+                                                                       "description":  "Verstärkt den Modus **Ansturm der Winde**:\n· Ermöglicht Varka kurz nach der Ausführung der besonderen Elementarfähigkeit **Aufkommen der vier Winde** durch Drücken der Elementarfähigkeit oder Gedrückthalten des Standardangriffs zusätzlich 1-mal den besonderen heftigen Schlag Azurbiss auszuführen, ohne die Anwendungsmöglichkeit von Aufkommen der vier Winde zu verbrauchen.\n· Ermöglicht Varka kurz nach der Ausführung des besonderen heftigen Schlags Azurbiss durch Drücken der Elementarfähigkeit zusätzlich 1-mal Aufkommen der vier Winde auszuführen, ohne die Anwendungsmöglichkeit von Aufkommen der vier Winde zu verbrauchen.\nWird auf die oben beschriebenen Weisen ein zusätzlicher besonderer heftiger Schlag Azurbiss ausgeführt oder eine zusätzliche besondere Elementarfähigkeit Aufkommen der vier Winde eingesetzt, können die oben genannten Effekte nicht ausgelöst werden.\n\nVerstärkt zudem den Effekt Schwur des blauen Reißzahns des Aufstiegstalents **Vorhut des Windbanners**: Erhöht Varkas KSCH pro Stapelung Schwur des blauen Reißzahns um 20 %."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "„Komm, Freund, lass uns im Mondlicht einen Walzer tanzen“",
+                                                                       "descriptionRaw":  "#Verleiht Varka, wenn er in den Modus {LINK#N11280001}\u003ccolor=#FFD780FF\u003eAnsturm der Winde\u003c/color\u003e{/LINK} wechselt, eine zusätzliche Anwendungsmöglichkeit der besonderen Elementarfähigkeit {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAufkommen der vier Winde\u003c/color\u003e{/LINK}.\nVerleiht Varka nach dem Wechsel in den Modus \u003ccolor=#FFD780FF\u003eAnsturm der Winde\u003c/color\u003e zudem den Effekt \u003ccolor=#FFD780FF\u003eEdler Tropfen im Lied\u003c/color\u003e: Verbraucht diesen Effekt beim Anwenden der besonderen Elementarfähigkeit \u003ccolor=#FFD780FF\u003eAufkommen der vier Winde\u003c/color\u003e oder des besonderen heftigen Schlags \u003ccolor=#FFD780FF\u003eAzurbiss\u003c/color\u003e und lässt \u003ccolor=#FFD780FF\u003eAufkommen der vier Winde\u003c/color\u003e oder \u003ccolor=#FFD780FF\u003eAzurbiss\u003c/color\u003e 200{NON_BREAK_SPACE}% des ursprünglichen Schadens verursachen.",
+                                                                       "description":  "Verleiht Varka, wenn er in den Modus **Ansturm der Winde** wechselt, eine zusätzliche Anwendungsmöglichkeit der besonderen Elementarfähigkeit **Aufkommen der vier Winde**.\nVerleiht Varka nach dem Wechsel in den Modus Ansturm der Winde zudem den Effekt Edler Tropfen im Lied: Verbraucht diesen Effekt beim Anwenden der besonderen Elementarfähigkeit Aufkommen der vier Winde oder des besonderen heftigen Schlags Azurbiss und lässt Aufkommen der vier Winde oder Azurbiss 200 % des ursprünglichen Schadens verursachen."
+                                                                   }
+                                                        },
+                                     "elementText":  "Anemo",
+                                     "fullname":  null,
+                                     "weaponText":  "Zweihänder",
+                                     "name":  "Varka",
+                                     "substatText":  "KSCH",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Männlich"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -9147,7 +9194,7 @@
                                                                        ]
                                                         },
                                                  "r5":  {
-                                                            "description":  "Erhöht die max. LP um 18 %. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion anwendet oder Gegnern damit Schaden zufügt, 18 Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12 s lang anhält: Erhöht die max. LP weiter um 22 % und den KSCH durch Mondleuchten-Reaktionen um 140 %. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18 s und kann auch ausgelöst werden, wenn der Träger inaktiv ist.",
+                                                            "description":  "Erhöht die max. LP um 18 %. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion auslöst oder Gegnern damit Schaden zufügt, 18 Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12 s lang anhält: Erhöht die max. LP weiter um 22 % und den KSCH durch Mondleuchten-Reaktionen um 140 %. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18 s und kann auch ausgelöst werden, wenn der Träger inaktiv ist.",
                                                             "values":  [
                                                                            "18{NON_BREAK_SPACE}%",
                                                                            "18",
@@ -9176,7 +9223,7 @@
                                                  "substatText":  "KSCH",
                                                  "weaponText":  "Katalysator",
                                                  "name":  "Nachtmusik im Schleier",
-                                                 "effectTemplateRaw":  "#Erhöht die max. LP um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion anwendet oder Gegnern damit Schaden zufügt, \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12{NON_BREAK_SPACE}s lang anhält: Erhöht die max. LP weiter um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e und den KSCH durch Mondleuchten-Reaktionen um \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18{NON_BREAK_SPACE}s und kann auch ausgelöst werden, wenn der Träger inaktiv ist.",
+                                                 "effectTemplateRaw":  "#Erhöht die max. LP um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion auslöst oder Gegnern damit Schaden zufügt, \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12{NON_BREAK_SPACE}s lang anhält: Erhöht die max. LP weiter um \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e und den KSCH durch Mondleuchten-Reaktionen um \u003ccolor=#99FFFFFF\u003e{3}\u003c/color\u003e. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18{NON_BREAK_SPACE}s und kann auch ausgelöst werden, wenn der Träger inaktiv ist.",
                                                  "r1":  {
                                                             "description":  "Erhöht die max. LP um 10 %. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion auslöst oder Gegnern damit Schaden zufügt, 14 Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12 s lang anhält: Erhöht die max. LP weiter um 14 % und den KSCH durch Mondleuchten-Reaktionen um 60 %. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18 s und kann auch ausgelöst werden, wenn der Träger inaktiv ist.",
                                                             "values":  [
@@ -9844,6 +9891,48 @@
                                                  },
                                           "effectName":  "Kagura-Tanz der heiligen Sakura"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "Erhöht die Angriffs-GSW um 10 %. Verleiht dem Träger beim Treffen eines Gegners mit einem Standardangriff / Anwenden einer Elementarfähigkeit / Starten eines heftigen Schlags jeweils 1/2/2 Stapelungen „Gedichte der vier Winde“: Erhöht den verursachten Schaden 4 s lang um 11,5 %, 4-fach stapelbar, 0,01 s Abklingzeit.\nErhöht für jede Stapelung von „Gedichte der vier Winde“ zudem den KSCH des Trägers um 11,5 %, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt.",
+                                                           "values":  [
+                                                                          "11,5{NON_BREAK_SPACE}%",
+                                                                          "11,5{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Erhöht die Angriffs-GSW um 10 %. Verleiht dem Träger beim Treffen eines Gegners mit einem Standardangriff / Anwenden einer Elementarfähigkeit / Starten eines heftigen Schlags jeweils 1/2/2 Stapelungen „Gedichte der vier Winde“: Erhöht den verursachten Schaden 4 s lang um 15,5 %, 4-fach stapelbar, 0,01 s Abklingzeit.\nErhöht für jede Stapelung von „Gedichte der vier Winde“ zudem den KSCH des Trägers um 15,5 %, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt.",
+                                                           "values":  [
+                                                                          "15,5{NON_BREAK_SPACE}%",
+                                                                          "15,5{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Erhöht die Angriffs-GSW um 10 %. Verleiht dem Träger beim Treffen eines Gegners mit einem Standardangriff / Anwenden einer Elementarfähigkeit / Starten eines heftigen Schlags jeweils 1/2/2 Stapelungen „Gedichte der vier Winde“: Erhöht den verursachten Schaden 4 s lang um 9,5 %, 4-fach stapelbar, 0,01 s Abklingzeit.\nErhöht für jede Stapelung von „Gedichte der vier Winde“ zudem den KSCH des Trägers um 9,5 %, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt.",
+                                                           "values":  [
+                                                                          "9,5{NON_BREAK_SPACE}%",
+                                                                          "9,5{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Erhöht die Angriffs-GSW um 10 %. Verleiht dem Träger beim Treffen eines Gegners mit einem Standardangriff / Anwenden einer Elementarfähigkeit / Starten eines heftigen Schlags jeweils 1/2/2 Stapelungen „Gedichte der vier Winde“: Erhöht den verursachten Schaden 4 s lang um 13,5 %, 4-fach stapelbar, 0,01 s Abklingzeit.\nErhöht für jede Stapelung von „Gedichte der vier Winde“ zudem den KSCH des Trägers um 13,5 %, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt.",
+                                                           "values":  [
+                                                                          "13,5{NON_BREAK_SPACE}%",
+                                                                          "13,5{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "KT",
+                                                "weaponText":  "Zweihänder",
+                                                "name":  "Kampflied des Wolfs",
+                                                "effectTemplateRaw":  "#Erhöht die Angriffs-GSW um 10{NON_BREAK_SPACE}%. Verleiht dem Träger beim Treffen eines Gegners mit einem Standardangriff / Anwenden einer Elementarfähigkeit / Starten eines heftigen Schlags jeweils 1/2/2 Stapelungen „Gedichte der vier Winde“: Erhöht den verursachten Schaden 4{NON_BREAK_SPACE}s lang um \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e, 4-fach stapelbar, 0,01{NON_BREAK_SPACE}s Abklingzeit.\nErhöht für jede Stapelung von „Gedichte der vier Winde“ zudem den KSCH des Trägers um \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt.",
+                                                "r1":  {
+                                                           "description":  "Erhöht die Angriffs-GSW um 10 %. Verleiht dem Träger beim Treffen eines Gegners mit einem Standardangriff / Anwenden einer Elementarfähigkeit / Starten eines heftigen Schlags jeweils 1/2/2 Stapelungen „Gedichte der vier Winde“: Erhöht den verursachten Schaden 4 s lang um 7,5 %, 4-fach stapelbar, 0,01 s Abklingzeit.\nErhöht für jede Stapelung von „Gedichte der vier Winde“ zudem den KSCH des Trägers um 7,5 %, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt.",
+                                                           "values":  [
+                                                                          "7,5{NON_BREAK_SPACE}%",
+                                                                          "7,5{NON_BREAK_SPACE}%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Unbeugsames Rittertum"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "Erhöht die KT beim Verursachen von Schaden um 12 %, 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT.",
@@ -17783,6 +17872,10 @@
                                         "name":  "Poingpoing-Oktopus",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "Glimmermondgecko",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Mecha – Typ: Tiefwasserangriff",
                                                 "specialname":  null

@@ -528,9 +528,9 @@
                       "butter":  {
                                      "name":  "Manteiga"
                                  },
-                      "sturdyshell":  {
-                                          "name":  "Casco Duro"
-                                      },
+                      "prismaticseveredtail":  {
+                                                   "name":  "Cauda Partida Prismática"
+                                               },
                       "axisofthesecretsource":  {
                                                     "name":  "Eixo da Fonte Secreta"
                                                 },
@@ -726,6 +726,9 @@
                       "amethystlump":  {
                                            "name":  "Pedaço de Ametista"
                                        },
+                      "sphereoffleetingshadow":  {
+                                                     "name":  "Esfera da Sombra Passageira"
+                                                 },
                       "varunadalazuritefragment":  {
                                                        "name":  "Fragmento de Lazurita Varunada"
                                                    },
@@ -2181,6 +2184,9 @@
                       "sanctifyingelixir":  {
                                                 "name":  "Elixir Santificador"
                                             },
+                      "sturdyshell":  {
+                                          "name":  "Casco Duro"
+                                      },
                       "guidetoorder":  {
                                            "name":  "Guia da Ordem"
                                        },
@@ -3012,8 +3018,8 @@
                                                                        },
                                                                 "c3":  {
                                                                            "name":  "Brilho Onírico Sobre Águas Tranquilas",
-                                                                           "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11252}Maré Eterna{/LINK}\u003c/color\u003e em 3.\nNível máximo de elvação é 15.\n\nDano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}\u003ccolor=#FFD780FF\u003eElevado\u003c/color\u003e{/LINK} em 1.5%.",
-                                                                           "description":  "Aumenta o nível da Habilidade Elemental **Maré Eterna** em 3.\nNível máximo de elvação é 15.\n\nDano de Reações Lunares de todos os membros próximos da equipe é **Elevado** em 1.5%."
+                                                                           "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11252}Maré Eterna{/LINK}\u003c/color\u003e em 3.\nNível máximo de elevação é 15.\n\nDano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}\u003ccolor=#FFD780FF\u003eElevado\u003c/color\u003e{/LINK} em 1.5%.",
+                                                                           "description":  "Aumenta o nível da Habilidade Elemental **Maré Eterna** em 3.\nNível máximo de elevação é 15.\n\nDano de Reações Lunares de todos os membros próximos da equipe é **Elevado** em 1.5%."
                                                                        },
                                                                 "c5":  {
                                                                            "name":  "Silêncio de uma Canção Solitária",
@@ -3022,8 +3028,8 @@
                                                                        },
                                                                 "c6":  {
                                                                            "name":  "Atravessando a Escuridão com o Luar",
-                                                                           "descriptionRaw":  "Nos 8s após todos os personagens causarem uma Reação Lunar dentro de um {LINK#N11250002}\u003ccolor=#FFD780FF\u003eDomínio Lunar\u003c/color\u003e{/LINK}, aumenta o Dano CRIT do Tipo Elemental correspondente de todos os membros da equipe de acordo com o Tipo Elemental participante em 80%. Aumentos de Dano CRIT de Tipos Elementais idênticos não acumularão.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}\u003ccolor=#FFD780FF\u003eElevado\u003c/color\u003e{/LINK} em 7%.",
-                                                                           "description":  "Nos 8s após todos os personagens causarem uma Reação Lunar dentro de um **Domínio Lunar**, aumenta o Dano CRIT do Tipo Elemental correspondente de todos os membros da equipe de acordo com o Tipo Elemental participante em 80%. Aumentos de Dano CRIT de Tipos Elementais idênticos não acumularão.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é **Elevado** em 7%."
+                                                                           "descriptionRaw":  "Nos 8s após os personagens causarem uma Reação Lunar dentro de um {LINK#N11250002}\u003ccolor=#FFD780FF\u003eDomínio Lunar\u003c/color\u003e{/LINK}, aumenta o Dano CRIT do Tipo Elemental correspondente de todos os membros da equipe de acordo com o Tipo Elemental participante em 80%. Aumentos de Dano CRIT de Tipos Elementais idênticos não acumularão.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}\u003ccolor=#FFD780FF\u003eElevado\u003c/color\u003e{/LINK} em 7%.",
+                                                                           "description":  "Nos 8s após os personagens causarem uma Reação Lunar dentro de um **Domínio Lunar**, aumenta o Dano CRIT do Tipo Elemental correspondente de todos os membros da equipe de acordo com o Tipo Elemental participante em 80%. Aumentos de Dano CRIT de Tipos Elementais idênticos não acumularão.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é **Elevado** em 7%."
                                                                        },
                                                                 "c1":  {
                                                                            "name":  "Resplendor Sobre Flores e Picos",
@@ -4373,8 +4379,8 @@
                                                                    },
                                                             "c4":  {
                                                                        "name":  "O Espírito Passa, a Forma Segue",
-                                                                       "descriptionRaw":  "Quando está no modo {LINK#N11260001}\u003ccolor=#FFD780FF\u003eConversão de Fase Lunar\u003c/color\u003e{/LINK}, o combo de Ataque Normal de Zibai não é redefinido, e quando \u003ccolor=#FFD780FF\u003ePassos do Alazão Espiritual\u003c/color\u003e atinge um inimigo, Zibai obtém o efeito \u003ccolor=#FFD780FF\u003eDissipação Lunar\u003c/color\u003e: o 4º golpe do próximo Ataque Normal realize um ataque adicional e causa 250% do Dano original de Cristalização Lunar.",
-                                                                       "description":  "Quando está no modo **Conversão de Fase Lunar**, o combo de Ataque Normal de Zibai não é redefinido, e quando Passos do Alazão Espiritual atinge um inimigo, Zibai obtém o efeito Dissipação Lunar: o 4º golpe do próximo Ataque Normal realize um ataque adicional e causa 250% do Dano original de Cristalização Lunar."
+                                                                       "descriptionRaw":  "Quando está no modo {LINK#N11260001}\u003ccolor=#FFD780FF\u003eConversão de Fase Lunar\u003c/color\u003e{/LINK}, o combo de Ataque Normal de Zibai não é redefinido, e quando \u003ccolor=#FFD780FF\u003ePassos do Alazão Espiritual\u003c/color\u003e atinge um inimigo, Zibai obtém o efeito \u003ccolor=#FFD780FF\u003eDissipação Lunar\u003c/color\u003e: o 4º golpe do próximo Ataque Normal realiza um ataque adicional e causa 250% do Dano original de Cristalização Lunar.",
+                                                                       "description":  "Quando está no modo **Conversão de Fase Lunar**, o combo de Ataque Normal de Zibai não é redefinido, e quando Passos do Alazão Espiritual atinge um inimigo, Zibai obtém o efeito Dissipação Lunar: o 4º golpe do próximo Ataque Normal realiza um ataque adicional e causa 250% do Dano original de Cristalização Lunar."
                                                                    },
                                                             "c3":  {
                                                                        "name":  "Livre das Restrições do Mundo Mortal",
@@ -4393,8 +4399,8 @@
                                                                    },
                                                             "c1":  {
                                                                        "name":  "Avance Vigorosa e Silenciosamente",
-                                                                       "descriptionRaw":  "Depois de lançar a Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11262}Céu e Terra Manifestados{/LINK}\u003c/color\u003e, Zibai acumula 100 de {LINK#N11260001}\u003ccolor=#FFD780FF\u003eRadiância da Conversão\u003c/color\u003e{/LINK} e o número máximo de usos de \u003ccolor=#FFD780FF\u003eConversão de Fase Lunar\u003c/color\u003e é aumentado para 5.\nAlém disso, cada vez que trocar para o modo Conversão de Fase Lunar, aumenta o Dano de Cristalização Lunar do 2º Ataque da primeira vez que lançar \u003ccolor=#FFD780FF\u003ePassos do Alazão Espiritual\u003c/color\u003e em 220%.",
-                                                                       "description":  "Depois de lançar a Habilidade Elemental **Céu e Terra Manifestados**, Zibai acumula 100 de **Radiância da Conversão** e o número máximo de usos de Conversão de Fase Lunar é aumentado para 5.\nAlém disso, cada vez que trocar para o modo Conversão de Fase Lunar, aumenta o Dano de Cristalização Lunar do 2º Ataque da primeira vez que lançar Passos do Alazão Espiritual em 220%."
+                                                                       "descriptionRaw":  "Depois de lançar a Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11262}Céu e Terra Manifestados{/LINK}\u003c/color\u003e, Zibai acumula 100 de {LINK#N11260001}\u003ccolor=#FFD780FF\u003eRadiância da Conversão\u003c/color\u003e{/LINK} e o número máximo de usos de \u003ccolor=#FFD780FF\u003ePassos do Alazão Espiritual\u003c/color\u003e de \u003ccolor=#FFD780FF\u003eConversão de Fase Lunar\u003c/color\u003e é aumentado para 5.\nAlém disso, cada vez que trocar para o modo Conversão de Fase Lunar, aumenta o Dano de Cristalização Lunar do 2º Ataque da primeira vez que lançar \u003ccolor=#FFD780FF\u003ePassos do Alazão Espiritual\u003c/color\u003e em 220%.",
+                                                                       "description":  "Depois de lançar a Habilidade Elemental **Céu e Terra Manifestados**, Zibai acumula 100 de **Radiância da Conversão** e o número máximo de usos de Passos do Alazão Espiritual de Conversão de Fase Lunar é aumentado para 5.\nAlém disso, cada vez que trocar para o modo Conversão de Fase Lunar, aumenta o Dano de Cristalização Lunar do 2º Ataque da primeira vez que lançar Passos do Alazão Espiritual em 220%."
                                                                    }
                                                         },
                                      "elementText":  "Geo",
@@ -5078,8 +5084,8 @@
                                                                     },
                                                              "c6":  {
                                                                         "name":  "Poeira da Purificação",
-                                                                        "descriptionRaw":  "Membros ativos da equipe que estiverem dentro do campo de Radiação Solar e forem protegidos por um escudo criado pela Cristalização, ou quando houver uma Jaula Lunar dentro da área de Radiação Solar, tem seu Dano aumentado em 17%.",
-                                                                        "description":  "Membros ativos da equipe que estiverem dentro do campo de Radiação Solar e forem protegidos por um escudo criado pela Cristalização, ou quando houver uma Jaula Lunar dentro da área de Radiação Solar, tem seu Dano aumentado em 17%."
+                                                                        "descriptionRaw":  "Membros ativos da equipe que estiverem dentro do campo de Radiação Solar e forem protegidos por um escudo criado pela Cristalização, ou quando houver uma Jaula Lunar dentro da área de Radiação Solar, têm seu Dano aumentado em 17%.",
+                                                                        "description":  "Membros ativos da equipe que estiverem dentro do campo de Radiação Solar e forem protegidos por um escudo criado pela Cristalização, ou quando houver uma Jaula Lunar dentro da área de Radiação Solar, têm seu Dano aumentado em 17%."
                                                                     },
                                                              "c1":  {
                                                                         "name":  "Flor de Éden",
@@ -6242,6 +6248,47 @@
                                       "region":  "Fontaine",
                                       "gender":  "Feminino"
                                   },
+                       "varka":  {
+                                     "constellations":  {
+                                                            "c2":  {
+                                                                       "name":  "\"Quando a alvorada rompe, nossa jornada começa.\"",
+                                                                       "descriptionRaw":  "Ao lançar a Habilidade Elemental especial {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAscensão dos Quatro Ventos\u003c/color\u003e{/LINK}, ou ao realizar o Ataque Carregado especial \u003ccolor=#FFD780FF\u003eDevoração Cerúlea\u003c/color\u003e, Varka faz um ataque adicional causando 800% do ATQ como \u003ccolor=#80FFD7FF\u003eDano Anemo em AdE\u003c/color\u003e.",
+                                                                       "description":  "Ao lançar a Habilidade Elemental especial **Ascensão dos Quatro Ventos**, ou ao realizar o Ataque Carregado especial Devoração Cerúlea, Varka faz um ataque adicional causando 800% do ATQ como Dano Anemo em AdE."
+                                                                   },
+                                                            "c4":  {
+                                                                       "name":  "\"Que ninguém tome a liberdade de nossa canção.\"",
+                                                                       "descriptionRaw":  "Quando Varka desencadear Redemoinho, faz com que todos os membros próximos da equipe obtenham 20% de \u003ccolor=#80FFD7FF\u003ebônus de Dano Anemo\u003c/color\u003e e o bônus de Dano Elemental correspondente participante da reação por 10s.",
+                                                                       "description":  "Quando Varka desencadear Redemoinho, faz com que todos os membros próximos da equipe obtenham 20% de bônus de Dano Anemo e o bônus de Dano Elemental correspondente participante da reação por 10s."
+                                                                   },
+                                                            "c3":  {
+                                                                       "name":  "\"Ó, amigo, não beba o vinho amargo que lhe faz chorar.\"",
+                                                                       "descriptionRaw":  "Aumenta o nível da Habilidade Elemental \u003ccolor=#FFD780FF\u003e{LINK#S11282}Execução Zéfira{/LINK}\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                       "description":  "Aumenta o nível da Habilidade Elemental **Execução Zéfira** em 3.\nO nível máximo de elevação é 15."
+                                                                   },
+                                                            "c5":  {
+                                                                       "name":  "\"Encha a taça com vinho, assim os tiranos vêm e vão.\"",
+                                                                       "descriptionRaw":  "Aumenta o nível do Supremo \u003ccolor=#FFD780FF\u003e{LINK#S11285}Avatar do Vento do Norte{/LINK}\u003c/color\u003e em 3.\nO nível máximo de elevação é 15.",
+                                                                       "description":  "Aumenta o nível do Supremo **Avatar do Vento do Norte** em 3.\nO nível máximo de elevação é 15."
+                                                                   },
+                                                            "c6":  {
+                                                                       "name":  "\"Amada Mondstadt, determinada você brilha.\"",
+                                                                       "descriptionRaw":  "O modo {LINK#N11280001}\u003ccolor=#FFD780FF\u003eInvestida Furacão\u003c/color\u003e{/LINK} é fortalecido:\n· Por um curto período de tempo após lançar a Habilidade Elemental especial {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAscensão dos Quatro Ventos\u003c/color\u003e{/LINK}, Varka pode pressionar a Habilidade Elemental ou manter pressionado seu Ataque Normal para fazer um Ataque Carregado especial adicional \u003ccolor=#FFD780FF\u003eDevoração Cerúlea\u003c/color\u003e sem consumir Usos de Ascensão dos Quatro Ventos.\n· Por um tempo após realizar o Ataque Carregado \u003ccolor=#FFD780FF\u003eDevoração Cerúlea\u003c/color\u003e, Varka pode pressionar a Habilidade Elemental para lançar uma \u003ccolor=#FFD780FF\u003eAscensão dos Quatro Ventos\u003c/color\u003e adicional que não consome Usos de Ascensão dos Quatro Ventos.\nNão é possível desencadear o efeito acima ao lançar o Ataque Carregado especial adicional Devoração Cerúlea ou o lançamento adicional da Habilidade Elemental Ascensão dos Quatro Ventos através dessas formas.\n\nAlém disso, o efeito \u003ccolor=#FFD780FF\u003eJuramento da Presa Cerúlea\u003c/color\u003e do Talento de Ascensão \u003ccolor=#FFD780FF\u003e{LINK#P1282201}Vanguarda do Vento{/LINK}\u003c/color\u003e é fortalecido: cada acúmulo de \u003ccolor=#FFD780FF\u003eJuramento da Presa Cerúlea\u003c/color\u003e aumenta o Dano CRIT de Varka em 20%.",
+                                                                       "description":  "O modo **Investida Furacão** é fortalecido:\n· Por um curto período de tempo após lançar a Habilidade Elemental especial **Ascensão dos Quatro Ventos**, Varka pode pressionar a Habilidade Elemental ou manter pressionado seu Ataque Normal para fazer um Ataque Carregado especial adicional Devoração Cerúlea sem consumir Usos de Ascensão dos Quatro Ventos.\n· Por um tempo após realizar o Ataque Carregado Devoração Cerúlea, Varka pode pressionar a Habilidade Elemental para lançar uma Ascensão dos Quatro Ventos adicional que não consome Usos de Ascensão dos Quatro Ventos.\nNão é possível desencadear o efeito acima ao lançar o Ataque Carregado especial adicional Devoração Cerúlea ou o lançamento adicional da Habilidade Elemental Ascensão dos Quatro Ventos através dessas formas.\n\nAlém disso, o efeito Juramento da Presa Cerúlea do Talento de Ascensão **Vanguarda do Vento** é fortalecido: cada acúmulo de Juramento da Presa Cerúlea aumenta o Dano CRIT de Varka em 20%."
+                                                                   },
+                                                            "c1":  {
+                                                                       "name":  "\"Venha, meu amigo, vamos dançar sob o leve luar.\"",
+                                                                       "descriptionRaw":  "Quando Varka troca para o modo {LINK#N11280001}\u003ccolor=#FFD780FF\u003eInvestida Furacão\u003c/color\u003e{/LINK}, obtém 1 Uso adicional da Habilidade Elemental especial {LINK#N11280002}\u003ccolor=#FFD780FF\u003eAscensão dos Quatro Ventos\u003c/color\u003e{/LINK}.\nAlém disso, ao trocar para o modo \u003ccolor=#FFD780FF\u003eInvestida Furacão\u003c/color\u003e, Varka obtém o efeito \u003ccolor=#FFD780FF\u003eVinho da Canção\u003c/color\u003e: ao lançar a Habilidade Elemental especial \u003ccolor=#FFD780FF\u003eAscensão dos Quatro Ventos\u003c/color\u003e, ou ao realizar o Ataque Carregado especial \u003ccolor=#FFD780FF\u003eDevoração Cerúlea\u003c/color\u003e, consome esse efeito para causar 200% de Dano original de \u003ccolor=#FFD780FF\u003eAscensão dos Quatro Ventos\u003c/color\u003e ou de \u003ccolor=#FFD780FF\u003eDevoração Cerúlea\u003c/color\u003e.",
+                                                                       "description":  "Quando Varka troca para o modo **Investida Furacão**, obtém 1 Uso adicional da Habilidade Elemental especial **Ascensão dos Quatro Ventos**.\nAlém disso, ao trocar para o modo Investida Furacão, Varka obtém o efeito Vinho da Canção: ao lançar a Habilidade Elemental especial Ascensão dos Quatro Ventos, ou ao realizar o Ataque Carregado especial Devoração Cerúlea, consome esse efeito para causar 200% de Dano original de Ascensão dos Quatro Ventos ou de Devoração Cerúlea."
+                                                                   }
+                                                        },
+                                     "elementText":  "Anemo",
+                                     "fullname":  null,
+                                     "weaponText":  "Espadão",
+                                     "name":  "Varka",
+                                     "substatText":  "Dano Crítico",
+                                     "region":  "Mondstadt",
+                                     "gender":  "Masculino"
+                                 },
                        "klee":  {
                                     "constellations":  {
                                                            "c2":  {
@@ -7538,8 +7585,8 @@
                                                                   },
                                                            "c1":  {
                                                                       "name":  "Profecia da Submersão",
-                                                                      "descriptionRaw":  "Nos 8s após o personagem da equipe atingir um inimigo afetado por Presságio, aumenta os efeitos \u003ccolor=#80C0FFFF\u003erelacionados ao Hydro\u003c/color\u003e:\n· Dano Eletricamente Carregado é aumentado em 15%. Dano Carga Lunar é aumentado em 15%. Dano de Vaporizar é aumentado em 15%. Dano de Redemoinho é aumentado em 15%. O Dano de Cristalização Lunar é aumentado em 15%.\n· A duração em que os inimigos ficam Congelados é aumentada em 15%.",
-                                                                      "description":  "Nos 8s após o personagem da equipe atingir um inimigo afetado por Presságio, aumenta os efeitos relacionados ao Hydro:\n· Dano Eletricamente Carregado é aumentado em 15%. Dano Carga Lunar é aumentado em 15%. Dano de Vaporizar é aumentado em 15%. Dano de Redemoinho é aumentado em 15%. O Dano de Cristalização Lunar é aumentado em 15%.\n· A duração em que os inimigos ficam Congelados é aumentada em 15%."
+                                                                      "descriptionRaw":  "Nos 8s após o personagem da equipe atingir um inimigo afetado por Presságio, aumenta os efeitos \u003ccolor=#80C0FFFF\u003erelacionados ao Hydro\u003c/color\u003e:\n· Dano Eletricamente Carregado é aumentado em 15%. Dano Carga Lunar é aumentado em 15%. Dano de Vaporizar é aumentado em 15%. Dano de Redemoinho Hydro é aumentado em 15%. Dano de Cristalização Lunar é aumentado em 15%.\n· A duração em que os inimigos ficam Congelados é aumentada em 15%.",
+                                                                      "description":  "Nos 8s após o personagem da equipe atingir um inimigo afetado por Presságio, aumenta os efeitos relacionados ao Hydro:\n· Dano Eletricamente Carregado é aumentado em 15%. Dano Carga Lunar é aumentado em 15%. Dano de Vaporizar é aumentado em 15%. Dano de Redemoinho Hydro é aumentado em 15%. Dano de Cristalização Lunar é aumentado em 15%.\n· A duração em que os inimigos ficam Congelados é aumentada em 15%."
                                                                   }
                                                        },
                                     "elementText":  "Hydro",
@@ -9844,6 +9891,48 @@
                                                  },
                                           "effectName":  "Dança Kagura da Sakura Sagrada"
                                       },
+                    "gestofthemightywolf":  {
+                                                "r3":  {
+                                                           "description":  "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em 11.5% por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em 11.5%.",
+                                                           "values":  [
+                                                                          "11.5%",
+                                                                          "11.5%"
+                                                                      ]
+                                                       },
+                                                "r5":  {
+                                                           "description":  "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em 15.5% por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em 15.5%.",
+                                                           "values":  [
+                                                                          "15.5%",
+                                                                          "15.5%"
+                                                                      ]
+                                                       },
+                                                "r2":  {
+                                                           "description":  "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em 9.5% por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em 9.5%.",
+                                                           "values":  [
+                                                                          "9.5%",
+                                                                          "9.5%"
+                                                                      ]
+                                                       },
+                                                "r4":  {
+                                                           "description":  "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em 13.5% por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em 13.5%.",
+                                                           "values":  [
+                                                                          "13.5%",
+                                                                          "13.5%"
+                                                                      ]
+                                                       },
+                                                "substatText":  "Taxa Crítica",
+                                                "weaponText":  "Espadão",
+                                                "name":  "Balada do Poderoso Lobo",
+                                                "effectTemplateRaw":  "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e.",
+                                                "r1":  {
+                                                           "description":  "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em 7.5% por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em 7.5%.",
+                                                           "values":  [
+                                                                          "7.5%",
+                                                                          "7.5%"
+                                                                      ]
+                                                       },
+                                                "effectName":  "Cavalheirismo Indominável"
+                                            },
                     "royalgreatsword":  {
                                             "r3":  {
                                                        "description":  "Ao atingir um oponente, aumenta a Taxa Crítica em 12%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
@@ -14803,7 +14892,7 @@
                                   },
                     "bloodsoakedruins":  {
                                              "r3":  {
-                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 60%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em 42% por 6s, e regenera 14 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
+                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 60%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em 42% por 6s, e regenera 14 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
                                                         "values":  [
                                                                        "60%",
                                                                        "42%",
@@ -14811,7 +14900,7 @@
                                                                    ]
                                                     },
                                              "r5":  {
-                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 84%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em 56% por 6s, e regenera 16 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
+                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 84%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em 56% por 6s, e regenera 16 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
                                                         "values":  [
                                                                        "84%",
                                                                        "56%",
@@ -14819,7 +14908,7 @@
                                                                    ]
                                                     },
                                              "r2":  {
-                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 48%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em 35% por 6s, e regenera 13 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
+                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 48%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em 35% por 6s, e regenera 13 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
                                                         "values":  [
                                                                        "48%",
                                                                        "35%",
@@ -14827,7 +14916,7 @@
                                                                    ]
                                                     },
                                              "r4":  {
-                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 72%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em 49% por 6s, e regenera 15 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
+                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 72%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em 49% por 6s, e regenera 15 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
                                                         "values":  [
                                                                        "72%",
                                                                        "49%",
@@ -14837,9 +14926,9 @@
                                              "substatText":  "Taxa Crítica",
                                              "weaponText":  "Lança",
                                              "name":  "Ruínas Ensanguentadas",
-                                             "effectTemplateRaw":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e por 6s, e regenera \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
+                                             "effectTemplateRaw":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em \u003ccolor=#99FFFFFF\u003e{0}\u003c/color\u003e. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em \u003ccolor=#99FFFFFF\u003e{1}\u003c/color\u003e por 6s, e regenera \u003ccolor=#99FFFFFF\u003e{2}\u003c/color\u003e de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
                                              "r1":  {
-                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 36%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em 28% por 6s, e regenera 12 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
+                                                        "description":  "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em 36%. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em 28% por 6s, e regenera 12 de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s.",
                                                         "values":  [
                                                                        "36%",
                                                                        "28%",
@@ -17783,6 +17872,10 @@
                                         "name":  "Polvo de Bola",
                                         "specialname":  null
                                     },
+                    "radiantmoongecko":  {
+                                             "name":  "Lagartixa Radiante",
+                                             "specialname":  null
+                                         },
                     "deepwaterassaultmek":  {
                                                 "name":  "Mecautômato de Assalto Submarino",
                                                 "specialname":  null
